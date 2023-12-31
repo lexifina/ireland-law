@@ -30,7 +30,7 @@ Availability of documents relating to planning applications.
 
 (4) Copies of documents under this section shall be available for purchase on payment of a specified fee not exceeding the reasonable cost of making such a copy.
 
-(5) At the end of the period for the availability of documents referred to in subsection (2), a planning authority shall retain at least one original copy of each of those documents in a local archive in accordance with section 65 of the Local Government Act, 1994 .
+(5) At the end of the period for the availability of documents referred to in subsection (2), a planning authority shall retain at least one original copy of each of those documents in a local archive in accordance with section 65 of the Local Government Act, 1994.
 
 (6) The Minister may prescribe additional requirements in relation to the availability for inspection by members of the public of documents relating to planning applications.
 

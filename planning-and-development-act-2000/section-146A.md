@@ -2,7 +2,7 @@
 
 Amendments of permissions, etc. of clerical or technical nature.
 
-146A.— (1) Subject to subsection (2)—
+146A.—(1) Subject to subsection (2)—
 
 (a) a planning authority or the Board, as may be appropriate, may amend a planning permission granted by it, or
 

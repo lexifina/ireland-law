@@ -1,6 +1,6 @@
 Discussions with Board before making of application.
 
-37B.— (1) A person who proposes to apply for permission for any development specified in the Seventh Schedule shall, before making the application, enter into consultations with the Board in relation to the proposed development.
+37B.—(1) A person who proposes to apply for permission for any development specified in the Seventh Schedule shall, before making the application, enter into consultations with the Board in relation to the proposed development.
 
 (2) Such a person is referred to subsequently in this section and in sections 37C and 37D as a "prospective applicant".
 

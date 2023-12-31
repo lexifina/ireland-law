@@ -2,7 +2,7 @@
 
 Restrictions on development by certain local authorities.
 
-178. (1) The council of a county shall not effect any development in its functional area which contravenes materially the development plan.
+178.—(1) The council of a county shall not effect any development in its functional area which contravenes materially the development plan.
 
 (2) The council of a city shall not effect any development in the city which contravenes materially the development plan.
 

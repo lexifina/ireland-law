@@ -1,6 +1,6 @@
 European site that hosts priority habitat type or species.
 
-177AC.— (1) (a) Where the Minister receives a statement of case under section 177AA(1) relating to a European site that hosts a priority habitat type or priority species he or she shall as soon as possible consider whether the compensatory measures are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
+177AC.—(1) (a) Where the Minister receives a statement of case under section 177AA(1) relating to a European site that hosts a priority habitat type or priority species he or she shall as soon as possible consider whether the compensatory measures are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
 
 (b) In considering under paragraph (a) whether the compensatory measures specified in the statement of case are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister may enter into consultations with the competent authority, who having consulted with the applicant for consent for the proposed development, may submit to the Minister a modified proposal for the development, modified proposed conditions to be attached to the proposed development, or modified or alternative proposed compensatory measures.
 
@@ -18,9 +18,7 @@ European site that hosts priority habitat type or species.
 
 (b) after having considered modified or alternative proposed compensatory measures (if any) submitted under subsection (1)(b), form an opinion as to whether the compensatory measures, or modified or alternative proposed compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
 
-(4) Where the Minister forms the opinion that the imperative reasons of overriding public interest comprise only a reason or reasons set out in section 177AA(4)(a) to
-
-(c) and that the compensatory measures, or the modified or alternative proposed compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister shall issue a notice to this effect to the competent authority and the competent authority may decide to grant consent for the proposed development, with or without conditions.
+(4) Where the Minister forms the opinion that the imperative reasons of overriding public interest comprise only a reason or reasons set out in section 177AA(4)(a) to (c) and that the compensatory measures, or the modified or alternative proposed compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister shall issue a notice to this effect to the competent authority and the competent authority may decide to grant consent for the proposed development, with or without conditions.
 
 (5) Where—
 

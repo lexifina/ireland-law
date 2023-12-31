@@ -1,6 +1,6 @@
 Screening for appropriate assessment.
 
-177U.— (1) A screening for appropriate assessment of a draft Land use plan or application for consent for proposed development shall be carried out by the competent authority to assess, in view of best scientific knowledge, if that Land use plan or proposed development, individually or in combination with another plan or project is likely to have a significant effect on the European site.
+177U.—(1) A screening for appropriate assessment of a draft Land use plan or application for consent for proposed development shall be carried out by the competent authority to assess, in view of best scientific knowledge, if that Land use plan or proposed development, individually or in combination with another plan or project is likely to have a significant effect on the European site.
 
 (2) A competent authority shall carry out a screening for appropriate assessment under subsection (1) before—
 

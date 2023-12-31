@@ -1,6 +1,6 @@
 Remedial Natura impact statement.
 
-177G.— (1) A remedial Natura impact statement shall contain the following:
+177G.—(1) A remedial Natura impact statement shall contain the following:
 
 (a) a statement of the significant effects, if any, on the relevant European site which have occurred or which are occurring or which can reasonably be expected to occur because the development the subject of the application for substitute consent was carried out;
 

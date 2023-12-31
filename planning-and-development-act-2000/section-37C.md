@@ -1,6 +1,6 @@
 Section 37B: supplemental provisions.
 
-37C.— (1) A prospective applicant shall, for the purposes of consultations under section 37B, supply to the Board sufficient information in relation to the proposed development so as to enable the Board to assess the proposed development.
+37C.—(1) A prospective applicant shall, for the purposes of consultations under section 37B, supply to the Board sufficient information in relation to the proposed development so as to enable the Board to assess the proposed development.
 
 (2) The holding of consultations under section 37B shall not prejudice the performance by the Board of any other of its functions under this Act or regulations under this Act and cannot be relied upon in the formal planning process or in legal proceedings.
 

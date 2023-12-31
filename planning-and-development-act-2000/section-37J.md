@@ -1,6 +1,6 @@
 Objective of the Board in relation to applications under section 37E.
 
-37J.— (1) It shall be the duty of the Board, having regard to the special importance of applications relating to development that may fall within section 37A(2), to ensure that—
+37J.—(1) It shall be the duty of the Board, having regard to the special importance of applications relating to development that may fall within section 37A(2), to ensure that—
 
 (a) consultations held on foot of a request under section 37B are completed, and
 

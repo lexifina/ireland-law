@@ -1,6 +1,6 @@
 Modification to operation of section 42 of Act of 2000 having regard to Covid-19.
 
-42B. During the period beginning on the date on which section 7 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023, section 42 shall be construed and have effect—
+42B.—During the period beginning on the date on which section 7 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023, section 42 shall be construed and have effect—
 
 (a) as if the following subsection were inserted after subsection (1A):
 

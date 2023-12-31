@@ -1,6 +1,6 @@
 Revocation of planning scheme.
 
-171. (1) A planning authority may by resolution, with the consent of the relevant development agency, revoke a planning scheme made under this Part.
+171.—(1) A planning authority may by resolution, with the consent of the relevant development agency, revoke a planning scheme made under this Part.
 
 (2) Notice of the revocation of a planning scheme under this section shall be given in at least one newspaper circulating in the area of the planning authority.
 

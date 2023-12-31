@@ -1,6 +1,6 @@
 Supplementary provisions relating to proposed development at Dublin Airport.
 
-34B. (1)(a)(i) Where the planning authority receives an application under section 34 for development at the airport, it shall, as soon as is practicable after such receipt—
+34B.—(1)(a)(i) Where the planning authority receives an application under section 34 for development at the airport, it shall, as soon as is practicable after such receipt—
 
 (I) give a copy of the application to the competent authority, and
 

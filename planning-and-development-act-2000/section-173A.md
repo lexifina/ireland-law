@@ -1,6 +1,6 @@
 Environmental impact assessment and integrated pollution prevention and control licences.
 
-173A. (1) In this section—
+173A.—(1) In this section—
 
 “Act of 1992” means the Environmental Protection Agency Act 1992;
 

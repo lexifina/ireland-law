@@ -1,6 +1,6 @@
 Draft Land use plans and imperative reasons of overriding public interest.
 
-177W.— (1) Where, notwithstanding a determination by a competent authority that a draft Land use plan or part thereof will adversely affect the integrity of a European site, and in the absence of alternative solutions, a competent authority considers that a land use plan should nevertheless be made for imperative reasons of overriding public interest, the authority shall—
+177W.—(1) Where, notwithstanding a determination by a competent authority that a draft Land use plan or part thereof will adversely affect the integrity of a European site, and in the absence of alternative solutions, a competent authority considers that a land use plan should nevertheless be made for imperative reasons of overriding public interest, the authority shall—
 
 (a) set out the imperative reasons of overriding public interest that necessitate the making of the Land use plan,
 

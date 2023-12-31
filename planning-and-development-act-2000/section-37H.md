@@ -1,6 +1,6 @@
 Section 37G: supplemental provisions.
 
-37H.— (1) The Board shall send a copy of a decision under section 37G to the applicant, to any planning authority in whose area the development would be situated and to any person who made submissions or observations on the application for permission.
+37H.—(1) The Board shall send a copy of a decision under section 37G to the applicant, to any planning authority in whose area the development would be situated and to any person who made submissions or observations on the application for permission.
 
 (1A) (a) The Board shall cause to be published as soon as may be in one or more newspapers circulated in the area a notice informing the public of a decision under section 37G.
 

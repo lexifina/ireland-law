@@ -1,6 +1,6 @@
 European site that does not host priority habitat type or species.
 
-177AB.— (1) (a) Where the Minister receives a statement of case under section 177AA(1) relating to a European site that does not host a priority habitat type or priority species, he or she shall as soon as possible consider whether the compensatory measures are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
+177AB.—(1) (a) Where the Minister receives a statement of case under section 177AA(1) relating to a European site that does not host a priority habitat type or priority species, he or she shall as soon as possible consider whether the compensatory measures are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
 
 (b) In considering under paragraph (a) whether the compensatory measures specified in the statement of case are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister may enter into consultations with the competent authority, who having consulted with the applicant for consent for the proposed development, may submit to the Minister a modified proposal for the development, modified proposed conditions to be attached to the proposed development or modified or alternative proposed compensatory measures.
 

@@ -1,6 +1,6 @@
 EIA Portal.
 
-172A. The Minister shall provide, operate and maintain a website—
+172A.—The Minister shall provide, operate and maintain a website—
 
 (a) to which the public has access,
 

@@ -1,6 +1,6 @@
 Amendment of planning scheme.
 
-170A. (1) A planning authority may, on its own behalf where it is promoting a planning scheme, or on behalf of a development agency which is promoting a planning scheme, make an application to the Board to request an amendment under this section to a planning scheme.
+170A.—(1) A planning authority may, on its own behalf where it is promoting a planning scheme, or on behalf of a development agency which is promoting a planning scheme, make an application to the Board to request an amendment under this section to a planning scheme.
 
 (2) Where an application under subsection (1) has been made, the Board shall make a decision, in a manner provided for by this section, as to whether the making of the amendment to which the request relates would constitute the making of a material change to the planning scheme.
 

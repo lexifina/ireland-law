@@ -1,6 +1,6 @@
 Costs in environmental matters.
 
-50B.— (1) This section applies to proceedings of the following kinds:
+50B.—(1) This section applies to proceedings of the following kinds:
 
 (a) proceedings in the High Court by way of judicial review, or of seeking leave to apply for judicial review, of—
 

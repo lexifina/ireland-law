@@ -1,6 +1,6 @@
 Provision of information by applicants to EIA portal.
 
-172B. (1) Subject to subsection (2), an applicant for consent for proposed development shall, within the period of 2 weeks before—
+172B.—(1) Subject to subsection (2), an applicant for consent for proposed development shall, within the period of 2 weeks before—
 
 (a) the making of an application for such consent which is to be accompanied by an environmental impact assessment report, or
 

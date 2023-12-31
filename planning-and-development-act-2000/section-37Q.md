@@ -1,6 +1,6 @@
 Objective of the Board in relation to applications under section 37L
 
-37Q. (1) It shall be the duty of the Board to ensure that a decision under section 37N on an application made under section 37L is made as expeditiously as is consistent with proper planning and sustainable development and, for that purpose, to take all such steps as are open to it to ensure that, in so far as is practicable, there are no avoidable delays at any stage in the making of that decision.
+37Q.—(1) It shall be the duty of the Board to ensure that a decision under section 37N on an application made under section 37L is made as expeditiously as is consistent with proper planning and sustainable development and, for that purpose, to take all such steps as are open to it to ensure that, in so far as is practicable, there are no avoidable delays at any stage in the making of that decision.
 
 (2) Without prejudice to the generality of subsection (1) and subject to subsections (3) to (5), it shall be the objective of the Board to ensure that a decision under section 37N on an application made under section 37L is made within a period of 18 weeks beginning on the later of—
 

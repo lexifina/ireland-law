@@ -1,6 +1,6 @@
 Supplementary provisions relating to operating restriction included in planning permission.
 
-34C. (1) (a) The person in whose favour a relevant permission operates may, by virtue of this subsection and notwithstanding any other provision of this Act (including section 34), make an application under section 34 to the planning authority where the application is only for a relevant action to be taken.
+34C.—(1) (a) The person in whose favour a relevant permission operates may, by virtue of this subsection and notwithstanding any other provision of this Act (including section 34), make an application under section 34 to the planning authority where the application is only for a relevant action to be taken.
 
 (b) Section 34 and the other provisions of this Act shall be read with all necessary modifications to take account of the relevant application.
 

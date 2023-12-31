@@ -1,6 +1,6 @@
 Power to extend appropriate period.
 
-42.— (1) On application to it in that behalf, but subject to subsection (8), a planning authority shall, as regards a particular permission, extend the appropriate period by such additional period not exceeding 5 years as the authority considers requisite to enable the development to which the permission relates to be completed provided that each of the following requirements is complied with:
+42.—(1) On application to it in that behalf, but subject to subsection (8), a planning authority shall, as regards a particular permission, extend the appropriate period by such additional period not exceeding 5 years as the authority considers requisite to enable the development to which the permission relates to be completed provided that each of the following requirements is complied with:
 
 (a) (i) the authority is satisfied that—
 

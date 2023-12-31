@@ -1,6 +1,6 @@
 Board to have regard to certain policies and objectives.
 
-143.— (1) The Board shall, in the performance of its functions (other than functions conferred by Chapter III of Part XXI), have regard to—
+143.—(1) The Board shall, in the performance of its functions (other than functions conferred by Chapter III of Part XXI), have regard to—
 
 (a) the policies and objectives for the time being of the Government, a State authority, the Minister, planning authorities and any other body which is a public authority whose functions have, or may have, a bearing on the proper planning and sustainable development of cities, towns or other areas, whether urban or rural,
 

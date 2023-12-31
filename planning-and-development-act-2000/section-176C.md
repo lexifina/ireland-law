@@ -1,6 +1,6 @@
 Review of screening determination for environmental impact assessment and referral of application for screening for environmental impact assessment.
 
-176C. (1) Where a screening determination for environmental impact assessment is made by a planning authority under section 176B, any person to whom subsection (4) or (5) of that section relates may, within 3 weeks of the issuing of the determination and on payment to the Board of the appropriate fee, refer the determination for review (in this section referred to as a "determination review") by the Board.
+176C.—(1) Where a screening determination for environmental impact assessment is made by a planning authority under section 176B, any person to whom subsection (4) or (5) of that section relates may, within 3 weeks of the issuing of the determination and on payment to the Board of the appropriate fee, refer the determination for review (in this section referred to as a "determination review") by the Board.
 
 (2) Without prejudice to section 176B, where an application was made under section 176A and no screening determination for environmental impact assessment has been issued by a planning authority within the appropriate period of time provided for by section 176B(2), then—
 

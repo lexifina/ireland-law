@@ -1,6 +1,6 @@
 Appropriate assessment.
 
-177V.— (1) An appropriate assessment carried out under this Part shall include a determination by the competent authority under Article 6.3 of the Habitats Directive as to whether or not a draft Land use plan or proposed development would adversely affect the integrity of a European site and an appropriate assessment shall be carried out by the competent authority, in each case where it has made a determination under section 177U(4) that an appropriate assessment is required, before—
+177V.—(1) An appropriate assessment carried out under this Part shall include a determination by the competent authority under Article 6.3 of the Habitats Directive as to whether or not a draft Land use plan or proposed development would adversely affect the integrity of a European site and an appropriate assessment shall be carried out by the competent authority, in each case where it has made a determination under section 177U(4) that an appropriate assessment is required, before—
 
 (a) the draft Land use plan is made including, where appropriate, before a decision on appeal in relation to a draft strategic development zone is made, or
 

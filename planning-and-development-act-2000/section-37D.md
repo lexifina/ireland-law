@@ -1,6 +1,6 @@
 Opinion
 
-37D.— (1) Where a notice has been served under section 37B(4)(a) in relation to proposed development, a prospective applicant may request the Board to give to him or her an opinion in writing prepared by the Board on the scope and level of detail of the information to be included in an environmental impact assessment report in relation to the development.
+37D.—(1) Where a notice has been served under section 37B(4)(a) in relation to proposed development, a prospective applicant may request the Board to give to him or her an opinion in writing prepared by the Board on the scope and level of detail of the information to be included in an environmental impact assessment report in relation to the development.
 
 (2) On receipt of such a request the Board shall—
 

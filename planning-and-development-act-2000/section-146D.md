@@ -1,6 +1,6 @@
 Application of sections 146A to 146C to railway orders.
 
-146D.— Sections 146A to 146C shall apply to a railway order under the Transport (Railway Infrastructure) Act 2001 (whether made before or after the amendment of that Act by the Planning and Development (Strategic Infrastructure) Act 2006) as they apply to a permission, decision or approval referred to in them with the following modifications:
+146D.—Sections 146A to 146C shall apply to a railway order under the Transport (Railway Infrastructure) Act 2001 (whether made before or after the amendment of that Act by the Planning and Development (Strategic Infrastructure) Act 2006) as they apply to a permission, decision or approval referred to in them with the following modifications:
 
 (a) a reference in those sections to the terms of the development shall be construed as a reference to the terms of the railway works, the subject of the railway order;
 

@@ -1,6 +1,6 @@
 Environmental impact assessment and waste licences.
 
-173B. (1) In this section—
+173B.—(1) In this section—
 
 “Act of 1996” means the Waste Management Act 1996;
 

@@ -1,6 +1,6 @@
 Natura impact report and Natura impact statement.
 
-177T.— (1) In this Part—
+177T.—(1) In this Part—
 
 (a) A Natura impact report means a statement for the purposes of Article 6 of the Habitats Directive, of the implications of a Land use plan, on its own or in combination with other plans or projects, for one or more than one European site, in view of the conservation objectives of the site or sites.
 

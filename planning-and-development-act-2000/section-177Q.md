@@ -1,6 +1,6 @@
 Oral hearings of applications for substitute consent.
 
-177Q.— (1) Where the Board considers it necessary or expedient for the purposes of making a determination in respect of an application for substitute consent it may, in its absolute discretion, hold an oral hearing and shall, in addition to any other requirements under this Act or other enactment, as appropriate, consider the report and any recommendations of the person holding the oral hearing before making its determination.
+177Q.—(1) Where the Board considers it necessary or expedient for the purposes of making a determination in respect of an application for substitute consent it may, in its absolute discretion, hold an oral hearing and shall, in addition to any other requirements under this Act or other enactment, as appropriate, consider the report and any recommendations of the person holding the oral hearing before making its determination.
 
 (2) (a) An applicant for substitute consent, a planning authority or a person who makes submissions or observations under section 130 (as modified by section 177P(2)) in relation to the application for substitute consent may request an oral hearing of the application.
 

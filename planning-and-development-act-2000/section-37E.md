@@ -1,6 +1,6 @@
 Application to Board
 
-37E.— (1) An application for permission for development in respect of which a notice has been served under section 37B(4)(a) shall be made to the Board and shall be accompanied by an environmental impact assessment report in respect of the proposed development.
+37E.—(1) An application for permission for development in respect of which a notice has been served under section 37B(4)(a) shall be made to the Board and shall be accompanied by an environmental impact assessment report in respect of the proposed development.
 
 (2) The Board may refuse to deal with any application made to it under this section where it considers that the application for permission or the environmental impact assessment report is inadequate or incomplete, having regard in particular to the permission regulations and any regulations made under section 177 or to any consultations held under section 37B.
 

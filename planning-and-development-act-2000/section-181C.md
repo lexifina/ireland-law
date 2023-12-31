@@ -1,6 +1,6 @@
 Procedures in advance of seeking approval under section 181B.
 
-181C.— (1) A State authority (a "prospective applicant") which proposes to apply for approval under section 181B shall, before making the application, enter into consultations with the Board in relation to the proposed development.
+181C.—(1) A State authority (a "prospective applicant") which proposes to apply for approval under section 181B shall, before making the application, enter into consultations with the Board in relation to the proposed development.
 
 (2) In any consultations under subsection (1), the Board may give advice to the prospective applicant regarding the proposed application and, in particular, regarding—
 

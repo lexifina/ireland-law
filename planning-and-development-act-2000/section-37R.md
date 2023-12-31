@@ -1,6 +1,6 @@
 Supplementary provisions relating to decisions on applications referred to in section 34B(1) or 34C(1) which were not refused by virtue of section 34B(5) or 34C(5)
 
-37R. (1) (a) This section applies in addition to section 37 in the case of an appeal under section 37 against a decision of the planning authority under section 34 where, pursuant to section 34B(15) or 34C(16), that decision incorporates a regulatory decision of the competent authority under section 34B(13)(a) or 34C(14)(a), as the case may be.
+37R.—(1) (a) This section applies in addition to section 37 in the case of an appeal under section 37 against a decision of the planning authority under section 34 where, pursuant to section 34B(15) or 34C(16), that decision incorporates a regulatory decision of the competent authority under section 34B(13)(a) or 34C(14)(a), as the case may be.
 
 (b) The competent authority shall be a party to the appeal notwithstanding section 34B(15)(b) or 34C(16)(b).
 

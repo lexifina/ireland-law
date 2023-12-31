@@ -1,6 +1,6 @@
 Revocation or modification of planning permission for certain reasons.
 
-44A. (1) The Minister may, upon the request of the Minister for Justice and Equality, the Minister for Foreign Affairs and Trade or the Minister for Defence and with the approval of the Government, make an order revoking or modifying a grant of permission under this Act if he or she is satisfied that—
+44A.—(1) The Minister may, upon the request of the Minister for Justice and Equality, the Minister for Foreign Affairs and Trade or the Minister for Defence and with the approval of the Government, make an order revoking or modifying a grant of permission under this Act if he or she is satisfied that—
 
 (a) the carrying out of the development to which the grant of permission relates is likely to be harmful to—
 

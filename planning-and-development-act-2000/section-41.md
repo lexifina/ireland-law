@@ -1,6 +1,6 @@
 Power to vary appropriate period.
 
-41. (1) Without prejudice to the powers conferred on them by this Part and Part XXI to grant a permission to develop land for a limited period only, in deciding to grant a permission under section 34, 37, 37G, 37N or 293, a planning authority or the Board, as may be appropriate, may, having regard to the nature and extent of the relevant development and any other material consideration, specify the period during which the permission is to have effect, being a period—
+41.—(1) Without prejudice to the powers conferred on them by this Part and Part XXI to grant a permission to develop land for a limited period only, in deciding to grant a permission under section 34, 37, 37G, 37N or 293, a planning authority or the Board, as may be appropriate, may, having regard to the nature and extent of the relevant development and any other material consideration, specify the period during which the permission is to have effect, being a period—
 
 (a) in the case of all development requiring permission, of not less than 2 years, and
 

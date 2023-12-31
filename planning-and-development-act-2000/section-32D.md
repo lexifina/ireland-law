@@ -1,6 +1,6 @@
 LRD Opinion.
 
-32D. (1) The planning authority shall provide an opinion (referred to in this Act as an "LRD opinion") to the prospective LRD applicant, within the period of 4 weeks beginning on the date on which the LRD meeting takes place, as to whether or not the documents submitted for the purposes of the meeting constitute a reasonable basis on which to make an application for permission for the proposed LRD.
+32D.—(1) The planning authority shall provide an opinion (referred to in this Act as an "LRD opinion") to the prospective LRD applicant, within the period of 4 weeks beginning on the date on which the LRD meeting takes place, as to whether or not the documents submitted for the purposes of the meeting constitute a reasonable basis on which to make an application for permission for the proposed LRD.
 
 (2) Where the opinion of the planning authority is that the documents submitted for the purposes of the meeting do not constitute a reasonable basis on which to make an application for permission for the proposed LRD it shall specify in the LRD opinion—
 

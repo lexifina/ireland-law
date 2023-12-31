@@ -1,6 +1,6 @@
 Environmental impact assessment relating to waste water discharges.
 
-173C. (1) Where a planning authority or the Board is considering an application for permission referred to in subparagraph (a) of paragraph (3A) (inserted by subparagraph (b) of Regulation 16 of the Regulations of 2020) of Regulation 16 of the Regulations of 2007, it shall, upon the request in writing of the person who made the application and not later than 3 working days from the date of the request, provide that person with –
+173C.—(1) Where a planning authority or the Board is considering an application for permission referred to in subparagraph (a) of paragraph (3A) (inserted by subparagraph (b) of Regulation 16 of the Regulations of 2020) of Regulation 16 of the Regulations of 2007, it shall, upon the request in writing of the person who made the application and not later than 3 working days from the date of the request, provide that person with —
 
 (a) the confirmation first-mentioned in the said subparagraph (a), and
 
@@ -44,7 +44,7 @@ Environmental impact assessment relating to waste water discharges.
 
 (ii) a certificate or review of a certificate, under the Regulations of 2007 in connection with the application referred to in paragraph (a), shall, when making the application referred to in paragraph (a), inform the planning authority concerned or the Board, as may be appropriate, in writing of his or her having so made the application referred to in paragraph (b) or his or her proposal to make such an application, as the case may be.
 
-(10) In this section –
+(10) In this section —
 
 "permission" means—
 

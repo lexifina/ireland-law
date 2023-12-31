@@ -128,7 +128,7 @@ Consultation and adoption of local area plans.
 
 (5) A planning authority shall send a copy of any local area plan made under this Chapter to any bodies consulted under subsection (1), (2) or (3), the Board and, where appropriate, any prescribed body.
 
-(5) In this section ‘statutory obligations’ includes, in relation to a local authority, the obligation to ensure that the local area plan is consistent with—
+(5) In this section "statutory obligations" includes, in relation to a local authority, the obligation to ensure that the local area plan is consistent with—
 
 (a) the objectives of the development plan,
 

@@ -1,6 +1,6 @@
 Regulations.
 
-177AD.— (1) The Minister may by regulations make provision for such matters of procedure and administration as appear to the Minister to be necessary or expedient for any matter referred to in this Part as prescribed or to be prescribed.
+177AD.—(1) The Minister may by regulations make provision for such matters of procedure and administration as appear to the Minister to be necessary or expedient for any matter referred to in this Part as prescribed or to be prescribed.
 
 (2) Without prejudice to the generality of the forgoing, the Minister may make regulations, for the purpose of this Part, to give effect to a provision of the Treaty on the European Union, or a legislative act adopted by an institution of the European Union, including the Habitats and Birds Directives.
 

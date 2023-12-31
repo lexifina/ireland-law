@@ -1,6 +1,6 @@
 Screening for environmental impact assessment.
 
-176B. (1) A planning authority shall, where appropriate, carry out screening for appropriate assessment in respect of a proposed development as provided for by section 177U(10) at the same time as carrying out a screening for environmental impact assessment in respect of the development under subsection (2).
+176B.—(1) A planning authority shall, where appropriate, carry out screening for appropriate assessment in respect of a proposed development as provided for by section 177U(10) at the same time as carrying out a screening for environmental impact assessment in respect of the development under subsection (2).
 
 (2) Subject to subsections (1) and (2A), a planning authority shall, on foot of an application under subsection (2) of section 176A and to which subsections (6) and (7) of that section do not relate, carry out a screening for environmental impact assessment in respect of the proposed development—
 

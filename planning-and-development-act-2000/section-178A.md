@@ -1,6 +1,6 @@
 Development in maritime area by local authority or State authority
 
-178A. (1) A local authority shall not carry out, or make an agreement with another person for the carrying out, of development in the maritime area, unless—
+178A.—(1) A local authority shall not carry out, or make an agreement with another person for the carrying out, of development in the maritime area, unless—
 
 (a) it is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
 

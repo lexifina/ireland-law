@@ -1,6 +1,6 @@
 Section 50: supplemental provisions.
 
-50A.— (1) In this section—
+50A.—(1) In this section—
 
 "Court", where used without qualification, means the High Court (but this definition shall not be construed as meaning that subsections (2) to (6) and (9) do not extend to and govern the exercise by the Supreme Court of jurisdiction on any appeal that may be made);
 

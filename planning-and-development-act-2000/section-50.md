@@ -1,6 +1,6 @@
 Judicial review of applications,appeals,referrals and other matters.
 
-50.— (1) Where a question of law arises on any matter with which the Board is concerned, the Board may refer the question to the High Court for decision.
+50.—(1) Where a question of law arises on any matter with which the Board is concerned, the Board may refer the question to the High Court for decision.
 
 (2) A person shall not question the validity of any decision made or other act done by—
 

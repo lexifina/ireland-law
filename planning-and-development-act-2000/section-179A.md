@@ -1,6 +1,6 @@
 Local authority own housing development
 
-179A. (1) This section applies to housing development—
+179A.—(1) This section applies to housing development—
 
 (a) that is carried out by, on behalf of, or jointly or in partnership with, a local authority pursuant to a contract entered into by the local authority concerned, whether in its capacity as a planning authority or in any other capacity,
 

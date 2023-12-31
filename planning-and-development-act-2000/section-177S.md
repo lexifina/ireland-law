@@ -1,6 +1,6 @@
 Competent Authority.
 
-177S.— (1) A competent authority, in performing the functions conferred on it by or under this Part, shall take appropriate steps to avoid in a European site the deterioration of natural habitats and the habitats of species as well as the disturbance of the species for which the site has been designated, insofar as such disturbance could be significant in relation to the objectives of the Habitats Directive.
+177S.—(1) A competent authority, in performing the functions conferred on it by or under this Part, shall take appropriate steps to avoid in a European site the deterioration of natural habitats and the habitats of species as well as the disturbance of the species for which the site has been designated, insofar as such disturbance could be significant in relation to the objectives of the Habitats Directive.
 
 (2) Subject to subsection (3), the competent authority in the State for the purposes of this Part and Articles 6 and 7 of the Habitats Directive, shall be—
 

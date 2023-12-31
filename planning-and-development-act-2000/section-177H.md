@@ -1,6 +1,6 @@
 Submissions or observations by person other than the applicant for substitute consent or planning authority.
 
-177H.— (1) Any person (other than the applicant for substitute consent) or a planning authority may make submissions or observations (including submissions or observations as to the existence or absence of exceptional circumstances justifying a grant of substitute consent) to the Board in relation to an application for substitute consent, and any such submissions or observations shall be in writing.
+177H.—(1) Any person (other than the applicant for substitute consent) or a planning authority may make submissions or observations (including submissions or observations as to the existence or absence of exceptional circumstances justifying a grant of substitute consent) to the Board in relation to an application for substitute consent, and any such submissions or observations shall be in writing.
 
 (2) Submissions or observations that are made under this section shall not be considered by the Board if the person who submits them has not complied with any relevant requirements prescribed by regulations under section 177N.
 

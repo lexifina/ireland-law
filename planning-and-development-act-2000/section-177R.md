@@ -2,7 +2,7 @@
 
 Interpretation.
 
-177R.— (1) In this Part—
+177R.—(1) In this Part—
 
 "appropriate assessment" shall be construed in accordance with section 177V;
 

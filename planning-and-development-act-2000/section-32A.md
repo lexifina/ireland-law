@@ -1,6 +1,6 @@
 Person to seek opinion of planning authority prior to application for LRD.
 
-32A. (1) A person who intends to apply for permission under this Part—
+32A.—(1) A person who intends to apply for permission under this Part—
 
 (a) for large-scale residential development,
 

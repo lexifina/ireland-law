@@ -1,6 +1,6 @@
 Section 37E: supplemental provisions.
 
-37F.— (1) Before determining any application for permission under section 37E the Board may, at its absolute discretion and at any time—
+37F.—(1) Before determining any application for permission under section 37E the Board may, at its absolute discretion and at any time—
 
 (a) require the applicant for permission to submit further information, including a revised environmental impact assessment report,
 

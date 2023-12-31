@@ -1,6 +1,6 @@
 Proposed development and imperative reasons of overriding public interest.
 
-177AA.— (1) Where, notwithstanding a determination by a competent authority that a proposed development will adversely affect the integrity of a European site, and in the absence of alternative solutions, a competent authority considers that consent should nevertheless be given for the proposed development for imperative reasons of overriding public interest, the authority shall—
+177AA.—(1) Where, notwithstanding a determination by a competent authority that a proposed development will adversely affect the integrity of a European site, and in the absence of alternative solutions, a competent authority considers that consent should nevertheless be given for the proposed development for imperative reasons of overriding public interest, the authority shall—
 
 (a) set out the imperative reasons of overriding public interest that necessitate the giving of consent for the proposed development,
 

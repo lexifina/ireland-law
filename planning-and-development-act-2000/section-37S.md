@@ -1,6 +1,6 @@
 Supplementary provisions relating to decisions on applications referred to in section 34B(1) or 34C(1)
 
-37S. (1) (a) This section applies in addition to section 37 in the case of an appeal under section 37 against a decision of the planning authority under section 34 where—
+37S.—(1) (a) This section applies in addition to section 37 in the case of an appeal under section 37 against a decision of the planning authority under section 34 where—
 
 (i) pursuant to section 34B(1)(a), the competent authority concludes that it is not of the opinion referred to in section 34B(1)(a)(iii), or
 

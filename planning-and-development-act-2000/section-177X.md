@@ -1,6 +1,6 @@
 European site that does not host priority habitat or species and draft Land use plan.
 
-177X.— (1) Where the Minister receives a statement of case under section 177W(1) relating to a European site that does not host a priority habitat type or priority species, he or she shall as soon as possible—
+177X.—(1) Where the Minister receives a statement of case under section 177W(1) relating to a European site that does not host a priority habitat type or priority species, he or she shall as soon as possible—
 
 (a) consider whether imperative reasons of overriding public interest exist,
 

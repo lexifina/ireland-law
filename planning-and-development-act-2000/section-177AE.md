@@ -1,6 +1,6 @@
 Appropriate Assessment of certain development carried out by or on behalf of local authorities.
 
-177AE.— (1) Where an appropriate assessment is required in respect of development—
+177AE.—(1) Where an appropriate assessment is required in respect of development—
 
 (a) by a local authority that is a planning authority, whether in its capacity as a planning authority or in any other capacity, or
 

@@ -1,6 +1,6 @@
 Application
 
-182C.— (1) Where a person (hereafter referred to in this section as the "undertaker") intends to carry out a strategic gas infrastructure development (hereafter referred to in this section and section 182D as "proposed development") , and where the Board determines following consultations under section 182E that the development comes within paragraph (a), (b) or (c) of section 37A(2), the undertaker shall prepare, or cause to be prepared—
+182C.—(1) Where a person (hereafter referred to in this section as the "undertaker") intends to carry out a strategic gas infrastructure development (hereafter referred to in this section and section 182D as "proposed development") , and where the Board determines following consultations under section 182E that the development comes within paragraph (a), (b) or (c) of section 37A(2), the undertaker shall prepare, or cause to be prepared—
 
 (a) an application for approval of the development under section 182D, and
 

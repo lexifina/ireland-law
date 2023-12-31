@@ -1,6 +1,6 @@
 Provisions supplementary to sections 146B and 146C
 
-146CA.— (1) (a) Paragraph (b) applies where a person—
+146CA.—(1) (a) Paragraph (b) applies where a person—
 
 (i) is carrying out or intending to carry out strategic infrastructure development and intends to make a request under section 146B(1), accompanied by an environmental impact assessment report, to the Board to alter the terms of the development, or
 

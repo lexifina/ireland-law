@@ -1,6 +1,6 @@
 LRD meeting.
 
-32C. (1) Where the prospective LRD applicant submits a request in accordance with section 32B, the planning authority shall convene an LRD meeting to take place within the period of 4 weeks beginning on the date on which the request is received by the planning authority.
+32C.—(1) Where the prospective LRD applicant submits a request in accordance with section 32B, the planning authority shall convene an LRD meeting to take place within the period of 4 weeks beginning on the date on which the request is received by the planning authority.
 
 (2) The following persons shall attend an LRD meeting convened under subsection (1):
 

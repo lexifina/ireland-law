@@ -1,6 +1,6 @@
 Time limits for LRD appeals.
 
-126A. (1) Notwithstanding section 126(2), and subject to subsections (3), (4) and (5), the Board shall determine an LRD appeal—
+126A.—(1) Notwithstanding section 126(2), and subject to subsections (3), (4) and (5), the Board shall determine an LRD appeal—
 
 (a) where no oral hearing is held, within 16 weeks of the receipt by the Board of the appeal, or within such other period as may be prescribed under subsection (2),
 

@@ -1,6 +1,6 @@
 Application for screening for environmental impact assessment.
 
-176A. (1) In this section and sections 176B and 176C—
+176A.—(1) In this section and sections 176B and 176C—
 
 "screening determination for environmental impact assessment" means a determination made as part of a screening for environmental impact assessment;
 

@@ -1,6 +1,6 @@
 Section 181A: criteria for decision, certain exemptions, etc.
 
-181B.— (1) Before making a decision in respect of a proposed development the subject of an application under section 181A, the Board shall consider—
+181B.—(1) Before making a decision in respect of a proposed development the subject of an application under section 181A, the Board shall consider—
 
 (a) the environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, submitted pursuant to section 181A(1) or (4), any submissions or observations made in accordance with section 181A(3) or (7) and any other information furnished in accordance with section 181A(4) relating to—
 
