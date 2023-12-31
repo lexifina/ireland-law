@@ -6,9 +6,7 @@ Number and Short Title Extent of Repeal Year
 
 (1) (2) (3)
 
-No. 28 of 1963 Local Government (Planning and Development) The whole Act. Act, 1963 Number and Short Title Extent of Repeal Year
-
-(1) (2) (3)
+No. 28 of 1963 Local Government (Planning and Development) The whole Act. Act, 1963
 
 No. 20 of 1976 Local Government (Planning and Development) The whole Act. Act, 1976
 
