@@ -1,0 +1,5 @@
+Payment by unconvicted prisoner for private healthcare
+
+74. (1) An unconvicted prisoner who is permitted to receive private healthcare or to be provided with medicine, equipment or access to facilities under Rule 73 (Private healthcare - request by unconvicted prisoner) shall be required to pay expenses arising out of the attendance of the registered medical practitioner or a registered dental practitioner under paragraph (1) of Rule 73 (Private healthcare - request by unconvicted prisoner) and the provision of any medicine, equipment or other facilities under paragraph (2) of Rule 73 (Private healthcare - request by unconvicted prisoner).
+
+(2) Any expenses incurred in the provision of medicine, equipment or access to facilities to an unconvicted prisoner under paragraph (2) of Rule 73 (Private healthcare - request by unconvicted prisoner) or expenses referred to in paragraph (1) may, with the prior consent of the prisoner concerned, be paid out of any moneys belonging to an unconvicted prisoner that have been retained by the Governor under paragraph (6) of Rule 8 (Prisoner's property).
