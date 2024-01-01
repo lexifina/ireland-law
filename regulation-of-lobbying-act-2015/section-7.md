@@ -4,6 +4,8 @@ Other definitions
 
 “Commission” means Standards in Public Office Commission;
 
+"company" means a company formed and registered under the Companies Act 2014 or an existing company within the meaning of that Act;
+
 "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “designated public official” has the meaning given by section 6;

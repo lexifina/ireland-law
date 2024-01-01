@@ -12,7 +12,7 @@ Review of Act
 
 (b) the period of 3 years beginning immediately after the end of the period specified in paragraph (a), and
 
-(c) each subsequent successive period of 3 years.
+(c) each subsequent successive period of 5 years beginning on the commencement of section 2 of the Regulation of Lobbying and Oireachtas (Allowances to Members) (Amendment) Act 2023.
 
 (3) A report made under subsection (1) shall include any such recommendations for amendments of this Act, or any instrument made under it, as appear to the Minister to be appropriate in consequence of the findings resulting from the review.
 

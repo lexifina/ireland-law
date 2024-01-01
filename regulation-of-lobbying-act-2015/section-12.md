@@ -2,7 +2,7 @@ Returns to be made by registered persons
 
 12. (1) A registered person shall, after the end of each relevant period but not later than the relevant date, make to the Commission, in such manner and form as the Commission may require, a return covering the relevant period.
 
-(2) Subsection (1) shall not apply to a registered person whose entry on the Register has been marked under section 11(4) with a statement indicating that the person has permanently ceased to carry on lobbying activities.
+(2) Subsection (1) shall not apply to a registered person whose entry on the Register has been marked under section 11(4) with a statement indicating that the person has ... ceased to carry on lobbying activities.
 
 (3) If the registered person has not carried on any lobbying activities in the period covered by the return, the return shall state that fact.
 
@@ -18,7 +18,9 @@ Returns to be made by registered persons
 
 (e) the name of the individual who had primary responsibility for carrying on the lobbying activities,
 
-(f) the name of each person who is or has been (whether before or after the passing of this Act) a designated public official employed by, or providing services to, the registered person and who was engaged in carrying on lobbying activities, and
+(f) the name of each person who is or has been (whether before or after the passing of this Act) a designated public official employed by, or providing services to, the registered person and who was engaged in carrying on lobbying activities, ...
+
+(fa) the name of every person who is a member of a body referred to in section 5(2)(d) or (e), as the case may be, and
 
 (g) any such other information relating to carrying on lobbying activities as may be prescribed under subsection (7).
 

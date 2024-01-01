@@ -14,7 +14,19 @@ Fixed payments
 
 (e) contain details of how the fixed payment is to be paid.
 
-(3) The fixed payment notice shall be served on the person by delivering it to the person or by leaving it at, or posting it to, the address (or principal address) at which the person carries on business or (if there is no such address) the address at which the person ordinarily resides (as shown on the Register).
+(3) The fixed payment notice may be served on the person:
+
+(a) where the Commission has been provided with the person’s email address, by sending it to the person by electronic means to that email address, provided that a record that the email has been sent to the person is made for the sender by the email system used;
+
+(b) by delivering it to the person;
+
+(c) by sending it by registered post or by any other form of recorded delivery service to—
+
+(i) in the case of an individual, the address at which the individual ordinarily resides or any other address provided by the individual for the purposes of this section,
+
+(ii) in the case of a company, its registered office, or
+
+(iii) in the case of any other body corporate or unincorporated body, its principal office or place of business.
 
 (4) The fixed payment is €200.
 
