@@ -60,13 +60,13 @@ Local Government (Planning and Development) Acts, 1963 to 1993
 
 Local Government (Water Pollution) Act, 1977 1977, No. 1
 
-Local Government (Water Pollution) (Amendment) Act, 1990, No. 21 1990
+LocalGovernment(WaterPollution)(Amendment)Act,1990 1990, No. 21
 
 Local Government (Water Pollution) Acts, 1977 and 1990
 
-Petty Sessions (Ireland) Act, 1851 1851, 14 & 15 Vict., c. 93 Public Health Acts Amendment Act, 1890 1890, 53 & 54 Vict., c. 59
+Petty Sessions (Ireland) Act, 1851 1851, 14 & 15 Vict., c. 93
 
-Public Health Acts Amendment Act, 1907 1907, 7 Edw. 7, c. 53
+Public Health Acts Amendment Act, 1890 1890, 53 & 54 Vict., c. 59 Public Health Acts Amendment Act, 1907 1907, 7 Edw. 7, c. 53
 
 Public Health (Ireland) Act, 1878 1878, 41 & 42 Vict., c. 52
 
@@ -78,21 +78,21 @@ Road Traffic Act, 1968 1968, No. 25
 
 Water Supplies Act, 1942 1942, No. 1
 
-European Communities (Asbestos Waste) Regulations, S.I. No. 30 of 1990 1990
+EuropeanCommunities(AsbestosWaste)Regulations,1990 S.I. No. 30 of 1990
 
-European Communities (Asbestos Waste) Regulations, S.I. No. 90 of 1994 1994
+EuropeanCommunities(AsbestosWaste)Regulations,1994 S.I. No. 90 of 1994
 
-European Communities (Batteries and Accumulators) S.I. No. 262 of 1994 Regulations, 1994
+European Communities (Batteries and Accumulators) Regulations, 1994 S.I. No. 262 of 1994
 
-European Communities (Disposal, Processing and Placing S.I. No. 257 of 1994 on the Market of Animal By-Products) Regulations, 1994
+European Communities (Disposal, Processing Placing and Market the Animal on of By-Products) Regulations, 1994 S.I. No. 257 of 1994
 
 European Communities (Environmental Impact Assessment) Regulations, 1989 and 1994
 
-European Communities (Toxic and Dangerous Waste) S.I. No. 33 of 1982 Regulations, 1982
+EuropeanCommunities(ToxicandDangerousWaste)Regulations,1982 S.I. No. 33 of 1982
 
-European Communities (Transfrontier Shipment of S.I. No. 121 of 1994 Waste) Regulations, 1994
+European Communities (Transfrontier Shipment Waste) of Regulations, 1994 S.I. No. 121 of 1994
 
-European Communities (Use of Sewage Sludge in S.I. No. 183 of 1991 Agriculture) Regulations, 1991
+European Communities (Use Sewage of Sludge Agriculture) in Regulations, 1991 S.I. No. 183 of 1991
 
 European Communities (Waste) Regulations, 1979 S.I. No. 390 of 1979
 

@@ -68,4 +68,4 @@ Waste recovery levy.
 
 (a) to pay recovery levy which is due and payable by virtue of regulations under subsection (1), or
 
-(b) to comply with a provision of regulations under subsection (1), shall be guilty of an offence
+(b) to comply with a provision of regulations under subsection (1), shall be guilty of an offence.
