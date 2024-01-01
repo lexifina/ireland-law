@@ -1,6 +1,6 @@
 Volume assessment.
 
-44O.—(1) Before the end of each month, the Minister shall notify the Agency of the Minister’s assessment of the volume of renewable transport fuel appearing to have been relevantly disposed of in the preceding month by each renewable transport fuel obligation account holder liable to pay the renewable transport fuel levy.
+44O.— (1) Before the end of each month, the Minister shall notify the Agency of the Minister’s assessment of the volume of renewable transport fuel appearing to have been relevantly disposed of in the preceding month by each renewable transport fuel obligation account holder liable to pay the renewable transport fuel levy.
 
 (2) The volume assessment is to be based on—
 

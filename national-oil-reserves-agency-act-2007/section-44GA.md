@@ -1,6 +1,6 @@
 Obligation to include minimum percentage volume of renewable transport fuel.
 
-44GA. (1) The Minister for Transport may, from time to time, and with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make regulations specifying a particular petroleum product in respect of which the Minister for Transport may prescribe a minimum percentage volume of renewable transport fuel specified by the regulations required to be included in that product so that it may be disposed of by sale or otherwise in the State by a renewable transport fuel obligation account holder.
+44GA.— (1) The Minister for Transport may, from time to time, and with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make regulations specifying a particular petroleum product in respect of which the Minister for Transport may prescribe a minimum percentage volume of renewable transport fuel specified by the regulations required to be included in that product so that it may be disposed of by sale or otherwise in the State by a renewable transport fuel obligation account holder.
 
 (2) Before making regulations under this section, the Minister for Transport shall—
 

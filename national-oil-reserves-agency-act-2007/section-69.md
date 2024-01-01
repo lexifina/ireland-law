@@ -1,6 +1,6 @@
 Register.
 
-69. (1) The Minister shall, as soon as may be after the coming into operation of this section, establish and maintain a register of oil companies to be known as the Petroleum Register, and referred to in this section as the "register".
+69.— (1) The Minister shall, as soon as may be after the coming into operation of this section, establish and maintain a register of oil companies to be known as the Petroleum Register, and referred to in this section as the "register".
 
 (2) The register shall be in such form (including electronic form) as the Minister considers appropriate, and shall contain such particulars as may, from time to time, be prescribed.
 

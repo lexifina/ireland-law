@@ -1,6 +1,6 @@
 Oil Emergency Plan.
 
-68. (1) Subject to subsection (4), the Minister shall prepare a contingency plan (in this Act referred to as the "Oil Emergency Plan"), to be implemented in the event of an oil supply disruption.
+68.— (1) Subject to subsection (4), the Minister shall prepare a contingency plan (in this Act referred to as the "Oil Emergency Plan"), to be implemented in the event of an oil supply disruption.
 
 (2) The Agency, each oil company and oil consumer, and such public bodies as the Minister considers appropriate, shall assist and co-operate with the Minister in the preparation of the Oil Emergency Plan and the response to, an oil supply disruption.
 

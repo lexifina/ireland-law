@@ -1,6 +1,6 @@
 Calculation of renewable transport fuel levy.
 
-44P.—(1) The Minister shall calculate in accordance with this section the amount of renewable transport fuel levy payable in respect of a month by each renewable transport fuel obligation account holder liable to pay the renewable transport fuel levy on its relevant disposals of renewable transport fuel in the month and shall notify the Agency of that amount.
+44P.— (1) The Minister shall calculate in accordance with this section the amount of renewable transport fuel levy payable in respect of a month by each renewable transport fuel obligation account holder liable to pay the renewable transport fuel levy on its relevant disposals of renewable transport fuel in the month and shall notify the Agency of that amount.
 
 (2) The amount of renewable transport fuel levy shall be calculated by reference to—
 

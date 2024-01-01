@@ -1,6 +1,6 @@
 Regulations relating to renewable transport fuel levy.
 
-44T.—(1) The Minister may make regulations providing for all or any of the following matters relating to the renewable transport fuel levy:
+44T.— (1) The Minister may make regulations providing for all or any of the following matters relating to the renewable transport fuel levy:
 
 (a) ...
 
