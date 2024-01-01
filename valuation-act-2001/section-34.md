@@ -1,6 +1,6 @@
 Appeals to Tribunal.
 
-34. (1) In relation to a property, a specified person may appeal in writing to the Tribunal against—
+34.—(1) In relation to a property, a specified person may appeal in writing to the Tribunal against—
 
 (a) a determination under section 19 or 28 of the value,
 

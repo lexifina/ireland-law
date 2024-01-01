@@ -1,6 +1,6 @@
 Where revision manager decides not to revise valuation.
 
-29A. (1) Where a revision manager decides not to—
+29A.—(1) Where a revision manager decides not to—
 
 (a) amend the valuation of a relevant property under section 28, or
 

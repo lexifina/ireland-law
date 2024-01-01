@@ -1,6 +1,6 @@
 Regulations may provide for occupier assisted valuation.
 
-26B. (1) The Minister may make regulations providing for the carrying out of the valuation, or the taking of one or more of the steps that comprise such valuation, of relevant properties under this Act within one or more rating authority areas by the occupier of each property concerned and the procedure to be followed for those purposes.
+26B.—(1) The Minister may make regulations providing for the carrying out of the valuation, or the taking of one or more of the steps that comprise such valuation, of relevant properties under this Act within one or more rating authority areas by the occupier of each property concerned and the procedure to be followed for those purposes.
 
 (2) Without prejudice to the generality of subsection (1), regulations under this section may provide for any or all of the following:
 

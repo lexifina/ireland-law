@@ -1,6 +1,6 @@
 Valuation for certain purposes of property not falling within Schedule 4.
 
-67A. (1) The Commissioner may, in relation to property that does not fall within Schedule 4 and for the purposes of condition 2 of section 10 and section 15(1)(d)(i) of the Act of 1978, on application being made to him or her in that behalf by a person who appears to the Commissioner to have a sufficient interest in the matter, cause the value of the property to be determined in accordance with subsection (2).
+67A.—(1) The Commissioner may, in relation to property that does not fall within Schedule 4 and for the purposes of condition 2 of section 10 and section 15(1)(d)(i) of the Act of 1978, on application being made to him or her in that behalf by a person who appears to the Commissioner to have a sufficient interest in the matter, cause the value of the property to be determined in accordance with subsection (2).
 
 (2) If the value of a property falls to be determined for the purposes of subsection (1), that determination shall be made by reference to the values of other comparable properties, as appeared on an existing valuation list (as distinct from those that appear on a valuation list published under this Act) relating to the rating authority area in which that property is situate.
 

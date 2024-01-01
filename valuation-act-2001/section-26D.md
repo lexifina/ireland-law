@@ -1,6 +1,6 @@
 Functions of officer of Commissioner under occupier assisted valuation.
 
-26D. (1) Where an occupier has submitted an initial valuation, an officer of the Commissioner may, at any time prior to the publication date —
+26D.—(1) Where an occupier has submitted an initial valuation, an officer of the Commissioner may, at any time prior to the publication date —
 
 (a) without prejudice to any other powers (including the powers under Part 10) so enabling the officer in that regard, make such enquiries or require the production of such information or records as he or she may require to satisfy himself or herself that the initial valuation submitted was accurate, and
 

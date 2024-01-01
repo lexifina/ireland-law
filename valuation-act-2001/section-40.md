@@ -1,3 +1,3 @@
-Amendments of valuation lists in relation to similarly circumstanced property.
+Amendments of valuation lists in relation to similarly circumstanced property. (Repealed)
 
 40.—...

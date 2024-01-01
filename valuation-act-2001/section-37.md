@@ -1,6 +1,6 @@
 Consideration of appeals by Tribunal.
 
-37. (1) The Tribunal shall consider an appeal made to it under section 34; in considering the appeal, unless the issues in the appeal do not relate to the value of property, the Tribunal shall achieve a determination of the value of the property concerned that accords—
+37.—(1) The Tribunal shall consider an appeal made to it under section 34; in considering the appeal, unless the issues in the appeal do not relate to the value of property, the Tribunal shall achieve a determination of the value of the property concerned that accords—
 
 (a) with that required to be achieved by section 19(5), or
 

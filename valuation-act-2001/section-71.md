@@ -1,6 +1,6 @@
 Data sharing.
 
-71. (1) Notwithstanding any enactment or rule of law—
+71.—(1) Notwithstanding any enactment or rule of law—
 
 (a) a relevant person shall, upon a request from the Commissioner, provide the Commissioner with such information in the possession or control of the relevant person as the Commissioner may reasonably require for the purpose of enabling the Commissioner to perform his or her functions under this Act, and
 

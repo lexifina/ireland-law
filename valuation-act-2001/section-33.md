@@ -1,3 +1,3 @@
-Consideration of appeals by Commissioner.
+Consideration of appeals by Commissioner. (Repealed)
 
 33.—...

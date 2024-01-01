@@ -1,3 +1,3 @@
-Grounds of appeal under section 30 to be stated.
+Grounds of appeal under section 30 to be stated. (Repealed)
 
 31.—...
