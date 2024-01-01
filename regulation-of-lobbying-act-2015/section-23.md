@@ -1,6 +1,6 @@
 Appeals
 
-23. (1) A person aggrieved by a decision of the Commission under section 10(5), 14 or 22 may appeal against the decision by giving notice to the Commission.
+23. (1) A person aggrieved by a decision of the Commission under section 10(5), 14 or 22(5) may appeal against the decision by giving notice to the Commission.
 
 (2) Notice of an appeal shall—
 

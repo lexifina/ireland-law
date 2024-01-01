@@ -24,7 +24,7 @@ Section 7
 
 10. Ervia.
 
-11. A harbour authority within the meaning of the Harbours Acts 1946 to 2005.
+11. ...
 
 12. Horse Racing Ireland.
 
@@ -47,3 +47,15 @@ Section 7
 20. Voluntary Health Insurance Board.
 
 21. A subsidiary of a body to which this Schedule relates, including a subsidiary of such a subsidiary.
+
+22. Dublin Port Company.
+
+23. Port of Cork Company.
+
+24. Shannon Foynes Port Company.
+
+25. Port of Waterford Company.
+
+26. Drogheda Port Company.
+
+27. Galway Harbour Company.
