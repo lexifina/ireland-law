@@ -114,9 +114,21 @@ Books, newspapers and other printed matter.
 
 (iii) any other printed matter.
 
-Electronic publications
+Certain electronically supplied matter
 
-7A. Electronic publications being books ... and periodicals, supplied electronically, but excluding electronic publications which wholly or predominantly are devoted to advertising, or consist wholly or predominantly of audible music or video content.
+7A. The electronic supply of —
+
+(a) periodicals,
+
+(b) brochures, leaflets and programmes,
+
+(c) catalogues, including directories, and similar printed matter,
+
+(d) maps, hydrographic and similar charts,
+
+(e) children’s picture, drawing or colouring books, or
+
+(f) music printed or in manuscript form, but excluding the supply of any such material which is wholly or predominantly devoted to advertising or consists wholly or predominantly of audible music or video content.
 
 Shows, exhibitions, cultural facilities, etc.
 
@@ -374,7 +386,9 @@ PART 6
 
 SUPPLIES OF CERTAIN WORKS OF ART, ANTIQUES AND LITERARY MANUSCRIPTS
 
-This Part deals with special arrangements made in accordance with Article 311 and Annex IX of the VAT Directive. Works of art.
+This Part deals with special arrangements made in accordance with Article 311 and Annex IX of the VAT Directive.
+
+Works of art.
 
 23. The supply of a work of art that is—
 
