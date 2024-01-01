@@ -22,9 +22,11 @@ B is the number of—
 
 (ii) self employment contributions paid by him or her,
 
-(iii) voluntary contributions paid by him or her, and
+(iii) voluntary contributions paid by him or her,
 
-(iv) all of the home caring periods determined in accordance with section 108(2) during the relevant period, which are reckonable for the purposes of the contribution conditions for entitlement to State pension (contributory), and
+(iv) all of the home caring periods determined in accordance with section 108(2), and
+
+(v) long-term carer’s qualifying contributions determined in accordance with section 108A, during the relevant period, which are reckonable for the purposes of the contribution conditions for entitlement to State pension (contributory), and
 
 C is the total number of—
 
@@ -34,6 +36,8 @@ C is the total number of—
 
 (iii) all of the voluntary contributions paid by him or her, and
 
-(iv) all of the home caring periods determined in accordance with section 108(2) during the relevant period.
+(iv) all of the home caring periods determined in accordance with section 108(2), and
+
+(v) all of the long-term carer’s qualifying contributions determined in accordance with section 108A, during the relevant period.
 
 (2) Notwithstanding sub-article (1), any increase payable under section 112(2), (4), (5) or (6) shall be the same as if the contribution condition set out in section 109(1)(c) had been fully satisfied.
