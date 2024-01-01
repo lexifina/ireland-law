@@ -4,7 +4,7 @@
 
 Special provisions for tax invoiced by flat-rate farmers.
 
-86.— (1) Subject to section 68(1) and (6) and subsection (1A), where a flat-rate farmer supplies agricultural produce or an agricultural service to a person, the farmer shall issue to the person an invoice indicating the consideration (exclusive of the flat-rate addition) in respect of the supply and an amount (in this Act referred to as a "flat-rate addition") equal to 5 per cent of that consideration (exclusive of the flat-rate addition).
+86.—(1) Subject to section 68(1) and (6) and subsection (1A), where a flat-rate farmer supplies agricultural produce or an agricultural service to a person, the farmer shall issue to the person an invoice indicating the consideration (exclusive of the flat-rate addition) in respect of the supply and an amount (in this Act referred to as a "flat-rate addition") equal to 4.8 per cent of that consideration (exclusive of the flat-rate addition).
 
 (1A) Where section 68(6) applies, the issue of an invoice by a flat-rate farmer shall only apply in respect of agricultural produce or an agricultural service of a kind not specified in an order made by the Minister under section 86A.
 
