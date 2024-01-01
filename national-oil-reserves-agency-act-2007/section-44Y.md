@@ -1,8 +1,8 @@
 Exemption from renewable transport fuel obligation in cases of particular urgency.
 
-44Y. (1) The Minister for Transport may determine that oil stocks released, or to be released, by the Agency pursuant to a direction of the Minister under section 35 may, in a case of particular urgency in order to avoid, or mitigate against, a major supply disruption or the risk thereof, be exempt from the renewable transport fuel obligation under section 44C.
+44Y.— (1) The Minister for Transport may determine that oil stocks released, or to be released, by the Agency pursuant to a direction of the Minister under section 35 may, in a case of particular urgency in order to avoid, or mitigate against, a major supply disruption or the risk thereof, be exempt from the renewable transport fuel obligation under section 44C.
 
-(2) For the purpose of calculating the specified amount under subsection (3) of section 44C, oil stocks which are the subject of an exemption under subsection (1) shall not be treated as a relevant disposal of petroleum products under paragraph (a) of that subsection.
+(2) For the purpose of calculating the specified amount under subsection (3) of section 44C, oil stocks which are the subject of an exemption under subsection (1) shall not be treated as a relevant disposal of petroleum products under the said subsection (3) of section 44C.
 
 (3) A determination under subsection (1) shall be made by the Minister for Transport as soon as practicable following the direction of the Minister under section 35 but may be made following the release of the oil stocks the subject of the direction.
 

@@ -4,9 +4,9 @@ Definitions for Part 5A.
 
 44A.— (1) In this Part—
 
-"Advanced biofuels" mean biofuels that are produced from the feedstock listed in Part A of Annex IX;
+"advanced biofuels" mean biofuels that are produced from the feedstock listed in Part A of Annex IX;
 
-"Advanced biofuel obligation" has the meaning assigned by section 44C;
+"advanced biofuel obligation" has the meaning assigned by section 44C;
 
 "biofuel" means liquid or gaseous fuel for transport produced from biomass;
 
@@ -26,9 +26,17 @@ Definitions for Part 5A.
 
 "biomass" means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;
 
+"certified", other than in section 44V, means certified in accordance with section 44G;
+
+"crop cap" has the meaning assigned by section 44C;
+
 "Directive" means Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources;
 
 "expenses" has the meaning assigned by section 36;
+
+"high ILUC-risk" has the meaning assigned by section 44C;
+
+"high ILUC-risk cap" has the meaning assigned by section 44C;
 
 "Member State" means a state which is a member of the European Union and includes states that are parties to the agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the protocol done at Brussels on 17 March 1993;
 
@@ -36,7 +44,7 @@ Definitions for Part 5A.
 
 "obligated party" means an oil company or oil consumer, as the case may be, that is subject to the renewable transport fuel obligation under this Part;
 
-"obligation period", in relation to the biofuel obligation, means—
+"obligation period", in relation to the renewable transport fuel obligation, means—
 
 (a) in the case of the first obligation period, the period beginning on the day on which section 44C comes into operation and ending on 31 December next following that day, and
 
@@ -50,7 +58,7 @@ Definitions for Part 5A.
 
 ...
 
-"relevant disposal of road transport fuel" means the volume (expressed in litres) of road transport fuel that in any obligation period—
+"relevant disposal of road transport fuel" means the energy content of road transport fuel (calculated in accordance with paragraph (b) of Article 7(4) of the Directive and expressed in megajoules) that in any obligation period—
 
 (a) an oil company consumes or disposes of by sale or otherwise to persons in the State, or
 
@@ -64,17 +72,7 @@ Definitions for Part 5A.
 
 "renewable liquid and gaseous transport fuels of non-biological origin" means liquid or gaseous fuels which are used in the transport sector other than biofuels or biogas, the energy content of which is derived from renewable sources other than biomass;
 
-"renewable transport fuel" means liquid or gaseous fuel for transport, including:
-
-(a) Biofuels
-
-(b) Biogas
-
-(c) Recycled carbon fuels
-
-(d) Advanced biofuels
-
-(e) renewable liquid and gaseous transport fuel of non-biological origin
+"renewable transport fuel" means liquid or gaseous fuel (including biofuels, biogas, recycled carbon fuels, advanced biofuels and renewable liquid and gaseous transport fuel of non-biological origin) used in the transport sector;
 
 "renewable transport fuel levy assessment notice" means a notice given under section 44Q;
 

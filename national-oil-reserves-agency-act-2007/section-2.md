@@ -98,7 +98,7 @@ Interpretation.
 
 (c) fuel oils;
 
-"prescribed" means prescribed (other than in sections 44D, 44E, 44G, 44GA, 44X and 44J) by regulations made by the Minister;
+"prescribed" means prescribed (other than in sections ... 44E, 44G, 44GA, 44X and 44J) by regulations made by the Minister;
 
 "public body" means any of the following:
 

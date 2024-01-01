@@ -8,20 +8,14 @@ Biofuel obligation.
 
 (2) Every oil company and oil consumer liable to pay the levy (in this Part referred to as an "obligated party") is required to ensure that in each obligation period not less than a specified amount of its relevant disposal of road transport fuel to which this section applies is renewable transport fuel (in this Part referred to as the "renewable transport fuel obligation").
 
-(3) The specified amount, referred to in subsection (1), for the purpose of determining the renewable transport fuel obligation, shall be expressed in megajoules and shall be calculated by reference to—
+(3) The specified amount referred to in subsection (2) shall be expressed in megajoules and shall amount to no less than the applicable percentage, specified in section 44D for the obligation period concerned, of the total relevant disposal of road transport fuel concerned, and such specified amount shall include certified disposals of—
 
-(a) the relevant disposals of petroleum products by each obligated party during the obligation period concerned, and
+(a) advanced biofuels and biogas that, in total, amount to no less than the applicable percentage, specified in section 44D, of the total relevant disposal of road transport fuel concerned (in this Part referred to as the "advanced biofuel obligation"),
 
-(b) the percentage rates provided for by section 44D(1).
+(b) biofuels and biogas produced from food and feed crops that, in total, amount to no greater than the applicable percentage, specified in section 44D, of the total relevant disposal of the road transport fuel concerned (in this Part referred to as the "crop cap"), and
 
-(4) The renewable transport fuel obligation referred to in subsection (3) encompasses—
+(c) biofuels and biogas produced from high indirect land-use change-risk (in this Part referred to as "high ILUC-risk") feedstock that, in total, amount to no greater than the applicable percentage, specified in section 44D, of the total relevant disposal of the road transport fuel concerned (in this Part referred to as the "high ILUC-risk cap").
 
-(a) the contribution from advanced biofuels and biogas (in this Part referred to as the "advanced biofuel obligation");
+(4) ...
 
-(b) the contribution from biofuels and biogas produced from food and feed crops which shall be no more than 2% (in this Part referred to as the "crop cap");
-
-(c) the percentage reduction (no later than 31 December 2030, to 0% supply) in the amount of supply from biofuels and biogas produced from high indirect land-use change-risk (in this Part referred to as "high ILUC-risk") feedstocks as referred to under subsection (5).
-
-(d) The percentage rates shall be those provided for by section 44D(1).
-
-(5) The renewable transport fuel obligation referred to in subsection (3) also encompasses the contribution of supply of biofuels and biogas produced from high ILUC-risk feedstock, which shall be no more than the amount disposed of in 2019 and may only be disposed of by the oil companies or oil consumers that disposed of such biofuels and biogas in 2019.
+(5) ...
