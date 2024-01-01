@@ -10,7 +10,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 4.—Land developed for sport.
 
-4A. (1) Any building or part of a building used exclusively for community sport, and otherwise than for profit and not being the premises of a club for the time being registered under the Registration of Clubs (Ireland) Act 1904.
+4A.—(1) Any building or part of a building used exclusively for community sport, and otherwise than for profit and not being the premises of a club for the time being registered under the Registration of Clubs (Ireland) Act 1904.
 
 (2) In this paragraph "community sport" means sport, the principal participants in which are—
 
@@ -20,7 +20,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (c) in the case of sporting activities involving teams and with the consent of those responsible in the first-mentioned locality for organising sporting activities in that locality, persons from any geographical area.
 
-4B. (1) Any building or part of a building used exclusively for community sport and otherwise than for profit, and being the premises of a club for the time being registered under the Registration of Clubs (Ireland) Act 1904, but not including any building or part of a building—
+4B.—(1) Any building or part of a building used exclusively for community sport and otherwise than for profit, and being the premises of a club for the time being registered under the Registration of Clubs (Ireland) Act 1904, but not including any building or part of a building—
 
 (a) used on a regular or occasional basis for the sale or consumption of alcohol or in conjunction with the sale or consumption of alcohol, or
 
@@ -54,7 +54,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (b) in either case it makes the educational services concerned available to the general public (whether with or without a charge being made therefor).
 
-11.—Any art gallery, museum, library, park or national monument which is normally open to the general public and which is not established or maintained for the purpose of making a private profit.
+11.—Any art gallery, museum, library, park or monument which is normally open to the general public and which is not established or maintained for the purpose of making a private profit.
 
 12.—Property (whether falling within paragraph 11 or not) occupied by—
 
@@ -76,7 +76,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (i) the National Theatre Society Limited.
 
-12A. Property, being a building or part of a building, land or a waterway or a harbour directly occupied by—
+12A.—Property, being a building or part of a building, land or a waterway or a harbour directly occupied by—
 
 (a) any Department or Office of State,
 
@@ -112,8 +112,8 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (2) In this paragraph “constituency office” means an office which is used solely for the provision of representative services by the member of the House of the Oireachtas or representative in the European Parliament concerned in his or her capacity as such a member or representative but does not include the head office of a political party or any other office occupied by a political party.
 
-20. Any land, building or part of a building occupied by the Health Service Executive other than any land, building or part of a building referred to in paragraph 8 or 14.
+20.—Any land, building or part of a building occupied by the Health Service Executive other than any land, building or part of a building referred to in paragraph 8 or 14.
 
-21. ...
+21.—...
 
-22. Any land, building or part of a building used exclusively for the provision of early childhood care and education, and occupied by a body which is not established and the affairs of which are not conducted for the purpose of making a private profit.
+22.—Any land, building or part of a building used exclusively for the provision of early childhood care and education, and occupied by a body which is not established and the affairs of which are not conducted for the purpose of making a private profit.
