@@ -1,0 +1,5 @@
+Visit for prisoner committed in default of payment of money or in prison in default of bail
+
+37. (1) A person committed to prison for failing or refusing to pay a sum payable by him or her by virtue of an order of a court in proceedings of either a criminal or civil nature, shall be entitled to receive a visit at any reasonable time from a person whose purpose in visiting the prisoner is to arrange for the payment of such sum, and such visit shall, unless the Governor otherwise directs, take place within the view and hearing of a prison officer.
+
+(2) An unconvicted prisoner who has been admitted to bail but who remains in prison pending the payment of the amount of a recognisance entered into shall be entitled to receive a visit at any reasonable time from a person whose purpose in visiting the prisoner is to arrange for the payment of the amount of the recognisance, and such visit shall, unless the Governor otherwise directs, take place within the view and hearing of a prison officer.
