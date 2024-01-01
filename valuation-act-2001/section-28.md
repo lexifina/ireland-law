@@ -1,6 +1,6 @@
 Revision of valuation lists.
 
-28. (1) In this section "property concerned" means a property in relation to which a person, by virtue of his or her appointment under this section, is entitled to exercise the powers conferred by this section.
+28.—(1) In this section "property concerned" means a property in relation to which a person, by virtue of his or her appointment under this section, is entitled to exercise the powers conferred by this section.
 
 (2) (a) The Commissioner may of his or her own volition appoint an officer of the Commissioner to exercise, in relation to such one or more properties as the Commissioner considers appropriate, the powers expressed by this section to be exercisable by a revision manager, and such an officer who is so appointed is referred to in this Act as a "revision manager".
 
@@ -50,8 +50,14 @@ Revision of valuation lists.
 
 (13) If the Commissioner exercises any of the powers under subsection (11) or (12) he or she shall, as soon as may be after the occasion concerned of their being exercised, issue to each occupier of a property that is affected by such exercise and to the rating authority in whose area that property is situate a new valuation certificate in relation to that property.
 
-(14) An amendment of a valuation list made under subsection (10), (11) or (12) shall have full force for the purposes of the rating authority concerned making a rate in accordance with—
+(14) An amendment of a valuation list made under subsection (10), (11) or (12) shall have full force, from the date of its making, for the purposes of the rating authority concerned making a rate in relation to the property concerned by reference to that list as so amended.
 
-(a) section 29 of the Local Government Act 1946 (as substituted by section 45 of the Local Government Act 1994), or
+(15) Where—
 
-(b) section 55 of the Fisheries (Consolidation) Act 1959, as appropriate, in relation to the property concerned by reference to that list as so amended.
+(a) an amount of monies is paid on account of a rate made in respect of a property, and
+
+(b) it appears, consequent on an amendment of the value of the property made pursuant to an exercise of the powers under this section, that that payment involved an overpayment or an underpayment of the amount due in respect of such a rate, then the balance owing or owed, as the case may be, to or by the person concerned may be paid or recovered, as appropriate—
+
+(i) in the case of an overpayment, by making a refund to the person concerned of an amount equal to that balance or allowing an amount equal to that balance as a credit against the amount owed by the person concerned on account of a rate made in respect of that or any other property, and
+
+(ii) in the case of an underpayment, by recovering from the person concerned an amount equal to that balance as arrears of the rate concerned (and, accordingly, any of the means provided under any enactment for the recovery of a rate may be employed for that purpose).
