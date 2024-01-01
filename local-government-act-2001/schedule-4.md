@@ -8,7 +8,9 @@ Session and Chapter or Short Title Nature of Amendment Number and Year
 
 61 & 62 Vict. c. 37 Local Government (Ireland) In subsection (10) of section Act, 1898 54, in the final sentence, delete the words “and the said secretary shall be entitled to such payment for each certificate”.
 
-No. 35 of 1978 Local Government (Financial In subsection (1) of section Provisions) Act, 1978 10, substitute “required in accordance with section 102(3) of the
+No. 35 of 1978 Local Government (Financial In subsection (1) of section Provisions) Act, 1978 10, substitute “required in accordance with section
+
+102(3) of the
 
 Local Government Act,
 

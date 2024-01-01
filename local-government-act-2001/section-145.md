@@ -52,9 +52,7 @@ Appointment of chief executive.
 
 (c) In making regulations under paragraph (a), the Minister may have regard to and take account of any code of practice issued by the Commission for Public Service Appointments under section 23 of the Public Service Management (Recruitment and Appointments) Act 2004 in existence at the time of the making of the regulations that would relate (in whole or in part) to the selection process that precedes a recommendation to which subsection (1)(a) applies.
 
-(5) Where, as respects a county council, city council or city and county council, including a county council or city council in a group of authorities, such council has decided to not appoint as chief executive the person recommended to which subsection
-
-(1)(a) relates, then, for the purposes of section 6 (other than subsection (4)) of the Act of 1926, and notwithstanding the said subsection (4) or any other provision of this Act or any other enactment, a further request shall be deemed to have been submitted in respect of the employment of a chief executive.
+(5) Where, as respects a county council, city council or city and county council, including a county council or city council in a group of authorities, such council has decided to not appoint as chief executive the person recommended to which subsection (1)(a) relates, then, for the purposes of section 6 (other than subsection (4)) of the Act of 1926, and notwithstanding the said subsection (4) or any other provision of this Act or any other enactment, a further request shall be deemed to have been submitted in respect of the employment of a chief executive.
 
 (6) Where a position of chief executive becomes vacant the Minister shall appoint a person to be the chief executive temporarily until a permanent appointment to the position is made but such temporary appointment may be terminated by the Minister at any time.
 

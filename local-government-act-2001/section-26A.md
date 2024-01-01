@@ -1,6 +1,6 @@
 Advance Polling.
 
-26A. (1) Notwithstanding section 26, the Minister may, in the public interest and where it is necessary to do so having regard to the immediate, exceptional and serious risk posed to human life and public health by a pandemic or by Covid-19 and with the consent of An Coimisiún Toghcháin, make an order providing that, in addition to the poll provided for under section 26—
+26A.—(1) Notwithstanding section 26, the Minister may, in the public interest and where it is necessary to do so having regard to the immediate, exceptional and serious risk posed to human life and public health by a pandemic or by Covid-19 and with the consent of An Coimisiún Toghcháin, make an order providing that, in addition to the poll provided for under section 26—
 
 (a) in one or more local authorities, an advance poll may be taken on the day before the day appointed by the Minister under section 26, and
 
