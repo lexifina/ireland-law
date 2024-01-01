@@ -260,7 +260,7 @@ Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate Yeast o
 
 Certain printed matter.
 
-9. The supply of printed books and booklets, including atlases and newspapers, but excluding—
+9. The supply of printed books and booklets, including atlases and newspapers, and audiobooks supplied on physical means of support, but excluding—
 
 (a) newspapers which are wholly or predominantly devoted to advertising, periodicals, brochures, catalogues, directories and programmes,
 
@@ -272,9 +272,15 @@ Certain printed matter.
 
 (e) books of stamps, tickets or coupons.
 
-Electronically supplied newspapers
+Certain electronically supplied matter
 
-9A. Newspapers, supplied electronically, but excluding those which are wholly or predominantly devoted to advertising, or consist wholly or predominantly of audible music or video content.
+9A. The electronic supply of books, newspapers and audiobooks, but excluding —
+
+(a) such books, newspapers and audiobooks which are wholly or predominantly devoted to advertising or consist wholly or predominantly of video content or audible music,
+
+(b) the items specified in subparagraphs (b) to (e) of paragraph 9, and
+
+(c) the items specified in subparagraphs (a) to (f) of paragraph 7A of Schedule 3.
 
 Children’s clothing and footwear.
 
@@ -354,4 +360,4 @@ The supply of sanitary towels and sanitary tampons.
 
 Solar panels
 
-14. The supply and installation of solar panels on or adjacent to immovable goods, being private dwellings.
+14. The supply and installation of solar panels on or adjacent to immovable goods, being private dwellings or buildings used wholly or predominantly for the provision of primary or post-primary education by recognised schools within the meaning of the Education Act 1998.
