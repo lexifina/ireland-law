@@ -1,6 +1,6 @@
 Rates of payment for claimants over 65 years of age.
 
-52HA. Where a claimant who would otherwise qualify for jobseeker’s benefit or jobseeker’s benefit (self-employed) has attained the age of 65 years, then notwithstanding any provision in the Act or these Regulations, and in accordance with section 292,
+52HA. Where a claimant who would otherwise qualify for jobseeker’s benefit or jobseeker’s benefit (self-employed) has attained the age of 65 years and has not yet attained the age of 66 years, then notwithstanding any provision in the Act or these Regulations, and in accordance with section 292,
 
 (a) the weekly rate of jobseeker’s benefit or jobseeker’s benefit (self-employed) shall be as set out in column (2) of Part 1 of Schedule 2 to the Act,
 

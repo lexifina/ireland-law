@@ -14,4 +14,4 @@ Prescribed manner for proving unemployment.
 
 (II) unemployed or expects to be unemployed during each day in respect of which jobseeker’s benefit is claimed.
 
-(2) Article 52(1)(a) shall not apply to a person who has attained the age of 65 years, and who would otherwise, but for this article, qualify for jobseeker’s benefit.
+(2) Article 52(1)(a) shall not apply to a person who has attained the age of 65 years and has not yet attained the age of 66 years, and who would otherwise, but for this article, qualify for jobseeker’s benefit.

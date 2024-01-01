@@ -14,4 +14,4 @@ Prescribed manner for proving unemployment.
 
 (ii) that they have lost their self-employment involuntarily and not as a consequence of a planned temporary or seasonal closure of the business.
 
-(2) Article 52G(1)(a) shall not apply to a person who has attained the age of 65 years, and who would otherwise, but for this article, qualify for jobseeker’s benefit (self-employed).
+(2) Article 52G(1)(a) shall not apply to a person who has attained the age of 65 years and has not yet attained the age of 66 years, and who would otherwise, but for this article, qualify for jobseeker’s benefit (self-employed).
