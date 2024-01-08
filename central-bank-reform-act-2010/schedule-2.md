@@ -48,7 +48,7 @@ Item Number Short Title Provisions and year
 
 20 No. 27 of Solicitors (Amendment) Section 78 1994 Act 1994
 
-21 No. 11 of Investment Intermediaries The whole Act 1995 Act 1995
+21 No. 11 of InvestmentIntermediaries The whole Act 1995 Act 1995
 
 22 No. 24 of Consumer Credit Act 1995 The whole Act 1995 23 No. 25 of Netting of Financial Sections 2 and 3 1995 Contracts Act 1995
 
