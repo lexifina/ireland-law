@@ -6,7 +6,7 @@ Confirmation of suspension notices.
 
 (b) that it is necessary in the interests of the proper regulation of the regulated financial service provider or holding company that the person not perform the controlled function, the part of the controlled function, or any controlled function, while the Head of Financial Regulation, the Bank or the Governor is carrying out a function in relation to the person under this Chapter or Chapter 4,
 
-(c) ...
+(c) ... the Head of Financial Regulation may confirm the suspension notice.
 
 (2) To avoid any doubt, the Head of Financial Regulation may confirm a suspension notice at the end of the period mentioned in section 26(4)(d) even if no submission has been made in relation to it by either or both of the suspended person and any regulated financial service provider or holding company concerned.
 
