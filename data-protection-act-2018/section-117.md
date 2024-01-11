@@ -4,7 +4,7 @@ Judicial remedy for infringement of relevant enactment
 
 (2) A data protection action shall be deemed, for the purposes of every enactment and rule of law, to be an action founded on tort.
 
-(3) The Circuit Court shall, subject to subsections (5) and (6), concurrently with the High Court, have jurisdiction to hear and determine data protection actions.
+(3) The District Court shall, subject to subsections 5A and 6A, and the Circuit Court shall, subject to subsections (5) and (6), concurrently with the High Court, have jurisdiction to hear and determine data protection actions.
 
 (4) The court hearing a data protection action shall have the power to grant to the plaintiff one or more than one of the following reliefs:
 
@@ -14,7 +14,15 @@ Judicial remedy for infringement of relevant enactment
 
 (5) The compensation recoverable in a data protection action in the Circuit Court shall not exceed the amount standing prescribed, for the time being by law, as the limit of that court’s jurisdiction in tort.
 
+(5A) The compensation recoverable in a data protection action in the District Court shall not exceed the amount standing prescribed, for the time being by law, as the limit of that court’s jurisdiction in tort.
+
 (6) The jurisdiction conferred on the Circuit Court by this section may be exercised by the judge of any circuit in which—
+
+(a) the controller or processor against whom the data protection action is taken has an establishment, or
+
+(b) the data subject has his or her habitual residence.
+
+(6A) The jurisdiction conferred on the District Court by this section may be exercised by the judge of any district in which—
 
 (a) the controller or processor against whom the data protection action is taken has an establishment, or
 
