@@ -1,6 +1,6 @@
 Postponed accounting.
 
-53A. (1) Notwithstanding section 53(3) but subject to subsection (4), an accountable person may account for the tax chargeable under section 3(b) on goods imported into the State by the person in the return to be furnished by the person, under section 76 or 77, in respect of the taxable period in which the tax has become so chargeable.
+53A.—(1) Notwithstanding section 53(3) but subject to subsection (4), an accountable person may account for the tax chargeable under section 3(b) on goods imported into the State by the person in the return to be furnished by the person, under section 76 or 77, in respect of the taxable period in which the tax has become so chargeable.
 
 (2) Where—
 

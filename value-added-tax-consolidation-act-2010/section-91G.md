@@ -1,6 +1,6 @@
 Electronic interfaces facilitating distance sales of goods.
 
-91G. (1) (a) Where a taxable person facilitates (within the meaning of Article 5b of the Implementing Regulation), through the use of an electronic interface such as a marketplace, platform, portal or similar means, the distance sale of goods imported from third territories or third countries in consignments of an intrinsic value which does not exceed €150, the taxable person shall be deemed to have received and supplied those goods himself or herself.
+91G.—(1) (a) Where a taxable person facilitates (within the meaning of Article 5b of the Implementing Regulation), through the use of an electronic interface such as a marketplace, platform, portal or similar means, the distance sale of goods imported from third territories or third countries in consignments of an intrinsic value which does not exceed €150, the taxable person shall be deemed to have received and supplied those goods himself or herself.
 
 (b) Where a taxable person facilitates (within the meaning aforesaid), through the use of an electronic interface such as a marketplace, platform, portal or similar means, the supply of goods within the Community by a taxable person not established within the Community to a non-taxable person, the taxable person who facilitates the supply shall be deemed to have received and supplied those goods himself or herself.
 

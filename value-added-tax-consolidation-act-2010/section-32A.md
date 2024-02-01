@@ -1,6 +1,6 @@
 Chain transactions.
 
-32A. (1) In this section—
+32A.—(1) In this section—
 
 "chain transaction" means a series of successive supplies of the same goods where those goods are dispatched or transported from one Member State to another Member State, directly from the first supplier of the goods to the last customer in the chain;
 

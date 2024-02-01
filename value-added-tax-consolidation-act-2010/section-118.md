@@ -1,3 +1,3 @@
-Mitigation and application of penalties.
+Mitigation and application of penalties. (Repealed)
 
 118.—...

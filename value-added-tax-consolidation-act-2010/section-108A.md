@@ -2,7 +2,7 @@
 
 Notice of requirement to furnish certain information, etc.
 
-108A.— (1) The Revenue Commissioners may, for the purposes of the prevention and detection of tax evasion, serve a notice in writing on an accountable person whom the Commissioners have reasonable grounds for believing is likely to have further information, explanations or particulars in respect of any books, records (within the meaning of section 108), accounts or other documents relating to his or her supplies of goods made to his or her customers which may assist in identifying taxable supplies in respect of which tax chargeable will not be, or is not likely to be, paid requiring the accountable person to furnish to the Commissioners any such information, explanations or particulars as they may reasonably require and which they consider may so assist.
+108A.—(1) The Revenue Commissioners may, for the purposes of the prevention and detection of tax evasion, serve a notice in writing on an accountable person whom the Commissioners have reasonable grounds for believing is likely to have further information, explanations or particulars in respect of any books, records (within the meaning of section 108), accounts or other documents relating to his or her supplies of goods made to his or her customers which may assist in identifying taxable supplies in respect of which tax chargeable will not be, or is not likely to be, paid requiring the accountable person to furnish to the Commissioners any such information, explanations or particulars as they may reasonably require and which they consider may so assist.
 
 (2) A notice served under subsection (1) shall—
 

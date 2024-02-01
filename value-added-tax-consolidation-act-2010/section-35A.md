@@ -1,6 +1,6 @@
 Amendment of Part 4 of Act of 2010.
 
-35A. (1) Subject to subsection (3), sections 30(a) and 34(kc) shall not apply to—
+35A.—(1) Subject to subsection (3), sections 30(a) and 34(kc) shall not apply to—
 
 (a) intra-Community distance sales of goods, or
 

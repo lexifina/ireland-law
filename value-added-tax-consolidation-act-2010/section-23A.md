@@ -1,6 +1,6 @@
 Call-off stock arrangements.
 
-23A. (1) This section applies to call-off stock arrangements which meet all of the following conditions:
+23A.—(1) This section applies to call-off stock arrangements which meet all of the following conditions:
 
 (a) goods are dispatched or transported by a taxable person, or by a third party acting on his or her behalf, to the State from another Member State, with a view to the goods being supplied in the State, at a later stage and after arrival, to an accountable person;
 

@@ -1,6 +1,6 @@
 Import scheme (where the State is Member State of identification).
 
-91J. (1) A taxable person, or intermediary acting on behalf of a taxable person, who is identified in the State for the purposes of the import scheme, shall notify the Revenue Commissioners by electronic means when he or she commences or ceases his or her activity under the import scheme, or changes that activity in such a way that he or she no longer meets the conditions necessary for use of the import scheme.
+91J.—(1) A taxable person, or intermediary acting on behalf of a taxable person, who is identified in the State for the purposes of the import scheme, shall notify the Revenue Commissioners by electronic means when he or she commences or ceases his or her activity under the import scheme, or changes that activity in such a way that he or she no longer meets the conditions necessary for use of the import scheme.
 
 (2) A taxable person, or where applicable, his or her intermediary, may not be registered in the State for the purposes of the import scheme if he or she—
 

@@ -1,6 +1,6 @@
 Joint and several liability for tax.
 
-108C.— (1) In this section—
+108C.—(1) In this section—
 
 "first accountable person" means the person who, in relation to any taxable supply of goods or services or intra-Community acquisition of goods chargeable to tax in accordance with section 3(a), (c), (d) or (e) is, apart from this section, liable to pay the tax chargeable in accordance with Chapter 3 of Part 9;
 
@@ -16,7 +16,9 @@ Joint and several liability for tax.
 
 (3) The amount of tax for which the second accountable person is held, as referred to in subsection (2), jointly and severally liable shall, for each taxable supply of goods or services or intra-Community acquisition, be calculated in accordance with the following formula—
 
-A - B where— A is the tax payable by the first accountable person on that taxable supply of goods or services, or intra-Community acquisition under section 3(a), (c), (d) or (e), and
+A - B where—
+
+A is the tax payable by the first accountable person on that taxable supply of goods or services, or intra-Community acquisition under section 3(a), (c), (d) or (e), and
 
 B is the amount of tax, if any, which may be deductible in accordance with section
 

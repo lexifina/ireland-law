@@ -1,6 +1,6 @@
 Notice of requirement to issue a document.
 
-108B.— (1) The Revenue Commissioners may, for the purposes of an inquiry or investigation, where they have reasonable grounds to believe that the service of such a notice may assist in the prevention and detection of tax evasion, serve a notice in writing on an accountable person, requiring such person, for such period as is specified in the notice, in relation to each supply of taxable goods or services made by that person to which the provisions of section 66(1)(a) do not apply, to issue, at the time of such supply, a document which shall—
+108B.—(1) The Revenue Commissioners may, for the purposes of an inquiry or investigation, where they have reasonable grounds to believe that the service of such a notice may assist in the prevention and detection of tax evasion, serve a notice in writing on an accountable person, requiring such person, for such period as is specified in the notice, in relation to each supply of taxable goods or services made by that person to which the provisions of section 66(1)(a) do not apply, to issue, at the time of such supply, a document which shall—
 
 (a) contain all the particulars that would be required by regulations to be included in the document if that document were an invoice required to be issued in accordance with section 66(1)(a), and
 

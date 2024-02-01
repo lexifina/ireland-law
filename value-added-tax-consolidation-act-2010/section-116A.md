@@ -1,6 +1,6 @@
 Penalty for deliberately or carelessly making incorrect returns, etc.
 
-116A. (1) In this section—
+116A.—(1) In this section—
 
 "carelessly" means failure to take reasonable care;
 

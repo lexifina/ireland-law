@@ -1,6 +1,6 @@
 Import scheme (where the State is Member State of consumption).
 
-91K. (1) A person who—
+91K.—(1) A person who—
 
 (a) is registered in the import scheme identification register (within the meaning of section 91J), or
 

@@ -1,6 +1,6 @@
 Covid-19: special warehousing and interest provisions.
 
-114B. (1) Subject to subsection (1A), in this section—
+114B.—(1) Subject to subsection (1A), in this section—
 
 "the Acts" means—
 

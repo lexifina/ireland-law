@@ -42,4 +42,6 @@ Letter of expression of doubt.
 
 (7) An accountable person who is aggrieved by a decision of the Revenue Commissioners that the person’s expression of doubt is not genuine may appeal the decision to the Appeal Commissioners, in accordance with section 949I of the Taxes Consolidation Act 1997, within the period of 30 days after the date of the notice of that decision.
 
-(8) A letter of expression of doubt shall be deemed not to have been made unless its receipt is acknowledged by the Revenue Commissioners and that acknowledgement forms part of the records kept by the accountable person for the purposes of Chapter 7 or section 124(7). Chapter 6
+(8) A letter of expression of doubt shall be deemed not to have been made unless its receipt is acknowledged by the Revenue Commissioners and that acknowledgement forms part of the records kept by the accountable person for the purposes of Chapter 7 or section 124(7).
+
+Chapter 6

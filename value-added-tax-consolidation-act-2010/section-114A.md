@@ -1,6 +1,6 @@
 Interest payable in certain circumstances.
 
-114A.— (1) Where an amount of tax is refunded to a person in accordance with an order under section 103 and—
+114A.—(1) Where an amount of tax is refunded to a person in accordance with an order under section 103 and—
 
 (a) no amount of tax was properly refundable to that person under the order, or
 

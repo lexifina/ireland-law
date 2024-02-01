@@ -1,3 +1,3 @@
-Certain supplies of services — supplier not established in the State.
+Certain supplies of services — supplier not established in the State. (Repealed)
 
 13.— ...

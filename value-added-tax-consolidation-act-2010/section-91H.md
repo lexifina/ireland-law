@@ -1,6 +1,6 @@
 Special arrangements for value-added tax on import.
 
-91H. (1) In this section “special arrangements for value-added tax on import” means the arrangements provided for in this section for the payment of value-added tax on import by the person presenting the goods to customs on behalf of the person to whom the goods are destined.
+91H.—(1) In this section “special arrangements for value-added tax on import” means the arrangements provided for in this section for the payment of value-added tax on import by the person presenting the goods to customs on behalf of the person to whom the goods are destined.
 
 (2) Where—
 

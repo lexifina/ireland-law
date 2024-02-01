@@ -1,6 +1,6 @@
 Cancellation of a registration number - special provisions for notification and publication
 
-108D. Where—
+108D.— Where—
 
 (a) a registration number assigned to a person in accordance with section 65(2) is cancelled, and
 

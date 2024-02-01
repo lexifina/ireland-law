@@ -1,6 +1,6 @@
 Adjustments to returns.
 
-77A. (1) Where, following the submission to the Collector-General of a return (in this section referred to as an "original return") required to be furnished under section 76 or 77, as appropriate, that return is adjusted by an accountable person by means of—
+77A.—(1) Where, following the submission to the Collector-General of a return (in this section referred to as an "original return") required to be furnished under section 76 or 77, as appropriate, that return is adjusted by an accountable person by means of—
 
 (a) a correction to the original return,
 

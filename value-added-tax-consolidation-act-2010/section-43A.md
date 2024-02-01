@@ -1,6 +1,6 @@
 Vouchers — Multi-purpose and single - purpose, etc.
 
-43A. (1) In this section—
+43A.—(1) In this section—
 
 "multi-purpose voucher" means a voucher other than a single-purpose voucher;
 

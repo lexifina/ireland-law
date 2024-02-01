@@ -1,6 +1,6 @@
 Import scheme - interpretation and general provisions.
 
-91I. (1) In this section and sections 91J and 91K—
+91I.—(1) In this section and sections 91J and 91K—
 
 "intermediary" means a person established in the Community appointed by the taxable person making distance sales of goods imported from third territories or third countries as the person liable for the payment of the value-added tax and to fulfil the obligations laid down in the import scheme in the name and on behalf of the taxable person;
 
