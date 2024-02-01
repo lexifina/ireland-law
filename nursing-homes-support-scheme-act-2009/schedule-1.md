@@ -96,11 +96,11 @@ G. Add amount produced by step C to amount produced by step F to establish net w
 
 H. Take 80 per cent of amount produced by step C.
 
-I. Take 40 per cent of amount produced by step F.
+I. Take 0 per cent of amount produced by step F.
 
 J. Add amount produced by step H to amount produced by step I which amount, unless step K applies, is the weekly assessed income.
 
-K. Where applying the rule in step J produces a result whereby the sum of 20 per cent of the amount produced by step C and 60 per cent of the amount produced by step F is less than the minimum retained income threshold, the weekly assessed income is the amount established by step G less the minimum retained income threshold.
+K. Where applying the rule in step J produces a result whereby the sum of 20 per cent of the amount produced by step C and 100 per cent of the amount produced by step F is less than the minimum retained income threshold, the weekly assessed income is the amount established by step G less the minimum retained income threshold.
 
 Assessment of cash assets
 
@@ -182,9 +182,9 @@ G. Divide amount established by step F by 52 to produce the assessed weekly cash
 
 Assessment of relevant assets
 
-4. Assess the weekly value of the relevant assets by following the directions at steps A to G:
+4. Assess the weekly value of the relevant assets by following the directions at steps A to G: A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
 
-A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value. B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
 C. Aggregate all net values of relevant assets established under step B.
 
@@ -214,9 +214,9 @@ B. From the annual income of each of those persons deduct allowable deductions a
 
 C. Aggregate the two net annual incomes established under step B.
 
-D. Divide amount produced by step C by 52 to establish net weekly income.
+D. Divide amount produced by step C by 52 to establish net weekly income. E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
 
-E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income. F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
+F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
 
 Assessment of income where eligible rental income applicable
 
@@ -242,19 +242,17 @@ I. Add amount produced by step D to amount produced by step H to establish net w
 
 J. Take 40 per cent of amount produced by step D.
 
-K. Take 20 per cent of amount produced by step H.
+K. Take 0 per cent of amount produced by step H.
 
 L. Add amount produced by step J to amount produced by step K which amount, unless step M applies, is the weekly assessed income.
 
-M. Where applying the rule in step L produces a result whereby the sum of 60 per cent of the amount produced by step D and 80 per cent of the amount produced by step H is less than the minimum retained income threshold, the weekly assessed income is the amount established by step I less the minimum retained income threshold.
+M. Where applying the rule in step L produces a result whereby the sum of 60 per cent of the amount produced by step D and 100 per cent of the amount produced by step H is less than the minimum retained income threshold, the weekly assessed income is the amount established by step I less the minimum retained income threshold.
 
 Assessment of cash assets
 
 3. Assess the weekly value of the cash assets by following the directions at steps A to G:
 
-A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of "cash assets" and value each cash asset on the basis of the estimated market value.
-
-B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
+A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of "cash assets" and value each cash asset on the basis of the estimated market value. B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
 
 C. Aggregate all net values of cash assets established under step B.
 
