@@ -32,8 +32,6 @@ Definitions.
 
 (b) in the case of the Union scheme—
 
-7 OJ No. L77, 23.3.2011, p.1 8 OJ No. L290, 20.10.2012, p.1 9 OJ No. L313, 4.12.2019, p. 14 10 OJ No. L244, 29.7.2020, p. 9 11 OJ No. L343, 29.12.2015, p. 1
-
 (i) the Member State in which the taxable person has established his or her business,
 
 (ii) where the taxable person has not established his or her business in the Community, but has a fixed establishment in the Community, the Member State in which he or she has that fixed establishment,

@@ -4,7 +4,7 @@ Section 2(4A)
 
 NON-APPLICATION OF SECTION 2(4A) TO CERTAIN PROVISIONS OF ACT
 
-Part 1
+PART 1
 
 Section 33
 
@@ -30,7 +30,7 @@ Section 91
 
 ...
 
-Part 2
+PART 2
 
 Section 35A
 
