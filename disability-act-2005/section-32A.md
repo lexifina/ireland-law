@@ -1,6 +1,6 @@
-Sectoral plan of Minister for Children, Equality, Disability, Integration and Youth.
+Sectoral
 
-32A. (1) A sectoral plan prepared by the Minister for Children, Equality, Disability, Integration and Youth (‘the Minister’) shall contain information concerning—
+32A.—(1) A sectoral plan prepared by the Minister for Children, Equality, Disability, Integration and Youth (‘the Minister’) shall contain information concerning—
 
 (a) specialist community-based disability services,
 
