@@ -26,8 +26,6 @@ F55[Aviation Stakeholders Forum and Licence Holders Charter
 
 (b) general principles and policies relating to enforcement actions undertaken by the company;
 
-OJ No. L122, 24.4.2014, p.18
-
 (c) the right to a response in writing from the company in relation to any refusal to grant a licence, suspension or revocation of a licence or amendment of a licence;
 
 (d) the right to avail of an appeal mechanism in relation to any refusal to grant a licence, suspension or revocation of a licence or amendment of a licence;
