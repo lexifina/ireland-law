@@ -1,6 +1,6 @@
 Other charges by company.
 
-44. (1) The company may charge such amounts as it considers appropriate in respect of any of the following:
+44.— (1) The company may charge such amounts as it considers appropriate in respect of any of the following:
 
 (a) the performance by it of its functions under this Act or any other enactment;
 

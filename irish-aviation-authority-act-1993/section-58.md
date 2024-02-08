@@ -2,7 +2,7 @@
 
 Schedule 1 - Annexes to Chicago Convention
 
-58. (1) Subject to subsection (2), the company, after consultation with the Minister, may make such orders as appear to it to be necessary or expedient for the purpose of giving effect to the Annexes (or any part thereof) to the Chicago Convention specified in Schedule 1.
+58.—(1) Subject to subsection (2), the company, after consultation with the Minister, may make such orders as appear to it to be necessary or expedient for the purpose of giving effect to the Annexes (or any part thereof) to the Chicago Convention specified in Schedule 1.
 
 (2) Subsection (1) shall not entitle the company to make an order—
 
