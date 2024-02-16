@@ -1,6 +1,6 @@
-F30[Arrangements for coroners’ districts other than coroner’s district of Dublin
+F39[Arrangements for coroners’ districts other than coroner’s district of Dublin
 
-13B. (1) In addition to the instances set out in section 13(3) where a deputy coroner may act for the coroner by whom he or she was appointed, the Minister may, in exceptional circumstances arising from the number or nature of deaths resulting from a pandemic, catastrophic event or other occurrence leading to mass fatalities, upon a request in that behalf from a coroner for a coroner’s district other than the coroner’s district of Dublin, authorise a deputy coroner appointed by that coroner to act temporarily for that coroner in that district if the Minister is satisfied that such authorisation is necessary for the purpose of increasing the number and progress of inquiries under this Act into deaths in that district.
+13B.—(1) In addition to the instances set out in section 13(3) where a deputy coroner may act for the coroner by whom he or she was appointed, the Minister may, in exceptional circumstances arising from the number or nature of deaths resulting from a pandemic, catastrophic event or other occurrence leading to mass fatalities, upon a request in that behalf from a coroner for a coroner’s district other than the coroner’s district of Dublin, authorise a deputy coroner appointed by that coroner to act temporarily for that coroner in that district if the Minister is satisfied that such authorisation is necessary for the purpose of increasing the number and progress of inquiries under this Act into deaths in that district.
 
 (2) An authorisation under subsection (1) shall be made only with the consent of the deputy coroner concerned.
 
@@ -22,11 +22,11 @@ F30[Arrangements for coroners’ districts other than coroner’s district of Du
 
 (6) The Minister shall, before making or renewing an authorisation under this section, consult with the local authority in whose area the coroner’s district is situate.
 
-(7) The Minister shall, where an authorisation is in force under this section and no senior coroner stands designated under section 11B(9)(a), designate the coroner who made the request under this section as the senior coroner for that district for the period of such authorisation and that senior coroner shall order the work of the district.
+(7) ...
 
-(8) During the illness or absence of the person designated under subsection (7) to be the senior coroner for a coroner’s district, the Minister may designate the deputy coroner for the district concerned to perform the functions of the senior coroner of that district for any period during such illness or absence.
+(8) ...
 
-(9) A designation under subsection (7) or (8) shall not affect the independence of any other coroner, or of any other person exercising the powers and duties of the coroner, for that district in the performance of his or her functions as such.
+(9) ...
 
 (10) A deputy coroner authorised to act for the coroner of a district under this section shall, for the period the authorisation is in force, have all the powers and duties, other than the power to appoint a deputy under section 13(1), of a coroner for that district.
 

@@ -1,6 +1,6 @@
 Tenure of office of coroner.
 
-11.—(1) Every coroner appointed after the commencement of this Act shall, unless he sooner dies, resigns or is removed from office, hold office until he or she attains the age of 72 years.
+11.—(1) Subject to section 10A, every coroner appointed after the commencement of this Act shall, unless he sooner dies, resigns or is removed from office, hold office until he or she attains the age of 72 years.
 
 (2) Subsection (1) of this section shall not apply to a coroner appointed after the commencement of this Act where the qualifications for his appointment were prescribed before such commencement.
 
