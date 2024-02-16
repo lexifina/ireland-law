@@ -8,18 +8,30 @@ Coroner's district of Dublin.
 
 (4) The Minister shall make administrative and financial arrangements in respect of the coroner’s district of Dublin and that obligation shall be deemed to have come into operation on 1 January 2018 and sections 8 and 9 shall be deemed to have ceased to apply to that district with effect from that date.
 
-(5) A person holding the office of coroner or deputy coroner in the coroner’s district of Dublin shall, in accordance with arrangements under subsection (4), be paid such salary as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
+(5) A person appointed under subsection (6A) to be a coroner for the coroner’s district of Dublin shall hold office on such terms and conditions (including terms and conditions relating to remuneration and superannuation) as the Minister, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, determines.
 
 (5A) The persons who immediately before the coming into operation of section 4(a) of the Coroners (Amendment) Act 2019 held the offices of coroner and deputy coroner in the coroner’s district of Dublin shall, following such coming into operation, continue to hold such respective offices.
 
 (6) Where a vacancy occurs in respect of the coroner’s district of Dublin, the Minister shall make arrangements to fill the vacancy.
 
-(6A) A coroner for the coroner’s district of Dublin shall be appointed by the Minister.
+(6A) The Minister may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, appoint one or more than one person to be a coroner for the coroner’s district of Dublin.
 
-(6B) The Minister shall, before appointing a person to be a coroner for the coroner’s district of Dublin, satisfy himself or herself that the person possesses the requisite knowledge and ability for the proper discharge of the duties of that office.
+(6B) A person appointed under subsection (6A) to be a coroner for the coroner’s district of Dublin shall be a civil servant in the Civil Service of the State.
 
-(7) Where more than one person stands duly appointed to be a coroner in respect of the coroner’s district of Dublin, the Minister shall designate one of those persons to be the senior coroner of that district, but any such designation shall not affect the independence of any other coroner of the district in the performance of his or her functions as a coroner.
+(6C) A person appointed under subsection (6A) to be a coroner for the coroner’s district of Dublin shall not, without obtaining the prior consent in writing of the Minister—
 
-(8) The person designated under subsection (7) to be senior coroner in respect of the coroner’s district of Dublin shall order the work of that district.
+(a) hold any other office or occupy any other position in respect of which emoluments are payable, or
 
-(9) During the illness or absence of the person designated under subsection (7) to be the senior coroner of the coroner’s district of Dublin, the Minister may designate another coroner appointed in respect of that district to perform the functions of the senior coroner of that district for any period during such illness or absence.
+(b) carry on any other business, trade or profession.
+
+(6D) Section 14A shall not apply to a coroner for the coroner’s district of Dublin appointed under subsection (6A).
+
+(6E) On the coming into operation of section 2 of the Coroners (Amendment) Act 2024, sections 13 and 15 shall cease to apply to a coroner for the coroner’s district of Dublin appointed under subsection (6A).
+
+(6F) A person who, immediately before the coming into operation of section 2 of the Coroners (Amendment) Act 2024, held the office of deputy coroner in the coroner’s district of Dublin shall, on such coming into operation, cease to hold that office and, for the avoidance of doubt, subsection (5A) and section 13(9) shall, to the extent that they apply to any such deputy coroner, cease to apply to that deputy coroner.
+
+(7) ...
+
+(8) ...
+
+(9) ...

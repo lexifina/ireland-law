@@ -1,8 +1,8 @@
 Deputy coroners.
 
-13.—(1) Subject to subsection (1A), every coroner shall appoint a person approved of for the purpose by the local authority by which the coroner was appointed , or by the Minister in the case of a coroner for the coroner’s district of Dublin, to be his deputy and the deputy shall be known, and is in this Act referred to, as a deputy coroner.
+13.—(1) Subject to subsection (1A) and section 6A(6E), every coroner shall appoint a person approved of for the purpose by the local authority by which the coroner was appointed ... to be his deputy and the deputy shall be known, and is in this Act referred to, as a deputy coroner.
 
-(1A) A person shall not be appointed as a deputy coroner, without the prior approval of the Minister, for a coroner district other than the coroner’s district of Dublin (in which latter case the approval of the Minister is given under subsection (1)).
+(1A) A person shall not be appointed as a deputy coroner without the prior approval of the Minister.
 
 (2) A coroner may at any time revoke an appointment made by him under this section, but the revocation shall not have effect unless and until he makes a new appointment of a deputy coroner.
 
@@ -12,9 +12,9 @@ Deputy coroners.
 
 (a) the person (if any) who was the deputy coroner for that district immediately before the occurrence of the vacancy shall, unless he sooner dies, resigns or is removed from office, continue in office as deputy coroner for that district until the termination of the vacancy;
 
-(b) during the continuance of the vacancy, the deputy coroner for that district shall have all the powers and duties of the coroner for that district and, except in the case of the coroner’s district of Dublin, shall be paid by the local authority in whose area the district is situate the same salary as would have been payable by such local authority to the coroner for that district if he had continued in office.
+(b) during the continuance of the vacancy, the deputy coroner for that district shall have all the powers and duties of the coroner for that district and shall be paid by the local authority in whose area the district is situate the same salary as would have been payable by such local authority to the coroner for that district if he had continued in office.
 
-(5) (a) Where a coroner is absent from his duties with the permission of the Minister, the Minister may authorise the deputy coroner for the district of that coroner to perform all the duties of that coroner's office and, while the authorisation is in force, the deputy coroner shall, for the purposes of this Act except sections 6A(5) (insofar as it relates to the office of coroner) and 9, be deemed to be the coroner for that district.
+(5) (a) Where a coroner is absent from his duties with the permission of the Minister, the Minister may authorise the deputy coroner for the district of that coroner to perform all the duties of that coroner's office and, while the authorisation is in force, the deputy coroner shall, for the purposes of this Act except section 9, be deemed to be the coroner for that district.
 
 (b) The Minister may revoke an authorisation given under this subsection.
 
