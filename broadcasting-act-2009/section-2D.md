@@ -1,6 +1,6 @@
 Procedure for giving notices.
 
-2D. (1) Where a provision of this Act provides for a notice to be given to a person, the notice shall be given in one of the following ways:
+2D.— (1) Where a provision of this Act provides for a notice to be given to a person, the notice shall be given in one of the following ways:
 
 (a) by delivering it to the person (where the person is an individual);
 
@@ -25,6 +25,8 @@ Procedure for giving notices.
 (5) For the purposes of subsection (1)(d), a notice is sent to a person by electronic means in accordance with this subsection if—
 
 (a) it is sent to an email address, fax number, or other electronic contact point, at which the person has agreed in writing to receive notices under this Act, and
+
+OJ No. L. 241, 17.9.2015
 
 (b) a record that the email, fax, or other electronic message has been sent is made for the sender by the email system, fax machine, or other electronic system used.
 
