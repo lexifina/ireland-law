@@ -70,4 +70,6 @@ ORAL HEARINGS
 
 14. A person who does not comply with a requirement under paragraph 2 or paragraph 10(b), shall be guilty of a category 2 offence.
 
+14A. Without prejudice to paragraph 13, a person may be liable to an administrative financial sanction in accordance with Part 8B if in an oral hearing where the suspected contravention is an infringement of the Digital Services Regulation he or she knowingly gives false or misleading evidence on oath or affirmation.
+
 15. A statement or admission made by a person in the course of an oral hearing, shall not be admissible in evidence in proceedings brought against the person for an offence, other than an offence under paragraph 13, and this shall be explained to the person in ordinary language by the conducting authority.

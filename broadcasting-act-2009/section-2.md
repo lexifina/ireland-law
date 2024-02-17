@@ -102,6 +102,8 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 
 “designated online service” means a service designated under section 139E;
 
+“Digital Services Regulation” means Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act);
+
 “Directive” means Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services, as amended by Directive (EU) 2018/1808 of the European Parliament and of the Council of 14 November 2018;
 
 “director general” means a person appointed as the director general of a corporation under section 89 (1);
@@ -142,11 +144,11 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 
 “employment” includes—
 
+OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
+
 (a) full-time paid employment,
 
 (b) part-time paid employment,
-
-OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
 
 (c) temporary paid employment for a period of 16 weeks or more in the period of a year, or
 
@@ -172,6 +174,8 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 ...
 
+“intermediary service provider” means a provider of intermediary services;
+
 “Joint Oireachtas Committee” means a Joint Committee of the Houses of the Oireachtas to which those Houses have assigned the role of examining matters to which this Act relates;
 
 “local community” means the community of a town or other urban or rural area;
@@ -193,6 +197,10 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 “media service rules” means rules made under section 46O;
 
 “Member State” includes a state that is a contracting state to the EEA Agreement;
+
+“Member State competent authority” means an authority that is designated by a Member State (other than the State) as a competent authority for the purposes of Article 49(1) of the Digital Service Regulation;
+
+“Member State Digital Services Coordinator” means an authority that is designated by a Member State (other than the State) as a Digital Services Coordinator for the purposes of Article 49(2) of the Digital Service Regulation;
 
 “Minister” means Minister for Communications, Energy and Natural Resources;
 
@@ -248,9 +256,7 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 (i) the provider of which is under the jurisdiction of the State, and
 
-(ii) on which user-generated content is made available (directly or through providing access to another service),
-
-OJ No. L. 241, 17.9.2015, p. 1 but does not include an audiovisual on-demand media service;
+(ii) on which user-generated content is made available (directly or through providing access to another service), but does not include an audiovisual on-demand media service;
 
 “RTÉ” means Raidió Teilifís Éireann;
 
@@ -283,6 +289,8 @@ OJ No. L. 241, 17.9.2015, p. 1 but does not include an audiovisual on-demand med
 “terrestrial means”, in relation to the transmission of a broadcasting service, means any means of transmitting such a service by wireless telegraphy, other than by means of ... a satellite device and “digital terrestrial means” shall be read accordingly;
 
 ...
+
+OJ No. L. 241, 17.9.2015, p. 1
 
 “user-generated content”, in relation to a relevant online service, means content created by a user of the service and uploaded to the service by that or another user;
 

@@ -1,20 +1,14 @@
 Appeal against decision.
 
-139ZX.— (1) The provider to whom a decision under section 139ZS relates may, within 28 days from the date on which the notice referred to in section 139ZT is received, or where section 139ZV applies, within 28 days from the date on which the notice referred to in section 139ZV(3) is received, appeal to the appropriate court against the decision.
+139ZX.— (1) The inquiry subject to whom a decision under section 139ZS relates may, within 28 days from the date on which the notice referred to in section 139ZT is received, or where section 139ZV applies, within 28 days from the date on which the notice referred to in section 139ZV(3) is received, appeal to the appropriate court against the decision.
 
-(2) An appeal may only be made on—
+(2) ...
 
-(a) any ground that could, but for section 38(1), be relied upon by the provider in an application seeking judicial review of the Commission’s decision,
-
-(b) in so far as it is not within the grounds referred to in paragraph (a), the ground that any sanction imposed is not proportionate, or
-
-(c) more than one of the grounds referred to at paragraph (a) and (b).
-
-(3) The appropriate court may, on the application of a provider to whom a decision under section 139ZS relates, extend the period for the making of an appeal under subsection (1), where it is satisfied that—
+(3) The appropriate court may, on the application of the inquiry subject, extend the period for the making of an appeal under subsection (1), where it is satisfied that—
 
 (a) there is good and sufficient reason for doing so,
 
-(b) the circumstances that resulted in the failure to bring an appeal within the period referred to in subsection (1) were outside the control of the provider, and
+(b) the circumstances that resulted in the failure to bring an appeal within the period referred to in subsection (1) were outside the control of the inquiry subject, and
 
 (c) an application for confirmation has not been determined under section 139ZY.
 
@@ -22,7 +16,7 @@ Appeal against decision.
 
 (a) shall have regard to the record of the decision the subject of the appeal, and
 
-(b) may, where it considers it necessary for the fair and proper determination of the appeal, consider any evidence adduced or submission made by the provider concerned, whether or not already adduced or made to the authorised officer or the Commission.
+(b) may, where it considers it necessary for the fair and proper determination of the appeal, consider any evidence adduced or submission made by the inquiry subject concerned, whether or not already adduced or made to the authorised officer or the Commission.
 
 (5) Subject to subsection (7), the appropriate court may, on the hearing of an appeal under subsection (1)—
 

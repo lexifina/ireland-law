@@ -8,7 +8,7 @@ Guidance materials and advisory notices.
 
 (b) on any other matter relating to the operation of this Part or for which provision may be made by an online safety code, and
 
-(c) otherwise for the protection of minors and the general public from harmful online content and age-inappropriate online content.
+(c) otherwise for the protection of children and the general public from harmful online content and age-inappropriate online content.
 
 (2) Before issuing guidance materials under subsection (1), the Commission shall consult—
 

@@ -89,3 +89,9 @@ Powers and functions of Commission.
 (iv) other areas relevant to its functions, that the Minister may direct, and
 
 (e) co-operate, in relation to the regulation of gambling, with any public body concerned with that matter.
+
+(6) The Commission is designated, for the purposes of Article 49(1) of the Digital Services Regulation, as—
+
+(a) the competent authority (other than in respect of Articles 30, 31 and 32 of that Regulation), and
+
+(b) the Digital Services Coordinator.

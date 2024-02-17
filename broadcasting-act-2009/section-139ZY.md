@@ -1,6 +1,6 @@
 Circuit Court confirmation of decision.
 
-139ZY.— (1) Where the provider to whom a decision under section 139ZS relates does not appeal against the decision in accordance with section 139ZX(1), the Commission shall, as soon as is practicable after the expiration of the period referred to in section 139ZX(1), and on notice to the provider, make an application in a summary manner to the Circuit Court for confirmation of the decision.
+139ZY.— (1) Where the inquiry subject to whom a decision under section 139ZS relates does not appeal against the decision in accordance with section 139ZX(1), the Commission shall, as soon as is practicable after the expiration of the period referred to in section 139ZX(1), and on notice to the inquiry subject, make an application in a summary manner to the Circuit Court for confirmation of the decision.
 
 (2) On the hearing of an application under subsection (1), the Circuit Court shall confirm the decision unless it is satisfied, on the basis of the evidence that was before the Commission when making the decision—
 
@@ -18,7 +18,7 @@ Circuit Court confirmation of decision.
 
 (b) remit it for reconsideration by the Commission, subject to such directions as it considers appropriate.
 
-(4) A provider may, as soon as practicable after receiving notice of the application under subsection (1), inform the Commission in writing that it does not intend to appear at, or make submissions at, the hearing of the application.
+(4) The inquiry subject may, as soon as practicable after receiving notice of the application under subsection (1), inform the Commission in writing that it does not intend to appear at, or make submissions at, the hearing of the application.
 
 (5) If an application to extend the period for the making of an appeal against a decision is made under section 139ZX(3) to the High Court, the Circuit Court shall make an order staying any application under subsection (1) for the confirmation of that decision until the High Court has made a decision under section 139ZX(3).
 

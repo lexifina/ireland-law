@@ -1,8 +1,8 @@
 Judicial review.
 
-38.— (1) Leave shall not be granted for judicial review of a decision under section 139ZS.
+38.— (1) ...
 
-(2) Leave shall not be granted for judicial review of any other decision made or act done by the Commission under this Act unless—
+(2) Leave shall not be granted for judicial review of any decision made or act done by the Commission under this Act unless—
 
 (a) the application for leave is made to the High Court within the period of 28 days beginning on the date of the decision or the date of the doing of the act, or
 
@@ -18,7 +18,7 @@ Judicial review.
 
 (5) Subject to subsection (6), no appeal shall lie to the Court of Appeal from a decision of the High Court on:
 
-(a) an application for leave for judicial review made in accordance with subsection (1) or (2);
+(a) an application for leave for judicial review made in accordance with subsection (2);
 
 (b) an application to extend the period for the making of such an application in accordance with subsection (2);
 

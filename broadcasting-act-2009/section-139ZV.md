@@ -8,7 +8,7 @@ Determination of amount of administrative financial sanction.
 
 (b) where section 139ZU(2)(b) applies, the expiry of the period or further period referred to in that paragraph, or if applicable the period specified in any notice under section 139ZU(3), whether or not any submissions have been made or information provided.
 
-(3) As soon as practicable after making the determination, the Commission shall give the provider a notice in writing of the determination and the reasons for it.
+(3) As soon as practicable after making the determination, the Commission shall give the inquiry subject a notice in writing of the determination and the reasons for it.
 
 (4) As soon as practicable after giving the notice under subsection (3), the Commission shall publish the notice on a website maintained by it.
 

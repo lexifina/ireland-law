@@ -6,9 +6,13 @@ Disclosure of personal data.
 
 (b) a national regulatory authority or body designated by another Member State under Article 30 of the Directive;
 
+(ba) the Competition and Consumer Protection Commission;
+
 (c) the Garda Síochána;
 
 (d) a broadcaster or a provider of an audiovisual on-demand media service;
+
+(da) an intermediary service provider;
 
 (e) a body prescribed in regulations made by the Minister.
 
@@ -18,13 +22,31 @@ Disclosure of personal data.
 
 (b) in the case of subsection (1)(b), where the Commission considers that a complaint, or part of a complaint, made under section 48 is made in relation to a broadcaster, or a provider of an audiovisual on-demand media service, which is under the jurisdiction of another Member State, and the Commission considers that the disclosure is necessary and proportionate for the purposes of transferring the complaint or part to the national regulatory authority or body designated by that Member State;
 
+(ba) In the case of subsection (1)(ba), where the Commission considers that the disclosure is necessary and proportionate—
+
+(i) for the effective implementation of the Digital Services Regulation, or
+
+(ii) for the purposes of transferring a complaint or part of a complaint to the Competition and Consumer Protection Commission, where a complaint, or part of a complaint made under section 201 relates to a failure to comply with the Digital Services Regulation;
+
 (c) in the case of subsection (1)(c), where the Commission considers that the disclosure may be necessary and proportionate for the prevention or investigation of a criminal offence;
 
 (d) in the case of subsection (1)(d), where the Commission considers that a complaint, or part of a complaint, made under section 48 is made in relation to the broadcaster or provider of an audiovisual on-demand media service, and the Commission considers that the disclosure is necessary and proportionate for the purposes of transferring the complaint or part to the broadcaster or provider under section 48(3);
 
+(da) in the case of subsection (1)(da),where the Commission considers that a complaint, or part of a complaint, made under section 201 is made in relation to an intermediary service provider, and the Commission considers that the disclosure is necessary and proportionate for the purposes of considering a complaint or part of a complaint made under that section;
+
 (e) in the case of any paragraph of subsection (1), where the Commission considers that the disclosure is necessary and proportionate in such other circumstances as may be prescribed in regulations made by the Minister.
 
 (3) Where the Commission discloses a person’s personal data under this section the Commission shall notify the person of the disclosure in so far as it is practicable to do so.
+
+(3A) Where the Commission processes or discloses special categories of personal data in accordance with this section, it shall only do so where the Commission considers that the disclosure is necessary and proportionate in accordance with the Data Protection Regulation and the Act of 2018.
+
+(3B) The Minister may make regulations prescribing suitable and specific measures for the processing of special categories of personal data under this section.
+
+(3C) Where personal data processed by the Commission is required for the purposes of the prevention, investigation, detection or prosecution of a criminal offence, the data—
+
+(a) may be processed for as long as it is required for such prevention, investigation, detection or prosecution, and
+
+(b) shall be permanently deleted after it is no longer required for such prevention, investigation, detection or prosecution.
 
 (4) The matters that section 19 (1) of the Data Sharing and Governance Act 2019 requires to be specified or included in a data-sharing agreement shall be specified or included in any agreement entered into by the Commission for the disclosure to another body of personal data in accordance with subsection (1), subject to the following modifications to the description of those matters in section 19 (1) of that Act:
 
@@ -47,3 +69,11 @@ Disclosure of personal data.
 (8) Regulations made under this section shall be laid by the Minister before each House of the Oireachtas as soon as may be after they are made and, if a resolution annulling the regulations is passed by either such House within the next 21 days on which the House sits after the regulations are laid before it, the regulations shall be annulled accordingly, but without prejudice to the validity of anything previously done under them.
 
 (9) The Commission shall give a copy of any agreement referred to in subsection (4) to the Minister.
+
+(10) In this section—
+
+“Act of 2018” means the Data Protection Act 2018;
+
+“special categories of personal data” has the same meaning as it has in the Act of 2018;
+
+“suitable and specific measures” means measures to be taken to safeguard the fundamental rights and freedoms of data subjects in processing the personal data of those data subjects and may include measures specified in section 36(1) of the Act of 2018.

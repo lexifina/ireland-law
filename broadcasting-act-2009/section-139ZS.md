@@ -1,8 +1,8 @@
 Decision by Commission.
 
-139ZS.— (1) The Commission shall decide, in respect of a provider who is the subject of a report under section 139ZM—
+139ZS.— (1) The Commission shall decide, in respect of a person who is the subject of a report under section 139ZM—
 
-(a) whether or not it is satisfied on the balance of probabilities that the provider has committed the contravention to which the investigation relates, and
+(a) whether or not it is satisfied on the balance of probabilities that the person has committed the contravention to which the investigation relates, and
 
 (b) if so, whether or not to impose an administrative financial sanction.
 
@@ -10,7 +10,7 @@ Decision by Commission.
 
 (3) For the purposes of making a decision under subsection (1), the Commission shall consider—
 
-(a) the final report provided under section 139ZM(7) and any submissions provided with the report,
+(a) the final report provided under subsection (7) of section 139ZM and any submissions or views provided with the report in accordance with that subsection,
 
 (b) any evidence adduced or submissions made during an oral hearing conducted under section 139ZR,
 
@@ -18,4 +18,4 @@ Decision by Commission.
 
 (d) any submissions made pursuant to a notice under subsection (1) or (6) of section 139ZR.
 
-(4) In deciding under subsection (1)(b) whether or not to impose an administrative financial sanction on a provider, the Commission shall have regard to the matters referred to in paragraphs (a), (b), (c), (d) (e), (g), (h), (i), (j) and (k) of section 139ZW(3).
+(4) In deciding under subsection (1)(b) whether or not to impose an administrative financial sanction on a person, the Commission shall have regard to the matters referred to in paragraphs (a), (b), (c), (d) (e), (g), (h), (i), (j) and (k) of section 139ZW(3).

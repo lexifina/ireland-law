@@ -8,11 +8,21 @@ Confidential information.
 
 (b) the disclosure is made to a Minister of the Government,
 
+(ba) the disclosure is made to the Competition and Consumer Protection Commission for the purposes of the Digital Services Regulation including where, in the opinion of the person making the disclosure, the information may relate to the commission of an offence under this Act,
+
 (c) the disclosure is made to a public body, whether in the State or otherwise, for the purposes of facilitating co-operation between the Commission and such body in the performance of their respective functions, or
 
 (d) the disclosure is made to a member of the Garda Síochána and, in the opinion of the person making the disclosure, the information may relate to the commission of an offence (whether an offence under this Act or not).
 
 (3) A person who contravenes subsection (1) shall be guilty of a category 3 offence.
+
+(3A) Notwithstanding any other enactment or rule of law, if information, in the opinion of any body or person referred to in paragraphs (b) to (d) of subsection (2), may relate to the commission of an offence under this Act, then the information may be disclosed by that person or body to—
+
+(a) a Commissioner,
+
+(b) a member of the staff of the Commission, or
+
+(c) an authorised officer.
 
 (4) In this section—
 

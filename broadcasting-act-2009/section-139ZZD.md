@@ -38,4 +38,4 @@ Content limitation notice.
 
 (d) that the provider ensure that prominence is not given to the content, or the content is not recommended to users of the designated online service, or to users below a specified age, including by automated means.
 
-(5) A notice under subsection (1) shall not impose an obligation on a provider contrary to Article 15 of the E-Commerce Directive.
+(5) A notice under subsection (1) shall not impose an obligation on a provider contrary to Article 8 of the Digital Services Regulation.
