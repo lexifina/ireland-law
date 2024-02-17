@@ -1,6 +1,6 @@
 Meaning of “under the jurisdiction of the State”: providers of video-sharing platform services.
 
-2B. (1) For the purposes of this Act, the question whether the provider of a video-sharing platform service is under the jurisdiction of the State (or another Member State) is to be determined in accordance with this section.
+2B.— (1) For the purposes of this Act, the question whether the provider of a video-sharing platform service is under the jurisdiction of the State (or another Member State) is to be determined in accordance with this section.
 
 (2) The provider of a video-sharing platform service is under the jurisdiction of a Member State if the provider is established in the territory of that state.
 
