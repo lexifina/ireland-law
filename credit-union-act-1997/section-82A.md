@@ -1,6 +1,6 @@
 Proxies.
 
-82A. (1) Subject to subsection (3), a credit union may allow in its rules for any member of the credit union entitled to attend and vote at a general meeting of the credit union to be entitled to appoint another person (whether a member or not) as his or her proxy to attend and vote instead of him or her.
+82A. (1) Subject to subsection (3), a credit union may allow in its rules for any member of the credit union entitled to attend and vote at a general meeting of the credit union to be entitled to appoint another person (whether a member or not) as the member’s proxy to attend and vote instead of the member.
 
 (2) A proxy so appointed shall have the same right as the member to speak at the meeting and to vote on a show of hands and on a poll.
 
@@ -8,7 +8,7 @@ Proxies.
 
 (4) The instrument appointing a proxy (the "instrument of proxy") shall be in the form provided for in the rules of a credit union and shall be in writing—
 
-(a) under the hand of the appointer or of his or her attorney duly authorised in writing, or
+(a) under the hand of the appointer or of the appointer’s attorney duly authorised in writing, or
 
 (b) if the appointer is a body corporate, either under seal of the body corporate or under the hand of an officer or attorney of it duly authorised in writing.
 
@@ -30,4 +30,4 @@ Proxies.
 
 (11) Subject to subsection (12), if, for the purpose of any meeting of a credit union, invitations to appoint as proxy a person or one of a number of persons specified in the invitations are issued at the credit union’s expense to some only of the members entitled to be sent a notice of the meeting and to vote at it by proxy, any officer of the credit union who knowingly and intentionally authorises or permits their issue in that manner shall be guilty of an offence.
 
-(12) An officer shall not be guilty of an offence under subsection (11) by reason only of the issue to a member, at his or her request in writing, of a form of appointment naming the proxy or of a list of persons willing to act as proxy if the form or list is available on request in writing to every member entitled to vote at the meeting by proxy.
+(12) An officer shall not be guilty of an offence under subsection (11) by reason only of the issue to a member, at the member’s request in writing, of a form of appointment naming the proxy or of a list of persons willing to act as proxy if the form or list is available on request in writing to every member entitled to vote at the meeting by proxy.

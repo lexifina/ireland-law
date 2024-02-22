@@ -10,7 +10,11 @@ Notice of general meetings.
 
 (c) in the case of a notice of a special general meeting, shall contain a statement that the annual accounts for the most recent financial year may be obtained, not later than seven days before the date of the general meeting, at the registered office of the credit union;
 
-(d) shall, within the relevant period, be delivered personally or by post to the auditor and to each member of the credit union and, if delivered by post to any member, shall be so delivered to the address of that member as recorded in the books of the credit union, and
+(d) shall, within the relevant period, be delivered—
+
+(i) personally, by post or by electronic means, to the auditor to such address as has been notified in writing to the credit union by the auditor for the purpose of receiving the notice, and
+
+(i) to each member of the credit union, and
 
 (e) shall, in the case of a general meeting proposed to be held wholly or partly by the use of electronic communications technology, state—
 
@@ -18,7 +22,7 @@ Notice of general meetings.
 
 (ii) details for access to the electronic platform,
 
-(iii) where required by a credit union, the time and manner by which an attendee must confirm his or her intention to attend the meeting,
+(iii) where required by a credit union, the time and manner by which an attendee must confirm the attendee’s intention to attend the meeting,
 
 (iv) any requirements or restrictions which the credit union has put in place in order to identify attendees who intend to attend the meeting,
 

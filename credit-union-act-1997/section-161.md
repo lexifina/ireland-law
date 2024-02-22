@@ -28,6 +28,6 @@ Proposals for compromise or scheme of arrangement.
 
 (6) For the purposes of this section and sections 162 and 163, the interest of a member of a credit union in the credit union is impaired if—
 
-(a) he is deprived of all or any part of the rights accruing to him by virtue of his shareholding in, or membership of, the credit union; or
+(a) the member is deprived of all or any part of the rights accruing to the member by virtue of the member’s shareholding in, or membership of, the credit union, or
 
-(b) he is deprived of the whole or part of his shareholding in the credit union.
+(b) the member is deprived of the whole or part of the member’s shareholding in the credit union.

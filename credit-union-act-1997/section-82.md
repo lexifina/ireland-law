@@ -2,7 +2,7 @@ Supplementing provisions as to general meetings.
 
 82.—(1) The Bank shall have the right to attend and speak at any general meeting of a credit union.
 
-(2) At a general meeting of a credit union, or any adjournment thereof, each member shall have only one vote on each question, irrespective of his shareholding in the credit union.
+(2) At a general meeting of a credit union, or any adjournment thereof, each member shall have only one vote on each question, irrespective of the member’s shareholding.
 
 (3) ...
 

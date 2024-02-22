@@ -24,7 +24,7 @@ MATTERS TO BE PROVIDED FOR IN RULES OF CREDIT UNION
 
 11. Provision for the audit of accounts by one or more auditors appointed by the credit union.
 
-12. Whether disputes between the credit union and any of its members, or any person claiming by or through any member or under the rules, shall be settled by reference to the Circuit Court, arbitration or the Bank for Registrar of Credit Unions.
+12. Provision for dealing with disputes between the credit union and any of its members, or any person claiming by or through any member or under the rules.
 
 13. Provision for the withdrawal of members from the credit union and for the claims of the representatives of deceased members or the assignees or trustees of the property of bankrupt members and for the payment of nominees.
 

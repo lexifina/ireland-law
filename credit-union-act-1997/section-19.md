@@ -1,6 +1,6 @@
 Expulsion and withdrawal from credit union.
 
-19.—(1) A member of a credit union may be expelled from the credit union by a resolution for his expulsion passed by not less than two-thirds of the members present and voting at a special general meeting called for the purpose, provided that the member concerned—
+19.—(1) A member of a credit union may be expelled from the credit union by a resolution for the member’s expulsion passed by not less than two-thirds of the members present and voting at a special general meeting called for the purpose, provided that the member concerned—
 
 (a) is given at least 21 days' notice in writing of the meeting and the proposed resolution; and
 
@@ -14,7 +14,7 @@ Expulsion and withdrawal from credit union.
 
 (5) A member of a credit union may withdraw from membership of the credit union by giving notice in accordance with the rules of the credit union.
 
-(6) Subject to subsections (7) and (8), all moneys due in respect of withdrawable shares and deposits by a credit union to a member who withdraws or is expelled from the credit union shall be paid to him after deduction of all moneys due from him to the credit union; and the nominal value of non-withdrawable shares held by a member who is expelled (but not one who withdraws) may also be paid to him (after deduction of all moneys so due).
+(6) Subject to subsections (7) and (8), all moneys due in respect of withdrawable shares and deposits by a credit union to a member who withdraws or is expelled from the credit union shall be paid to the member after deduction of all moneys due from the member to the credit union; and the nominal value of non-withdrawable shares held by a member who is expelled (but not one who withdraws) may also be paid to the member (after deduction of all moneys so due).
 
 (7) Notwithstanding anything in its rules or in any contract, a credit union may, if it thinks fit, postpone payment of the whole or any part of the moneys to be paid as mentioned in subsection (6) until the end of the period of 60 days beginning on the date of the expulsion or withdrawal of the member concerned.
 

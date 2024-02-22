@@ -62,4 +62,4 @@ Power of Registrar to give regulatory directions.
 
 (a) from receiving funds by way of voluntary non-repayable donation from its members or from such other person as may be approved by the Bank; or
 
-(b) from setting off to any extent a member's share capital against his indebtedness to the credit union (such a setoff being regarded as a repayment of share capital).
+(b) from setting off to any extent a member's share capital against the member’s indebtedness to the credit union (such a setoff being regarded as a repayment of share capital).

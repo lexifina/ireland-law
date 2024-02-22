@@ -12,7 +12,7 @@ The annual general meeting.
 
 (b) in the interests of the orderly and proper regulation of the business of a credit union, the Bank may direct the credit union to postpone, for a period not exceeding nine months, the holding of the annual general meeting of the credit union in respect of the financial year specified in the direction.
 
-(5) At each annual general meeting of a credit union, the directors shall lay before the credit union the annual accounts for the financial year in respect of which the meeting is held; and a copy of those accounts shall be delivered, together with the notice of the meeting, to every person entitled to receive such a notice.
+(5) At each annual general meeting of a credit union, the directors shall lay before the credit union the annual accounts for the financial year in respect of which the meeting is held; and a copy of those accounts shall be delivered, together with the notice of the meeting, to every person entitled under section 80(1) to receive a notice of the meeting.
 
 (6) If, with respect to any annual general meeting, the directors of a credit union fail to comply with subsection (5), every person who was a director at the date of the meeting shall be guilty of an offence.
 

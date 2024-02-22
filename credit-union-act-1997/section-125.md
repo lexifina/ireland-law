@@ -4,7 +4,7 @@ Settlement of disputes.
 
 125.—(1) Save as otherwise required by or under this Act, this section applies to any dispute between a credit union and—
 
-(a) a member of the credit union in his capacity as a member;
+(a) a member of the credit union in their capacity as a member;
 
 (b) any former member of the credit union (in that capacity) who ceased to be a member of the credit union not more than six months previously;
 
@@ -12,11 +12,11 @@ Settlement of disputes.
 
 (d) any person claiming under the rules of the credit union; and references in subsections (2) to (5) to a dispute shall be construed accordingly.
 
-(2) Subject to subsections (3) and (5), if a credit union's rules give directions as to the manner in which disputes are to be decided, every dispute to which the credit union is party shall be decided in that manner.
+(2) Subject to subsection (5), if a credit union's rules give directions as to the manner in which disputes are to be decided, every dispute to which the credit union is party shall be decided in that manner.
 
-(3) Unless the rules of the credit union expressly forbid it, the parties to a dispute may by consent refer the dispute to the Bank who shall hear and decide the dispute.
+(3) ...
 
-(4) A decision made on a dispute as mentioned in subsection (2) or subsection (3) shall be binding and conclusive on all parties without appeal; and—
+(4) A decision made on a dispute as mentioned in subsection (2) shall be binding and conclusive on all parties without appeal; and—
 
 (a) the decision shall not be removable into any court of law or restrainable by injunction; and
 

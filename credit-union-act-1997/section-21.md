@@ -8,7 +8,7 @@ Nomination of property in credit union.
 
 (2) The nomination by a member of a credit union under subsection (1) of a person who is at the date of the nomination an officer of the credit union shall not be valid unless that person is a member of the nominator's family.
 
-(3) For the purpose of the disposal of any property which is the subject of a nomination under subsection (1), if at the date of the nominator's death the amount of his property in the credit union comprised in the nomination exceeds €23,000, the nomination shall be valid to the extent of €23,000 but not further or otherwise.
+(3) For the purpose of the disposal of any property which is the subject of a nomination under subsection (1), if, on the date of the nominator’s death, the amount of the nominator’s property in the credit union comprised in the nomination exceeds the amount standing specified, on that date, for the purposes of this subsection in an order made by the Minister under subsection (10), the nomination shall be valid to the extent of the amount standing so specified, but not further or otherwise.
 
 (4) A nomination by a member of a credit union under subsection (1) may be revoked or varied by a subsequent nomination by him under that subsection or by any similar document in the nature of a revocation or variation signed by the nominator and delivered to the credit union's registered office during his lifetime; but such a nomination shall not be revocable or variable by the will of the nominator or by any codicil to his will.
 
@@ -21,3 +21,9 @@ Nomination of property in credit union.
 (6) The marriage of a member of a credit union shall operate as a revocation of any nomination made by him under subsection (1) before his marriage, but if, in ignorance of a later marriage, an officer of the credit union transfers any property of that member in pursuance of such a nomination, the receipt of the nominee shall be a valid discharge to the credit union, and the credit union shall be under no liability to any other person claiming the property.
 
 (7) A nomination under subsection (1) shall be revoked by the death of the nominee before the death of the nominator.
+
+(8) The signature of a person making a written statement referred to in subsection (1) shall be witnessed by 2 other persons.
+
+(9) Each of the witnesses referred to in subsection (8) shall witness the signature of the person making the statement by applying the witness’s own signature to the statement.
+
+(10) The Minister may, after consultation with the Advisory Committee and such other body as the Minister considers appropriate in the circumstances, by order specify an amount for the purpose of subsection (3).
