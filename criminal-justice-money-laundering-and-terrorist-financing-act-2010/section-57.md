@@ -1,6 +1,6 @@
 Group-wide policies and procedures.
 
-57. (1) A designated person that is part of a group shall implement group-wide policies and procedures, including data protection policies and policies and procedures for sharing information within the group, for the purposes of carrying out customer due diligence and preventing and detecting the commission of money laundering and terrorist financing.
+57.— (1) A designated person that is part of a group shall implement group-wide policies and procedures, including data protection policies and policies and procedures for sharing information within the group, for the purposes of carrying out customer due diligence and preventing and detecting the commission of money laundering and terrorist financing.
 
 (2) A designated person incorporated in the State that operates a branch, majority-owned subsidiary or establishment in a place other than the State shall ensure that the branch, majority-owned subsidiary or establishment adopts and applies group-wide policies and procedures referred to in subsection (1).
 
