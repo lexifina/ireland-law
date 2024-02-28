@@ -1,6 +1,6 @@
 Relationships between credit institutions and shell banks.
 
-59. (1) A credit institution or financial institution shall not enter into a correspondent relationship with a shell bank.
+59.— (1) A credit institution or financial institution shall not enter into a correspondent relationship with a shell bank.
 
 (2) A credit institution or financial institution that has entered into a correspondent relationship with a shell bank before the commencement of this section shall not continue that relationship.
 

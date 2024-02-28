@@ -2,7 +2,7 @@
 
 Internal policies and procedures and training.
 
-54. (1) A designated person shall adopt internal policies, controls and procedures in relation to the designated person’s business to prevent and detect the commission of money laundering and terrorist financing.
+54.— (1) A designated person shall adopt internal policies, controls and procedures in relation to the designated person’s business to prevent and detect the commission of money laundering and terrorist financing.
 
 (2) In particular, a designated person shall adopt internal policies, controls and procedures to be followed by any persons involved in carrying out the obligations of the designated person under this Part.
 
