@@ -1,0 +1,3 @@
+Provision of information to Authority for purposes of monitoring compliance with Part 3 of Act of 2024 and relevant sections of Act of 1962 in accordance with subsection (1)(o) and (1)(p) of section 8.
+
+12A.— ...
