@@ -64,9 +64,7 @@ Protection of disclosures of information.
 
 (d) a body established under the Health (Corporate Bodies) Act 1961;
 
-‘Scheduled body’ means a body referred to in Schedule 2A.
-
-55B.— Where an employee of a relevant body makes, in good faith, a disclosure to an authorised person and the employee has reasonable grounds for believing that it will show one or more of the following:
+‘Scheduled body’ means a body referred to in Schedule 2A. 55B.— Where an employee of a relevant body makes, in good faith, a disclosure to an authorised person and the employee has reasonable grounds for believing that it will show one or more of the following:
 
 (a) that the health or welfare of a person who is receiving a health or personal social service in accordance with this Act has been, is or is likely to be at risk;
 
@@ -158,15 +156,15 @@ Protection of disclosures of information.
 
 (b) request that the opinion be given in writing to the Executive, or as the case may be, the body referred to in subsection (2) before the date specified in the request.
 
-(9) If, before that date, the Data Protection Commissioner provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures. 55I.— (1) It is a condition of any arrangement under section 38 or of assistance given under section 39 of this Act or section 10 of the Child Care Act 1991 that a service provider or person receiving assistance will—
+(9) If, before that date, the Data Protection Commissioner provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures.
+
+55I.— (1) It is a condition of any arrangement under section 38 or of assistance given under section 39 of this Act or section 10 of the Child Care Act 1991 that a service provider or person receiving assistance will—
 
 (a) adhere to the procedures established by the Executive in accordance with section 55H(1), or
 
 (b) where procedures have been established by the service provider under section 55H(4), adhere to those procedures.
 
-(2) The Executive may exercise any rights or remedies available to it by virtue of an arrangement or the giving of assistance referred to in subsection (1) if the service provider or person receiving assistance, as the case may be, is in breach of that subsection.
-
-55J.— (1) Where a protected disclosure is made to an authorised person, the authorised person shall investigate the subject matter of the disclosure.
+(2) The Executive may exercise any rights or remedies available to it by virtue of an arrangement or the giving of assistance referred to in subsection (1) if the service provider or person receiving assistance, as the case may be, is in breach of that subsection. 55J.— (1) Where a protected disclosure is made to an authorised person, the authorised person shall investigate the subject matter of the disclosure.
 
 (2) An authorised person may refer that subject matter or any part of it to an appropriate Scheduled body or a professional regulatory body or, where the authorised person believes that a criminal offence has been committed, to the Garda Síochána.
 
@@ -292,9 +290,7 @@ Protection of disclosures of information.
 
 (2) The Circuit Court may, in an order under this section relating to the payment of compensation, if in all the circumstances it considers it appropriate to do so, direct the employer to pay to the employee interest on the compensation, at the rate referred to in section 22 of the Courts Act 1981, in respect of the whole or any part of the period beginning 6 weeks after the date on which the determination of the Labour Court is communicated to the parties and ending on the date of the order.
 
-(3) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the employer ordinarily resides or carries on any profession, trade, business or occupation.
-
-55P.— A document purporting to be signed by the chairman or a vice-chairman of the Labour Court stating that—
+(3) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the employer ordinarily resides or carries on any profession, trade, business or occupation. 55P.— A document purporting to be signed by the chairman or a vice-chairman of the Labour Court stating that—
 
 (a) a person named in the document was, by a notice under section 55N required to attend before the Labour Court on a day and at a time and place specified in the document, to give evidence or produce a document,
 

@@ -1,6 +1,6 @@
 Regulations governing registration under this Act.
 
-99. (1) Without limiting the generality of section 98, the Minister, after such consultation with the Minister for Children, Equality, Disability, Integration and Youth as may be appropriate, may, subject to subsection (2), make regulations (other than in respect of matters to which subsection (2) relates) governing the registration of persons under this Act in respect of designated centres, including but not limited to regulations—
+99.— (1) Without limiting the generality of section 98, the Minister, after such consultation with the Minister for Children, Equality, Disability, Integration and Youth as may be appropriate, may, subject to subsection (2), make regulations (other than in respect of matters to which subsection (2) relates) governing the registration of persons under this Act in respect of designated centres, including but not limited to regulations—
 
 (a) respecting the making of applications for registration,
 
