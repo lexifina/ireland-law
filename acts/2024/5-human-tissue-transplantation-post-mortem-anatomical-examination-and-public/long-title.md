@@ -1,0 +1,9 @@
+Number 5 of 2024
+
+HUMAN TISSUE (TRANSPLANTATION, POST-MORTEM, ANATOMICAL EXAMINATION AND PUBLIC DISPLAY) ACT 2024
+
+An Act to provide for the removal, donation and use of organs and tissues and cells from deceased and living persons for the purposes of transplantation; to make provision for the establishment and maintenance of a register in respect of certain organs whereby persons who do not wish to donate certain organs after death may register objection to donation of such organs; to provide for the establishment of a panel of persons to oversee certain proposed donations in respect of certain persons; to make provision for the carrying out of post-mortem examinations in hospitals and other non-hospital settings and the regulation of such activity; to make provision for the donation by living persons of their bodies after death for the purposes of anatomical examination or public display; to provide for the establishment of a licensing system in respect of persons undertaking anatomical examinations or public display activities; to provide that consent is pre-requisite for all procedures involving human organs and tissues and cells and for procedures relating to carrying out of anatomical examinations or public display activities; to make provision for the protection of the bodily integrity of persons before and after death; to provide for the monitoring and enforcement of compliance with these and other matters; and, for these and other purposes, to amend the Assisted Decision Making (Capacity) Act 2015, the Medical Practitioners Act 2007, the Coroners Act 1962, the European Communities (Quality and Safety of Human Tissues and Cells) Regulations 2006, the European Union (Quality and Safety of Human Organs intended for Transplantation) Regulations 2012 and certain other enactments; to repeal the Anatomy Act 1832; and to provide for related matters
+
+[28th February, 2024]
+
+Be it enacted by the Oireachtas as follows:

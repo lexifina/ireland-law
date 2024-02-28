@@ -1,0 +1,3 @@
+Removal of tissue sample to determine viability of transplantation.
+
+14. Where it appears to a relevant professional removing, in accordance with the appropriate consent, (or, where deemed consent applies, in accordance with confirmation that there is no objection) an organ for transplantation or tissues and cells for human application from a deceased person, that it is necessary or expedient to remove and examine a tissue sample from any part of the donor’s body to determine the viability of the proposed transplantation activities (having regard, in particular, to the safety of the recipient), the person carrying out the removal may remove and examine such tissue sample as he or she considers necessary or expedient for such purposes.
