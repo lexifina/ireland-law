@@ -26,7 +26,7 @@ Directions prohibiting prescribing, supply etc. of controlled drugs by practitio
 
 (6) Any person who contravenes a direction given under this section shall be guilty of an offence.
 
-(7) In this section, ‘relevant person’ means—
+(7) In this section, "relevant person" means—
 
 (a) a person, not being a pharmacist, keeping open shop for the dispensing or compounding of medical prescriptions in accordance with the provisions of the Pharmacy Acts 1875 to 1977, or
 
