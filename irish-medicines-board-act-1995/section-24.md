@@ -22,9 +22,7 @@ Disclosure of interests.
 
 (3) For the purposes of this section a person shall not be regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of his or her or of any company or of any other body or person mentioned in subsection (2) which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question with respect to the matter, or in performing any function in relation to that matter.
 
-(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by him to comply with the requirements of subsection
-
-(1), the question shall be determined by the Board and particulars of the determination shall be recorded in the minutes of the meeting concerned.
+(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by him to comply with the requirements of subsection (1), the question shall be determined by the Board and particulars of the determination shall be recorded in the minutes of the meeting concerned.
 
 (5) Where a disclosure is made to the Board, a committee or a subcommittee pursuant to subsection (1), particulars of the disclosure shall be recorded in the minutes of the meeting concerned.
 
