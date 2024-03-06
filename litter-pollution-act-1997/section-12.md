@@ -1,6 +1,6 @@
 Procedure for making, amending or replacing litter management plan.
 
-12. — (1) Where a local authority proposes to make, amend or replace its litter management plan under section 10 , it shall—
+12. — (1) Where a local authority proposes to make, amend or replace its litter management plan under section 10, it shall—
 
 (a) publish in one or more newspapers circulating in its functional area a notice of the proposal and arrange for the broadcasting of an announcement in respect of the proposal at least once on 3 successive days on one or more local radio stations broadcasting in that area, and
 

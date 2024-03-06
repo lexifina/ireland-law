@@ -1,4 +1,4 @@
-F8[Code of practice for purposes of section 23A
+F12[Code of practice for purposes of section 23A
 
 23B. — (1) The Local Government Management Agency shall, as soon as practicable after the coming into operation of section 33 of the Act of 2022, prepare and submit to the Minister for his or her approval a draft code of practice for the purposes of setting standards for the operation of section 23A.
 

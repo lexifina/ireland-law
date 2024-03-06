@@ -1,4 +1,4 @@
-F10[Punishment for offences.
+F14[Punishment for offences.
 
 24. — (1) A person guilty of an offence under this Act shall be liable—
 
