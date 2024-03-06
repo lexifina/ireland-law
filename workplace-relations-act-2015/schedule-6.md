@@ -84,7 +84,11 @@ Acts of Oireachtas
 
 37. Sections 24(1) and (2) of the Parent’s Leave and Benefit Act 2019
 
-38. Section 12 of the Sick Leave Act 2022
+38. Section 14 of the Sick Leave Act 2022
+
+39. Section 21A of the Parental Leave Act 1998
+
+40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
 
 Statutory Instruments
 
@@ -184,7 +188,11 @@ Acts of Oireachtas
 
 37. Section 24(3) of the Parent’s Leave and Benefit Act 2019
 
-38. Section 12 of the Sick Leave Act 2022
+38. Section 14 of the Sick Leave Act 2022
+
+39. Section 21A of the Parental Leave Act 1998
+
+40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
 
 Statutory Instruments
 
