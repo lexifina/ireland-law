@@ -80,6 +80,6 @@ F28[Domestic violence leave
 
 "spouse" has the same meaning as it has in section 2 of the Domestic Violence Act 2018.
 
-PART IIARequests for flexible working arrangements for caring purposes
+PART IIA Requests for flexible working arrangements for caring purposes
 
 PART IIA
