@@ -64,6 +64,8 @@ Interpretation
 
 “excepted body” has the same meaning as it has in section 6 of the Trade Union Act 1941;
 
+"expectant father" has the same meaning as it has in the Act of 1994;
+
 “inspector” means a person appointed under section 26;
 
 “Labour Court” means the body established by section 10 of the Act of 1946;
@@ -107,6 +109,8 @@ Interpretation
 (n) the Health Information and Quality Authority, or
 
 (o) any other person charged by law with the detection, investigation or prosecution of offences;
+
+"other parent" has the same meaning as it has in the Act of 1994;
 
 “prescribed” means prescribed by regulations made by the Minister;
 
