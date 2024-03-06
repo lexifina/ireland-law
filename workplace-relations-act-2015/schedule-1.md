@@ -96,6 +96,8 @@ Provisions of Acts of Oireachtas
 
 19. Part 2 of the Industrial Relations (Amendment) Act 2015
 
+20. Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023
+
 20. Section 6(3) of the Protected Disclosures Act 2014
 
 Part 3
@@ -116,7 +118,9 @@ Statutory Instruments
 
 7. European Communities (Organisation of Working Time) (Mobile Staff in Civil Aviation) Regulations 2006 (S.I. No. 507 of 2006)
 
-8. European Communities (European Public Limited - Liability Company) (Employee Involvement) Regulations 2006 (S.I. No. 623 of 2006) 9. European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
+8. European Communities (European Public Limited - Liability Company) (Employee Involvement) Regulations 2006 (S.I. No. 623 of 2006)
+
+9. European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
 
 10. ...
 

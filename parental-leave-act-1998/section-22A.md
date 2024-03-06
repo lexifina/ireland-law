@@ -2,7 +2,7 @@
 
 Codes of practice.
 
-22A.—(1) The Equality Authority may, or if requested to do so by the Minister shall, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the steps that may be taken for complying with one or more provisions of this Act.
+22A.—(1) The Equality Authority may, or if requested to do so by the Minister shall, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the steps that may be taken for complying with one or more provisions of this Act other than Part IIA.
 
 (2) Before submitting a draft code of practice under subsection (1) to the Minister, the Equality Authority shall consult such other Minister of the Government or other person or body as the Equality Authority considers appropriate or as the Minister may direct.
 
