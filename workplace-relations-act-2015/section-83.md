@@ -44,7 +44,9 @@ Amendment of Act of 1998
 
 “91. (1) Section 43 of the Act of 2015 shall apply to a decision of the Director General of the Workplace Relations Commission under section 79 as it applies to a decision of an adjudication officer under section 41 of that Act, subject to—
 
-(a) the modification that the following paragraph is substituted for paragraph (a) of subsection (1): ‘(a) on application to it in that behalf by the complainant concerned, the Irish Human Rights and Equality Commission, or’, and
+(a) the modification that the following paragraph is substituted for paragraph (a) of subsection (1):
+
+‘(a) on application to it in that behalf by the complainant concerned, the Irish Human Rights and Equality Commission, or’, and
 
 (b) the following modifications:
 
