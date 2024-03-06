@@ -18,9 +18,7 @@ Council Directive 86/278/EEC of 12 June, 1986 on the protection of the environme
 
 ...
 
-Council Directive 87/217/EEC of 19 March, 1987 on the prevention and reduction of environmental pollution by asbestos
-
-Council Directive 89/369/EEC of 8 June, 1989 on the prevention of air pollution from new municipal waste incineration plants
+Council Directive 87/217/EEC of 19 March, 1987 on the prevention and reduction of environmental pollution by asbestos Council Directive 89/369/EEC of 8 June, 1989 on the prevention of air pollution from new municipal waste incineration plants
 
 ...
 
@@ -34,7 +32,9 @@ Commission Directive 93/86/EEC of 4 October, 1993 adapting to technical progress
 
 Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste and Council Directive 2011/97/EU of 5 December 2011 amending Directive 1999/31/EC as regards specific criteria for the storage of metallic mercury considered as waste
 
-Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste European Parliament and Council Directive 94/62/EC of 20 December, 1994 on packaging and packaging waste
+Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste
+
+European Parliament and Council Directive 94/62/EC of 20 December, 1994 on packaging and packaging waste
 
 ...
 
