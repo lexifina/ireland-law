@@ -52,7 +52,7 @@ Presentation of complaints and referral of disputes
 
 (ii) in the case of an employee who is the expectant father of a child, that the expectant mother of the child is pregnant, or
 
-(iii) in the case of an employee who is the father of a child who has been born, that the child’s mother has died,
+(iii) in the case of an employee who is the father or other parent of a child who has been born, that the child’s mother has died,
 
 (d) in the case of a dispute relating to the entitlement of an employee under the National Minimum Wage Act 2000, it has been referred to the Director General after the expiration of the period of 6 months beginning on—
 
@@ -62,7 +62,7 @@ Presentation of complaints and referral of disputes
 
 (iii) in the case of a dispute to which section 25 of that Act applies, the date on which the employee’s hours of work were reduced or alleged to have been reduced, ...
 
-(e) in the case of a dispute relating to the entitlement of an employee under the Parental Leave Act 1998, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the the dispute,
+(e) in the case of a dispute relating to the entitlement of an employee under the Parental Leave Act 1998, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute,
 
 (f) in the case of a dispute relating to the entitlement of an employee under the Paternity Leave and Benefit Act 2016, it has been referred to the Director General after the expiration of the period of 6 months beginning on—
 
@@ -74,7 +74,9 @@ Presentation of complaints and referral of disputes
 
 (g) in the case of a dispute relating to the entitlement of an employee under the Parent’s Leave and Benefit Act 2019, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute,
 
-(h) in the case of a dispute relating to the entitlement of an employee under the Sick Leave Act 2022, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
+(h) in the case of a dispute relating to the entitlement of an employee under the Sick Leave Act 2022, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute, and
+
+(i) in the case of a dispute relating to the entitlement of an employee or the obligation of the employer, as the case may be, under Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
 
 (8) An adjudication officer may entertain a complaint or dispute to which this section applies presented or referred to the Director General after the expiration of the period referred to in subsection (6) or (7) (but not later than 6 months after such expiration), as the case may be, if he or she is satisfied that the failure to present the complaint or refer the dispute within that period was due to reasonable cause.
 
