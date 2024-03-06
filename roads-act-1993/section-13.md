@@ -80,4 +80,4 @@ Responsibility
 
 (c) Where a person does anything in contravention of paragraph (a), a road authority may remove any defacement, repair any damage, fill in any excavation, remove any material, thing, dung or urine or remove or reduce any hazard, potential hazard, obstruction or interference and may recover from such person, as a simple contract debt in any court of competent jurisdiction, any costs reasonably incurred by it.
 
-(11) Subsection (10) shall not apply to the National Transport Authority when, in the performance of a function in accordance with subsection (2)(b) or (5)(a) of section 44 of the Dublin Transport Authority Act 2008 , it is exercising the powers of a road authority.
+(11) Subsection (10) shall not apply to the National Transport Authority when, in the performance of a function in accordance with subsection (2)(b) or (5)(a) of section 44 of the Dublin Transport Authority Act 2008, it is exercising the powers of a road authority.
