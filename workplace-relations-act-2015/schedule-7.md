@@ -350,7 +350,7 @@ Workplace Relations Act 2015 before an adjudication officer or the Labour Court�
 
 (e) the deletion of subsection (7).
 
-13. No. 5 of National Section 24 is amended by— 2000 Minimum Wage (a) the substitution of the Act 2000 following subsection for subsection (1): Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+13. No. 5 of National Section 24 is amended by— 2000 MinimumWage (a) the substitution of the Act 2000 following subsection for subsection (1): Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
 
@@ -800,7 +800,7 @@ Workplace Relations Act 2015
 
 2. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in paragraph 1, shall affirm, vary or set aside the decision of the adjudication officer.”.
 
-29. No. 22 Criminal Justice Schedule 2 is amended by— of 2011 Act 2011 (a) the substitution of the following paragraph for paragraph 1:
+29. No. 22 CriminalJustice Schedule 2 is amended by— of 2011 Act 2011 (a) the substitution of the following paragraph for paragraph 1:
 
 “Decision under section 41 of
 
