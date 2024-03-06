@@ -146,7 +146,7 @@ Interpretation.
 
 “statutory declaration” means a statutory declaration referred to in section 6 (2)(a)(vii) of the Act;
 
-“total floor area” as referred to under Articles 9(2)(b), 20A(2)(b)(ii) and 20F(2)(b) in the context of an extension to a dwelling refers only to the total floor area of the proposed extension as described in the commencement notice
+“total floor area” as referred to under Articles 9(2)(b), 20A(2)(b)(ii) and 20F(2)(b) in the context of an extension to a dwelling refers only to the total floor area of the proposed extension as described in the commencement notice;
 
 “works” includes any act or operation in connection with the construction, extension, alteration, repair or renewal of a building;
 

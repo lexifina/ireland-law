@@ -38,7 +38,7 @@ Application of Part III.
 
 (ii) is used solely for the purpose of agriculture, and
 
-(iii) is a building in which the only persons habitually employed are engaged solely in the care, supervision, regulation, maintenance, storage or removal of the materials, products, plant, machinery or livestock in the building, and which is either attached to another such building or detached from any other building ,
+(iii) is a building in which the only persons habitually employed are engaged solely in the care, supervision, regulation, maintenance, storage or removal of the materials, products, plant, machinery or livestock in the building, and which is either attached to another such building or detached from any other building,
 
 (b) a building used as a dwelling other then a flat,
 
