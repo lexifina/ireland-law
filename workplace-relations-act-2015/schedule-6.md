@@ -84,7 +84,11 @@ Acts of Oireachtas
 
 37. Sections 24(1) and (2) of the Parent’s Leave and Benefit Act 2019
 
-38. Section 12 of the Sick Leave Act 2022
+38. Section 14 of the Sick Leave Act 2022
+
+39. Section 21A of the Parental Leave Act 1998
+
+40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
 
 Statutory Instruments
 
@@ -96,11 +100,13 @@ Statutory Instruments
 
 4. Paragraph 2 of Schedule 2 to the European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
 
-5. In relation to a complaint of a contravention of Article 16(9) of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014, paragraph 1 of the Schedule to the European Union (Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020 (S.I. No. 195 of 2020)
-
-6. Paragraph 2 of Schedule 3 to the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)
+5. In relation to a complaint of a contravention of Article 16(9) of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014, paragraph 1 of the Schedule to the European Union
 
 Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Commission and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007.
+
+(Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020 (S.I. No. 195 of 2020)
+
+6. Paragraph 2 of Schedule 3 to the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)
 
 7. Regulation 8 of the European Communities (Working Conditions of Mobile Workers engaged in Interoperable Cross-Border Services in the Railway Sector) Regulations 2009 (S.I. No. 377 of 2009)
 
@@ -186,7 +192,11 @@ Acts of Oireachtas
 
 37. Section 24(3) of the Parent’s Leave and Benefit Act 2019
 
-38. Section 12 of the Sick Leave Act 2022
+38. Section 14 of the Sick Leave Act 2022
+
+39. Section 21A of the Parental Leave Act 1998
+
+40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
 
 Statutory Instruments
 
