@@ -98,6 +98,8 @@ Interpretation.
 
 "planning permission" means permission under Part III of the Act of 2000;
 
+"powered personal transporter" has the same meaning as it has in section 3 of the Road Traffic Act 1961;
+
 “proposed road development” means any proposed road development which is subject to an environmental impact assessment under section 50;
 
 “protected road” has the meaning assigned to it by section 45;
