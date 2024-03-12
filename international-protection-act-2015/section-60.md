@@ -2,6 +2,8 @@ Temporary protection
 
 60. (1) In this section—
 
+"designated accommodation centre" means a premises designated under subsection (14A)(a);
+
 “temporary protection” means a procedure of exceptional character to provide, in the event of a mass influx or imminent mass influx of displaced persons who are unable to return to their country of origin, immediate and temporary protection;
 
 “Council Directive” means Council Directive 2001/55/EC of 20 July 2001 on minimum standards for giving temporary protection in the event of a mass influx of displaced persons and on measures promoting a balance of efforts between Member States in receiving such persons and bearing the consequences thereof and any other Directive amending or replacing it;
@@ -50,11 +52,11 @@ Temporary protection
 
 (9) Where, during the validity of a permission to reside in the State given under subsection (6), a displaced person to whom subsection (2) applies seeks to enter another Member State or has entered it without authorisation, the Minister shall, in co-operation with the competent authority of that Member State, make arrangements for the return of the person to the State.
 
-(10) Without prejudice to subsection (8), a displaced person to whom subsection (2) applies shall be entitled—
+(10) Without prejudice to subsection (8), a person who has been given a permission to reside in the State under subsection (6), which permission is valid, shall be entitled—
 
 (a) to seek and enter employment, to engage in any business, trade or profession and to have access to education and training in the State in the like manner and to the like extent in all respects as an Irish citizen,
 
-(b) to receive, upon and subject to the same conditions applicable to Irish citizens, the same medical care and the same social welfare benefits as those to which Irish citizens are entitled, and
+(b) to receive, upon and subject to the same conditions applicable to Irish citizens, the same medical care and, other than while he or she is resident in a designated accommodation centre, the same social welfare benefits as those to which Irish citizens are entitled, and
 
 (c) to the same rights of travel in the State as those to which Irish citizens are entitled.
 
@@ -85,5 +87,11 @@ Temporary protection
 (g) any corrected information within paragraphs (a) to (f) which becomes available.
 
 (14) Subsection (2) shall not apply to a person who is, for the time being, an applicant and a permission to reside in the State given under subsection (6) shall not be in force in relation to such a person.
+
+(14A) The Minister for Children, Equality, Disability, Integration and Youth—
+
+(a) may, where he or she is satisfied that the premises concerned are suitable for the purpose, designate in writing such and so many premises as he or she considers appropriate for the accommodation of persons who have been given a permission to reside in the State under subsection (6), which permission is valid, and
+
+(b) shall, as soon as practicable after a designation is made under paragraph (a), ensure that the fact of such designation is published on a website maintained by or on behalf of him or her or the Government.
 
 (15) In this section, “Irish transit visa” and “Irish visa” have the meaning they have under the Immigration Act 2003.
