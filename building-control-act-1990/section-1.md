@@ -6,7 +6,7 @@ Interpretation.
 
 “building” includes part of a building and any class or classes of structure which are prescribed by the Minister to be a building for the purposes of this Act;
 
-‘building control authority’ has the meaning given to it by section 2(1);
+"building control authority" has the meaning given to it by section 2(1);
 
 “building control regulations” means regulations made by the Minister pursuant to section 6;
 
@@ -26,7 +26,7 @@ Interpretation.
 
 “functions” includes powers and duties;
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+"local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
 “the Minister” means the Minister for the Environment;
 
