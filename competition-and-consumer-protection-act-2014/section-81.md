@@ -12,9 +12,7 @@ Number and Year Citation
 
 (1) (2)
 
-S.I. No. 63 of European Communities (Distance Marketing of 2005 Consumer Financial Services) (Amendment) Regulations 2005
-
-S.I. No. 376 of European Communities (Labelling, Presentation 2007 and Advertising of Foodstuffs) (Amendment) Regulations 2007
+S.I. No. 63 of European Communities (Distance Marketing of 2005 Consumer Financial Services) (Amendment) Regulations 2005 S.I. No. 376 of European Communities (Labelling, Presentation 2007 and Advertising of Foodstuffs) (Amendment) Regulations 2007
 
 S.I. No. 587 of European Communities (Plastics and other 2007 materials) (Contact with food) Regulations 2007
 
@@ -22,7 +20,9 @@ S.I. No. 774 of European Communities (Misleading and 2007 Comparative Marketing 
 
 S.I. No. 808 of European Communities (Labelling, Presentation 2007 and Advertising of Foodstuffs) (Amendment) (No. 2) Regulations 2007
 
-S.I. No. 316 of European Communities (Cooperation between 2008 National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2008 S.I. No. 407 of European Communities (Machinery) Regulations 2008 2008
+S.I. No. 316 of European Communities (Cooperation between 2008 National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2008
+
+S.I. No. 407 of European Communities (Machinery) Regulations 2008 2008
 
 S.I. No. 424 of European Communities (Labelling, Presentation 2008 and Advertising of Foodstuffs) (Amendment) Regulations 2008
 
@@ -42,9 +42,7 @@ S.I. No. 281 of European Communities (Consumer Credit 2010 Agreements) Regulatio
 
 S.I. No. 416 of European Communities (Placing on the Market of 2010 Pyrotechnic Articles) (Amendment) Regulations 2010
 
-S.I. No. 555 of European Communities (Court Orders for the 2010 Protection of Consumer Interests) Regulations 2010
-
-S.I. No. 105 of European Communities (Plastics and other 2011 materials) (Contact with Foodstuffs) (Amendment) Regulations 2011
+S.I. No. 555 of European Communities (Court Orders for the 2010 Protection of Consumer Interests) Regulations 2010 S.I. No. 105 of European Communities (Plastics and other 2011 materials) (Contact with Foodstuffs) (Amendment) Regulations 2011
 
 S.I. No. 310 of European Communities (Machinery) (Amendment) 2011 Regulations 2011
 
@@ -52,7 +50,9 @@ S.I. No. 333 of EuropeanCommunities(ElectronicCommunications 2011 Networks and S
 
 S.I. No. 337 of EuropeanCommunities(ElectronicCommunications 2011 Networks and Services) (Universal Service and Users’ Rights) Regulations 2011
 
-S.I. No. 485 of European Communities (Cooperation between 2012 National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2012 S.I. No. 13 of European Communities (Safety of Toys) 2013 (Amendment) Regulations 2013
+S.I. No. 485 of European Communities (Cooperation between 2012 National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2012
+
+S.I. No. 13 of European Communities (Safety of Toys) 2013 (Amendment) Regulations 2013
 
 S.I. No. 122 of European Communities (Cooperation between 2013 National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2013
 

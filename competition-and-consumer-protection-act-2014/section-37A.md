@@ -20,4 +20,4 @@ Requests for information relating to investigations
 
 (a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or both, or
 
-(b) on conviction on indictment, to a fine not exceeding €250,000 or imprisonment fora term not exceeding 5 years or both.
+(b) on conviction on indictment, to a fine not exceeding €250,000 or imprisonment for a term not exceeding 5 years or both.
