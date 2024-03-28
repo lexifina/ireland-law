@@ -4,19 +4,15 @@ EXCISE DUTIES IN RESPECT OF MECHANICALLY PROPELLED VEHICLES USED ON PUBLIC ROADS
 
 PART I.
 
-Description of vehicle Rate of duty
-
-1. Vehicles of the following descriptions not exceeding 500 kilograms in weight
+Description of vehicle Rate of duty 1. Vehicles of the following descriptions not exceeding 500 kilograms in
 
 (a) bicycles (other than bicycles which are electrically propelled), or tricycles
 
-(b) bicycles or tricycles which are electrically propelled, (c) vehicles with three or more wheels neither constructed nor adapted for use €88
+(b) bicycles or tricycles which are electrically propelled, (c) vehicles with three or more wheels neither constructed nor adapted for use €88 2. (a) Vehicles (commonly known as dumpers) not exceeding 3 metres cubed
 
-2. (a) Vehicles (commonly known as dumpers) not exceeding 3 metres cubed
+(b) vehicles (commonly known as off-road dumpers) exceeding 3 metres cubed
 
-(b) vehicles (commonly known as off-road dumpers) exceeding 3 metres cubed in
-
-(c)any vehicle (other than a vehicle constructed or adapted for use and used for
+(c)any vehicle (other than a vehicle constructed or adapted for use and used
 
 (d) vehicles (commonly known as forklift trucks) designed and constructed for
 
@@ -26,37 +22,29 @@ Description of vehicle Rate of duty
 
 (b) vehicles (other than those referred to in subparagraph (c) of this paragraph)
 
-(c) vehicles which are large public service vehicles within the meaning of the Road
+(c) vehicles which are ... public service vehicles within the meaning of the
 
-€95
+€95 4. Vehicles of the following descriptions:
 
-4. Vehicles of the following descriptions:
-
-(a) vehicles designed, constructed and used for the purpose of trench digging or
+(a) vehicles designed, constructed and used for the purpose of trench digging
 
 (b) tractors (being tractors designed and constructed primarily for use otherwise
 
 (c) tractors (being tractors designed and constructed primarily for use otherwise
 
-(d) tractors of any other description, but not including a tractor unit, (e) a motor caravan, being a vehicle which is designed, constructed or adapted
+(d) tractors of any other description, but not including a tractor unit, (e) a motor caravan, being a vehicle which is designed, constructed or
 
-(f) vehicles which are kept and used exclusively on an offshore island to which €102
+(f) vehicles which are kept and used exclusively on an offshore island to which €102 4A. Vehicles (commonly known as dumpers) not exceeding 4 cubic yards in
 
-4A. Vehicles (commonly known as dumpers) not exceeding 4 cubic yards in
-
-(a) for the purpose of proceeding to and from the site where it is to be used, and
+(a) for the purpose of proceeding to and from the site where it is to be used,
 
 (b) for the purpose of conveying concrete, rubble, earth or other like material
 
 £10
 
-£40
+£40 4B. Vehicles (commonly known as "off-road dumpers") exceeding 4 cubic
 
-4B. Vehicles (commonly known as "off-road dumpers") exceeding 4 cubic yards
-
-£250
-
-5. Vehicles (including tricycles weighing more than 500 kilograms unladen)
+£250 5. Vehicles (including tricycles weighing more than 500 kilograms unladen)
 
 (a) being vehicles which are electrically propelled and which, inclusive of all
 
@@ -68,13 +56,15 @@ Description of vehicle Rate of duty
 
 (c) any vehicle which is fitted with a taximeter and is lawfully used as a street
 
-(cc) vehicles (commonly known as fork lift trucks) designed and constructed horse-power (ccc) any vehicle which is used as a hearse and for no other purpose— £44 (d) subject to subparagraphs (f) to (n), any vehicle which is—
+(cc) vehicles (commonly known as fork lift trucks) designed and constructed power (ccc) any vehicle which is used as a hearse and for no other purpose—
 
-€2,400 (e) subject to subparagraphs (f) to (n), other vehicles to which this paragraph €120 (f) where a vehicle mentioned in subparagraph (e) which at the time of be the rate of duty specified in subparagraph (h),
+£44 (d) subject to subparagraphs (f) to (n), any vehicle which is— €2,400 (e) subject to subparagraphs (f) to (n), other vehicles to which this paragraph €120 (f) where a vehicle mentioned in subparagraph (e) which at the time of shall be the rate of duty specified in subparagraph (h),
 
-(g) where a vehicle was registered outside of the State during the period or, as the case may be, (n),
+(g) where a vehicle was registered outside of the State during the period
 
-(h) on or after 1 May 2012 the rate of duty for a licence taken out in respect out for that vehicle for any period beginning on December 2011, €2,400
+(l), (m) or, as the case may be, (n),
+
+(h) on or after 1 May 2012 the rate of duty for a licence taken out in 2011, €2,400
 
 PART II.
 
