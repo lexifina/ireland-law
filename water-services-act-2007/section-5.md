@@ -12,8 +12,6 @@ Directives.
 
 (e) Commission Directive 98/15/EC of 27 February 1998 amending Council Directive 91/271/EEC with respect to certain requirements established in Annex 1 thereof ;
 
-OJ No.L 96, 29.3.2014, p.149.
-
 (f) Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources ;
 
 (g) Council Directive 91/271/EEC of 21 May 1991 concerning urban waste water treatment ;
@@ -25,3 +23,5 @@ OJ No.L 96, 29.3.2014, p.149.
 (j) Council Directive 76/464/EEC of 4 May 1976 on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community ,
 
 (k) Directive 2008/98 /EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives .
+
+OJ No.L 96, 29.3.2014, p.149.
