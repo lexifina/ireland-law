@@ -23,5 +23,3 @@ Directives.
 (j) Council Directive 76/464/EEC of 4 May 1976 on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community ,
 
 (k) Directive 2008/98 /EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives .
-
-OJ No.L 96, 29.3.2014, p.149.
