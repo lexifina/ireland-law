@@ -1,0 +1,15 @@
+Amendments to Register of Political Parties
+
+50. (1) If there is any change in the particulars entered in the Register of Political Parties with respect to the name or names of the officer or officers of a political party referred to in section 47(d) or in the address of the party’s headquarters, the party shall, as soon as may be after the change occurs, inform the Registrar of the change and, where appropriate, the Registrar shall amend the particulars entered in the register in relation to the party accordingly.
+
+(2) A political party registered in the Register of Political Parties may apply in writing to the Registrar in such form as shall be specified by the Registrar to have any of the particulars, (other than those referred to in subsection (1)) including the party emblem entered in the register in relation to the party amended and the Registrar shall consider each such application and may, subject to this Chapter, amend the register accordingly.
+
+(3) The Registrar shall, as soon as practicable after it has considered an application for amendment of the register under subsection (2), notify the applicant concerned of his or her decision, the reasons for it and that the applicant may appeal the decision under section 51 and shall cause notice of the decision to be published in Iris Oifigiúil.
+
+(4) The Registrar shall, with respect to each party registered in the register, inquire in writing at least once in each year from a responsible person referred to in section 47(h) whether the party desires to remain registered and, unless the Registrar receives an affirmative reply to such an inquiry within 21 days from the date of the making of such inquiry, subsection (6) shall apply in relation to the party.
+
+(5) When replying to an inquiry under subsection (4), the responsible person shall provide the Registrar with the name and address of each accounting unit of the party and the name and address of the responsible person or persons of the accounting unit, including any changes that have occurred during the period from when the particulars were last provided to the Registrar and the Registrar shall enter the particulars provided in the register.
+
+(6) Where a political party registered in the register fails to comply with subsection (1), or information provided by it, in purported compliance with that subsection, is not such as to enable the Registrar to comply with section 47 or otherwise fails to comply with the requirements of this Chapter, the Registrar shall, following such inquiry as it considers appropriate, publish in Iris Oifigiúil notice of its intention to cancel the registration of the party and the Registrar shall notify the party concerned of its intention and that the party may appeal the decision under section 51.
+
+(7) Any doubt, dispute or question arising in connection with the particulars required to be entered in the register pursuant to section 47 shall be decided by the Commission and deemed to be an appeal under section 51, and the Registrar or the political party concerned may submit the doubt, dispute or question to the Commission in accordance with that section.
