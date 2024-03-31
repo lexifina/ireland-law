@@ -16,7 +16,9 @@ Local authority meetings.
 
 (3) This Schedule shall as regards a special meeting convened for the purposes of section 34 or 146 be read subject to and in accordance with the requirements of the relevant section.
 
-Place, date and time of meetings. 2.—(1) A local authority shall provide or arrange for the provision of accommodation for the holding of meetings.
+Place, date and time of meetings.
+
+2.—(1) A local authority shall provide or arrange for the provision of accommodation for the holding of meetings.
 
 (2) In so far as practicable, the place for holding of meetings is the principal offices of the authority and meetings shall normally be held at such place.
 
@@ -148,7 +150,9 @@ Public notice of meetings.
 
 (4) Failure to display or to supply a copy of a notice by virtue of this paragraph does not affect the validity of a meeting or of any act or thing done at the meeting.
 
-Business of meeting. 9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
+Business of meeting.
+
+9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
 
 Chairing of meetings.
 
@@ -238,9 +242,7 @@ Disorderly conduct.
 
 (6) The chief executive, following consultation with the Cathaoirleach, may make such provision for the exclusion or, where necessary, the removal from any meeting of the local authority or any committee of the local authority, or meeting of municipal district members, of the member suspended in accordance with subparagraph (1) or (5) as appear necessary to the chief executive.
 
-Minutes.
-
-14.—(1) Minutes of the proceedings of a meeting of a local authority shall be drawn up by the meetings administrator.
+Minutes. 14.—(1) Minutes of the proceedings of a meeting of a local authority shall be drawn up by the meetings administrator.
 
 (2) The minutes shall include—
 
@@ -328,7 +330,9 @@ Committees.
 
 (2) The quorum for a meeting of a committee shall be such as may be fixed by the local authority which established it but in no case shall be less than 3.
 
-Right to form groups for certain appointments. 18.—(1) Where 2 or more persons are to be appointed by a local authority to a body to which this paragraph applies, then—
+Right to form groups for certain appointments.
+
+18.—(1) Where 2 or more persons are to be appointed by a local authority to a body to which this paragraph applies, then—
 
 (a) any group of members who are present at the meeting at the time when the business of making the appointments is reached and comprising the number of members necessary for the purposes of this paragraph may nominate a person to be a member of that body and the person shall be so appointed on that nomination without any vote being taken, and
 

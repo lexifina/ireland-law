@@ -1,6 +1,6 @@
 Changing of placename.
 
-189.— (1) A local council may, in relation to a place situated within its functional area, by resolution passed by not less than half of the members standing elected or coopted for the time being to that local council adopt a proposal to substitute a new placename (in this section referred to as the "proposed new placename") for the then existing placename in respect of that place.
+189.—(1) A local council may, in relation to a place situated within its functional area, by resolution passed by not less than half of the members standing elected or coopted for the time being to that local council adopt a proposal to substitute a new placename (in this section referred to as the "proposed new placename") for the then existing placename in respect of that place.
 
 (2) The boundary of the place to which a proposal adopted under subsection (1) applies shall be described in that proposal whether by reference to a map or otherwise.
 

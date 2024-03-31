@@ -1,6 +1,6 @@
 Daingean Uí Chúis.
 
-191.— (1) The townland, civil parish, electoral division and non-municipal town that, immediately before the commencement of this section, was known (pursuant to the Order of 2004) as An Daingean shall, from such commencement, be known, in the Irish language, as Daingean Uí Chúis and, in the English language, as Dingle.
+191.—(1) The townland, civil parish, electoral division and non-municipal town that, immediately before the commencement of this section, was known (pursuant to the Order of 2004) as An Daingean shall, from such commencement, be known, in the Irish language, as Daingean Uí Chúis and, in the English language, as Dingle.
 
 (2) The Order of 2004 is amended by the deletion—
 

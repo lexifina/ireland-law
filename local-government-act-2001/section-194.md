@@ -1,6 +1,6 @@
 Construction of references.
 
-194.— (1) Where a declaration under section 189 or 190 is made in respect of a place—
+194.—(1) Where a declaration under section 189 or 190 is made in respect of a place—
 
 (a) references in any enactment, instrument or other document to the placename of that place applicable immediately before the date specified in the declaration in accordance with subsection (9) of section 189 or subsection (9) of section 190, as the case may be, shall, from that date, be construed as references to the placename specified in that declaration, and
 

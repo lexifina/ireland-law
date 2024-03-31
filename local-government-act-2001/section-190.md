@@ -1,6 +1,6 @@
 Change of placename of place situated in more than one local authority area.
 
-190.— (1) (a) A local authority may, in relation to a place that is situated—
+190.—(1) (a) A local authority may, in relation to a place that is situated—
 
 (i) in its functional area, and
 

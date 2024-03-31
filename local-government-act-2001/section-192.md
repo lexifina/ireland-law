@@ -1,6 +1,6 @@
 General provisions relating to change of names.
 
-192.— (1) The consideration of submissions received under this Part shall be a reserved function.
+192.—(1) The consideration of submissions received under this Part shall be a reserved function.
 
 (2) A local authority shall, in adopting a proposal under section 189 or 190 have regard to local traditions.
 

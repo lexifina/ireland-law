@@ -1,6 +1,6 @@
 Furnishing of information to elected council.
 
-136.— (1) Without prejudice to section 105, 135, 137 or 138, where relevant, a chief executive shall, whenever requested—
+136.—(1) Without prejudice to section 105, 135, 137 or 138, where relevant, a chief executive shall, whenever requested—
 
 (a) by an elected council of a local authority for which he or she is the chief executive or by its Cathaoirleach,
 

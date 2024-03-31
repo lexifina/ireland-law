@@ -36,7 +36,7 @@ Corporate plan.
 
 (ii) which are otherwise necessary or consequential and which the chief executive may make within 2 weeks after the expiration of that period.
 
-(6) The corporate plan shall be prepared on the basis of an organisational wide strategic approach encompassing the various activities of the local authority concerned, including activities relating to functions of municipal district members for each municipal district, and shall include—
+(6) The corporate plan shall be prepared on the basis of an organisational wide strategic approach encompassing the various activities of the local authority concerned , including activities relating to functions of municipal district members for each municipal district, and shall include—
 
 (a) a statement of the principal activities of the local authority,
 
