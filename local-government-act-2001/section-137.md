@@ -1,6 +1,6 @@
 Plans, specifications to be prepared for elected council.
 
-137.—(1) The elected council or a joint body may at any time by resolution require the chief executive for the local authority or joint body concerned to prepare and submit to the elected council or joint body, as the case may be—
+137.—(1) The elected council or a joint body may at any time by resoluti16on require the chief executive for the local authority or joint body concerned to prepare and submit to the elected council or joint body, as the case may be—
 
 (a) plans and specifications for the execution of any particular work specified in the resolution which can lawfully be executed by the local authority or joint body, and
 
