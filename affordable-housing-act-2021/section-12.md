@@ -16,7 +16,9 @@ Affordable dwelling purchase arrangements
 
 (4) The affordable dwelling contribution shall not be less than such minimum amount or greater than such maximum amount, or less than such minimum percentage of market value or greater than such maximum percentage of market value, as the Minister may prescribe.
 
-(5) In consideration of the provision of the affordable dwelling contribution, the housing authority shall be entitled to a beneficial interest in the affordable dwelling (in this Part referred to as the “affordable dwelling equity”) which shall be the proportion that the affordable dwelling contribution bears to the market value of the affordable dwelling on the date on which an enforceable agreement is made for its purchase by the eligible applicant, expressed as a percentage in accordance with the following formula: ((€A x 100)/€B)% where—
+(5) In consideration of the provision of the affordable dwelling contribution, the housing authority shall be entitled to a beneficial interest in the affordable dwelling (in this Part referred to as the “affordable dwelling equity”) which shall be the proportion that the affordable dwelling contribution bears to the market value of the affordable dwelling on the date on which an enforceable agreement is made for its purchase by the eligible applicant, expressed as a percentage in accordance with the following formula:
+
+((€A x 100)/€B)% where—
 
 (a) €A is the affordable dwelling contribution, and
 
