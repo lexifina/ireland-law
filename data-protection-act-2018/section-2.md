@@ -24,6 +24,8 @@ Interpretation
 
 “local authority” means a local authority within the meaning of section 2 of the Local Government Act 2001;
 
+“Mayor of Limerick” has the meaning assigned to it by section 9 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;
+
 “Minister” means the Minister for Justice and Equality;
 
 “political party” means a political party registered in the Register of Political Parties in accordance with section 25 of the Electoral Act 1992;
