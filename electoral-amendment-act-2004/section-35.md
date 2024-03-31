@@ -4,7 +4,7 @@ Unlawful possession of polling information card.
 
 (a) takes, destroys, conceals or otherwise interferes with a polling information card, or
 
-(b) presents such a card at a polling station, which is not addressed to the person in accordance with section 92 of the Act of 1992, section 23 of the Act of 1994, Rule 54 of the Second Schedule to the Act of 1997 or Article 55 of the Regulations of 1995.
+(b) presents such a card at a polling station, which is not addressed to the person in accordance with section 92 of the Act of 1992, section 23 of the Act of 1994, Rule 54 of the Second Schedule to the Act of 1997 , Article 55 of the Regulations of 1995 or paragraph 40 of Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024.
 
 (2) A person guilty of an offence under this section shall be liable—
 

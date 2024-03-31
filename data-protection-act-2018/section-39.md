@@ -10,6 +10,6 @@ Communication with data subjects by political parties, candidates for and holder
 
 (b) a member of either House of the Oireachtas, the European Parliament or a local authority, or
 
-(c) a candidate for election to the office of President of Ireland or for membership of either House of the Oireachtas, the European Parliament or a local authority.
+(c) a candidate for election to the office of President of Ireland, or Mayor of Limerick, or for membership of either House of the Oireachtas, the European Parliament or a local authority.
 
 (4) In this section and in sections 48, 58 and 59, “electoral activities” includes the dissemination of information, including information as to a person’s activities and policies, that might reasonably be of interest to electors.

@@ -4,7 +4,7 @@ Interpretation (Chapter 2).
 
 128A.— In this Chapter—
 
-"chief officer", in relation to a Committee, means the person designated as such by the chief executive of the local authority concerned under section 128E(1);
+"chief officer", in relation to a Committee, means the person designated as such by the chief executive of the local authority concerned under section 128D(1)(b);
 
 "Committee" means a Local Community Development Committee;
 

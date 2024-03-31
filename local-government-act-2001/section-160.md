@@ -2,7 +2,11 @@ Qualifications for employment.
 
 160.—(1) (a) The appropriate Minister may declare qualifications of such classes and descriptions as he or she thinks fit for a specified employment under a local authority or for such of the employments as belong to a specified class, description or grade.
 
-(b) Before declaring under this section qualifications for any employment under a local authority to which the Local Authorities (Officers and Employees) Acts, 1926 to 1983, apply, the appropriate Minister shall consult with the Commission for Public Service Appointments.
+(b) Before declaring under this section qualifications for any employment under a local authority to which the Local Authorities (Officers and Employees) Acts, 1926 to 1983, apply, the appropriate Minister shall consult with the Public Appointments Service.
+
+(ba) Where a Minister has, prior to the commencement of section 68 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024, declared qualifications under this section, such a declaration shall not be affected by reason only that he or she did not, prior to the making of that declaration, consult with the Commission for Public Service Appointments.
+
+(bb) Paragraph (ba) shall not apply to proceedings challenging a declaration under this section that were initiated prior to the commencement of section 68 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024.
 
 (c) A person is not to be appointed to any employment under a local authority for which qualifications are for the time being declared under this section unless he or she possesses those qualifications.
 

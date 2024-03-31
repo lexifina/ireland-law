@@ -36,15 +36,19 @@ Disqualifications from local authority membership.
 
 (iii) acting when disqualified.
 
-(2)(a) A disqualification arising under subsection (1)(k) commences—
+(1A) Subject to subsection (2), a person to whom subsection (1) applies, other than a person referred to in paragraph (b) or (e) of that subsection, is disqualified from being elected to the office of Mayor of Limerick.
+
+(1B) Subject to subsection (2), a person to whom subsection (1) applies is disqualified from holding the office of Mayor of Limerick.
+
+(2)(a) A disqualification arising under subsection (1), (1A) or (1B) in respect of a person to whom subsection (1)(k) applies commences—
 
 (i) where no appeal is taken, on the expiration of the time limit for an appeal, or
 
 (ii) where an appeal is taken to the Minister or the High Court, on the expiration of one month from the date of an order confirming the charge or surcharge, and the disqualification shall be for 5 years from the date of its commencement.
 
-(b) A disqualification arising under subsection (1)(l) comes into effect on the seventh day after the last day for compliance with the relevant final judgement, order or decree and the disqualification shall be for 5 years from such last day.
+(b) A disqualification arising under subsection (1), (1A) or (1B) in respect of a person to whom subsection (1)(l) applies comes into effect on the seventh day after the last day for compliance with the relevant final judgement, order or decree and the disqualification shall be for 5 years from such last day.
 
-(c) A disqualification arising under subsection (1)(m) commences—
+(c) A disqualification arising under subsection (1), (1A) or (1B) in respect of a person to whom subsection (1)(m) applies commences—
 
 (i) where no appeal is taken against the conviction, when the time limit for taking an appeal has passed, or
 

@@ -4,7 +4,7 @@ Alternative voting arrangements under this Act.
 
 (a) on or before the second day after the dissolution of the Dáil at a general election, or
 
-(b) on or before the second day after the date of the making of the order appointing polling day at a Dáil bye-election, or a Presidential, European or local election, or a referendum, requesting that his or her name be deleted from the postal voters list and the registration authority shall comply with that request.
+(b) on or before the second day after the date of the making of the order appointing polling day at a Dáil bye-election, or a Presidential, European or local election, , a Limerick mayoral election, including a mayoral by election, held in accordance with Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024, or a plebiscite within the meaning of Part 6 of that Act, or a referendum, requesting that his or her name be deleted from the postal voters list and the registration authority shall comply with that request.
 
 (2) Notwithstanding the provisions of subsection (1) , where a request by an elector to have his or her name deleted from the postal voters list is received after the relevant date referred to in paragraph (a) or (b) of that subsection in relation to an election or a referendum but before the relevant date referred to in either paragraph (a) or (b) in relation to another election or referendum, the poll at which is to be held on the same day, the relevant date for the second or subsequent election or referendum shall apply to a request received under either of the said paragraphs in connection with the elections or referendums.
 

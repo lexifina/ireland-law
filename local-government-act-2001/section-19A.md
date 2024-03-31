@@ -16,11 +16,11 @@ Temporary Absences.
 
 (2) It is the duty of the meetings administrator to notify the members of the local authority in writing on becoming aware that a temporary absence has occurred and that a temporary substitute is to be co-opted.
 
-(3) (a) (i) Subject to subparagraph (ii), a temporary absence shall be filled by the co-option by the local authority of a person to fill the absence subject to such person being nominated by the same registered political party who nominated for election or co-option the member who caused the temporary absence.
+(3) (a) (i) Subject to subparagraph (ii), a temporary absence shall be filled by the co-option by the local authority of a person (other than the Mayor of Limerick) to fill the absence subject to such person being nominated by the same registered political party who nominated for election or co-option the member who caused the temporary absence.
 
 (ii) The local authority shall have regard to the preferred choice (if any) of the member causing the temporary absence as to the person who should be the temporary substitute.
 
-(b) (i) Subject to subparagraph (ii), where the member causing the temporary absence was a non-party candidate at his or her election to the local authority, the absence shall be filled by the co-option by the local authority of a person to fill the absence in accordance with such requirements and procedures as may be set out in its standing orders.
+(b) (i) Subject to subparagraph (ii), where the member causing the temporary absence was a non-party candidate at his or her election to the local authority, the absence shall be filled by the co-option by the local authority of a person (other than the Mayor of Limerick) to fill the absence in accordance with such requirements and procedures as may be set out in its standing orders.
 
 (ii) The local authority shall have regard to the preferred choice (if any) of the member causing the temporary absence as to the person who should be the temporary substitute.
 

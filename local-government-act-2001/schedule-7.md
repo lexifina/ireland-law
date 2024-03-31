@@ -72,6 +72,6 @@ PART 3
 
 City and County Council Number of Members
 
-Limerick 40
+Limerick 41 (including the Mayor of Limerick)
 
 Waterford 32

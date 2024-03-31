@@ -4,6 +4,10 @@ Casual vacancies.
 
 (a) where section 16(1) applies,
 
+(aa) upon the cessation of membership of a member of a local authority under subsection (1) of section 11 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024,
+
+(ab) in the case of a person who, at the same time, is elected to the office of Mayor of Limerick and as a member of a local authority, on the ordinary day of retirement next following the election concerned,
+
 (b) upon the death or resignation (including deemed resignation by virtue of section 18(4)) of a member of a local authority,
 
 (c) in such circumstances as are set out in articles 25, 28, 124 and 125 of the Local Elections Regulations 1995 (S.I. No. 297 of 1995),
@@ -14,9 +18,9 @@ Casual vacancies.
 
 (2) It is the duty of the meetings administrator to notify the members of the local authority in writing on becoming aware that a casual vacancy has or may have occurred.
 
-(3) (a) A casual vacancy shall be filled by the co-option by the local authority of a person to fill the vacancy and except where paragraph (c) or (d) or (e) of subsection (1) apply, subject to such person being nominated by the same registered political party who nominated for election or co-option the member who caused the casual vacancy.
+(3) (a) A casual vacancy shall be filled by the co-option by the local authority of a person (other than the Mayor of Limerick) to fill the vacancy and except where paragraph (c) or (d) or (e) of subsection (1) apply, subject to such person being nominated by the same registered political party who nominated for election or co-option the member who caused the casual vacancy.
 
-(b) Where the person causing the casual vacancy was a non-party candidate at his or her election to the local authority, the vacancy shall be filled by the co-option by the local authority of a person to fill the vacancy (except where paragraph (c) or (d) or (e) of subsection (1) apply) in accordance with such requirements and procedures as may be set out in its standing orders.
+(b) Where the person causing the casual vacancy was a non-party candidate at his or her election to the local authority, the vacancy shall be filled by the co-option by the local authority of a person (other than the Mayor of Limerick) to fill the vacancy (except where paragraph (c) or (d) or (e) of subsection (1) apply) in accordance with such requirements and procedures as may be set out in its standing orders.
 
 (c) A local authority shall in making standing orders consider the inclusion of provisions for the purposes of paragraph (b).
 
