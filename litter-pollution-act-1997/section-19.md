@@ -56,9 +56,13 @@ Prohibition of articles and advertisements on and defacement of certain structur
 
 (ii) a general election or a bye-election, within the meaning, in each case, of the Electoral Act 1992,
 
-(iii) a local election within the meaning of the Local Government Act 2001, or
+(iii) a local election within the meaning of the Local Government Act 2001, ...
 
-(iv) an election of members of the European Parliament under the European Parliament Elections Act 1997, unless the advertisement has been in place prior to the making of an order by the Minister appointing the day upon which the relevant poll shall be taken or for 30 days prior to the date of the poll, whichever is the shorter period, or for 7 days or more after the latest day upon which the poll was taken for the election or bye-election concerned,
+(iv) an election of members of the European Parliament under the European Parliament Elections Act 1997 or,
+
+(v) a Limerick mayoral election, including a by-election, held in accordance with Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024, or
+
+(vi) a plebiscite within the meaning of Part 6 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024, unless the advertisement has been in place prior to the making of an order by the Minister appointing the day upon which the relevant poll shall be taken or for 30 days prior to the date of the poll, whichever is the shorter period, or for 7 days or more after the latest day upon which the poll was taken for the election or bye-election concerned,
 
 (d) ...
 
