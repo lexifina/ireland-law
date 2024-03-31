@@ -12,8 +12,8 @@ Provisions in relation to members.
 
 (b) the Clerk of the Seanad, the Clerk-Assistant of the Seanad,
 
-(c) the person referred to in paragraph (d) of that section, another such person, to be a member of the Commission and the person so appointed shall remain a member of the Commission until the reports of the Commission are presented to the Chairman of the Dáil under section 22 .
+(c) the person referred to in paragraph (d) of that section, another such person, to be a member of the Commission and the person so appointed shall remain a member of the Commission until the reports of the Commission are presented to the Chairman of the Dáil under section 22.
 
-(3) Where, before the reports of the Commission have been presented to the Chairman of the Dáil under section 22 , a person who is a member of the Commission ceases to hold an office referred to in paragraph (b) or (c) of section 19, that person shall continue as a member of the Commission until the reports of the Commission have been presented unless the Government by order directs that the person's successor in office or the appropriate person referred to in paragraph (a) or (b) of subsection (2) shall be a member of the Commission.
+(3) Where, before the reports of the Commission have been presented to the Chairman of the Dáil under section 22, a person who is a member of the Commission ceases to hold an office referred to in paragraph (b) or (c) of section 19, that person shall continue as a member of the Commission until the reports of the Commission have been presented unless the Government by order directs that the person's successor in office or the appropriate person referred to in paragraph (a) or (b) of subsection (2) shall be a member of the Commission.
 
 (4) Subject to subsections (1), (2) and (3), the Commission may act notwithstanding vacancies in its membership.
