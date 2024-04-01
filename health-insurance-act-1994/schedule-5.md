@@ -2,11 +2,13 @@ SCHEDULE 5
 
 Section 6A
 
-Amount And Percentage Specified For Purposes Of Definitions Relating To High Cost Claims
+AMOUNT AND PERCENTAGE SPECIFIED FOR PURPOSES OF DEFINITIONS RELATING
+
+TO HIGH COST CLAIMS
 
 1. Amount specified for the purposes of paragraph (a) of the definition of "high cost claim threshold" - €50,000.
 
-2. Percentage specified as the high cost claim quota share - 40 per cent.
+2. Percentage specified as the high cost claim quota share - 45 per cent.
 
 ACTS REFERRED TO
 

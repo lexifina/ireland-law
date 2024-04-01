@@ -1,12 +1,12 @@
 Payment from Fund of risk equalisation credits.
 
-11C.— (1) (a) Where a registered undertaking effects, before 31 March 2013, a relevant contract for any period commencing on or after 1 January 2013, it shall, in respect of each insured person who falls within a class of insured person specified in column 1 of Table 1 set out in Schedule 4, not collect from the policy holder such part of the premium payable (or, if that premium is payable by instalments, not so collect pro rata from the instalments) in respect of the provision of health insurance cover under that contract to that person—
+11C. — (1) (a) Where a registered undertaking effects, before 31 March 2013, a relevant contract for any period commencing on or after 1 January 2013, it shall, in respect of each insured person who falls within a class of insured person specified in column 1 of Table 1 set out in Schedule 4, not collect from the policy holder such part of the premium payable (or, if that premium is payable by instalments, not so collect pro rata from the instalments) in respect of the provision of health insurance cover under that contract to that person—
 
 (i) as is equal to the amount (if any) specified in column 2 of that Table opposite that class of insured person, and
 
 (ii) on the basis that that part of the premium payable is payable from the Fund.
 
-(b) Where a registered undertaking effects, on or after 1 April 2023, a relevant contract for any period commencing on or after that date, it shall, in respect of each insured person who falls within a class of insured person specified in column 1 of Table 2 set out in Schedule 4, not collect from the policy holder such part of the premium payable (or, if that premium is payable by instalments, not so collect pro rata from the instalments) in respect of the provision of health insurance cover under that contract to that person—
+(b) Where a registered undertaking effects, on or after 1 April 2024, a relevant contract for any period commencing on or after that date, it shall, in respect of each insured person who falls within a class of insured person specified in column 1 of Table 2 set out in Schedule 4, not collect from the policy holder such part of the premium payable (or, if that premium is payable by instalments, not so collect pro rata from the instalments) in respect of the provision of health insurance cover under that contract to that person—
 
 (i) as is equal to the amount (if any) specified in column 2 of that Table opposite that class of insured person, and
 
