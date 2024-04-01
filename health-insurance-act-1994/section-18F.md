@@ -1,6 +1,6 @@
 Powers of authorised officers.
 
-18F.— (1) (a) The powers conferred by this section may be exercised in respect of any person to whom this section applies for the purposes of—
+18F. — (1) (a) The powers conferred by this section may be exercised in respect of any person to whom this section applies for the purposes of—
 
 (i) securing the enforcement of the provisions of this Act (including any regulations made under this Act), or
 

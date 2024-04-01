@@ -1,6 +1,6 @@
 Submission of new type of health insurance contract and furnishing of certain other types of health insurance contract to Authority.
 
-7AB.— (1) A registered undertaking shall not offer in the State a new type of health insurance contract (and regardless of whether the contract is already offered outside the State by the undertaking or any other person) unless it has submitted a sample of the contract to the Authority not later than 30 days before first making such offer.
+7AB. — (1) A registered undertaking shall not offer in the State a new type of health insurance contract (and regardless of whether the contract is already offered outside the State by the undertaking or any other person) unless it has submitted a sample of the contract to the Authority not later than 30 days before first making such offer.
 
 (2) Subject to subsection (3), a registered undertaking shall not change in any material particular the benefits payable under a type of health insurance contract that it offers in the State unless it has submitted a sample of the contract as so changed (in this Act referred to as a "changed existing contract") to the Authority not later than 30 days before first making such change.
 

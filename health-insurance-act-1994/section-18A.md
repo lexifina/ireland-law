@@ -2,7 +2,7 @@
 
 Interpretation of Part IIIA.
 
-18A.— In this Part—
+18A. — In this Part—
 
 "enforcement notice" means a notice under section 18B(1);
 

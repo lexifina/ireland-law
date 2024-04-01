@@ -1,6 +1,6 @@
 Risk Equalisation Fund.
 
-11D.— (1) The Authority shall establish, administer and maintain a fund to be known as the Risk Equalisation Fund (in this Act referred to as "the Fund").
+11D. — (1) The Authority shall establish, administer and maintain a fund to be known as the Risk Equalisation Fund (in this Act referred to as "the Fund").
 
 (2) The Authority shall open and maintain—
 

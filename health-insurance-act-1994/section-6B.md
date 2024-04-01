@@ -1,6 +1,6 @@
 Duration of entrustment act.
 
-6B. (1) The entrustment act shall endure until the relevant date whereupon it shall cease to be in force.
+6B. — (1) The entrustment act shall endure until the relevant date whereupon it shall cease to be in force.
 
 (2) The Minister may, after consultation with the European Commission and the Minister for Finance and having regard, if such be the case, of the need to continue the Risk Equalisation Scheme for the purposes of assisting in the achievement of the principal objective and of the period for which the Scheme needs to so continue, make an order specifying a date for the purposes of paragraph (b) of the definition of "relevant date".
 

@@ -1,6 +1,6 @@
 Specification by Authority of certain health insurance contracts as not providing for advanced cover.
 
-11E.— (1) The Authority shall, before 1 January 2013—
+11E. — (1) The Authority shall, before 1 January 2013—
 
 (a) first, evaluate and analyse each type of relevant contract on offer in the State in order to ascertain, to the Authority’s satisfaction, whether that type of relevant contract does not provide for advanced cover, and
 

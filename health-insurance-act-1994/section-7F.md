@@ -1,6 +1,6 @@
 Overcompensated undertaking required to make payment to Exchequer if it has made more than reasonable profit.
 
-7F. —(1) A registered undertaking or former registered undertaking shall, in respect of each year—
+7F. — (1) A registered undertaking or former registered undertaking shall, in respect of each year—
 
 (a) maintain and furnish to the Authority (before 1 May of the next succeeding year), in such form as may be specified by the Authority, a statement of profit and loss in respect of—
 
@@ -28,8 +28,6 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 
 (c) Paragraph (b) shall, with all necessary modifications, apply to each relevant 3 year period as it applies to the 3 year period referred to in that paragraph.
 
-OJC 8/04, 11.01.2012, p.15
-
 (4A) (a) The Authority shall take what would constitute a reasonable profit for a registered undertaking in respect of its relevant health insurance business in the State, in respect of the 3 year period from 1 January 2016 to the end of 2018, as being a return on sales, gross of reinsurance and excluding investment income, that does not exceed 6 per cent per annum in respect of that business for that 3 year period taken as a whole and as calculated using approved accounting standards and having regard to the European Union framework for State aid in the form of public service compensation (2011) (2012/C8/03).
 
 (b) Subject to paragraph (c), paragraph (a) shall, with all necessary modifications, apply to each applicable 3 year period as it applies to the 3 year period referred to in that paragraph.
@@ -56,7 +54,9 @@ OJC 8/04, 11.01.2012, p.15
 
 (v) if paragraph (b) of subsection (4A) is applicable, the period from 1 January of the first year of the applicable 3 year period to the end of the last year of the applicable 3 year period,
 
-(6) (a) Where the Authority determines under subsection (5)(b) that there is a positive cumulative net financial impact on a registered undertaking or former registered undertaking in respect of a period, it shall make a determination as to whether the undertaking has or has not, in respect of that period, made a profit which is in excess of the reasonable profit ... in respect of that period.
+(6) (a) Where the Authority determines under subsection (5)(b) that there is a positive cumulative net financial impact on a registered undertaking or former registered undertaking in respect of a period, it shall make a determination
+
+OJC 8/04, 11.01.2012, p.15 as to whether the undertaking has or has not, in respect of that period, made a profit which is in excess of the reasonable profit ... in respect of that period.
 
 (b) Where the Authority determines under paragraph (a) that a registered undertaking or former registered undertaking has made a profit which is in excess of a reasonable profit in respect of a period, it shall make a further determination as to the monetary equivalent amount of the profit which is in excess of the corresponding monetary equivalent amount of such reasonable profit in respect of that period.
 

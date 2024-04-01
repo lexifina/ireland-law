@@ -1,6 +1,6 @@
 Privileged legal material.
 
-18G.— (1) Subject to subsection (2), nothing in this Part shall compel the disclosure by any person of privileged legal material or authorise the taking of privileged legal material.
+18G. — (1) Subject to subsection (2), nothing in this Part shall compel the disclosure by any person of privileged legal material or authorise the taking of privileged legal material.
 
 (2) The disclosure of information may be compelled, or possession of it taken, pursuant to the powers of this Part, notwithstanding that it is apprehended that the information is privileged legal material provided the compelling of its disclosure or the taking of its possession is done by means whereby the confidentiality of the information can be maintained (as against the person compelling such disclosure or taking such possession) pending the determination by the court of the issue as to whether the information is privileged legal material.
 

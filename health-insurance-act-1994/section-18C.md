@@ -1,6 +1,6 @@
 Application for cancellation of direction specified in enforcement notice.
 
-18C.—(1) A person on whom an enforcement notice has been served may, on notice to the Authority, not later than 45 days after being so served, apply to the High Court for the cancellation of any direction specified in the notice and, on such an application, the Court may—
+18C. — (1) A person on whom an enforcement notice has been served may, on notice to the Authority, not later than 45 days after being so served, apply to the High Court for the cancellation of any direction specified in the notice and, on such an application, the Court may—
 
 (a) cancel the direction,
 

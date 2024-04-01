@@ -1,6 +1,6 @@
 Application of Risk Equalisation Scheme.
 
-11B.—(1) Subject to subsection (2), the Risk Equalisation Scheme shall apply to—
+11B. —(1) Subject to subsection (2), the Risk Equalisation Scheme shall apply to—
 
 (a) each registered undertaking, and
 

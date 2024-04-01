@@ -1,6 +1,6 @@
 Functions of Authority.
 
-21.— (1) In addition to the functions conferred on the Authority by sections 4(6), 7AC, 7D, 7E, 7F, 7G, 14, 15, 17 and 18 and Parts IIIA and IIIB, the principal functions of the Authority shall be—
+21. — (1) In addition to the functions conferred on the Authority by sections 4(6), 7AC, 7D, 7E, 7F, 7G, 14, 15, 17 and 18 and Parts IIIA and IIIB, the principal functions of the Authority shall be—
 
 (a) to manage and administer the Risk Equalisation Scheme,
 

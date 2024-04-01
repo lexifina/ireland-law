@@ -2,7 +2,7 @@
 
 Authorised officers of Authority.
 
-18E.— (1) Where, in the opinion of the Authority, it is necessary to do so for the purposes referred to in section 18F(1)(a), the Authority may appoint, in writing—
+18E. — (1) Where, in the opinion of the Authority, it is necessary to do so for the purposes referred to in section 18F(1)(a), the Authority may appoint, in writing—
 
 (a) any of its officers or employees, or
 

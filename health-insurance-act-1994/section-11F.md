@@ -1,6 +1,6 @@
 Scheme regulations.
 
-11F.— The Minister may make regulations relating to the making and determination of claims referred to in section 11C(2), including, without prejudice to the generality of the foregoing—
+11F. — The Minister may make regulations relating to the making and determination of claims referred to in section 11C(2), including, without prejudice to the generality of the foregoing—
 
 (a) the minimum or maximum periods, or both, to which the claims, or a class of the claims, may relate,
 

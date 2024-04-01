@@ -1,6 +1,6 @@
 Power to specify form of documents for purposes of Risk Equalisation Scheme.
 
-11G.— (1) The Authority may specify the form of documents (including the form of a claim referred to in section 11C(2)) required for the purposes of the Risk Equalisation Scheme as the Authority thinks appropriate.
+11G. — (1) The Authority may specify the form of documents (including the form of a claim referred to in section 11C(2)) required for the purposes of the Risk Equalisation Scheme as the Authority thinks appropriate.
 
 (2) The Authority’s power under subsection (1) may be exercised in such a way as to—
 
