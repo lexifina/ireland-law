@@ -1,0 +1,3 @@
+Disapplication of certain provisions to corporate credit unions.
+
+190.— ...
