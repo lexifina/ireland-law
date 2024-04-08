@@ -2,9 +2,9 @@ Directors: procedural provisions.
 
 54.— (1) The board of directors of a credit union shall meet as often as may be appropriate to fulfil its responsibilities effectively and prudently and reflecting the nature, scale and complexity of the credit union, but in any event—
 
-(a) the board of directors shall hold at least 10 meetings in any year, and
+(a) the board of directors shall hold at least 6 meetings in any year, and
 
-(b) the interval between any 2 meetings of the board of directors shall not be greater than 6 weeks.
+(b) the interval between any 2 meetings of the board of directors shall not be greater than 10 weeks.
 
 (2) Meetings of the board of directors of a credit union shall be chaired by the chair or, in his or her absence, by the vice-chair or, in the absence of the chair and the vice-chair, in a manner prescribed by the Bank or, if no manner is so prescribed, in a manner provided for in the rules of the credit union.
 
