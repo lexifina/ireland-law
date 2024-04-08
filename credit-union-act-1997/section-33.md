@@ -6,7 +6,7 @@ Power to borrow.
 
 (2) For the adequate protection of the savings of members of credit unions, the Bank may prescribe—
 
-(a) the maximum amount of money a credit union may borrow at any one time which may be expressed as a percentage of the aggregate of shares balance and the deposits balance of the credit union, and
+(a) the maximum amount of money a credit union may borrow at any one time, and
 
 (b) the notice to be given to the Bank by a credit union in specified circumstances where the credit union proposes to borrow certain amounts of money (expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) in respect of those circumstances.
 

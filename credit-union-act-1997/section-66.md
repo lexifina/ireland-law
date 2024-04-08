@@ -1,16 +1,20 @@
 Officers: suspension and removal by Supervisory Committee.
 
-66.— (1) If the board oversight committee of a credit union considers that a member of the board of directors has taken any action or decision which, in the opinion of the committee, given in writing to the director concerned, is not in accordance with the requirements of this Part, then, after consulting the Bank, the committee may either—
+66.— (1) If the board oversight committee of a credit union considers that a member of the board of directors has taken any action or decision which, in the opinion of the committee, given in writing to the director concerned, is not in accordance with the requirements of this Part, then, after notifying the Bank, the committee may either—
 
 (a) suspend, with immediate effect, the director by a unanimous vote of all the members of the committee taken at a meeting of the committee called for the purpose of considering the director’s suspension, or
 
 (b) convene a special general meeting of the credit union to consider whether to remove the director in light of the action or decision taken by that director, but no steps shall be taken under this subsection without the director concerned being given an opportunity to be heard by the members of the board oversight committee.
 
-(2) Where a director of a credit union has been suspended by the board oversight committee in accordance with subsection (1), the board oversight committee shall, within 7 days of that suspension, convene a special general meeting—
+(2) Where a director of a credit union has—
 
-(a) for the purpose of reviewing the suspension, and
+(a) been suspended by the board oversight committee in accordance with subsection (1), and
 
-(b) to consider whether to remove the director having regard to the action or decision taken by that director.
+(b) within 7 days of that suspension, notified the board oversight committee, in writing, that he or she is aggrieved by the suspension, the board oversight committee shall ensure that the secretary of the credit union issues, within 14 days of that notification, a notice of a special general meeting—
+
+(i) for the purpose of reviewing the suspension, and
+
+(ii) to consider whether to remove the director having regard to the action or decision taken by that director.
 
 (3) Where the board oversight committee convenes a special general meeting for the purposes of this section the credit union may, by resolution of a majority of the members present and voting at that special general meeting—
 

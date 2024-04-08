@@ -20,17 +20,17 @@ Conditions for registration as a credit union.
 
 (2) The objects referred to in subsection (1)(a) are—
 
-(a) the promotion of thrift among its members by the accumulation of their savings;
+(a) the promotion of the accumulation of savings by its members;
 
 (b) the creation of sources of credit for the mutual benefit of its members at a fair and reasonable rate of interest;
 
 (c) the use and control of members' savings for their mutual benefit;
 
-(d) the training and education of its members in the wise use of money;
+(d) the training and education of its members in the use of money;
 
-(e) the education of its members in their economic, social and cultural well-being as members of the community;
+(e) ...;
 
-(f) the improvement of the well-being and spirit of the members' community; and
+(f) the improvement of the well-being of the members’ community; and
 
 (g) subject to section 48, the provision to its members of such additional services as are for their mutual benefit.
 
@@ -53,3 +53,23 @@ Conditions for registration as a credit union.
 (b) may, if it considers it proper in the circumstances of the case, treat the fact that admission to membership is restricted as mentioned in subsection (1)(b) as sufficient evidence of the existence of a common bond.
 
 (5) For the purposes of this Act, if the rules of a credit union so provide, a person shall be treated as having the qualification required for admission to membership stated in those rules if he is a member of the same household as, and is a member of the family of, another person who is a member of the credit union and who has a direct common bond with those other members.
+
+(6) ...
+
+(7) ...
+
+(8) ...
+
+(9) ...
+
+(10) Where a website is maintained by or on behalf of a credit union, the credit union shall publish, on the website maintained by it or on its behalf, as the case may be—
+
+(a) a description of the common bond of the credit union, or
+
+(b) where the common bond of the credit union is or includes that specified in paragraph (b) of subsection (3), a map on which the locality concerned is marked.
+
+(11) Where no website is maintained by or on behalf of a credit union, the credit union shall include in its annual accounts—
+
+(a) a description of the common bond of the credit union, or
+
+(b) where the common bond of the credit union is or includes that specified in paragraph (b) of subsection (3), a map on which the locality concerned is marked.

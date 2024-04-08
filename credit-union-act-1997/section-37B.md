@@ -18,7 +18,7 @@ Credit agreement in respect of loans exceeding €200.
 
 (2) For the purposes of this section, a contract of guarantee—
 
-(a) includes, where the member is not of full age, an indemnity provided by a parent or guardian of the member or by another person approved by the board of directors, and
+(a) includes, where the member is not of full age, an indemnity provided by a parent or guardian of the member or by another person approved by the credit union, and
 
 (b) may form part of the relevant agreement or may be in a separate document.
 

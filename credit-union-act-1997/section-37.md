@@ -1,11 +1,13 @@
 Appeal against non-approval of loan.
 
-37.—(1) If an application for a loan which was considered by the credit committee or by a credit officer was not approved under section 36, the applicant may appeal to an appellate body which, by a decision of such members of the body present at the meeting at which the appeal is considered as represents at least two-thirds of those present and a majority of the body as a whole, may give approval to the loan, overriding the decision of the credit committee or credit officer, as the case may be.
+37.—(1) If an application for a loan which was considered—
 
-(2) The appellate body referred to in subsection (1) shall consist of—
+(a) by the credit committee,
 
-(a) the board of directors, excluding, where the application for the loan was considered by the credit committee, any director who is a member of that committee; and
+(b) by a credit officer, or
 
-(b) ...
+(c) in accordance with a loan approval process referred to in section 36(2)(d) was not approved under section 36, the applicant may appeal to an appellate body which, by a decision of such members of the body present at the meeting at which the appeal is considered as represents at least two-thirds of those present and a majority of the body as a whole, may give approval to the loan, overriding the decision of the credit committee, of the credit officer or that made in accordance with the approval process, as the case may be.
 
-(3) For the purposes of the consideration of an appeal under this section, the appellate body shall not be regarded as quorate unless there are present a majority of the directors referred to in subsection (2)(a).
+(2) ...
+
+(3) ...

@@ -2,9 +2,9 @@ Election of board oversight committee, etc.
 
 76N.— (1) The board oversight committee of a credit union shall be elected—
 
-(a) where the organisation meeting occurs after the commencement of this provision, by secret ballot at the organisation meeting and, subject to section 76R(4), subsequent vacancies on the board oversight committee shall be filled by secret ballot at an annual general meeting,
+(a) where the organisation meeting occurs after the commencement of this provision, from among the members, by secret ballot at the organisation meeting and, subject to section 76R(4), subsequent vacancies on the board oversight committee shall be filled, from among the members, by secret ballot at an annual general meeting,
 
-(b) in any other case, by secret ballot at the annual general meeting first occurring after the commencement of this provision or, if earlier than that annual general meeting, at a special general meeting called for the purpose of such ballot and, subject to section 76R(4), subsequent vacancies on the board oversight committee shall be filled by secret ballot at an annual general meeting.
+(b) in any other case, from among the members, by secret ballot at the annual general meeting first occurring after the commencement of this provision or, if earlier than that annual general meeting, at a special general meeting called for the purpose of such ballot and, subject to section 76R(4), subsequent vacancies on the board oversight committee shall be filled, from among the members, by secret ballot at an annual general meeting.
 
 (2) If a casual vacancy arises in the membership of a board oversight committee, then—
 
@@ -38,7 +38,7 @@ Election of board oversight committee, etc.
 
 (k) a solicitor or other professional adviser who has been engaged by or on behalf of the credit union within the previous 3 years;
 
-(l) a person who is a spouse or civil partner, cohabitant, parent or child, of a director, board oversight committee member or employee of that credit union;
+(l) a person who is a spouse or civil partner, cohabitant, parent, sibling or child, of a director, board oversight committee member or employee of that credit union;
 
 (m) a body corporate;
 

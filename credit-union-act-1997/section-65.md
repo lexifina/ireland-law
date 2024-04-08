@@ -10,7 +10,7 @@ Credit officer and credit control officer.
 
 (ii) that qualifies as emergency credit within such definitions and limitations as to amount, the terms of repayment and security required for emergency credit as may be established in writing by the board of directors, and the amount of the excess referred to in paragraph (b)(i), shall be determined from time to time by the board of directors.
 
-(2) A record of each application for credit which has or has not been approved shall be furnished by the credit officer to the credit committee not later than 7 days of receipt of the application.
+(2) ...
 
 (3) Where the board of directors has assigned the power to approve credit under subsection (1)(b), a credit officer shall enquire into the character and financial circumstances of an applicant for credit and the security offered, if any, in order to—
 

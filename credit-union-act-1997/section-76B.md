@@ -18,4 +18,4 @@ Risk management systems and systems and control.
 
 (4) A credit union shall develop, adopt, implement, monitor, document and maintain systems and controls to manage and mitigate the risks identified by the risk management system.
 
-(5) A credit union shall develop, implement, document and maintain a compliance programme that allows it to evaluate compliance with its obligations under this section including compliance with all legal and regulatory requirements.
+(5) A credit union shall develop, implement, document and maintain a compliance programme that allows it to evaluate compliance with its obligations ... including compliance with all legal and regulatory requirements.

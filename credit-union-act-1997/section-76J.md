@@ -80,7 +80,7 @@ Outsourcing.
 
 (i) when it is proposed to outsource to a service provider a material business activity, or
 
-(ii) of any material development affecting the service provider and his or her ability to fulfil its obligations.
+(ii) of any material development affecting the service provider and the service provider’s ability to fulfil its obligations.
 
 (b) In this subsection and subsection (12) "material business activity" means an activity where a defect or failure inits performance would materially impair—
 

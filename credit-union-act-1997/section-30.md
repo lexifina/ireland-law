@@ -10,6 +10,6 @@ Dividends on shares.
 
 (5) No dividend on shares shall be paid otherwise than out of—
 
-(a) surplus funds in respect of the year in question (as ascertained under section 45) which are available for that purpose and have been accumulated after meeting the requirements to hold reserves in accordance with section 45; or
+(a) surplus funds in respect of the year in question ... which are available for that purpose and have been accumulated after meeting the requirements to hold reserves in accordance with section 45; or
 
 (b) a reserve set aside in previous years to provide for dividends.

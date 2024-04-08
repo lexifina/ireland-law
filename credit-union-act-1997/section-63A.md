@@ -1,6 +1,6 @@
 Manager of credit union.
 
-63A.— (1) The board of directors of a credit union shall appoint an individual to the role of manager of the credit union.
+63A.—(1) The board of directors of a credit union shall appoint an individual to the role of manager of the credit union.
 
 (2) The manager of a credit union shall be the chief executive officer of the credit union having responsibility for the day-to-day management of the credit union’s operations, compliance and performance and shall be responsible to the board of directors for the performance of his or her functions.
 
@@ -25,3 +25,7 @@ Manager of credit union.
 (h) such other matters as may be duly assigned to the manager by the board of directors.
 
 (5) In appointing a person as manager of a credit union, its board of directors shall ensure that the person complies with all legal requirements (including requirements which the Bank may prescribe) to be appointed.
+
+(6) Subject to subsection (7), the board of directors of a credit union may appoint the manager of the credit union to be a member of the board of directors for such term as they determine.
+
+(7) Where a person appointed under subsection (6) ceases to be a manager of the credit union concerned, that person shall immediately upon such cessation cease to be a member of the board of directors of that credit union.

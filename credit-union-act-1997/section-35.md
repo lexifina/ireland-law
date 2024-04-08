@@ -36,7 +36,7 @@ Making of loans.
 
 (e) any other limit that the Bank considers appropriate.
 
-(8) For the adequate protection of the savings of members of credit unions the Bank may prescribe such other requirements as it considers necessary in relation to any one or more of the following matters:
+(8) For the adequate protection of the savings of members of credit unions the Bank may prescribe such other requirements, applicable to loans to which this section relates, as it considers necessary in relation to any one or more of the following matters:
 
 (a) the lending practices of credit unions, including—
 

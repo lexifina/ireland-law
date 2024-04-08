@@ -2,9 +2,9 @@ Nomination Committee.
 
 56B.— (1) The board of directors of a credit union shall establish a committee (in this Act referred to as the "nomination Committee") whose members shall be elected in accordance with subsection (13).
 
-(2) The nomination committee shall comprise not less than 3 members and not more than 5 members.
+(2) The nomination committee shall comprise 3 members or 5 members.
 
-(3) Only members of the board of directors of a credit union are eligible to serve on a nomination committee of the credit union.
+(3) Only members of the board of directors of a credit union , other than a member of the board of directors who is also the manager of a credit union, are eligible to serve on a nomination committee of the credit union.
 
 (4) The nomination committee shall be responsible for the following:
 
@@ -20,7 +20,7 @@ Nomination Committee.
 
 (d) proposing an additional person to be a director of the credit union pursuant to section 95A(1);
 
-(e) assisting the credit union in performing anyobligations of the credit union under section 23 of the Central Bank Reform Act 2010 in relation to any candidates proposed to perform pre-approval controlled functions (as construed in accordance with section 22 of that Act);
+(e) assisting the credit union in performing any obligations of the credit union under section 23 of the Central Bank Reform Act 2010 in relation to any candidates proposed to perform pre-approval controlled functions (as construed in accordance with section 22 of that Act);
 
 (f) assisting the credit union in carrying out any checks which the credit union is undertaking to enable it to comply with its obligations under section 21 of the Central Bank Reform Act 2010;
 
@@ -30,7 +30,7 @@ Nomination Committee.
 
 (i) ensuring that each director is given adequate induction to his or her role on the board of directors so as to ensure he or she has sufficient appreciation of, and appropriate training about, the strategy, operations and performance of the credit union;
 
-(j) ensuring that the induction process and training referred to in paragraph (i) occurs as soon as is practicable and in any event by no later than 6 months following a director’s appointment to the board of directors;
+(j) ensuring that the induction process and training referred to in paragraph (i) occurs as soon as is practicable and in any event by no later than 6 months following a director’s initial appointment to the board of directors;
 
 (k) arranging additional training, either individually or collectively, for the members of the board of directors during their respective terms of appointment to the extent that the nomination committee considers it necessary in order for the board of directors to make informed decisions;
 
@@ -40,7 +40,7 @@ Nomination Committee.
 
 (6) The nomination committee shall ensure it receives nominations for appointment of persons as members of the board of directors of a credit union in time prior to any annual general meeting, or special general meeting at which an election is held for such members, so as to enable any requirements by or under Part 3 of the Central Bank Reform Act 2010 to be met in advance of those persons being nominated for appointment.
 
-(7) In identifying prospective candidates under subsection (4)(a) and considering the proposing of candidates under subsection (4)(c), the nomination committee shall consider the balance of skills, experience and knowledge on the current board of directors and any review undertaken under subsection (11).
+(7) In identifying prospective candidates under subsection (4)(a) and considering the proposing of candidates under subsection (4)(c), the nomination committee shall consider the balance of gender, skills, experience and knowledge on the current board of directors and any review undertaken under subsection (11).
 
 (8) In considering the proposing of candidates under paragraph (4)(c), the nomination committee shall have regard to—
 

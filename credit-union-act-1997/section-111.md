@@ -18,7 +18,7 @@ Annual accounts.
 
 (b) it incorporates a report by the auditor stating whether in his opinion it complies with paragraph (a) or paragraph (b) of subsection (1), whichever is applicable in that case, and
 
-(c) it has been signed by the manager of the credit union, by a member of the board oversight committee acting on behalf of that committee and by a member of the board of directors acting on behalf of the board.
+(c) it has been signed by the manager of the credit union and by a member of the board of directors acting on behalf of the board.
 
 (5) If, in relation to any income and expenditure account or balance sheet of a credit union for a financial year, a member of the board of directors fails to take all reasonable steps to secure compliance with the provision of subsection (1) which is applicable in that case, the member shall be guilty of an offence and liable on summary conviction to a class C fine unless the member proves that there were reasonable grounds for the member to believe that a competent and reliable person was charged with the duty of seeing that the relevant provision was complied with, and was in a position to discharge that duty.
 

@@ -1,14 +1,14 @@
 Restrictions on withdrawal of shares and deposits.
 
-32.—(1) Notwithstanding anything in the rules of a credit union or in any contract, a credit union may require not less than 60 days’ notice from a member of his intention to withdraw a share in the credit union and a member may not withdraw any shares at a time when a claim due on account of deposits is unsatisfied.
+32.—(1) Notwithstanding anything in the rules of a credit union or in any contract, a credit union may require not less than 60 days’ notice from a member of the member’s intention to withdraw a share in the credit union and a member may not withdraw any shares at a time when a claim due on account of deposits is unsatisfied.
 
-(2) Notwithstanding anything in the rules of a credit union or in any contract, a credit union may require not less than 21 days’ notice from a member of his intention to withdraw a deposit.
+(2) Notwithstanding anything in the rules of a credit union or in any contract, a credit union may require not less than 21 days’ notice from a member of the member’s intention to withdraw a deposit.
 
 (3)(a) If a member of a credit union seeks to withdraw savings in the credit union at a time when the member has an outstanding liability (including a contingent liability) to the credit union, whether as borrower, guarantor or otherwise, that withdrawal shall only be permitted—
 
-(i) if the savings are not attached savings; or
+(i) if the savings are not attached savings, or
 
-(ii) where the savings are attached savings, if the withdrawal of such attached savings is approved by a majority of the members of the board of directors voting at a meeting of the board; but no approval may be given under subparagraph (ii) if, were the withdrawal to be approved, the value of the member’s attached savings immediately after the withdrawal would be less than 25 per cent of the member’s outstanding liability.
+(ii) where the savings are attached savings, if the withdrawal of such attached savings is approved by the credit committee or a credit officer.
 
 (b) Any savings that existed in the credit union immediately before the commencement of this provision (inserted by the Credit Union and Co-operation with Overseas Regulators Act 2012) that were not withdrawable under this subsection immediately before that commencement shall be treated as attached savings after that commencement.
 

@@ -4,6 +4,8 @@ Interpretation.
 
 "Act of 1966" means the Credit Union Act 1966;
 
+"Act of 2014" means the Companies Act 2014;
+
 "Advisory Committee" means the committee established under section 180;
 
 "amendment", in relation to the rules of a credit union, includes a new rule, and a resolution rescinding a rule, of the credit union;
@@ -26,15 +28,19 @@ Interpretation.
 
 "chair" has the meaning given by section 55A(2);
 
-‘civil partner’ has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
 "cohabitant" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
 "common bond" means a common bond falling within section 6(3);
 
+"company" means a company formed and registered under the Act of 2014 or an existing company within the meaning of that Act;
+
 "compliance officer" has the meaning given by section 76D;
 
 "contravention" includes failure to comply;
+
+"corporate credit union" means a credit union registered pursuant to section 6(6);
 
 "Court" means the High Court;
 
@@ -92,7 +98,7 @@ Interpretation.
 
 "officer", in relation to a credit union, includes—
 
-(a) the chair, the secretary or any other member of the board of directors, a member of a principal Committee, a member of the board oversight committee, risk management officer, compliance officer, credit officer or credit control officer of the credit union,
+(a) the chair, the secretary or any other member of the board of directors, a member of a principal Committee, a member of the board oversight committee, a member of the appellate body referred to in section 37, risk management officer, compliance officer, credit officer or credit control officer of the credit union,
 
 (b) an employee of the credit union to whom paragraph (a) does not apply, and
 
@@ -113,6 +119,20 @@ Interpretation.
 (b) in relation to the Bank, prescribed by regulations made by the Bank under section 182A;
 
 "principal Committee", in relation to a credit union, means a credit committee, credit control committee or membership committee;
+
+"public body" means—
+
+(a) a Department of State,
+
+(b) an entity established by or under any enactment (other than the Act of 2014 or a former enactment relating to companies within the meaning of section 5 of that Act),
+
+(c) any other entity established (other than under the Act of 2014 or a former enactment relating to companies within the meaning of section 5 of that Act) or appointed by the Government or a Minister of the Government, including an entity established (other than under the Act of 2014 or a former enactment relating to companies within the meaning of section 5 of that Act) by a Minister of the Government under any scheme,
+
+(d) a company a majority of the shares in which are held by or on behalf of a Minister of the Government,
+
+(e) a subsidiary of a company to which paragraph (d) relates, or
+
+(f) an entity (other than a subsidiary to which paragraph (e) relates) that is directly or indirectly controlled by an entity to which paragraph (b), (c), (d) or (e) relates;
 
 "register" means the register maintained under section 8(5);
 
@@ -137,6 +157,8 @@ Interpretation.
 "strategic objectives" has the meaning given by section 76A(1);
 
 "strategic plan" has the meaning given by section 76A(1);
+
+"subsidiary" has the same meaning as it has in the Act of 2014;
 
 "voluntary assistant", in relation to a credit union, means a member of the credit union who, although not a remunerated employee of the credit union, is engaged in any way in the operation of the credit union.
 

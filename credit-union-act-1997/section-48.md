@@ -14,11 +14,11 @@ Power to provide additional services.
 
 (4) In order to enable a credit union to provide additional services of any description—
 
-(a) the credit union must adopt a decision to provide additional services of that description by a resolution passed by not less than two-thirds of the members present and voting at an annual general meeting or at a special general meeting called for the purpose of considering the resolution, or the credit union must adopt a decision to provide additional services of that description by a resolution of the board of directors;
+(a) the credit union must adopt a decision to provide additional services of that description by a resolution passed by not less than two-thirds of the members present and voting at an annual general meeting or at a special general meeting called for the purpose of considering the resolution, or the credit union must adopt a decision to provide additional services of that description by a resolution of the board of directors; and
 
-(b) the provision of the services must be approved by the Bank in accordance with section 49 and the services must be provided in accordance with the terms and conditions of the approval; and
+(b) the provision of the services must be approved by the Bank in accordance with section 49 and the services must be provided in accordance with the terms and conditions of the approval.
 
-(c) the rules of the credit union must specify the provision of services of that description among the objects of the credit union.
+(c) ...
 
 (5) Notice shall be given of a resolution under subsection (4)(a) in accordance with the rules of the credit union or, if the rules do not make special provision as to notice of such a resolution, the like notice shall be given as is required by the rules for a resolution to amend the rules; and notice of the resolution shall contain or be accompanied by a statement giving—
 

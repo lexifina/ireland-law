@@ -1,6 +1,6 @@
 Persons disqualified from acting.
 
-72.—(1) A person who has been adjudicated bankrupt and whose bankruptcy still subsists or who has been convicted of an offence in relation to a credit union or an offence involving fraud or dishonesty shall not—
+72.—(1) A person who has been adjudicated bankrupt and whose bankruptcy still subsists or who, in the previous 10 years, has been convicted of an offence in relation to a credit union or an offence involving fraud or dishonesty shall not—
 
 (a) sign an application form for the registration of a society as a credit union,
 

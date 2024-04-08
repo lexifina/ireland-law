@@ -6,7 +6,7 @@ Internal audit.
 
 (b) to evaluate and improve the effectiveness, of the credit union’s risk management, internal controls and governance processes.
 
-(2) The internal audit function shall prepare, implement and maintain a document (in this Act referred to as the "internal audit charter") which, subject to subsection (4), shall define—
+(2) The internal audit function shall prepare, implement and maintain a document (in this Act referred to as the "internal audit charter") which shall define—
 
 (a) the activities of the internal audit function within the credit union, and
 
