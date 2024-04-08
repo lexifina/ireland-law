@@ -2,11 +2,7 @@ Inspection of books.
 
 76.—(1) Notwithstanding anything in the rules of a credit union, except as provided by this Act or any other enactment, no-one (whether a member of the credit union or not) shall have the right to inspect the books of a credit union.
 
-(2) Any member of a credit union or any other person having an interest in the funds of a credit union may, at any reasonable hour, inspect at the registered office of the credit union or at any other place where they may be kept—
-
-(a) the register kept under section 75, excluding the particulars entered therein under paragraph (b) or paragraph (c) of subsection (1) of that section; and
-
-(b) his own account with the credit union; but the right of inspection conferred by this subsection shall be exercisable subject to such conditions as to time and manner as may from time to time be determined by the board of directors.
+(2) ...
 
 (3) The rules of a credit union may make provision for the disclosure of its books and documents for the purpose of enabling it to enter into contracts for the benefit of the credit union.
 
