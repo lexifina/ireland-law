@@ -14,7 +14,7 @@ Inspection of books.
 
 (b) the members making the application deposit with the Bank as security for the costs of the proposed inspection such sum as the Bank may reasonably require.
 
-(6) An accountant appointed under subsection (4) may make copies of, and take extracts from, any books or documents of the credit union at all reasonable hours at the credit union's registered office or at any other place where those books or documents are kept.
+(6) An accountant appointed under subsection (4) may make copies of, and take extracts from, any books or documents of the credit union at all reasonable hours at the credit union's registered office or at any other place where those books or documents are kepart
 
 (7) All expenses of and incidental to an inspection by an accountant appointed under subsection (4) shall be defrayed in such proportions as the Bank may direct—
 
