@@ -18,7 +18,7 @@ Transit.
 
 (c) While an aircraft to which this subsection applies is in the State, a person referred to in paragraph (a) who is on board that aircraft shall be deemed to be in transit through the State and subsection (2) shall apply accordingly.
 
-(4) Where a person has been extradited by a third country to a Member State this section shall apply subject to the modifications that—
+(4) Where a person is being extradited by a third country to a Member State this section shall apply subject to the modifications that—
 
 (a) the reference to an executing state shall be construed as a reference to a third state,
 

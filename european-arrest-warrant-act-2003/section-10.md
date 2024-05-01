@@ -2,13 +2,13 @@ Obligation to surrender.
 
 10.—Where a judicial authority in an issuing state ... issues a relevant arrest warrant in respect of a person—
 
-(a) against whom that state intends to bring proceedings for an offence to which the relevant arrest warrant relates,
+(a) whom that state intends to prosecute for an offence to which the relevant arrest warrant relates,
 
-(b) who is the subject of proceedings in that state for an offence in that state to which the relevant arrest warrant relates,
+(b) who is the subject of a prosecution in that state for an offence in that state to which the relevant arrest warrant relates,
 
 (c) who has been convicted of, but not yet sentenced in respect of, an offence in that state to which the relevant arrest warrant relates, or
 
-(d) on whom a sentence of imprisonment or detention has been imposed in that state in respect of an offence to which the relevant arrest warrant relates, ...
+(d) on whom a sentence of imprisonment or detention has been imposed ... in respect of an offence to which the relevant arrest warrant relates, ...
 
 (i) ...
 

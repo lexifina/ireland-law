@@ -1,6 +1,6 @@
 Remand.
 
-27.—(1) A person remanded in custody under this Act may be detained in a prison (or, if he or she is not more than 21 years of age, in a remand institution) or, for a period not exceeding 48 hours, in a Garda Síochána station.
+27.—(1) A person remanded in custody under this Act may be detained in a prison (or, if the person is not more than 18 years of age, in a remand centre) or, for a period not exceeding 48 hours, in a Garda Síochána station.
 
 (2) A person shall not be remanded on bail or otherwise released from custody under this Act if—
 
