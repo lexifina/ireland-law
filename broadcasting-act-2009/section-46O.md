@@ -6,7 +6,9 @@ Media service rules.
 
 (3) In the case of audiovisual broadcasting—
 
-(a) media service rules under subsection (2) shall specify the time allowed for broadcasting audiovisual commercial communications in the period between 06. 00 and 18. 00 hours and in the period between 18. 00 and 24. 00 hours each day, but
+(a) media service rules under subsection (2) shall specify the time allowed for broadcasting audiovisual commercial communications in the period between
+
+06. 00 and 18. 00 hours and in the period between 18. 00 and 24. 00 hours each day, but
 
 (b) the time specified shall not exceed 20 per cent of the time in each period.
 
