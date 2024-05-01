@@ -1,0 +1,5 @@
+Guarantees surrounding custodial sentences imposed in absentia.
+
+35A.—(1) Where a person is arrested on foot of a relevant arrest warrant issued by the High Court for service of a sentence or detention order imposed on him or her in absentia and the person has not received any information from the authorities in the State about the existence of criminal proceedings against him or her, the person may request a copy of the judgment which was the basis for the relevant arrest warrant and upon such a request being made, the High Court shall arrange for the judgment to be sent to the executing judicial authority without delay.
+
+(2) Where a person is surrendered to the State pursuant to a relevant arrest warrant and is detained pending a retrial or an appeal and he or she did not appear in person at the proceedings resulting in the sentence or detention order in respect of which a relevant arrest warrant was issued, his or her detention pending a retrial or appeal shall be reviewed in accordance with the law of the State in relation to such detention.

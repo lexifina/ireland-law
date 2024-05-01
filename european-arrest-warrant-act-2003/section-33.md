@@ -48,6 +48,14 @@ Issue of European arrest warrant by court in State.
 
 (4) For the avoidance of doubt, a relevant arrest warrant may be issued in respect of one or more than one offence.
 
+(4A) The High Court, sitting otherwise than in public, may, upon an application made by a member of the Garda Síochána, approve the making temporarily unavailable of an alert for a period not exceeding 48 hours in respect of a person where it is satisfied—
+
+(a) that the person is the subject of an ongoing criminal investigation, and
+
+(b) that the purpose of the criminal investigation cannot be achieved by any other measure.
+
+(4B) The period for which an alert may be made unavailable may be extended by the High Court for a further period not exceeding 48 hours upon an application by a member of the Garda Síochána that is made before the expiry of the period approved under subsection (4A).
+
 (5) In this section “court” means—
 
 (a) the court that issued the domestic warrant to which subsection (1)(a) applies, or

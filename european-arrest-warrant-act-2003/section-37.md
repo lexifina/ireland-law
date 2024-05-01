@@ -10,7 +10,7 @@ Fundamental rights.
 
 (ii) the Protocols to the Convention,
 
-(b) his or her surrender would constitute a contravention of any provision of the Constitution (other than for the reason that the offence specified in the relevant arrest warrant is an offence to which section 38(1)(b) applies),
+(b) ...
 
 (c) there are reasonable grounds for believing that—
 

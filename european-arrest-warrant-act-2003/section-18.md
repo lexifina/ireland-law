@@ -20,4 +20,10 @@ Postponement of surrender.
 
 (c) where paragraph (c) of subsection (1) applies, when the High Court is satisfied that the person concerned is no longer required to serve any part of the term of imprisonment concerned.
 
-(5) Section 15 or 16, as the case may be, shall apply to the person concerned as of the date of the order under subsection (4) as though that order were an order made under subsection (1) or (2) of section 15 or (1) or (2) of section 16, as the case may be.
+(5) Upon the making of an order under subsection (4)—
+
+(a) the issuing judicial authority shall be notified of the making of the order without delay by the Central Authority for the purpose of agreeing a new date for the surrender of the person,
+
+(b) the person shall be surrendered not later than 10 days after the agreed new date, and
+
+(c) where a further date is required for the surrender of the person, the issuing judicial authority shall be notified of that fact without delay by the Central Authority and with the agreement of the issuing judicial authority, the High Court shall fix a new date for the surrender of the person.
