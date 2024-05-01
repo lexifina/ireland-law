@@ -10,7 +10,7 @@ Interpretation.
 
 “Central Authority in the State” shall be read in accordance with section 6;
 
-"Council Decision" means Council Decision 2007/533/JHA of 12 June 2007 on the establishment, operation and use of the second generation Schengen Information System;
+...
 
 "Council Framework Decision 2009/299/JHA" means Council Framework Decision 2009/299/JHA of 26 February 2009 amending Framework Decisions 2002/584/JHA, 2005/214/JHA, 2006/783/JHA, 2008/909/JHA and 2008/947/JHA, thereby enhancing the procedural rights of persons and fostering the application of the principle of mutual recognition to decisions rendered in the absence of the person concerned at the trial,
 
@@ -23,6 +23,8 @@ Interpretation.
 “European Communities” has the same meaning as it has in the European Communities Act 1972;
 
 ...
+
+"flag" means the addition to an alert by the SIRENE Bureau of a Member State, the Republic of Iceland or the Kingdom of Norway, pertaining to a European arrest warrant, to the effect that an action to be taken on the basis of the alert in accordance with Article 24 or 25 of the SIS Regulation will not be taken in the State;
 
 “Framework Decision” means Council Framework Decision of 13 June 2002 on the European arrest warrant and the surrender procedures between relevant Member States, the text of which—
 
@@ -66,9 +68,15 @@ Interpretation.
 
 "relevant Member State" means a Member State, other than, subject to subsection (3), the United Kingdom of Great Britain and Northern Ireland, the Republic of Iceland and the Kingdom of Norway;
 
-"Schengen Convention" means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders done at Schengen on 19 June 1990 and includes any amendment to or modification of that Convention whether before or after the passing of this Act but does not include the Council Decision;
+"remand centre" has the same meaning as it has in section 3 of the Children Act 2001;
 
-"SIS" means the system referred to in Title IV of the Schengen Convention or, as appropriate, the system established under Chapter 1 of the Council Decision;
+"Schengen Convention" means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders done at Schengen on 19 June 1990 and includes any amendment to or modification of that Convention whether before or after the passing of this Act but does not include the SIS Regulation;
+
+"SIRENE Bureau", in relation to a Member State, the Republic of Iceland or the Kingdom of Norway, means the authority designated by the Member State, the Republic of Iceland or the Kingdom of Norway, as the case may be, in accordance with Article 7 of the SIS Regulation to perform the functions referred to in that Article;
+
+"SIS" means the system referred to in Title IV of the Schengen Convention or, as appropriate, the system established under Chapter 1 of the SIS Regulation;
+
+"SIS Regulation" means Regulation (EU) 2018/1862 of the European Parliament and of the Council of 28 November 2018 on the establishment, operation and use of the Schengen Information System (SIS) in the field of police cooperation and judicial cooperation in criminal matters, amending and repealing Council Decision 2007/533/JHA, and repealing Regulation (EC) No 1986/2006 of the European Parliament and of the Council and Commission Decision 2010/261/EU, as amended by Regulation (EU) 2019/818 of the European Parliament and of the Council of 20 May 2019, Regulation (EU) 2021/1133 of the European Parliament and of the Council of 7 July 2021, Regulation (EU) 2021/1150 of the European Parliament and of the Council of 7 July 2021 and Regulation (EU) 2022/1190 of the European Parliament and of the Council of 6 July 2022;
 
 “third country” means a country other than the State or a Member State;
 
@@ -83,6 +91,8 @@ Interpretation.
 (a) a reference to a section, Part or Schedule is a reference to a section or Part of, or a Schedule to, this Act, unless it is indicated that a reference to some other enactment is intended,
 
 (b) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
+
+OJ No. L 312, 7.12.2018, p. 56 OJ No. L 135, 22.5.2019, p. 85 OJ No. L 248, 13.7.2021, p. 1 OJ No. L 249, 14.7.2021, p. 1 OJ No. L 185, 12.7.2022, p. 1
 
 (c) a reference to any enactment is a reference to that enactment as amended, extended or adapted, whether before or after the passing of this Act, by or under any subsequent enactment.
 
