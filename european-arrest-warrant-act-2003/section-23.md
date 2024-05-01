@@ -40,6 +40,10 @@ Surrender of person by issuing state to other Member State.
 
 (iii) the person obtains or is afforded the opportunity of obtaining, or being provided with, professional legal advice in the issuing state in relation to the matters to which this section relates before he or she gives that consent.
 
-(5) The High Court may, in relation to a person who has been surrendered to an issuing state under this Act, consent to the person being surrendered by the issuing state to a Member State pursuant to a relevant arrest warrant issued by a judicial authority in that Member State, upon receiving a request in writing from the issuing state in that behalf.
+(5) The High Court shall, in relation to a person who has been surrendered to an issuing state under this Act, and not later than 30 days after the date of the request being made, consent to the person being surrendered by the issuing state to a Member State pursuant to a relevant arrest warrant issued by a judicial authority in that Member State in respect of an offence, upon receiving a request in writing from the issuing state in that behalf, provided that the offence is not—
 
-(6) The High Court shall not give its consent under subsection (5) if the offence concerned is an offence for which a person could not by virtue of Part 3 be surrendered under this Act.
+(a) an offence for which his or her surrender would be prohibited by virtue of Part 3, or
+
+(b) an offence for which his or her surrender of a person would be refused under Part 3.
+
+(6) ...
