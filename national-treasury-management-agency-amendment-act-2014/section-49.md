@@ -16,6 +16,4 @@ Report and information to Minister relating to operation of Fund
 
 (g) an assessment on a regional basis of the distribution of the investments made by the Fund, and
 
-OJ No.L 209, 2.8.1997, p.1 OJ No.L 306, 23.11.2011, p.12
-
 (h) measures taken in accordance with section 49A, as inserted by the Fossil Fuel Divestment Act 2018.
