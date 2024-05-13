@@ -6,7 +6,7 @@ Marine planning policy statement
 
 (3) The Minister shall, in the preparation of the marine planning policy statement, have regard to any resolution, report or recommendation of any committee of both Houses of the Oireachtas or either such House in so far as such resolution, report or recommendation, as the case may be, relates to a draft laid before each such House in accordance with subsection (2).
 
-(4) The Minister shall ensure that the first marine planning policy statement is prepared and published in accordance with this section not later than six months after the coming into operation of this section and relates to a period of not less than three years commencing on the date of the first publication of that statement.
+(4) The Minister shall ensure that the first marine planning policy statement is prepared and published in accordance with this section not later than twelve months after the coming into operation of this section and relates to a period of not less than three years commencing on the date of the first publication of that statement.
 
 (5) The Minister shall, in preparing the marine planning policy statement, have regard to the following:
 
@@ -36,9 +36,9 @@ Marine planning policy statement
 
 (b) otherwise publish or cause to be published, in such manner as he or she considers appropriate, that statement.
 
-(8) A public body shall have regard to the maritime planning policy statement when performing a function under this Act to which information, setting out the principles and priorities of the Government referred to in subsection (1), contained in the statement is relevant.
+(8) A public body shall have regard to the marine planning policy statement when performing a function under this Act , or the Act of 2000, to which information, setting out the principles and priorities of the Government referred to in subsection (1), contained in the statement is relevant.
 
-(9) The Minister may amend or revoke the maritime planning policy statement prepared under this section.
+(9) The Minister may amend or revoke the marine planning policy statement prepared under this section.
 
 (10) Where the Minister proposes to prepare the marine planning policy statement or amend or revoke it, he or she shall publish, in not less than one national newspaper, a notice—
 
