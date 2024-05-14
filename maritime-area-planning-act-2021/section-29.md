@@ -26,13 +26,15 @@ Competent authority (M) may make DMAPs
 
 (e) section 21(6) shall be treated as being deleted;
 
-(f ) section 22(1) shall be treated as if the words “relevant proposal concerned has been published in accordance with section 21(5)” were substituted for the words “competent authority (D) has been approved under section 21(4)(a) to prepare a draft DMAP based on the relevant proposal concerned”;
+(f) section 22(1) shall be treated as if the words “relevant proposal concerned has been published in accordance with section 21(5)” were substituted for the words “competent authority (D) has been approved under section 21(4)(a) to prepare a draft DMAP based on the relevant proposal concerned”;
 
 (g) section 22(4) shall be treated as being deleted;
 
 (h) section 23(1) and (3) shall be treated as if the words “a website of the Government” were substituted for the words “its website”;
 
-(i) section 24 shall be treated as being deleted;
+(i) section 24(1) shall be treated as if the words "and submit the draft to the Minister" were deleted;
+
+(ia) section 24(3) to (4) shall be treated as being deleted;
 
 (j) section 25(2) shall be treated as if the words “after section 24 has been complied with” were deleted;
 
