@@ -1,0 +1,3 @@
+Time for appeals, etc., extended where office of Appeals Officer is closed.
+
+17.—Where a provision of or under this Act requires or allows appeals, submissions, observations or a request to be made, or documents, particulars or other information or comment to be submitted, to an Appeals Officer within a specified period and the last day of that period is a day on which the office of the Appeals Officer is closed, the appeal, submissions, observations or request, or documents, particulars or other information or comment, shall be regarded as having been received before the expiration of that period if received by the Appeals Officer on the next following day on which the office of the Appeals Officer is open.
