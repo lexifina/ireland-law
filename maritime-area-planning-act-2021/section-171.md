@@ -134,7 +134,9 @@ of the Maritime Area Planning Act 2021,
 
 (h) any submissions or observations made by prescribed bodies or members of the public in relation to the application,
 
-(i) Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) as amended by Commission Directive (EU) 2017/845 of 17 May 2017, and any enactment or instrument under an enactment that gives effect thereto, ( j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning ,
+(i) Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) as amended by Commission Directive (EU) 2017/845 of 17 May 2017, and any enactment or instrument under an enactment that gives effect thereto,
+
+( j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning ,
 
 (k) objectives of maritime spatial planning, and
 
@@ -434,7 +436,9 @@ Screening for environmental impact assessment in respect of proposed development
 
 (c) in subsection (5) —
 
-(i) the following paragraph was substituted for paragraph (b) of subsection (5): ‘(b) in a national newspaper.’, and
+(i) the following paragraph was substituted for paragraph (b) of subsection (5):
+
+‘(b) in a national newspaper.’, and
 
 (ii) paragraph (i) was deleted.
 
@@ -660,7 +664,9 @@ Provision supplementing section 291
 
 (a) a notice or an invitation in a notice under section 291, or
 
-(b) an invitation under this section, whichever occurs later, make a decision under section 293 in relation to the application. (6) (a) The making of submissions or observations by the Maritime Area Regulatory Authority under this section shall not prejudice the performance by it of any of its other functions.
+(b) an invitation under this section, whichever occurs later, make a decision under section 293 in relation to the application.
+
+(6) (a) The making of submissions or observations by the Maritime Area Regulatory Authority under this section shall not prejudice the performance by it of any of its other functions.
 
 (b) The making of submissions or observations by a coastal planning authority under this section shall not prejudice the performance by it of any of its other functions.
 
