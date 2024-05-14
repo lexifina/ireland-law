@@ -74,12 +74,6 @@ F82[Environmental impact assessment of certain proposals relating to the foresho
 
 (iv) the views, if any, furnished by other Member States of the European Communities pursuant to section 19C, and reach a reasoned conclusion on the significant effects of the relevant application on the environment.
 
-(ii) any additional material submitted in response to a request for further information, if any, pursuant to paragraph (f) of subsection (1),
-
-(iii) any submissions or observations made in relation to the effects on the environment of the proposed development, including those made by bodies referred to in section 19A(3) (as amended by section 13 of the Foreshore and Dumping at Sea (Amendment) Act 2009) or members of the public, and
-
-(iv) the views, if any, furnished by other Member States of the European Communities pursuant to section 19C.
-
 (b) In the event that the appropriate Minister decides to grant consent for the relevant application, he may attach such conditions to the consent as he considers necessary to avoid, prevent or reduce and, if possible, offset significant adverse effects (if any) on the environment of the proposed development as well as, where appropriate, conditions regarding monitoring measures.
 
 (bb) A person who fails to comply with a condition attached to a consent under paragraph (b) shall be guilty of an offence and shall be liable —
