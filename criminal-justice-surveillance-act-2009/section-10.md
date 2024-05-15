@@ -10,7 +10,7 @@ Restriction of disclosure of existence of authorisations and other documents.
 
 (c) the number of copies that may be made of those documents and the destruction of those copies as soon as possible after they are no longer required under section 9.
 
-(3) Notwithstanding section 13, the Minister may make regulations respecting the disclosure or non-disclosure, to the person who was its subject or other persons whose interests are materially affected by it, of the existence of an authorisation or an approval under section 7 or 8 , provided that any disclosure authorised by such regulations is—
+(3) Notwithstanding section 13, the Minister may make regulations respecting the disclosure or non-disclosure, to the person who was its subject or other persons whose interests are materially affected by it, of the existence of an authorisation or an approval under section 7 or 8, provided that any disclosure authorised by such regulations is—
 
 (a) consistent with the purposes for which the authorisation or approval concerned was issued or granted,
 
