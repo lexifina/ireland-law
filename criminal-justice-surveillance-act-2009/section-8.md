@@ -1,10 +1,10 @@
 Tracking devices.
 
-8.— (1) Notwithstanding sections 4 to 7, a member of the Garda Síochána, a designated officer of the Ombudsman Commission, a member of the Defence Forces or an officer of the Revenue Commissioners may, for a period of not more than 4 months or such shorter period as the Minister may prescribe by regulations, monitor the movements of persons, vehicles or things using a tracking device if that use has been approved by a superior officer in accordance with this section.
+8.— (1) Notwithstanding sections 4 to 7, a member of the Garda Síochána, a designated officer of the Ombudsman Commission, a member of the Defence Forces, an officer of the Revenue Commissioners or an authorised officer of the Competition and Consumer Protection Commission may, for a period of not more than 4 months or such shorter period as the Minister may prescribe by regulations, monitor the movements of persons, vehicles or things using a tracking device if that use has been approved by a superior officer in accordance with this section.
 
 (2) A member or officer referred to in subsection (1) may apply to a superior officer for the grant of an approval to use a tracking device if he or she believes on reasonable grounds that—
 
-(a) the requirements of subsection (1), (1A), (2) or (3), as the case may be, of section 4 are fulfilled and that surveillance is justified having regard to the matters referred to in paragraphs (b) and (c) of section 4(5), but that the use of a tracking device would be sufficient for obtaining the information or evidence in the circumstances concerned, and
+(a) the requirements of subsection (1), (2), (3) or (3A), as the case may be, of section 4 are fulfilled and that surveillance is justified having regard to the matters referred to in paragraphs (b) and (c) of section 4(5), but that the use of a tracking device would be sufficient for obtaining the information or evidence in the circumstances concerned, and
 
 (b) the information or evidence sought could reasonably be obtained by the use of a tracking device for a specified period that is as short as is practicable to allow the information or evidence to be obtained.
 
@@ -22,7 +22,7 @@ Tracking devices.
 
 (b) the person who, or the vehicle or thing that, is to be monitored,
 
-(c) the name of the member of the Garda Síochána, designated officer of the Ombudsman Commission, member of the Defence Forces or officer of the Revenue Commissioners to whom the approval is granted,
+(c) the name of the member of the Garda Síochána, designated officer of the Ombudsman Commission, member of the Defence Forces, officer of the Revenue Commissioners or authorised officer of the Competition and Consumer Protection Commission to whom the approval is granted,
 
 (d) the conditions (if any) subject to which the approval is granted,
 
@@ -39,6 +39,8 @@ Tracking devices.
 (a) in the case of a member of the Garda Síochána, a member of the Garda Síochána of the rank of Assistant Commissioner,
 
 (aa) in the case of a designated officer of the Ombudsman Commission, the chairperson of the Ombudsman Commission,
+
+(ab) in the case of an authorised officer of the Competition and Consumer Protection Commission, a member of the Competition and Consumer Protection Commission within the meaning of section 12 of the Competition and Consumer Protection Act 2014,
 
 (b) in the case of an officer of the Defence Forces, a general officer within the meaning of section 2 (as amended by section 2(b) of the Defence (Amendment) Act 1979) of the Defence Act 1954, and
 

@@ -32,6 +32,8 @@ Complaints procedure.
 
 (ia) the Minister, in the case of a contravention by the Ombudsman Commission,
 
+(ib) the Minister for Enterprise, Trade and Employment, in the case of a contravention by the Competition and Consumer Protection Commission,
+
 (ii) the Minister for Defence, in the case of a contravention by the Defence Forces,
 
 (iii) the Minister for Finance, in the case of a contravention by the Revenue Commissioners;
@@ -52,7 +54,7 @@ Complaints procedure.
 
 (9) A relevant contravention that is not material does not of itself constitute a cause of action at the suit of a person who was the subject of the authorisation or approval concerned.
 
-(10) A person in charge of a Garda Síochána station within the meaning of section 99(10) of the Garda Síochána Act 2005, a place under the control of the Ombudsman Commission, the Defence Forces or the Revenue Commissioners or any other place in which documents relevant to an investigation under this section are kept shall ensure that the Referee has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the Referee may request.
+(10) A person in charge of a Garda Síochána station within the meaning of section 99 (10) of the Garda Síochána Act 2005, a place under the control of the Ombudsman Commission, the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission or any other place in which documents relevant to an investigation under this section are kept shall ensure that the Referee has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the Referee may request.
 
 (11) The Referee—
 
