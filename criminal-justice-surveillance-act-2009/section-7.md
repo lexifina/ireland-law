@@ -1,12 +1,12 @@
 Approval for surveillance in cases of urgency.
 
-7.— (1) A member of the Garda Síochána, a designated officer of the Ombudsman Commission, a member of the Defence Forces or an officer of the Revenue Commissioners may carry out surveillance without an authorisation if the surveillance has been approved by a superior officer in accordance with this section.
+7.— (1) A member of the Garda Síochána, a designated officer of the Ombudsman Commission, a member of the Defence Forces, an officer of the Revenue Commissioners or an authorised officer of the Competition and Consumer Protection Commission may carry out surveillance without an authorisation if the surveillance has been approved by a superior officer in accordance with this section.
 
-(2) A member or officer referred to in subsection (1) may apply to a superior officer for the grant of an approval to carry out surveillance if he or she believes on reasonable grounds that the requirements of subsection (1), (1A), (2) or (3), as the case may be, of section 4 are fulfilled and that the surveillance is justified having regard to the matters referred to in section 4(5), but that, before an authorisation could be issued—
+(2) A member or officer referred to in subsection (1) may apply to a superior officer for the grant of an approval to carry out surveillance if he or she believes on reasonable grounds that the requirements of subsection (1), (2), (3) or (3A), as the case may be, of section 4 are fulfilled and that the surveillance is justified having regard to the matters referred to in section 4(5), but that, before an authorisation could be issued—
 
-(a) it is likely that a person would abscond for the purpose of avoiding justice, obstruct the course of justice or commit an arrestable offence or a revenue offence, as the case may be,
+(a) it is likely that a person would abscond for the purpose of avoiding justice, obstruct the course of justice or commit an arrestable offence, revenue offence or relevant competition offence, as the case may be,
 
-(b) information or evidence in relation to the commission of an arrestable offence or a revenue offence, as the case may be, is likely to be destroyed, lost or otherwise become unavailable, or
+(b) information or evidence in relation to the commission of an arrestable offence, revenue offence or relevant competition offence, as the case may be, is likely to be destroyed, lost or otherwise become unavailable, or
 
 (c) the security of the State would be likely to be compromised.
 
@@ -24,7 +24,7 @@ Approval for surveillance in cases of urgency.
 
 (b) the person who, or the place or thing that, is to be the subject of the surveillance,
 
-(c) the name of the member of the Garda Síochána, designated officer of the Ombudsman Commission, member of the Defence Forces or officer of the Revenue Commissioners to whom the approval is granted,
+(c) the name of the member of the Garda Síochána, designated officer of the Ombudsman Commission, member of the Defence Forces, officer of the Revenue Commissioners or authorised officer of the Competition and Consumer Protection Commission to whom the approval is granted,
 
 (d) the conditions (if any) subject to which the approval is granted,
 
@@ -48,6 +48,8 @@ Approval for surveillance in cases of urgency.
 
 (aa) in the case of a designated officer of the Ombudsman Commission, the chairperson of the Ombudsman Commission,
 
-(b) in the case of an officer of the Defence Forces, a general officer within the meaning of section 2> (as amended by section 2(b) of the Defence (Amendment) Act 1979) of the Defence Act 1954, and
+(ab) in the case of an authorised officer of the Competition and Consumer Protection Commission, to a member of the Competition and Consumer Protection Commission within the meaning of section 12 of the Competition and Consumer Protection Act 2014,
+
+(b) in the case of an officer of the Defence Forces, a general officer within the meaning of section 2 (as amended by section 2(b) of the Defence (Amendment) Act 1979) of the Defence Act 1954, and
 
 (c) in the case of an officer of the Revenue Commissioners, an officer of the Revenue Commissioners of the rank of Assistant Secretary.

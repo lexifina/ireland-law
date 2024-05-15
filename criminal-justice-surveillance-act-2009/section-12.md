@@ -12,7 +12,7 @@ Review of operation of this Act by designated judge.
 
 (4) For the purpose of performing his or her functions the designated judge may investigate any case in which an authorisation is issued under section 5 or renewed or varied under section 6 or an approval is granted under section 7 or 8.
 
-(5) A person in charge of a Garda Síochána station within the meaning of section 99(10) of the Garda Síochána Act 2005, a place under the control of the Ombudsman Commission, the Defence Forces or the Revenue Commissioners or any other place in which documents relevant to the performance of the functions of the designated judge are kept shall ensure that the designated judge has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the designated judge may request.
+(5) A person in charge of a Garda Síochána station within the meaning of section 99 (10) of the Garda Síochána Act 2005, a place under the control of the Ombudsman Commission, the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission or any other place in which documents relevant to the performance of the functions of the designated judge are kept shall ensure that the designated judge has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the designated judge may request.
 
 (6) The Taoiseach shall ensure that a copy of a report under subsection (3)(b) is laid before each House of the Oireachtas not later than 6 months after it is made, together with a statement of whether any matter has been excluded under subsection (7).
 

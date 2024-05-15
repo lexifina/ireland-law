@@ -30,11 +30,13 @@ Confidentiality of information.
 
 (b) the Minister for Defence,
 
+(ba) the Minister for Enterprise, Trade and Employment,
+
 (c) the Minister for Finance, and
 
 (d) a person the disclosure to whom is—
 
-(i) authorised by the Commissioner of the Garda Síochána, the chairperson of the Ombudsman Commission, the Chief of Staff of the Defence Forces or a Revenue Commissioner, or
+(i) authorised by the Commissioner of the Garda Síochána, the chairperson of the Ombudsman Commission, the Chief of Staff of the Defence Forces, a Revenue Commissioner or the chairperson of the Competition and Consumer Protection Commission, or
 
 (ii) otherwise authorised by law;
 
@@ -46,8 +48,10 @@ Confidentiality of information.
 
 (ba) an officer of the Ombudsman Commission other than a designated officer of the Ombudsman Commission,
 
+(bb) a member of, a member of the staff of, or an authorised officer of the Competition and Consumer Protection Commission,
+
 (c) a member of the Reserve Defence Force within the meaning of the Defence Act 1954,
 
 (d) a member of the civilian staff of the Garda Síochána or of the Defence Forces, or
 
-(e) engaged under a contract or other arrangement to work with or for the Garda Síochána, the Ombudsman Commission, the Defence Forces or the Revenue Commissioners.
+(e) engaged under a contract or other arrangement to work with or for the Garda Síochána, the Ombudsman Commission, the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission.
