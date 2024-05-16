@@ -1,6 +1,6 @@
 Simplified procedures for export or re-export of dead specimens of species listed in Annexes B and C to Council Regulation.
 
-53B. (1) A person may avail of the simplified procedures in respect of the export or re-export of a particular species only if the person is the subject of an entry in the register in respect of the species.
+53B. —(1) A person may avail of the simplified procedures in respect of the export or re-export of a particular species only if the person is the subject of an entry in the register in respect of the species.
 
 (2) The management authority shall establish and maintain a register (in this section referred to as “the register”) which shall be in such form (including electronic form) as the management authority considers appropriate.
 

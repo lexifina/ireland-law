@@ -1,6 +1,6 @@
 Fixed payment notice.
 
-74A. (1) Where a member of the Garda Síochána or an authorised person has reasonable grounds for believing that a person is committing or has committed an offence under the Wildlife Acts 1976 to 2018 (referred to in section 74(1)) and declared to be a fixed payment offence, he or she may serve the person with a notice, in the prescribed form stating that—
+74A.—(1) Where a member of the Garda Síochána or an authorised person has reasonable grounds for believing that a person is committing or has committed an offence under the Wildlife Acts 1976 to 2018 (referred to in section 74(1)) and declared to be a fixed payment offence, he or she may serve the person with a notice, in the prescribed form stating that—
 
 (a) the person is alleged to have committed the offence specified in the notice,
 

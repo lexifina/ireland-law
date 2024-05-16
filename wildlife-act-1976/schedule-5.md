@@ -14,9 +14,7 @@ Hare species
 
 Hedgehog
 
-Otter
-
-Pine Marten
+Otter Pine Marten
 
 Red Squirrel
 
