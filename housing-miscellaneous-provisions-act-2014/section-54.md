@@ -30,7 +30,11 @@ Amendments to Act of 2005
 
 (b) Subsection (3FA) shall apply to a person where—
 
-(i) regulations made under section 50 of the Housing (Miscellaneous Provisions) Act 2014 provide that a specified housing authority shall apply Part 4 of that Act in respect of a specified class of household, and
+(i) regulations made under section 50 of the
+
+Housing
+
+(Miscellaneous Provisions) Act 2014 provide that a specified housing authority shall apply Part 4 of that Act in respect of a specified class of household, and
 
 (ii) he or she is a member of a household within such a class of household and the specified authority is the housing authority for the household for the purposes of Part 4 of that Act.”
 

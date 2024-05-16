@@ -20,7 +20,7 @@ Deduction of local authority rent, etc., by Minister for Social Protection
 
 (a) rent payable by a tenant to a housing authority under section 31 of the Act of 2009, or
 
-(b) rent contribution payable by a person to a housing authority under section 25 of the Act of 2009 or under section 44 , and references to rent arrears shall be construed accordingly;
+(b) rent contribution payable by a person to a housing authority under section 25 of the Act of 2009 or under section 44, and references to rent arrears shall be construed accordingly;
 
 “requested amount of rent arrears” has the meaning given in subsection (4)(b)(iii);
 

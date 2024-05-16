@@ -1,6 +1,6 @@
 Charging order
 
-26. (1) As soon as practicable after a house is sold under this Part, the housing authority shall, subject to such regulations as may be made under section 30, make an order (in this Part referred to as a “charging order”) in the prescribed form, charging the house in the terms specified in this section for the period specified in the order (in this Part referred to as the “charged period”), which period may be reduced in accordance with section 28 .
+26. (1) As soon as practicable after a house is sold under this Part, the housing authority shall, subject to such regulations as may be made under section 30, make an order (in this Part referred to as a “charging order”) in the prescribed form, charging the house in the terms specified in this section for the period specified in the order (in this Part referred to as the “charged period”), which period may be reduced in accordance with section 28.
 
 (2) The charging order shall create a charge in favour of the housing authority in respect of an undivided percentage share (in this Part referred to as the “charged share”) in the house equivalent to the percentage (referred to in this Part as the “discount”) by which the purchase price of the house was reduced for the purposes of calculating the purchase money payable by the purchaser.
 
@@ -54,10 +54,10 @@ Charging order
 
 (ii) to obtain a further advance of moneys from the holder, society or institution referred to in subsection (9) for any purpose.
 
-(11) Any amount that becomes payable to a housing authority under section 27 or 29 , as the case may be, may, without prejudice to any other power in that behalf, be recovered by the authority from the person concerned as a simple contract debt in any court of competent jurisdiction.
+(11) Any amount that becomes payable to a housing authority under section 27 or 29, as the case may be, may, without prejudice to any other power in that behalf, be recovered by the authority from the person concerned as a simple contract debt in any court of competent jurisdiction.
 
 (12) For the avoidance of doubt, neither a charging order nor a charge that arises under it shall be regarded as a conveyance for the purposes of section 3 of the Family Home Protection Act 1976 or section 28 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
 
 (13) (a) On the occurrence of the earlier of the events specified in subsection (3) (a) and subject to the terms and conditions of the transfer order and the charging order having been complied with, the housing authority shall, where requested to do so by the purchaser, execute a deed of discharge in respect of the charging order.
 
-(b) The housing authority shall be liable for any expenses incurred in the execution and registration of a deed of discharge but shall not otherwise be liable for any expenses incurred by a purchaser under this section or under section 27 , 28 or 29 .
+(b) The housing authority shall be liable for any expenses incurred in the execution and registration of a deed of discharge but shall not otherwise be liable for any expenses incurred by a purchaser under this section or under section 27, 28 or 29.

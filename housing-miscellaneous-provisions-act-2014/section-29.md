@@ -20,6 +20,6 @@ Control on resale of house
 
 (b) No account shall be taken of any material improvements made to the house after the expiration of the charged period.
 
-(7) For the purposes of this section, the market value or the relevant market value of a house shall be determined by the housing authority or, where the vendor does not agree with the market value or the relevant market value so determined, by an independent valuer nominated by the vendor from a panel of suitably qualified persons, established by the housing authority, who are of a class or description prescribed under section 30 .
+(7) For the purposes of this section, the market value or the relevant market value of a house shall be determined by the housing authority or, where the vendor does not agree with the market value or the relevant market value so determined, by an independent valuer nominated by the vendor from a panel of suitably qualified persons, established by the housing authority, who are of a class or description prescribed under section 30.
 
 (8) The housing authority shall not be liable for any expenses incurred by a vendor under subsection (7).

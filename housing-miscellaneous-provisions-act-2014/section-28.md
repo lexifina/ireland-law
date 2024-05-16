@@ -14,4 +14,4 @@ Payment during charged period in respect of charged share or incremental release
 
 (b) the charged period shall be reduced by the number of years equivalent to the number of incremental releases to which the payment relates.
 
-(4) For the purposes of this section, the relevant market value of a house shall be determined by the housing authority or, where the vendor does not agree with the relevant market value so determined, by an independent valuer nominated by the vendor from a panel of suitably qualified persons, established by the housing authority, who are of a class or description prescribed under section 30 .
+(4) For the purposes of this section, the relevant market value of a house shall be determined by the housing authority or, where the vendor does not agree with the relevant market value so determined, by an independent valuer nominated by the vendor from a panel of suitably qualified persons, established by the housing authority, who are of a class or description prescribed under section 30.
