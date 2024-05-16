@@ -14,7 +14,9 @@ Number of members of local authorities
 
 Number of Members of Local Authorities
 
-## PART 1 County Council Number of Members County Council Number of Members
+## PART 1 County Council Number of Members
+
+County Council Number of Members
 
 Carlow 18
 

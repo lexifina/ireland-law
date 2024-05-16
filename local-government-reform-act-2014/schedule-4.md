@@ -150,9 +150,7 @@ Money due in respect of rates or rent.
 
 (3) Every rate collector of a dissolved authority who is in office as such rate collector immediately before the relevant day or date shall, on and after that day or date unless or until the successor authority to the dissolved authority otherwise directs, collect and recover on behalf of such successor all rates which immediately before that day or date were due and payable to or were accruing due to such dissolved authority and had been given in charge to such rate collector for collection.
 
-(4) For the purposes of this paragraph, the amount of rent payable to a successor authority by a person who was a tenant of a dwelling let by a dissolved authority shall, on the relevant day or date be determined for the period commencing on that day or date and ending on 30 June 2015, in accordance with the rent scheme operated by the dissolved authority under section 58 of the Housing Act 1966 in respect of its dwellings immediately before that day or date.
-
-Valuation lists.
+(4) For the purposes of this paragraph, the amount of rent payable to a successor authority by a person who was a tenant of a dwelling let by a dissolved authority shall, on the relevant day or date be determined for the period commencing on that day or date and ending on 30 June 2015, in accordance with the rent scheme operated by the dissolved authority under section 58 of the Housing Act 1966 in respect of its dwellings immediately before that day or date. Valuation lists.
 
 15. (1) The valuation list applicable to a successor authority on the relevant day or date shall be—
 

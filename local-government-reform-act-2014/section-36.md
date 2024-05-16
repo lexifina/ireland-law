@@ -52,7 +52,9 @@ Interpretation (Chapter 2)
 
 ‘Plan’ means the local economic and community plan to which section 66B relates;
 
-‘publicly funded body’ means a body whose funds, directly or indirectly and in whole or in part, come out of moneys provided by the Oireachtas for the purpose of performing its functions; ‘representatives of local community interests’, in relation to the functional area of a Committee, means persons who are representative of community interests that are concerned with promoting the development of aspects of those interests within that area and such representatives may include representatives of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, youth organisations, cultural bodies, sporting bodies and social movements and networks.
+‘publicly funded body’ means a body whose funds, directly or indirectly and in whole or in part, come out of moneys provided by the Oireachtas for the purpose of performing its functions;
+
+‘representatives of local community interests’, in relation to the functional area of a Committee, means persons who are representative of community interests that are concerned with promoting the development of aspects of those interests within that area and such representatives may include representatives of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, youth organisations, cultural bodies, sporting bodies and social movements and networks.
 
 Functions of Local Community Development Committees
 
@@ -194,7 +196,9 @@ Regulations and general policy guidelines
 
 (d) persons or bodies who may be considered for nomination to Committees and to whom section 128C(2)(g) relates,
 
-(e) the representation of members of the local authority or its officials, (f ) the representation of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, cultural bodies, sporting bodies and social movements and networks,
+(e) the representation of members of the local authority or its officials,
+
+(f ) the representation of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, cultural bodies, sporting bodies and social movements and networks,
 
 (g) procedures and processes for establishing and managing working groups of Committees,
 

@@ -110,11 +110,11 @@ Cavan Cavan County Council
 
 Clare Clare County Council
 
-Cork Cork County Council Name of County Name of Local Authority of County
+Cork Cork County Council
 
 Donegal Donegal County Council
 
-Dun Laoghaire-Rathdown Dun Laoghaire-Rathdown County Council
+Dun Laoghaire-Rathdown Dun Laoghaire-Rathdown County Council Name of County Name of Local Authority of County
 
 Fingal Fingal County Council
 
