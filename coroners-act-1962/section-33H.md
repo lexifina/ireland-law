@@ -1,0 +1,3 @@
+Provisions to apply when designated person not available or in position to receive or to act on authorisation for final management of material removed from body of deceased person.
+
+33H.— ...
