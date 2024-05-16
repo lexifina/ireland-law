@@ -1,6 +1,6 @@
-F92[Directions of High Court
+F128[Directions of High Court
 
-62. (1) A coroner may, whenever he or she considers it appropriate to do so, apply to the High Court for directions on a point of law regarding the performance of his or her functions under this Act in relation to the death of any person.
+62.—(1) A coroner may, whenever he or she considers it appropriate to do so, apply to the High Court for directions on a point of law regarding the performance of his or her functions under this Act in relation to the death of any person.
 
 (2) The High Court shall determine an application under subsection (1) by giving such directions and making such orders as it considers appropriate.
 

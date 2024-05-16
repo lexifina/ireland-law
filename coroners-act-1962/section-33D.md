@@ -1,6 +1,6 @@
-F60[Medical records of deceased person for purposes of post-mortem examination
+F79[Medical records of deceased person for purposes of post-mortem examination
 
-33D. (1) Where, under section 33, 33A or 33C, a coroner directs that a post-mortem examination of the body of a deceased person be made, the coroner may direct—
+33D.—(1) Where, under section 33, 33A or 33C, a coroner directs that a post-mortem examination of the body of a deceased person be made, the coroner may direct—
 
 (a) a person in charge of a hospital, or other health institution, in which the deceased person received treatment immediately before his or her death,
 
