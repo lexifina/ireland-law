@@ -1,6 +1,6 @@
 Persons obliged to report death to coroner.
 
-16B. (1) A person specified in subsection (3) or (4) shall, as soon as practicable after becoming aware of a reportable death and unless he or she has reasonable grounds for believing that the death has already been reported to the coroner by another person specified in whichever of those subsections is appropriate, report, or cause to be reported, the death to the coroner for the district in which the body is lying.
+16B.—(1) A person specified in subsection (3) or (4) shall, as soon as practicable after becoming aware of a reportable death and unless he or she has reasonable grounds for believing that the death has already been reported to the coroner by another person specified in whichever of those subsections is appropriate, report, or cause to be reported, the death to the coroner for the district in which the body is lying.
 
 (2) Any person who knowingly contravenes subsection (1) shall be guilty of an offence and shall be liable on summary conviction to a class B fine.
 

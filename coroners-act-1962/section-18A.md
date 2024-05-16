@@ -1,6 +1,6 @@
 Purpose of inquest.
 
-18A. (1) The purpose of an inquest shall be to establish—
+18A.—(1) The purpose of an inquest shall be to establish—
 
 (a) the identity of the person in relation to whose death the inquest is being held,
 

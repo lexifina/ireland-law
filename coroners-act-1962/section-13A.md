@@ -1,6 +1,6 @@
 Arrangements for Coroner's district of Dublin.
 
-13A. (1) Notwithstanding subsection (3) of section 13, the Minister may, upon a request in writing in that behalf from a coroner for the coroner’s district of Dublin, authorise a deputy coroner appointed by that coroner to act for that coroner—
+13A.—(1) Notwithstanding subsection (3) of section 13, the Minister may, upon a request in writing in that behalf from a coroner for the coroner’s district of Dublin, authorise a deputy coroner appointed by that coroner to act for that coroner—
 
 (a) during a period, specified in the authorisation, that ends no later than 2 years from the commencement of section 8 of the Coroners (Amendment) Act 2019, and
 

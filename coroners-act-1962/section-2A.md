@@ -1,6 +1,6 @@
 Application of Act to still births.
 
-2A. (1) This Act, other than sections 17, 18, 33A and 40, shall, where the context so requires, apply to a stillborn child in the same manner as it applies to a deceased person subject to the modification that the provisions in subsections (2) to (5) shall apply to a stillborn child instead of sections 17, 18 and 33A, and any other necessary modifications.
+2A.—(1) This Act, other than sections 17, 18, 33A and 40, shall, where the context so requires, apply to a stillborn child in the same manner as it applies to a deceased person subject to the modification that the provisions in subsections (2) to (5) shall apply to a stillborn child instead of sections 17, 18 and 33A, and any other necessary modifications.
 
 (2) Where a coroner is informed that the body of a stillborn child is lying within his or her district and that a medical certificate stating that the cause of death due to a natural cause or causes is not procurable, he or she may inquire into the circumstances of the death of the stillborn child and direct that a post-mortem examination of the body of the stillborn child be made under this Act and, if he or she is unable to ascertain the cause of death, may, if he or she so thinks proper, hold an inquest in relation to the death.
 

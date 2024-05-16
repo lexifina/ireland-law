@@ -1,6 +1,6 @@
 View of the body.
 
-27. (1) For the purpose of establishing the identity of a deceased person, a coroner may request a member of the Garda Síochána, a designated officer of the Ombudsman Commission where there is a relevant Ombudsman Commission investigation concerning the death of that person, a family member of the deceased person or, if the circumstances of the death so require, a suitably qualified person who has expertise regarding the identification of human remains—
+27.—(1) For the purpose of establishing the identity of a deceased person, a coroner may request a member of the Garda Síochána, a designated officer of the Ombudsman Commission where there is a relevant Ombudsman Commission investigation concerning the death of that person, a family member of the deceased person or, if the circumstances of the death so require, a suitably qualified person who has expertise regarding the identification of human remains—
 
 (a) to view the body of the deceased person, or
 
