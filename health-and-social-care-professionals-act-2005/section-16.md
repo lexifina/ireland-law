@@ -1,4 +1,4 @@
-Disclosure of interests by staffs.
+Disclosure of interests by staff.
 
 16.—(1) A member of the Council's staff (including the chief executive officer) who, otherwise than in his or her capacity as such a member, has a material interest in a specified matter as defined in section 15(1) shall—
 
