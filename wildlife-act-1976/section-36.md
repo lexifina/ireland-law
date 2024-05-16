@@ -1,4 +1,4 @@
-Use of mechanicallypropelled vehicles, vessels and aircraft in hunting prohibited.
+Use of mechanically-propelled vehicles, vessels and aircraft in hunting prohibited.
 
 36.—(1) Notwithstanding anything contained in this Act apart from this section ..., a person shall not hunt or disturb for the purpose of hunting—
 
