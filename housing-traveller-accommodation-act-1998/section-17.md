@@ -1,4 +1,4 @@
-Review,
+Review, amendment and replacement of accommodation programme.
 
 17.—(1) A housing authority—
 

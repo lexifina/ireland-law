@@ -1,3 +1,3 @@
-Amendment of section 3 of Housing (Miscellaneous Provisions) Act,
+Amendment of section 3 of Housing (Miscellaneous Provisions) Act, 1979. (Repealed)
 
 28.—...
