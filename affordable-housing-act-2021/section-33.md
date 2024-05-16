@@ -80,7 +80,7 @@ Table
 
 Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
 
-1. section section 23 subsection (13) 75(4)(b)
+1. section section 23 subsection (13) 75(4)(b) Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
 
 2. section sections 19 or as subsections (2), A referral of any such 78(1)(b) the case may be (3)(a) and (4)(a) dispute or complaint 19A must be made before—
 
@@ -92,7 +92,7 @@ Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 pro
 
 4. section subsection (1) or subsection (2) 115(2)(b) (4) of section 19
 
-5. section 120(2) section 19(2) subsection (3) Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
+5. section 120(2) section 19(2) subsection (3)
 
 6. section sections 19, 20 subsections (2) to 135(4)(e)(i)(I) and 22 (12)
 

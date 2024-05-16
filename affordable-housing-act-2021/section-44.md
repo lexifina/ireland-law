@@ -48,9 +48,7 @@ Amendment of section 94 of Act of 2000
 
 (7) Where on the date on which this subsection comes into operation a development plan includes a housing strategy—
 
-(a) the chief executive of the planning authority shall, for the purpose of the performance by a planning authority of its functions under this Part, make an estimate of the amount of housing referred to in subparagraphs (ii) and (iii) of subsection
-
-(4)(a) required in the area of the development plan during the period of the development plan,
+(a) the chief executive of the planning authority shall, for the purpose of the performance by a planning authority of its functions under this Part, make an estimate of the amount of housing referred to in subparagraphs (ii) and (iii) of subsection (4)(a) required in the area of the development plan during the period of the development plan,
 
 (b) such estimate may state the different requirements for housing for different areas within the area of the development plan, and
 
