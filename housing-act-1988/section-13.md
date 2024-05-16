@@ -14,6 +14,6 @@ F9[Provision of sites for caravans.
 
 (7) In this section—
 
-‘caravan’ means any structure designed or adapted for human habitation which is capable of being moved from one place to another, whether by towing or transport on a vehicle or trailer, and includes a motor vehicle so designed or adapted and a mobile home, but does not include a tent;
+"caravan" means any structure designed or adapted for human habitation which is capable of being moved from one place to another, whether by towing or transport on a vehicle or trailer, and includes a motor vehicle so designed or adapted and a mobile home, but does not include a tent;
 
-‘sites with limited facilities’ means sites which, having regard to the temporary nature of such sites or the short duration of periods of use, have sufficient water, facilities for solid and liquid waste disposal and hard surface parking area for caravans.
+"sites with limited facilities" means sites which, having regard to the temporary nature of such sites or the short duration of periods of use, have sufficient water, facilities for solid and liquid waste disposal and hard surface parking area for caravans.
