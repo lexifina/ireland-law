@@ -1,4 +1,4 @@
-c. 40)
+Repeals, revocation and amendment of enactments.
 
 5.—(1) Each Act specified in the first and second columns of Part 1 of Schedule 3 is repealed to the extent specified in the third column of that Part opposite the references in the first and second columns.
 
