@@ -1,6 +1,6 @@
 Supply of forms to coroner.
 
-54. For the purposes of discharging his or her duties as a coroner—
+54.—For the purposes of discharging his or her duties as a coroner—
 
 (a) the Minister, in the case of a coroner for the coroner’s district of Dublin, and
 

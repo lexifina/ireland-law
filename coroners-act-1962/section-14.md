@@ -1,4 +1,4 @@
-F31[Qualification for appointment as coroner or deputy coroner.
+F41[Qualification for appointment as coroner or deputy coroner.
 
 14.— (1) A person shall not be appointed to be a coroner or a deputy coroner under this Act , or a temporary coroner under section 11B(1)(b), unless he or she is—
 
