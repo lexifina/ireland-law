@@ -18,7 +18,9 @@ Opinion in relation to application to Board
 
 (e) a description of—
 
-(i) the details, or groups of details, of the proposed development that, owing to the circumstances set out in subparagraph (ii), are unlikely to be confirmed at the time of the proposed application, and
+(i) the details, or groups of details, of the proposed development that, owing to the circumstances set out in subparagraph
+
+(ii), are unlikely to be confirmed at the time of the proposed application, and
 
 (ii) the circumstances relating to the proposed development, including such circumstances as the Minister may prescribe in relation to any class or description of development for the purposes of this subparagraph, that indicate that it is appropriate that the proposed application be made and decided, before the prospective applicant has confirmed the details referred to in subparagraph (i) including, in particular, whether the prospective applicant may be able to avail of technology available after making the proposed application that is more effective or more efficient than that available at the time of the application,
 
