@@ -1,0 +1,5 @@
+## PART 6 PLEBISCITES ON DIRECT ELECTION OF MAYORS
+
+Interpretation (Repealed)
+
+39. ...
