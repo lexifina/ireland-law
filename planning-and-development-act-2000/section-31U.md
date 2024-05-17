@@ -1,6 +1,6 @@
 Monitoring of performance of Office
 
-31U. (1) The Office shall conduct, at such intervals as it thinks fit or the Minister directs, reviews of its organisation and of the systems and procedures used by it in relation to the performance of its functions.
+31U.—(1) The Office shall conduct, at such intervals as it thinks fit or the Minister directs, reviews of its organisation and of the systems and procedures used by it in relation to the performance of its functions.
 
 (2) The Minister may direct the Office in respect of matters referred to under subsection (5) where the Minister has requested information.
 

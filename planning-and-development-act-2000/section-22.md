@@ -1,6 +1,6 @@
 Co-operation of planning authorities with regional assembly.
 
-22. (1) Where a regional assembly intends to make a regional spatial and economic strategy in accordance with section 24, or to review an existing strategy under section 26, it shall, as soon as may be, consult with all the planning authorities within the region (or part thereof, as the case may be) in order to make the necessary arrangements for making the strategy.
+22.—(1) Where a regional assembly intends to make a regional spatial and economic strategy in accordance with section 24, or to review an existing strategy under section 26, it shall, as soon as may be, consult with all the planning authorities within the region (or part thereof, as the case may be) in order to make the necessary arrangements for making the strategy.
 
 (2) (a) A planning authority shall assist and co-operate with a regional assembly in making arrangements for the preparation of a regional spatial and economic strategy and in carrying out the preparation of the strategy.
 

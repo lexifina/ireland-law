@@ -1,6 +1,6 @@
 DTA role in variation of development plan.
 
-31D.— (1) Where a notice is received by the DTA under section 13(2) it shall, as part of any written submission on the proposed variation, state whether, in its view, the proposed variation is—
+31D.—(1) Where a notice is received by the DTA under section 13(2) it shall, as part of any written submission on the proposed variation, state whether, in its view, the proposed variation is—
 
 (a) consistent with its transport strategy, or
 

@@ -1,6 +1,6 @@
 Material alteration of terms of permission
 
-299. (1) The Board may, in relation to a requested alteration that is a material alteration—
+299.—(1) The Board may, in relation to a requested alteration that is a material alteration—
 
 (a) make the requested alteration of the terms of the permission concerned,
 

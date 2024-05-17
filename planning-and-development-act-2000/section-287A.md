@@ -1,6 +1,6 @@
 Application for opinion under section 287B
 
-287A. (1) A prospective applicant who proposes to make an application under section 291 may, before making such an application, request a meeting with the Board for the purpose of section 287B as part of consultations referred to in section 287(1).
+287A.—(1) A prospective applicant who proposes to make an application under section 291 may, before making such an application, request a meeting with the Board for the purpose of section 287B as part of consultations referred to in section 287(1).
 
 (2) A request under subsection (1) shall be in writing, be accompanied by the appropriate fee and include—
 

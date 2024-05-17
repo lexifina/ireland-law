@@ -1,6 +1,6 @@
 Consequential provisions to section 31AO
 
-31AP. (1) The Minister shall consider the recommendations of the Office in the notice issued under section 31AO, and—
+31AP.—(1) The Minister shall consider the recommendations of the Office in the notice issued under section 31AO, and—
 
 (a) where the Minister agrees with that notice then the Minister shall proceed, pursuant to section 31, to issue a notice for the purposes of subsections (3) and (4) of that section having taken account of the proposed draft direction submitted by the Office, or
 

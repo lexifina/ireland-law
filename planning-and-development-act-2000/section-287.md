@@ -1,6 +1,6 @@
 Consultation with Board prior to application for permission
 
-287. (1) Subject to subsection (4), a person (in this Chapter referred to as a "prospective applicant") who—
+287.—(1) Subject to subsection (4), a person (in this Chapter referred to as a "prospective applicant") who—
 
 (a) having regard to subsection (3) of section 286, is eligible to apply for permission to carry out development to which this Chapter applies, and
 

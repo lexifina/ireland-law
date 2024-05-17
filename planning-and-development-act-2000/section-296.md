@@ -1,6 +1,6 @@
 Discussions with Board prior to application for alteration of development in maritime area
 
-296. (1) A person who intends to make a request under section 297 may, before making that request, apply to the Board for the Board’s consent to the person’s consulting with the Board in relation to the intended request.
+296.—(1) A person who intends to make a request under section 297 may, before making that request, apply to the Board for the Board’s consent to the person’s consulting with the Board in relation to the intended request.
 
 (2) The Board may, in any consultation with a person in relation to an intended request under section 297, advise the person in relation to—
 

@@ -1,6 +1,6 @@
 Appointment and term of office of Planning Regulator
 
-31W. (1) Subject to this section, the Planning Regulator shall be appointed by the Minister and shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration and superannuation) as the Minister may determine with the consent of the Minister for Public Expenditure and Reform.
+31W.—(1) Subject to this section, the Planning Regulator shall be appointed by the Minister and shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration and superannuation) as the Minister may determine with the consent of the Minister for Public Expenditure and Reform.
 
 (2) A person shall not be appointed as the Planning Regulator unless—
 

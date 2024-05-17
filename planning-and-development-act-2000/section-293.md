@@ -1,6 +1,6 @@
 Decision by Board in respect of application under section 291
 
-293. (1) When making a decision in respect of an application under section 291, the Board may consider—
+293.—(1) When making a decision in respect of an application under section 291, the Board may consider—
 
 (a) any information before it that it considers relevant to the application, and
 

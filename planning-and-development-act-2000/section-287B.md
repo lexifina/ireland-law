@@ -1,6 +1,6 @@
 Opinion of Board as to flexibility with regard to application for permission
 
-287B. (1) The Board shall, as soon as practicable after a meeting convened under section 287A(3) takes place, consider—
+287B.—(1) The Board shall, as soon as practicable after a meeting convened under section 287A(3) takes place, consider—
 
 (a) the information included in the request for the meeting under section 287A, and
 

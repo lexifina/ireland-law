@@ -1,6 +1,6 @@
 Resignation and removal of Regulator
 
-31Y. (1) A Planning Regulator may at any time resign his or her office by giving notice in writing to the Minister of his or her intention to resign and any such resignation shall take effect as of the date upon which the Minister receives notice of the resignation.
+31Y.—(1) A Planning Regulator may at any time resign his or her office by giving notice in writing to the Minister of his or her intention to resign and any such resignation shall take effect as of the date upon which the Minister receives notice of the resignation.
 
 (2) The Planning Regulator may be removed from office by the Government if—
 

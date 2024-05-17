@@ -1,6 +1,6 @@
 Ministerial directions regarding development plans.
 
-31.— (1) Where the Minister is of the opinion that—
+31.—(1) Where the Minister is of the opinion that—
 
 (a) a planning authority, in making a development plan, a variation of a development plan, a local area plan or an amendment to a local area plan (in this section referred to as a "plan") has failed to—
 

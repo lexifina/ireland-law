@@ -1,6 +1,6 @@
 Liability of Planning Regulator or member of staff for acts and omissions
 
-31AE. Neither—
+31AE.—Neither—
 
 (a) the Planning Regulator or a former Planning Regulator, nor
 

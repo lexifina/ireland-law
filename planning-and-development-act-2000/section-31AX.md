@@ -1,6 +1,6 @@
 Offences (Part IIB)
 
-31AX. (1) Any person who—
+31AX.—(1) Any person who—
 
 (a) commits an offence under section 31AD, or
 

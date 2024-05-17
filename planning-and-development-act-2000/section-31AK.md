@@ -1,6 +1,6 @@
 Fees payable to Office
 
-31AK. (1) The Office of the Planning Regulator may determine fees that may be charged in relation to any matter referred to in subsection (2), subject to the approval of the Minister, and a fee as so determined shall be payable to the Office by any person concerned as appropriate, and different fees may be provided for in respect of different matters.
+31AK.—(1) The Office of the Planning Regulator may determine fees that may be charged in relation to any matter referred to in subsection (2), subject to the approval of the Minister, and a fee as so determined shall be payable to the Office by any person concerned as appropriate, and different fees may be provided for in respect of different matters.
 
 (2) The matters in relation to which the Office of the Planning Regulator may determine fees under subsection (1) are in respect of reasonable costs for the provision or undertaking of—
 

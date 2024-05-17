@@ -1,6 +1,6 @@
 Fees payable to Board.
 
-144.— (1) The Board may determine fees that may be charged, subject to the approval of the Minister, in relation to any matter referred to in subsection (1A) and a fee as so determined shall be payable to the Board by any person concerned as appropriate.
+144.—(1) The Board may determine fees that may be charged, subject to the approval of the Minister, in relation to any matter referred to in subsection (1A) and a fee as so determined shall be payable to the Board by any person concerned as appropriate.
 
 (1A) The matters in relation to which the Board may determine fees under subsection (1) are:
 

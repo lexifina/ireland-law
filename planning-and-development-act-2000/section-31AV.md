@@ -1,6 +1,6 @@
 Information and records to be made available to Office
 
-31AV. (1) The Office as part of its review or examination may request from a planning authority or the Board access to such information, records or documents relating to the performance by the planning authority or the Board of its functions.
+31AV.—(1) The Office as part of its review or examination may request from a planning authority or the Board access to such information, records or documents relating to the performance by the planning authority or the Board of its functions.
 
 (2) Where the Office conducts a review or examination, the planning authority or the Board shall co-operate and comply with any request of the Office in relation to all or any of the matters which are the subject of the review or examination.
 

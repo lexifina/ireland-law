@@ -1,6 +1,6 @@
 Planning Regulator
 
-31N. (1) There shall be appointed in accordance with section 31W a chief executive of the Office, to be known as the Planning Regulator, who shall be a corporation sole with perpetual succession and an official seal and with power—
+31N.—(1) There shall be appointed in accordance with section 31W a chief executive of the Office, to be known as the Planning Regulator, who shall be a corporation sole with perpetual succession and an official seal and with power—
 
 (a) to sue and be sued,
 

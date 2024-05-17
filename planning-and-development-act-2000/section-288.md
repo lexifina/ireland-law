@@ -1,6 +1,6 @@
 Provision supplementing section 287
 
-288. (1) A prospective applicant shall, for the purpose of consulting with the Board in accordance with section 287—
+288.—(1) A prospective applicant shall, for the purpose of consulting with the Board in accordance with section 287—
 
 (a) provide the Board with such information as the Board may require for the purpose of enabling the Board to assess the proposed development concerned, and
 

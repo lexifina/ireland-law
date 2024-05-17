@@ -2,7 +2,7 @@
 
 Definitions (Part IIB)
 
-31K. In this Part—
+31K.—In this Part—
 
 "establishment day" means the day appointed by order under section 31L to be the establishment day for the purposes of this Part;
 

@@ -1,6 +1,6 @@
 Matters to be addressed in National Planning Framework
 
-20C. (1) Any document, published after the commencement of this Chapter, that amends or replaces the National Spatial Strategy or thereafter revises or replaces the National Planning Framework shall address the matters set out in subsection (2)—
+20C.—(1) Any document, published after the commencement of this Chapter, that amends or replaces the National Spatial Strategy or thereafter revises or replaces the National Planning Framework shall address the matters set out in subsection (2)—
 
 (a) for the purposes of the objectives of the National Planning Framework, and
 

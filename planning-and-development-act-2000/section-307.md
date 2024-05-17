@@ -2,7 +2,7 @@
 
 Definition
 
-307. In this Chapter "maritime development" means—
+307.—In this Chapter "maritime development" means—
 
 (a) development situated wholly within the maritime area, or
 

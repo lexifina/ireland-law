@@ -1,6 +1,6 @@
 Construction of references to land
 
-309. (1) The relevant provisions shall apply to—
+309.—(1) The relevant provisions shall apply to—
 
 (a) maritime development,
 

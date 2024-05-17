@@ -1,6 +1,6 @@
 Application to Board
 
-291. (1) An application for permission for development to which this Chapter applies shall be made to the Board, and shall—
+291.—(1) An application for permission for development to which this Chapter applies shall be made to the Board, and shall—
 
 (a) be accompanied by—
 

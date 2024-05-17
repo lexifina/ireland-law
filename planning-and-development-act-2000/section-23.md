@@ -1,6 +1,6 @@
 Content and objectives of regional spatial and economic strategy.
 
-23. (1) (a) The objective of regional spatial and economic strategies shall be to support the implementation of the National Planning Framework and the economic policies and objectives of the Government by providing a long-term strategic planning and economic framework for the development of the region for which the strategies are prepared which shall be consistent with the National Planning Framework and the economic policies or objectives of the Government.
+23.—(1) (a) The objective of regional spatial and economic strategies shall be to support the implementation of the National Planning Framework and the economic policies and objectives of the Government by providing a long-term strategic planning and economic framework for the development of the region for which the strategies are prepared which shall be consistent with the National Planning Framework and the economic policies or objectives of the Government.
 
 (b) The planning and economic framework referred to in paragraph (a) shall consider the future development of the region for which the strategy is prepared for a period of not less than 12 years and not more than 20 years.
 

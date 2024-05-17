@@ -1,6 +1,6 @@
 Disapplication of certain provisions of Act in relation to maritime area
 
-308. (1) The following provisions shall not apply in relation to the maritime area, and accordingly references in those provisions to functional area, administrative area or area of a planning authority or local authority shall not include references to the nearshore area of a coastal planning authority:
+308.—(1) The following provisions shall not apply in relation to the maritime area, and accordingly references in those provisions to functional area, administrative area or area of a planning authority or local authority shall not include references to the nearshore area of a coastal planning authority:
 
 (a) Parts II (other than sections 28, 29 and 30), IIA, IV, V, IX, XIII and XVI; and
 

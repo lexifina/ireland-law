@@ -1,6 +1,6 @@
 Construction of references to proper planning and sustainable development
 
-310. (1) Subject to section 308, this Act (other than this Part and paragraph (b) of subsection (1) of section 31Q) shall apply to—
+310.—(1) Subject to section 308, this Act (other than this Part and paragraph (b) of subsection (1) of section 31Q) shall apply to—
 
 (a) maritime development,
 

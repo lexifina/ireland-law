@@ -1,6 +1,6 @@
 Period within which decision under section 293 to be made
 
-295. (1) Subject to this section, a decision under section 293 in relation to an application under section 291 shall be made not later than—
+295.—(1) Subject to this section, a decision under section 293 in relation to an application under section 291 shall be made not later than—
 
 (a) 18 weeks from—
 

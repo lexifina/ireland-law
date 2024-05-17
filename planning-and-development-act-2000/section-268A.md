@@ -1,6 +1,6 @@
 Transitional provisions consequent on the Local Government Reform Act 2014.
 
-268A. (1) In this section—
+268A.—(1) In this section—
 
 "2014 establishment day" has the same meaning as it has in the Local Government Reform Act 2014;
 

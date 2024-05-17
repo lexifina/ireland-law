@@ -2,7 +2,7 @@
 
 Definitions
 
-284. In this Chapter—
+284.—In this Chapter—
 
 "material alteration" means a requested alteration—
 

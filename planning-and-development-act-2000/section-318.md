@@ -1,6 +1,6 @@
 Application of Part XAB
 
-318. (1) Part XAB (other than the excluded provisions) shall apply to—
+318.—(1) Part XAB (other than the excluded provisions) shall apply to—
 
 (a) development to which Chapter III applies, and
 

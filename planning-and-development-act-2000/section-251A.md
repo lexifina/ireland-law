@@ -1,6 +1,6 @@
 Calculation of time limits during emergency.
 
-251A. (1) Where calculating any appropriate period, specified period or other time limit referred to in the following Acts or provisions, or in any regulations made under those Acts or provisions, the period referred to in subsection (2) shall be disregarded:
+251A.—(1) Where calculating any appropriate period, specified period or other time limit referred to in the following Acts or provisions, or in any regulations made under those Acts or provisions, the period referred to in subsection (2) shall be disregarded:
 
 (a) sections 4(4), 6 and 17(6) of the Building Control Act 1990;
 

@@ -1,6 +1,6 @@
 Consideration
 
-282. (1) Subject to section 283, a planning authority shall neither consider an application for permission under section 34 for development to which this Chapter applies nor grant such permission, unless the applicant for such permission—
+282.—(1) Subject to section 283, a planning authority shall neither consider an application for permission under section 34 for development to which this Chapter applies nor grant such permission, unless the applicant for such permission—
 
 (a) is the holder of—
 

@@ -1,6 +1,6 @@
 Board’s powers to make decisions on transferred functions.
 
-217C.— (1) Notwithstanding any provision of any of the enactments referred to in section 214, 215A, 215B or 215C concerning the confirming or otherwise of any compulsory acquisition, the Board shall, in relation to any of the functions transferred under this Part respecting those matters, have the power to confirm a compulsory acquisition or any part thereof, with or without conditions or modifications, or to annul an acquisition or any part thereof.
+217C.—(1) Notwithstanding any provision of any of the enactments referred to in section 214, 215A, 215B or 215C concerning the confirming or otherwise of any compulsory acquisition, the Board shall, in relation to any of the functions transferred under this Part respecting those matters, have the power to confirm a compulsory acquisition or any part thereof, with or without conditions or modifications, or to annul an acquisition or any part thereof.
 
 (2) Notwithstanding any provision of the Roads Act 1993 concerning the approval of any scheme or proposed road development, the Board shall, in relation to any of the functions transferred under this Part respecting those matters, have the power to approve the scheme or development or any part thereof, with or without conditions or modifications, or to refuse to approve the scheme or development or any part thereof.
 

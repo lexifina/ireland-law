@@ -1,6 +1,6 @@
 Co-operation and further provisions relating to regional spatial and economic strategy.
 
-31FF. (1) Where a regional assembly (other than the regional assemblies in respect of the GDA) intends to make a regional spatial and economic strategy in accordance with section 24, or to review the existing strategy under section 26, it shall, as soon as may be, consult with the NTA in order to make the necessary arrangements for making the strategy.
+31FF.—(1) Where a regional assembly (other than the regional assemblies in respect of the GDA) intends to make a regional spatial and economic strategy in accordance with section 24, or to review the existing strategy under section 26, it shall, as soon as may be, consult with the NTA in order to make the necessary arrangements for making the strategy.
 
 (2) The NTA shall assist and co-operate with the regional assembly in making arrangements for the preparation of a regional spatial and economic strategy and in carrying out the preparation of the strategy.
 

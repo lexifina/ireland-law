@@ -1,6 +1,6 @@
 Consultation regarding regional spatial and economic strategy.
 
-24. (1) As soon as may be after agreeing any necessary arrangements under section 21, a regional assembly shall give notice of its intention to make the regional spatial and economic strategy.
+24.—(1) As soon as may be after agreeing any necessary arrangements under section 21, a regional assembly shall give notice of its intention to make the regional spatial and economic strategy.
 
 (2) A notice under subsection (1) shall be given to the Minister, the Office of the Planning Regulator, the Board, the prescribed authorities in the area and shall be published in one or more newspapers circulating in the region for which the regional spatial and economic strategy is prepared and shall—
 

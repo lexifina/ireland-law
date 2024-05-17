@@ -1,6 +1,6 @@
 Regulations
 
-306. (1) The Minister may make regulations for the purposes of this Part.
+306.—(1) The Minister may make regulations for the purposes of this Part.
 
 (2) Without prejudice to the generality of subsection (1), regulations under this section may make provision in relation to any one or more of the following:
 

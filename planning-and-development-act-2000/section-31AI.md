@@ -1,6 +1,6 @@
 Provision of services and resources by Minister to Office
 
-31AI. (1) For the purposes of enabling the Office to perform its functions, the Minister may provide services (including services of staff either on secondment or a permanent basis) to the Office on such terms and conditions (including payment for such services) as may be agreed, after consultation with the Minister for Public Expenditure and Reform, and the Office may avail of such services.
+31AI.—(1) For the purposes of enabling the Office to perform its functions, the Minister may provide services (including services of staff either on secondment or a permanent basis) to the Office on such terms and conditions (including payment for such services) as may be agreed, after consultation with the Minister for Public Expenditure and Reform, and the Office may avail of such services.
 
 (2) The Office may provide services (including services of staff) to the Minister on such terms and conditions (including payment for such services) as may be agreed, after consultation with the Minister for Public Expenditure and Reform, and the Minister may avail of such services.
 

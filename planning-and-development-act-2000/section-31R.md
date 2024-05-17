@@ -1,6 +1,6 @@
 Performance of functions by Office
 
-31R. (1) Subject to this Part, the Office is independent in the performance of its functions.
+31R.—(1) Subject to this Part, the Office is independent in the performance of its functions.
 
 (2) Subject to section 31O, the Office may perform any of its functions through any member of the staff of the Office duly authorised in that behalf—
 

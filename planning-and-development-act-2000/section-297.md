@@ -1,6 +1,6 @@
 Request for alteration of terms of permission to which this
 
-297. (1) A person who has commenced or intends to commence development in the maritime area in accordance with a permission under section 293 may make a request (other than a request to extend the period for which such a permission shall have effect) to the Board to alter the terms of a permission under section 293.
+297.—(1) A person who has commenced or intends to commence development in the maritime area in accordance with a permission under section 293 may make a request (other than a request to extend the period for which such a permission shall have effect) to the Board to alter the terms of a permission under section 293.
 
 (2) (a) A request under subsection (1) shall—
 

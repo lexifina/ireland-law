@@ -1,6 +1,6 @@
 Section 215: supplemental provisions.
 
-217B.— (1) The Board may, at its absolute discretion and at any time before making a decision on a scheme or proposed road development referred to in section 215—
+217B.—(1) The Board may, at its absolute discretion and at any time before making a decision on a scheme or proposed road development referred to in section 215—
 
 (a) request further submissions or observations from any person who made submissions or observations in relation to the scheme or proposed road development, or any other person who may, in the opinion of the Board, have information which is relevant to its decision on the scheme or proposed road development, or
 

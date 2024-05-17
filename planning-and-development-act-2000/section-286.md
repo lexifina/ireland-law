@@ -1,6 +1,6 @@
 Obligation to obtain permission to carry out development
 
-286. (1) Subject to this Act, permission shall be required for development (other than exempted development) to which this Chapter applies, and accordingly a person shall not carry out any such development except under and in accordance with a permission granted under section 293.
+286.—(1) Subject to this Act, permission shall be required for development (other than exempted development) to which this Chapter applies, and accordingly a person shall not carry out any such development except under and in accordance with a permission granted under section 293.
 
 (2) An application for permission to carry out development to which this Chapter applies shall be made to the Board under section 291.
 

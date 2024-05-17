@@ -1,6 +1,6 @@
 Annual report of Office
 
-31AH. (1) The Office shall, not later than the 30th day of June in each year, prepare an annual report, which shall include information on the performance of its functions and its principal activities during the preceding year, including any matter to which section 31Q relates, and such other matters as the Minister may specify to the Office in writing.
+31AH.—(1) The Office shall, not later than the 30th day of June in each year, prepare an annual report, which shall include information on the performance of its functions and its principal activities during the preceding year, including any matter to which section 31Q relates, and such other matters as the Minister may specify to the Office in writing.
 
 (2) The Planning Regulator shall cause a copy of the annual report to be laid before each House of the Oireachtas and shall cause a copy to be sent to the relevant Oireachtas Committee.
 

@@ -1,6 +1,6 @@
 Office to have regard to certain policies and objectives and to requirements
 
-31S. (1) The Office shall, in performing its functions, have regard to—
+31S.—(1) The Office shall, in performing its functions, have regard to—
 
 (a) the policies and objectives for the time being of the Government, a State authority (including Ministerial guidelines, policy directives and directions issued under Chapter IV of Part II), or section 7 or 8 of the Maritime Area Planning Act 2021, planning authorities and any other body which is a public authority whose functions have, or may have, a bearing on the proper planning and sustainable development of cities, towns, villages or other areas, whether urban or rural, or maritime spatial planning,
 

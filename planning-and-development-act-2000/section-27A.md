@@ -1,6 +1,6 @@
 Report
 
-27A. (1) Where a regional assembly receives a notice from a planning authority under section 11(1) it shall prepare submissions or observations for the purposes of section 11(2).
+27A.—(1) Where a regional assembly receives a notice from a planning authority under section 11(1) it shall prepare submissions or observations for the purposes of section 11(2).
 
 (2) Submissions or observations made by a regional assembly under section 11(2) shall contain a report on matters that, in the opinion of the regional assembly, require consideration by the planning authority concerned in making the development plan.
 

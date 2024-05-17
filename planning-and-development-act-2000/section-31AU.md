@@ -1,6 +1,6 @@
 Complaint to Office in respect of planning authority
 
-31AU. (1) The Office may examine—
+31AU.—(1) The Office may examine—
 
 (a) complaints made by any person to the Office, or
 

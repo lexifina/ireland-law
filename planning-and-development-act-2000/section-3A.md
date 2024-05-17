@@ -1,6 +1,6 @@
 Short term lettings.
 
-3A. (1) The use of a house or part of a house situated in a rent pressure zone for short term letting purposes is a material change in use of the house or part thereof, as the case may be.
+3A.—(1) The use of a house or part of a house situated in a rent pressure zone for short term letting purposes is a material change in use of the house or part thereof, as the case may be.
 
 (2) For the purposes of this section, the Minister may make regulations requiring such persons as are specified in the regulations to provide a planning authority with such information as may be so specified and at such intervals as may be so specified in relation to short term lettings in the administrative area of the planning authority.
 

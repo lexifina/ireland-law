@@ -1,6 +1,6 @@
 Directors
 
-31Z. (1) For the purpose of supporting the Planning Regulator and the Office in carrying out functions under this Part, the Planning Regulator—
+31Z.—(1) For the purpose of supporting the Planning Regulator and the Office in carrying out functions under this Part, the Planning Regulator—
 
 (a) may appoint up to 3 persons but shall appoint at least one person,
 

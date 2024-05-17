@@ -1,6 +1,6 @@
 Oral hearings
 
-305. (1) The Board may at its discretion hold an oral hearing of an application under section 291 or a request under section 297.
+305.—(1) The Board may at its discretion hold an oral hearing of an application under section 291 or a request under section 297.
 
 (2) An applicant under section 291 or requesting person under section 297 or any person who makes a submission or observation pursuant to a notice or an invitation under section 291, 292, 297 or 302 may make a request in writing for an oral hearing of the application or request, as the case may be.
 

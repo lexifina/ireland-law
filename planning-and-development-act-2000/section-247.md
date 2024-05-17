@@ -2,7 +2,7 @@
 
 Consultations in relation to proposed development.
 
-247.— (1) Subject to subsection (1A), a person who—
+247.—(1) Subject to subsection (1A), a person who—
 
 (a) has an interest (including a lease granted under section 2 of the Act of 1933, of a part of the foreshore that consists of, or includes, the maritime site on which it is proposed to carry out the development concerned) in land, or
 

@@ -1,6 +1,6 @@
 Provision supplementing section 293
 
-294. (1) The Board shall send a copy of a decision under section 293 to—
+294.—(1) The Board shall send a copy of a decision under section 293 to—
 
 (a) the applicant for permission,
 

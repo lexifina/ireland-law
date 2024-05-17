@@ -1,6 +1,6 @@
 Effect of bringing of judicial review of maritime area consent on application under section 34 or appeal under section 37
 
-283. (1) Where the Maritime Area Regulatory Authority grants a maritime area consent, the person who applied for that consent shall, notwithstanding the making by any other person of an application under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) for judicial review of the decision to grant that consent, be eligible to make an application under section 34 for permission for development to which this Chapter applies.
+283. (1)—Where the Maritime Area Regulatory Authority grants a maritime area consent, the person who applied for that consent shall, notwithstanding the making by any other person of an application under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) for judicial review of the decision to grant that consent, be eligible to make an application under section 34 for permission for development to which this Chapter applies.
 
 (2) Where a person makes an application in accordance with this Chapter for permission for development in circumstances to which subsection (1) applies, the coastal planning authority concerned shall, notwithstanding any pending application for judicial review referred to in that subsection, perform the functions conferred on it by and in accordance with this Chapter in relation to that application for permission as if no such application for judicial review had been made.
 

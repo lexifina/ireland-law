@@ -1,6 +1,6 @@
 Seal of Planning Regulator
 
-31O. (1) The seal of the Planning Regulator (in this section referred to as the ‘seal’) shall be authenticated by either—
+31O.—(1) The seal of the Planning Regulator (in this section referred to as the ‘seal’) shall be authenticated by either—
 
 (a) the signature of the Planning Regulator, or
 

@@ -1,6 +1,6 @@
 Transfer of certain Ministerial functions under Gas Act 1976 to Board.
 
-215A.— (1) The functions of—
+215A.—(1) The functions of—
 
 (a) the Minister for Communications, Marine and Natural Resources,
 

@@ -2,7 +2,7 @@
 
 DTA role in preparation of draft development plan.
 
-31B.— (1) Where a notice is received by the DTA under section 11(2) it shall prepare and submit to the relevant planning authority a report on the issues which, in its opinion, should be considered by the planning authority in the review of its existing development plan and the preparation of a new development plan.
+31B.—(1) Where a notice is received by the DTA under section 11(2) it shall prepare and submit to the relevant planning authority a report on the issues which, in its opinion, should be considered by the planning authority in the review of its existing development plan and the preparation of a new development plan.
 
 (2) The report under subsection (1) shall address, but shall not be limited to—
 

@@ -1,6 +1,6 @@
 Membership of either House of Oireachtas, European Parliament or local authority
 
-31AB. (1) Where the Planning Regulator or a member of the staff of the Office—
+31AB.—(1) Where the Planning Regulator or a member of the staff of the Office—
 
 (a) accepts a nomination as a member of Seanad Éireann,
 

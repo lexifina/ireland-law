@@ -1,6 +1,6 @@
 Environmental impact assessment report in accordance with requirement under section 297
 
-301. An environmental impact assessment report prepared in accordance with a requirement under subsection (6) of section 297 shall—
+301.—An environmental impact assessment report prepared in accordance with a requirement under subsection (6) of section 297 shall—
 
 (a) contain such information (if any) as is required under this Act to be included in an environmental impact assessment report,
 

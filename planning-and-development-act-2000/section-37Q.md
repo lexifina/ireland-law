@@ -13,5 +13,3 @@ Objective of the Board in relation to applications under section 37L
 (4) Where a notice has been served under subsection (3), the Board shall take all such steps as are open to it to ensure that the matter is determined before the date specified in the notice.
 
 (5) The Board shall include in each report made under section 118 a statement of the number of matters which the Board has determined within the period referred to in subsection (2) and such other information as to the time taken to determine such matters as the Minister may direct.
-
-TEST1

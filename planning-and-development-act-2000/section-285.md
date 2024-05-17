@@ -1,6 +1,6 @@
 Application of Chapter
 
-285. (1) Subject to subsection (2), this Chapter applies to—
+285.—(1) Subject to subsection (2), this Chapter applies to—
 
 (a) development situated—
 

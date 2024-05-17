@@ -2,7 +2,7 @@
 
 Application of Chapter
 
-280. (1) Subject to subsection (2), this Chapter applies to development situated—
+280.—(1) Subject to subsection (2), this Chapter applies to development situated—
 
 (a) wholly in the nearshore area of a coastal planning authority, or
 

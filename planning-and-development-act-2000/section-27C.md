@@ -1,6 +1,6 @@
 Role of regional assembly in variation of development plan.
 
-27C. (1) Where a regional assembly receives a notice from a planning authority under section 13(1) it shall prepare submissions and observations for the purposes of section 13(2).
+27C.—(1) Where a regional assembly receives a notice from a planning authority under section 13(1) it shall prepare submissions and observations for the purposes of section 13(2).
 
 (2) Submissions or observations made by the regional assembly under subsection (1) shall contain a report which shall state whether, in the opinion of that assembly, the draft variation of the development plan, and, in particular, its core strategy, are consistent with the regional spatial and economic strategy in force for the area of the development plan.
 

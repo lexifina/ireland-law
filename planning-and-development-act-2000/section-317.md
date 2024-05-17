@@ -1,6 +1,6 @@
 Application of Part X
 
-317. (1) Subject to section 289, Part X (other than the excluded provisions) shall apply to—
+317.—(1) Subject to section 289, Part X (other than the excluded provisions) shall apply to—
 
 (a) development to which Chapter III applies, and
 

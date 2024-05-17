@@ -1,6 +1,6 @@
 Code of conduct
 
-31AL. (1) (a) The Office shall adopt a code of conduct for dealing with conflicts of interest and promoting public confidence in the integrity of the conduct of its business which is required to be followed by those persons referred to in subsection (3).
+31AL.—(1) (a) The Office shall adopt a code of conduct for dealing with conflicts of interest and promoting public confidence in the integrity of the conduct of its business which is required to be followed by those persons referred to in subsection (3).
 
 (b) A code of conduct under this section shall be subject to the approval of the Minister and be adopted within one year of the establishment day.
 

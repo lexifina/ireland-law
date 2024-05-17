@@ -1,6 +1,6 @@
 Transport strategy and planning process.
 
-31J.— In any case in the GDA where—
+31J.—In any case in the GDA where—
 
 (a) a planning or local authority, a regional assembly, State authority or An Bord Pleanála is carrying out any relevant function under or transferred by Part II, X, XI or XIV, or
 

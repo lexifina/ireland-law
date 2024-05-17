@@ -2,7 +2,7 @@
 
 Power to make regional spatial and economic strategy.
 
-21. (1) A regional assembly—
+21.—(1) A regional assembly—
 
 (a) may make a regional spatial and economic strategy—
 

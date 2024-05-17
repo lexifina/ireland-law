@@ -1,6 +1,6 @@
 Co-operation of public bodies with regional assemblies.
 
-22A. (1) Where a regional assembly intends to make a regional spatial and economic strategy in accordance with section 24, or to review an existing strategy under section 26, it shall, as soon as may be, consult with—
+22A.—(1) Where a regional assembly intends to make a regional spatial and economic strategy in accordance with section 24, or to review an existing strategy under section 26, it shall, as soon as may be, consult with—
 
 (a) each public body, and
 

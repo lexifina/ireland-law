@@ -1,6 +1,6 @@
 Consequential provisions to section 31AQ
 
-31AR. (1) The Minister shall consider the recommendations of the Office in the notice under section 31AQ and—
+31AR.—(1) The Minister shall consider the recommendations of the Office in the notice under section 31AQ and—
 
 (a) where the Minister agrees with the opinion of the Office as expressed in the notice issued under section 31AQ(7), then the Minister shall proceed, pursuant to section 31A, to issue a notice for the purposes of subsections (3) and (4) of that section, or
 

@@ -1,6 +1,6 @@
 Education, training and research functions
 
-31Q. (1) The Office shall conduct education and training programmes—
+31Q.—(1) The Office shall conduct education and training programmes—
 
 (a) for members of planning authorities and of regional assemblies in respect of—
 

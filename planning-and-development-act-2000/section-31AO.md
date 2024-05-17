@@ -1,6 +1,6 @@
 Evaluation and assessment by Office of matters relating to local area plans
 
-31AO. (1) The Office shall evaluate and assess, at least at a strategic level—
+31AO.—(1) The Office shall evaluate and assess, at least at a strategic level—
 
 (a) a notice given under subsection (3)(a)(i) of section 20 by a planning authority to that Office of a proposal to make, amend or revoke a local area plan for the purposes of that section,
 

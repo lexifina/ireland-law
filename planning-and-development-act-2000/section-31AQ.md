@@ -1,6 +1,6 @@
 Evaluation and assessment by Office of matters relating to regional spatial and economic strategies
 
-31AQ. (1) The Office shall evaluate and assess, at a strategic level—
+31AQ.—(1) The Office shall evaluate and assess, at a strategic level—
 
 (a) a notice given under subsection (2) of section 24 by a regional assembly to that Office for the purposes of that section of the intention of the regional assembly to make a regional spatial and economic strategy,
 

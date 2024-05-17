@@ -1,6 +1,6 @@
 Reports on regional spatial and economic strategy.
 
-25A. (1) In respect of the regional spatial and economic strategy of a regional assembly, the public bodies to which section 22A relate and each local authority within the regional assembly area shall, every 2 years, prepare and submit a report to the assembly setting out progress made in supporting objectives, relevant to that body, of the strategy.
+25A.—(1) In respect of the regional spatial and economic strategy of a regional assembly, the public bodies to which section 22A relate and each local authority within the regional assembly area shall, every 2 years, prepare and submit a report to the assembly setting out progress made in supporting objectives, relevant to that body, of the strategy.
 
 (2) Each regional assembly shall, every 2 years, prepare a report (in this section referred to as a monitoring report) monitoring progress made in implementing the regional spatial and economic strategy.
 

@@ -1,6 +1,6 @@
 Regional spatial and economic strategy and development plans.
 
-27. (1) A planning authority shall ensure, when making a development plan or a local area plan, that the plan is consistent with any regional spatial and economic strategy in force for its area.
+27.—(1) A planning authority shall ensure, when making a development plan or a local area plan, that the plan is consistent with any regional spatial and economic strategy in force for its area.
 
 (2) The Minister may, by order, determine that planning authorities shall comply with any regional spatial and economic strategy in force for their area, or any part thereof, when preparing and making a development plan, or may require in accordance with section 31 that an existing development plan comply with any regional spatial and economic strategy in force for the area.
 

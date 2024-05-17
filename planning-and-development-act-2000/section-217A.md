@@ -1,6 +1,6 @@
 Transferred functions under this Part: supplemental provisions.
 
-217A.— (1) The Board may, in respect of any of the functions transferred under this Part concerning the confirming or otherwise of any compulsory acquisition, at its absolute discretion and at any time before making a decision in respect of the matter—
+217A.—(1) The Board may, in respect of any of the functions transferred under this Part concerning the confirming or otherwise of any compulsory acquisition, at its absolute discretion and at any time before making a decision in respect of the matter—
 
 (a) request submissions or observations from any person who may, in the opinion of the Board, have information which is relevant to its decision concerning the confirming or otherwise of such compulsory acquisition (and may have regard to any submission or observation so made in the making of its decision), or
 

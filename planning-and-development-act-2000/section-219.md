@@ -1,6 +1,6 @@
 Power to direct payment of certain costs.
 
-219.— (1) Where the Board has made a decision in the performance of any functions transferred under section 214, 215, 215A, 215B or 215C, it may at its absolute discretion direct the payment of such sum as it considers reasonable by the local authority concerned or, in the case of section 215A, 215B or 215C, the person who applied for the acquisition order (hereafter in this section referred to as the "applicant")—
+219.—(1) Where the Board has made a decision in the performance of any functions transferred under section 214, 215, 215A, 215B or 215C, it may at its absolute discretion direct the payment of such sum as it considers reasonable by the local authority concerned or, in the case of section 215A, 215B or 215C, the person who applied for the acquisition order (hereafter in this section referred to as the "applicant")—
 
 (a) to the Board towards the costs and expenses incurred by the Board in determining the matter, including—
 

@@ -1,6 +1,6 @@
 Request for opinion of Board with regard to environmental impact assessment
 
-300. (1) The Board shall, on the request of—
+300.—(1) The Board shall, on the request of—
 
 (a) a person who has commenced or intends to commence development in the maritime area in accordance with a permission under section 293, or
 

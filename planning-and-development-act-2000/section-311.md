@@ -1,6 +1,6 @@
 Construction of references to National Planning Framework
 
-311. (1) Subject to section 308, this Act (other than this Part, section 178A, subsection (18) of section 12, subsection (14) of section 13 and paragraph (c) of subsection (3) of section 179) shall apply to—
+311.—(1) Subject to section 308, this Act (other than this Part, section 178A, subsection (18) of section 12, subsection (14) of section 13 and paragraph (c) of subsection (3) of section 179) shall apply to—
 
 (a) maritime development,
 

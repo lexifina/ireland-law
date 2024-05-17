@@ -1,6 +1,6 @@
 Procedure for making regional spatial and economic strategy.
 
-25. (1) As part of the consultation between a regional assembly and the relevant planning authorities under section 22, the regional assembly and the planning authorities concerned shall agree on a procedure for preparing and making the regional spatial and economic strategy under section 24.
+25.—(1) As part of the consultation between a regional assembly and the relevant planning authorities under section 22, the regional assembly and the planning authorities concerned shall agree on a procedure for preparing and making the regional spatial and economic strategy under section 24.
 
 (2) Matters to be considered under subsection (1) shall include the establishment of committees to oversee and consider preparation of the strategy.
 

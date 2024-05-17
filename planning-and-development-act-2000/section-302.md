@@ -1,6 +1,6 @@
 Submission and notification of environmental impact assessment report and Natura impact statement
 
-302. (1) The requesting person shall, as soon as may be after preparing an environmental impact assessment report in accordance with a requirement under subsection (6) of section 297—
+302.—(1) The requesting person shall, as soon as may be after preparing an environmental impact assessment report in accordance with a requirement under subsection (6) of section 297—
 
 (a) submit to the Board—
 

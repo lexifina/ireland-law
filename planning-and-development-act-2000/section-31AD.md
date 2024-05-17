@@ -1,6 +1,6 @@
 Prohibition on disclosure of information relating to functions of Office
 
-31AD. (1) No person shall, without the consent of the Planning Regulator (which may be given to the person, subject to or without conditions, as regards any information, any particular information or any information of a particular class or description), disclose—
+31AD.—(1) No person shall, without the consent of the Planning Regulator (which may be given to the person, subject to or without conditions, as regards any information, any particular information or any information of a particular class or description), disclose—
 
 (a) any information obtained by him or her while serving as a member of the staff of, or consultant or adviser to, the Office or as a person whose services are availed of by the Office by virtue of section 31AI or 31AJ, or
 

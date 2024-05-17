@@ -1,6 +1,6 @@
 Review by Office at instigation of Minister
 
-31AT. (1) Where the Minister has formed the opinion that a planning authority—
+31AT.—(1) Where the Minister has formed the opinion that a planning authority—
 
 (a) may not be carrying out its functions in accordance with the requirements of or under this Act,
 

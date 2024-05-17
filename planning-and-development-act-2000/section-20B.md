@@ -1,6 +1,6 @@
 Objective of National Planning Framework
 
-20B. The objectives of the National Planning Framework are—
+20B.—The objectives of the National Planning Framework are—
 
 (a) to establish a broad national plan for the Government in relation to the strategic planning and sustainable development of urban and rural areas,
 

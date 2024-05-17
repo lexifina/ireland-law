@@ -1,6 +1,6 @@
 Construction of references to development plan
 
-312. (1) The relevant provisions shall apply to—
+312.—(1) The relevant provisions shall apply to—
 
 (a) maritime development,
 

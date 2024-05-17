@@ -1,6 +1,6 @@
 Ministerial directions regarding regional planning strategy.
 
-31A.— (1) Where the Minister is of the opinion that—
+31A.—(1) Where the Minister is of the opinion that—
 
 (a) a regional assembly, or assemblies, as the case may be, in making the regional spatial and economic strategy has ignored, or has not taken sufficient account of submissions or observations made by the Minister to the regional assembly or assemblies under section 24 or 26,
 

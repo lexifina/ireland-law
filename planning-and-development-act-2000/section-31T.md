@@ -1,6 +1,6 @@
 Corporate strategy of Office
 
-31T. (1) The Planning Regulator shall prepare a strategy statement for the Office within 6 months of its establishment and thereafter not earlier than 6 months before and not later than the expiration of each subsequent period of 6 years following the establishment day.
+31T.—(1) The Planning Regulator shall prepare a strategy statement for the Office within 6 months of its establishment and thereafter not earlier than 6 months before and not later than the expiration of each subsequent period of 6 years following the establishment day.
 
 (2) The strategy statement shall be prepared on the basis of an organisational wide strategic approach encompassing the functions and principal activities of the Office and shall include:
 

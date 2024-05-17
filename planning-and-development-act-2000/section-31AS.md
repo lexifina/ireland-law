@@ -2,7 +2,7 @@
 
 Review at instigation of Office
 
-31AS. (1) Where the Office considers it necessary or appropriate in the circumstances, the Office may conduct a review of a planning authority or the Board in respect of the systems and procedures used by such authority or the Board in relation to the performance of its functions under this Act.
+31AS.—(1) Where the Office considers it necessary or appropriate in the circumstances, the Office may conduct a review of a planning authority or the Board in respect of the systems and procedures used by such authority or the Board in relation to the performance of its functions under this Act.
 
 (2) An authorised person may be appointed under section 31AW for the purposes of a review under this section.
 

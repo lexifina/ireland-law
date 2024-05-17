@@ -1,6 +1,6 @@
 Evaluation and assessment by Office of matters relating to development plans
 
-31AM. (1) The Office shall evaluate and assess, at least at a strategic level—
+31AM.—(1) The Office shall evaluate and assess, at least at a strategic level—
 
 (a) a notice given under subsection (2) of section 11 by a planning authority to the Office for the purposes of that section of the intention of the planning authority to review its existing development plan,
 

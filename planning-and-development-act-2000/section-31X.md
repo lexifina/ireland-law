@@ -1,6 +1,6 @@
 Transitional provisions relating to Office
 
-31X. (1) Before the establishment day the Minister may request the Public Appointments Service to hold a competition for the purpose of having selected a person to be nominated to the Government for its approval of the appointment of the person by the Minister as the Planning Regulator and, accordingly—
+31X.—(1) Before the establishment day the Minister may request the Public Appointments Service to hold a competition for the purpose of having selected a person to be nominated to the Government for its approval of the appointment of the person by the Minister as the Planning Regulator and, accordingly—
 
 (a) section 31W(2)(a) shall be deemed to have been complied with, whether or not any steps taken pursuant to that request occur on or after the establishment day, and
 

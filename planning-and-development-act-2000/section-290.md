@@ -1,6 +1,6 @@
 Opinion
 
-290. (1) A prospective applicant may, in relation to proposed development to which this Chapter applies, request the Board to give to him or her an opinion in writing on the scope of the information and the extent of detail that should be set out in an environmental impact assessment report.
+290.—(1) A prospective applicant may, in relation to proposed development to which this Chapter applies, request the Board to give to him or her an opinion in writing on the scope of the information and the extent of detail that should be set out in an environmental impact assessment report.
 
 (2) Upon receipt by the Board of a request referred to in subsection (1), the Board shall—
 

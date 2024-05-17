@@ -1,6 +1,6 @@
 Functions of Office
 
-31P. (1) The functions of the Office are—
+31P.—(1) The functions of the Office are—
 
 (a) to evaluate and assess—
 

@@ -1,6 +1,6 @@
 Accounts and audits of Office
 
-31AG. (1) The Office shall—
+31AG.—(1) The Office shall—
 
 (a) submit estimates of income and expenditure to the Minister in such form, in respect of such periods and at such times as may be specified by the Minister, and
 

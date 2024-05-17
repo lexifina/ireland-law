@@ -1,6 +1,6 @@
 Provision supplementing section 291
 
-292. (1) The Board may, before making a decision under section 293 in respect of an application under section 291—
+292.—(1) The Board may, before making a decision under section 293 in respect of an application under section 291—
 
 (a) require the applicant to submit, within such period as the Board may specify, such further information (which may include a revised environmental impact assessment report or Natura impact statement) as the Board may specify,
 
