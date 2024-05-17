@@ -22,6 +22,6 @@ Duty to direct post-mortem examination.
 
 (c) a duly authorised officer of a statutory body who is empowered under another enactment to investigate accidents, incidents or diseases resulting in death in a case in which the body is investigating the accident, incident or disease resulting in the death concerned, or
 
-(d) a designated officer of the Ombudsman Commission in a case in which there is a relevant Ombudsman Commission investigation, requests him or her so to do, and states the reasons for such request in writing.
+(d) a senior designated officer of the Police Ombudsman in a case in which there is a relevant Police Ombudsman investigation, requests him or her so to do, and states the reasons for such request in writing.
 
 (3) Upon receipt of a request under paragraph (a) or (d) of subsection (2) to direct a post-mortem examination in the case of a death in suspicious circumstances, a coroner shall direct a registered medical practitioner appointed by or on behalf of the Minister to make a post-mortem examination of the body of the deceased person.

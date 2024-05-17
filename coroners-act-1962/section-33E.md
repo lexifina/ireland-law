@@ -12,7 +12,7 @@ Report of post-mortem examination.
 
 (c) a duly authorised officer of a statutory body who is empowered under another enactment to investigate accidents, incidents or diseases resulting in death, or
 
-(d) a designated officer of the Ombudsman Commission, and the copy of the report shall be so provided not later than the commencement of an inquest in relation to the death of the person concerned or, if an inquest is not held, as soon as practicable after the coroner receives the report.
+(d) a senior designated officer of the Police Ombudsman, and the copy of the report shall be so provided not later than the commencement of an inquest in relation to the death of the person concerned or, if an inquest is not held, as soon as practicable after the coroner receives the report.
 
 (4) Subject to subsection (5), a coroner to whom a report of a post-mortem examination is furnished under subsection (1) shall, if so requested by a family member of the deceased person concerned, provide a copy of the report to that family member.
 
