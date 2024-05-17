@@ -2,7 +2,7 @@ Exhumation.
 
 47.—(1) Where a coroner is informed by a member of the Garda Síochána not below the rank of inspector that, in his opinion, the death of any person whose body has been buried in the coroner's district may have occurred in a violent or unnatural manner, the coroner may request the Minister to order the exhumation of the body by the Garda Síochána.
 
-(1A) Where there is a relevant Ombudsman Commission investigation and a coroner is informed by a designated officer of the Ombudsman Commission that, in his or her opinion, the death of the person concerned whose body has been buried in the coroner’s district may have occurred in a violent or unnatural manner, the coroner may request the Minister to order the exhumation of the body by the Ombudsman Commission.
+(1A) Where there is a relevant Police Ombudsman investigation and a coroner is informed by a senior designated officer of the Police Ombudsman that, in his or her opinion, the death of the person concerned whose body has been buried in the coroner’s district may have occurred in a violent or unnatural manner, the coroner may request the Minister to order the exhumation of the body by the Police Ombudsman.
 
 (2) On being requested under this section to authorise by order the exhumation of any body, the Minister may, as he thinks proper, either make or refuse to make the order.
 

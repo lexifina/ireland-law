@@ -1,6 +1,6 @@
 Service of summons.
 
-36.—A summons requiring the attendance of a person at an inquest as a juror or witness shall be served on the person by a member of the Garda Síochána , or, where there is a relevant Ombudsman Commission investigation concerning the death of the person in relation to whose death the inquest is to be held, by a designated officer of the Ombudsman Commission, in one of the following ways:
+36.—A summons requiring the attendance of a person at an inquest as a juror or witness shall be served on the person by a member of the Garda Síochána , or, where there is a relevant Police Ombudsman investigation concerning the death of the person in relation to whose death the inquest is to be held, by a designated officer of the Police Ombudsman, in one of the following ways:
 
 (a) by delivering it to the person;
 
