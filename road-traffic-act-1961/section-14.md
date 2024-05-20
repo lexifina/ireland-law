@@ -1,6 +1,8 @@
 Weight unladen.
 
-14.—(1) For the purposes of this Act, the weight unladen of a vehicle or combination of vehicles shall be taken to be the weight of the vehicle or combination inclusive of all additions, but exclusive of the weight of water, fuel or accumulators (other than boilers) used for the purpose of propulsion and of loose tools or loose equipment.
+14.—(1) For the purposes of this Act, subject to subsection (1A), the weight unladen of a vehicle or combination of vehicles shall be taken to be the weight of the vehicle or combination inclusive of all additions, but exclusive of the weight of water, fuel or accumulators (other than boilers) used for the purpose of propulsion and of loose tools or loose equipment.
+
+(1A) Where a vehicle referred to in subsection (1) is a powered personal transporter and has an accumulator that is a battery, the weight of the accumulator shall be considered to be included in the weight unladen of the powered personal transporter.
 
 (2) For the purposes of subsection (1) of this section—
 

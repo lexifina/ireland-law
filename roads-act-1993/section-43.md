@@ -26,6 +26,8 @@ Motorways.
 
 (b) Persons in charge of, or having control over, animals shall not permit them to be on a motorway.
 
+(c) A person shall not drive a powered personal transporter on a motorway.
+
 (5) (a) A person who uses a motorway in contravention of regulations under subsection (3) shall be guilty of an offence.
 
 (b) A person who contravenes subsection (4) shall be guilty of an offence.
