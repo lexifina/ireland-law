@@ -30,19 +30,19 @@ Powers of occasional examination, inspection and test.
 
 (b) require the person in charge or the owner to submit the vehicle for a further examination and test at a specified time and place.
 
-(6) A member of the Garda Síochána may test any pedal cycle and, for the purpose of carrying out the test, may do all such things and make all such requirements in relation to the cycle as are reasonably necessary.
+(6) A member of the Garda Síochána may test any pedal cycle or powered personal transporter and, for the purpose of carrying out the test, may do all such things and make all such requirements in relation to the cycle or transporter as are reasonably necessary.
 
 (7) For the purposes of subsection (6) of this section and without prejudice to the generality of the powers conferred thereby, a member of the Garda Síochána may—
 
-(a) drive any pedal cycle for a reasonable time and distance,
+(a) drive any pedal cycle or powered personal transporter for a reasonable time and distance,
 
-(b) require any person in charge of a pedal cycle to drive it or cause it to be driven for a reasonable time and distance in such a direction as the member directs.
+(b) require any person in charge of a pedal cycle or powered personal transporter to drive it or cause it to be driven for a reasonable time and distance in such a direction as the member directs.
 
-(8) Where a member of the Garda Síochána has, consequent upon having tested under this section a pedal cycle, reasonable grounds for believing that it has a dangerous defect, he may—
+(8) Where a member of the Garda Síochána has, consequent upon having tested under this section a pedal cycle or a powered personal transporter, reasonable grounds for believing that it has a dangerous defect, he may—
 
-(a) instruct the person in charge of the cycle that it is not to be driven in a public place until the defect is remedied,
+(a) instruct the person in charge of the cycle or transporter that it is not to be driven in a public place until the defect is remedied,
 
-(b) require such person to submit the cycle for a further test at a specified time and place.
+(b) require such person to submit the cycle or transporter for a further test at a specified time and place.
 
 (9) A person who, in a case in which a requirement under subsection (1), (2), (6) or (7) of this section has been made on him, contravenes the requirement shall be guilty of an offence.
 
@@ -70,13 +70,13 @@ Powers of occasional examination, inspection and test.
 
 (b) Where a person is charged with an offence under this subsection, it shall be a good defence for him to show that, at the time the requirement was made, there was not a defect affecting the vehicle which was such that the vehicle was, when in use, a danger to the public.
 
-(16) (a) A person who, in a case in which an instruction under subsection (8) of this section that a cycle is not to be driven in a public place until a defect is remedied has been given or in which he is aware that such an instruction has been given, so drives it or causes or permits it to be so driven before the defect is remedied shall be guilty of an offence.
+(16) (a) A person who, in a case in which an instruction under subsection (8) of this section that a cycle or transporter is not to be driven in a public place until a defect is remedied has been given or in which he is aware that such an instruction has been given, so drives it or causes or permits it to be so driven before the defect is remedied shall be guilty of an offence.
 
-(b) Where a person is charged with an offence under this subsection, it shall be a good defence for him to show that, at the time the instruction was given, the cycle had not a dangerous defect.
+(b) Where a person is charged with an offence under this subsection, it shall be a good defence for him to show that, at the time the instruction was given, the cycle or transporter had not a dangerous defect.
 
 (17) (a) A person who, in a case in which a requirement under subsection (8) of this section has been made on him, contravenes the requirement shall be guilty of an offence.
 
-(b) Where a person is charged with an offence under this subsection, it shall be a good defence for him to show that, at the time the requirement was made, the cycle had not a dangerous defect.
+(b) Where a person is charged with an offence under this subsection, it shall be a good defence for him to show that, at the time the requirement was made, the cycle or transporter had not a dangerous defect.
 
 (18) Where a requirement is made under subsection (3), (4), (5) or (8) of this section—
 
