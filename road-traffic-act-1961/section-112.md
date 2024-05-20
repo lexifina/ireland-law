@@ -10,7 +10,7 @@ Taking vehicle without authority.
 
 (b) on conviction on indictment, to a fine not exceeding €20,000 or, at the discretion of the court, to imprisonment for a term not exceeding five years or to both such fine and such imprisonment.
 
-(3) A person shall not use or take possession of a pedal cycle without the consent of the owner thereof or other lawful authority.
+(3) A person shall not use or take possession of a pedal cycle or a powered personal transporter without the consent of the owner thereof or other lawful authority.
 
 (4) A person who contravenes subsection (3) of this section shall be guilty of an offence.
 
