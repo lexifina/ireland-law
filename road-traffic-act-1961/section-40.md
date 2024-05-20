@@ -30,4 +30,6 @@ Production of driving licence on demand by member of Garda Síochána.
 
 (9) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
 
+(9A) This section does not apply in relation to a mechanically propelled vehicle referred to in section 38(7A).
+
 (10) In this section "driving licence" has the meaning given to it by section 38(9).
