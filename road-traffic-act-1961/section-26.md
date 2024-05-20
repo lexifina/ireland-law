@@ -72,9 +72,9 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 2. (a) Exceeding 80 milligrammes
 
-1 year 2 years
+(b) Exceeding 107 milligrammes
 
-(b) Exceeding 107 milligrammes Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
+1 year 2 years
 
 (c) Exceeding 35 microgrammes
 
@@ -84,7 +84,7 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 2 years 4 years
 
-(c) Exceeding 44 microgrammes
+(c) Exceeding 44 microgrammes Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
 
 4. (a) Exceeding 150 milligrammes
 
