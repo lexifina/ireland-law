@@ -34,6 +34,12 @@ Prohibition on driving without driving licence.
 
 (7) Pedestrian-controlled vehicles which are specified for the purposes of this subsection by the Minister by regulations and which comply with the conditions stated in the regulations are hereby excepted from subsections (1) to (5) of this section and sections 40 and 41 of this Act.
 
+(7A) Subsections (1), (2), (3), (4) and (5) shall not apply in relation to a mechanically propelled vehicle that is a bicycle or tricycle capable of propulsion solely by the physical exertions of a person or persons seated on it, and equipped with an auxiliary electric motor—
+
+(a) which has a maximum continuous rated power greater than 0.25 kilowatts but less than or equal to 1 kilowatt, and
+
+(b) the output of which cuts off when the physical exertions stop and before, or when, the bicycle or tricycle reaches the speed of 25 kilometres per hour.
+
 (8) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion—
 
 (a) is committing, or has committed, an offence under subsection (1), and
