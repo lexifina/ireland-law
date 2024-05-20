@@ -1,6 +1,6 @@
 Detention of vehicles.
 
-41.—(1) The Minister may, after consultation with the Minister for Justice, make regulations authorising and providing for the detention, removal, storage and subsequent release or disposal of a mechanically propelled vehicle in use in a public place where—
+41.—(1) The Minister may, after consultation with the Minister for Justice, make regulations authorising and providing for the detention, removal, storage and subsequent release or disposal of , in the case of paragraphs (a) to (f), a mechanically propelled vehicle in use in a public place and, in the case of paragraph (g), a powered personal transporter in use in a public place where—
 
 (a) the person driving the vehicle—
 
@@ -18,9 +18,15 @@ Detention of vehicles.
 
 (d) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of section 18(1) of the Principal Act,
 
-(e) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of Regulation 19(1) of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004) or section 6 (1) of the Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012, or
+(e) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of Regulation 19(1) of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004) or section 6 (1) of the Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012, ...
 
-(f) in the case of a vehicle registered in another Member State, the vehicle is, or a member of the Garda Síochána is of the opinion that it is, being so used without a proof of passing a roadworthiness test in accordance with Council Directive 96/96/EC of 20 December 1996 which is for the time being in force in respect of the vehicle.
+(f) in the case of a vehicle registered in another Member State, the vehicle is, or a member of the Garda Síochána is of the opinion that it is, being so used without a proof of passing a roadworthiness test in accordance with Council Directive 96/96/EC of 20 December 1996 which is for the time being in force in respect of the vehicle, or
+
+(g) the powered personal transporter is, or a member of the Garda Síochána is of the opinion that the powered personal transporter is, being so used in contravention of—
+
+(i) any regulations made under section 11 of the Principal Act, or
+
+(ii) subsection (1) or (2) of section 54 of the Principal Act.
 
 (2) Regulations under this section may, in particular and without prejudice to the generality of subsection (1)—
 
