@@ -1,4 +1,4 @@
-F10[Variable speed limits
+F18[Variable speed limits
 
 10B.—(1) The National Roads Authority may apply, or cause to be applied, by automated means or otherwise, to any national managed road or any part, carriageway or lane thereof, a special limit (referred to in this Act as a "variable speed limit") being a speed limit of—
 

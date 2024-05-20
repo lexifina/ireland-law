@@ -1,4 +1,4 @@
-F12[Speed limit guidelines
+F20[Speed limit guidelines
 
 10D.—(1) The Minister may issue guidelines relating to the making of special speed limit bye-laws, road works speed limit orders and variable speed limit schemes and may amend or cancel any such guidelines.
 
