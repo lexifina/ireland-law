@@ -1,6 +1,6 @@
 Prohibition on holding mobile phone by driver of mechanically propelled vehicle, etc.
 
-3.— (1) A person shall not while driving a mechanically propelled vehicle in a public place hold a mobile phone.
+3.— (1) A person shall not while driving a mechanically propelled vehicle , or a powered personal transporter, in a public place hold a mobile phone.
 
 (2) Subsection (1) does not apply to a member of the Garda Síochána, an ambulance service or a fire brigade of a fire authority (within the meaning of the Fire Services Act 1981) who is acting in the course of his or her duties and holding a mobile phone in relation to the performance of his or her duties.
 
@@ -16,11 +16,19 @@ Prohibition on holding mobile phone by driver of mechanically propelled vehicle,
 
 (d) entertainment equipment.
 
-(5) Different regulations may be made under subsection (4) for different classes of cases coming within the same class of equipment or for different classes of vehicles in relation to such equipment or different classes of persons.
+(4A) The Minister may, to avoid the impairment of, or interference with, the driving capacity or capabilities of a driver of a powered personal transporter, make regulations in relation to the restriction or prohibition while driving a powered personal transporter in a public place of the use of—
 
-(6) A person who contravenes or fails to comply with regulations made under subsection (4) is guilty of an offence.
+(a) a mobile phone (other than in the circumstances referred to in subsection (1)),
 
-(7) It is a defence for a person charged with an offence under subsection (3) , in relation to holding a mobile phone while driving a mechanically propelled vehicle, or under subsection (6), in relation to the use of a mobile phone or an in-vehicle communication device, to show that he or she was—
+(b) information equipment, or
+
+(c) entertainment equipment.
+
+(5) Different regulations may be made under subsection (4) or (4A) for different classes of cases coming within the same class of equipment or for different classes of vehicles or transporters in relation to such equipment or different classes of persons.
+
+(6) A person who contravenes or fails to comply with regulations made under subsection (4) or (4A) is guilty of an offence.
+
+(7) It is a defence for a person charged with an offence under subsection (3) , in relation to holding a mobile phone while driving a mechanically propelled vehicle or powered personal transporter, or under subsection (6), in relation to the use of a mobile phone or an in-vehicle communication device, to show that he or she was—
 
 (a) using it to call the Garda Síochána, an ambulance, fire or other emergency service on numbers prescribed for such service, or
 
