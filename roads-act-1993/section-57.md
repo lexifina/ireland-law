@@ -2,7 +2,7 @@ Toll schemes.
 
 57.—(1) A road authority may prepare a scheme for the establishment of a system of tolls in respect of the use of a public road.
 
-(2) In preparing a scheme under subsection (1), a road authority shall give special consideration to the question of exempting from tolls under the scheme pedestrians, pedal cycles, invalid carriages, vehicles specially adapted for use by physically handicapped persons and vehicles providing public passenger transport services.
+(2) In preparing a scheme under subsection (1), a road authority shall give special consideration to the question of exempting from tolls under the scheme pedestrians, powered personal transporters, pedal cycles, invalid carriages, vehicles specially adapted for use by physically handicapped persons and vehicles providing public passenger transport services.
 
 (3) A scheme prepared under subsection (1) shall—
 
