@@ -34,7 +34,7 @@ Interpretation.
 
 "detachable disc" means that part of a test certificate, for the time being in force in respect of a vehicle, which may be detached from the certificate to be affixed to the vehicle;
 
-“driving” includes managing and controlling and, in relation to a bicycle or tricycle, riding, and “driver” and other cognate words shall be construed accordingly;
+“driving” includes managing and controlling and, in relation to a bicycle, tricycle or powered personal transporter, riding, and “driver” and other cognate words shall be construed accordingly;
 
 "driving licence" means—
 
@@ -74,9 +74,17 @@ Interpretation.
 
 “mechanically propelled vehicle” means, subject to subsection (2) of this section, a vehicle intended or adapted for propulsion by mechanical means, including—
 
-(a) a bicycle or tricycle with an attachment for propelling it by mechanical power, whether or not the attachment is being used,
+(a) a bicycle or tricycle—
 
-(b) a vehicle the means of propulsion of which is electrical or partly electrical and partly mechanical, but not including a tramcar or other vehicle running on permanent rails;
+(i) with an attachment for propelling it solely by mechanical power or solely by electrical power, whether or not the attachment is being used, and having a maximum design speed of no less than 6 kilometres per hour, or
+
+(ii) capable of propulsion solely by the physical exertions of a person or persons seated on it, and equipped with an auxiliary electric motor—
+
+(I) which has a maximum continuous rated power greater than 0.25 kilowatts, and
+
+(II) the output of which cuts off when the physical exertions stop,
+
+(b) a vehicle the means of propulsion of which is electrical or partly electrical and partly mechanical, but not including a tramcar or other vehicle running on permanent rails , or a powered personal transporter;
 
 "Member State competent authority" means an authority or public body in a Member State, other than the State, with responsibility for managing the system of roadworthiness testing in that Member State, including, where appropriate, the carrying out of roadworthiness tests for the purposes of the Roadworthiness Directive;
 
@@ -100,13 +108,29 @@ Interpretation.
 
 “parking place” has the meaning specified in paragraph (a) of subsection (2) of section 90;
 
-“pedal bicycle” means a bicycle which is intended or adapted for propulsion solely by the physical exertions of a person or persons seated thereon;
+"pedal bicycle" means—
+
+(a) a bicycle which is intended or adapted for propulsion solely by the physical exertions of a person or persons seated on it, or
+
+(b) a bicycle capable of propulsion solely by the physical exertions of a person or persons seated on it, and equipped with an auxiliary electric motor—
+
+(i) which has a maximum continuous rated power less than or equal to 0.25 kilowatts, and
+
+(ii) the output of which cuts off when those physical exertions stop, and is otherwise progressively reduced and finally cut off before the bicycle reaches the speed of 25 kilometres per hour;
 
 “pedal cycle” means a vehicle which is a pedal bicycle or pedal tricycle;
 
 “pedal cyclist” means a person driving a pedal cycle;
 
-“pedal tricycle” means a tricycle which is intended or adapted for propulsion solely by the physical exertions of a person or persons seated thereon;
+"pedal tricycle" means—
+
+(a) a tricycle which is intended or adapted for propulsion solely by the physical exertions of a person or persons seated on it, or
+
+(b) a tricycle capable of propulsion solely by the physical exertions of a person or persons seated on it, and equipped with an auxiliary electric motor—
+
+(i) which has a maximum continuous rated power less than or equal to 0.25 kilowatts, and
+
+(ii) the output of which cuts off when those physical exertions stop, and is otherwise progressively reduced and finally cut off before the tricycle reaches the speed of 25 kilometres per hour;
 
 "pedestrian controlled vehicle" means a mechanically propelled vehicle—
 
@@ -117,6 +141,16 @@ Interpretation.
 “period of cover” has the meaning assigned to it in paragraph (b) of subsection (1) of section 62 or paragraph (b) of subsection (1) of section 63 (as may be appropriate);
 
 “permission to reside” means a permission under section 60(6) of the International Protection Act 2015, which permission is valid;
+
+"powered personal transporter" means, subject to subsection (1A), a vehicle—
+
+(a) designed and constructed for the carriage of a single person, but not designed or constructed for a person with restricted mobility or for the carriage of goods,
+
+(b) with a maximum weight unladen of 25 kilograms,
+
+(c) with a maximum design speed of no less than 6 kilometres per hour and no greater than 25 kilometres per hour, and
+
+(d) equipped with an electric motor having a maximum continuous rated power, or electric motors having a combined maximum continuous rated power, of less than or equal to 0.5 kilowatts, but not including a vehicle referred to in paragraph (b) of the definition of pedal bicycle or in paragraph (b) of the definition of pedal tricycle;
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
@@ -172,11 +206,13 @@ Interpretation.
 
 “use”, in relation to a vehicle, includes park, and cognate words shall be construed accordingly;
 
-"vehicle" means a mechanically propelled vehicle, a trailer or semi-trailer, an animal-drawn vehicle or a pedal cycle;
+"vehicle" means a mechanically propelled vehicle, a powered personal transporter, a trailer or semi-trailer, an animal-drawn vehicle or a pedal cycle;
 
 “vehicle guarantor” has the meaning specified in section 59;
 
 “vehicle insurer” has the meaning specified in section 58.
+
+(1A) The Minister may prescribe, for powered personal transporters or different classes of them, a maximum weight unladen, a maximum design speed, or a maximum continuous rated power or combined maximum continuous rated power different to the weight, speed or rated power referred to in the definition of "powered personal transporter" in subsection (1).
 
 (2) Where a vehicle, which, apart from this subsection, would be a mechanically propelled vehicle, stands so substantially disabled (either through collision, breakdown or the removal of the engine or other such vital part) as to be no longer capable of being propelled mechanically, it shall be regarded—
 
