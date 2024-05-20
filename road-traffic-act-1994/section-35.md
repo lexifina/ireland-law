@@ -10,9 +10,9 @@ Regulations for general control of traffic and pedestrians.
 
 (b) requiring traffic to proceed in a specified direction only or to proceed along a specified side of the roadway or, in the case of dual or multiple carriageways, along a specified carriageway;
 
-(c) assigning different parts of the road to different traffic (including pedal cycles) and pedestrians;
+(c) assigning different parts of the road to different traffic (including pedal cycles or powered personal transporters) and pedestrians;
 
-(d) prohibiting or restricting traffic or specified traffic from using a specified road or specified parts of the road (including footways or parts of the road reserved for pedal cycles);
+(d) prohibiting or restricting traffic or specified traffic from using a specified road or specified parts of the road (including footways or parts of the road reserved for pedal cycles or powered personal transporters);
 
 (dd) prohibiting or restricting pedestrians from using a specified road or specified parts of a road upon which there is a light railway (within the meaning of the Transport (Railway Infrastructure) Act, 2001).
 
@@ -22,7 +22,7 @@ Regulations for general control of traffic and pedestrians.
 
 (g) regulating and controlling the stopping, reversing, turning and overtaking of vehicles;
 
-(h) prohibiting or regulating and controlling the driving of mechanically propelled vehicles and pedal cycles in relation to animals or animal-drawn traffic;
+(h) prohibiting or regulating and controlling the driving of mechanically propelled vehicles , powered personal transporters, and pedal cycles in relation to animals or animal-drawn traffic;
 
 (i) prohibiting or regulating and controlling the driving or leading of animals;
 
@@ -54,7 +54,9 @@ Regulations for general control of traffic and pedestrians.
 
 (ii) permitting the parking of a vehicle by the permit holder at specified locations, or
 
-(iii) exempting the permit holder from the application of prohibitions and restrictions applied under this section to specified traffic from entering or using specified roads, upon payment of a prescribed fee, if any, and the disposal of such fees and different fees may be prescribed in respect of different classes of permits.
+(iii) exempting the permit holder from the application of prohibitions and restrictions applied under this section to specified traffic from entering or using specified roads, upon payment of a prescribed fee, if any, and the disposal of such fees and different fees may be prescribed in respect of different classes of of permits;
+
+(u) prohibiting, or restricting the use of, powered personal transporters in traffic.
 
 (3) Different regulations may be made under this section—
 
