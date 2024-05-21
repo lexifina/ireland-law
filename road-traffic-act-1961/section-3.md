@@ -210,6 +210,8 @@ Interpretation.
 
 “vehicle guarantor” has the meaning specified in section 59;
 
+"vehicle identification number (VIN)" means the alphanumeric code assigned to a vehicle by the manufacturer in order to ensure proper identification of every vehicle;
+
 “vehicle insurer” has the meaning specified in section 58.
 
 (1A) The Minister may prescribe, for powered personal transporters or different classes of them, a maximum weight unladen, a maximum design speed, or a maximum continuous rated power or combined maximum continuous rated power different to the weight, speed or rated power referred to in the definition of "powered personal transporter" in subsection (1).
