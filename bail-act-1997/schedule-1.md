@@ -319,3 +319,9 @@ Offences relating to smuggling of persons
 43. Any offence under section 2 of the Illegal Immigrants (Trafficking) Act 2000.
 
 44. Any offence under section 6, 7, 8 or 14 of the Criminal Justice (Smuggling of Persons) Act 2021.
+
+Offences under the Criminal Justice (Engagement of Children in Criminal
+
+Activity) Act 2024
+
+45. An offence under the Criminal Justice (Engagement of Children in Criminal Activity) Act 2024.
