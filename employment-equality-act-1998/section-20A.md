@@ -1,6 +1,6 @@
 Gender pay gap information.
 
-20A. (1) The Minister shall, as soon as is reasonably practicable after the commencement of section 2 of the Gender Pay Gap Information Act 2021 and in accordance with this section, make regulations requiring—
+20A.—(1) The Minister shall, as soon as is reasonably practicable after the commencement of section 2 of the Gender Pay Gap Information Act 2021 and in accordance with this section, make regulations requiring—
 
 (a) employers to publish information relating to the remuneration of their employees for the purpose of showing whether there are differences in such remuneration referable to gender and, if so, the size of such differences,
 
