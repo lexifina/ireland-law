@@ -1,6 +1,6 @@
 Payment of fixed charge on service of summons.
 
-44. — (1) Where a member of the Garda Síochána serves a person with a summons in respect of a fixed charge offence the member shall serve, or cause to be served, on the person, a notice under this section ("section 44 notice").
+44.— (1) Where a member of the Garda Síochána serves a person with a summons in respect of a fixed charge offence the member shall serve, or cause to be served, on the person, a notice under this section ("section 44 notice").
 
 (2) A section 44 notice shall be served with, and in the same manner as, the summons in respect of the fixed charge offence to which the section 44 notice relates.
 

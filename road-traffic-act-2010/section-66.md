@@ -1,3 +1,3 @@
-Transitional provision — consequential disqualification orders.
+Transitional provision — consequential disqualification orders. (Repealed)
 
 66.— ...

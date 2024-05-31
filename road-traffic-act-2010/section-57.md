@@ -42,9 +42,7 @@ Matters relating to issue of Irish driving licences and learner permits.
 
 (ii) such other categories of person and the purpose for such access as may be prescribed.
 
-(5) In this section ‘licence records’ means records maintained under section 60 (as amended by section 86 of the Finance Act 1994) of the Finance Act 1993.
-
-22A.— (1) Where a person is disqualified by this Act for holding any driving licence or learner permit—
+(5) In this section ‘licence records’ means records maintained under section 60 (as amended by section 86 of the Finance Act 1994) of the Finance Act 1993. 22A.— (1) Where a person is disqualified by this Act for holding any driving licence or learner permit—
 
 (a) whatsoever during a period, he or she shall be disqualified for applying for any Irish driving licence or learner permit whatsoever, or
 

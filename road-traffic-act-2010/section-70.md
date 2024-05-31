@@ -1,3 +1,3 @@
-Repeals —Part 8.
+Repeals —Part 8. (Repealed)
 
 70.— ...

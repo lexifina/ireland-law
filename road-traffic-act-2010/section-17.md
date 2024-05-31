@@ -1,6 +1,6 @@
 Procedure at Bureau regarding specimens.
 
-17. (1) As soon as practicable after it has received a specimen forwarded to it under section 15, the Bureau shall analyse the specimen and may determine, as appropriate, all or any of the following:
+17.— (1) As soon as practicable after it has received a specimen forwarded to it under section 15, the Bureau shall analyse the specimen and may determine, as appropriate, all or any of the following:
 
 (a) the concentration of alcohol in the specimen;
 

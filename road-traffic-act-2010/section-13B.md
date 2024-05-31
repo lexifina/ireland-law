@@ -1,6 +1,6 @@
 Obligation to provide blood specimen where suspected of certain offences involving drugs.
 
-13B. (1) Where a person is arrested under section 4(8), 5(10), 9(4), 10(7) or 11(6) of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act and a member of the Garda Síochána, having carried out—
+13B.— (1) Where a person is arrested under section 4(8), 5(10), 9(4), 10(7) or 11(6) of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act and a member of the Garda Síochána, having carried out—
 
 (a) a preliminary oral fluid test under section 9(2A) or 10(4),
 
