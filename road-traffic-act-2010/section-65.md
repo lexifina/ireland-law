@@ -54,37 +54,29 @@ TABLE
 
 Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
 
-1. (a)
+(a)
 
 (b)
 
-6 months 1 year
+(c)
 
-(c) Not exceeding
+(a) Exceeding 80 milligrammes
 
-2. (a) Exceeding 80
+(b) Exceeding 107 milligrammes
 
-1 year 2 years
+(c) Exceeding 35 microgrammes
 
-(b) Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
+(a) Exceeding 100 milligrammes
 
-(c) Exceeding 35
+(b) Exceeding 135 milligrammes
 
-3. (a)
+(c) Exceeding 44 microgrammes
 
-(b)
+(a) Exceeding 150 milligrammes Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
 
-2 years 4 years
+(b) Exceeding 200 milligrammes
 
-(c) Exceeding 44
-
-4. (a)
-
-3 years 6 years Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
-
-(b)
-
-(c) Exceeding 66
+(c) Exceeding 66 microgrammes
 
 (5) (a) Subject to paragraph (b), the period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under section 52 or 53 tried summarily or under section 56, be not less than 2 years in the case of a first offence under the section concerned and not less than 4 years in the case of a second or any subsequent offence under the same section committed within the period of 3 years from the date of the commission of the previous offence or, in the case of more than one such offence, the last such offence.
 

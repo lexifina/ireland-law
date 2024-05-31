@@ -18,7 +18,7 @@ Interpretation —Part 2.
 
 “first driving licence” means a driving licence issued by a licensing authority to a person who has not previously held a driving licence;
 
-“impairment test regulations” means regulations made under section 11(3);
+“impairment test regulations” means regulations made under section 11(4);
 
 “impairment tests” means tests prescribed under impairment test regulations;
 

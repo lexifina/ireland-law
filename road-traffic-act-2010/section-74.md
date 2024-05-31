@@ -6,7 +6,7 @@ Signature of applicant — driving licence, etc.
 
 (b) a certificate of competency, to an issuing authority, or
 
-(c) an Irish driving licence, to a licensing authority, the Service or authority, as the case may be, may—
+(c) an Irish driving licence or learner permit, to a licensing authority, the Service or authority, as the case may be, may—
 
 (i) take a photograph or copy of the signature of the applicant,
 

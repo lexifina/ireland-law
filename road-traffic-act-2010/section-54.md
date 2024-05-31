@@ -32,7 +32,7 @@ Reference Offence General Description Penalty Penalty Points on Number of Offenc
 
 1 Offence consisting Using a vehicle which 1 3 of contravention of exceeds the maximum Regulation 26 or 27 permissible width
 
-2 Offence consisting Using a vehicle which 1 3 of contravention of exceeds the maximum Regulation 28, 29, permissible length 30 or 31
+2 Offence consisting Using a vehicle which 1 3 of contravention of exceeds the maximum Regulation 28, 29, permissible length 30 or 31 Reference Offence General Description Penalty Penalty Points on Number of Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 3 Offence consisting Using a vehicle with 2 4 of contravention of defective or worn Regulation 55 tyres
 
