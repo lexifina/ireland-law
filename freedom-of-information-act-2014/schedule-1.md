@@ -188,7 +188,7 @@ Section 6 does not include a reference to—
 
 (II) an asset, or
 
-(III) an asset securing a loan, held or managed by Home Building Finance Ireland or any HBFI group entity;
+(III) an asset securing a loan, held or managed by Home Building Finance Ireland or any HBFI group entity,
 
 (an) the Office of the Protected Disclosures Commissioner, in the performance of the functions conferred on it by or under the Protected Disclosures Act 2014, other than insofar as it relates to records concerning the general administration of those functions.
 
@@ -214,7 +214,9 @@ Coillte Teoranta
 
 Commissioners for Irish Lights
 
-Córas Iompair Éireann Holding Company Cork Airport Authority plc.
+Córas Iompair Éireann Holding Company
+
+Cork Airport Authority plc.
 
 Drogheda Port Company
 
@@ -226,13 +228,11 @@ Dun Laoghaire Harbour Company
 
 Electricity Supply Board
 
-Ervia
+...
 
 Food Safety Promotion Board (Safefood)
 
-Galway Harbour Company
-
-Irish Aviation Authority
+Galway Harbour Company Irish Aviation Authority
 
 Irish Bank Resolution Corporation Limited (in Special Liquidation)
 
