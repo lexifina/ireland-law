@@ -1,0 +1,3 @@
+F10[Minister to have regard to certain matters.
+
+19C.—Where an environmental impact statement has been submitted in accordance with a requirement of section 19A, the Minister shall, when making his or her decision under section 19, have regard to the said statement, to any further information furnished in accordance with subsection (8) of section 19B, to any submissions or observations, made in accordance with section 19B, in relation to the effects on the environment of the proposed works, and to the views, if any, furnished by other Member States of the European Communities pursuant to section 19D.

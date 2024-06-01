@@ -1,0 +1,3 @@
+Amendment of section 74 (penalties) of Principal Act.
+
+68.—...
