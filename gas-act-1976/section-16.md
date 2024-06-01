@@ -1,6 +1,6 @@
 Staff of Board.
 
-16.— (1) The Board shall appoint such and so many persons to be officers and servants of the Board as the Board from time to time thinks proper.
+16. — (1) The Board shall appoint such and so many persons to be officers and servants of the Board as the Board from time to time thinks proper.
 
 (2) An officer or servant of the Board shall hold his or her office or employment on such terms and conditions as the Board from time to time determines.
 
