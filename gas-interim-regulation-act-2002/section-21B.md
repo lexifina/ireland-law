@@ -4,7 +4,7 @@ Shipper of last resort.
 
 (b) Following public consultation and subject to paragraph (c), the Commission may designate a licensed shipper to act as a shipper of last resort.
 
-(c) Notwithstanding the generality of paragraphs (a) and (b), where the Commission is of the opinion that Bord Gáis Éireann is an appropriate person to carry out the functions of a shipper of last resort under this section, it may, in accordance with paragraph (b), designate Bord Gáis Éireann to act as a shipper of last resort.
+(c) ...
 
 (d) The Commission may reconfirm, amend or revoke a designation made under paragraph (b) as it sees fit.
 
