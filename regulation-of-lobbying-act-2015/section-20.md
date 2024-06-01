@@ -2,7 +2,7 @@ Offences
 
 20. (1) A person who commits a relevant contravention by making a return under section 12 after the relevant date is guilty of an offence and liable on summary conviction to a class C fine.
 
-(2) A person who commits a relevant contravention in any other way is guilty of an offence and liable—
+(2) A person who commits a relevant contravention under paragraph (a), (b) (save as provided for by subsection (1)), (c), (d), (e) or (f) of section 18 is guilty of an offence and liable—
 
 (a) on summary conviction to a class C fine, or
 
