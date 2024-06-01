@@ -54,7 +54,9 @@ Fees and charges
 
 (a) in relation to a case in which a deposit is payable under subsection (5), as if the reference to 4 weeks were a reference to a period consisting of 4 weeks together with the period from the giving of the notice under subsection (5) (c) concerned to the requester concerned to the date of the receipt of the deposit,
 
-(b) in relation to a case in which such a deposit is annulled following a review under section 21 or 22 or an appeal under section 24, as if the reference to 4 weeks were a reference to a period consisting of 4 weeks together with the period from the giving of the notice under subsection (5) (c) to the requester concerned to the date of the decision under section 24 or, as the case may be, of the giving to the requester concerned of notice under section 21 or 22 of the decision, and
+(b) in relation to a case in which such a deposit is annulled following a review under section 21 or 22 or an appeal under section 24, as if the reference to 4 weeks were a reference to a period consisting of 4 weeks together with the period from the giving of the notice under subsection
+
+(5) (c) to the requester concerned to the date of the decision under section 24 or, as the case may be, of the giving to the requester concerned of notice under section 21 or 22 of the decision, and
 
 (c) in relation to a case in which an amendment pursuant to subsection (7) has the effect of eliminating such a deposit, as if the reference to the receipt of a request under that section were a reference to the making of the amendment.
 

@@ -24,6 +24,8 @@ No. 368 of 2001 Freedom of Information Act 1997 (Classes of Health Professionals
 
 No. 264 of 2003 Freedom of Information Act 1997 (Fees) Regulations 2003.
 
-No. 385 of 2009 Freedom of Information Act 1997 (Section 17(6)) Regulations 2009. No. 386 of 2009 Freedom of Information Act 1997 (Section 18(5A)) Regulations 2009.
+No. 385 of 2009 Freedom of Information Act 1997 (Section 17(6)) Regulations 2009.
+
+No. 386 of 2009 Freedom of Information Act 1997 (Section 18(5A)) Regulations 2009.
 
 No. 387 of 2009 Freedom of Information Act 1997 (Section 28(6)) Regulations 2009.
