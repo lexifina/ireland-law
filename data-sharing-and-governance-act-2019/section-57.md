@@ -30,8 +30,4 @@ Review of data-sharing agreement
 
 (b) where the Board is of the view that its recommendations concern substantive issues, state that the proposed agreement is to be submitted to the Board following amendment for further review under this section.
 
-(6) The proposed parties to the proposed agreement concerned shall take account of the recommendations, if any, notified to the designated lead agency under
-
-## subsection (4)
-
-and amend the proposed agreement accordingly.
+(6) The proposed parties to the proposed agreement concerned shall take account of the recommendations, if any, notified to the designated lead agency under subsection (4) and amend the proposed agreement accordingly.
