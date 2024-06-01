@@ -4,6 +4,8 @@ Interpretation.
 
 “the Act of 1960” means the Petroleum and Other Minerals Development Act, 1960, as extended by section 4 (2) of the Continental Shelf Act, 1968;
 
+"Act of 2014" means the Companies Act 2014;
+
 “the Board” means the body established by section 7;
 
 “the Commission”means the Commission for Energy Regulation;
@@ -100,7 +102,7 @@ Interpretation.
 
 “local authority” means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
-“majority-shareholding Minister” means the Minister of the Government appointed from time to time by order of the Government under section 7B(2)(e);
+"majority-shareholding Minister" has the same meaning as it has in the Gas (Amendment) and Miscellaneous Provisions Act 2024;
 
 “the Minister” means the Minister for Transport and Power;
 
