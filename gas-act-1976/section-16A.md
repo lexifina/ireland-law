@@ -1,6 +1,6 @@
-F56[Superannuation of transferred employees of Bord Gáis Éireann.
+F67[Superannuation of transferred employees of Bord Gáis Éireann.
 
-16A.— (1) In this section—
+16A. — (1) In this section—
 
 “Gaslink” means Gaslink Independent System Operator Ltd., being the company formed pursuant to Regulation 5 of the European Communities (Internal Market in Natural Gas) (BGE) Regulations 2005 (S.I. No. 760 of 2005);
 

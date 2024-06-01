@@ -1,4 +1,4 @@
-F111[Offence - furnishing of information, making statement etc
+F123[Offence - furnishing of information, making statement etc
 
 40G. — (1) (a) A person who, in relation to an application for consent under section 39A or 40 where the Commission or the Environmental Assessment Unit, as the case may be, is making a determination under section 40A or is carrying out an environmental impact assessment under section 40B, provides information or makes a statement—
 

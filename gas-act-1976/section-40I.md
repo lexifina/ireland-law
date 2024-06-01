@@ -1,4 +1,4 @@
-F113[Appointment of authorised officers
+F125[Appointment of authorised officers
 
 40I. — (1) (a) The Minister, on the recommendation of the Environmental Assessment Unit, or the Commission (without prejudice to the powers conferred on it by or under any other Act of the Oireachtas), as the case may be, may appoint such and so many persons as the Minister or the Commission, as the case may be, thinks fit to be authorised officers for the purposes of this Act.
 

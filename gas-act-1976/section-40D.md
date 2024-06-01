@@ -1,4 +1,4 @@
-F108[Compliance with environmental conditions, enforcement etc.
+F120[Compliance with environmental conditions, enforcement etc.
 
 40D. — (1) Where the Commission or the Minister, as the case may be, grants consent under section 39A or 40, the Board or the other person to whom the consent has been granted shall comply with the environmental conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring), (if any), attached under section 40A (1)(df) or section 40B(6).
 

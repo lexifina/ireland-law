@@ -1,4 +1,4 @@
-F110[Power to direct action to ensure compliance with condition
+F122[Power to direct action to ensure compliance with condition
 
 40F. — (1) The Commission or the Environmental Assessment Unit, as the case may be, having made, or having had made on its behalf, a request for information under section 40E, and having considered any information furnished to it as a result of the making of the request or that has otherwise come into its possession, may issue to the person to whom consent under section 39A or 40, as the case may be, was granted, the terms of a direction (in this section referred to as “the proposed direction”) that the Commission or the Environmental Assessment Unit, as the case may be, proposes to issue to the person requiring the person to carry out, cause to be carried out, or arrange for the carrying out, within a specified period, such action as the Commission or the Environmental Assessment Unit, as the case may be, considers necessary to ensure that the person complies with the environmental conditions attached to the consent.
 

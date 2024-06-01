@@ -1,6 +1,6 @@
-F30[Extension of powers of Bord Gáis Éireann to effect certain commercial transactions.
+F39[Extension of powers of Bord Gáis Éireann to effect certain commercial transactions.
 
-8A.—(1) In this section "company" means—
+8A. — (1) In this section "company" means—
 
 (a) a company within the meaning of the Companies Act, 1963, or
 

@@ -1,4 +1,4 @@
-F109[Monitoring etc. by Commission, Environmental Assessment Unit, provision of information concerning compliance with environmental conditions etc
+F121[Monitoring etc. by Commission, Environmental Assessment Unit, provision of information concerning compliance with environmental conditions etc
 
 40E. — (1) The Commission or the Environmental Assessment Unit, as the case may be, shall take all reasonable steps to ensure that the Board or the other person, as the case may be, to whom consent under section 39A or 40 has been granted complies with any environmental conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring) attached to the consent under section 40A(1)(df) or section 40B(6).
 

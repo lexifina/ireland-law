@@ -1,4 +1,4 @@
-F50[Negotiations with third country
+F60[Negotiations with third country
 
 10D. — (1) Without prejudice to other obligations under European Union law, existing agreements between the State and a third country on the operation of a transmission line or an upstream pipeline network may be maintained in force until the entry into force of a subsequent agreement between the European Union and the same third country or until the procedure under Article 49b of the Natural Gas Market Directive is applied by the European Commission, whichever first occurs.
 

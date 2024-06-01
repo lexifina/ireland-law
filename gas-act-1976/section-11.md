@@ -1,4 +1,4 @@
-F51[Directions as to profits and financial objectives of Board
+F61[Directions as to profits and financial objectives of Board
 
 11. — (1) (a) The majority-shareholding Minister (with, where the majority-shareholding Minister is not the Minister for Finance, the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted may, from time to time, give the Board such general directives concerning the financial objectives of the Board as he or she considers appropriate.
 

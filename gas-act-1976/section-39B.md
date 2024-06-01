@@ -1,4 +1,4 @@
-F87[Non-application of certain declarations, Regulations in respect of pipelines where environmental impact assessment, appropriate assessment required
+F99[Non-application of certain declarations, Regulations in respect of pipelines where environmental impact assessment, appropriate assessment required
 
 39B. (1) (a) A declaration by way of a notice under section 2(6)(b) of the Gas (Amendment) Act 1987 (No. 9 of 1987) in respect of a pipeline shall not apply in respect of a pipeline where an environmental impact assessment or an appropriate assessment is required in respect of that pipeline.
 

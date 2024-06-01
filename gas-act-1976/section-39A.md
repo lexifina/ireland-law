@@ -1,4 +1,4 @@
-F85[Construction of pipelines.
+F97[Construction of pipelines.
 
 39A. — (1) Subject to section 12 (2) of the Gas (Interim) (Regulation) Act, 2002, a person, including the Board, shall not, without the consent of the Commission, construct a pipeline, other than an upstream pipeline, on, over or under the surface of land or of any sea bed that is situate in the territorial sea of the State (within the meaning of the Maritime Jurisdiction Act 2021) or a designated area.
 

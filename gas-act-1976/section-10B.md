@@ -1,4 +1,4 @@
-F44[Transmission of natural gas by pipeline operators on behalf of other persons - role of Minister for the Marine and Natural Resources.
+F54[Transmission of natural gas by pipeline operators on behalf of other persons - role of Minister for the Marine and Natural Resources.
 
 10B.—(1) (a) Subject to subsection (6) and subject to such exemptions as may be granted in accordance with Article 36 of the Directive, where an application is received for third party access in respect of an upstream pipeline from or on behalf of an eligible customer, the upstream pipeline operator shall offer to enter into an agreement for such access, subject to terms and conditions specified in regulations made by the Minister under subsection (3).
 

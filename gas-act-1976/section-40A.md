@@ -1,4 +1,4 @@
-F90[Environmental impact assessment of certain pipelines.
+F102[Environmental impact assessment of certain pipelines.
 
 40A. — (1) (a) Where an application is made for consent under section 39A(1) or 40(1), as the case may be, in respect of a proposed pipeline that is of a class referred to in Part 1 of Schedule 5 to the Planning and Development Regulations 2001 (S.I. No. 600 of 2001), the proposed pipeline shall be the subject of an environmental impact assessment and, accordingly—
 
