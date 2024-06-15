@@ -1,3 +1,3 @@
 Advances to Council
 
-36. The Minister shall from time to time advance to the Council out of moneys provided by the Oireachtas such amount or amounts as the Minister may, with the consent of the Minister for Public Expenditure and Reform, determine for the purposes of expenditure by the Council in the performance of its functions.
+36. The Minister may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, determine the amount or amounts, for the purposes of expenditure by the Council in the performance of its functions, which shall from time to time be advanced by the Courts Service to the Council out of moneys provided to it by the Oireachtas.
