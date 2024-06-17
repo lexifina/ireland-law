@@ -24,10 +24,12 @@ Household budgeting.
 
 (a) the prescribed class or classes of borrowings shall be in the form of loans from a credit union in respect of payments made under the personal micro credit scheme,
 
-(b) the maximum amount of such loan shall not exceed €2,000,
+(b) the maximum amount of such loan shall not exceed €5,000,
 
-(c) the interest rate charged in respect of such borrowings shall not exceed 1 per cent for each month, and
+(c) the interest rate charged in respect of such borrowings shall not exceed the interest rate specified by the Minister for Finance in an order under section 38(3) of the Credit Union Act 1997,
 
-(d) the maximum duration of the period for repayment, by the beneficiary concerned, of the borrowings shall not exceed 24 months.
+(d) the maximum duration of the period for repayment, by the beneficiary concerned, of the borrowings shall not exceed 24 months, and
+
+(e) any transaction fee, payable under contract to a third party, in respect of repayments in relation to borrowings under section 290 to be made by a beneficiary, shall not exceed €0.25 per transaction.
 
 CHAPTER 6A
