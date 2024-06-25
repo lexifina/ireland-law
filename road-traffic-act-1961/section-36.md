@@ -16,7 +16,9 @@ Order for endorsement in case of conviction, disqualification order or removal o
 
 (iii) where it annuls the disqualification order, annul the order made under paragraph (a) of this subsection,
 
-(iv) where it varies the disqualification order, annul the order previously made under paragraph (a) of this subsection and by a new order direct particulars ... of the disqualification order (as varied) to be endorsed on the driving licence held by the person concerned or, if he is not the holder of a driving licence but subsequently a driving licence is granted to him, on that driving licence.
+(iv) where it varies the disqualification order, annul the order previously made under paragraph (a) of this subsection and by a new order direct particulars
+
+... of the disqualification order (as varied) to be endorsed on the driving licence held by the person concerned or, if he is not the holder of a driving licence but subsequently a driving licence is granted to him, on that driving licence.
 
 (4) (a) Where a special disqualification order is made in relation to any person, the court shall by order direct particulars of the special disqualification order to be endorsed on the driving licence held by such person or, if he is not the holder of a driving licence but subsequently a driving licence is granted to him, on that driving licence.
 
