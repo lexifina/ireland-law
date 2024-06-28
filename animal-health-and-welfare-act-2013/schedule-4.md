@@ -10,9 +10,7 @@ Orders under the Diseases of Animals Act 1966
 
 3. Rabies (Importation, Landing and Movement of Animals) Order 1972 (S.I. No. 16 of 1972)
 
-4. Warble Fly (Notification and Treatment) Order 1975 (S.I. No. 267 of 1975)
-
-5. Rabies Order 1976 (S.I. No. 94 of 1976)
+4. Warble Fly (Notification and Treatment) Order 1975 (S.I. No. 267 of 1975) 5. Rabies Order 1976 (S.I. No. 94 of 1976)
 
 6. Rabies (Importation, Landing and Movement of Animals) (Amendment) Order 1976 (S.I. No. 95 of 1976)
 
@@ -60,7 +58,9 @@ Orders under the Diseases of Animals Act 1966
 
 28. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) Order 2002 (S.I. No. 528 of 2002)
 
-29. Bovine Tuberculosis (Attestation of State and General Provisions) (Amendment) Order 2003 (S.I. No. 32 of 2003) 30. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2003 (S.I. No. 159 of 2003)
+29. Bovine Tuberculosis (Attestation of State and General Provisions) (Amendment) Order 2003 (S.I. No. 32 of 2003)
+
+30. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2003 (S.I. No. 159 of 2003)
 
 31. Importation of Dogs and Cats Order 2003 (S.I. No. 192 of 2003)
 
@@ -74,9 +74,7 @@ Orders under the Diseases of Animals Act 1966
 
 36. Diseases of Animals Act 1966 (Goat Identification) Order 2006 (S.I. No. 79 of 2006)
 
-37. Diseases of Animals Act 1966 (Foot and Mouth Disease) (Disinfection facilities) Order 2007 (S.I. No. 574 of 2007)
-
-38. Diseases of Animals (Animal Transport) (Roll-on Roll-off vessels) Order 2007 (S.I. No. 580 of 2007)
+37. Diseases of Animals Act 1966 (Foot and Mouth Disease) (Disinfection facilities) Order 2007 (S.I. No. 574 of 2007) 38. Diseases of Animals (Animal Transport) (Roll-on Roll-off vessels) Order 2007 (S.I. No. 580 of 2007)
 
 39. Brucellosis in Cattle (General Provisions) (Amendment) Order 2007 (S.I. No. 666 of 2007)
 
