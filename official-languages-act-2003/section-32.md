@@ -1,6 +1,6 @@
 Placenames orders.
 
-32. —(1) Subject to subsection (2), the Minister, having received and considered advice from the Commission, may by order (in this Part referred to as a “placenames order”)—
+32. —(1) Subject to subsection (2), the Minister, having received and considered advice from the Placenames Committee, may by order (in this Part referred to as a “placenames order”)—
 
 (a) declare the Irish language version of a placename specified in the order to be such word or words as he or she specifies in the order,
 
