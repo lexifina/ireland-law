@@ -1,6 +1,6 @@
 Report on performance of obligations under Act.
 
-4B. The head of a public body shall—
+4B. —The head of a public body shall—
 
 (a) appoint, from senior management, another member of staff of the body to oversee the performance of, and report to him or her as appropriate in relation to, the obligations of the body under this Act, and
 

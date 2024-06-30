@@ -1,6 +1,6 @@
 Advertising by public bodies.
 
-10A. (1) A public body shall ensure that—
+10A. —(1) A public body shall ensure that—
 
 (a) at least 20 per cent of any advertising placed by the body in any year shall be in the Irish language, and
 
