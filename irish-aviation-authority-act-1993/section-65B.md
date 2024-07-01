@@ -4,6 +4,8 @@ F56[Crew peer support programmes
 
 (b) The company shall, not later than 12 months after the commencement of section 76 of the Air Navigation and Transport Act 2022, conduct a review.
 
+OJ No. L122, 24.4.2014, p.18
+
 (c) The company shall publish on the company’s website a report on the results of a review.
 
 (d) A review shall consider the following:
@@ -13,8 +15,6 @@ F56[Crew peer support programmes
 (ii) the pilots’ perception of the programme;
 
 (iii) the protection of confidentiality;
-
-OJ No. L122, 24.4.2014, p.18
 
 (iv) the promotion, by accountable managers of recognised organisations of aircraft crew members, of the use of the programme and trust in it;
 
