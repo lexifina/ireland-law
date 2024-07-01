@@ -1,8 +1,6 @@
 Community acts given effect to by this Act.
 
-2.—The purposes for which the provisions of this Act are enacted include the purpose of giving effect to the Community acts specified in the Table to this section.
-
-TABLE
+2.—The purposes for which the provisions of this Act are enacted include the purpose of giving effect to the Community acts specified in the Table to this section. TABLE
 
 ...
 
@@ -18,7 +16,9 @@ Council Directive 86/278/EEC of 12 June, 1986 on the protection of the environme
 
 ...
 
-Council Directive 87/217/EEC of 19 March, 1987 on the prevention and reduction of environmental pollution by asbestos Council Directive 89/369/EEC of 8 June, 1989 on the prevention of air pollution from new municipal waste incineration plants
+Council Directive 87/217/EEC of 19 March, 1987 on the prevention and reduction of environmental pollution by asbestos
+
+Council Directive 89/369/EEC of 8 June, 1989 on the prevention of air pollution from new municipal waste incineration plants
 
 ...
 

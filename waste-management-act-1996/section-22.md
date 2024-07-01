@@ -168,7 +168,9 @@ Waste management plans.
 
 (e) Notwithstanding section 34(8) of the Planning and Development Act, 2000, where a notice referred to in paragraph (a) is published in relation to an application for permission for development, the manager of the planning authority concerned shall make his or her decision in relation to the application within the period of 8 weeks beginning on the day on which the notice is first published.
 
-(10C) (a) Where development which is consistent with the provisions (including any objectives contained therein) of, and is necessary for the proper implementation of, the waste management plan in force in relation to the area concerned but, in the opinion of the manager of the authority, would contravene materially any other objective of the development plan in force in relation to the area concerned, is proposed to be carried out by— (i) a local authority that is a planning authority, or
+(10C) (a) Where development which is consistent with the provisions (including any objectives contained therein) of, and is necessary for the proper implementation of, the waste management plan in force in relation to the area concerned but, in the opinion of the manager of the authority, would contravene materially any other objective of the development plan in force in relation to the area concerned, is proposed to be carried out by—
+
+(i) a local authority that is a planning authority, or
 
 (ii) some other person on behalf of, or jointly or in partnership with such a local authority, pursuant to a contract entered into by that local authority, within the functional area of the authority (hereafter in this section referred to as “proposed development”), the manager shall publish notice of the intention of the authority to carry out the proposed development in one or more newspapers circulating in that functional area.
 
