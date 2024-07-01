@@ -12,7 +12,7 @@ Power of the court to order return of assets which have been improperly transfer
 
 (b) the proceeds of the sale or development of that property, to deliver it or them, or pay a sum in respect thereof, to the liquidator on such terms or conditions as the court thinks fit.
 
-(3) This section shall not apply to any conveyance, mortgage, delivery of goods, payment, execution or other act relating to property made or done by or against a company to which section 604 applies.
+(3) This section shall not apply to any conveyance, mortgage, delivery of goods, payment made in the ordinary course of business, execution or other act relating to property made or done by or against a company to which section 604 applies.
 
 (4) In deciding whether it is just and equitable to make an order under this section, the court shall have regard to the rights of persons who have bona fide and for value acquired an interest in the property the subject of the application.
 

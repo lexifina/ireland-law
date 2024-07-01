@@ -14,13 +14,13 @@ Unfair preference: effect of winding up on antecedent and other transactions
 
 (2) An act to which this subsection applies, that is done with a view to giving the creditor referred to in subsection (1)(i) or (ii), or any surety or guarantor for the debt due to such creditor, a preference over the other creditors of the company, shall be deemed an unfair preference of its creditors and be invalid accordingly if—
 
-(a) a winding up of the company commences within 6 months after the date of the doing of the act, and
+(a) a winding up of the company commences within 6 months (or such longer period as the court considers just and equitable having regard to the circumstances of the act concerned) after the date of the doing of the act, and
 
 (b) the company is, at the time of the commencement of the winding up, unable to pay its debts (taking into account the contingent and prospective liabilities).
 
 (3) Any conveyance or assignment by a company of all its property to trustees for the benefit of all its creditors shall be void.
 
-(4) An act to which subsection (2) applies in favour of a connected person which was done within 2 years before the commencement of the winding up of the company shall, unless the contrary is shown, be deemed in the event of the company being wound up—
+(4) An act to which subsection (2) applies in favour of a connected person which was done within 2 years (or such longer period as the court considers just and equitable having regard to the circumstances of the act concerned) before the commencement of the winding up of the company shall, unless the contrary is shown, be deemed in the event of the company being wound up—
 
 (a) to have been done with a view to giving such person a preference over the other creditors, and
 

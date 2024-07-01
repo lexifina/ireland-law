@@ -8,6 +8,20 @@ Supplemental provisions in relation to section 593
 
 (2) The one or more persons who have made the statement of affairs of a company under section 593 (the “statement”) shall serve a copy of the statement on the liquidator (or the provisional liquidator, as the case may be) of the company as soon as may be after it is prepared and in any case not later than the expiry of 21 days after the relevant date or such extended time as the court may appoint under section 593(5).
 
+(2A) Notwithstanding the generality of subsection (9), where a copy of the statement is served on the liquidator (or the provisional liquidator, as the case may be) of the company in accordance with subsection (2), the liquidator (or the provisional liquidator, as the case may be) shall, not later than the expiry of 7 days after the date the copy is served on the liquidator (or the provisional liquidator, as the case may be), notify each relevant person that he or she has been served with a copy of the statement.
+
+(2B) Notice under subsection (2A) shall be given—
+
+(a) where the liquidator (or the provisional liquidator, as the case may be) is aware of a relevant person’s email address, by electronic means to that email address, or
+
+(b) where the liquidator (or the provisional liquidator, as the case may be)—
+
+(i) gives notice by electronic means to an email address and receives in response a failed delivery notification, or
+
+(ii) is not aware of a relevant person’s email address, by ordinary post where the liquidator (or the provisional liquidator, as the case may be) is aware of the relevant person’s postal address.
+
+(2C) A relevant person may request the liquidator (or the provisional liquidator, as the case may be) in writing to deliver a copy of the statement by electronic means to him or her, and the liquidator (or the provisional liquidator, as the case may be) shall comply with any such request not later than the expiry of 7 days after the date of such request.
+
 (3) The one or more persons who have made the statement shall—
 
 (a) at the liquidator’s request, provide to the liquidator such information in relation to the company as the liquidator may reasonably require, and
@@ -35,3 +49,9 @@ Supplemental provisions in relation to section 593
 (b) to be furnished with a copy of, or an extract from, it.
 
 (10) Any person, not being a creditor or contributory of a company, who fraudulently states himself or herself to be a creditor or contributory of the company for the purpose of seeking to avail himself or herself of the provisions of subsection (9) shall be guilty of a category 3 offence.
+
+(11) In this section, "relevant person" means, in relation to a company—
+
+(a) an employee of the company, and
+
+(b) where applicable, an employees’ representative.

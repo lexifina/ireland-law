@@ -12,9 +12,13 @@ Related company may be required to contribute to debts of company being wound up
 
 (b) the conduct of the related company towards the creditors of the company being wound up;
 
-(c) the effect which such order would be likely to have on the creditors of the related company concerned.
+(c) the effect which such order would be likely to have on the creditors of the related company concerned;
 
-(5) No order shall be made under this section unless the court is satisfied that the circumstances that gave rise to the winding up of the company are attributable to the acts or omissions of the related company.
+(d) the extent to which the circumstances that gave rise to the winding up of the company are attributable to the acts or omissions of the related company;
+
+(e) such other matters as the court considers appropriate.
+
+(5) ...
 
 (6) Notwithstanding any other provision, it shall not be just and equitable to make an order under this section if the only ground for making the order is—
 

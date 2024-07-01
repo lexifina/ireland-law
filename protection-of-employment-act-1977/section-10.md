@@ -1,6 +1,6 @@
 Obligation on employer to supply certain information.
 
-10.—(1) For the purpose of consultations under section 9, the employer concerned shall supply the employees' representatives with all relevant information relating to the proposed redundancies.
+10.—(1) For the purpose of consultations under section 9, the employer or responsible person concerned shall supply the employees' representatives with all relevant information relating to the proposed redundancies.
 
 (2) Without prejudice to the generality of subsection (1), information supplied under this section shall include the following, of which details shall be given in writing—
 
@@ -22,4 +22,4 @@ Obligation on employer to supply certain information.
 
 (f) the method for calculating any redundancy payments other than those methods set out in the Redundancy Payment Acts, 1967 to 1991, or any other relevant enactment for the time being in force or, subject thereto, in practice.
 
-(3) An employer shall as soon as possible supply the Minister with copies of all information supplied in writing under subsection (2).
+(3) An employer or a responsible person shall as soon as possible supply the Minister with copies of all information supplied in writing under subsection (2).

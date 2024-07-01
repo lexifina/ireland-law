@@ -18,6 +18,8 @@ Powers of court on hearing petition
 
 (ii) the court has heard that Agency in relation to the making of the order.
 
+(2A) In deciding whether it is just and equitable to make an order under this section the court shall have regard to whether the requirements of section 571(1A) have been met.
+
 (3) In subsection (2) “bank asset” and “NAMA group entity” have the same respective meanings as in the National Asset Management Agency Act 2009.
 
 (4) Upon the making of an order to wind up a company, based on a ground referred to in paragraph (a), (b), (c), (e) or (f) of section 569(1), the court may order that the company be wound up as if it were a members’ voluntary winding up and, in such event, the provisions of this Part shall apply as if the company were being so wound up.
