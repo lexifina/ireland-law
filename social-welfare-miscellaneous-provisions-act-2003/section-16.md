@@ -1,0 +1,3 @@
+Amendments to section 2 of Principal Act. (Repealed)
+
+16.—...

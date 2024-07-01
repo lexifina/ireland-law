@@ -1,0 +1,3 @@
+Supplementary welfare allowance — amendment to conditions of entitlement. (Repealed)
+
+13.—...

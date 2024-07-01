@@ -1,0 +1,3 @@
+Conditions for grant of supplementary welfare allowance — amendment. (Repealed)
+
+14.—...
