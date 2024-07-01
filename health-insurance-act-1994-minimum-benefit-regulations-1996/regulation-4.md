@@ -1,0 +1,1 @@
+4. In these Regulations a reference to an article means a reference to an article of these Regulations and a reference to a subarticle means a reference to a subarticle in the article to which it is referred.

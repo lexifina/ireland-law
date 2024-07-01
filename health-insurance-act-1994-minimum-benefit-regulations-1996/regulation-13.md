@@ -1,0 +1,1 @@
+13. The prescribed minimum payment may be made by the registered undertaking either to the health services provider or to the person who effected the health insurance contract under which the recipient of the prescribed health services is an insured person, depending upon the terms of the contract, and subject always to the requirements of section 15 of the Finance Act, 1987.
