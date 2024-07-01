@@ -30,6 +30,4 @@ Investment strategy of institutional investors and arrangements with asset manag
 
 (b) update the matter on an annual basis, unless there is no material change to the matter since it was last updated.
 
-(5) An institutional investor that is regulated by Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) may include the information referred to in subsections (1) and
-
-(2) in its report on solvency and financial condition under Chapter 3 of Part 4 of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015).
+(5) An institutional investor that is regulated by Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) may include the information referred to in subsections (1) and (2) in its report on solvency and financial condition under Chapter 3 of Part 4 of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015).

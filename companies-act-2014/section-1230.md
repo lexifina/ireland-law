@@ -80,9 +80,7 @@ Section 105(2) and (3)
 
 Supplemental provisions in relation to
 
-Section 106(4) section 105
-
-Directors
+Section 106(4) section 105 Directors
 
 Section 128
 
@@ -108,7 +106,9 @@ Section 655 members
 
 Payment of debts due by contributory to the
 
-Section 659 company and extent to which set-off allowed Part 2
+Section 659 company and extent to which set-off allowed
+
+Part 2
 
 Provisions disapplied to PUCs
 
@@ -210,7 +210,9 @@ Section 377
 
 Liability as contributories of past and present
 
-Section 655 members Payment of debts due by contributory to the
+Section 655 members
+
+Payment of debts due by contributory to the
 
 Section 659 company and extent to which set-off allowed
 
