@@ -1,0 +1,1 @@
+sections 7A and 7B (inserted by sections 6 and 7 respectively of the Health Insurance (Amendment) Act 2001 (No. 17 of 2001)) of the Health Insurance Act 1994 (No. 16 of 1994), hereby make the following Regulations:
