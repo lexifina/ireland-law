@@ -1,0 +1,1 @@
+11. The prescribed minimum benefit which a registered undertaking is required to make under sub-paragraphs (3), (5) and (6) of paragraph 1 of Schedule A may be reduced to take into account the effect of any discount, overall limit or like reduction which has been agreed between that registered undertaking and the private hospital concerned.
