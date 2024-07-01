@@ -14,9 +14,9 @@ Qualification of company as medium company: holding company
 
 (4) The qualifying conditions for a medium group are satisfied by a group if, in relation to a financial year, it fulfils 2 or more of the following requirements:
 
-(a) the aggregate amount of turnover of the group does not exceed €40 million net (or €48 million gross);
+(a) the aggregate amount of turnover of the group does not exceed €50 million net (or €60 million gross);
 
-(b) the aggregate balance sheet total of the group does not exceed €20 million net (or €24 million gross);
+(b) the aggregate balance sheet total of the group does not exceed €25 million net (or €30 million gross);
 
 (c) the aggregate average number of employees of the group does not exceed 250.
 

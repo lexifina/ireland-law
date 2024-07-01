@@ -14,9 +14,9 @@ Qualification of company as small company: holding company
 
 (4) The qualifying conditions for a small group are satisfied by a group if, in relation to a financial year, it fulfils 2 or more of the following requirements:
 
-(a) the aggregate amount of turnover of the group does not exceed €12 million net (or €14.4 million gross);
+(a) the aggregate amount of turnover of the group does not exceed €15 million net (or €18 million gross);
 
-(b) the aggregate balance sheet total of the group does not exceed €6 million net (or €7.2 million gross);
+(b) the aggregate balance sheet total of the group does not exceed €7.5 million net (or €9 million gross);
 
 (c) the aggregate average number of employees of the group does not exceed 50.
 

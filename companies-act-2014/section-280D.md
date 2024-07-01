@@ -16,9 +16,9 @@ Qualification of company as micro company
 
 (b) fulfils 2 or more of the following requirements:
 
-(i) the amount of turnover of the company does not exceed €700,000;
+(i) the amount of turnover of the company does not exceed €900,000;
 
-(ii) the balance sheet total of the company does not exceed €350,000;
+(ii) the balance sheet total of the company does not exceed €450,000;
 
 (iii) the average number of employees does not exceed 10.
 

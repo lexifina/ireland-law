@@ -12,9 +12,9 @@ Qualification of company as medium company: general
 
 (3) The qualifying conditions for a medium company are satisfied by a company if, in relation to a financial year, it fulfils 2 or more of the following requirements:
 
-(a) the amount of turnover of the company does not exceed €40 million;
+(a) the amount of turnover of the company does not exceed €50 million;
 
-(b) the balance sheet total of the company does not exceed €20 million;
+(b) the balance sheet total of the company does not exceed €25 million;
 
 (c) the average number of employees does not exceed 250.
 

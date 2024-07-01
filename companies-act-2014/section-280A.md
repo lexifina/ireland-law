@@ -14,9 +14,9 @@ Qualification of company as small company: general
 
 (3) The qualifying conditions for a small company are satisfied by a company if, in relation to a financial year, it fulfils 2 or more of the following requirements:
 
-(a) the amount of turnover of the company does not exceed €12 million;
+(a) the amount of turnover of the company does not exceed €15 million;
 
-(b) the balance sheet total of the company does not exceed €6 million;
+(b) the balance sheet total of the company does not exceed €7.5 million;
 
 (c) the average number of employees does not exceed 50.
 
