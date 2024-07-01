@@ -2,7 +2,7 @@
 
 Obligation on employer to consult employees' representatives.
 
-9.—(1) Where an employer proposes to create collective redundancies he shall, with a view to reaching an agreement, initiate consultations with employees’ representatives ...
+9.—(1) Where an employer or a responsible person proposes to create collective redundancies, he or she shall, with a view to reaching an agreement, initiate consultations with employees’ representatives.
 
 (2) Consultations under this section shall include the following matters—
 
@@ -11,3 +11,5 @@ Obligation on employer to consult employees' representatives.
 (b) the basis on which it will be decided which particular employees will be made redundant.
 
 (3) Consultations under this section shall be initiated at the earliest opportunity and in any event at least 30 days before the first notice of dismissal is given.
+
+(4) Where an employer has initiated consultations with employees’ representatives under this section, a responsible person may continue any consultation so initiated.
