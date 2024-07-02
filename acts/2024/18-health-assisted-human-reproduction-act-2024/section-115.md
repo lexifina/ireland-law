@@ -1,0 +1,5 @@
+Failure to comply with undertakings.
+
+115. (1) Where it appears to the AHRRA that a person (however described) has failed to comply with an undertaking given by the person pursuant to a provision of this Part, the AHRRA shall request the person to inform it as to the reasons for the non compliance and the person’s proposals to ensure that the undertaking is complied with.
+
+(2) Where it appears to the AHRRA that the intending parents (or, in the case of a single intending parent, that intending parent) of a child born as a result of a surrogacy agreement (SJ) have (or, in the case of a single intending parent, has) failed without reasonable excuse to comply with the undertakings given by them or him or her, as the case may be, under section 92, the AHRRA, having considered any information or proposals received from them or him or her under subsection (1), and having consulted with such other authorities of the State as it considers appropriate, may apply to the High Court for directions to ensure the welfare of the child concerned.

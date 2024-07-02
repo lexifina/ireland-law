@@ -1,0 +1,5 @@
+AHR information document (SJ).
+
+83. (1) Subject to subsection (2) and section 84, where the AHRRA approves under section 81(1) a surrogacy jurisdiction as a jurisdiction in which an international surrogacy may be undertaken, it shall, on or before the date specified in the order concerned under section 81(1) as the date on which such approval shall take effect, prepare and publish on its website a document, for each type of AHR treatment (SJ) and in the official language (or one of the official languages) of that jurisdiction and, if that language is not English, also in English and Irish, setting out the basic information that it is satisfied that a person seeking, or potentially seeking, such type of AHR treatment (SJ) ought to know about such treatment.
+
+(2) Where the official language (or one of the official languages) of an approved surrogacy jurisdiction is not English, the AHRRA may publish an AHR information document (SJ) in English and Irish only if it is satisfied that the document is relevant only to the intending parents (or, in the case of a single intending parent, that intending parent) concerned.
