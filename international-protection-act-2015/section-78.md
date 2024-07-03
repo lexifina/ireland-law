@@ -14,9 +14,7 @@ Amendment of Immigration Act 1999
 
 (d) has destroyed his or her identity documents or is in possession of forged identity documents, or
 
-(e) intends to avoid removal from the State, the officer or member may arrest the person without warrant, and a person so arrested may be taken to a place referred to in subsection (3) and detained in the place in accordance with that subsection.
-
-(2) Where a person against whom a deportation order is in force is serving a term of imprisonment in a prison or place of detention, an immigration officer or a member of the Garda Síochána may, immediately on completion by the person of the term of imprisonment, arrest the person without warrant and detain him or her in accordance with subsection (3).
+(e) intends to avoid removal from the State, the officer or member may arrest the person without warrant, and a person so arrested may be taken to a place referred to in subsection (3) and detained in the place in accordance with that subsection. (2) Where a person against whom a deportation order is in force is serving a term of imprisonment in a prison or place of detention, an immigration officer or a member of the Garda Síochána may, immediately on completion by the person of the term of imprisonment, arrest the person without warrant and detain him or her in accordance with subsection (3).
 
 (3) A person who is arrested and detained under subsection (1) or (2) may be detained—
 
