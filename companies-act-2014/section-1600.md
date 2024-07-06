@@ -1,0 +1,5 @@
+Single electronic reporting format of directors’ report of applicable companies
+
+1600. (1) The directors of an applicable company subject to the requirements of section 1590 shall prepare the directors’ report in the electronic reporting format specified in Article 3 of Delegated Regulation (EU) 2019/815 and shall mark-up the sustainability reporting, including the disclosures provided for in Article 8 of Regulation (EU) 2020/852, in accordance with the electronic reporting format specified in Delegated Regulation (EU) 2019/815.
+
+(2) The directors of an applicable holding company subject to the requirements of section 1596 shall prepare the group directors’ report in the electronic reporting format specified in Article 3 of Delegated Regulation (EU) 2019/815 and shall mark-up the consolidated sustainability reporting, including the disclosures provided for in Article 8 of Regulation (EU) 2020/852, in accordance with the electronic reporting format specified in Delegated Regulation (EU) 2019/815.

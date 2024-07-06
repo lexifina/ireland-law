@@ -6,7 +6,7 @@ Board of directors
 
 (b) the person holding the office of chief executive officer who, by virtue of that office, is a director.
 
-(2) Subject to subsections (2A) and (2B) and a regulation under section 943(1)(c), the directors appointed by the Minister shall, on and from the commencement of this section, include—
+(2) Subject to subsections (2A), (2B) and (2C) and a regulation under section 943(1)(c), the directors appointed by the Minister shall, on and from the commencement of this section, include—
 
 (a) subject to paragraphs (b) and (c), 2 persons, each of whom is nominated by the prescribed accountancy bodies by a decision taken by a majority of those bodies,
 
@@ -26,7 +26,7 @@ Board of directors
 
 (e) for each designated body, one person nominated by that body.
 
-(2A) On and from 17 June 2016, the Minister shall not appoint a person under subsection (2) as a director unless the Minister is satisfied that the person is knowledgeable in at least one area relevant to the conduct of statutory audits as specified in Schedule 19.
+(2A) On and from 17 June 2016, the Minister shall not appoint a person under subsection (2) as a director unless the Minister is satisfied that the person is knowledgeable in at least one area relevant to the conduct of statutory audits as specified in Schedule 19 and, as appropriate, at least one area relevant to the assurance of sustainability reporting as specified in Schedule 23.
 
 (2B) On and from 17 June 2016, the Minister shall not appoint a person as a director under subsection (2) if the person—
 
@@ -49,6 +49,12 @@ Board of directors
 (iii) was a director or member of an audit firm, or
 
 (iv) was employed by or otherwise contracted with an audit firm.
+
+(2C) On and from 6 July 2024, the Minister shall not appoint a person under subsection (2) as a director if the person –
+
+(a) on the proposed date of his or her appointment as a director carries out the assurance of sustainability reporting, or
+
+(b) has, at any time during the 3 years immediately preceding the proposed date of his or her appointment as a director, carried out the assurance of sustainability reporting.
 
 (3) For the purposes of subsection (2)—
 

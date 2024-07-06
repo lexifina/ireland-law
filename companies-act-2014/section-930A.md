@@ -1,10 +1,10 @@
 Designation of competent authority
 
-930A. (1) Subject to subsection (2), the Supervisory Authority is designated as the competent authority for the oversight of statutory auditors in accordance with the Audit Directive and Regulation (EU) No 537/2014.
+930A. (1) Subject to subsection (2), the Supervisory Authority is designated as the competent authority for the oversight of statutory auditors, including statutory auditors approved under Part 28 to carry out the assurance of sustainability reporting, in accordance with the Audit Directive and Regulation (EU) No 537/2014.
 
 (2) Subject to subsection (4), the Corporate Enforcement Authority is designated as the competent authority for the purpose of imposing relevant sanctions (within the meaning of section 944Z) on relevant directors.
 
-(3) The Supervisory Authority is designated as the competent authority for the purposes of public oversight, quality assurance (if applicable), investigations and penalties of third-country auditors and third-country audit entities (within the meaning of Part 27) registered under section 1573(1).
+(3) The Supervisory Authority is designated as the competent authority for the purposes of public oversight, quality assurance (if applicable), investigations and penalties of third-country auditors and third-country audit entities (within the meaning of Part 27) registered under section 1573(1) or section 1641.
 
 (4) (a) Subject to paragraph (b), to the extent that the Corporate Enforcement Authority is a competent authority by virtue of subsection (2), a reference in this Chapter (other than this section) and Part 27 to the Supervisory Authority shall include a reference to the Corporate Enforcement Authority.
 

@@ -1,6 +1,6 @@
 Operation of certain provisions with regard to particular recognised accountancy bodies
 
-930C. (1) Section 1461 applies to the interpretation of this section as it applies to the interpretation of Part 27.
+930C. (1) Subject to section 900(1A), section 1461 applies to the interpretation of this section as it applies to the interpretation of Part 27.
 
 (2) This section applies where the provision referred to in subsection (3), (4), (5) or (6) uses the expression "recognised accountancy body" without qualification and that provision does not, by its express terms, itself indicate which recognised accountancy body is being referred to.
 

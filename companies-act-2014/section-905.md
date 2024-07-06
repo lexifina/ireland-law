@@ -22,37 +22,41 @@ Functions of Supervisory Authority
 
 (e) impose under section 933 sanctions on prescribed accountancy bodies in relation to enquiries referred to in paragraph (d),
 
-(ea) conduct under section 933 enquiries into whether a recognised accountancy body has complied with the applicable provisions in performing a Part 27 function,
+(ea) conduct under section 933 enquiries into whether a recognised accountancy body has complied with the applicable provisions in performing a Part 27 function or a Part 28 function,
 
 (eb) impose under section 933 sanctions on recognised accountancy bodies in relation to enquiries referred to in paragraph (ea),
 
 (f) undertake under section 934 investigations into possible breaches of the standards of a prescribed accountancy body by a member of that body,
 
-(fa) undertake under section 934 investigations into possible contraventions of a provision of section 336 or 337, Part 27 or Regulation (EU) No 537/2014 by a statutory auditor,
+(fa) undertake under section 934 investigations into possible contraventions of a provision of section 336 or 337,Part 27, Part 28 or Regulation (EU) No 537/2014 by a statutory auditor,
 
 (fb) impose under section 934 sanctions on members of prescribed accountancy bodies and statutory auditors for relevant contraventions committed by such members,
 
-(g) supervise how each recognised accountancy body monitors its members and statutory auditors for which the recognised accountancy body has responsibility by virtue of performing a Part 27 function,
+(g) supervise how each recognised accountancy body monitors its members and statutory auditors for which the recognised accountancy body has responsibility by virtue of performing a Part 27 function or Part 28 function,
 
 (h) ...
 
-(i) monitor the effectiveness of provisions of Part 27 and Regulation (EU) No 537/2014 relating to the independence of statutory auditors,
+(i) monitor the effectiveness of provisions of Part 27, Part 28 and Regulation (EU) No 537/2014 relating to the independence of statutory auditors,
 
 (ia) monitor developments in the market for audit services to public-interest entities as required by Regulation (EU) No 537/2014,
 
 (j) supervise the investigation and disciplinary procedures of each prescribed accountancy body, including by requiring access to its records and by requiring explanations about the performance of its regulatory and monitoring duties,
 
-(k) co-operate with the prescribed accountancy bodies and other interested parties in developing auditing and accounting standards and practice notes,
+(k) co-operate with the prescribed accountancy bodies and other interested parties in developing auditing and accounting standards and practice notes, and sustainability reporting and assurance standards,
 
 (l) ...
 
-(m) perform the functions conferred on it by transparency (regulated markets) law (within the meaning of Chapter 4 of Part 23) in respect of the matters referred to in Article 24(4)(h) of the Transparency (Regulated Markets) Directive (within the meaning of that Chapter),
+(m) perform the functions conferred on it by transparency (regulated markets) law (within the meaning of Chapter 4 of Part 23) in respect of the matters referred to in Article 24(4)(h) of the Transparency (Regulated Markets) Directive (within the meaning of that Chapter) including sustainability reporting in accordance with the Accounting Directive,
 
 (ma) adopt auditing standards for the purposes of Part 27 and Regulation (EU) No 537/2014,
 
-(n) oversee, in accordance with Part 27 and Regulation (EU) No 537/2014, the performance of (and, where permitted by that Part, that Regulation or any other Part of this Act (including this Part), perform) the following functions with respect to statutory auditors:
+(mb) adopt assurance standards for the purposes of Part 28,
+
+(n) oversee, in accordance with Part 27, Part 28 and Regulation (EU) No 537/2014, the performance of (and, where permitted by either of those Parts, that Regulation or any other Part of this Act (including this Part), perform) the following functions with respect to statutory auditors:
 
 (i) the approval and registration of statutory auditors (including the registration of Member State audit firms);
+
+(ia) the approval and registration of statutory auditors (including the registration of Member State audit firms) to carry out the assurance of sustainability reporting under Part 28;
 
 (ii) continuing education;
 
@@ -66,9 +70,9 @@ Functions of Supervisory Authority
 
 (3) The Supervisory Authority shall—
 
-(a) cooperate with competent authorities in other Member States to achieve the convergence of the educational qualifications required for the approval of an individual as a statutory auditor,
+(a) cooperate with competent authorities in other Member States to achieve the convergence of the educational qualifications required for the approval of an individual as a statutory auditor and approval to carry out the assurance of sustainability reporting under Part 28,
 
-(b) when engaging in such operation, take into account developments in auditing and the audit profession and, in particular, convergence that has already been achieved by the profession, and
+(b) when engaging in such operation, take into account developments in auditing, the audit profession and the assurance of sustainability reporting and, in particular, convergence that has already been achieved by the profession, and
 
 (c) cooperate with the Committee of European Auditing Oversight Bodies (in this Chapter referred to as "CEAOB") established under Article 30 of Regulation (EU) No 537/2014 and the competent authorities referred to in Article 20 of that Regulation in so far as such convergence relates to the statutory audit of public-interest entities.
 

@@ -22,11 +22,11 @@ Provisions in relation to recognition by Supervisory Authority under section 930
 
 (5) Without prejudice to the generality of subsection (2), a section 931 notice may—
 
-(a) direct the body concerned (including a body referred to in section 930(2)) to cease, or again cease, performing the Part 27 function specified in the notice, either (as specified in the notice) in all cases or in a particular case, on and from the date, or the occurrence of the event, specified in that notice,
+(a) direct the body concerned (including a body referred to in section 930(2)) to cease, or again cease, performing the Part 27 function or Part 28 function specified in the notice, either (as specified in the notice) in all cases or in a particular case, on and from the date, or the occurrence of the event, specified in that notice,
 
-(b) direct the body concerned to commence, or again commence, performing the Part 27 function specified in the notice, either (as specified in the notice) in all cases or in a particular case, on and from the date, or the occurrence of the event, specified in that notice (and notwithstanding any case where the body’s recognition under section 930 does not otherwise permit it to perform that function), or
+(b) direct the body concerned to commence, or again commence, performing the Part 27 function or Part 28 function specified in the notice, either (as specified in the notice) in all cases or in a particular case, on and from the date, or the occurrence of the event, specified in that notice (and notwithstanding any case where the body’s recognition under section 930 does not otherwise permit it to perform that function), or
 
-(c) attach terms and conditions to the relevant recognition that relate to the performance by the body concerned of a Part 27 function, either (as specified in the notice) in all cases or in a particular case.
+(c) attach terms and conditions to the relevant recognition that relate to the performance by the body concerned of a Part 27 function or Part 28 function, either (as specified in the notice) in all cases or in a particular case.
 
 (6) (a) Subject to paragraph (b), the Supervisory Authority shall not give a section 931 notice, or a notice under subsection (4), to the body concerned unless, in the interests of procedural fairness, it has first—
 

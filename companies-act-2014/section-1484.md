@@ -2,7 +2,7 @@
 
 Public Register
 
-1484. (1) Subject to subsection (2) and sections 887(2), 934C(2)(h), 1506(1)(h), 1573 and 1575, the Registrar shall maintain a particular register (in this Part referred to as the "public register") which shall contain the information set out in Schedule 20 in relation to—
+1484. (1) Subject to subsection (2) and sections 887(2), 934C(2)(h), 1506(1)(h), 1573, 1575, 1636 and 1641, the Registrar shall maintain a particular register (in this Part referred to as the "public register") which shall contain the information set out in Schedule 20 in relation to—
 
 (a) statutory auditors and audit firms (other than audit firms which fall within paragraph (b) of the definition of "statutory audit firm"),
 

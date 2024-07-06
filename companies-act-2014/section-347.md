@@ -1,6 +1,6 @@
 Documents to be annexed to annual return: all cases
 
-347. (1) Subject to the provisions of this Part, there shall be annexed to the annual return a copy of the following documents that have been, or are to be, laid before the relevant general meeting:
+347. (1) Subject to the provisions of this Part and Part 28, there shall be annexed to the annual return a copy of the following documents that have been, or are to be, laid before the relevant general meeting:
 
 (a) the statutory financial statements of the company;
 

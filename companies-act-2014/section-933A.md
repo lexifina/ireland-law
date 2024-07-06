@@ -6,7 +6,7 @@ Resolution of suspected non-compliance by agreement - relevant body
 
 (a) if the relevant body falls within paragraph (a) of the definition of "relevant body", that the body did not comply with the approved investigation and disciplinary procedures, or
 
-(b) if the relevant body falls within paragraph (b) of the definition of "relevant body", that the body did not comply with the applicable provisions in performing the Part 27 function, the Supervisory Authority and the relevant body may, at their absolute discretion, enter into an agreement (in this section referred to as a "section 933A agreement") to resolve the matters the subject of the non-compliance.
+(b) if the relevant body falls within paragraph (b) of the definition of "relevant body", that the body did not comply with the applicable provisions in performing the Part 27 function or Part 28 function, the Supervisory Authority and the relevant body may, at their absolute discretion, enter into an agreement (in this section referred to as a "section 933A agreement") to resolve the matters the subject of the non-compliance.
 
 (3) The following provisions shall apply to the section 933A agreement:
 

@@ -14,7 +14,7 @@ Interpretation (Chapter 2)
 
 “amount of turnover” has the same meaning as it has in section 275;
 
-"applicable provisions", in relation to a Part 27 function and a recognised accountancy body, means, in addition to the provision of this Act that confers that function—
+"applicable provisions", in relation to a Part 27 function or, where applicable, a Part 28 function and a recognised accountancy body, means, in addition to the provision of this Act that confers that function—
 
 (a) any other provisions of this Act or of a statutory instrument made under this Act,
 
@@ -23,6 +23,10 @@ Interpretation (Chapter 2)
 (c) the provisions of Regulation (EU) No 537/2014 that are relevant to that function, and
 
 (d) the provisions of any rule, guideline, term or condition, relevant obligation, or direction, referred to in section 906 that are relevant to that function, in accordance with which that function shall be performed by that body;
+
+"assurance of sustainability reporting" has the same meaning as it has in Part 28;
+
+"assurance report" has the meaning assigned to it by section 1613;
 
 "Audit Directive" has the meaning assigned to it by Part 27;
 
@@ -62,6 +66,8 @@ Interpretation (Chapter 2)
 
 "Part 27 function" means a function conferred on a recognised accountancy body by a provision of Part 27 or of Schedule 19 or 20;
 
+"Part 28 function" means a function conferred on a recognised accountancy body by a provision of Part 28 or Schedule 23 or 24;
+
 “prescribed accountancy body” means—
 
 (a) a recognised accountancy body; or
@@ -84,7 +90,7 @@ Interpretation (Chapter 2)
 
 (i) section 336 or 337,
 
-(ii) Part 27, or
+(ii) Part 27 or, where applicable, Part 28, or
 
 (iii) Regulation (EU) No 537/2014;
 
@@ -102,7 +108,7 @@ Interpretation (Chapter 2)
 
 (a) this Chapter,
 
-(b) Part 27, and
+(b) Part 27 and, where applicable, Part 28, and
 
 (c) Regulation (EU) No 537/2014;
 
@@ -131,6 +137,10 @@ Interpretation (Chapter 2)
 “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
 
 “Supervisory Authority” means the Irish Auditing and Accounting Supervisory Authority.
+
+"sustainability reporting" has the same meaning as it has in Part 28;
+
+(1A) In this Chapter, a reference to a statutory auditor includes a statutory auditor who is approved under Part 28 to carry out the assurance of sustainability reporting.
 
 (2) In this Chapter, “material interest” is to be read in accordance with section 2(3) of the Ethics in Public Office Act 1995.
 

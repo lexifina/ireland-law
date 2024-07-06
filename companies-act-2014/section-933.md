@@ -32,7 +32,7 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (c) any other decision of that body relating to a possible breach of its standards by a member, unless the matter is or has been the subject of an investigation under section 934 relating to that member.
 
-(3) The Supervisory Authority may, for the purpose of determining whether a recognised accountancy body has complied with the applicable provisions in performing a Part 27 function, enquire into the performance by the body of that function (including, where applicable, enquire into the conduct by that body of an investigation into the conduct of a member of that body).
+(3) The Supervisory Authority may, for the purpose of determining whether a recognised accountancy body has complied with the applicable provisions in performing a Part 27 function or Part 28 function, enquire into the performance by the body of that function (including, where applicable, enquire into the conduct by that body of an investigation into the conduct of a member of that body).
 
 (4) For the purposes of an enquiry under this section, the Supervisory Authority may—
 
@@ -40,7 +40,7 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (b) if the relevant body falls within paragraph (a) of the definition of "relevant body", require the body to explain why it reached a decision referred to in subsection (2)(a) or (c) or explain how it conducted its investigation, or
 
-(c) if the relevant body falls within paragraph (b) of the definition of "relevant body", require the body to explain how it complied (if it in fact did comply) with the applicable provisions in performing the Part 27 function concerned (and, also, to explain how it conducted an investigation referred to in subsection (3) if the conduct of that investigation is, in the opinion of the Supervisory Authority, relevant to the enquiry).
+(c) if the relevant body falls within paragraph (b) of the definition of "relevant body", require the body to explain how it complied (if it in fact did comply) with the applicable provisions in performing the Part 27 function or Part 28 function concerned (and, also, to explain how it conducted an investigation referred to in subsection (3) if the conduct of that investigation is, in the opinion of the Supervisory Authority, relevant to the enquiry).
 
 (5) If at any time before completing an enquiry under this section into a matter relating to a member of a relevant body, the Supervisory Authority forms the opinion that it is appropriate or in the public interest that a matter be investigated under section 934 as regards a possible relevant contravention committed by a specified person, the Authority may apply to the court for permission to investigate the matter under that section.
 
@@ -48,7 +48,7 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (i) if the relevant body falls within paragraph (a) of the definition of "relevant body", that the body complied with the approved investigation and disciplinary procedures, or
 
-(ii) if the relevant body falls within paragraph (b) of the definition of "relevant body", that the body complied with the applicable provisions in performing the Part 27 function.
+(ii) if the relevant body falls within paragraph (b) of the definition of "relevant body", that the body complied with the applicable provisions in performing the Part 27 function or Part 28 function.
 
 (b) Subject to section 941(4) and (4A), the Supervisory Authority may advise, or admonish, the relevant body or may censure it by doing one or more of the following:
 
@@ -86,7 +86,7 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (a) if the relevant body falls within paragraph (a) of the definition of "relevant body", complied with the approved investigation and disciplinary procedures, or
 
-(b) if the relevant body falls within paragraph (b) of the definition of "relevant body", complied with the applicable provisions in performing the Part 27 function, the Supervisory Authority may appeal to the court against any decision of the relevant body relating to the matter.
+(b) if the relevant body falls within paragraph (b) of the definition of "relevant body", complied with the applicable provisions in performing the Part 27 function or Part 28 function, the Supervisory Authority may appeal to the court against any decision of the relevant body relating to the matter.
 
 (13) An appeal under subsection (12) shall be brought within 3 months after the date on which the Supervisory Authority was notified by the relevant body of its decision.
 

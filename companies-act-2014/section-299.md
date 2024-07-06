@@ -22,7 +22,7 @@ Exemption from consolidation: holding company that is subsidiary undertaking of 
 
 (b) those accounts are drawn up and audited and the group’s consolidated annual report is drawn up in accordance with—
 
-(i) the provisions of the Accounting Directive, or
+(i) the provisions of the Accounting Directive, other than the requirements laid down in Article 29a of that Directive, or
 
 (ii) international financial reporting standards,
 

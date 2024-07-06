@@ -12,7 +12,11 @@ Sanctions which Supervisory Authority may impose on statutory auditor for releva
 
 (d) a declaration by the Supervisory Authority that the statutory auditors’ report concerned does not meet the requirements of section 336 or 337 or, where applicable, Article 10 of Regulation (EU) No 537/2014;
 
+(da) a declaration by the Supervisory Authority that the assurance report concerned does not meet the requirements of section 1613;
+
 (e) a direction by the Supervisory Authority to the specified person (being any one or more of a statutory auditor or key audit partner (within the meaning of Part 27)) prohibiting him or her, for the period specified in the direction (which may be up to and including an indefinite period), from carrying out statutory audits or signing statutory auditors’ reports, or both;
+
+(ea) a direction by the Supervisory Authority to the specified person (being a statutory auditor approved under Part 28 or a key sustainability partner (within the meaning of that Part)) prohibiting him or her, for the period specified in the direction (which may be up to and including a period of three years), from carrying out the assurance of sustainability reporting or signing assurance reports, or both;
 
 (f) if the specified person is an audit firm, a direction by the Supervisory Authority to the firm, or to an officer, member or partner of the firm, or to both, prohibiting the firm or, as the case may be, the officer, member or partner, for the period specified in the direction (which may be up to and including an indefinite period) from performing functions—
 
@@ -26,7 +30,11 @@ Sanctions which Supervisory Authority may impose on statutory auditor for releva
 
 (ii) in the case of a specified person which is an audit firm, €100,000 multiplied by the number of statutory auditors in the firm at the time that the relevant contravention occurred (and irrespective of whether any particular statutory auditor was or was not a party to the relevant contravention), to the Supervisory Authority;
 
-(h) an order excluding the specified person from having his or her particulars entered, or continuing to be entered, in the public register (within the meaning of Part 27) in respect of one or more recognised accountancy bodies.
+(h) an order excluding the specified person from having his or her particulars entered, or continuing to be entered, in the public register (within the meaning of
+
+Part
+
+27) in respect of one or more recognised accountancybodies or from having his or her particulars entered, or continuing to be entered, in the public register in relation to his or her approval under Part 28 to carry out the assurance of sustainability reporting.
 
 (3) In default of payment of an amount referred to in subsection (2)(g), the Supervisory Authority may recover that amount as a simple contract debt in any court of competent jurisdiction.
 

@@ -42,7 +42,7 @@ Statutory auditors' report on statutory financial statements
 
 (i) the information given in the directors’ report for the financial year for which statutory financial statements are prepared is consistent with the company’s statutory financial statements in respect of the financial year concerned, and
 
-(ii) the directors’ report has been prepared in accordance with applicable legal requirements, and
+(ii) the directors’ report has been prepared in accordance with applicable legal requirements, excluding the requirements on sustainability reporting in Part 28, and
 
 (b) state whether, based on their knowledge and understanding of the company and its environment obtained in the course of the audit, they have identified material misstatements in the directors’ report and, where they have so identified such misstatements, give an indication of the nature of each of such misstatements.
 
