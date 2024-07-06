@@ -1,6 +1,6 @@
 SCHEDULE 21
 
-Section 1110O
+SECTION 1110O
 
 Class tests
 

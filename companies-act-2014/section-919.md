@@ -1,6 +1,6 @@
 Reserve fund
 
-919. (1) The reserve fund established under section 15(1) of the Act of 2003 shall continue in being and continue to be maintained by the Supervisory Authority but subject to any limit specified by the Minister under that provision or that limit as it may stand amended under subsection (2).
+919. (1) The reserve fund establi9.30shed under section 15(1) of the Act of 2003 shall continue in being and continue to be maintained by the Supervisory Authority but subject to any limit specified by the Minister under that provision or that limit as it may stand amended under subsection (2).
 
 (2) The Minister may amend the limit referred to in subsection (1).
 

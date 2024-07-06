@@ -2,7 +2,7 @@ SCHEDULE 22
 
 Section 944C
 
-Corporate Enforcement Authority
+CORPORATE ENFORCEMENT AUTHORITY
 
 1. The Authority shall be a body corporate with perpetual succession and an official seal and shall have power to sue, and may be sued, in its corporate name and shall, with the consent of the Minister and the Minister for Public Expenditure and Reform, have the power to acquire, hold and dispose of land or an interest in land, and shall have the power to acquire, hold and dispose of any other property.
 
@@ -32,4 +32,4 @@ Corporate Enforcement Authority
 
 (b) a member of the European Parliament, or
 
-(c) entitled under the standing orders of a local authority to sit as a member thereof, shall, while he or she is so entitled as mentioned in clause (a) or (c) or is such a member as mentioned in clause (b), be disqualified for membership of the Authority or for employment in any capacity by the Authority. Number 38 of
+(c) entitled under the standing orders of a local authority to sit as a member thereof, shall, while he or she is so entitled as mentioned in clause (a) or (c) or is such a member as mentioned in clause (b), be disqualified for membership of the Authority or for employment in any capacity by the Authority.
