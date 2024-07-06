@@ -1,8 +1,6 @@
 Supplementary power to compel production of books or documents in relation to certain banking transactions
 
-755. (1) This section applies if an inspector appointed under section 747(1) or 748(1) has reasonable grounds for believing that a director (the
-
-“director”) of the company or related body corporate under investigation maintains or has maintained a bank account of any description, whether alone or jointly with another person and whether in the State or elsewhere, into or out of which there has been paid money described in subsection (2).
+755. (1) This section applies if an inspector appointed under section 747(1) or 748(1) has reasonable grounds for believing that a director (the “director”) of the company or related body corporate under investigation maintains or has maintained a bank account of any description, whether alone or jointly with another person and whether in the State or elsewhere, into or out of which there has been paid money described in subsection (2).
 
 (2) The money referred to in subsection (1) is—
 

@@ -12,7 +12,9 @@ Remedy in case of oppression
 
 (3) The orders which a court may so make include an order—
 
-(a) directing or prohibiting any act or cancelling or varying any transaction; (b) for regulating the conduct of the company’s affairs in future;
+(a) directing or prohibiting any act or cancelling or varying any transaction;
+
+(b) for regulating the conduct of the company’s affairs in future;
 
 (c) for the purchase of the shares of any members of the company by other members of the company or by the company and, in the case of a purchase by the company, for the reduction accordingly of the company's capital; and
 

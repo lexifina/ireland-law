@@ -88,8 +88,6 @@ Custody and control of property and disposal of perishables, etc.
 
 (b) dispose of perishable goods and other goods the value of which is likely to diminish if they are not immediately disposed of;
 
-(c) do all such other things as may be necessary for the protection of the company’s property.
-
-Residual power.
+(c) do all such other things as may be necessary for the protection of the company’s property. Residual power.
 
 10. Power to do all such other things as may be necessary for winding up the affairs of the company and distributing its property.
