@@ -44,9 +44,7 @@ C is an amount determined by the formula
 
 D x (E + F) where
 
-D is the annual rate on valuation that was levied by the rating authority for the preceding year pursuant to section 3 of the Local Government Rates and Other Matters Act 2019,
-
-E is the aggregate valuation of relevant properties in the area that, pursuant to the exercise of a revision officer’s powers under section 28(4)(b) of this Act, were included on the valuation list for the preceding year, as that list was amended for that area in relation to those properties under section 28(10),
+D is the annual rate on valuation that was levied by the rating authority for the preceding year pursuant to section 3 of the Local Government Rates and Other Matters Act 2019, E is the aggregate valuation of relevant properties in the area that, pursuant to the exercise of a revision officer’s powers under section 28(4)(b) of this Act, were included on the valuation list for the preceding year, as that list was amended for that area in relation to those properties under section 28(10),
 
 F is the aggregate of the increases, if any, in valuations for relevant properties in the area that occurred during the preceding year pursuant to the exercise of a revision officer’s powers under section 28(4)(a) and which exercise resulted in amendments to the valuation list for that preceding year in accordance with section 28(10),
 
