@@ -1,4 +1,4 @@
-F25[Application for visa: taking of fingerprints
+F27[Application for visa: taking of fingerprints
 
 17A.—(1) The Minister or an immigration officer, where he or she considers it necessary for the purpose of ensuring the integrity of the immigration system or the operation of an arrangement relating to the Common Travel Area, may take or cause to be taken the fingerprints of a person for the purpose of the person’s application for an Irish visa or an Irish transit visa.
 

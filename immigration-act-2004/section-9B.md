@@ -1,4 +1,4 @@
-F18[Registration officers
+F19[Registration officers
 
 9B.—(1) The Minister may appoint such and so many persons as he or she considers appropriate (referred to in this Act as "registration officers"), being—
 
