@@ -52,7 +52,15 @@ Regulations (Part 2).
 
 (iv) adoption;
 
-(v) occupational injuries; the inclusion of certain money amounts as referable amounts for the purpose of the calculation of benefits sections that would, in the opinion of the Minister, be appropriate having regard to some or all of any shortfall in pensionable remuneration of the member during the period of receipt of such benefit by him or her under the Social Welfare Consolidation Act 2005;
+(v) occupational injuries;
+
+(vi) parent’s benefit;
+
+(vii) paternity benefit;
+
+(viii) such other benefits under that Part as may be prescribed under paragraph (ea); the inclusion of certain money amounts as referable amounts for the purpose of the calculation of benefits sections that would, in the opinion of the Minister, be appropriate having regard to some or all of any shortfall in pensionable remuneration of the member during the period of receipt of such benefit by him or her under the Social Welfare Consolidation Act 2005;
+
+(ea) where a Scheme member is or has been in receipt of a benefit under the Social Welfare Consolidation Act 2005 other than a benefit referred to in paragraph (e), the inclusion of certain money amounts as referable amounts for the purpose of the calculation of benefits sections that would, in the opinion of the Minister after consultation with the Minister for Social Protection, be appropriate having regard to some or all of any shortfall in pensionable remuneration of the member during the period of receipt of such benefit by him or her under the Social Welfare Consolidation Act 2005;
 
 (f) the inclusion of certain money amounts as referable amounts for the purposes of the calculation of benefits sections, including but not limited to transfer arrangements.
 
