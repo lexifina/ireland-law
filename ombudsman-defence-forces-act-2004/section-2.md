@@ -31,3 +31,11 @@ Appointment of Ombudsman.
 (8) In respect of any person who is not a new entrant (within the meaning of the Public Service Superannuation (Miscellaneous Provisions) Act 2004) the Minister may, with the consent of the Minister for Finance, prescribe the age at which such a person shall vacate office pursuant to subsection (4)(c).
 
 (9) A person who holds the office of Ombudsman shall not be a member of the Defence Forces or a civil servant.
+
+(10) A person is not eligible to be appointed under subsection (2) if he or she is or has been at any time during the period of 5 years immediately prior to the closing date to apply under a competition to be the Ombudsman—
+
+(a) a member of the Defence Forces,
+
+(b) a civil servant (within the meaning of the Civil Service Regulation Act 1956) in the Department of Defence, or
+
+(c) a civilian employed by the Minister under section 30(1)(g) of the Act of 1954.

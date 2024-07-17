@@ -2,13 +2,13 @@
 
 Regulations as to pay, allowances and gratuities of members of the Defence Forces.
 
-97.—(1) The Minister may make regulations in relation to the following matters—
+97.—(1)The Minister shall, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, determine the rates and scales of pay, allowances and gratuities of members of the Defence Forces which shall be published on a website maintained by or on behalf of the Minister.
 
-(a) the rates and scales of pay, allowances and gratuities of members of the Defence Forces,
+(1A) The Minister may make regulations in relation to the following matters:
 
-(b) the grants which may be made to members and units of the Defence Forces,
+(a) the conditions applicable to the issue of pay, allowances and gratuities of members of the Defence Forces;
 
-(c) the conditions applicable to the issue of such pay, allowances, gratuities and grants.
+(b) the grants which may be made to members and units of the Defence Forces and the conditions applicable to the issue of such grants.
 
 (2) (a) The Minister may, with the consent of the Minister for Finance, make regulations in relation to the following matters—
 
@@ -52,4 +52,4 @@ Regulations as to pay, allowances and gratuities of members of the Defence Force
 
 (3) Any forfeiture or deduction made under subsection (2) of this section may be remitted by the Minister in whole or in part.
 
-(4) References to pay, allowances, gratuities or grants in this Chapter shall be construed as references to pay, allowances, gratuities or grants payable under regulations made under subsection (1) of this section.
+(4) References to pay, allowances, gratuities or grants in this Chapter shall be construed as references to pay, allowances, gratuities or grants payable as determined by the Minister under subsection (1).

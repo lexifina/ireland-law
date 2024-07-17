@@ -4,7 +4,13 @@ Charges against officers and other specified persons.
 
 (a) as an officer, or
 
-(b) as a non-commissioned officer in the rank of sergeant major or battalion quarter-master sergeant or their equivalent naval ranks, shall, subject to the giving of a notice under section 177A, in accordance with regulations made under section 184, be investigated by the person’s commanding officer or, if the Deputy Chief of Staff (Support) so directs, by such officer as the Deputy Chief of Staff (Support) may appoint for the purpose.
+(b) as a non-commissioned officer in the rank of sergeant major or battalion quarter-master sergeant or their equivalent naval ranks, shall, subject to the giving of a notice under section 177A, in accordance with regulations made under section 184, be investigated by the person’s commanding officer or, subject to subsection (1A), if the Deputy Chief of Staff (Support) so directs, by such officer as the Deputy Chief of Staff (Support) may appoint for the purpose.
+
+(1A) The Chief of Staff may, where the circumstances so require—
+
+(a) appoint an officer to investigate a charge for the purpose of subsection (1), or
+
+(b) direct the Deputy Chief of Staff (Operations) to appoint an officer for the said purpose.
 
 (2) (a) Where a person is charged with a scheduled offence, the officer investigating the charge under subsection (1) of this section shall—
 

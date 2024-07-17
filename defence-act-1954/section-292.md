@@ -1,6 +1,6 @@
 Regulations in relation to the Army Nursing Service.
 
-292.—The Minister may make regulations in respect of the Army Nursing Service in relation to all or any of the following matters, that is to say:—
+292.—(1) The Minister may make regulations in respect of the Army Nursing Service in relation to all or any of the following matters, that is to say:—
 
 (a) the organisation, command and administration thereof;
 
@@ -18,8 +18,10 @@ Regulations in relation to the Army Nursing Service.
 
 (h) the uniform to be worn by members thereof;
 
-(i) the pay and allowances of members thereof, and the forfeitures and stoppages of, and the deductions from, such pay and allowances which may be made;
+(i) the conditions applicable to the issue of pay and allowances of members thereof, and the forfeitures and stoppages of, and the deductions from, such pay and allowances which may be made;
 
 (j) the leave of members thereof;
 
 (k) any other matter or thing relating to the internal management thereof.
+
+(2) The Minister shall, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, determine the rates and scales of pay and allowances of members of the Army Nursing Service which shall be published on a website maintained by or on behalf of the Minister.

@@ -10,6 +10,12 @@ Relinquishment of commissions by officers of the Reserve Defence Force.
 
 (5) An officer whose appointment as an officer is for a specified period shall relinquish his commission on the expiration of that period.
 
-(6) An officer who becomes a member of either House of the Oireachtas or who assumes the office of representative in the Assembly of the European Communities shall thereupon relinquish his commission.
+(6) An officer shall relinquish his or her commission if he or she—
+
+(a) is elected as a member of either House of the Oireachtas or the European Parliament,
+
+(b) is nominated as a member of Seanad Éireann, or
+
+(c) is regarded under Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament.
 
 (7) An officer who relinquishes his commission shall cease to be an officer.

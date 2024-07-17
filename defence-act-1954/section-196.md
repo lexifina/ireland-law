@@ -1,6 +1,6 @@
 Counsel at courts-martial.
 
-196.—(1) The prosecutor at a court-martial may be represented by counsel.
+196.—(1) The Director at a court-martial may be represented by counsel.
 
 (2) Any person being tried by a court-martial may be represented by counsel or, if not represented by counsel, by an officer subject to military law.
 
