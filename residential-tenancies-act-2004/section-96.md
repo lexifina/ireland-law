@@ -19,5 +19,3 @@
 (ii) the dispute is not resolved notwithstanding that, one, or more than one, of the matters concerning the dispute have been agreed between the parties, or
 
 (iii) there is an agreement between the parties that has resolved the dispute but, within the period of 10 days following the completion of the mediation, a party to that agreement has made a notification to the mediator and the Board under section 95(5A), the Board shall refer the dispute to the Tribunal.
-
-(2) Subsection (1) shall apply to a mediation arranged in accordance with section 93(2) of the Principal Act on or after the commencement of this section.
