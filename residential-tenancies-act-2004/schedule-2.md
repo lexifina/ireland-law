@@ -8,7 +8,9 @@ Improper conduct in relation to a landlord means—
 
 (b) the seeking by the landlord to rely on subsection (5) of section 19 in respect of a dwelling that does not comply with the requirements of that subsection,
 
-(ba) the seeking by the landlord of a payment to him or her of an amount or amounts in contravention of section 19B.
+(ba) the seeking or requiring by the landlord (within the meaning of section 19B) of a payment to him or her of an amount or amounts in contravention of section 19B.
+
+(bb) the requesting or requiring by the landlord (within the meaning of section 19C) of a person to enter into a lease or tenancy agreement in relation to a dwelling referred to in subsection (1A) of section 3 the duration of which is a period of more than 41 weeks in contravention of section 19C,
 
 (c) the citing by a landlord in a notice of termination of a reason for the termination of the tenancy concerned that is, and that he or she knows to be, false or misleading in a material respect,
 

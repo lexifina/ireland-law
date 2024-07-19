@@ -38,6 +38,8 @@ Particular matters that may be referred (non-exhaustive list).
 
 (o) an allegation that a landlord has contravened section 14 (prohibition on penalisation of tenants),
 
+(oa) an allegation that a landlord (within the meaning of section 19C) has contravened section 19C,
+
 (p) an allegation that an agreement referred to in section 35(6) has not been complied with,
 
 (q) a claim by a landlord for arrears of rent or other charges.
