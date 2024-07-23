@@ -1,0 +1,3 @@
+Audit of Accounts.
+
+74.—A local authority which is an authorised undertaker shall keep separate accounts in relation to its authorised undertaking and the separate accounts so kept shall be deemed to be accounts of such local authority and shall be audited in like manner as the accounts of such local authority and the enactments and orders relating to the audit of the accounts of such local authority and to the powers of the auditor thereof shall apply to such separate accounts in like manner as those enactments and orders apply to the audit and the auditor of the accounts of such local authority.

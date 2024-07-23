@@ -1,0 +1,3 @@
+Fixing of rates and scales of charges for electricity, etc. (Repealed)
+
+21.—(1) ...

@@ -1,0 +1,3 @@
+Application to borrowing under this Act of the Public Health (Ireland) Acts, 1878. to 1919. (Repealed)
+
+78.—...

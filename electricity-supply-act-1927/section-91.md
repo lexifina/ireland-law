@@ -1,0 +1,11 @@
+Use of electric lines, etc., in or across streets or open spaces.
+
+91.—(1) Where in any case previous to the passing of this Act any electric line or other work shall have been constructed in, over, along, across, or under, any street or open space for electrical purposes or shall have been constructed in any other position for such purposes in such a manner as not to be entirely enclosed within any building where any electric line or work so constructed may be used for such purpose, such electric line or work shall be continued and used only in accordance with the regulations prescribed by the Board under this Act for the protection of the public safety and of other electric lines and works lawfully placed in any position.
+
+(2) From and after the passing of this Act it shall not be lawful for any authorised undertaker or other person to commence any such work as is mentioned in the foregoing sub-section without the consent of the Minister before the constitution of the Board and after the constitution of the Board without the consent of the Board.
+
+(3) In case of non-compliance with the provisions of this section, the Board may by notice in writing require the person owning or using or entitled to use such electric line or work to remove the electric line or work.
+
+(4) If any authorised undertaker or other person fails to comply with a notice served upon him by the Board under this section, such authorised undertaker or other person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a penalty not exceeding twenty pounds and any court of summary jurisdiction on complaint made may make an order directing and authorising the removal of any electric line or work specified in such notice by such person and upon such terms as such court thinks fit.
+
+(5) Where the consent of the Board is obtained to the placing of any electric line above ground the consent of the local authority shall not be required, anything in this or any other Act or in any Provisional Order or special Act relating to the undertaking to the contrary notwithstanding, but the Board before giving its consent shall give the local authority an opportunity of being heard.

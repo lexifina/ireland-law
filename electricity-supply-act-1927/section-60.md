@@ -1,0 +1,3 @@
+Objection to scale of charges.
+
+60.—Whenever the Board fixes a scale of methods of charge and rates of charge for electricity any authorised undertaker to whom such scale applies may if the charges to be borne by consumers under such scale are less than the charges borne by such consumers in respect of the same services before such scale is fixed by the Board serve on the Board a notice in writing of his objection to work his undertaking under such scale, and thereupon the Board shall by order do one or other of the following things as such undertaker may require or in the absence of such requisition as the Board thinks proper, that is to say, either acquire the undertaking of such undertaker or take control of such undertaking for a period of not less than two years.

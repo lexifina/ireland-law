@@ -1,0 +1,3 @@
+Assistance of Departments of State.
+
+30.—The Board may contract with any Minister who is head of a Department of State established by the Ministers and Secretaries Act, 1924 (No. 16 of 1924) or with any statutory body under the control of any such Minister and such Minister or statutory body may with the consent of the Minister for Finance contract with the Board for the rendering of services and supply of materials to the Board in respect of the exercise and performance by the Board of the rights and duties conferred and imposed on it by this Act, and upon any such contract being made such Minister or statutory body and his or their officers and servants shall render services and supply materials to the Board in accordance with such contract.

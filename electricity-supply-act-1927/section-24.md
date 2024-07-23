@@ -1,0 +1,7 @@
+Investigation into administration, etc., of authorised undertaking.
+
+24.—(1) The Board may at any time hold or appoint any person to hold an investigation into the administration and financial position of the undertaking of any authorised undertaker, and the Board or the person so appointed as aforesaid (as the case may be) shall have power to summon witnesses to attend such investigation and to examine witnesses on oath and for that purpose to administer an oath to witnesses attending such investigation and to compel such witnesses to produce any documents in their power or control the production of which the Board or such person (as the case may be) considers necessary for the purposes of such investigation.
+
+(2) Whenever an investigation is held under this section into the administration and financial position of the undertaking of an authorised undertaker such authorised undertaker shall be entitled to be heard and adduce evidence and, if he so desires, to be represented professionally at such investigation.
+
+(3) Every person who on being duly summoned by the Board or by any such person as aforesaid to attend as a witness at any such investigation as aforesaid fails to attend such investigation, or being in attendance thereat as a witness refuses to take an oath or to give evidence or to produce any document in his power or control when required so to do shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds.

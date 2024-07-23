@@ -1,0 +1,3 @@
+Power to cut off supply.
+
+99.—If any person neglects to pay any charge for electricity or any other sum due from him to the Board or to an authorised undertaker in respect of the supply of electricity to him, the Board or such authorised undertaker (as the case may be) may cut off such supply, and for that purpose may cut or disconnect any electric line or other work through which electricity may be supplied, and may, until such charge or other sum together with any expenses incurred by the Board or by such authorised undertaker in cutting off such supply of electricity as aforesaid are fully paid, but no longer discontinue the supply of electricity to such person.
