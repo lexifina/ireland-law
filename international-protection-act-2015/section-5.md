@@ -10,7 +10,7 @@ Service of documents
 
 (d) by sending it to the person by electronic means in accordance with subsection (2), in a case in which the person has given notice in writing to the Minister, to a registration officer, or to the Tribunal, of his or her consent to it (or notices or documents of a class to which it belongs) being served on or given to him or her in that manner.
 
-(2) For the purposes of subsection (1)(c), a notice is sent to a person by electronic means in accordance with this subsection—
+(2) For the purposes of subsection (1)(d), a notice or other document is sent to a person by electronic means in accordance with this subsection—
 
 (a) if it is sent to an email address that the person has furnished to the Minister, to a registration officer or to the Tribunal for that purpose, or
 

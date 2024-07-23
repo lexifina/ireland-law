@@ -38,6 +38,8 @@ Functions of Council
 
 (ii) any draft amendments to personal injuries guidelines prepared and submitted to the Board under section 18(2)(b) with the modifications (if any) made by the Board under section 11(1)(d), as soon as practicable but not later than 12 months after such submission, and publish the personal injuries guidelines and amendments in such manner as it considers appropriate as soon as practicable following such adoption,
 
+(ga) subject to subsection (2A), adopt any amendments to personal injuries guidelines prepared and submitted to the Board under section 18(2)(b) with the modifications (if any) made by the Board under section 11(1)(d), as soon as practicable after such submission, and publish the amendments in such manner as it considers appropriate as soon as practicable following such adoption,
+
 (h) adopt and publish in such manner as it considers appropriate—
 
 (i) sentencing guidelines prepared and submitted to the Board by the Sentencing Guidelines and Information Committee under section 23(2)(a) with the modifications (if any) made by the Board under section 11(1)(e), or
@@ -56,6 +58,14 @@ Functions of Council
 
 (l) assist with the provision of support to judges generally.
 
+(2A) Amendments to personal injuries guidelines may be adopted by the Council under subsection (2)(ga) only where—
+
+(a) a draft of the amendments has first been laid before each House of the Oireachtas, and
+
+(b) a resolution approving the draft of the amendments has been passed by each such House.
+
+(2B) For the purposes of subsection (2A), the Council shall submit a draft of the amendments it proposes to adopt to the Minister and the Minister shall cause a draft of the amendments to be laid before each House of the Oireachtas as soon as practicable after the receipt thereof.
+
 (3) The Council shall have all such powers as are necessary or expedient for the performance of its functions, including the power—
 
 (a) to establish committees in accordance with this Act, and
@@ -68,7 +78,7 @@ Functions of Council
 
 (b) exercisable only with the consent of the Minister, engage consultants or advisers.
 
-(5) Notwithstanding any other provision of this Act, the functions referred to in paragraphs (a) to (d) and paragraphs (g) and (h) of subsection (2), other than in so far as the functions referred to in paragraphs (d), (g) and (h) refer to publication, shall not be—
+(5) Notwithstanding any other provision of this Act, the functions of the Council referred to in paragraphs (a) to (d) and paragraphs (ga) and (h) of subsection (2), and in subsections (2A) and (2B), other than in so far as the functions referred to in paragraphs (d), (ga) and (h) refer to publication, shall not be—
 
 (a) performed by the Board on behalf of the Council,
 

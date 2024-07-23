@@ -1,10 +1,14 @@
 Prohibition of refoulement (application for international protection determined under section 21 to be inadmissable)
 
-50A. (1) A person shall not be expelled or returned in any manner whatsoever to the frontier of a territory where, in the opinion of the Minister—
+50A. (1) A person shall not be expelled or returned in any manner whatsoever to the frontier of a territory—
 
-(a) the life or freedom of the person would be threatened for reasons of race, religion, nationality, membership of a particular social group or political opinion, or
+(a) where, in the opinion of the Minister—
 
-(b) there is a serious risk that the person would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment.
+(i) the life or freedom of the person would be threatened for reasons of race, religion, nationality, membership of a particular social group or political opinion, or
+
+(ii) there is a risk that the person would be subjected to the death penalty, torture or other inhuman or degrading treatment or punishment, or a serious and individual threat to his or her life or person by reason of indiscriminate violence in situations of international or internal armed conflict, or
+
+(b) where the Minister is of the opinion that such expulsion or return would be prohibited under any enactment or rule of law as a breach of the person’s fundamental rights.
 
 (2) In forming his or her opinion of the matters referred to in subsection (1), the Minister shall have regard to—
 

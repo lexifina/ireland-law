@@ -1,6 +1,6 @@
 Consideration of personal injuries guidelines as amended in certain circumstances
 
-100. (1) Where the Council adopts amendments under section 7(2)(g)(ii) to the personal injuries guidelines, for the purposes of section 22 (1) of the Civil Liability and Courts Act 2004 the court shall continue to have regard to the personal injuries guidelines in force immediately prior to the adoption of the guidelines as amended in assessing damages in a personal injuries action where the action is commenced—
+100. (1) Where the Council adopts amendments under section 7(2)(ga) to the personal injuries guidelines, for the purposes of section 22 (1) of the Civil Liability and Courts Act 2004 the court shall continue to have regard to the personal injuries guidelines in force immediately prior to the adoption of those amendments to the guidelines in assessing damages in a personal injuries action where the action is commenced—
 
 (a) before the date on which the guidelines as amended are adopted, or
 

@@ -84,15 +84,17 @@ Inadmissible application
 
 (b) will be re-admitted to that country.
 
-(16) In this section, “refugee status” and “subsidiary protection status” shall be construed in accordance with Article 2 of Council Directive 2004/83/EC.
+(16) In subsection (2)(a), “refugee status” and “subsidiary protection status” shall be construed in accordance with Article 2 of Council Directive 2004/83/EC.
 
 (17) For the purposes of this section, a safe third country is a safe country for a person if he or she—
 
 (a) having regard to the matters referred to in subsection (18), has a sufficient connection with the country concerned on the basis of which it is reasonable for him or her to return there,
 
-(b) will not be subjected in the country concerned to the death penalty, torture or other inhuman or degrading treatment or punishment, and
+(b) will not be subjected in the country concerned to the death penalty, torture or other inhuman or degrading treatment or punishment or a serious and individual threat to his or her life or person by reason of indiscriminate violence in situations of international or internal armed conflict,
 
-(c) will be re-admitted to the country concerned.
+(c) will be re-admitted to the country concerned, and
+
+(d) has the possibility in the country concerned to request refugee status and, if found to be a refugee, to receive protection in accordance with the Geneva Convention.
 
 (18) For the purposes of subsection (17)(a), the matters to which regard shall be had include (but are not limited to) the following:
 
@@ -103,3 +105,5 @@ Inadmissible application
 (c) the presence in the country concerned of any family members, relatives or other family relations of the person concerned;
 
 (d) the nature and extent of any cultural connections between the person concerned and the country concerned.
+
+(19) In subsection (17)(d), "refugee status" means the recognition by the country concerned of a third country national or stateless person as a refugee.

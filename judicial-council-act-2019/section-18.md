@@ -18,7 +18,7 @@ Personal Injuries Guidelines Committee
 
 (5) The Personal Injuries Guidelines Committee may, from time to time, review the personal injuries guidelines and shall—
 
-(a) review those guidelines within 3 years of the first guidelines being adopted by the Council under section 7 and at least once thereafter in every 3 year period beginning on the completion of the first review, and
+(a) review those guidelines within 3 years of the adoption by the Council of the guidelines first adopted by it under section 7 and at least once thereafter in every 3 year period beginning on the completion of the first review, and
 
 (b) submit the outcome of each review under this subsection to the Board.
 

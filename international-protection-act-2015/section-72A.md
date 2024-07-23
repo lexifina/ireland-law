@@ -6,6 +6,8 @@ Designation of safe third countries
 
 (a) life and liberty are not threatened on account of race, religion, nationality, membership of a particular social group or political opinion,
 
+(aa) there is no risk that a person would be subjected to the death penalty, torture or inhuman or degrading treatment or punishment, or a serious and individual threat to his or her life or person by reason of indiscriminate violence in situations of international or internal armed conflict,
+
 (b) the principle of non-refoulement in accordance with the Geneva Convention is respected,
 
 (c) the prohibition of removal, in violation of the right to freedom from torture and cruel, inhuman or degrading treatment, as required by international law, is respected, and
