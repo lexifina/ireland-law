@@ -1,4 +1,4 @@
-F50[Arrest without warrant for surrender purposes.
+F49[Arrest without warrant for surrender purposes.
 
 14.— (1) A member of the Garda Síochána may arrest any person without a warrant that the member believes, on reasonable grounds, to be a person named in an alert.
 

@@ -1,4 +1,4 @@
-F86[Failure to comply with time periods in section 15 or 16
+F85[Failure to comply with time periods in section 15 or 16
 
 16A.—(1) The expiry of the period of 40 days referred to in section 15(7A) shall not—
 
