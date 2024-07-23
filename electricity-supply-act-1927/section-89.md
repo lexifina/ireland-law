@@ -1,0 +1,5 @@
+Contributions to certain associations.
+
+89.—(1) The Board and also any authorised undertaker with the consent of the Board may contribute such sums as (in the case of the Board) the Board and (in the case of an authorised undertaker) such authorised undertaker thinks fit to any associations of persons engaged in the generation, supply, or distribution of electricity founded for the promotion of their mutual interests and to any societies formed for the promotion and encouragement of the development and use of electricity and for the improvement of knowledge and education in respect of electricity.
+
+(2) The Board and also any authorised undertaker with the consent of the Board may pay the reasonable expenses of the attendance at any conference or meeting of any such association as aforesaid of (in the case of the Board) any member, officer or servant of the Board and (in the case of an authorised undertaker) of any person appointed by such undertaker to be his representative at such conference or meeting.

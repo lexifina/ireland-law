@@ -1,0 +1,3 @@
+Users, etc., of electrical apparatus to give information to Board.
+
+25.—The Board may require any person controlling or using electrical apparatus to give to the Board and every such person when so required shall give to the Board such information relating only to the nature, control, and use of such electrical apparatus (not including the nature or purpose of any experimental work for which such apparatus is used) as the Board thinks necessary, and every person who, on being so required, fails or refuses to give to the Board such information shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds.

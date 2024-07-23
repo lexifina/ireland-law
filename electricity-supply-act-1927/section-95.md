@@ -1,0 +1,3 @@
+Exemption of agreements for the supply of electricity from stamp duty.
+
+95.—Electricity shall be deemed to be goods, wares, or merchandise for the purpose of section 31 of the Stamp Duties Consolidation Act 1999 (which makes certain contracts chargeable with stamp duty as conveyances on sale) ....

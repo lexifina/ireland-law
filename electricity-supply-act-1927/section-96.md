@@ -1,0 +1,3 @@
+Exemption of Shannon works from rates.
+
+96.—...

@@ -1,0 +1,3 @@
+Loans by the Board to authorised undertakers.
+
+22.—The Board may out of the funds at its disposal make advances to any authorised undertaker, permitted undertaker or statutory undertaker for the purpose of his undertaking on such terms as the Board thinks proper and, where so required under any other section of this Act, shall make such advances on such terms as may be fixed in the manner provided in that behalf by such section, and any authorised undertaker, permitted undertaker or statutory undertaker, notwithstanding anything contained in the Act, order, memorandum of association or other document constituting such undertaker, may borrow from the Board.

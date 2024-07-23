@@ -1,0 +1,9 @@
+Accounts and audits.
+
+7.—(1) The Board shall keep in such form as shall be approved by the Minister after consultation with the Minister for Finance all proper and usual accounts of all moneys received or expended by them, including a capital account, revenue account, profit and loss account, and a balance sheet, and in particular shall keep in such form as aforesaid all such special accounts as the Minister on his motion or at the request of the Minister for Finance shall from time to time direct.
+
+(2) The accounts of the Board shall in each year be audited and be the subject of a report by duly qualified auditors appointed annually for the purpose by the Minister, with the consent of the Minister for Finance, and the fees of such auditors and the expenses generally of such audits shall be paid by the Board.
+
+(3) The Minister may with the consent of the Minister for Finance give from time to time directions prescribing the time, place, and method of conducting the audit of the accounts of the Board under this section and may also prescribe by such directions the accounts of which copies are to be furnished to the Minister under this section and the accounts which are to be published and put on sale under this section and the time and method of such publication and sale.
+
+(4) Immediately after every audit under this section of the accounts of the Board, the Board shall send to the Minister a copy of the balance sheet and profit and loss account as passed by the auditors, a copy of the auditors' report, and copies of such of the accounts submitted to the auditors as are prescribed in that behalf by directions given under this section or may be specially called for by the Minister, and shall publish and put on sale in accordance with such directions such of the accounts submitted to the auditors as are prescribed in that behalf by such directions.

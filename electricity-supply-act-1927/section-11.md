@@ -1,0 +1,3 @@
+Prohibition of interests in electrical undertakings.
+
+11.—...

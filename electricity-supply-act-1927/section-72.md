@@ -1,0 +1,3 @@
+Power to local authorities to borrow for the purposes of this Act.
+
+72.—...

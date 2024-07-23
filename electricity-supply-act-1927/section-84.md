@@ -1,0 +1,5 @@
+Vesting of pillars, poles, etc., in Minister.
+
+84.—(1) No pillar, pole, stand, or other structure erected by the Minister under the provisions of the Shannon Electricity Act, 1925 (No. 26 of 1925) or by a contractor acting under an order of the Minister under that Act on any land not acquired by the Minister under the said Act for the purpose of supporting any wire, transformer, or other machinery for or in relation to the transmission of electricity shall vest in the owner of such land, and every such pillar, pole, stand, or other structure so erected as aforesaid shall be and remain the property of the Minister.
+
+(2) The Minister and also the Board may at all reasonable times enter upon any such land as aforesaid for the purpose of renewing, repairing, or otherwise maintaining any such pillar, pole, stand, or other structure as aforesaid and there do all such matters or things as in the opinion of the Minister or the Board (as the case may be) are necessary for or incidental to such maintenance.
