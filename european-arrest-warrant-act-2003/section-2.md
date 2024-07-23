@@ -92,8 +92,6 @@ Interpretation.
 
 (b) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that a reference to some other provision is intended, and
 
-OJ No. L 312, 7.12.2018, p. 56 OJ No. L 135, 22.5.2019, p. 85 OJ No. L 248, 13.7.2021, p. 1 OJ No. L 249, 14.7.2021, p. 1 OJ No. L 185, 12.7.2022, p. 1
-
 (c) a reference to any enactment is a reference to that enactment as amended, extended or adapted, whether before or after the passing of this Act, by or under any subsequent enactment.
 
 (3) (a) In this Act, a reference to a European arrest warrant shall be construed as including a reference to a European arrest warrant that satisfies the following conditions:
