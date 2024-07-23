@@ -44,6 +44,6 @@ Surrender of person by issuing state to other Member State.
 
 (a) an offence for which his or her surrender would be prohibited by virtue of Part 3, or
 
-(b) an offence for which his or her surrender of a person would be refused under Part 3.
+(b) an offence for which his or her surrender ... would be refused under Part 3.
 
 (6) ...

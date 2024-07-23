@@ -114,7 +114,7 @@ Definitions
 
 “panel of inquiry” means a panel of inquiry comprising the persons who are appointed as members of the panel of inquiry under section 67 to perform the functions conferred on a panel of inquiry by this Act;
 
-“personal injuries guidelines” shall be construed in accordance with section 90(1);
+"personal injuries guidelines" shall, subject to section 89A, have the meaning assigned to it by section 90(1);
 
 “Personal Injuries Guidelines Committee” means the committee established under section 18;
 
