@@ -1,0 +1,3 @@
+Liability of occupiers for negligence of independent contractors.
+
+7.—An occupier of premises shall not be liable to an entrant for injury or damage caused to the entrant or property of the entrant by reason of a danger existing on the premises due to the negligence of an independent contractor employed by the occupier if the occupier has taken all reasonable care in the circumstances (including such steps as the occupier ought reasonably to have taken to satisfy himself or herself that the independent contractor was competent to do the work concerned) unless the occupier has or ought to have had knowledge of the fact that the work was not properly done.
