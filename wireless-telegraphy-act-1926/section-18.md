@@ -1,0 +1,3 @@
+Charging of fees for broadcasting.
+
+18.—...
