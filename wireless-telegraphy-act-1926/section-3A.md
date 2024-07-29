@@ -1,0 +1,3 @@
+Regulation of local programmes for distribution on cable systems. (Repealed)
+
+3A.—...
