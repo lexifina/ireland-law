@@ -16,6 +16,8 @@ Certain persons not to be shadow directors
 
 (d) a member of any committee established under section 5B of the Act of 1990;
 
+(da) a member of any subcommittee established under section 5C of the Act of 1990;
+
 (e) any member of the staff of the Agency.
 
 (3) In this section—

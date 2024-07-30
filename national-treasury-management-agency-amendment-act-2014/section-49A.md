@@ -18,7 +18,7 @@ Investment in Fossil Fuel Undertakings
 
 "indirect investment" means an investment of the assets of the Fund in an investment product or in a collective investment undertaking but does not include financial derivative instruments, exchange traded funds or hedge funds;
 
-"national transition objective" has the meaning given by the Climate Action and Low Carbon Development Act 2015;
+"national climate objective" has the meaning given by the Climate Action and Low Carbon Development Act 2015;
 
 "State’s climate change obligations" means the existing or future obligations of the State referred to in paragraphs (a) and (b) (insofar as the obligations of the State referred to in paragraph (b) relate to climate change) of section 2 of the Climate Action and Low Carbon Development Act 2015;
 
@@ -38,7 +38,7 @@ Investment in Fossil Fuel Undertakings
 
 (4) Notwithstanding subsections (2) and (3), the Agency may invest the assets of the Fund in a fossil fuel undertaking or in a collective investment undertaking the assets of which are invested or will be invested in a fossil fuel undertaking, where the Agency has satisfied itself on reasonable grounds that the investment is intended to be consistent with—
 
-(a) the achievement of the national transition objective,
+(a) the achievement of the national climate objective,
 
 (b) the implementation of the State’s climate change obligations, and
 

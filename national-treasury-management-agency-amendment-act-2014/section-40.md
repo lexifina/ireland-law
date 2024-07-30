@@ -11,3 +11,5 @@ Investment strategy for Fund
 (3) In determining and reviewing the investment strategy the Agency shall consult the Minister and the Minister for Public Expenditure and Reform and have regard to any views expressed by them.
 
 (4) For the purpose of formulating views for the purposes of subsection (3) the Minister may consult with any other Minister of the Government as the Minister considers appropriate having regard to the functions of that other Minister.
+
+(5) The Agency shall publish the investment strategy on a website maintained by, or on behalf of, the Agency.
