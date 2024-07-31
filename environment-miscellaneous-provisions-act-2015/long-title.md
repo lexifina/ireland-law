@@ -1,0 +1,3 @@
+An Act to make provision for transfer of certain functions under the Bourn Vincent Memorial Park Act 1932 to the Minister for Arts, Heritage and the Gaeltacht; to amend and extend the Finance (Excise Duties) (Vehicles) Act 1952, the Air Pollution Act 1987, the Environmental Protection Agency Act 1992, the Waste Management Act 1996, section 6 of the Local Government Act 1998; to amend the Water Services Act 2007, the Water Services (No. 2) Act 2013 and the Water Services Act 2014; to amend other Acts and to provide for related matters.
+
+[27th July, 2015] Be it enacted by the Oireachtas as follows:
