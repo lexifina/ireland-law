@@ -1,4 +1,4 @@
-F30[Removal from fuels register
+F32[Removal from fuels register
 
 22D. — (1) If, upon an application by the Agency under this section, the District Court considers that the removal of a person from the fuels register is necessary by reason of the commission by the person of an offence under this Act or, the contravention by the person of a provision of this Act or regulations made under this Act such that the Agency considers that such refusal is necessary to ensure the prevention or limiting of air pollution, the court shall make an order directing the Agency to remove the person from the fuels register.
 

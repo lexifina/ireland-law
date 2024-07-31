@@ -1,4 +1,4 @@
-F28[Tax clearance certificate
+F30[Tax clearance certificate
 
 22B. — (1) A person registered on the fuels register and not in possession of a current tax clearance certificate issued under section 1095 of the Taxes Consolidation Act 1997 shall, as soon as practicable, so notify the Agency in writing.
 

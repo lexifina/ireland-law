@@ -1,4 +1,4 @@
-F33[Remedies for unauthorised emissions.
+F35[Remedies for unauthorised emissions.
 
 28A. — (1) (a) Where there is an emission from any premises, other than an emission under and in compliance with a licence granted under this Act or an emission in compliance with an emission limit value specified under section 51 of this Act or an emission which is in accordance with directions specifying best practicable means issued by the Minister under subsection (3) of section 5 of this Act, any person may make application to the appropriate court which may make an order requiring the occupier of the premises concerned to do one or more of the following, that is to say:
 

@@ -1,4 +1,4 @@
-F29[Appeals relating to fuels register
+F31[Appeals relating to fuels register
 
 22C. — (1) The Agency, with the consent of the Minister, may appoint a person who in the opinion of the Agency has the relevant knowledge and experience in relation to fuel activities and air pollution, and procedures relating to registration and inspections, to be an appeals officer for the purposes of this section (in this section referred to as an "appeals officer"), who shall be independent in the performance of his or her functions under this section.
 

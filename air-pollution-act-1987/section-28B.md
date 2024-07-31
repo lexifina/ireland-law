@@ -1,4 +1,4 @@
-F36[Civil liability for pollution.
+F38[Civil liability for pollution.
 
 28B. — (1) Where an emission causes injury, loss or damage to a person or to the property of a person, the person may, without prejudice to any other cause of action that he may have in respect of the injury, loss or damage, recover damages in any court of competent jurisdiction in respect of such injury, loss or damage—
 

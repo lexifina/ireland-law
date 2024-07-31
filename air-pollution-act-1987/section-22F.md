@@ -1,4 +1,4 @@
-F32[Authorised person for purpose of fuels register.
+F34[Authorised person for purpose of fuels register.
 
 22F. — (1) An authorised person shall have and may exercise all the powers conferred on an authorised person under section 13 of the Environmental Protection Agency Act 1992 for any purpose connected with the functions conferred on the Agency under sections 22A to 22E.
 
