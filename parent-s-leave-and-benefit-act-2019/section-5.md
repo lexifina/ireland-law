@@ -2,7 +2,7 @@
 
 Entitlement to parent’s leave
 
-5. (1) Subject to this Part, an employee who is a relevant parent in relation to a child shall be entitled to leave from his or her employment for a period of 7 weeks, to be known (and referred to in this Act) as “parent’s leave”, to enable him or her to provide, or assist in the provision of, care to the child.
+5. (1) Subject to this Part, an employee who is a relevant parent in relation to a child shall be entitled to leave from his or her employment for a period of 9 weeks, to be known (and referred to in this Act) as “parent’s leave”, to enable him or her to provide, or assist in the provision of, care to the child.
 
 (2) Other than where section 14 applies, the period of leave referred to in subsection (1) may comprise—
 
