@@ -1,0 +1,3 @@
+Continuance of existing inquiry.
+
+43.—Where the Dental Board has decided to hold, or has appointed any member or members of the Board to hold, an inquiry pursuant to section 32 of the Dentists Act 1928, and that inquiry has not been completed before the commencement of this Act, the inquiry shall be discontinued and shall be recommenced by the Fitness to Practise Committee as if this Act had been in force at the time at which such decision was taken or such member or members were appointed and the provisions of this Part of this Act shall apply to any inquiry discontinued and recommenced pursuant to this section.

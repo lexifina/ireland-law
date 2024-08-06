@@ -1,0 +1,3 @@
+Recognition of qualification for register.
+
+26B.—...
