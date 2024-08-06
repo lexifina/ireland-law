@@ -1,0 +1,3 @@
+F47[Power to specify form of documents
+
+70.— ...

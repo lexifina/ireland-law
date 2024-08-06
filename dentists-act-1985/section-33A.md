@@ -1,0 +1,3 @@
+F21[Council may request certain information concerning registered dentists from certain bodies in State or other jurisdictions
+
+33A.— ...
