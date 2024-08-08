@@ -4,6 +4,8 @@ Provisions
 
 (b) A local authority shall determine the remuneration and conditions of employment of its employees and may, from time to time, alter the remuneration and conditions of employment of such employees.
 
+(ba) The Minister may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, make regulations relating to the retirement of employees of a local authority that is a fire authority (within the meaning of the Fire Services Act 1981) whose duties include attendance at fires, including specifying the age at which such employees shall retire, being an age that is higher than the age of 55 years and not exceeding the normal retirement age (within the meaning of section 13(1) of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012).
+
 (c) ...
 
 (d) The appropriate Minister may at any time direct that any of the functions conferred on a local authority by this Chapter shall, in relation to an employment or employments for which he or she is the appropriate Minister, be exercisable either generally or in relation to a particular local authority or to specified local authorities, only with his or her consent, or subject to such other conditions or requirements as may be so directed.
