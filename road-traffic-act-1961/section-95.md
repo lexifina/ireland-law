@@ -54,11 +54,11 @@ Traffic signs.
 
 (9) Where the Minister or, as the case may be, the National Roads Authority, gives a direction under subsection (8) of this section in relation to a traffic sign, the road authority who provided the traffic sign shall comply with the direction.
 
-(10) A person other than a road authority shall not provide a traffic sign visible from a public road (other than a national managed road) without the consent of the road authority having charge of the road.
+(10) A person other than a road authority shall not provide a traffic sign visible from a public road (other than a national managed road) without the consent in writing of the road authority having charge of the road.
 
-(10A) A person other than the National Roads Authority shall not provide a traffic sign visible from a national managed road without the consent of the National Roads Authority.
+(10A) A person other than the National Roads Authority shall not provide a traffic sign visible from a national managed road without the consent in writing of the National Roads Authority.
 
-(11) The occupier or (in the case of unoccupied land) the owner of land on which a traffic sign is provided in contravention of subsection (10) or (10A) shall be guilty of an offence and, in any prosecution for an offence under this subsection and notwithstanding any other provision of this Act, the traffic sign shall be presumed, until the contrary is shown by the defendant, to have been provided by a person other than a road authority or the National Roads Authority and without the consent of the road authority having charge of the road or the National Roads Authority.
+(11) The occupier or (in the case of unoccupied land) the owner of land on which a traffic sign is provided in contravention of subsection (10) or (10A) shall be guilty of an offence and, in any prosecution for an offence under this subsection and notwithstanding any other provision of this Act, the traffic sign shall be presumed, until the contrary is shown by the defendant, to have been provided by a person other than a road authority or the National Roads Authority and without the consent in writing of the road authority having charge of the road or the National Roads Authority.
 
 (12) Where a person wilfully obstructs or interferes with the exercise by a road authority of the powers conferred by subsection (6) or (6A) of this section, or without lawful authority, removes, defaces or otherwise injures a traffic sign provided under this section, he shall be guilty of an offence.
 
