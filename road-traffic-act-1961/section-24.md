@@ -1,3 +1,3 @@
-Signing of driving licence by grantee thereof.(Repealed)
+Signing of driving licence by grantee thereof. (Repealed)
 
 24.—...
