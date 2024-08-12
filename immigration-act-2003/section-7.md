@@ -60,9 +60,9 @@ Amendment of Refugee Act 1996.
 
 “Powers of
 
-9A.—(1) An authorised officer, a member of the Garda Síochána or authorised an immigration officer may, for the purposes of this Act, take or cause officers and to be taken the fingerprints of an applicant. immigration
+9A.—(1) An authorised officer, a member of the Garda Síochána or authorised an immigration officer may, for the purposes of this Act, take or cause officers and to be taken the fingerprints of an applicant. immigration officers.
 
-(2) Fingerprints shall not be taken under this section from a person officers. under the age of 14 years except in the presence of a person who is—
+(2) Fingerprints shall not be taken under this section from a person under the age of 14 years except in the presence of a person who is—
 
 (a) a parent or a person who is acting in loco parentis; or
 
@@ -388,6 +388,8 @@ Convention, to be necessary or expedient for the purpose of giving effect to— 
 
 (ii) shall be transferred to a convention country for examination or to a safe third country, or
 
+Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
+
 (iii) shall be accepted for examination in the State pursuant to a request made by a convention country in which the application for asylum was lodged or pursuant to an agreement to which subsection (1)(d) refers, and the powers referred to in this subsection shall be exercised by whichever of the persons mentioned in subsection (4)(a) is specified in the order,
 
 (b) provide for an appeal against a determination to transfer an application for asylum to a convention country or a safe third country and for the procedure in relation to such an appeal,
@@ -395,8 +397,6 @@ Convention, to be necessary or expedient for the purpose of giving effect to— 
 (c) provide, where the order specifies that the making of an appeal shall not suspend the transfer of the application or of the applicant to the convention country or the safe third country, that such transfer is without prejudice to the appeal decision,
 
 (d) require that an application for asylum shall not be investigated by the Commissioner until it has been decided whether a convention country is responsible for examining the application or whether the application should be transferred to a safe third country,
-
-Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
 
 (e) require that an application for asylum which is being investigated by the Commissioner shall be transferred to a convention country for examination,
 
