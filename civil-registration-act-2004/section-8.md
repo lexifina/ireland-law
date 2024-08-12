@@ -30,7 +30,7 @@ Functions of Ard- Chláraitheoir.
 
 (g) to make recommendations to the Minister on any measures that are estimated to cost in excess of such amount as may be specified by the Minister from time to time and are, in the opinion of an tArd-Chláraitheoir, necessary to achieve and maintain appropriate standards of efficiency in the Civil Registration Service and, subject to the consent of the Minister, to implement those measures or, instead of or in addition to them, such measures as the Minister may specify in relation to those standards,
 
-(h) to publish guidelines to registrars (within the meaning of section 17) on the operation of this Act,
+(h) to publish guidelines to Superintendent Registrars and registrars (within the meaning of section 17) on the operation of this Act,
 
 (i) to initiate and prosecute proceedings in relation to summary offences under this Act or any of the repealed enactments, and
 

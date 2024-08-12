@@ -1,6 +1,6 @@
-F70[Special provisions in relation to registration of birth of donorconceived child
+F81[Special provisions in relation to registration of birth of donorconceived child
 
-19A. (1) Where a child who is a donor-conceived child is born, the person referred to in paragraph (a) or (b) of section 19(1) shall comply with that section in relation to the birth, and shall also give the following to the registrar—
+19A.—(1) Where a child who is a donor-conceived child is born, the person referred to in paragraph (a) or (b) of section 19(1) shall comply with that section in relation to the birth, and shall also give the following to the registrar—
 
 (a) the certificate furnished to the person under section 27(5) of the Children and Family Relationships Act 2015,
 
@@ -22,7 +22,7 @@ F70[Special provisions in relation to registration of birth of donorconceived ch
 
 (5) Where—
 
-(a) paragraphs (i) to (iii) of section 19(1) and subsection (1), or
+(a) paragraph (i) of section 19(1) and subsection (1), or
 
 (b) as the case may be, paragraphs (a) to (c) of section 19(3) and subsection (3), have been complied with in relation to a birth to which subsection (1) applies, the registrar concerned shall register the birth in accordance with this section and in such manner as an tArd-Chláraitheoir may direct.
 
@@ -34,8 +34,8 @@ F70[Special provisions in relation to registration of birth of donorconceived ch
 
 (a) the birth of a child has been registered other than under this section, and
 
-(b) the registrar receives information from the Minister for Health to the effect that the child is a child to whom subsection (1) applies, the registrar shall contact the persons who complied with section 19(1) in relation to the birth of the child and such other persons as he or she considers necessary, and make the enquiries necessary to determine whether the birth of the child should be re-registered under this section.
+(b) an tArd-Chláraitheoir receives information from the Minister for Health to the effect that the child is a child to whom subsection (1) applies, an tArd-Chláraitheoir shall contact the persons who complied with section 19(1) in relation to the birth of the child and such other persons as he or she considers necessary, and make the enquiries necessary to determine whether the birth of the child should be re-registered under this section.
 
-(9) Where the registrar, having made the enquiries referred to in subsection (8), is of the opinion that the child concerned is a child to whom subsection (1) applies, he or she shall re-register the birth of the child under this section and enter in the register the name of the person who is, or persons who are, under section 5 of the Children and Family Relationships Act 2015, the parent or parents of the child.
+(9) Where an tArd-Chláraitheoir, having made the enquiries referred to in subsection (8), is of the opinion that the child concerned is a child to whom subsection (1) applies, he or she shall re-register the birth of the child under this section and enter in the register the name of the person who is, or persons who are, under section 5 of the Children and Family Relationships Act 2015, the parent or parents of the child.
 
 (10) Where a person whose birth was registered in accordance with this section and who has attained the age of 18 years applies for a birth certificate, the registrar shall contact that person to inform him or her that further information relating to him or her is available from the National Donor-Conceived Person Register.

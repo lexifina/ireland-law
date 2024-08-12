@@ -1,6 +1,6 @@
 Penalties.
 
-70.—(1) A person guilty of an offence under subsection (1), (2) or (3) of section 69 shall be liable—
+70.—(1) A person guilty of an offence under subsection (1), (2), (3) or (3A) of section 69 shall be liable—
 
 (a) on summary conviction, to a fine not exceeding €2,000 or imprisonment for a term not exceeding 6 months or both, or
 
