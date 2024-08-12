@@ -1,12 +1,18 @@
 Corrections
 
-64.—(1) Where a registrar is satisfied that an entry made by him or her or another registrar in the register of births or the register of deaths contains an error of fact, he or she shall notify the Superintendent Registrar of the registration area to which the registrar is assigned of the error.
+64.—(1) Where a registrar is satisfied that an entry in the register of births or deaths contains an error of fact, he or she shall notify the error to—
 
-(2) When a Superintendent Registrar of any registration area receives a notification under subsection (1), the Superintendent Registrar or a registrar in that registration area, if so directed by the Superintendent Registrar, shall by notice in writing given to a qualified informant (within the meaning of Part 3 or 5, as the case may be) in relation to the birth or death concerned (“the person”) require him or her—
+(a) the Superintendent Registrar of the registration area to which the registrar is assigned, or
+
+(b) if the entry was made pursuant to section 19(1)(ii) or section 37(1)(ii), an tArd- Chláraitheoir.
+
+(2) When a Superintendent Registrar of any registration area receives a notification under subsection (1)(a), the Superintendent Registrar or a registrar in that registration area, if so directed by the Superintendent Registrar, shall by notice in writing given to a qualified informant (within the meaning of Part 3 or 5, as the case may be) in relation to the birth or death concerned (“the person”) require him or her—
 
 (a) to attend at the office of a registrar specified by the Superintendent Registrar or at the office of the registrar aforesaid, or at any other convenient place specified in the notice, within such time (not being less than 7 days from the date of the giving of the notice) as may be so specified, and
 
 (b) to give to the registrar a statutory declaration specifying the error and, to the best of his or her knowledge and belief, the relevant facts, and the person shall also give to the registrar such other information as the Superintendent Registrar or the registrar may reasonably require.
+
+(2A) When an tArd-Chláraitheoir receives a notification under subsection (1)(b), he or she shall enquire into the matter and on completion of that enquiry may, if he or she considers it appropriate to do so, cancel the entry in the register or make a correction of the error in the entry concerned in the register and the original entry shall be retained in the register and the cancellation, or the correction as the case may be, shall be noted in respect of the original entry.
 
 (3) When a person complies with subsection (2), the Superintendent Registrar, or the registrar, concerned may—
 
@@ -22,19 +28,19 @@ Corrections
 
 (a) required particulars referred to in subsection (5B), or
 
-(b) false or misleading information furnished to the registrar, an tArd- Chláraitheoir—
+(b) false or misleading information furnished to an tArd-Chláraitheoir or the registrar, an tArd-Chláraitheoir, where he or she is satisfied that it is appropriate to do so—
 
-(i) may direct a registrar to cancel the entry and retain the entry so cancelled in the register of births, stillbirths or deaths, and
+(i) may cancel the entry and retain the entry so cancelled or direct a registrar to cancel the entry and retain the entry so cancelled in the register of births, stillbirths or deaths, and
 
-(ii) where he or she is satisfied that it is appropriate, may direct the registrar to make an entry, under and in accordance with Part 3 or 5, in relation to the birth, stillbirth or death concerned, in the register of births, stillbirths or deaths, and the registrar shall comply with the direction under paragraph (i) or (ii).
+(ii) may make an entry or direct the registrar to make an entry, under and in accordance with Part 3 or 5, in relation to the birth, stillbirth or death concerned, in the register of births, stillbirths or deaths, and the registrar shall comply with a direction given under paragraph (i) or (ii).
 
 (5B) Required particulars, for the purpose of subsection (5A)(a) are required particulars—
 
-(a) as respects the register of births, furnished (except under section 19(5)) to the registrar by a person other than a qualified informant,
+(a) as respects the register of births, furnished (except under section 19(5)) to an tArd-Chláraitheoir or to the registrar by a person other than a qualified informant,
 
-(b) as respects the register of stillbirths, furnished (except under subsection (6) or (7) of section 28) to the registrar by a person other than a person referred to in paragraph (a) or (b) of subsection (1) of section 28, or
+(b) as respects the register of stillbirths, furnished (except under subsection (6) or (7) of section 28) to an tArd-Chláraitheoir or to the registrar by a person other than a person referred to in paragraph (a) or (b) of subsection (1) of section 28, or
 
-(c) as respects the register of deaths, furnished to the registrar by a person other than a qualified informant.
+(c) as respects the register of deaths, furnished to an tArd-Chláraitheoir or to the registrar by a person other than a qualified informant.
 
 (6) Where an tArd-Chláraitheoir is satisfied that two or more entries have been made in a register maintained under section 13 in respect of the same event, he or she may direct a Superintendent Registrar, a registrar or an officer of an tArd- Chláraitheoir to cancel such of the entries as he or she may specify, and the direction shall be complied with and the cancelled entry or entries shall be retained in the register.
 

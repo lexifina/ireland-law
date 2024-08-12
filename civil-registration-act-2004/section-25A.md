@@ -1,10 +1,14 @@
 Failure to agree surname and subsequent registration of surname.
 
-25A. (1) A registrar shall register the birth of a child without the surname of the child as part of the required particulars where the registrar is satisfied that the parents of the child do not agree regarding a surname for the child.
+25A.—(1) Notwithstanding the duty of a person under this Part to provide the surname of the child as a required particular of the registration of the birth, the registrar shall register the birth of a child, or an tArd Chláraitheoir shall cause the birth of a child to be registered without the surname of the child, where—
 
-(2) The duty imposed on a person under this Part to give to the registrar required particulars of the birth, in so far as those particulars refer to a surname for the child shall not apply where the registrar registers the birth under subsection (1), or under subsection (1E)(a) or (1K) of section 22.
+(a) the registrar, or as the case may be, an tArd-Chláraitheoir, is satisfied that the parents of the child do not agree regarding a surname for the child, or
 
-(3) Where a birth has been entered on the register under subsection (1) or under subsection (1E)(a) or (1K) of section 22 the following persons may apply to a registrar to register the surname of the child:
+(b) the birth is registered under subsection (1E)(b)(i) of section 22.
+
+(2) ...
+
+(3) Where a birth has been entered on the register under subsection (1) ... the following persons may apply to a registrar to register the surname of the child:
 
 (a) where the child concerned has not attained the age of 18 years—
 
