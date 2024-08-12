@@ -28,7 +28,7 @@ Vital statistics.
 
 (3) The Minister may by regulations provide for giving effect to this section and the regulations may, in particular, include—
 
-(a) in the case of any birth, stillbirth, death, marriage, decree of divorce or decree of nullity of marriage, civil partnership, decree of dissolution, decree of nullity of civil partnership,, provisions requiring that specified information relating to the birth, stillbirth, death, marriage, decree of divorce or decree of nullity of marriage, civil partnership, decree of dissolution, decree of nullity of civil partnership, shall be furnished to the registrar concerned within a specified period,
+(a) in the case of any birth, stillbirth, death, marriage, decree of divorce or decree of nullity of marriage, civil partnership, decree of dissolution, decree of nullity of civil partnership,, provisions requiring that specified information relating to the birth, stillbirth, death, marriage, decree of divorce or decree of nullity of marriage, civil partnership, decree of dissolution, decree of nullity of civil partnership, shall be furnished to an tArd-Chláraitheoir or the registrar concerned within a specified period,
 
 (b) in the case of any other matter the subject of vital statistics, provision that specified information relating to the matter be furnished to a specified person within a specified period,
 
