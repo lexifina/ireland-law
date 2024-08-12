@@ -26,7 +26,7 @@ Liability of carriers.
 
 (b) that he or she did not know and had no reasonable grounds for suspecting that the document was invalid.
 
-(7) A person guilty of an offence under this section shall be liable on summary conviction to a fine of €3,000.
+(7) A person guilty of an offence under this section shall be liable on summary conviction to a class A fine.
 
 (8) The Minister may from time to time draw up and publish guidelines concerning steps to be taken by carriers to ensure compliance by them with this Act.
 

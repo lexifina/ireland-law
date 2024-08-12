@@ -4,7 +4,7 @@ Provisions in relation to offences.
 
 (a) that the person is alleged to have committed the offence,
 
-(b) that the person may, during the period of 28 days beginning on the date of the notice, make to a member of the Garda Síochána or an authorised person at a Garda Síochána station or at another place specified in the notice a payment of €1,500 accompanied by the notice,
+(b) that the person may, during the period of 28 days beginning on the date of the notice, make to a member of the Garda Síochána or an authorised person at a Garda Síochána station or at another place specified in the notice a payment of €2,500 accompanied by the notice,
 
 (c) that a prosecution in respect of the alleged offence will not be instituted during the period specified in the notice and, if the payment specified in the notice is being made during that period, no prosecution in respect of the alleged offence will be instituted.
 
