@@ -1,77 +1,73 @@
-F104[General practitioner medical and surgical service for certain persons over 70 years of age.
+F110[General practitioner medical and surgical service for certain persons over 70 years of age.
 
-58A.—(1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State in one of the following categories—
+58A. — (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State, who is not a person who comes within a category mentioned in subsection (1) of section 58, and who is in one of the following categories:
 
-(a) persons—
+(a) persons who have attained the age of 70 years;
 
-(i) who on or after 5 April 2013, attain or have attained the age of 70 years,
+(b) dependants of qualifying persons where the Health Service Executive has, in accordance with subsection (5)(a), confirmed that a condition specified in subsection (2) is met by the qualifying person concerned, for so long as that condition is met.
 
-(ii) who have limited eligibility,
+(2) A qualifying person meets a condition referred to in subsection (1)(b) where—
 
-(iii) whose gross income does not exceed the relevant gross income limit, and
+(a) in the case of a qualifying person who is not married, is not living together with another person as a married couple and does not have a civil partner, his or her gross income does not exceed the gross income limit specified in subsection (3)(a),
 
-(iv) who—
+(b) in the case of a qualifying person who is married, the combined gross income of the person and his or her spouse does not exceed the gross income limit specified in subsection (3)(b),
 
-(I) make an application to the Health Service Executive in such form as it may consider appropriate, and
+(c) in the case of a qualifying person who is living together with another person as a married couple, the combined gross income of the person and that other person does not exceed the gross income limit specified in subsection (3)(b), or
 
-(II) receive confirmation from the Health Service Executive that they have qualified for services under this section because they have attained the age of 70 years, are ordinarily resident in the State and their gross income does not exceed the relevant gross income limit, so long as their gross income does not exceed that relevant limit, and
+(d) in the case of a qualifying person who has a civil partner, the combined gross income of the person and his or her civil partner does not exceed the gross income limit specified in subsection (3)(b).
 
-(b) dependants of persons referred to in paragraph (a).
+(3) Subject to subsection (9)—
 
-(2) The gross income limits for the purposes of this section are the following:
+(a) for the purposes of subsection (2)(a), the gross income limit shall be €700 per week, not including the income from the portion of the person’s savings or similar investments whose capital value does not exceed €36,000, and
 
-(a) if a person—
+(b) for the purposes of subsection (2)(b), (c) and (d), the gross income limit shall be €1,400 per week, not including the income from the portion of the persons’ savings or similar investments whose capital value does not exceed €72,000.
 
-(i) is not married, and is not living together with another person as husband and wife, or
+(4) A qualifying person may, for the purposes of subsection (1)(b), make an application to the Health Service Executive, in such form as it considers appropriate, for confirmation that a condition specified in subsection (2) is met by him or her.
 
-(ii) does not have a civil partner, his or her gross income limit is €700 per week, not including the income from the portion of the person’s savings or similar investments whose capital value does not exceed €36,000, and
+(5) The Health Service Executive shall, on receipt of an application under subsection (4), consider the application, together with any information furnished to it pursuant to a request under subsection (6), and—
 
-(b) if persons—
+(a) if it is satisfied that a condition specified in subsection (2) is met by the qualifying person concerned, provide the qualifying person with confirmation in writing that the condition is met by him or her, or
 
-(i) are married or live together as husband and wife, or
+(b) if it is not so satisfied, provide the qualifying person with a notice in writing stating that the application has been refused and the reasons for such refusal.
 
-(ii) are civil partners as respects each other, their combined gross income limit is €1,400 per week, not including the income from the portion of their savings or similar investments whose capital value does not exceed €72,000.
+(6) A person shall, when requested to do so by the Health Service Executive, furnish to the Health Service Executive such information as the Health Service Executive considers necessary for it to establish that the person, or his or her dependant, as the case may be, is, or continues to be, entitled under subsection (1) to the service referred to in that subsection.
 
-(3) Where—
+(7) Where a person fails or refuses to furnish the information requested by the Health Service Executive under subsection (6) within such reasonable period as is specified in the request, the Health Service Executive may—
 
-(a) a person—
+(a) if the information requested relates to the person’s entitlement under subsection (1)(a) to the service referred to in that subsection, treat the person concerned as if he or she was not entitled under subsection (1)(a) to the service referred to in that subsection, and
 
-(i) was married to another person until that other person’s death,
+(b) if the information requested relates to the entitlement of the person’s dependant under subsection (1)(b) to the service referred to in that subsection, treat the dependant concerned as if he or she was not entitled under subsection (1)(b) to the service referred to in that subsection.
 
-(ii) was living with another person as husband and wife until that other person’s death, or
+(8) The Health Service Executive shall provide any necessary assistance to any person in the making of an application under subsection (4) or the furnishing of information requested under subsection (6), as the case may be, where, by reason of any incapacity, such person requests such assistance.
 
-(iii) was a civil partner as respects another person until that other person’s death, and
+(9) The Minister shall, on 1 September of every year, review the most recent information on the consumer price index made available by the Central Statistics Office and may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, by regulations to take effect on 1 January next following that review, increase or decrease the gross income limits specified in subsection (3) to reflect any increase or decrease in that index.
 
-(b) the death of the other person occurred on or after 5 April 2013, and
+(10) In the calculation of the gross income of a person for the purposes of this section, all gross income from all sources shall be included other than the gross income arising from the following sources of income, and any subsequent income from the investment of the monies arising from the sources referred to in paragraphs (a) to (e):
 
-(c) the surviving person had attained the age of 70 years at the time of the death of that other person, the gross income limit applicable to the surviving person in the 3 years following the death of that other person shall be that specified in paragraph (b) of subsection (2) for such part of that period as the surviving person is not married, living together with another person as husband and wife, or does not have a civil partner.
+(a) compensation awarded under the Hepatitis C Compensation Tribunal Acts 1997 to 2006;
 
-(4) The Health Service Executive shall provide any necessary supports to any person in the making of an application under subsection (1) where, by reason of any incapacity, such person requests such assistance.
+(b) compensation awarded by the Residential Institutions Redress Board established under section 3 of the Residential Institutions Redress Act 2002;
 
-(5) The Minister shall, on 1 September of every year, review the most recent information on the consumer price index made available by the Central Statistics Office, and may, with the consent of the Minister for Public Expenditure and Reform, by regulations to take effect on 1 January next following that review, increase or decrease the gross income limits specified for the purposes of this section to reflect any increase or decrease in that index.
-
-(6) In the calculation of gross income for the purposes of this section, all gross income from all sources is to be included except for the gross income arising from the following sources of income, and any subsequent income from the investment of the monies arising from those sources:
-
-(a) compensation awards to persons under the Hepatitis C Compensation Tribunal Acts 1997 to 2006;
-
-(b) compensation awards by way of the Residential Institutions Redress Board established under section 3 of the Residential Institutions Redress Act 2002;
-
-(c) prescribed repayments made under section 8 of the Health (Repayment Scheme) Act 2006 made—
-
-(i) to a living relevant person,
-
-(ii) to the spouse or former spouse of a living or deceased relevant person,
-
-(iii) directly to a living child of a relevant person by virtue of section 9(8) of that Act;
+(c) prescribed repayments referred to in section 8(2) of the Health (Repayment Scheme) Act 2006;
 
 (d) ex-gratia awards approved by the Lourdes Hospital Redress Board under the terms of the Lourdes Hospital Redress Scheme 2007;
 
-(e) similar awards and payments set out in regulations made under subsection (8).
+(e) such other awards and payments prescribed in regulations made under subsection (12);
 
-(7) In the calculation of gross income for the purposes of this section, income will not be imputed from property comprising an interest in land (whether a family home, a holiday home or any other property), other than the net rental income (calculated as gross rental income, less any cost necessarily incurred and associated with the rental of the property).
+(f) relevant sums (within the meaning of section 216A of the Act of 1997) arising to the person (or the person’s spouse or civil partner) which qualify for relief under section 216A of the Act of 1997.
 
-(8) The Minister may make regulations prescribing a class or classes of payments not coming within paragraphs (a) to (d) of subsection (6) but which the Minister considers to be made for a similar purpose as those made under those paragraphs.
+(11) Subject to subsection (10)(f), in the calculation of the gross income of a person for the purposes of this section, income shall not be imputed from property comprising an interest in land (whether a family home, a holiday home or any other property) other than any net rental income (calculated as gross rental income less any cost necessarily incurred and associated with the rental of the property).
 
-(9) Insofar as it is considered practicable by the Health Service Executive, a choice of medical practitioner shall be offered under the general practitioner medical and surgical service made available under this section.
+(12) The Minister may make regulations prescribing a class or classes of awards or payments not coming within paragraphs (a) to (d) of subsection (10) but which the Minister considers to be made for a similar purpose as those made under those paragraphs.
 
-(10) In this section "civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
+(13) Insofar as it is considered practicable by the Health Service Executive, a choice of medical practitioner shall be offered under the general practitioner medical and surgical service made available under this section.
+
+(14) In this section—
+
+"Act of 1997" means the Taxes Consolidation Act 1997;
+
+"civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+"dependants" means dependants who have not attained the age of 70 years;
+
+"qualifying person" means a person who has attained the age of 70 years and is entitled to the service referred to in subsection (1).
