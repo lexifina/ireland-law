@@ -18,4 +18,4 @@ Normal retirement age.
 
 (a) whose duties include attendance at fires, and
 
-(b) whose conditions of service require him or her to retire upon attaining the age of 55 years or, subject to medical examination or examinations, 58 years, the normal retirement age for such person shall be determined in accordance with those conditions.
+(b) whose conditions of service require him or her to retire upon attaining the age of 55 years or where a higher age is specified by regulations under section 158 (1)(ba) of the Local Government Act 2001, that age, the normal retirement age for such person shall be determined in accordance with those conditions.

@@ -186,6 +186,12 @@ Interpretation (Part 2).
 
 “Scheme member” has the meaning given in section 10;
 
+"specified fast accrual member" means a person to whom section 26(1) applies who—
+
+(a) immediately before the date of coming into operation of section 31 of the Courts, Civil Law, Criminal Law and Superannuation (Miscellaneous Provisions) Act 2024, is in a pensionable position that requires the person to retire upon attaining the age of 60 years or before that age, or
+
+(b) becomes a pensionable public servant on or after the date referred to in paragraph (a);
+
 “subsidiary” means a subsidiary within the meaning of the Companies Acts;
 
 “Superannuation Acts” means—
