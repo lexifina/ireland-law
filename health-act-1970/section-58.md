@@ -10,7 +10,9 @@ General practitioner medical and surgical service.
 
 (c) dependants who are ordinarily resident in the State of the persons referred to in paragraph (b).
 
-(2) In deciding whether or not a person comes within the category mentioned in subsection (1)(b), the Health Service Executive shall have regard to the person's overall financial situation (including the means of the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, if any, of that person in addition to the person's own means) in view of the person's reasonable expenditure in relation to himself or herself and his or her dependants, if any.
+(2) Subject to subsection (2A), in deciding whether or not a person comes within the category mentioned in subsection (1)(b), the Health Service Executive shall have regard to the person's overall financial situation (including the means of the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, if any, of that person in addition to the person's own means) in view of the person's reasonable expenditure in relation to himself or herself and his or her dependants, if any.
+
+(2A) In having regard to a person’s overall financial situation under subsection (2), the Health Service Executive shall disregard any relevant sums (within the meaning of section 216A of the Taxes Consolidation Act 1997) arising to the person (or the person’s spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010) which qualify for relief under section 216A of the Taxes Consolidation Act 1997.
 
 (3) Insofar as it is considered practicable by the Health Service Executive, a choice of medical practitioner shall be offered under the general practitioner medical and surgical service made available under this section.
 
