@@ -110,7 +110,7 @@ Interpretation.
 
 "Scheme member" has the same meaning as it has in the Act of 2012.
 
-“specified fire brigade employee” means a whole-time employee of a fire authority under the Fire Services Act 1981 whose duties include the attendance at fires and whose conditions of employment, as determined by a local authority under section 158(1)(b) of the Local Government Act 2001, require him or her to retire at 55 years of age;
+“specified fire brigade employee” means a whole-time employee of a fire authority under the Fire Services Act 1981 whose duties include the attendance at fires and whose conditions of employment, as determined by a local authority under section 158(1)(b) of the Local Government Act 2001, require him or her to retire at 55 years of age or where a higher age is specified by regulations under section 158(1)(ba) of the Local Government Act 2001, that age;
 
 “subsidiary” means a subsidiary within the meaning of the Companies Act 1963;
 

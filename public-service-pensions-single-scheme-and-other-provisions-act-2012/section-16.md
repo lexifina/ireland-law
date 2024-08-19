@@ -22,7 +22,7 @@ Rates of contribution
 
 Contribution rate: Contribution rate: expressed as expressed as percentage percentage of net of pensionable pensionable remuneration remuneration (1) (2) (3)
 
-Persons to whom section 19 refers 3.5% 3%
+Persons to whom section 19 refers and specified fast accrual members who have attained 3.5% 3% the age of 60 years
 
 Persons to whom section 20 refers - 13%
 
@@ -30,17 +30,17 @@ Persons to whom section 21 refers - 13%
 
 Persons to whom section 22 refers - 13%
 
-Persons to whom section 23 refers who hold office 7% 6%
+Persons to whom section 23 refers who hold office on a basis which is fully insured for social welfare 7% 6% purposes Contribution rate: Contribution rate: expressed as expressed as percentage percentage of net of pensionable pensionable remuneration remuneration (1) (2) (3)
 
-Persons to whom section 23 refers who hold office - 13%
+Persons to whom section 23 refers who hold office on a basis which is not fully insured for social - 13% welfare purposes
 
 Persons to whom section 24 refers - 13%
 
-Persons to whom section 25 refers who hold office - 10%
+Persons to whom section 25 refers who hold office on a basis which is not fully insured for social - 10% welfare purposes
 
-Persons to whom section 25 refers who hold office 5.7% 4.3%
+Persons to whom section 25 refers who hold office on a basis which is fully insured for social welfare 5.7% 4.3% purposes
 
-Persons to whom section 26 refers 4.2% 3.3%
+Persons to whom section 26 refers and specified fast accrual members to whom that 4.2% 3.3% section refers who have not attained the age of 60 years
 
 (4) Where a public service body is financed wholly or mainly from sources other than directly or indirectly out of the Central Fund or the growing produce of that Fund, the Minister may require the public service body, or the relevant authority concerned where that body is not the relevant authority, to make a contribution to the Scheme of such percentage of pensionable remuneration of each scheme member concerned that—
 

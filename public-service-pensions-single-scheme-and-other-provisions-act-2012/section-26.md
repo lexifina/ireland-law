@@ -46,14 +46,32 @@ Calculation of retirement benefits — Scheme members who may be required to ret
 
 “prison officer” means a person to whom, but for this Part, a superannuation allowance might be granted (without a medical certificate) upon his or her attaining the age of 55 years, by virtue of being a person to whom paragraph (a) (inserted by section 5 of the Public Service Superannuation (Miscellaneous Provisions) Act 2004) of section 1(1) of the Superannuation (Prison Officers) Act 1919 relates;
 
-“referable amounts in respect of each calendar year or part of a calendar year”, in relation to a calendar year or part of a calendar year of service, means—
+"referable amounts in respect of each calendar year or part of a calendar year", in relation to a calendar year or part of a calendar year of service, means—
 
-(a) for the purpose of the calculation of an annual pension, an amount calculated at a rate of—
+(a) in respect of a member to whom subsection (1) applies who is not a specified fast accrual member—
 
-(i) 0.58 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is less than or equal to 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis, and
+(i) for the purpose of the calculation of an annual pension, an amount calculated at a rate of—
 
-(ii) 1.43 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is greater than 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis, and
+(I) 0.58 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is less than or equal to 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis, and
 
-(b) for the purpose of the calculation of the lump sum payment, an amount calculated at a rate of 4.29 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies, adjusted by reference to the proportion of full-time hours worked by the person where not working on a full-time basis, and as adjusted thereafter, until payment of the pension and lump sum arises in accordance with this Part, by reference to such adjustments as may arise as provided for in section 40;
+(II) 1.43 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is greater than 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis, and
 
-“specified fire brigade employee” means a person who holds a whole-time post under a local authority which is a fire authority under the Fire Services Act 1981 whose duties include the attendance at fires and whose conditions of employment, as determined by a local authority under section 158(1)(b) of the Local Government Act 2001, require him or her to retire upon attaining the age of 55 years.
+(ii) for the purpose of the calculation of the lump sum payment, an amount calculated at a rate of 4.29 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies, adjusted by reference to the proportion of full-time hours worked by the person where not working on a full-time basis, and as adjusted thereafter, until payment of the pension and lump sum arises in accordance with this Part, by reference to such adjustments as may arise as provided for in section 40, and
+
+(b) in respect of a member to whom subsection (1) applies who is a specified fast accrual member—
+
+(i) for the purpose of the calculation of an annual pension, an amount calculated at a rate of—
+
+(I) 0.58 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is less than or equal to 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis,
+
+(II) during which period the member has not attained the age of 60 years, 1.43 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is greater than 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis, and
+
+(III) during which period the member is aged 60 years or above, 1.25 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies that is greater than 3.74 times the value of the contributory State Pension at that time, as adjusted, when not working on a full-time basis, by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis, and
+
+(ii) for the purpose of the calculation of the lump sum payment, an amount calculated at a rate of—
+
+(I) during which period the member has not attained the age of 60 years, 4.29 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies, adjusted by reference to the proportion of full-time hours worked by the person where not working on a full-time basis, and
+
+(II) during which period the member is aged 60 years or above, 3.75 per cent of the Scheme member’s pensionable remuneration for that year or part of a year as a Scheme member to whom subsection (1) applies, adjusted by reference to the proportion of full-time hours worked by the person where not working on a full-time basis, and as adjusted thereafter, until payment of the pension and lump sum arises in accordance with this Part, by reference to such adjustments as may arise as provided for in section 40;
+
+"specified fire brigade employee" has the same meaning as it has in the Public Service Superannuation (Miscellaneous Provisions) Act 2004.
