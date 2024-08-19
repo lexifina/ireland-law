@@ -1,4 +1,4 @@
-F67[Guidelines on "ordinarily resident in the State".
+F71[Guidelines on "ordinarily resident in the State".
 
 47A.—The Minister may issue guidelines to—
 
