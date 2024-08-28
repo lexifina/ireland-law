@@ -1,4 +1,4 @@
-F63[Regulations for the prevention or limitation of water pollution.
+F64[Regulations for the prevention or limitation of water pollution.
 
 26A.—(1) For the purpose of preventing or limiting water pollution, the Minister may, by regulations, prohibit or limit or control in a specified manner and to a specified extent, the production, treatment, use (in a process or otherwise), importation, distribution, storage, transport, supply or sale of any specified substance or of any article containing any specified substance.
 
