@@ -12,7 +12,7 @@ Provisions relating to certain contraventions under Act.
 
 (III) to pay to the applicant or such other person as may be specified in the order a specified amount to defray all or part of any costs incurred by the applicant or that other person in investigating, mitigating or remedying the effects of the entry or discharge concerned.
 
-(b) In this subsection ‘appropriate court’, in relation to an application under paragraph (a) means—
+(b) In this subsection "appropriate court", in relation to an application under paragraph (a) means—
 
 (i) in case the estimated cost of complying with the order to which the application relates does not exceed €15,000, the District Court,
 
