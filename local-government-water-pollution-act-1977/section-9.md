@@ -2,7 +2,7 @@ Registers of licences under sections 4 and 16 and of water abstractions.
 
 9. — (1) Each local authority shall cause to be established and kept a register of all licences under section 4 granted by it.
 
-(2) Each local authority shall cause to be established and kept a register of abstractions from waters in its functional area.
+(2) ...
 
 (3) Each sanitary authority shall cause to be established and kept a register of all licences under section 16 granted by it.
 
@@ -14,4 +14,4 @@ Registers of licences under sections 4 and 16 and of water abstractions.
 
 (7) The Minister may make regulations for the purpose of this section.
 
-(8) Without prejudice to the generality of subsection (7), regulations under this section may provide that specified classes of abstractions shall be exempt from subsection (2).
+(8) ...

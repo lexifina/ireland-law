@@ -92,6 +92,8 @@ REASONS FOR THE REFUSAL OF PERMISSION WHICH EXCLUDE COMPENSATION
 
 20C. The proposed development would cause a serious aircraft noise problem at Dublin Airport including, as appropriate, the area around Dublin Airport significantly affected by aircraft noise.
 
+20D. The proposed development would not be consistent with the objectives of a river basin management plan made under Regulation 13 of the European Communities (Water Policy) Regulations 2003 (S.I. No. 722 of 2003).
+
 21. (a) Subject to paragraph 22, paragraphs 19 and 20 shall not apply in a case where a development objective for the use specified in paragraph 20 applied to the land at any time during the period of a development plan and the development objective of which was changed as a result of a variation of the plan during such period prior to the date on which the relevant application for permission was made to develop the land, and the development would not have contravened materially that development objective.
 
 (b) Paragraph 20 shall not apply in a case where, as a result of a direction by the Minister under section 31(2) given within one year of the making of a development plan, a planning authority amends or revokes a development objective referred to in paragraph 19 but without prejudice to any right of compensation which may otherwise arise in respect of any refusal of permission under Part III in respect of an application made before such direction was issued by the Minister.

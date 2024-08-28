@@ -70,7 +70,7 @@ Environmental Infrastructure
 
 —An installation for the disposal, treatment or recovery of waste with a capacity for an annual intake greater than 100,000 tonnes.
 
-—A groundwater abstraction or artificial groundwater recharge scheme, where the annual volume of water abstracted or recharged is equivalent to or exceeds 2 million cubic metres.
+—A groundwater abstraction, artificial groundwater recharge scheme or a surface water abstraction, where the annual volume of water abstracted or recharged is equivalent to or exceeds 2 million cubic metres.
 
 —Any works for the transfer of water resources between river basins, where the annual volume of water abstracted or recharged would exceed 2 million cubic metres.
 

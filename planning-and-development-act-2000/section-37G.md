@@ -42,7 +42,9 @@ Decision by Board on application under section 37E.
 
 (b) controlling emissions related to or following the cessation of the operation or the activity.
 
-(5) Where an application under section 37E relates to proposed development which comprises or is for the purposes of an activity for which an integrated pollution control licence or a waste licence is required, the Board may, in respect of that development, decide to refuse a grant of permission under this section, where the Board considers that the development, notwithstanding the licensing of the activity, is unacceptable on environmental grounds, having regard to the proper planning and sustainable development of the area in which the development will be situated.
+(4A) Where an application under section 37E relates to proposed development which comprises or is for the purposes of an activity for which an abstraction licence is required, the Board shall not, where it decides to grant permission, subject that permission to conditions which are for the purposes of controlling the abstraction related to the operation of the activity.
+
+(5) Where an application under section 37E relates to proposed development which comprises or is for the purposes of an activity for which an integrated pollution control licence, an abstraction licence or a waste licence is required, the Board may, in respect of that development, decide to refuse a grant of permission under this section, where the Board considers that the development, notwithstanding the licensing of the activity, is unacceptable on environmental grounds, having regard to the proper planning and sustainable development of the area in which the development will be situated.
 
 (6) The Board may decide to grant a permission for development, or any part of a development, under this section even if the proposed development, or part thereof, contravenes materially the development plan relating to any area in which it is proposed to situate the development.
 

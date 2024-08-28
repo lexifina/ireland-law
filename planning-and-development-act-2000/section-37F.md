@@ -28,7 +28,7 @@ Section 37E: supplemental provisions.
 
 (4) The Board, or an employee of the Board duly authorised by the Board, may appoint any person to hold a meeting referred to in subsection (1)(e).
 
-(5) Before making a decision under section 37G in respect of proposed development comprising or for the purposes of an activity for which an integrated pollution control licence or a waste licence is required, the Board may request the Environmental Protection Agency to make observations within such period (which period shall not in any case be less than 3 weeks from the date of the request) as may be specified by the Board in relation to the proposed development.
+(5) Before making a decision under section 37G in respect of proposed development comprising or for the purposes of an activity for which an integrated pollution control licence, an abstraction licence or a waste licence is required, the Board may request the Environmental Protection Agency to make observations within such period (which period shall not in any case be less than 3 weeks from the date of the request) as may be specified by the Board in relation to the proposed development.
 
 (6) When making its decision under section 37G on the application the Board shall have regard to the observations, if any, received from the Environmental Protection Agency within the period specified under subsection (5).
 

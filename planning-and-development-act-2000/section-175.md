@@ -92,9 +92,7 @@ Environmental impact assessment of certain development carried out by or on beha
 
 (I) a notice of the furnishing to the Board of, as appropriate, the further information referred to in subparagraph (i)(I) or the information or report referred to in subparagraph (i)(II), and
 
-(II) a copy of that further information, information or report, and to indicate to the authority that submissions or observations in relation to that further information, information or report may be made to the Board before the expiration of a period (which shall not be less than
-
-5 weeks) beginning on the day on which the notice is sent to the prescribed authority by the local authority.
+(II) a copy of that further information, information or report, and to indicate to the authority that submissions or observations in relation to that further information, information or report may be made to the Board before the expiration of a period (which shall not be less than 5 weeks) beginning on the day on which the notice is sent to the prescribed authority by the local authority.
 
 (6) Before making a decision in respect of a proposed development under this section, the Board shall consider—
 
@@ -176,7 +174,9 @@ Environmental impact assessment of certain development carried out by or on beha
 
 (ii) controlling emissions related to or following the cessation of the operation of the activity.
 
-(b) Where an application under this section relates to proposed development which comprises or is for the purposes of an activity for which an integrated pollution control licence or a waste licence is required, the Board may, in respect of any proposed development comprising or for the purposes of the activity, decide to refuse the proposed development, where the Board considers that the development, notwithstanding the licensing of the activity, is unacceptable on environmental grounds, having regard to the proper planning and sustainable development of the area in which the development is or will be situate.
+(aa) Where an application under this section relates to proposed development which comprises or is for the purposes of an activity for which an abstraction licence is required, the Board shall not, where it decides to approve the proposed development, subject that approval to conditions which are for the purposes of controlling the abstraction related to the operation of the activity.
+
+(b) Where an application under this section relates to proposed development which comprises or is for the purposes of an activity for which an integrated pollution control licence, an abstraction licence or a waste licence is required, the Board may, in respect of any proposed development comprising or for the purposes of the activity, decide to refuse the proposed development, where the Board considers that the development, notwithstanding the licensing of the activity, is unacceptable on environmental grounds, having regard to the proper planning and sustainable development of the area in which the development is or will be situate.
 
 (c) (i) Before making a decision in respect of proposed development comprising or for the purposes of an activity, the Board may request the Environmental Protection Agency to make observations within such period (which period shall not in any case be less than 3 weeks from the date of the request) as may be specified by the Board in relation to the proposed development.
 

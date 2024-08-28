@@ -48,6 +48,8 @@ Permission for development.
 
 (c) Subject to section 99F of the Environmental Protection Agency Act 1992, and section 54 (as amended by section 257 of this Act) of the Waste Management Act, 1996, where an application under this section relates to development which comprises or is for the purposes of an activity for which an integrated pollution control licence or a waste licence is required, a planning authority shall take into consideration that the control of emissions arising from the activity is a function of the Environmental Protection Agency.
 
+(ca) Where an application under this section relates to development which comprises or is for the purposes of an activity for which an abstraction licence is required, a planning authority shall take into consideration that the control of abstractions is a function of the Environmental Protection Agency.
+
 (d) In this subsection "specific planning policy requirements" means such policy requirements identified in guidelines issued by the Minister to support the consistent application of Government or national policy and principles by planning authorities, including the Board, in securing overall proper planning and sustainable development.
 
 (3) A planning authority shall, when considering an application for permission under this section, have regard to—

@@ -14,7 +14,7 @@ Planning register.
 
 (ii) the outcome of screening for appropriate assessment and the reasons therefor,
 
-(c) where a development, to which an application relates, comprises or is for the purposes of an activity in respect of which an integrated pollution control licence or a waste management licence is required, or a licence under the Local Government (Water Pollution) Act, 1977, is required in respect of discharges from the development, a statement as to that requirement,
+(c) where a development, to which an application relates, comprises or is for the purposes of an activity in respect of which an integrated pollution control licence, an abstraction licence or a waste management licence is required, or a licence under the Local Government (Water Pollution) Act, 1977, is required in respect of discharges from the development, a statement as to that requirement,
 
 (d) where the development to which the application relates would materially affect a protected structure or is situated in an area declared to be an area of special amenity under section 202, an indication of this fact,
 
