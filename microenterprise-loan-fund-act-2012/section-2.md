@@ -12,7 +12,7 @@ Interpretation.
 
 “Minister” means the Minister for Jobs, Enterprise and Innovation;
 
-‘promotional financial institution’ means—
+"promotional financial institution" means—
 
 (a) the Strategic Banking Corporation of Ireland, or
 
