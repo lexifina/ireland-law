@@ -2,6 +2,10 @@ Interpretation.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
+"abstraction" has the same meaning as in the Water Environment (Abstractions and Associated Impoundments) Act 2022;
+
+"abstraction licence" means a licence granted by the Environmental Protection Agency under Part 5 of the Water Environment (Abstractions and Associated Impoundments) Act 2022;
+
 “acquisition of land” shall be construed in accordance with section 213(2), and cognate words shall be construed accordingly;
 
 “the Act of 1919” means the Acquisition of Land (Assessment of Compensation) Act, 1919;
