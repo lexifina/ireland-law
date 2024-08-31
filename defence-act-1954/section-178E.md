@@ -1,6 +1,6 @@
 Appeal to summary court-martial.
 
-178E.— (1) This section and sections 178F and 178G shall apply in relation to a compensation order made under section 177C or 178C as they apply to a punishment awarded under the said section 177C or 178C, as the case may be, and for the purpose of such application references in this section and sections 178F and 178G to a punishment shall be construed as references to a compensation order.
+178E.—(1) This section and sections 178F and 178G shall apply in relation to a compensation order made under section 177C or 178C as they apply to a punishment awarded under the said section 177C or 178C, as the case may be, and for the purpose of such application references in this section and sections 178F and 178G to a punishment shall be construed as references to a compensation order.
 
 (2) A person in respect of whom, under section 177C or 178C—
 

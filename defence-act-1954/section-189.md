@@ -1,6 +1,6 @@
 General court-martial.
 
-189.— (1) A general court-martial shall consist of—
+189.—(1) A general court-martial shall consist of—
 
 (a) a military judge, and
 

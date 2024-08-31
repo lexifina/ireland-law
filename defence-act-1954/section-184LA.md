@@ -1,6 +1,6 @@
 Circuit Judge to perform functions of military judge in certain circumstances.
 
-184LA.— (1) The Minister may, having consulted with the Minister for Justice and Equality, request the President of the Circuit Court to temporarily designate, under section 11A of the Act of 1947, one, or more than one, Circuit Judge to perform the functions of a military judge in all or any of the following circumstances:
+184LA.—(1) The Minister may, having consulted with the Minister for Justice and Equality, request the President of the Circuit Court to temporarily designate, under section 11A of the Act of 1947, one, or more than one, Circuit Judge to perform the functions of a military judge in all or any of the following circumstances:
 
 (a) where there is a vacancy for the position of military judge and no person has been appointed, under section 184J(1), as military judge;
 

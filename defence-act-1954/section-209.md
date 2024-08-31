@@ -24,9 +24,7 @@ G. (a) In the case of a person subject to military law as an officer under secti
 
 (c) In the case of a person who is not a member of the Defence Forces but who was an officer when the offence was committed, a fine not exceeding an amount equal to fourteen days’ pay at the most recent rate applicable to his former rank.
 
-H. Severe reprimand.
-
-I. Reprimand.
+H. Severe reprimand. I. Reprimand.
 
 (2) For the purposes of this Act in its application to a person subject to military law as an officer, any punishment mentioned in the Scale to subsection (1) of this section shall be deemed to be a punishment less than any punishment mentioned before it in the said Scale.
 

@@ -1,6 +1,6 @@
 Admission to courts-martial.
 
-194.— (1) Subject to this section and to any other enactment, proceedings before a court-martial shall be held in public.
+194.—(1) Subject to this section and to any other enactment, proceedings before a court-martial shall be held in public.
 
 (2) Where the military judge presiding at a court-martial is satisfied that because of the nature or circumstances of the case or otherwise in the interests of justice or the security of the State or of the Defence Forces that it is desirable to do so, he may do any one or more of the following:
 

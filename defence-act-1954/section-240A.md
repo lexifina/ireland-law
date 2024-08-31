@@ -1,6 +1,6 @@
 Courts-Martial Rules Committee.
 
-240A.— (1) There is hereby established a committee to be known as Coiste Rialacha na nArmchúirteanna or in the English language as the Courts-Martial Rules Committee (in this Chapter referred to as the "Committee").
+240A.—(1) There is hereby established a committee to be known as Coiste Rialacha na nArmchúirteanna or in the English language as the Courts-Martial Rules Committee (in this Chapter referred to as the "Committee").
 
 (2) The functions of the Committee shall be, with the concurrence of the Minister, to make rules of court (in this Act referred to as "court-martial rules") in accordance with section 240B.
 

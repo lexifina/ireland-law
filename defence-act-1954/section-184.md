@@ -1,6 +1,6 @@
 Regulations in relation to investigation and summary disposition of charges.
 
-184.— (1) For the purposes of this Chapter, the Minister may make regulations, not inconsistent with this Act, in relation to all or any of the following matters:
+184.—(1) For the purposes of this Chapter, the Minister may make regulations, not inconsistent with this Act, in relation to all or any of the following matters:
 
 (a) the investigation and summary disposal under this Chapter of charges against persons subject to military law, including the exercise of the right to elect for trial by court-martial, which regulations may include:
 

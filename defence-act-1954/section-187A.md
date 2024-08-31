@@ -1,6 +1,6 @@
 Summary court-martial.
 
-187A.— (1) There shall be a court-martial to be known as the summary court-martial.
+187A.—(1) There shall be a court-martial to be known as the summary court-martial.
 
 (2) Every military judge is authorised to preside at a summary court-martial and a military judge who does so constitutes the summary court-martial.
 

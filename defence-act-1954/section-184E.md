@@ -1,6 +1,6 @@
 Terms and conditions of appointment.
 
-184E.— (1) Subject to this Chapter, the Director shall hold and vacate office on the terms and conditions determined by the Minister with the consent of the Minister for Finance.
+184E.—(1) Subject to this Chapter, the Director shall hold and vacate office on the terms and conditions determined by the Minister with the consent of the Minister for Finance.
 
 (2) The Director shall be independent in the performance of his functions.
 

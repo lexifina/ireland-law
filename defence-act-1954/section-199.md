@@ -1,6 +1,6 @@
 Swearing of court-martial.
 
-199.— (1) When a court-martial board is constituted with the required number of persons who are not objected to or the objections to whom have not been allowed, an oath in the form prescribed by court-martial rules shall be administered by the person or persons so prescribed to—
+199.—(1) When a court-martial board is constituted with the required number of persons who are not objected to or the objections to whom have not been allowed, an oath in the form prescribed by court-martial rules shall be administered by the person or persons so prescribed to—
 
 (a) each member of the court-martial board, and
 

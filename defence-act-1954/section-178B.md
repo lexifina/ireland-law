@@ -1,6 +1,6 @@
 Right to elect for trial by court-martial.
 
-178B.— (1) Before disposing of a charge summarily under section 178C, the commanding officer shall, in the prescribed manner—
+178B.—(1) Before disposing of a charge summarily under section 178C, the commanding officer shall, in the prescribed manner—
 
 (a) ask the person charged whether he elects to have the charge disposed of summarily by the commanding officer or to be tried by court-martial, and
 

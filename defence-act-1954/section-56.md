@@ -1,5 +1,3 @@
-## Proceedings for enlistment.
-
 Recruiting regulations.
 
 56.—(1) The Minister may make regulations (in this Act referred to as recruiting regulations) in relation to all or any of the following matters, that is to say:—

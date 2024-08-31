@@ -1,6 +1,6 @@
 Remand for trial by court-martial.
 
-178D.— (1) Where the person charged is remanded for trial by court-martial under section 178(2)(a)(ii) or 178C and the matter is referred to the Director for his directions, the Director may direct that the charge (with such alterations, amendments, additions, substitutions and additional charges as he thinks fit) be referred back to the commanding officer and the commanding officer shall either dismiss or, subject to the right to elect to be tried by court-martial pursuant to section 178B, dispose of the charge or charges so referred back summarily in accordance with section 178C.
+178D.—(1) Where the person charged is remanded for trial by court-martial under section 178(2)(a)(ii) or 178C and the matter is referred to the Director for his directions, the Director may direct that the charge (with such alterations, amendments, additions, substitutions and additional charges as he thinks fit) be referred back to the commanding officer and the commanding officer shall either dismiss or, subject to the right to elect to be tried by court-martial pursuant to section 178B, dispose of the charge or charges so referred back summarily in accordance with section 178C.
 
 (2) Where the person charged—
 

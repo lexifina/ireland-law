@@ -1,6 +1,6 @@
 Hearing of appeals by commanding officer.
 
-179E.— (1) An appeal under section 179D against a determination shall be by way of a rehearing of the charge and a rehearing as regards punishment.
+179E.—(1) An appeal under section 179D against a determination shall be by way of a rehearing of the charge and a rehearing as regards punishment.
 
 (2) An appeal under section 179D against punishment shall be by way of a rehearing as regards punishment.
 

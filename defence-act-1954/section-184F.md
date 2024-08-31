@@ -1,6 +1,6 @@
 Prosecuting officers.
 
-184F.— (1) The Director may appoint officers to be prosecuting officers.
+184F.—(1) The Director may appoint officers to be prosecuting officers.
 
 (2) An officer shall not be appointed as a prosecuting officer unless, at the date of appointment under subsection (1) of this section, the officer is a barrister or solicitor.
 

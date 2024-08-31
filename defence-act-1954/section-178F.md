@@ -1,6 +1,6 @@
 Hearing of appeal by summary court-martial.
 
-178F.— (1) An appeal under section 178E against a determination shall be by way of—
+178F.—(1) An appeal under section 178E against a determination shall be by way of—
 
 (a) a rehearing of the charge, and
 

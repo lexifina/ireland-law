@@ -1,6 +1,6 @@
 Mental disorder at time of commission of offence.
 
-203.— (1) Where at the trial by court-martial of a person charged with an offence, the summary court-martial, or in the case of a general court-martial or limited court-martial, the court-martial board, finds that the person did the act or made the omission charged but, having heard evidence relating to his mental condition given by a consultant psychiatrist, finds that he was at the time when he did the act or made the omission suffering from a mental disorder and that the mental disorder was such that he should not be held responsible for the act or omission alleged by reason of the fact that—
+203.—(1) Where at the trial by court-martial of a person charged with an offence, the summary court-martial, or in the case of a general court-martial or limited court-martial, the court-martial board, finds that the person did the act or made the omission charged but, having heard evidence relating to his mental condition given by a consultant psychiatrist, finds that he was at the time when he did the act or made the omission suffering from a mental disorder and that the mental disorder was such that he should not be held responsible for the act or omission alleged by reason of the fact that—
 
 (a) he did not know the nature and quality of the act he was doing, or
 

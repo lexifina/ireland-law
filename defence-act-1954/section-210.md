@@ -18,9 +18,9 @@ D. Detention—
 
 E. Where the person convicted is a non-commissioned officer, reduction to any lower non-commissioned rank.
 
-F. Forfeiture of all seniority of rank or of a specified term of seniority.
+F. Forfeiture of all seniority of rank or of a specified term of seniority. G. Reduction to any lower point on the scale of pay for the rank held.
 
-G. Reduction to any lower point on the scale of pay for the rank held. H. (a) In the case of a person subject to military law as a man under section 119(a) or (b), a fine of an amount not exceeding fourteen days’ pay of the person at the most recent rate payable.
+H. (a) In the case of a person subject to military law as a man under section 119(a) or (b), a fine of an amount not exceeding fourteen days’ pay of the person at the most recent rate payable.
 
 (b) In the case of a person subject to military law as a man under section 119(c) or (d), a fine not exceeding the maximum fine awardable for the time being by a court-martial to a man holding the rank of private of the highest grade who is in receipt of the maximum pay applicable to that rank.
 

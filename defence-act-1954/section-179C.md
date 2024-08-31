@@ -1,6 +1,6 @@
 Summary disposal by subordinate officer.
 
-179C.— (1) This section applies where a private or seaman elects under section 179B to have the charge disposed of summarily by the subordinate officer.
+179C.—(1) This section applies where a private or seaman elects under section 179B to have the charge disposed of summarily by the subordinate officer.
 
 (2) The subordinate officer may, subject to subsection (5) of this section, dismiss the charge at any stage of the hearing.
 

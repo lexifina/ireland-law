@@ -1,6 +1,6 @@
 Dissolution of courts-martial.
 
-193.— (1) This section applies to the dissolution of a general court-martial or limited court-martial.
+193.—(1) This section applies to the dissolution of a general court-martial or limited court-martial.
 
 (2) The Court-Martial Administrator may dissolve a court-martial at any time before it has been sworn, where he considers that by reason of the exigencies of the service or for any other reason it is desirable to do so.
 

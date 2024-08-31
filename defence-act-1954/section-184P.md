@@ -1,6 +1,6 @@
 Steps to be taken before removal of military judge.
 
-184P.— (1) Before considering removal of a military judge from office under section 184O the Government shall—
+184P.—(1) Before considering removal of a military judge from office under section 184O the Government shall—
 
 (a) notify the military judge that the Government intends to consider the matter and include in the notice a statement of their reasons for doing so, and
 

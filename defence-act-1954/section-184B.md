@@ -1,6 +1,6 @@
 Functions of Court-Martial Administrator.
 
-184B.— (1) The Court-Martial Administrator shall manage and control generally the administration and business of courts-martial and shall perform such other functions as may be specified or prescribed by or under this Act.
+184B.—(1) The Court-Martial Administrator shall manage and control generally the administration and business of courts-martial and shall perform such other functions as may be specified or prescribed by or under this Act.
 
 (2) The Court-Martial Administrator shall act under the general supervision of the Judge Advocate-General.
 

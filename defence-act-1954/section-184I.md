@@ -1,6 +1,6 @@
 Steps to be taken before removal of Director.
 
-184I.— (1) Before considering the Director’s removal from office under section 184H the Government shall—
+184I.—(1) Before considering the Director’s removal from office under section 184H the Government shall—
 
 (a) notify the Director that the Government intends to consider the matter and include in the notice a statement of their reasons for doing so, and
 

@@ -1,6 +1,6 @@
 Prosecution of offences.
 
-184G.— (1) This section applies where a charge has been referred to the Director under any of the provisions of this Act.
+184G.—(1) This section applies where a charge has been referred to the Director under any of the provisions of this Act.
 
 (2) When a charge for an offence under this Act is referred to the Director he may exercise any of the powers conferred on him by any of the provisions of this Act.
 

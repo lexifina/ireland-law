@@ -1,6 +1,6 @@
 Summary disposal by commanding officer.
 
-178C.— (1) This section applies where the person charged elects under section 178B to have the charge disposed of summarily by the commanding officer and, in the case of a scheduled offence specified in Part II of the Eleventh Schedule to this Act, the Director has consented to the charge being disposed of summarily.
+178C.—(1) This section applies where the person charged elects under section 178B to have the charge disposed of summarily by the commanding officer and, in the case of a scheduled offence specified in Part II of the Eleventh Schedule to this Act, the Director has consented to the charge being disposed of summarily.
 
 (2) The commanding officer may, subject to subsection (5) of this section, dismiss the charge at any stage of the hearing.
 

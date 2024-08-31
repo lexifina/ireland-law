@@ -1,6 +1,6 @@
 Removal of military judge from office.
 
-184O.— (1) Subject to section 184P, a military judge may be removed from office by the President on the advice of the Government but only for stated reasons including because—
+184O.—(1) Subject to section 184P, a military judge may be removed from office by the President on the advice of the Government but only for stated reasons including because—
 
 (a) he has become incapable, through ill-health, either physical or mental, of effectively performing the functions of the office,
 

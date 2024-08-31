@@ -1,6 +1,6 @@
 Limited courts-martial.
 
-190.— (1) A limited court-martial shall consist of—
+190.—(1) A limited court-martial shall consist of—
 
 (a) a military judge, and
 

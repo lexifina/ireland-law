@@ -1,6 +1,6 @@
 Committee.
 
-184K.— (1) For the purpose of identifying officers , and persons other than officers, and informing the Government of the suitability of those officers , and such persons, for appointment to judicial office, there shall be established a committee consisting of—
+184K.—(1) For the purpose of identifying officers , and persons other than officers, and informing the Government of the suitability of those officers , and such persons, for appointment to judicial office, there shall be established a committee consisting of—
 
 (a) the Chief of Staff,
 

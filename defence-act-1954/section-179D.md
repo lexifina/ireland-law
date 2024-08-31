@@ -1,6 +1,6 @@
 Appeal to commanding officer.
 
-179D.— (1) This section and section 179E shall apply in relation to a compensation order made under section 179C as they apply to a punishment awarded under the said section 179C, and for the purpose of such application references in this section and section 179E to a punishment shall be construed as references to a compensation order.
+179D.—(1) This section and section 179E shall apply in relation to a compensation order made under section 179C as they apply to a punishment awarded under the said section 179C, and for the purpose of such application references in this section and section 179E to a punishment shall be construed as references to a compensation order.
 
 (2) A private or seaman in respect of whom, under section 179C—
 

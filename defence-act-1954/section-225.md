@@ -1,6 +1,6 @@
 Orders for restitution.
 
-225.— (1) Where a person is convicted by a court-martial of an offence under section 155 or 156, the military judge may on the conviction (whether or not the passing of sentence is in other respects deferred)—
+225.—(1) Where a person is convicted by a court-martial of an offence under section 155 or 156, the military judge may on the conviction (whether or not the passing of sentence is in other respects deferred)—
 
 (a) order anyone having possession or control of the property which is the subject of the offence to restore it to any person entitled to recover it from the convicted person,
 

@@ -1,6 +1,6 @@
 Effect of certain offences on persons in respect of whom committed.
 
-205A.— (1) In determining the punishment to be awarded to a person for an offence to which this section applies, the military judge presiding at the court-martial concerned shall take into account, and may, where necessary, receive evidence or submissions concerning, any effect (whether long-term or otherwise) of the offence on the person in respect of whom the offence was committed.
+205A.—(1) In determining the punishment to be awarded to a person for an offence to which this section applies, the military judge presiding at the court-martial concerned shall take into account, and may, where necessary, receive evidence or submissions concerning, any effect (whether long-term or otherwise) of the offence on the person in respect of whom the offence was committed.
 
 (2) This section applies to—
 

@@ -2,7 +2,7 @@
 
 Appointment of Court-Martial Administrator.
 
-184A.— (1) An officer of the Permanent Defence Force not below the army rank of colonel or the equivalent naval rank may by warrant of the Judge Advocate-General be appointed as the Court-Martial Administrator.
+184A.—(1) An officer of the Permanent Defence Force not below the army rank of colonel or the equivalent naval rank may by warrant of the Judge Advocate-General be appointed as the Court-Martial Administrator.
 
 (2) A warrant under this section may be made subject to such restrictions, reservations, exceptions and conditions as the Judge Advocate-General thinks fit including terms and conditions relating to the delegation by the Court-Martial Administrator of his functions under this Act.
 

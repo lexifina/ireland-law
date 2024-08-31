@@ -2,7 +2,7 @@
 
 Military judge.
 
-184J.— (1) The President may appoint, on the advice of the Government, one, or more than one, qualified officer of the Permanent Defence Force, or a qualified person other than an officer of the Permanent Defence Force, to be a military judge.
+184J.—(1) The President may appoint, on the advice of the Government, one, or more than one, qualified officer of the Permanent Defence Force, or a qualified person other than an officer of the Permanent Defence Force, to be a military judge.
 
 (2) An officer, or a person other than an officer of the Permanent Defence Force, who is a practising barrister or a practising solicitor of not less than 10 years standing shall be qualified for appointment as a military judge.
 

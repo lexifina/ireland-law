@@ -1,6 +1,6 @@
 Membership of court-martial board.
 
-191.— (1) None of the following persons may serve as a member of a court-martial board:
+191.—(1) None of the following persons may serve as a member of a court-martial board:
 
 (a) the Court-Martial Administrator or a member of his staff;
 

@@ -1,6 +1,6 @@
 Removal of Director from office.
 
-184H.— (1) Subject to section 184I, the Director may be removed from office by the Government but only for stated reasons, including because—
+184H.—(1) Subject to section 184I, the Director may be removed from office by the Government but only for stated reasons, including because—
 
 (a) he has become incapable, through ill-health, either physical or mental, of effectively performing the functions of the office,
 

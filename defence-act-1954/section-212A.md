@@ -1,6 +1,6 @@
 Power to suspend sentence.
 
-212A.— (1) In this section—
+212A.—(1) In this section—
 
 "governor" includes, in relation to a military prisoner or a person undergoing detention, a person for the time being performing the functions of governor;
 

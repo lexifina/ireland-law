@@ -1,6 +1,6 @@
 Courts-martial: findings and sentence.
 
-198.— (1) Subject to the provisions of this section, in the case of a general court-martial or limited court-martial, a finding of guilty on any charge shall be decided by a majority of at least two-thirds of the members of the court-martial board, after the military judge has summed up the law and the evidence.
+198.—(1) Subject to the provisions of this section, in the case of a general court-martial or limited court-martial, a finding of guilty on any charge shall be decided by a majority of at least two-thirds of the members of the court-martial board, after the military judge has summed up the law and the evidence.
 
 (2) Where two-thirds of the members of the court-martial board is not a whole number, the next highest whole number shall be taken to be two-thirds for the purposes of subsection (1) of this section.
 

@@ -1,6 +1,6 @@
 Powers of summary court-martial.
 
-178G.— (1) At a rehearing of the charge concerned under section 178F, the summary court-martial may confirm or quash the determination concerned.
+178G.—(1) At a rehearing of the charge concerned under section 178F, the summary court-martial may confirm or quash the determination concerned.
 
 (2) Where the summary court-martial quashes a determination, or where there is more than one determination, every determination, made in respect of the appellant, the summary court-martial shall quash the punishment which relates to that determination or, as the case may be, those determinations.
 

@@ -1,6 +1,6 @@
 Terms and conditions of appointment.
 
-184L.— (1) Subject to this Chapter, a military judge shall hold and vacate office on and subject to the terms and conditions (including terms and conditions relating to remuneration and superannuation) determined by the Minister with the consent of the Minister for Finance.
+184L.—(1) Subject to this Chapter, a military judge shall hold and vacate office on and subject to the terms and conditions (including terms and conditions relating to remuneration and superannuation) determined by the Minister with the consent of the Minister for Finance.
 
 (2) A military judge shall be independent in the performance of his judicial functions under this Act.
 

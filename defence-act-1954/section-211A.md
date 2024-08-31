@@ -1,6 +1,6 @@
 Restriction on sentence of imprisonment or detention on person who is not represented.
 
-211A.— (1) Subject to subsection (2) of this section, a person convicted by a court-martial of an offence against military law shall not be sentenced to imprisonment or dismissal or discharge with disgrace from the Defence Forces or dismissal or discharge from the Defence Forces where the person has not been represented by counsel (within the meaning of section 196) at some time after he is found guilty and before he is sentenced.
+211A.—(1) Subject to subsection (2) of this section, a person convicted by a court-martial of an offence against military law shall not be sentenced to imprisonment or dismissal or discharge with disgrace from the Defence Forces or dismissal or discharge from the Defence Forces where the person has not been represented by counsel (within the meaning of section 196) at some time after he is found guilty and before he is sentenced.
 
 (2) Subsection (1) of this section shall not apply where the person—
 

@@ -1,6 +1,6 @@
 Committee.
 
-184D.— (1) For the purpose of identifying officers, and persons other than officers, and informing the Minister of their suitability for appointment as Director, there shall be established a committee consisting of—
+184D.—(1) For the purpose of identifying officers, and persons other than officers, and informing the Minister of their suitability for appointment as Director, there shall be established a committee consisting of—
 
 (a) the Chief of Staff,
 

@@ -1,6 +1,6 @@
 Order for payment of compensation.
 
-213.— (1) Where—
+213.—(1) Where—
 
 (a) a person subject to military law is convicted by a court-martial of an offence against military law, and
 
