@@ -80,4 +80,4 @@ Voluntary military service of officer of Reserve Defence Force.
 
 (e) the training requirements of officers of the Reserve Defence Force.
 
-(17) In this section, "supplemental military service" means military service, either within or outside the State, which an officer of the Reserve Defence Force would not be liable to render under other provisions of the Defence Acts 1954 to 2015. Service of reservists.
+(17) In this section, "supplemental military service" means military service, either within or outside the State, which an officer of the Reserve Defence Force would not be liable to render under other provisions of the Defence Acts 1954 to 2015.

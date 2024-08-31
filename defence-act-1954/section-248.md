@@ -14,7 +14,7 @@ Evidence of certain documents and matters.
 
 (ii) having, or not having, held any rank or appointment in, or been posted, attached or transferred to, any portion of the Defence Forces, or having, or not having, served in a particular place, or
 
-(iiA) having, or not having, at any specified time or times, served outside the State as a member of the Permanent Defence Force with an armed International United Nations Force, or
+(iiA) having, or not having, at any specified time or times, served outside the State as a member of the Defence Forces with an International United Nations Force or for any purpose referred to in section 3 of the Defence (Amendment) Act 2006, or
 
 (iii) being, or not being, authorised to wear any decoration, medal, medal ribbon, badge, wound stripe, rank insignia, or emblem, the use or wearing of which by an unauthorised person is an offence under section 267, if purporting to be signed by or on behalf of the Minister or the commanding officer of any portion of the Defence Forces to which such person appears to have belonged or alleges that he belongs or had belonged, shall be prima facie evidence of the relevant facts stated in such letter, return or other document;
 

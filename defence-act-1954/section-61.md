@@ -18,4 +18,6 @@ Transfer of men of Permanent Defence Force enlisted under section 53 from one se
 
 (4) The provisions of this section shall have effect subject to subsection (2) of section 296.
 
-(5) A man of the Permanent Defence Force who by virtue of this section ... is transferred from one service corps to another service corps for the purpose of enabling the man to serve, or continue to serve, outside the State with an International United Nations Force or for any purpose specified in section 3 of the Defence (Amendment) Act 2006, shall, on the completion of such service, be transferred by the prescribed military authority with all convenient speed to the first mentioned service corps. Assignment of reservists to classes of reservists.
+(5) A man of the Permanent Defence Force who by virtue of this section ... is transferred from one service corps to another service corps for the purpose of enabling the man to serve, or continue to serve, outside the State with an International United Nations Force or for any purpose specified in section 3 of the Defence
+
+(Amendment) Act 2006, shall, on the completion of such service, be transferred by the prescribed military authority with all convenient speed to the first mentioned service corps.
