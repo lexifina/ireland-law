@@ -8,7 +8,7 @@ Offence against relevant person by person in authority
 
 (4) It shall not be a defence to proceedings for an offence under this section for the defendant to prove that the person against whom the offence is alleged to have been committed consented to the sexual act of which the offence consisted.
 
-(5) The standard of proof required to prove that the defendant was reasonably mistaken that the person against whom the offence is alleged to have been committed was not a relevant person shall be that applicable to civil proceedings.
+(5) ...
 
 (6) A person guilty of an offence under subsection (1) where the sexual act consisted of sexual intercourse, buggery or an act described in section 3(1) or 4(1) of the Act of 1990 shall be liable on conviction on indictment to imprisonment for a term not exceeding 10 years.
 
