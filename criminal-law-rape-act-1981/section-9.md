@@ -1,17 +1,13 @@
 Trials by court-martial.
 
-9. — (1) This Act applies to the trial of a sexual assault offence by court-martial with the necessary modifications.
+9. — (1) This Act applies, with the necessary modifications, to the trial by court-martial of an applicable offence.
 
 (2) In particular—
 
-(a) for the references to a judge in section 7 (2) or section 8 (3) and for the references to a justice of the District Court in section 8 (2) there shall be substituted references to the convening authority, and
+(a) for the references to a judge in section 3, 7 or 8 there shall be substituted references to a military judge, and
 
-(aa) in section 8 (8) for the reference to the Director of Public Prosecutions there shall be substituted a reference to the convening authority and for the references to a judge of the High Court there shall be substituted references to a superior authority; and, for the purposes of this paragraph, each of the following shall be a superior authority:
+(aa) in section 8(8) for the reference to the Director of Public Prosecutions there shall be substituted a reference to the Director.
 
-(i) the Minister for Defence,
+(b) ...
 
-(ii) the Adjutant-General of the Defence Forces,
-
-(iii) any general officer or flag officer (within the meaning, in each case, of the Defence Act, 1954 ) appointed by the Minister for Defence for the purpose, and
-
-(b) for references in section 3 and for other references in section 7 or 8 to a judge there shall be substituted references to the court-martial.
+(3) In this section, "court-martial", "Director" (other than in the reference to the Director of Public Prosecutions) and "military judge" have the same meanings as they have in the Defence Act 1954.

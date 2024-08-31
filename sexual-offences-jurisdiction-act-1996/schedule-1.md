@@ -1,8 +1,8 @@
 SCHEDULE
 
-1. Criminal Law (Sexual Offences) Act 2006.
+1. Criminal Law (Sexual Offences) Act, 2006.
 
-2. Section 6 (inserted by section 2 of the Criminal Law (Sexual Offences) (Amendment) Act 2007) of the Criminal Law (Sexual Offences) Act 1993.
+2. Section 6 (inserted by section 2 of the Criminal Law (Sexual Offences) (Amendment) Act 2007) of the Criminal Law (Sexual Offences) Act, 1993.
 
 3. Section 2 of the Criminal Law (Rape) Act, 1981.
 
@@ -27,6 +27,8 @@ SCHEDULE
 13. Section 5A(4) of the Child Trafficking and Pornography Act 1998.
 
 14. Section 6 of the Child Trafficking and Pornography Act 1998.
+
+14A. Section 3 of the Criminal Law (Sexual Offences) Act 2017.
 
 15. Section 5 of the Criminal Law (Sexual Offences) Act 2017.
 

@@ -8,6 +8,6 @@ Exclusion of the public from hearing.
 
 (b) a support worker chosen by the girl or woman referred to in paragraph (a), to remain in court.
 
-(3) In any proceedings to which subsection (1) applies, the verdict or decision and the sentence (if any) shall be announced in public.
+(3) ...
 
-(4) In this section, ‘support worker’ means a volunteer of, or an individual employed under a contract of service or under a contract for services by, an organisation which provides support to victims of crime.
+(4) In this section, "support worker" means a volunteer of, or an individual employed under a contract of service or under a contract for services by, an organisation which provides support to victims of crime.
