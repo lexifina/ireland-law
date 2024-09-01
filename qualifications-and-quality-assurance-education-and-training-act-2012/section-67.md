@@ -8,9 +8,9 @@ Obligation on providers to furnish information to enrolled learners.
 
 (ii) the title of the award, and
 
-(iii) whether the award is recognised within the Framework, and if so—
+(iii) whether the award is one that is included within the Framework, and if so—
 
-(I) the level of that recognition within the Framework, and
+(I) the level at which the award is included within the Framework, and
 
 (II) whether the award is a Major, Minor, Special Purpose or Supplemental award as identified within the Framework;
 

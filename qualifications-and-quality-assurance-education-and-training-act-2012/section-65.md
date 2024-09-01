@@ -1,63 +1,75 @@
-Arrangements by providers for protection of enrolled learners.
+Obligation of certain providers to pay annual charge into Learner Protection Fund.
 
-65.— (1) Before—
+65.— (1) Subject to subsections (6) and (7), if—
 
-(a) making an application under section 44 for validation of a programme of education and training,
+(a) a relevant provider, an associated provider or a linked provider (each of which is referred to subsequently in this section as an "obligated provider") offers, for reward, a programme of education and training leading to an award that is an award included within the Framework, or
 
-(b) submitting a request under section 52 for delegation of authority to make an award in respect of a programme of education and training, or
+(b) a provider offers, for reward, an English language programme (and such a provider is also referred to subsequently in this section as an "obligated provider"), it shall, in each year, pay into the Learner Protection Fund, such amount (referred to subsequently in this Part as the "annual charge") as is prescribed under section 66A(1).
 
-(c) notifying the Authority of a proposal under section 53(7) in respect of a programme of education and training, a provider shall put arrangements in place, in accordance with subsection (4), for the protection of enrolled learners who have paid moneys to, or on whose behalf moneys have been paid to, the provider for a programme of education and training where—
+(2) Subject to subsection (3), the annual charge shall be paid into the Learner Protection Fund prior to the commencement of provision by the obligated provider of the programme concerned and prior to the acceptance by it of any payments by or on behalf of any learners for enrolment on that programme.
 
-(i) the provider does not provide the programme for any reason including by reason of insolvency or winding up of that provider, or
+(3) The Authority may, in its discretion, determine that the annual charge, to be paid into the Learner Protection Fund by a class of obligated provider specified in the determination, shall be so paid by such a provider not later than a time that is specified by the Authority in the determination, being a time that falls after either event referred to in subsection (2), and such a provider shall, accordingly, pay the annual charge into the foregoing Fund no later than the time so specified.
 
-(ii) enrolled learners have begun but not completed the programme and the provider ceases to provide the programme before that programme is completed for any reason, including by reason of the insolvency or winding up of that provider.
+(4) References in this section and subsequent provisions of this Part to the payment into the Learner Protection Fund of the annual charge shall be construed as references to the payment of that charge to the Authority for the purpose of the Authority remitting the charge to that Fund (and any such charge so paid to the Authority shall be remitted by it to that Fund accordingly).
 
-(2) A provider shall submit details of the arrangements the provider has in place in accordance with subsection (4) to the Authority in writing when making an application, submitting a request or notifying the Authority of a proposal referred to in paragraph (a), (b), and (c) of subsection (1).
+(5) The Authority may require an obligated provider who is liable to pay the annual charge to provide any information that is relevant to determining the amount of the charge.
 
-(3) Without prejudice to the generality of subsection (1), a provider shall be taken to cease to provide a programme of education and training where the Authority withdraws validation of the programme under sections 36(7), 47, or 59(7).
-
-(4) The arrangements referred to in subsection (1) are—
-
-(a) an agreement between the provider of the programme and at least 2 other providers that an enrolled learner may transfer to a similar programme of those other providers, or
-
-(b) where the provider considers, with the agreement of the Authority, that it is not practicable to comply with paragraph (a), that provider has arrangements in place which enable that provider to refund to an enrolled learner, or to the person who paid the moneys on behalf of the enrolled learner, the moneys most recently paid in respect of the programme concerned for—
-
-(i) tuition fees,
-
-(ii) registration fees,
-
-(iii) examination fees,
-
-(iv) library fees,
-
-(v) student services fees, and
-
-(vi) any other fees which relate to the provision of education, training and related services.
-
-(5) Subsection (1) shall not apply where the provider of a programme of education and training is—
+(6) Subsection (1) shall not apply to a provider of a programme of education and training if the provider is—
 
 (a) a previously established university,
 
 (b) an educational institution established as a university under section 9 of the Act of 1997,
 
-(ba) a technological university,
+(c) a technological university,
 
-(c) the Dublin Institute of Technology,
+(d) the Dublin Institute of Technology,
 
-(d) an Institute of Technology,
+(e) an Institute of Technology,
 
-(e) An Foras,
+(f) an educational institution designated under section 5 (inserted by section 52(e) of the Institutes of Technology Act 2006) of the Higher Education Authority Act 1971 as an institution of higher education for the purposes of that Act,
 
-(f) ...
+(g) Solas,
 
-(g) Teagasc,
+(h) the National Tourism Development Authority,
 
-(h) An Bord Iascaigh Mhara,
+(i) Teagasc,
 
-(i) an educational or training institution established and maintained by an education and training board,
+(j) An Bord Iascaigh Mhara,
 
-(j) a recognised school.
+(k) an education and training board or an institution established and maintained by an education and training board,
 
-(6) Subsection (1) shall not apply in respect of a programme of education and training where no moneys are paid by, or on behalf of, an enrolled learner in respect of the programme, to the provider of that programme.
+(l) the Institute of Public Administration,
 
-(7) A provider shall notify the Authority in writing of any change in the arrangements the provider has in place in accordance with subsection (4) as soon as possible after becoming aware of that change.
+(m) a recognised school,
+
+(n) the Royal College of Surgeons in Ireland,
+
+(o) the Royal Irish Academy of Music,
+
+(p) Mary Immaculate College,
+
+(q) Marino Institute of Education, or
+
+(r) a body established—
+
+(i) by or under an enactment (other than the Companies Act 2014 or a former enactment relating to companies within the meaning of section 5 of that Act), or
+
+(ii) under the Companies Act 2014 (or a former enactment relating to companies within the meaning of section 5 of that Act) in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of money provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government.
+
+(7) If a provider referred to in subsection (1) ceases to provide, for reward, a programme referred to in paragraph (a) or (b) of that subsection, that subsection shall—
+
+(a) beginning with the year following the year in which the programme ceases to be so provided, and
+
+(b) in each year thereafter, provided there is not a resumption by the provider of the doing of the thing referred to in that subsection (whether in respect of the same programme or another programme falling within paragraph (a) or (b) of it), cease to apply to the provider.
+
+(8) Where an obligated provider receives moneys, more than 40 days before the commencement of the provision by it of a programme referred to in subsection (1), from or on behalf of a learner in respect of that programme, the obligated provider shall establish an account with the holder of a licence (within the meaning of the Central Bank Act 1971) into which account it shall pay those moneys, and in respect of which account the provider ensures that an arrangement in writing, entered into between it and that holder (the "institution"), of the kind referred to in subsection (9) applies.
+
+(9) The arrangement referred to in subsection (8) is that the account concerned will operate by way of escrow and with the following incidents, that is to say—
+
+(a) the moneys concerned may not be drawn upon by the obligated provider unless and until the institution receives a written notification from the provider which contains a statement by the provider (accompanied by proof that, in the opinion of the institution, will enable the statement to be verified by it) that the programme concerned has commenced, and
+
+(b) in the event of the programme not being commenced, for any reason, the institution shall permit—
+
+(i) unless subparagraph (ii) applies, the whole of the moneys concerned, or
+
+(ii) such amount of the moneys concerned as remains after deduction, in the institution’s favour, of any charges for the making of the arrangement referred to in subsection (8) that have been agreed between the obligated provider and institution, to be drawn upon by the learner (or another acting on the learner’s behalf), and only the learner or another so acting, by way of refund or, as the case may be, partial refund.
