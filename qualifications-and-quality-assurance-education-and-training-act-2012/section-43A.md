@@ -1,6 +1,6 @@
 Offence to provide or advertise cheating services.
 
-43A. (1) A person who does any of the acts specified in subsection (2) commits an offence.
+43A.— (1) A person who does any of the acts specified in subsection (2) commits an offence.
 
 (2) Each of the following is an act referred to in subsection (1):
 
