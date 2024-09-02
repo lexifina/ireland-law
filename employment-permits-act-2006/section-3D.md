@@ -1,4 +1,4 @@
-Supplemental provisions relating to the grant of employment permit for purpose referred to in section 3A(2)(d).
+Supplemental provisions relating to the grant of employment permit for purpose referred to in section 3A(2)(d). (Repealed)
 
 3D.—(1) Where a foreign employer requires a foreign national employed by him or her outside the State to carry out duties for, or participate in a training programme provided by, a connected person without prejudice to any other requirement under this Act or to the employment outside the State of the foreign national—
 

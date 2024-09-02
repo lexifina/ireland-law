@@ -1,4 +1,4 @@
-Surrender of employment permit.
+Surrender of employment permit. (Repealed)
 
 24.—(1) If the employment of a foreign national pursuant to an employment permit ... is terminated by the employer or the holder of the permit or otherwise, for whatever reason, ceases, there shall be surrendered to the Minister, within 4 weeks from the date of termination or cessation—
 

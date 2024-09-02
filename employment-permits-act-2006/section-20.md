@@ -1,4 +1,4 @@
-Renewal of employment permit.
+Renewal of employment permit. (Repealed)
 
 20.—(1) Subject to subsection (1A), the Minister may from time to time ... renew an employment permit in accordance with this section.
 

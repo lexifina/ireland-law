@@ -1,4 +1,4 @@
-Retention of records.
+Retention of records. (Repealed)
 
 27.—(1) The employer shall keep, in relation to the foreign national to whom an employment permit has been granted ..., a record of the employment concerned, the duration of the employment and particulars of the permit and that record shall be kept for the period specified in subsection (5).
 

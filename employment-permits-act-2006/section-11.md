@@ -1,4 +1,4 @@
-Consideration by Minister of application for employment permit.
+Consideration by Minister of application for employment permit. (Repealed)
 
 11.—(1) In considering an application for an employment permit, the Minister shall have regard to—
 

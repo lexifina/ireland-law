@@ -1,4 +1,4 @@
-Penalties and proceedings.
+Penalties and proceedings. (Repealed)
 
 32.—(1) A person guilty of an offence under section 18(2), 19(3), 23(4) or 25 is liable—
 

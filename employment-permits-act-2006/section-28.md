@@ -1,4 +1,4 @@
-Register of employment permits.
+Register of employment permits. (Repealed)
 
 28.—The Minister shall establish and maintain a register of employment permits granted under this Act and shall cause to be entered in such register—
 

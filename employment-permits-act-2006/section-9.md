@@ -1,4 +1,4 @@
-Original of permit to be issued to foreign national, information to be included in permit, etc.
+Original of permit to be issued to foreign national, information to be included in permit, etc. (Repealed)
 
 9.—(1) The Minister shall cause—
 

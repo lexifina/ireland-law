@@ -1,4 +1,4 @@
-Refusal to grant employment permit.
+Refusal to grant employment permit. (Repealed)
 
 12.—(1) The Minister may refuse to grant an employment permit if—
 

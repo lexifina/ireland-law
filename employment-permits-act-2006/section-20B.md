@@ -1,4 +1,4 @@
-Redundancy of foreign national to whom employment permit granted for purpose referred to in section 3A(2)(c).
+Redundancy of foreign national to whom employment permit granted for purpose referred to in section 3A(2)(c). (Repealed)
 
 20B.—(1) This section applies to a foreign national to whom an employment permit in respect of the purpose referred to in section 3A(2)(c) has been granted and he or she is dismissed by reason of redundancy from the employment concerned during the period for which the employment permit is in force.
 

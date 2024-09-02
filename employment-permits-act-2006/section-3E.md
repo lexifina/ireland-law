@@ -1,4 +1,4 @@
-Supplemental provisions relating to the grant of employment permit for purpose referred to in section 3A(2)(e).
+Supplemental provisions relating to the grant of employment permit for purpose referred to in section 3A(2)(e). (Repealed)
 
 3E.—(1) Where, pursuant to the employment outside the State by a contractor of a foreign national, the contractor requires the foreign national to carry out duties in the State that arise out of a contract service agreement without prejudice to any other requirement under this Act or to the employment outside the State of the foreign national—
 

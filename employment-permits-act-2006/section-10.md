@@ -1,4 +1,4 @@
-Restriction on grant of employment permit.
+Restriction on grant of employment permit. (Repealed)
 
 10.—(1) ...
 

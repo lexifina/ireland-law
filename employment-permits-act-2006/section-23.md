@@ -1,4 +1,4 @@
-Prohibition on deduction from remuneration and retention of personal documents.
+Prohibition on deduction from remuneration and retention of personal documents. (Repealed)
 
 23.—(1) The employer shall not make any deductions from the remuneration of, or seek to recover from, the holder of the employment permit concerned any charge, fee or expense arising out of or concerning one or more of the following:
 

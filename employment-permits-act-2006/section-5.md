@@ -1,4 +1,4 @@
-Foreign national is grantee of permit, general provisions as respects applications, etc.
+Foreign national is grantee of permit, general provisions as respects applications, etc. (Repealed)
 
 5.—(1) In all cases, irrespective of who the applicant for the grant of the permit under section 8 is—
 
