@@ -54,7 +54,7 @@ Acts of Oireachtas
 
 22. Paragraph 1 of Schedule 3 to the Employees (Provision of Information and Consultation) Act 2006
 
-23. Paragraph 1 of Schedule 2 to the Employment Permits Act 2006
+23. Paragraph 1 of Schedule 2 to the Employment Permits Act 2024
 
 24. Paragraph 2 of Schedule 6 to the Consumer Protection Act 2007
 
@@ -158,7 +158,7 @@ Acts of Oireachtas
 
 22. Paragraph 2 of Schedule 3 to the Employees (Provision of Information and Consultation) Act 2006
 
-23. Paragraph 2 of Schedule 2 to the Employment Permits Act 2006
+23. Paragraph 2 of Schedule 2 to the Employment Permits Act 2024
 
 24. Paragraph 3A of Schedule 6 to the Consumer Protection Act 2007
 
