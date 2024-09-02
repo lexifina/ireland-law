@@ -8,7 +8,7 @@ Permission to land.
 
 (a) that the non-national is not in a position to support himself or herself and any accompanying dependants;
 
-(b) that the non-national intends to take up employment in the State, but is not in possession of a valid employment permit (within the meaning of the Employment Permits Act 2003);
+(b) that the non-national intends to take up employment in the State, but is not in possession of a valid employment permit (within the meaning of the Employment Permits Act 2024);
 
 (c) that the non-national suffers from a condition set out in the First Schedule;
 

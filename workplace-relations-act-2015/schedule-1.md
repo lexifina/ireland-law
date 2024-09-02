@@ -66,7 +66,7 @@ Provisions of Acts of Oireachtas
 
 4. Section 50 of the Competition Act 2002
 
-5. Section 26(3) of the Employment Permits Act 2006
+5. Section 60(3) of the Employment Permits Act 2024
 
 6. Section 8 of the Industrial Relations (Miscellaneous Provisions) Act 2004
 

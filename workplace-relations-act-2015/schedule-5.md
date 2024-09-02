@@ -36,7 +36,7 @@ Part 1
 
 15. Section 27 of the Safety, Health and Welfare at Work Act 2005
 
-16. Section 26(3) of the Employment Permits Act 2006
+16. Section 60(3) of the Employment Permits Act 2024
 
 17. Section 13 of the Employees (Provision of Information and Consultation) Act 2006
 
