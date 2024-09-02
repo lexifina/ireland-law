@@ -12,8 +12,6 @@ Non-application of section 2 to nationals of certain states.
 
 (4) An order under this section shall not apply to a national of a state specified in the order if that person has been in employment in the State for a period of not less than 6 weeks immediately before the commencement of the order and has been in receipt of remuneration for such employment.
 
-O.J. No. L257, 19.10.68, p.2
-
 (5) The Minister may by order amend or revoke an order under this section.
 
 (6) In this section, unless the context otherwise requires—
