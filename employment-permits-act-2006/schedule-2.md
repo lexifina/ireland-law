@@ -1,5 +1,7 @@
 SCHEDULE 2
 
+(Act Repealed)
+
 REDRESS FOR CONTRAVENTION OF SECTION 26 (3)
 
 1. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 26(3) shall do one or more of the following, namely—
@@ -45,3 +47,5 @@ Amendment of Protection of Employees (Employers’ Insolvency) Act 1984.
 (c) in subsection (2)(c), by substituting “, (xxv) or (xxvi)” for “or (xxv)”, and
 
 (d) in subsection (9), in the definition of “relevant date”, by substituting “, (xxv) or (xxvi)” for “or (xxv)”.
+
+EMPLOYMENT PERMITS ACT 2006 (Repealed)
