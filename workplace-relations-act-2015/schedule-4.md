@@ -1,6 +1,8 @@
 SCHEDULE 4
 
-Enactments Specified for Purposes of section 28 Section 28
+Enactments Specified for Purposes of section 28
+
+Section 28
 
 Number and Year Short title Provision
 
