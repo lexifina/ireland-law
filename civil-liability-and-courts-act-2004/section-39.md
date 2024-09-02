@@ -46,4 +46,6 @@ Definitions.
 
 (k) section 18, 30, 31, 49, 54 or 92 of the Adoption Act 2010;
 
-(l) section 145 or 199 of the Act of 2010.
+(l) section 145 or 199 of the Act of 2010;
+
+(m) section 37 of the Criminal Justice (Miscellaneous Provisions) Act 2023.

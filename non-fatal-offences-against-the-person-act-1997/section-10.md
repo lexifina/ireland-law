@@ -42,7 +42,7 @@ Harassment.
 
 (j) breaching a court order—
 
-(i) made pursuant to this section ..., or
+(i) made pursuant to this section or Part 5 of the Criminal Justice (Miscellaneous Provisions) Act 2023, or
 
 (ii) otherwise restraining the person from communicating with or about the other person or, within such distance as is specified in the order, approaching the other or the place of residence, education or employment of the other person.
 
