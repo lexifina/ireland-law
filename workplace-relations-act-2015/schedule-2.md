@@ -10,13 +10,13 @@ Acts of the Oireachtas
 
 Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
 
-1. No. 26 of Industrial Relations Sections 45C, 45D 1946 Act 1946 and 45E
+1. No. 26 of Industrial Relations Sections 45C, 45D 1946 Act 1946 and 45E Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
 
 2. No. 14 of Industrial Relations Section 13(1), (4), (5) 1969 Act 1969 and (7)
 
 3. No. 4 of Minimum Notice Sections 11 and 13 1973 and Terms of Employment Act 1973
 
-4. No. 25 of Payment of Wages Sections 8 and 9 1991 Act 1991 Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
+4. No. 25 of Payment of Wages Sections 8 and 9 1991 Act 1991
 
 5. No. 22 of Unfair Dismissals Sections 11 and 12 1993 (Amendment) Act 1993
 
@@ -38,11 +38,11 @@ Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
 
 14. No. 27 of Prevention of Schedule 1 (other 2001 Corruption than paragraphs 1(1) (Amendment) Act and (3), 2 and 3(7) 2001 and (8) )
 
-15. No. 45 of Protection of Section 18 2001 Employees (Part- Time Work) Act 2001
+15. No. 45 of Protection of Section 18 2001 Employees (Part- Time Work) Act 2001 Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
 
 16. No. 14 of Competition Act Schedule 3 (other 2002 2002 than paragraphs 2, 3 and 5)
 
-17. No. 29 of Protection of Part 3 (other than 2003 Employees (Fixed-sections 14 and 15) Term Work) Act 2003 Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
+17. No. 29 of Protection of Part 3 (other than 2003 Employees (Fixed-sections 14 and 15) Term Work) Act 2003
 
 18. No. 4 of Industrial Relations Sections 9 (other 2004 (Miscellaneous than subsections (5) Provisions) Act and (10) ), 11, 12 and 2004 13
 
@@ -66,11 +66,11 @@ Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
 
 28. No. 40 of Property Services Schedule 4 (other 2011 (Regulation) Act than paragraphs 1, 2 2011 and 3(7) and (8) )
 
-29. No. 13 of Protection of Schedule 2 (other 2012 Employees than paragraphs 1, 2 (Temporary Agency and 6) Work) Act 2012
+29. No. 13 of Protection of Schedule 2 (other 2012 Employees than paragraphs 1, 2 (Temporary Agency and 6) Work) Act 2012 Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
 
 30. No. 25 of Further Education Schedule (other than 2013 and Training Act paragraphs 1 and 2) 2013
 
-31. No. 26 of Central Bank Schedule 5 (other 2013 (Supervision and than paragraphs 1 Enforcement) Act and 2) 2013 Reference Number Short title Extent of Repeal (1) and Year (3) (4) (2)
+31. No. 26 of Central Bank Schedule 5 (other 2013 (Supervision and than paragraphs 1 Enforcement) Act and 2) 2013
 
 32. No. 14 of Protected Schedule 2 (other 2014 Disclosures Act than paragraphs 1 2014 and 2)
 
@@ -92,6 +92,6 @@ Reference Number and Short title Extent of (1) Year (2) Repeal (3) (4)
 
 6. S.I. No. 157 of European Communities (Cross- Paragraph 4 2008 Border Mergers) Regulations of Schedule 2 2008
 
-7. S.I. No. 377 of European Communities Regulation 10 2009 (Working Conditions of Mobile Workers Engaged in Interoperable Cross Border Services in the Railway Sector) Regulations 2009
+7. S.I. No. 377 of European Communities Regulation 10 2009 (Working Conditions of Mobile Workers Engaged in Interoperable Cross Border Services in the Railway Sector) Regulations 2009 Reference Number and Short title Extent of (1) Year (2) Repeal (3) (4)
 
 8. S.I. No. 36 of European Communities (Road Regulations 2012 Transport) (Organisation of 20, 21 and 22 Working Time of Persons Performing Mobile Road Transport Activities) Regulations 2012
