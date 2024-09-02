@@ -20,15 +20,15 @@ Relations Act 2015
 
 (a) declare that the complaint was or, as the case may be, was not well founded,
 
-(b) require the employer to comply with the employment regulation order, or Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(b) require the employer to comply with the employment regulation order, or
 
 (c) require the employer to pay to the worker compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all of the circumstances, but not exceeding 2 years’ remuneration in respect of the worker’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.”.
 
 The following section is substituted for section 45B:
 
-“Decision of Labour Court on appeal from decision referred to in section 45A
+“Decision of Labour Court on appeal from decision referred to in section 45A Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 45B. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 45A, shall affirm, vary or set aside the decision of the adjudication officer.”.
 
@@ -36,9 +36,7 @@ The following section is substituted for section 45B:
 
 Relations Act 2015
 
-12. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 4(2) or 5 may, where the adjudication officer finds that that section was contravened by the employer in relation to the employee who presented the complaint, include a direction that the employer concerned pay to the employee compensation for any loss sustained by the employee by reason of the contravention. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+12. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 4(2) or 5 may, where the adjudication officer finds that that section was contravened by the employer in relation to the employee who presented the complaint, include a direction that the employer concerned pay to the employee compensation for any loss sustained by the employee by reason of the contravention.
 
 (2) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute as to the entitlements of an employer under section 6 may include such directions as the adjudication officer considers appropriate.”.
 
@@ -46,7 +44,9 @@ The following section is inserted:
 
 “Decision of Labour Court on appeal from decision referred to in section 12
 
-12A. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 12, shall affirm, vary or set aside the decision of the adjudication officer.”.
+12A. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 12, shall affirm, vary or set aside the decision of the adjudication officer.”. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 3. No. 7 of Protection of The following sections are 1977 Employment inserted in Part II: Act 1977 “Decision of adjudication officer under section 41 of Workplace
 
@@ -56,9 +56,7 @@ Relations Act 2015
 
 (a) declare that the complaint is or, as the case may be, is not well founded,
 
-(b) require the employer to comply with the provision of the Act of 1977 concerned and, for that purpose, to take a specified course of action, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(b) require the employer to comply with the provision of the Act of 1977 concerned and, for that purpose, to take a specified course of action,
 
 (c) require the employer to pay to the employee compensation of such amount (if any) as is just and equitable having regard to all of the circumstances, but not exceeding 4 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.
 
@@ -70,11 +68,13 @@ Decision of Labour Court on appeal from decision referred to in section 11A
 
 Relations Act 2015
 
-6. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015, in relation to a complaint of a contravention of section 5 as respects a deduction made by an employer from the wages of an employee or the receipt from an employee by an employer of a payment, that the complaint is, in whole or in part, well founded as respects the deduction or payment shall include a direction to the employer to pay to the employee compensation of such amount (if any) as he considers reasonable in the circumstances not exceeding—
-
-(a) the net amount of the wages (after the making of any lawful deduction therefrom) that— Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
+
+6. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015, in relation to a complaint of a contravention of section 5 as respects a deduction made by an employer from the wages of an employee or the receipt from an employee by an employer of a payment, that the complaint is, in whole or in part, well founded as respects the deduction or payment shall include a direction to the employer to pay to the employee compensation of such amount (if any) as he considers reasonable in the circumstances not exceeding—
+
+(a) the net amount of the wages (after the making of any lawful deduction therefrom) that—
 
 (i) in case the complaint related to a deduction, would have been paid to the employee in respect of the week immediately preceding the date of the deduction if the deduction had not been made, or
 
@@ -82,15 +82,15 @@ Relations Act 2015
 
 (b) if the amount of the deduction or payment is greater than the amount referred to in paragraph (a), twice the former amount.
 
-(2) (a) An adjudication officer shall not give a decision referred to in subsection (1) in relation to a deduction or payment referred to in that subsection at any time after the commencement of the hearing of proceedings in a court brought by the employee concerned in respect of the deduction or payment.
+(2) (a) An adjudication officer shall not give a decision referred to in subsection (1) in relation to a deduction or payment referred to in that subsection at any time after the commencement of the hearing of proceedings in a court brought by the employee concerned in respect of the deduction or payment. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 (b) An employee shall not be entitled to recover any amount in proceedings in a court in respect of such a deduction or payment as aforesaid at any time after an adjudication officer has given a decision referred to in subsection (1) in relation to the deduction or payment.”.
 
 The following section is substituted for section 7:
 
-“Decision of Labour Court on appeal from decision referred to in section 6 Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+“Decision of Labour Court on appeal from decision referred to in section 6
 
 7. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 6, shall affirm, vary or set aside the decision of the adjudication officer.”.
 
@@ -102,7 +102,9 @@ Workplace Relations Act 2015
 
 (a) complied with a direction under section 6A given in relation to the contravention before the commencement of section 8 of the Workplace Relations Act 2015, or
 
-(b) been given a direction under that section in relation to the contravention and the period specified in the direction within which he or she is required to comply with the direction has not yet expired.
+(b) been given a direction under that section in relation to the contravention and the period specified in the direction within which he or she is required to comply with the direction has not yet expired. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 (2) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 3, 4, 5 or 6 shall do one or more of the following, namely—
 
@@ -110,9 +112,7 @@ Workplace Relations Act 2015
 
 (b) either—
 
-(i) confirm all or any of the particulars contained or referred to in any statement furnished by the employer under section 3, 4, 5 or 6, or Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(i) confirm all or any of the particulars contained or referred to in any statement furnished by the employer under section 3, 4, 5 or 6, or
 
 (ii) alter or add to any such statement for the purpose of correcting any inaccuracy or omission in the statement and the statement as so altered or added to shall be deemed to have been given to the employee by the employer,
 
@@ -120,7 +120,9 @@ Workplace Relations Act 2015
 
 (d) order the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all of the circumstances, but not exceeding 4 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.”.
 
-The following section is substituted for section 8:
+The following section is substituted for section 8: Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 “Decision of Labour Court on appeal from decision referred to in section 7
 
@@ -130,9 +132,7 @@ The following section is substituted for section 8:
 
 “(1) This Part does not apply to a dispute relating to—
 
-(a) the dismissal of an employee, or Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(a) the dismissal of an employee, or
 
 (b) a matter that is within the competence of the Authority under the 1989 Act.”.
 
@@ -142,13 +142,13 @@ The following section is substituted for section 32:
 
 32. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and the relevant employer relating to any entitlement of the employee under Part II, III or IV (or any matter arising out of or related to such entitlement) may include such directions to the parties to the dispute as the adjudication officer considers necessary or expedient for the resolution of the dispute, and if the decision is in favour of the employee then, without prejudice to the power to give such directions, the adjudication officer may order—
 
-(a) the grant of leave to the employee for such period as may be so specified,
+(a) the grant of leave to the employee for such period as may be so specified, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 (b) an award of compensation (in favour of the employee to be paid by the relevant employer) of such amount, not exceeding 20 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed, as the adjudication officer considers just and equitable having regard to all of the circumstances, or
 
-(c) both such grant and such award. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(c) both such grant and such award.
 
 (2) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision referred to in subsection (1) may include such directions to the parties to the appeal as the Labour Court considers necessary or expedient for the resolution of the matter, and if the decision is in favour of the employee then, without prejudice to the power to give such directions, the Labour Court may order—
 
@@ -160,19 +160,17 @@ The following section is substituted for section 32:
 
 (3) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.”.
 
-Section 33A(1) is amended, in the definition of “proceedings” by—
+Section 33A(1) is amended, in the definition of “proceedings” by— Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
-(a) the substitution, in paragraph (a), of “
+(2)
 
-Part 4 of the Workplace Relations Act 2015” for “this Part”,
+(a) the substitution, in paragraph (a), of Part 4 of the Workplace Relations Act 2015” for “this Part”,
 
 (b) the deletion, in paragraph (b), of “or the Circuit Court”,
 
 (c) the substitution of “adjudication officer” for “rights commissioner” in each place that it occurs, and
 
-(d) the substitution of “Labour Court” for “Tribunal” in each place that it occurs. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(d) the substitution of “Labour Court” for “Tribunal” in each place that it occurs.
 
 7. No. 2 of Adoptive Leave The following subsection is 1995 Act 1995 substituted for subsection (2) of section 32:
 
@@ -188,13 +186,13 @@ The following section is substituted for section 33:
 
 33. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an adopting parent and the relevant employer relating to the adopting parent’s entitlements under this Act or any matter in connection with such entitlements may include—
 
-(a) such directions to the parties to the complaint as the adjudication officer considers necessary or expedient for the resolution of the matter, and
+(a) such directions to the parties to the complaint as the adjudication officer considers necessary or expedient for the resolution of the matter, and Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 (b) an award of compensation (in favour of the adopting parent to be paid by the employer) of such amount, not exceeding 20 weeks’ remuneration in respect of the adopting parent’s employment calculated in accordance with regulations under section 32, as the adjudication officer considers just and equitable having regard to all of the circumstances.
 
-(2) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in subsection (1) may include— Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(2) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in subsection (1) may include—
 
 (a) such directions to the parties to the complaint as the Labour Court considers necessary or expedient for the resolution of the matter, and
 
@@ -206,6 +204,10 @@ The following section is substituted for section 33:
 
 Relations Act 2015
 
+Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
+
 18. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 13 or 17 shall do one or more of the following, namely—
 
 (a) declare that the complaint was or, as the case may be, was not well founded,
@@ -216,9 +218,7 @@ Relations Act 2015
 
 The following section is substituted for section 19:
 
-“Decision of Labour Court on appeal from decision referred to in section 18 Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+“Decision of Labour Court on appeal from decision referred to in section 18
 
 19. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 18, shall affirm, vary or set aside the decision of the adjudication officer.”.
 
@@ -232,7 +232,9 @@ Employees Act 1996
 
 (a) declare that the complaint was or, as the case may be, was not well founded,
 
-(b) order the employer to take a specified course of action,
+(b) order the employer to take a specified course of action, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 (c) order the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all of the circumstances.”.
 
@@ -242,9 +244,7 @@ The following section is inserted:
 
 17B. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in section 17A, shall affirm, vary or set aside the decision of the adjudication officer.”.
 
-10. No. 20 Organisation of Section 27 is amended by the of 1997 Working Time substitution of the following Act 1997 subsection for subsection (3): Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+10. No. 20 Organisation of Section 27 is amended by the of 1997 Working Time substitution of the following Act 1997 subsection for subsection (3):
 
 “(3) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of a relevant provision shall do one or more of the following, namely—
 
@@ -256,7 +256,9 @@ The following section is inserted:
 
 The following section is substituted for section 28:
 
-“Decision of Labour Court on appeal from decision referred to in section 27(3)
+“Decision of Labour Court on appeal from decision referred to in section 27(3) Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 28. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in subsection (3) of section 27 shall affirm, vary or set aside the decision of the adjudication officer.”.
 
@@ -266,13 +268,13 @@ The following section is substituted for section 28:
 
 (a) relating to a dismissal from employment, including a dismissal within the meaning of the Unfair Dismissals Acts 1977 to 2007,
 
-(b) consisting of a question to which section 39(15) of the Redundancy Payments Act 1967, applies.”. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
+(b) consisting of a question to which section 39(15) of the Redundancy Payments Act 1967, applies.”.
 
 The following section is substituted for section 21:
 
-“Decision under section 41 or 44 of Workplace Relations Act 2015
+“Decision under section 41 or 44 of Workplace Relations Act 2015 Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 21. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and his or her employer relating to the entitlements of the employee under this Act (or any matter arising out of or related to those entitlements or otherwise arising under this Act) or a decision of the Labour Court under section
 
@@ -286,11 +288,11 @@ Relations Act 2015 on appeal from the first-mentioned decision, may contain such
 
 (b) an award of compensation in favour of the employee concerned to be paid by the employer concerned, or
 
-(c) both a grant referred to in paragraph (a) and an award referred to in paragraph (b). Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+(c) both a grant referred to in paragraph (a) and an award referred to in paragraph (b).
+
+(2) An award of compensation referred to in subsection (1) (b) shall be of such amount as the adjudication officer or the Labour Court, as the case may be, considers just and equitable having regard to all the circumstances but shall not exceed 20 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
-
-(2) An award of compensation referred to in subsection (1) (b) shall be of such amount as the adjudication officer or the Labour Court, as the case may be, considers just and equitable having regard to all the circumstances but shall not exceed 20 weeks’ remuneration in respect of the employee’s employment calculated in such manner as may be prescribed.
 
 (3) A decision of an adjudication officer or the Labour Court referred to in subsection (1) may, if the adjudication officer or the Labour Court, as the case may be, considers it reasonable having regard to the illness or other incapacity of the employee concerned or any other circumstance, include a direction that parental leave be taken at a time that does not accord with section 6(3).
 
@@ -538,7 +540,7 @@ The following section is substituted for section 17:
 
 17. No. 14 Competition Schedule 3 is amended— of 2002 Act 2002 (a) in paragraph 2, by the substitution of “Part 4 of the Workplace Relations Act 2015” for “this Schedule before a rights commissioner or the Employment Appeals Tribunal”,
 
-(b) in paragraph 3, by the substitution of “Part 4 of the Workplace Relations Act 2015” for “this Schedule”, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+(b) in paragraph 3, by the substitution of Part 4 of the Workplace Relations Act 2015” for “this Schedule”, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
 
@@ -600,7 +602,7 @@ The following section is substituted for section 10:
 
 (b) in subsection (3), by the substitution of “under Part 4 of the Workplace Relations Act 2015” for “before a rights commissioner or the Labour Court”,
 
-(c) in subsection (4), by the substitution of “Part 4 of the Workplace Relations Act 2015” for “this section”, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+(c) in subsection (4), by the substitution of Part 4 of the Workplace Relations Act 2015” for “this section”, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
 
@@ -696,11 +698,9 @@ Workplace Relations Act 2015 on appeal from a decision of an adjudication office
 
 (c) in paragraph 4—
 
-(i) by the substitution, in subparagraph (1), of “Part
+(i) by the substitution, in subparagraph (1), of Part 4 of the Workplace Relations
 
-4 of the
-
-Workplace Relations Act
+Act
 
 2015” for “this Schedule before a rights commissioner or the Employment Appeals Tribunal”, and
 
@@ -714,7 +714,7 @@ Workplace Relations Act
 
 25. No. 13 Chemicals Act Section 26 is amended— of 2008 2008 (a) in subsection (2), by the substitution of “under Part 4 of the Workplace Relations Act 2015” for “under this section before a rights commissioner or the Employment Appeals Tribunal”,
 
-(b) in subsection (3), by the substitution of “Part 4 of the Workplace Relations Act 2015” for “this section”,
+(b) in subsection (3), by the substitution of Part 4 of the Workplace Relations Act 2015” for “this section”,
 
 (c) by the substitution of the following subsection for subsection (5):
 
@@ -732,9 +732,9 @@ Workplace Relations Act
 
 “(6A) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in subsection (5) of section 26, shall affirm, vary or set aside the decision of the adjudication officer.”.
 
-26. No. 6 of Charities Act Section 62 is amended— 2009 2009 (a) in subsection (2), by the substitution of “Part 4 of the Workplace Relations Act 2015” for “this section before a rights commissioner or the Employment Appeals Tribunal”,
+26. No. 6 of Charities Act Section 62 is amended— 2009 2009 (a) in subsection (2), by the substitution of Part 4 of the Workplace Relations Act 2015” for “this section before a rights commissioner or the Employment Appeals Tribunal”,
 
-(b) in subsection (3), by the substitution of “Part 4 of the Workplace Relations Act 2015” for “this section”,
+(b) in subsection (3), by the substitution of Part 4 of the Workplace Relations Act 2015” for “this section”,
 
 (c) by the substitution of the following subsection for subsection (5): Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
@@ -846,11 +846,9 @@ Workplace Relations Act 2015
 
 (2)
 
-(i) the substitution, in subparagraph (7), of “Part
+(i) the substitution, in subparagraph (7), of Part 4 of the Workplace Relations
 
-4 of the
-
-Workplace Relations Act
+Act
 
 2015” for “this Schedule before a rights commissioner or the Labour Court”,
 
