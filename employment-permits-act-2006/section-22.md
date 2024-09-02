@@ -1,4 +1,4 @@
-Authorised officers.
+Authorised officers. (Repealed)
 
 22.— (1) The Minister may appoint in writing such and so many of his or her officers to be authorised officers for the purposes of all or any of the provisions of this Act or the Act of 2003 and such appointment may be specified to be for a fixed period.
 

@@ -1,4 +1,4 @@
-Short title, collective citation, construction and commencement.
+Short title, collective citation, construction and commencement. (Repealed)
 
 41.—(1) This Act may be cited as the Employment Permits Act 2006.
 

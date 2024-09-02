@@ -1,4 +1,4 @@
-Interpretation.
+Interpretation. (Repealed)
 
 1.—(1) In this Act—
 

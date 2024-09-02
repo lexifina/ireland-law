@@ -1,4 +1,4 @@
-Different purposes in respect of which an employment permit may be granted.
+Different purposes in respect of which an employment permit may be granted. (Repealed)
 
 3A.—(1) Subject to any requirement that this Act specifies is to be satisfied in respect of the grant of an employment permit, an employment permit granted under section 8 shall be granted in respect of a purpose specified in subsection (2).
 

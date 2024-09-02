@@ -1,4 +1,4 @@
-Effect of order under section 3 or 4 of Immigration Act 1999.
+Effect of order under section 3 or 4 of Immigration Act 1999. (Repealed)
 
 21.—(1) If an order under section 3 or 4 of the Immigration Act 1999 is made in relation to a foreign national in respect of whom an employment permit has been granted, the permit shall, subject to subsection (2), cease to be in force.
 

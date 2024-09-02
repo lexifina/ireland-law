@@ -1,4 +1,4 @@
-Spouses, civil partners and certain dependants relating to section 3A(2)(b).
+Spouses, civil partners and certain dependants relating to section 3A(2)(b). (Repealed)
 
 3C.—(1) An application for an employment permit for the purpose referred to in section 3A(2)(b) may be made, under section 4, in respect of a foreign national referred to in subsection (2) or (3).
 

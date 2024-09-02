@@ -1,4 +1,4 @@
-Further provisions in relation to regulations.
+Further provisions in relation to regulations. (Repealed)
 
 30.—(1) The Minister may make regulations in relation to any matter referred to in this Act as prescribed or to be prescribed.
 

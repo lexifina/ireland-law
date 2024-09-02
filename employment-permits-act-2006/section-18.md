@@ -1,4 +1,4 @@
-Prohibition on forgery, fraudulent alteration or fraudulent use of employment permit.
+Prohibition on forgery, fraudulent alteration or fraudulent use of employment permit. (Repealed)
 
 18.—(1) A person shall not—
 

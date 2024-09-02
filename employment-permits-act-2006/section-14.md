@@ -1,4 +1,4 @@
-Regulations governing grant of permits, etc.
+Regulations governing grant of permits, etc. (Repealed)
 
 14.—(1) The Minister may, having regard to sections 3A and 14A and the matters specified in section 15, make regulations providing for a class of employment permit for each purpose specified in paragraphs (a) to (i) of section 3A(2) and may, for each such class of employment permit, provide for one or more of the matters specified in subsection (1A) and may, in such regulations, make different provision for such classes of employment permit and such matters in relation to different cases and different classes of cases and different circumstances or different classes of circumstances.
 

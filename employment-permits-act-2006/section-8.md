@@ -1,4 +1,4 @@
-Grant of employment permit by Minister.
+Grant of employment permit by Minister. (Repealed)
 
 8.— (1) Subject to sections 3A, 10, 10A, 12, 14, 20A and 20B and section 2(11) of the Act of 2003, the Minister may, on application made to him or her, grant an employment permit.
 

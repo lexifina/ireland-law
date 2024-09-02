@@ -1,4 +1,4 @@
-Review of decision to revoke permit.
+Review of decision to revoke permit. (Repealed)
 
 17.—(1) A decision of the Minister to revoke an employment permit, may, in accordance with regulations under section 29(3), be submitted by the holder of the permit, the employer or the connected person to the Minister for review under this section.
 

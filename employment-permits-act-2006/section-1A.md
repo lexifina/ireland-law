@@ -1,4 +1,4 @@
-Definition of "remuneration".
+Definition of "remuneration". (Repealed)
 
 1A.—(1) In this Act "remuneration" means—
 

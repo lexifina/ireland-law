@@ -1,4 +1,4 @@
-Establishing need for grant of certain employment permits.
+Establishing need for grant of certain employment permits. (Repealed)
 
 10A.—(1) This section applies to an application for an employment permit in respect of the purpose specified in section 3A(2)(c) or 3A(2)(e).
 

@@ -1,4 +1,4 @@
-Data exchange in respect of certain matters.
+Data exchange in respect of certain matters. (Repealed)
 
 37.—(1) Information held by the Minister for the purposes of this Act or the Act of 2003 may be supplied by the Minister to each of the following, namely:
 

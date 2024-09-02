@@ -1,4 +1,4 @@
-Presumption that a person is being employed.
+Presumption that a person is being employed. (Repealed)
 
 34.—In proceedings for an offence under section 2(3) of the Act of 2003, where evidence is given by—
 

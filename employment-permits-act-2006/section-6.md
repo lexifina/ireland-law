@@ -1,4 +1,4 @@
-Application (other than by a foreign national) for permit — information to be provided.
+Application (other than by a foreign national) for permit — information to be provided. (Repealed)
 
 6.—An application for an employment permit shall—
 

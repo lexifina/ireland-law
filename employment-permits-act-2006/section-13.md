@@ -1,4 +1,4 @@
-Review of decision to refuse permit.
+Review of decision to refuse permit. (Repealed)
 
 13.—(1) A decision of the Minister to refuse to grant an employment permit may, in accordance with regulations under section 29(3), be submitted by the applicant therefor to the Minister for review under this section.
 

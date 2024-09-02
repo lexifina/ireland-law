@@ -1,4 +1,4 @@
-Sections 20A and 20B: supplemental provisions.
+Sections 20A and 20B: supplemental provisions. (Repealed)
 
 20D.—Where—
 

@@ -1,4 +1,4 @@
-Recommendation by enterprise development agency.
+Recommendation by enterprise development agency. (Repealed)
 
 3B.—(1) An enterprise development agency may make a recommendation in writing to the Minister in respect of an application for—
 
