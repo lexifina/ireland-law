@@ -16,4 +16,4 @@ Short title and commencement.
 
 (ii) when a person is arrested without a warrant, or
 
-(iii) when a person is remanded for trial pursuant to Chapter IV of Part V.
+(iii) when a person is remanded for trial pursuant to Chapter IV of Part V of the Defence Act, 1954.
