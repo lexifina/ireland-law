@@ -8,7 +8,7 @@ Interpretation.
 
 “employer” has the meaning assigned to it by the Act of 1994;
 
-‘foreign national’ means a non-national (within the meaning of the Immigration Act 1999);
+"foreign national" means a non-national (within the meaning of the Immigration Act 1999);
 
 “Minister” means the Minister for Enterprise, Trade and Employment;
 

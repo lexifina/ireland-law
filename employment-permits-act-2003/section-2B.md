@@ -1,6 +1,6 @@
 F17[Civil proceedings
 
-2B. (1) This section applies to a foreign national who, in contravention of section 2(1) —
+2B.—(1) This section applies to a foreign national who, in contravention of section 2(1) —
 
 (a) had entered the service of an employer in the State, or
 
@@ -74,8 +74,8 @@ F17[Civil proceedings
 
 (15) In this section—
 
-‘Act of 2006’ means the Employment Permits Act 2006;
+"Act of 2006" means the Employment Permits Act 2006;
 
-‘enactment’ has the meaning assigned to it by the Act of 2006;
+"enactment" has the meaning assigned to it by the Act of 2006;
 
-‘national minimum hourly rate of pay’ has the meaning assigned to it by the Act of 2006.
+"national minimum hourly rate of pay" has the meaning assigned to it by the Act of 2006.
