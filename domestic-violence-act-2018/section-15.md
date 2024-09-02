@@ -10,6 +10,8 @@ Hearing of applications under Acts together
 
 (c) section 5 or 9 of the Act of 1976,
 
-(d) the Act of 1991, or
+(d) the Act of 1991,
 
-(e) section 30, 34 or 45 of the Act of 2010.
+(e) section 30, 34 or 45 of the Act of 2010, or
+
+(f) Part 5 of the Criminal Justice (Miscellaneous Provisions) Act 2023.
