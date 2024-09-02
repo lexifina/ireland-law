@@ -1,6 +1,6 @@
-F4[Age of retirement for relevant public servants
+F5[Age of retirement for relevant public servants
 
-3A. (1) A relevant public servant shall retire from being a public servant at the latest upon attaining the age of 70 years or, where a higher age is prescribed by order under subsection (2), upon attaining that higher age.
+3A.—(1) A relevant public servant shall retire from being a public servant at the latest upon attaining the age of 70 years or, where a higher age is prescribed by order under subsection (2), upon attaining that higher age.
 
 (2) Subject to subsection (3), the Minister may, by order, prescribe an age, being higher than 70 years, upon the attainment of which all relevant public servants shall, at the latest, retire.
 
