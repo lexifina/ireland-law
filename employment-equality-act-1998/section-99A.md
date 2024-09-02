@@ -1,4 +1,4 @@
-F182[Award of expenses.
+F183[Award of expenses.
 
 99A.—(1) Without prejudice to section 99, the Labour Court or the Director General of the Workplace Relations Commission may, if of opinion that a person is obstructing or impeding an investigation or appeal under this Act, order that the person pay to another person a specified amount in respect of the travelling or other expenses reasonably incurred by that other person in connection with the investigation or appeal.
 

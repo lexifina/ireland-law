@@ -1,4 +1,4 @@
-F125[Dismissal of claim.
+F126[Dismissal of claim.
 
 77A.—(1) The Director General of the Workplace Relations Commission may dismiss a claim at any stage if of opinion that it has been made in bad faith or is frivolous, vexatious or misconceived or relates to a trivial matter.
 

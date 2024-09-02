@@ -1,6 +1,6 @@
 ## Collective Agreements
 
-Reference of collective agreements to F159[Director General of the Workplace Relations Commission].
+Reference of collective agreements to F160[Director General of the Workplace Relations Commission].
 
 86.—(1) If the Authority or a person who is affected by a collective agreement claims that a provision of that agreement is null and void by virtue of section 9, the Authority or that person may refer the question of that agreement to the Director General of the Workplace Relations Commission; and in this section (and section 87) the Authority or the person making such a reference is referred to as “the complainant”.
 

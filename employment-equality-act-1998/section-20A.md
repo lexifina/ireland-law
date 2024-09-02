@@ -1,4 +1,4 @@
-F43[Gender pay gap information
+F44[Gender pay gap information
 
 20A.—(1) The Minister shall, as soon as is reasonably practicable after the commencement of section 2 of the Gender Pay Gap Information Act 2021 and in accordance with this section, make regulations requiring—
 
