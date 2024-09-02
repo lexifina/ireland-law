@@ -1,4 +1,4 @@
-Non-application of section 2 to nationals of certain states.
+Non-application of section 2 to nationals of certain states. (Repealed)
 
 3.—(1) In addition to the persons to whom, by virtue of subsection (10) of section 2, that section does not apply, that section shall not, subject to subsection (3), apply to a national of a state to which this section applies if—
 

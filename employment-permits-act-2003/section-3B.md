@@ -1,4 +1,4 @@
-Non-application of certain requirement of Employment Permits Act 2006.
+Non-application of certain requirement of Employment Permits Act
 
 3B.— (1) The Minister may, subject to subsection (2), by order provide that section 10 of the Employment Permits Act 2006 shall not apply to an application for an employment permit in respect of a national of the Republic of Bulgaria or Romania and for so long as such an order remains in force—
 
