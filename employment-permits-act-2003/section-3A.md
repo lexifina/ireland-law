@@ -1,4 +1,4 @@
-Non-application of section 2 to nationals of Bulgaria and Romania.
+Non-application of section 2 to nationals of Bulgaria and Romania. (Repealed)
 
 3A.—(1) Notwithstanding section 2(10), the Minister may, subject to subsection (2), make an order providing that section 2 shall apply neither to nationals of the Republic of Bulgaria nor to nationals of Romania and for so long as such an order remains in force that section shall not apply to such nationals accordingly.
 
@@ -14,8 +14,8 @@ Non-application of section 2 to nationals of Bulgaria and Romania.
 
 (5) In this section—
 
-‘disturbance’ shall be construed in accordance with the Treaty of Accession with the Republic of Bulgaria and Romania;
+"disturbance" shall be construed in accordance with the Treaty of Accession with the Republic of Bulgaria and Romania;
 
-‘labour market’ shall be construed in accordance with the Treaty of Accession with the Republic of Bulgaria and Romania;
+"labour market" shall be construed in accordance with the Treaty of Accession with the Republic of Bulgaria and Romania;
 
-‘Treaty of Accession with the Republic of Bulgaria and Romania’ has the same meaning as it has in section 2A.
+"Treaty of Accession with the Republic of Bulgaria and Romania" has the same meaning as it has in section 2A.
