@@ -26,7 +26,7 @@ BREACH OF DISCIPLINE
 
 (i) destroying or mutilating any official document or record;
 
->(ii) altering or erasing or adding to any entry in an official document or record.
+(ii) altering or erasing or adding to any entry in an official document or record.
 
 4. Abuse of authority, that is to say, oppressive conduct towards a member of the public, including—
 
