@@ -1,12 +1,10 @@
 ## Part IVB ENVIRONMENTAL INSPECTION PLAN
 
-F221[Environmental Inspection Plan
+F223[Environmental Inspection Plan
 
 99J. (1) This section applies to an installation where an industrial emissions directive activity is or will be carried on.
 
 (2) The Agency, as soon as may be after the commencement of this Part, shall make a national plan (in this Part called “the environmental inspection plan”) with regard to the inspection of installations.
-
-O.J. No. L20, 26.01.1980, pp 43-48.
 
 (3) Every installation shall be referred to in the environmental inspection plan and the Agency, from time to time as it thinks appropriate, shall review the environmental inspection plan and make such revisions thereto as it thinks fit and references in this Part to the environmental inspection plan shall, unless the context otherwise requires, be construed as including references to the plan as so revised.
 
@@ -20,7 +18,9 @@ O.J. No. L20, 26.01.1980, pp 43-48.
 
 (d) procedures for drawing up programmes for routine environmental inspections under subsection (5);
 
-(e) procedures for non-routine environmental inspections under subsection (7).
+(e) procedures for non-routine environmental inspections under subsection (7);
+
+(f) where necessary, provisions on the cooperation between different inspection authorities.
 
 (5) The Agency, based on the environmental inspection plan, shall regularly draw up a programme for routine environmental inspections, including the frequency of site visits for different types of installations, provided that:
 
@@ -42,8 +42,6 @@ O.J. No. L20, 26.01.1980, pp 43-48.
 
 (a) prepare a report describing its findings regarding—
 
-O.J. No. L342, 22.12.2009, p. 1.
-
 (i) if the installation concerned complies with the licence or any conditions attached to the licence, and
 
 (ii) further action (if any) necessary to achieve that compliance,
@@ -57,6 +55,8 @@ O.J. No. L342, 22.12.2009, p. 1.
 (a) the occurrences of non-compliance and the measures that the person in charge is required to take to restore compliance within a period specified by the Agency in the notification,
 
 (b) where relevant, the order in which such measures are to be taken, and
+
+O.J. No. L342, 22.12.2009, p. 1.
 
 (c) where relevant, the monitoring and inspection that the Agency proposes to undertake in relation to the remedial measures until the Agency is satisfied that compliance has been restored.
 
