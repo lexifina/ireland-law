@@ -16,6 +16,14 @@ Interpretation
 
 "fuel" means any solid, liquid or gaseous combustible material;
 
+"substance" means any chemical element and its compounds, with the exception of the following substances:
+
+(a) radioactive substances as defined in Article 4 of Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation;
+
+(b) genetically modified micro-organisms as defined in Article 2(b) of Directive 2009/41/EC of the European Parliament and the Council of 6 May 2009 on the contained use of genetically modified micro-organisms;
+
+(c) genetically modified organisms as defined in point 2 of Article 2 of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms;
+
 "waste incineration plant" means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of waste, with or without recovery of the combustion heat generated, through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated;
 
 "waste co-incineration plant" means any stationary or mobile technical unit whose main purpose is the generation of energy or production of material products and which uses waste as a regular or additional fuel or in which waste is thermally treated for the purpose of disposal through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated.
@@ -26,7 +34,9 @@ Interpretation
 
 1.1.2 The extraction, production and processing of raw asbestos, not included in paragraph 1.1.1.
 
-1.2 The extraction of aluminium oxide from an ore, not included in paragraph 5.13. 1.3 The extraction and processing (including size reduction, grading and heating) of minerals within the meaning of the Minerals Development Acts 1940 to 1999, where an activity involves—
+1.2 The extraction of aluminium oxide from an ore, not included in paragraph 5.13.
+
+1.3 The extraction and processing (including size reduction, grading and heating) of minerals within the meaning of the Minerals Development Acts 1940 to 1999, where an activity involves—
 
 (a) a metalliferous operation, or
 
@@ -54,9 +64,7 @@ Interpretation
 
 3.2.2 The processing of iron and steel in forges, drawing plants and rolling mills where the production area exceeds 500 square metres, not included in paragraph 3.2.1.
 
-3.3.1 The operation of ferrous metal foundries with a production capacity exceeding 20 tonnes per day.
-
-3.3.2 The production, recovery, processing or use of ferrous metals in foundries having melting installations with a total capacity exceeding 5 tonnes, not included in paragraph 3.3.1.
+3.3.1 The operation of ferrous metal foundries with a production capacity exceeding 20 tonnes per day. 3.3.2 The production, recovery, processing or use of ferrous metals in foundries having melting installations with a total capacity exceeding 5 tonnes, not included in paragraph 3.3.1.
 
 3.4.1 The—
 
@@ -64,7 +72,9 @@ Interpretation
 
 (b) melting, including the alloyage, of non-ferrous metals, including recovered products and operation of non-ferrous metal foundries, with a melting capacity exceeding 4 tonnes per day for lead and cadmium or 20 tonnes per day for all other metals.
 
-3.4.2 The production, recovery or processing of non-ferrous metals, their compounds or other alloys including antimony, arsenic, beryllium, chromium, lead, magnesium, manganese, phosphorus, selenium, cadmium or mercury, by thermal, chemical or electrolytic means in installations with a batch capacity exceeding 0.5 tonnes, not included in paragraph 3.4.1. 3.5 The reaction of aluminium or its alloys with chlorine or its compounds, not included in paragraph 5.13.
+3.4.2 The production, recovery or processing of non-ferrous metals, their compounds or other alloys including antimony, arsenic, beryllium, chromium, lead, magnesium, manganese, phosphorus, selenium, cadmium or mercury, by thermal, chemical or electrolytic means in installations with a batch capacity exceeding 0.5 tonnes, not included in paragraph 3.4.1.
+
+3.5 The reaction of aluminium or its alloys with chlorine or its compounds, not included in paragraph 5.13.
 
 3.6.1 The roasting or sintering of metal ore (including sulphide ore).
 
@@ -94,9 +104,7 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 5.1 The manufacture of chemicals in an integrated chemical installation, not included in paragraphs 5.12 to 5.17.
 
-5.2 The manufacture of olefins and their derivatives or of monomers and polymers including styrene and vinyl chloride, not included in paragraphs 5.12 to 5.17.
-
-5.3 The manufacture, by way of chemical reaction processes, of organic or organo-metallic chemical products other than those specified in paragraph 5.2 and not included in paragraphs 5.12 to 5.17.
+5.2 The manufacture of olefins and their derivatives or of monomers and polymers including styrene and vinyl chloride, not included in paragraphs 5.12 to 5.17. 5.3 The manufacture, by way of chemical reaction processes, of organic or organo-metallic chemical products other than those specified in paragraph 5.2 and not included in paragraphs 5.12 to 5.17.
 
 5.4 The manufacture of inorganic chemicals, not included in paragraphs 5.12 to 5.17.
 
@@ -110,7 +118,9 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 5.9 The chemical manufacture of glues, bonding agents and adhesives, not included in paragraphs 5.12 to 5.17.
 
-5.10 The manufacture of vitamins involving the use of heavy metals, not included in paragraphs 5.12 to 5.17. 5.11 The storage, in quantities exceeding the values shown, of any one or more of the following chemicals (other than as part of any other activity) and not included in paragraphs 5.12 to 5.17— methyl acrylate (20 tonnes); acrylonitrile (20 tonnes); toluene di-isocyanate (20 tonnes); anhydrous ammonia (100 tonnes); anhydrous hydrogen flouride (1 tonne).
+5.10 The manufacture of vitamins involving the use of heavy metals, not included in paragraphs 5.12 to 5.17.
+
+5.11 The storage, in quantities exceeding the values shown, of any one or more of the following chemicals (other than as part of any other activity) and not included in paragraphs 5.12 to 5.17— methyl acrylate (20 tonnes); acrylonitrile (20 tonnes); toluene di-isocyanate (20 tonnes); anhydrous ammonia (100 tonnes); anhydrous hydrogen flouride (1 tonne).
 
 5.12 The production of organic chemicals, such as:
 
@@ -156,7 +166,9 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 5.17 The production of explosives.
 
-6 Intensive Agriculture 6.1 (a) The rearing of poultry in installations where the capacity exceeds 40,000 places.
+6 Intensive Agriculture
+
+6.1 (a) The rearing of poultry in installations where the capacity exceeds 40,000 places.
 
 (b) In clause (a) "poultry" shall be construed in accordance with Regulation 2(2) of the European Communities (Poultry and Hatching Eggs) Regulations 2010 (S.I. No. 564 of 2010).
 
@@ -180,9 +192,7 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 7.3.3 Malting in installations where the production capacity exceeds 100,000 tonnes per year, not included in paragraph 7.8.
 
-7.4.1 The operation of slaughterhouses with a carcass production capacity greater than 50 tonnes per day.
-
-7.4.2 The slaughter of animals in installations where the daily capacity exceeds 1,500 units and where units have the following equivalents—
+7.4.1 The operation of slaughterhouses with a carcass production capacity greater than 50 tonnes per day. 7.4.2 The slaughter of animals in installations where the daily capacity exceeds 1,500 units and where units have the following equivalents—
 
 1 sheep = 1 unit,
 
@@ -228,7 +238,9 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 8.5.2 The dyeing, treatment or finishing (including moth-proofing and fireproofing) of fibres or textiles (including carpet) where the capacity exceeds 1 tonne per day of fibre, yarn or textile material, not included in paragraph 8.5.1.
 
-8.6.1 The tanning of hides and skins where the treatment capacity exceeds 12 tonnes of finished products per day. 8.6.2 The fell-mongering of hides and tanning of leather in installations where the capacity exceeds 100 skins per day, not included in paragraph 8.6.1.
+8.6.1 The tanning of hides and skins where the treatment capacity exceeds 12 tonnes of finished products per day.
+
+8.6.2 The fell-mongering of hides and tanning of leather in installations where the capacity exceeds 100 skins per day, not included in paragraph 8.6.1.
 
 8.7 The production of one or more of the following wood-based panels: oriented strand board, particleboard or fibreboard with a production capacity exceeding 600 m3 per day.
 
@@ -244,9 +256,7 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 9.3.2 The refining of petroleum or gas, not included in paragraph 9.3.1.
 
-9.4.1 The production of coke.
-
-9.4.2 The gasification or liquefaction of:
+9.4.1 The production of coke. 9.4.2 The gasification or liquefaction of:
 
 (a) coal;
 
@@ -292,9 +302,7 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 (j) oil re-defining or other reuses of oil;
 
-(k) surface impoundment.
-
-11.3 Disposal or recovery of waste in waste incineration plants or in waste co-incineration plants— (a) for non-hazardous waste with a capacity exceeding 3 tonnes per hour,
+(k) surface impoundment. 11.3 Disposal or recovery of waste in waste incineration plants or in waste co-incineration plants— (a) for non-hazardous waste with a capacity exceeding 3 tonnes per hour,
 
 (b) for hazardous waste with a capacity exceeding 10 tonnes per day.
 
@@ -330,9 +338,7 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 12 Surface Coatings
 
-12.1 Operations involving coating with organo-tin compounds, not included in paragraph 12.2.1 or 12.2.2.
-
-12.2.1 The surface treatment of substances, objects or products using organic solvents, in particular for dressing, printing, coating, degreasing, waterproofing , sizing , painting, cleaning or impregnating, with a consumption capacity of more than 150 kg per hour or more than 200 tonnes per year.
+12.1 Operations involving coating with organo-tin compounds, not included in paragraph 12.2.1 or 12.2.2. 12.2.1 The surface treatment of substances, objects or products using organic solvents, in particular for dressing, printing, coating, degreasing, waterproofing , sizing , painting, cleaning or impregnating, with a consumption capacity of more than 150 kg per hour or more than 200 tonnes per year.
 
 12.2.2 The manufacture or use of coating materials in processes with a capacity to make or use at least 10 tonnes per year of organic solvents, and powder coating manufacture with a capacity to produce at least 50 tonnes per year, not included in paragraph 12.2.1.
 

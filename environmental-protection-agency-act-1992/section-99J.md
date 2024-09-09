@@ -18,7 +18,9 @@ Environmental Inspection Plan.
 
 (d) procedures for drawing up programmes for routine environmental inspections under subsection (5);
 
-(e) procedures for non-routine environmental inspections under subsection (7).
+(e) procedures for non-routine environmental inspections under subsection (7);
+
+(f) where necessary, provisions on the cooperation between different inspection authorities.
 
 (5) The Agency, based on the environmental inspection plan, shall regularly draw up a programme for routine environmental inspections, including the frequency of site visits for different types of installations, provided that:
 

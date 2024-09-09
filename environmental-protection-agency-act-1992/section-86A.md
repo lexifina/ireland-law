@@ -1,6 +1,6 @@
 Best
 
-86A. (1) This section applies to a licence or revised licence under this Part in relation to an industrial emissions directive activity.
+86A.—(1) This section applies to a licence or revised licence under this Part in relation to an industrial emissions directive activity.
 
 (2) Without prejudice to the generality of section 83(1), the Agency shall not grant a licence or revised licence, unless it is satisfied that the best available techniques will be utilised to prevent or eliminate or, where that is not practicable, to minimise emissions and the impact on the environment as a whole.
 
@@ -8,7 +8,7 @@ Best
 
 (b) The Agency may supplement or replace emissions limit values referred to in section 83(4)(a) or 86(1)(a)(i), by attaching one or more conditions to a licence or revised licence which specify equivalent parameters or technical measures, where the Agency is satisfied that to do so would secure an equivalent level of environmental protection.
 
-(c)(i) Where the Agency attaches one or more conditions to a licence or revised licence which specify requirements necessary to give effect to a best available technique not described in any of the relevant BAT conclusions, the Agency shall determine that technique under section 5(3)(b), 83(5)(a)(v) and 86(3) and subsection (4).
+(c)(i) Where the Agency attaches one or more conditions to a licence or revised licence which specify requirements necessary to give effect to a best available technique not described in any of the relevant BAT conclusions, the Agency shall determine that technique under sections 5(3)(b), 83(5)(a)(v) and 86(3) and subsections (4) and (6).
 
 (ii) Where any of the relevant BAT conclusions referred to in subparagraph (i) describe a best available technique, but do not contain emission levels associated with the technique, the Agency, under subparagraph (i), shall determine a best available technique which provides a level of environmental protection equivalent to the best available techniques described in the BAT conclusions and shall attach one or more conditions to a licence or revised licence which specify requirements necessary to give effect to that best available technique.
 
