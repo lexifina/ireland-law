@@ -1,6 +1,6 @@
 Unauthorised fishing while on board foreign sea-fishing boat within exclusive fishery limits.
 
-10. (1) Subject to section 9 and subsection (2), a person on board a foreign sea-fishing boat shall not fish or attempt to fish while the boat is within the exclusive fishery limits unless he or she is authorised by law to do so.
+10.— (1) Subject to section 9 and subsection (2), a person on board a foreign sea-fishing boat shall not fish or attempt to fish while the boat is within the exclusive fishery limits unless he or she is authorised by law to do so.
 
 (2) A person who is on board a sea-fishing boat owned and operated in Northern Ireland may fish or attempt to fish while the boat is within the area between 0 and 6 nautical miles as measured from the baseline (within the meaning of the Maritime Jurisdiction Act 2021) if, at that time, both the person and the boat comply with any obligation specified in subsection (3) which would apply in the same circumstances if the boat were an Irish sea-fishing boat.
 

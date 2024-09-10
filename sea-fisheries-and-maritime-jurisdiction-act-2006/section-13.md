@@ -2,7 +2,7 @@ Management and Regulation of State’s fishing opportunities and fishing effort 
 
 13.— (1) The Minister may, for the proper and effective management and conservation and rational exploitation of fishing opportunities and fishing effort for Irish sea-fishing boats under the common fisheries policy, at his or her discretion—
 
-(a)upon—
+(a) upon—
 
 (i) the application from any person, in such form as the Minister decides, or
 
