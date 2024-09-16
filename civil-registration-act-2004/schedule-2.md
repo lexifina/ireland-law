@@ -56,7 +56,9 @@ No. 1 of 1989 Garda Síochána Act 1989 Section 4.
 
 ... ... ...
 
-No. 1 of 1994 Stillbirths Registration Act 1994 The whole Act.
+No. 1 of 1994 Stillbirths Registration Act 1994 The whole Act. Session and Chapter or Short Title Extent of Repeal Number and Year
+
+(1) (2) (3)
 
 No. 26 of 1995 Family Law Act 1995 Section 32; In section 33(1), the words “or section 32(1) (a) or both of those provisions”.
 

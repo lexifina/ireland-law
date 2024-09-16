@@ -1,0 +1,3 @@
+Certified copy of entry in register as evidence of facts stated.
+
+30S.— ...

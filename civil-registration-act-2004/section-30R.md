@@ -1,0 +1,3 @@
+Separate index of connections between register and register of births
+
+30R.— ...

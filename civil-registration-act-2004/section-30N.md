@@ -1,0 +1,3 @@
+Application of Part.
+
+30N.— ...
