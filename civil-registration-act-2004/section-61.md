@@ -54,4 +54,4 @@ Searches.
 
 (6) The Minister for Culture, Heritage and the Gaeltacht, or a relevant body, in addition to an tArd-Chláraitheoir, an tArd-Chláraitheoir Cúnta, a Superintendent Registrar, a registrar or an authorised officer, may perform functions referred to in subsection (1)(a) in so far as the functions relate to the search of a record of an index to a register maintained under section 13 and for that purpose that Minister, or that body, may keep such a record, including in electronic form, of such an index.
 
-(7) In this section, and section 67, ‘relevant body’ means a body that for the time being stands designated under subsection (2C).
+(7) In this section, and section 67, "relevant body" means a body that for the time being stands designated under subsection (2C).

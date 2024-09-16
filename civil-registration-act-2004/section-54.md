@@ -1,6 +1,6 @@
 Application by bodies for registration of persons.
 
-54.— (1) A body may apply to an tArd-Chláraitheoir—
+54.—(1) A body may apply to an tArd-Chláraitheoir—
 
 (a) in case the body is the Executive, for the registration of a registrar named in the application who is employed by the Executive and is aged 18 years or more,
 
