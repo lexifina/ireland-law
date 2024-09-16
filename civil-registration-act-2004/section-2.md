@@ -6,6 +6,8 @@ Interpretation.
 
 “the Act of 1863” means the Registration of Births and Deaths (Ireland) Act 1863;
 
+"Act of 2005" means the Social Welfare Consolidation Act 2005;
+
 "Act of 2010" means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
 "Act of 2015" means the Gender Recognition Act 2015;
@@ -148,7 +150,19 @@ Interpretation.
 
 “signature” includes an electronic signature within the meaning of the Electronic Commerce Act 2000 and cognate words shall be construed accordingly;
 
-“stillborn child” means a child who, at birth, weighs not less than 500 grammes or has a gestational age of not less than 24 weeks and shows no sign of life and “stillbirth” shall be construed accordingly;
+"stillborn child" means—
+
+(a) a child who, at birth—
+
+(i) weighs not less than 400 grammes, or
+
+(ii) has a gestational age of not less than 23 weeks, and shows no sign of life, and
+
+(b) in the case of a multiple pregnancy, where one of the children is a "stillborn child" within the meaning of paragraph (a), any other child who, at birth—
+
+(i) weighs not less than 200 grammes, and
+
+(ii) shows no signs of life, and any reference to "stillbirth" or "stillborn" shall be construed accordingly;
 
 “Superintendent Registrar” shall be construed in accordance with section 17.
 
@@ -168,11 +182,11 @@ Interpretation.
 
 (e) ...
 
-(f) one of the parties to the marriage is, or, other than where section 2B applies, both are, already party to a subsisting civil partnership, or
+(f) one of the parties to the marriage is, or, other than where section 2B applies, both are, already party to a subsisting civil partnership,
 
-(g) the marriage would constitute a marriage of convenience.
+(g) the marriage would constitute a marriage of convenience, or
 
-(g) the marriage would be void by virtue of section 2A.
+(h) the marriage would be void by virtue of section 2A.
 
 (2A) ...
 
