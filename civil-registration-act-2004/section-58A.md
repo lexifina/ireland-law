@@ -1,6 +1,6 @@
 Marriage ceremonies performed at certain embassies or diplomatic missions.
 
-58A. (1) This section applies to a marriage which was solemnised, before the commencement of this section, in an embassy or diplomatic mission in the State.
+58A.—(1) This section applies to a marriage which was solemnised, before the commencement of this section, in an embassy or diplomatic mission in the State.
 
 (2) A marriage to which this section applies, subject to subsection (3), shall be and shall be deemed always to have been valid as to form as if it would have been so valid had it been solemnised in the State in compliance with this Act.
 

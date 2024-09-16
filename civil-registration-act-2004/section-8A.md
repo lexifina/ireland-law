@@ -1,6 +1,6 @@
 Performance of functions of registrar and Superintendent Registrar by
 
-8A. (1) A Superintendent Registrar of a registration area may make a request in writing to an tArd-Chláraitheoir (in this section referred to as a "request") that an tArd-Chláraitheoir issue a direction (in this section referred to as a "direction") that the relevant functions of registrars and Superintendent Registrars in the registration area to which the request relates are to be performed in accordance with this section.
+8A.—(1) A Superintendent Registrar of a registration area may make a request in writing to an tArd-Chláraitheoir (in this section referred to as a "request") that an tArd-Chláraitheoir issue a direction (in this section referred to as a "direction") that the relevant functions of registrars and Superintendent Registrars in the registration area to which the request relates are to be performed in accordance with this section.
 
 (2) Where an tArd-Chláraitheoir receives a request under subsection (1), he or she shall issue a direction in relation to a registration area where he or she is satisfied that—
 

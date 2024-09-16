@@ -1,3 +1,3 @@
 Notification of early neonatal deaths.
 
-42A.—
+42A.— ...

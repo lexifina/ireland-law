@@ -4,7 +4,7 @@
 
 Definitions (Part 3B).
 
-30F. In this Part—
+30F.—In this Part—
 
 "affected person", subject to section 30G(4), means a person to whom the following applies:
 

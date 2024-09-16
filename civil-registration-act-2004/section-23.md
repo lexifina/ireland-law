@@ -1,6 +1,6 @@
 Re-registration of birth to include name of father.
 
-23. (1) This section applies where the birth of a child whose parents were not married to each other at the date of the birth or at any time during the period of 10 months ending immediately before that date has been registered under this Act or the repealed enactments and—
+23.—(1) This section applies where the birth of a child whose parents were not married to each other at the date of the birth or at any time during the period of 10 months ending immediately before that date has been registered under this Act or the repealed enactments and—
 
 (a) no person has been registered as the child’s father, or
 
