@@ -1,6 +1,6 @@
-F118[Index to register and privacy (Part 3B)
+F134[Index to register and privacy (Part 3B)
 
-30J. (1) An tArd-Chláraitheoir shall maintain an index to the register.
+30J.—(1) An tArd-Chláraitheoir shall maintain an index to the register.
 
 (2) Subject to subsection (4), an tArd-Chláraitheoir shall, on application by a person referred to in subsection (3) to him or her in that behalf in writing and on payment to him or her of the prescribed fee—
 
@@ -30,6 +30,6 @@ F118[Index to register and privacy (Part 3B)
 
 (c) any other person who an tArd-Chláraitheoir, in his or her discretion, determines.
 
-(4) A copy of an entry or an extract thereof referred to in subsection (2)(b) shall omit any reference to or particulars of a personal public service number and ‘true copy’ in that subsection shall be construed accordingly.
+(4) A copy of an entry or an extract thereof referred to in subsection (2)(b) shall omit any reference to or particulars of a personal public service number and "true copy" in that subsection shall be construed accordingly.
 
 (5) The Minister, by regulations under section 30L, may specify the particulars to be included in a certified extract referred to in subsection (2)(b)(iii).

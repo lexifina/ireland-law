@@ -1,6 +1,6 @@
-F112[Cancellation or amendment of entry in register
+F128[Cancellation or amendment of entry in register
 
-30E. (1) An tArd-Chláraitheoir, as soon as practicable following receipt of a notice under section 14(9)(a) or 15(11)(a) of the Act of 2015, shall cancel the appropriate entry in the register, the index referred to in section 30C(1) and the index referred to in section 30D.
+30E.—(1) An tArd-Chláraitheoir, as soon as practicable following receipt of a notice under section 14(9)(a) or 15(11)(a) of the Act of 2015, shall cancel the appropriate entry in the register, the index referred to in section 30C(1) and the index referred to in section 30D.
 
 (2) An tArd-Chláraitheoir, as soon as practicable following receipt of a notice under section 16(8)(a) of the Act of 2015, shall correct the appropriate entry in the register and the original entry shall be retained in the register.
 

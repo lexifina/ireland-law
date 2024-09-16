@@ -1,6 +1,6 @@
-F213[Civil Partnership ceremonies performed at certain embassies or diplomatic missions
+F247[Civil Partnership ceremonies performed at certain embassies or diplomatic missions
 
-59IA. (1) This section applies to a civil partnership where the ceremony of civil partnership took place during the period commencing on 1 January 2011 and ending on the day before the commencement of this section, in an embassy or diplomatic mission in the State.
+59IA.—(1) This section applies to a civil partnership where the ceremony of civil partnership took place during the period commencing on 1 January 2011 and ending on the day before the commencement of this section, in an embassy or diplomatic mission in the State.
 
 (2) A civil partnership to which this section applies, subject to subsection (3), shall be and shall be deemed always to have been valid as to form as if it would have been so valid had it been a civil partnership registered in the State in compliance with this Act.
 

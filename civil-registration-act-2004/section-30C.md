@@ -1,6 +1,6 @@
-F110[Index to register and privacy
+F126[Index to register and privacy
 
-30C. (1) An tArd-Chláraitheoir shall maintain an index to the register.
+30C.—(1) An tArd-Chláraitheoir shall maintain an index to the register.
 
 (2) Subject to subsection (4), an tArd-Chláraitheoir shall, on application by a person referred to in subsection (3) to him or her in that behalf in writing and on payment to him or her of the prescribed fee—
 

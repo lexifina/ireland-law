@@ -1,6 +1,6 @@
-F117[Register under Part 3B
+F133[Register under Part 3B
 
-30I. (1) An tArd-Chláraitheoir shall establish and maintain a register (in this Act referred to as the "register under Part 3B").
+30I.—(1) An tArd-Chláraitheoir shall establish and maintain a register (in this Act referred to as the "register under Part 3B").
 
 (2) Where an tArd-Chláraitheoir has made a correction, cancellation or registration in accordance with section 30H, he or she shall enter the particulars to which this section applies in the register.
 
