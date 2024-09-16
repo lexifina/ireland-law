@@ -4,15 +4,21 @@ Registration of stillbirths.
 
 (a) the parents or, if one of the parents is dead, the surviving parent of the child, or
 
-(b) if both of the parents are dead, a relative of either parent, may ...—
+(b) if both of the parents are dead, a relative of either parent, may—
 
-(i) attend before any registrar,
+(i) attend before any registrar and there—
 
-(ii) give to the registrar, to the best of his or her knowledge and belief, the required particulars of the stillbirth and, if it has been obtained, the certificate referred to in subsection (3),
+(I) give to the registrar, to the best of his or her knowledge and belief, the required particulars of the stillbirth and, if it has been obtained, the certificate referred to in subsection (3), and
 
-(iii) after the registrar has entered the required particulars in relation to the stillbirth in the register, sign the register in the presence of the registrar.
+(II) after the registrar has entered the required particulars in relation to the stillbirth in the register, sign the register in the presence of the registrar, or
 
-(2) Where a person referred to in subsection (1) has taken the steps specified in paragraphs (i) to (iii) of that subsection in relation to a stillbirth, the registrar concerned shall register the stillbirth in the register in such manner as an tArd- Chláraitheoir may direct.
+(ii) provide to an tArd-Chláraitheoir to the best of his or her knowledge and belief the required particulars of the stillbirth and, if it has been obtained, the certificate referred to in subsection (3), by electronic means in such manner as an tArd-Chláraitheoir may specify.
+
+(1A) Subsection (1)(ii) shall only apply where the person providing the particulars concerned has been issued with a public services card (within the meaning of the Act of 2005).
+
+(2) Where a person referred to in subsection (1) has taken the steps specified in paragraph (i) of that subsection in relation to a stillbirth, the registrar concerned shall register the stillbirth in the register in such manner as an tArd-Chláraitheoir may direct.
+
+(2A) Where a person referred to in subsection (1) has taken the steps specified in paragraph (ii) of that subsection in relation to a stillbirth, the stillbirth shall be registered in a manner specified by an tArd Chlaraitheoir.
 
 (3) Where a registered medical practitioner has attended the stillbirth of a child, or examined a stillborn child, he or she shall, if so requested by a person referred to in subsection (1), give to him or her a certificate signed by the practitioner stating—
 
