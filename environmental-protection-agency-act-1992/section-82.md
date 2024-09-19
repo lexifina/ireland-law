@@ -1,5 +1,3 @@
-## PART IV INTEGRATED POLLUTION PREVENTION AND CONTROL
-
 Licences.
 
 82.—(1) In this section "previous Part IV" means this Part as it had effect before the amendment of it by section 15 of the Protection of the Environment Act 2003.
