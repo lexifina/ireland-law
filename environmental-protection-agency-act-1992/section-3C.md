@@ -2,6 +2,8 @@ F20[Industrial Emissions Directive.
 
 3C. (1) The amendments of this Act effected by the European Union (Industrial Emissions) Regulations 2013 are made for the purpose of giving effect to the Industrial Emissions Directive.
 
+O.J. No. L257, 10.10.1996, p.26.
+
 (2) The Agency shall be the competent authority for the purposes of the Industrial Emissions Directive.
 
 (3) As competent authority for the purposes of the Industrial Emissions Directive, the Agency shall, amongst other things—

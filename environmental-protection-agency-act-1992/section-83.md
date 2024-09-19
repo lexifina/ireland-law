@@ -1,4 +1,4 @@
-F93[Determination of applications for licences.
+F94[Determination of applications for licences.
 
 83.—(1) Where an application is made to the Agency in the prescribed manner for a licence under this Part it may, subject to section 99A and to compliance with any regulations under section 89, grant the licence subject to such conditions as it considers appropriate or refuse the application.
 
@@ -44,7 +44,11 @@ F93[Determination of applications for licences.
 
 (I) population and human health,
 
-(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009,
+(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive
+
+OJ No. L 206, 22.7.1992, p. 7
+
+2009/147/EC of the European Parliament and of the Council of 30 November 2009,
 
 (III) land, soil, water, air and climate,
 
@@ -56,9 +60,7 @@ F93[Determination of applications for licences.
 
 (b) The Agency as part of its consideration of an application for a licence , other than a designated application, shall ensure before a licence or a revised licence is granted, and where the activity to which such licence or revised licence relates is likely to have significant effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 87(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
 
-(ba) Where the Agency receives an application for a licence , other than a designated application, in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) the Agency shall require the applicant for a licence to provide it with information on the
-
-OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7 characteristics of the activity and its likely significant effects on the environment.
+(ba) Where the Agency receives an application for a licence , other than a designated application, in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) the Agency shall require the applicant for a licence to provide it with information on the characteristics of the activity and its likely significant effects on the environment.
 
 (bb) Where an applicant is subject to a requirement by the Agency under paragraph (ba) it shall—
 
@@ -75,6 +77,8 @@ OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7 characteristics of th
 (i) where the Agency determines that the activity should be subject to environmental impact assessment, specify with reference to the relevant criteria listed in Annex III to the EIA Directive, the main reasons for that determination, and
 
 (ii) where the Agency determines that the activity should not be subject to environmental impact assessment, specify—
+
+OJ No. L 20, 26.1.2010, p. 7
 
 (I) with reference to the relevant criteria listed in Annex III to the EIA Directive, the main reasons for that determination, and
 
@@ -152,8 +156,6 @@ OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7 characteristics of th
 
 (II) require the applicant for the licence to furnish to the Agency additional information required to correct the inadequacy so identified.
 
-OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7
-
 (g) In carrying out its consideration of an application for a licence and in carrying out an environmental impact assessment or, as the case may be, an alternative assessment the Agency may have regard to, and adopt in whole or in part, any reports prepared by its officials or by consultants, experts or other advisors.
 
 (3) In considering an application for a licence or a revised licence, or the review of a licence or a revised licence under this Part, the Agency shall have regard to—
@@ -171,6 +173,8 @@ OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7
 (ii) any submissions or observations made to the Agency in relation to the environmental impact assessment report, or the environmental report
 
 (iii) any further information or particulars submitted in relation to the environmental impact assessment report or the environmental report in compliance with a notice given under regulations under section 89,
+
+OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7
 
 (iv) where appropriate, the comments of other Member States of the European Communities in relation to the effects on the environment of the proposed activity, and
 

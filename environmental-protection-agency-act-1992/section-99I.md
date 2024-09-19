@@ -1,6 +1,6 @@
 ## PART IVA WATER POLLUTION
 
-F219[Groundwater Protection.
+F221[Groundwater Protection.
 
 99I.—(1) In this Part, unless where the context otherwise requires—
 
@@ -18,6 +18,8 @@ F219[Groundwater Protection.
 
 (5) Without prejudice to section 83(5), the Agency shall not grant a licence or revised licence in relation to an activity to which this Part applies unless it is satisfied that the activity will be carried on in a manner which complies with the requirements of the Directive.
 
-(6) Before making its decision under section 83(1) on an application for a licence, or under section 90 on the review of a licence, the Agency shall carry out or cause to be carried out (by the applicant or otherwise) such investigations as it considers necessary in order to comply with the requirements of Articles 4, 5 and 7 of the Directive.
+(6) Before making its decision under section 83(1) on an application for a licence, or under section 90 on the review of a licence, the Agency shall carry out or cause to be carried out (by the applicant or otherwise) such investigations as it considers
+
+O.J. No. L20, 26.01.1980, pp 43-48. necessary in order to comply with the requirements of Articles 4, 5 and 7 of the Directive.
 
 (7) Notwithstanding subsection (1)(a) of section 90, a licence or revised licence granted by the Agency in relation to an activity to which this Part applies shall be reviewed by the Agency under that section at intervals which do not exceed 4 years.
