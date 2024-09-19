@@ -38,8 +38,6 @@ Interpretation.
 
 "emerging technique" means a novel technique for an industrial emissions directive activity that, if commercially developed, could provide either a higher general level of protection of the environment or at least the same level of protection of the environment and higher cost savings than existing best available techniques;
 
-OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
-
 "emission" means, in relation to an activity referred to in Part IV, IVA, IVB or IVC, any direct or indirect release of substances, heat or noise from individual or diffuse sources in the activity into the atmosphere, water or land, and includes—
 
 (a) an emission into the atmosphere of a pollutant within the meaning of the Air Pollution Act 1987,
@@ -47,6 +45,8 @@ OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
 (b) the release of a greenhouse gas or a precursor of a greenhouse gas into the atmosphere,
 
 (c) a discharge of polluting matter, sewage effluent or trade effluent within the meaning of the Local Government (Water Pollution) Act 1977, to waters or sewers within the meaning of that Act, or
+
+OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
 
 (d) waste, but does not include a radioactive substance within the meaning of Council Directive 96/29/Euratom, a genetically modified micro-organism within the meaning of Council Directive 90/219/EEC or a genetically modified organism within the meaning of Directive 2001/18/EC of the European Parliament and of the Council;
 
@@ -72,8 +72,6 @@ OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
 
 (a) an activity which on 29 October 1999, or such other date as may be prescribed in relation to the activity, was being carried on and did not involve or have an association with unauthorised development within the meaning of the Act of 2000, or
 
-O.J. No. L159, 29.06.1996, p.1. O.J. No. L117, 08.05.1990, p.1. O.J. No. L106, 17.04.2001, p.1. OJ No. L 26, 28.1.2012 p.1
-
 (b) an activity—
 
 (i) in respect of which permission under section 34 of the Act of 2000 had been granted, or an application for such permission had been made, before 30 October 1999, or such other date as may be prescribed in relation to the activity, and
@@ -83,6 +81,8 @@ O.J. No. L159, 29.06.1996, p.1. O.J. No. L117, 08.05.1990, p.1. O.J. No. L106, 1
 (I) was being carried on, and
 
 (II) did not involve or have an association with unauthorised development within the meaning of the Act of 2000;
+
+O.J. No. L159, 29.06.1996, p.1. O.J. No. L117, 08.05.1990, p.1. O.J. No. L106, 17.04.2001, p.1. OJ No. L 26, 28.1.2012 p.1
 
 "functions" includes powers and duties;
 

@@ -1,4 +1,4 @@
-F165[Agency to take alternative assessment into account
+F167[Agency to take alternative assessment into account
 
 88A. (1) Before making a decision under section 83(1) in relation to a designated application the Agency shall take into account the alternative assessment in such manner as the Minister may prescribe for the purpose of ensuring that the objectives of the EIA Directive are met.
 
