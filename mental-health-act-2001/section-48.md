@@ -16,7 +16,7 @@ Mental Health Tribunals.
 
 (5) A member of the Commission shall be disqualified for membership of a tribunal.
 
-(6) A member of a tribunal shall hold office for such period not exceeding 3 years and on such other terms and conditions as the Commission may determine when appointing him or her.
+(6) A member of a tribunal shall hold office for such period not exceeding 5 years and on such other terms and conditions as the Commission may determine when appointing him or her.
 
 (7) A member of a tribunal may resign his or her membership by letter addressed to the Commission and the resignation shall take effect from a date specified therein or upon receipt of the letter by the Commission, whichever is the later.
 
