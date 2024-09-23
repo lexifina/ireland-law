@@ -1,0 +1,3 @@
+Advertisements in foreign publications. (Repealed)
+
+34.—...

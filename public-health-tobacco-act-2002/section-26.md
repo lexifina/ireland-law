@@ -1,0 +1,3 @@
+Power to borrow. (Repealed)
+
+26.—...
