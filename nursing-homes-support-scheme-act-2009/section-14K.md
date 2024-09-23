@@ -20,7 +20,11 @@ Application by partner for appointment of family successor.
 
 (3) The conditions referred to in subsection (2)(a) are—
 
-(a) that a repayment event has not occurred in relation to the particular family asset,
+(a) that, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under section 14C(2)(a), a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under section 14C(2)(a) has not been made but, had such a determination been made (and, accordingly, had section 14I applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset,
 
 (b) that any determination made under section 14C(2)(a) has not been revoked,
 

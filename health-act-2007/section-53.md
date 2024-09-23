@@ -4,7 +4,7 @@ Notice of certain proposed decisions of chief inspector.
 
 (a) under section 50 or 52, to refuse an application,
 
-(b) under section 50 or 52, to grant an application subject to any conditions, or
+(b) under section 50 or 52, to grant an application subject to any conditions,
 
 (c) under section 51, to—
 
@@ -12,4 +12,6 @@ Notice of certain proposed decisions of chief inspector.
 
 (ii) vary or remove any condition of the registration of a designated centre, or
 
-(iii) attach an additional condition to the registration of a designated centre, the chief inspector shall give the applicant or the registered provider of the designated centre, as the case may be, written notice of the proposal, stating the particulars.
+(iii) attach an additional condition to the registration of a designated centre, or
+
+(d) under section 51A, to remove any condition of the registration of a designated centre, the chief inspector shall give the applicant or the registered provider of the designated centre, as the case may be, written notice of the proposal, stating the particulars.

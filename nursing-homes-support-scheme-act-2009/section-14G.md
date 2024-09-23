@@ -6,7 +6,7 @@ Death or change in circumstances of family successor.
 
 (b) a family successor has been appointed (in this section referred to as the "current family successor") in respect of the relevant person in relation to a particular family asset,
 
-(c) the current family successor dies or is no longer able to comply with the undertaking given by him or her under subsection (4)(b), section 14A(3)(d), 14F(8)(b) or 14H(5)(b),
+(c) the current family successor dies or is no longer able to comply with the undertaking given by him or her under subsection (4)(b), section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f),
 
 (d) the period to which the undertaking referred to in paragraph (c) relates has not expired, and
 
@@ -20,7 +20,11 @@ Death or change in circumstances of family successor.
 
 (ii) appointing the person specified in the application as the family successor in respect of the relevant person in relation to that particular family asset, or
 
-(b) if not so satisfied, make a decision under section 14I(2)(a).
+(b) if not so satisfied—
+
+(i) where a determination was made under section 14C(2)(a) in respect of the relevant person in relation to the particular family asset, make a decision under section 14I(2)(a), or
+
+(ii) in any other case, refuse the application.
 
 (3) Where the relevant person has died, the application under subsection (2) shall be made by the person who holds, or the persons who hold, the interest that the relevant person had in the particular family asset or such other person as may be prescribed.
 
@@ -28,7 +32,7 @@ Death or change in circumstances of family successor.
 
 (a) that the person specified in the application has attained the age of 18 years and is an appropriate person,
 
-(b) that the person specified in the application undertakes by way of statutory declaration that, if appointed as the family successor under this section, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under this section and ending on the date of the expiry of the period to which the undertaking given by the current family successor under this paragraph or section 14A(3)(d), 14F(8)(b) or 14H(5)(b) in relation to that particular family asset relates,
+(b) that the person specified in the application undertakes by way of statutory declaration that, if appointed as the family successor under this section, a substantial part of that person’s normal working time will regularly and consistently be applied to running the family asset during the period beginning on the date of his or her appointment under this section and ending on the date of the expiry of the period to which the undertaking given by the current family successor under this paragraph or section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f) in relation to that particular family asset relates,
 
 (c) that if all or part of the particular family asset is a transferred asset, the person specified in the application undertakes by way of statutory declaration to repay any sums for which he or she may become liable by virtue of section 14J(11),
 
@@ -42,19 +46,25 @@ Death or change in circumstances of family successor.
 
 (f) that, where the relevant person is or was a member of a couple, the relevant person’s partner consents to the making of the application, and
 
-(g) that, in the opinion of the Executive, a repayment event has not occurred in respect of the relevant person in relation to the particular family asset.
+(g) that, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under section 14C(2)(a), a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under section 14C(2)(a) has not been made but, had such a determination been made (and, accordingly, had section 14I applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset.
 
 (5) An application under subsection (2) shall be made before the expiry of the period of 6 months beginning on—
 
 (a) in a case where the current family successor has died, the date of death of the family successor, or
 
-(b) in a case where the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section 14A(3)(d), 14F(8)(b) or 14H(5)(b), the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with that undertaking.
+(b) in a case where the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section
 
-(6) In reckoning the period referred to in subsection (4)(b) or section 14A(3)(d), 14F(8)(b) or 14H(5)(b)—
+14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f), the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with that undertaking.
+
+(6) In reckoning the period referred to in subsection (4)(b) or section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f)—
 
 (a) where subsection (5) (a) applies, the period beginning on the date of death of the family successor, or
 
-(b) where subsection (5)(b) applies, the period beginning on the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section 14A(3)(d), 14F(8)(b) or 14H(5)(b), and ending on the date of the making of an appointment under subsection (2) (a) shall be disregarded.
+(b) where subsection (5)(b) applies, the period beginning on the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f), and ending on the date of the making of an appointment under subsection (2) (a) shall be disregarded.
 
 (7) In determining an application under this section—
 
@@ -64,9 +74,15 @@ Death or change in circumstances of family successor.
 
 (8) The persons referred to in subsection (7) shall furnish all information and attend any interviews which the Executive may request in accordance with this section.
 
-(9) If a person referred to in subsection (7) fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request, the Executive shall make a decision under section 14I(2) (a).
+(9) If a person referred to in subsection (7) fails to provide the Executive with such information as may be requested in accordance with this section within 40 working days from the date of the request, the Executive shall—
 
-(10) The Executive shall, not later than 10 working days after making a determination under this section, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor, the lawful successor and the person specified in the application of the determination and the reasons for the determination.
+(a) where a determination was made under section 14C(2)(a) in respect of the relevant person in relation to the particular family asset, make a decision under section 14I(2)(a), or
+
+(b) in any other case, refuse to consider or further consider an application under this section.
+
+(10) The Executive shall, not later than 10 working days after making a determination or refusing an application under this section, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor, the lawful successor and the person specified in the application of the determination or decision and the reasons for the determination or decision.
+
+(10A) Where the Executive refuses under subsection (9)(b) to consider or further consider an application under this section, it shall, not later than 10 working days after the refusal, give notice in writing to the relevant person, the relevant person’s partner and, where appropriate, the current family successor, the lawful successor and the person specified in the application of the decision and the reasons for the decision.
 
 (11) Subsections (12) and (13) apply where—
 
@@ -94,7 +110,7 @@ Death or change in circumstances of family successor.
 
 (ii) a relative of the relevant person or of the relevant person’s partner, or
 
-(iii) a son-in-law or daughter-in-law of the relevant person or of the relevant person’s partner,
+(iii) a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin, of the relevant person or of the relevant person’s partner,
 
 (b) where—
 
@@ -102,10 +118,20 @@ Death or change in circumstances of family successor.
 
 (ii) the current family successor has died, and
 
-(iii) the person or one of the persons entitled to succeed to the current family successor’s estate on the death (in this section referred to as the "lawful successor") is the relevant person’s partner, a relative or son-in-law or daughter-in-law of the relevant person, a relative or son-in-law or daughter-in-law of the relevant person’s partner or the partner of the current family successor, that person, or
+(iii) the person or one of the persons entitled to succeed to the current family successor’s estate on the death (in this section referred to as the "lawful successor") is—
+
+(I) the partner of the relevant person,
+
+(II) a relative of the relevant person or of the relevant person’s partner,
+
+(III) a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin, of the relevant person or of the relevant person’s partner, or
+
+(IV) the partner of the current family successor, that person, or
 
 (c) where—
 
 (i) the particular family asset is a transferred asset, and
 
-(ii) the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section 14A(3)(d), 14F(8)(b) or 14H(5)(b), the current family successor’s partner.
+(ii) the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section
+
+14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f), the current family successor’s partner.

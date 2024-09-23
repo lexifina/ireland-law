@@ -6,13 +6,13 @@ Offences.
 
 (a) fails to discharge a duty to which the person is subject under section 69(3), or
 
-(b) contravenes section 46, 47, or 77.
+(b) contravenes section 46, 47, 77 or 77B .
 
 (2) A registered provider carrying on the business of a designated centre is guilty of an offence if the registered provider—
 
-(a) fails to discharge a duty to which the registered provider is subject under section 56(1 or 65,
+(a) fails to discharge a duty to which the registered provider is subject under section 56(1), 65 or 65A,
 
-(b) contravenes section 56(2), (3) or (4), or 66(1),
+(b) contravenes section 56(2), (3) or (4), 65B or 66(1),
 
 (c) fails to discharge a duty to which the registered provider is subject under a provision of the regulations,
 

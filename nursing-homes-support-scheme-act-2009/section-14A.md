@@ -32,7 +32,7 @@ Application for appointment of family successor: farm or relevant business.
 
 (ii) a relative of the relevant person or of the relevant person’s partner, or
 
-(iii) a son-in-law or daughter-in-law of the relevant person or of the relevant person’s partner,
+(iii) a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin, of the relevant person or of the relevant person’s partner,
 
 (b) that the relevant person declares by way of statutory declaration that, in relation to the specified asset, for a period of 3 years (which period need not be continuous) during the period of 5 years ending with the day on which the relevant person began to receive care services, a substantial part of the working time of—
 

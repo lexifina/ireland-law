@@ -1,10 +1,10 @@
 Appeals against certain decisions of Executive.
 
-32.— (1) Subject to subsection (2), a person (“the appellant”) aggrieved by a decision of the Executive referred to in section 7(8), 9(3), 10(7), 11(1), 14A(2), 14A(11), 14C(2)(b), 14C(7), 14D(2)(a), 14I(2)(a)(i), 14I(6)(a), 14J(1), 14K(2), 14K(8), 14L(2), 14L(9), 16, 30(4), 31(2) or 31(5) may appeal against the decision by giving the Executive a notice—
+32.— (1) Subject to subsection (2), a person (“the appellant”) aggrieved by a decision of the Executive referred to in section 7(8), 9(3), 10(7), 11(1), 14A(2), 14A(11), 14C(2)(b), 14C(7), 14D(2)(a), 14G(2)(b)(ii), 14G(9)(b), 14H(3)(b)(ii), 14H(11)(b), 14I(2)(a)(i), 14I(6)(a), 14J(1), 14K(2), 14K(8), 14L(2), 14L(9), 16, 30(4), 31(2) or 31(5) may appeal against the decision by giving the Executive a notice—
 
 (a) in the specified form stating the reasons for the appeal, and
 
-(b) not later than 40 working days after notice of the decision was given to the appellant under section 7(9), 9(4), 10(8), 11(3), 14A(12), 14A(13), 14C(8), 14C(9), 14D(2)(b), 14I(5), 14I(6)(b), 14J(1), 14K(9), 14K(10), 14L(10), 14L(11), 16(16), 30(8), 31(3) or 31(6) respectively.
+(b) not later than 40 working days after notice of the decision was given to the appellant under section 7(9), 9(4), 10(8), 11(3), 14A(12), 14A(13), 14C(8), 14C(9), 14D(2)(b), 14G(10), 14G(10A), 14H(12), 14H(12A), 14I(5), 14I(6)(b), 14J(1), 14K(9), 14K(10), 14L(10), 14L(11), 16(16), 30(8), 31(3) or 31(6) respectively.
 
 (2) (a) The Executive, with the consent of the Minister, shall appoint a panel of suitable persons to consider appeals received under subsection (1).
 

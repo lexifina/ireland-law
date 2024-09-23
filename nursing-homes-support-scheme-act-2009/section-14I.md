@@ -10,7 +10,7 @@ Repayment of increase in State support.
 
 (d) either—
 
-(i) section 14E(7), 14E(8)(b), 14F(7)(b), 14F(14), 14G(2)(b), 14G(9), 14H(3)(b) or 14H(11) applies, or
+(i) section 14E(7), 14E(8)(b), 14F(7)(b), 14F(14), 14G(2)(b)(i), 14G(9)(a), 14H(3)(b)(i) or 14H(11)(a) applies, or
 
 (ii) it otherwise appears to the Executive that a repayment event may have occurred in respect of the relevant person in relation to the particular family asset.
 
@@ -44,7 +44,11 @@ Repayment of increase in State support.
 
 (c) where the family successor was appointed under section 14G, subsection (4)(b) of that section,
 
-(d) where the family successor was appointed under section 14H, subsection (5)(b) of that section;
+(d) where the family successor was appointed under section 14H, subsection (5)(b) of that section,
+
+(e) where the family successor was appointed under section 14K, subsection (3)(e) of that section, or
+
+(f) where the family successor was appointed under section 14L, subsection (3)(f) of that section;
 
 "repayment event", in relation to a relevant person, means—
 

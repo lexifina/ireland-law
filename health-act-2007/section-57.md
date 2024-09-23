@@ -4,7 +4,7 @@ Appeal to District Court from decision of chief inspector respecting registratio
 
 (2) The registered provider or other person who appeals to the District Court under subsection (1)—
 
-(a) shall bring the appeal within 28 days after the receipt by the person of written notice under section 55 of the decision, and
+(a) shall bring the appeal within 14 days after the receipt by the person of written notice under section 55 of the decision, and
 
 (b) at the same time as the appeal is brought, shall give to the chief inspector written notice of the appeal.
 

@@ -18,7 +18,7 @@ Duty of Executive to determine whether paragraph 6B of Part 3 of Schedule 1 appl
 
 (a) the date by which the relevant person has received any combination of relevant services for a period of 3 years (which period need not be continuous), or
 
-(b) the date on which a family successor was appointed under section 14A in respect of the relevant person in relation to the particular family asset.
+(b) the date on which a family successor was appointed under section 14A, 14K or 14L in respect of the relevant person in relation to the particular family asset.
 
 (4) The conditions referred to in subsection (2)(a) are—
 
@@ -36,7 +36,7 @@ Duty of Executive to determine whether paragraph 6B of Part 3 of Schedule 1 appl
 
 (e) that, where a family successor was appointed under section 14L, the family successor has complied with the undertaking given by him or her under subsection (3)(f) of that section since the appointment,
 
-(f) that, in the opinion of the Executive, a repayment event has not otherwise occurred in respect of the relevant person in relation to the particular family asset, and
+(f) that, in the opinion of the Executive, had a determination under subsection (2)(a) been made (and, accordingly, had section 14I applied), a repayment event would not otherwise have occurred in respect of that person in relation to the particular family asset, and
 
 (g) that, where the condition in section 14A(3)(e), 14G(4)(d), 14H(5)(d), 14K(3)(f) or 14L(3)(g) applies, an order has been made under section 14B(1) in relation to the chargeable land.
 

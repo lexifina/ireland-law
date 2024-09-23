@@ -32,7 +32,11 @@ Application by partner of deceased person for appointment of family successor.
 
 (3) The conditions referred to in subsection (2)(a) are—
 
-(a) that a repayment event has not occurred in relation to the particular family asset,
+(a) that, in the opinion of the Executive—
+
+(i) where a determination has been made in respect of the relevant person under section 14C(2)(a), a repayment event has not occurred in respect of the relevant person in relation to the particular family asset, or
+
+(ii) where a determination under section 14C(2)(a) has not been made but, had such a determination been made (and, accordingly, had section 14I applied), a repayment event would not have occurred in respect of that person in relation to the particular family asset,
 
 (b) that any determination made under section 14C(2)(a) has not been revoked,
 
@@ -44,7 +48,7 @@ Application by partner of deceased person for appointment of family successor.
 
 (ii) a relative of the relevant person or of the partner, or
 
-(iii) a son-in-law or daughter-in-law of the relevant person or of the partner,
+(iii) a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin, of the relevant person or of the partner,
 
 (e) that the partner declares by way of statutory declaration that, in relation to the particular family asset, for a period of 3 years (which period need not be continuous) during the period of 5 years ending on the date on which the partner began to receive care services, a substantial part of the working time of—
 

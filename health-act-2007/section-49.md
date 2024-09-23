@@ -16,7 +16,9 @@ Register of designated centres.
 
 (e) the date on which the registration of the centre is to take effect (referred to in this Act as “the date of registration”),
 
-(f) any conditions attached to the registration of the centre, and
+(f) any conditions attached to the registration of the centre, ...
+
+(fa) details of any fine or other penalty imposed on the registered provider of the centre by a court under this Act during the period referred to in subsection (2), and
 
 (g) such other particulars as the Minister may prescribe.
 

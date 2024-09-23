@@ -10,11 +10,11 @@ Determination as to farm or business relief where family successor fulfils under
 
 (d) after the expiry of the period mentioned in paragraph (b)—
 
-(i) the Executive has made a determination under section 7(8)(a) that the partner needs care services,
+(i) the Executive has made a determination under section 7(8)(a) that the partner needs care services, and
 
-(ii) the Executive has made a determination under section 11(1) in relation to the partner, and
+(ii) the Executive has made a determination under section 11(1) in relation to the the partner.
 
-(iii) the partner has received any combination of relevant services for a period of 3 years (which period need not be continuous).
+(iii) ...
 
 (2) The partner need not make an application under this Act for the appointment of a family successor in relation to the particular family asset.
 

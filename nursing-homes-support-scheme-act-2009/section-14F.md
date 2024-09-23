@@ -46,7 +46,7 @@ Death of person receiving care services following determination under section 14
 
 (b) a relative of the relevant person or of the relevant person’s partner, or
 
-(c) a son-in-law or daughter-in-law of the relevant person or of the relevant person’s partner.
+(c) a son-in-law, daughter-in-law, great-grandchild, great-nephew, great-niece or first cousin, or a child, grandchild or great-grandchild of a first cousin, of the relevant person or of the relevant person’s partner.
 
 (6) Subject to sections 14E and 14I, any amounts paid by way of increase in State support by virtue of the determination under section 14C(2)(a) in respect of the relevant person in so far as it relates to the particular family asset for the period ending with the death of the relevant person shall not be repayable to the Executive if—
 
