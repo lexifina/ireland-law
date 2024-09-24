@@ -454,7 +454,9 @@ INTERPRETATION AND MISCELLANEOUS
 
 (d) a payment or payments made to the person under the terms of the Surgical Symphysiotomy ex-gratia Scheme established by the Minister and otherwise referred to as the Symphysiotomy Payment Scheme,
 
-(e) an ex-gratia payment or payments made to the person by the Minister or the Conterganstiftung für behinderte Menschen in respect of a disability caused to that person by Thalidomide, or
+(e) an ex-gratia payment or payments made to the person by the Minister or the Conterganstiftung für behinderte Menschen in respect of a disability caused to that person by Thalidomide,
+
+(ea) a general payment or a work-related payment made to the person, under the Mother and Baby Institutions Payment Scheme Act 2023, or
 
 (f) such other ex-gratia payment or payments as may be prescribed under section 36(5A) (inserted by section 7 of the Health (Miscellaneous Provisions) Act 2017) for the purposes of this paragraph;
 
