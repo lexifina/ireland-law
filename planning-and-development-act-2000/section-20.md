@@ -140,4 +140,4 @@ Consultation and adoption of local area plans.
 
 (c) specific planning policy requirements specified in guidelines under subsection (1) of section 28.
 
-Chapter IIA
+Chapter IIA National Planning Framework
