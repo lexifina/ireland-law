@@ -10,11 +10,17 @@ Functions of chief inspector.
 
 (b) establish and maintain one or more registers of designated centres,
 
+(ba) collect and maintain information relating to specified designated centres within the meaning of section 65A, in accordance with that section and any regulations made under section 101B,
+
+(bb) inspect premises at which the chief inspector has reasonable grounds to believe that a person is carrying on the business of a designated centre which is not registered under this Act,
+
 (c) register and inspect designated centres to assess whether the registered provider is in compliance with the—
 
 (i) regulations, and
 
 (ii) standards, if any, set by the Authority under section 8(1)(b),
+
+(ca) undertake reviews in accordance with section 41A,
 
 (d) ...
 
