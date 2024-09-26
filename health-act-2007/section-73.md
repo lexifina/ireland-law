@@ -6,9 +6,9 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (b) an investigation referred to in section 8(1)(d), the authorised person may enter and inspect at any time any premises—
 
-(i) owned or controlled by the Executive, the Agency or a service provider, or
+(i) owned or controlled by the Executive, the Agency, a service provider, or a person carrying on the business of providing a prescribed private health service, or
 
-(ii) used or proposed to be used, for any purpose connected with the provision of services described in section 8(1)(b).
+(ii) used or proposed to be used, for any purpose connected with the provision of services described in section 8(1)(b) or (1)(ba).
 
 (2) If the chief inspector considers it necessary or expedient for the purposes of an inspection referred to in section 41, the chief inspector may enter and inspect at any time any premises—
 
@@ -18,15 +18,21 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (c) used or proposed to be used as a designated centre ....
 
-(3) If an authorised person considers it necessary or expedient for the purposes of monitoring compliance with standards in accordance with section 8(1)(c), or of an investigation referred to in section 8(1)(d), or the chief inspector considers it necessary or expedient for the purposes of an inspection referred to in section 41—
+(2A) If the chief inspector considers it necessary or expedient for the purposes of a review referred to in section 41A, the chief inspector may enter and inspect at any time any premises—
+
+(a) owned or controlled by a relevant entity within the meaning of section 41A, or
+
+(b) used or proposed to be used for any purpose connected with the provision of a health service by a relevant entity within the meaning of section 41A.
+
+(3) If an authorised person considers it necessary or expedient for the purposes of monitoring compliance with standards in accordance with section 8(1)(c), or of an investigation referred to in section 8(1)(d), or the chief inspector considers it necessary or expedient for the purposes of an inspection referred to in section 41 or a review referred to in section 41A—
 
 (a) the authorised person, at any time, may carry out the functions conferred on the authorised person under this section and sections 75 and 76 to the extent that the functions relate to any premises referred to in subsection (1), and
 
-(b) the chief inspector, at any time, may carry out the functions conferred on the chief inspector under this section and sections 75 and 76 to the extent that the functions relate to any premises referred to in subsection (2).
+(b) the chief inspector, at any time, may carry out the functions conferred on the chief inspector under this section and sections 75 and 76 to the extent that the functions relate to any premises referred to in subsection (2) in the case of an inspection referred to in section 41, or any premises referred to in subsection (2A) in the case of a review referred to in section 41A.
 
 (4) An authorised person, in respect of premises referred to in subsection (1), or the chief inspector, in respect of premises referred to in subsection (2), may—
 
-(a) inspect, take copies of or extracts from and remove from the premises any documents or records (including personal records) relating to the discharge of its functions by the Executive or the Agency, or to the services provided by a service provider or at a designated centre ...,
+(a) inspect, take copies of or extracts from and remove from the premises any documents or records (including personal records) relating to the discharge of its functions by the Executive or the Agency, or to the services provided by a service provider, a person carrying on the business of providing a prescribed private health service, or at a designated centre ...,
 
 (b) inspect the operation of any computer and any associated apparatus or material which is or has been in use in connection with the records in question,
 
@@ -44,7 +50,23 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (e) make any other examination into the state and management of the premises or the standard of any services provided at the premises.
 
-(5) At any time, an authorised person, in respect of premises referred to in subsection (1) or the chief inspector, in respect of premises referred to in subsection (2), may require any person who—
+(4A) A chief inspector, in respect of premises referred to in subsection (2A), may—
+
+(a) inspect, take copies of or extracts from and remove from the premises any documents or records (including personal records) relating to the services provided by a relevant entity within the meaning of section 41A,
+
+(b) inspect the operation of any computer and any associated apparatus or material which is or has been in use in connection with the records in question,
+
+(c) inspect any other item and remove it from the premises if the chief inspector considers it necessary or expedient for the purposes of a review referred to in section 41A,
+
+(d) interview in private any person—
+
+(i) working at the premises concerned, or
+
+(ii) who at any time was or is in receipt of a service at the premises and who consents to be interviewed, and
+
+(e) make any other examination into the state and management of the premises or the standard of any services provided at the premises.
+
+(5) At any time, an authorised person, in respect of premises referred to in subsection (1) or the chief inspector, in respect of premises referred to in subsection (2) or (2A), may require any person who—
 
 (a) is in charge of the premises or of services provided at the premises, or
 
@@ -52,9 +74,9 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (i) the authorised person reasonably requires for the purposes of monitoring compliance with standards in accordance with section 8(1)(c), or of an investigation referred to in section 8(1)(d), or
 
-(ii) the chief inspector reasonably requires for the purposes of an inspection referred to in section 41, and to make available to the authorised person or chief inspector any document or record in the power or control of the person described in paragraph (a) or (b) of this subsection that, in the opinion of the authorised person, is relevant to the monitoring of compliance with the standards or to the investigation or, in the opinion of the chief inspector, is relevant to the inspection.
+(ii) the chief inspector reasonably requires for the purposes of an inspection referred to in section 41, or of a review referred to in section 41A, and to make available to the authorised person or chief inspector any document or record in the power or control of the person described in paragraph (a) or (b) of this subsection that, in the opinion of the authorised person, is relevant to the monitoring of compliance with the standards or to the investigation or, in the opinion of the chief inspector, is relevant to the inspection or to the review.
 
-(6) If a person is required under this section to produce a document or record and that document or record is kept by means of a computer, the authorised person, for premises referred to in subsection (1), or the chief inspector, for premises referred to in subsection (2), may require the person who is required to produce that document or record to produce it in a form which is legible and can be taken away.
+(6) If a person is required under this section to produce a document or record and that document or record is kept by means of a computer, the authorised person, for premises referred to in subsection (1), or the chief inspector, for premises referred to in subsection (2) or (2A), may require the person who is required to produce that document or record to produce it in a form which is legible and can be taken away.
 
 (7) If an authorised person, in respect of premises referred to in subsection (1), considers an explanation necessary and expedient for the purposes of—
 
@@ -68,10 +90,10 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (iii) other matters which are the subject of the functions being exercised by the authorised person under this section.
 
-(8) If the chief inspector, in respect of premises referred to in subsection (2), considers an explanation necessary and expedient for the purposes of conducting an inspection under this section, the chief inspector may require a person who is in charge of the premises or a person who possesses or is in charge of any documents or records which are the subject of the inspection to provide an explanation of any—
+(8) If the chief inspector, in respect of premises referred to in subsection (2) or (2A), considers an explanation necessary and expedient for the purposes of conducting an inspection referred to in section 41 or a review referred to in section 41A, the chief inspector may require a person who is in charge of the premises or a person who possesses or is in charge of any documents or records which are the subject of the inspection or review to provide an explanation of any—
 
 (a) documents or records inspected, copied or provided in accordance with this section,
 
-(b) other information provided in the course of the inspection, or
+(b) other information provided in the course of the inspection or review, or
 
 (c) other matters which are the subject of the functions being exercised by the chief inspector under this section.
