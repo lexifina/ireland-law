@@ -1,0 +1,3 @@
+Chief inspector may publish information respecting certain persons.
+
+78B.— ...
