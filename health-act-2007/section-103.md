@@ -32,9 +32,7 @@ Protection of disclosures of information.
 
 (g) a body established under the Health (Corporate Bodies) Act 1961; or
 
-(h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g);
-
-‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
+(h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g); ‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
 
 ‘Health Information and Quality Authority’ means the body established in accordance with section 6 of the Health Act 2007;
 
@@ -64,7 +62,9 @@ Protection of disclosures of information.
 
 (d) a body established under the Health (Corporate Bodies) Act 1961;
 
-‘Scheduled body’ means a body referred to in Schedule 2A. 55B.— Where an employee of a relevant body makes, in good faith, a disclosure to an authorised person and the employee has reasonable grounds for believing that it will show one or more of the following:
+‘Scheduled body’ means a body referred to in Schedule 2A.
+
+55B.— Where an employee of a relevant body makes, in good faith, a disclosure to an authorised person and the employee has reasonable grounds for believing that it will show one or more of the following:
 
 (a) that the health or welfare of a person who is receiving a health or personal social service in accordance with this Act has been, is or is likely to be at risk;
 
@@ -74,9 +74,7 @@ Protection of disclosures of information.
 
 (d) that the conduct of the relevant body or of a person employed by or acting on behalf of the relevant body has led, is leading or is likely to lead to a misuse or substantial waste of public funds;
 
-(e) that evidence of any matter falling within any of paragraphs (a) to (d) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act.
-
-55C.— Where an employee of a person carrying on the business of a designated centre other than a centre operated by a relevant body makes, in good faith, a disclosure to the chief inspector and the employee has reasonable grounds for believing that the disclosure will show one or more of the following:
+(e) that evidence of any matter falling within any of paragraphs (a) to (d) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act. 55C.— Where an employee of a person carrying on the business of a designated centre other than a centre operated by a relevant body makes, in good faith, a disclosure to the chief inspector and the employee has reasonable grounds for believing that the disclosure will show one or more of the following:
 
 (a) that the actions of any person employed by or acting on behalf of a person carrying on the business of a designated centre has posed, is posing or is likely to pose a risk to the health or welfare of a resident of the centre;
 
@@ -104,9 +102,7 @@ Protection of disclosures of information.
 
 (c) that evidence of any matter falling within either of paragraphs (a) and (b) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act.
 
-55E.— Where a person makes, in good faith, a disclosure to a professional regulatory body, which the person has reasonable grounds for believing will show that the actions of any person, the exercise of whose profession requires him or her to be registered with a professional regulatory body, has posed, is posing or is likely to pose a risk to the health or welfare of the public, the disclosure shall be a protected disclosure under this Act.
-
-55F.— (1) An application in accordance with—
+55E.— Where a person makes, in good faith, a disclosure to a professional regulatory body, which the person has reasonable grounds for believing will show that the actions of any person, the exercise of whose profession requires him or her to be registered with a professional regulatory body, has posed, is posing or is likely to pose a risk to the health or welfare of the public, the disclosure shall be a protected disclosure under this Act. 55F.— (1) An application in accordance with—
 
 (a) section 45 of the Medical Practitioners Act 1978,
 
@@ -164,7 +160,9 @@ Protection of disclosures of information.
 
 (b) where procedures have been established by the service provider under section 55H(4), adhere to those procedures.
 
-(2) The Executive may exercise any rights or remedies available to it by virtue of an arrangement or the giving of assistance referred to in subsection (1) if the service provider or person receiving assistance, as the case may be, is in breach of that subsection. 55J.— (1) Where a protected disclosure is made to an authorised person, the authorised person shall investigate the subject matter of the disclosure.
+(2) The Executive may exercise any rights or remedies available to it by virtue of an arrangement or the giving of assistance referred to in subsection (1) if the service provider or person receiving assistance, as the case may be, is in breach of that subsection.
+
+55J.— (1) Where a protected disclosure is made to an authorised person, the authorised person shall investigate the subject matter of the disclosure.
 
 (2) An authorised person may refer that subject matter or any part of it to an appropriate Scheduled body or a professional regulatory body or, where the authorised person believes that a criminal offence has been committed, to the Garda Síochána.
 
@@ -174,9 +172,7 @@ Protection of disclosures of information.
 
 (5) The person in charge of the body to whom the disclosure relates may, with the consent of the authorised person, appoint another person to investigate the subject matter.
 
-(6) If, at any time during an investigation, the authorised person believes the disclosure is false, misleading, frivolous or vexatious, he or she may cease the investigation.
-
-55K.— (1) An employee of a relevant body may make a protected disclosure only in accordance with—
+(6) If, at any time during an investigation, the authorised person believes the disclosure is false, misleading, frivolous or vexatious, he or she may cease the investigation. 55K.— (1) An employee of a relevant body may make a protected disclosure only in accordance with—
 
 (a) sections 55E, 55F or 55G, or
 
@@ -290,7 +286,9 @@ Protection of disclosures of information.
 
 (2) The Circuit Court may, in an order under this section relating to the payment of compensation, if in all the circumstances it considers it appropriate to do so, direct the employer to pay to the employee interest on the compensation, at the rate referred to in section 22 of the Courts Act 1981, in respect of the whole or any part of the period beginning 6 weeks after the date on which the determination of the Labour Court is communicated to the parties and ending on the date of the order.
 
-(3) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the employer ordinarily resides or carries on any profession, trade, business or occupation. 55P.— A document purporting to be signed by the chairman or a vice-chairman of the Labour Court stating that—
+(3) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the employer ordinarily resides or carries on any profession, trade, business or occupation.
+
+55P.— A document purporting to be signed by the chairman or a vice-chairman of the Labour Court stating that—
 
 (a) a person named in the document was, by a notice under section 55N required to attend before the Labour Court on a day and at a time and place specified in the document, to give evidence or produce a document,
 
