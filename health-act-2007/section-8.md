@@ -6,7 +6,7 @@ Functions of Authority.
 
 (b) to set standards on safety and quality in relation to—
 
-(i) services provided by the Executive, the Agency or a service provider in accordance with—
+(i) services provided by the Executive, the Agency or a a service provider to which paragraph (a), (b) or (c) of the definition of service provider applies in accordance with— ...
 
 (I) the Health Acts 1947 to 2011, except for services under the Mental Health Acts 1945 to 2009 that, under the Health Act 2004, are provided by the Executive,
 
@@ -14,27 +14,29 @@ Functions of Authority.
 
 (III) the Children Act 2001, and
 
-(ii) services provided by a nursing home as defined in section 2 of the Health (Nursing Homes) Act 1990, in this section called the “services”, and advise the Minister, the Minister for Children and Youth Affairs, the Agency and the Executive as may be appropriate in relation to the particular service in respect of which the standards are set.
+(ii) services provided by a nursing home as defined in section 2 of the Health (Nursing Homes) Act 1990, and advise the Minister, the Minister for Children and Youth Affairs, the Agency and the Executive as may be appropriate in relation to the particular service in respect of which the standards are set.
 
-(c) to monitor compliance with the standards referred to in paragraph (b), except any standards in relation to designated centres ... and the performance of the Executive’s and the Agency’s functions referred to in section 41(1)(a) and to advise the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency accordingly;
+(ba) to set standards on safety and quality in relation to services provided by a service provider to which paragraph (d) of the definition of service provider applies or a person carrying on the business of providing prescribed private health services;
+
+(c) to monitor compliance with the standards referred to in paragraphs (b) and (ba), except any standards in relation to designated centres ... and the performance of the Executive’s and the Agency’s functions referred to in section 41(1)(a) and to advise the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency accordingly;
 
 (d) to undertake investigations in accordance with section 9 ;
 
-(e) at the request or with the approval of the Minister or the Minister for Children and Youth Affairs to review and make recommendations as the Authority thinks fit in respect of the services, to ensure the best outcomes for the resources available to the Executive and the Agency;
+(e) at the request or with the approval of the Minister or the Minister for Children and Youth Affairs to review and make recommendations as the Authority thinks fit in respect of the services referred to in paragraph (b), to ensure the best outcomes for the resources available to the Executive and the Agency;
 
-(f) to operate accreditation programmes in respect of the services and to grant accreditation to any of them meeting standards set or recognised by the Authority;
+(f) to operate accreditation programmes in respect of the services referred to in paragraph (b) or (ba) and to grant accreditation to any of them meeting standards set or recognised by the Authority;
 
-(g) to operate such other schemes aimed at ensuring safety and quality in the provision of the services as the Authority considers appropriate;
+(g) to operate such other schemes aimed at ensuring safety and quality in the provision of the services referred to in paragraph (b) or (ba) as the Authority considers appropriate;
 
 (h) to evaluate the clinical and cost effectiveness of health technologies including drugs and provide advice arising out of the evaluation to the Minister and the Executive;
 
-(i) to evaluate available information respecting the services and the health and welfare of the population;
+(i) to evaluate available information respecting the services referred to in paragraph (b) or (ba) and the health and welfare of the population;
 
 (j) to provide advice and make recommendations to the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency about deficiencies identified by the Authority in respect of the information referred to in paragraph (i);
 
-(k) to set standards as the Authority considers appropriate for the Executive, the Agency and service providers respecting data and information in their possession in relation to services and the health and welfare of the population;
+(k) to set standards as the Authority considers appropriate for the Executive, the Agency, service providers or a person carrying on the business of providing prescribed private health services respecting data and information in their possession in relation to services and the health and welfare of the population;
 
-(l) to advise the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency as to the level of compliance by the Executive and service providers with the standards referred to in paragraph (k);
+(l) to advise the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency as to the level of compliance by the Executive, the Agency, service providers and persons carrying on the business of providing prescribed private health services with the standards referred to in paragraph (k);
 
 (m) to act as a body standing prescribed by regulations made by the Minister for Health and Children—
 
@@ -43,6 +45,8 @@ Functions of Authority.
 (ii) as set out in section 10 of the Disability Act 2005;
 
 (n) to exercise such powers and perform such functions of the State and the competent authority under Council Directive 2013/59/Euratom of 5 December 2013 as are conferred on the Authority by the European Union (Basic Safety Standards for Protection Against Dangers Arising from Medical Exposure to Ionising Radiation) Regulations 2018 (S.I. No. 256 of 2018).
+
+(1A) The Authority may, in setting standards referred to in subsections (1)(b), (1)(ba) or (1)(k), set different standards for different categories of services referred to in those subsections.
 
 (2) In carrying out its functions the Authority shall have regard to—
 

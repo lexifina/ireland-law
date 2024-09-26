@@ -1,12 +1,12 @@
 Investigations by Authority.
 
-9.— (1) The Authority may undertake an investigation as to the safety, quality and standards of the services described in section 8(1)(b) if the Authority believes on reasonable grounds that—
+9.— (1) Subject to subsection (1A), the Authority may undertake an investigation as to the safety, quality and standards of any of the services described in section 8(1)(b) or (1)(ba) if the Authority believes on reasonable grounds that—
 
-(a) there is a serious risk—
+(a) there may be a serious risk—
 
 (i) to the health or welfare of a person receiving those services, or
 
-(ii) of a failure to comply with the provisions of the Act of 2013, and,
+(ii) of a failure to comply with the provisions of the Act of 2013, notwithstanding that such a risk may also exist elsewhere in those services,
 
 (b) the risk may be the result of any act, failure to act or negligence on the part of—
 
@@ -14,33 +14,61 @@ Investigations by Authority.
 
 (ii) the Agency,
 
-(iii) a service provider to which paragraphs (a) or (b) of the definition of service provider applies,
+(iii) a service provider to which paragraph (a) or (b) of the definition of service provider applies,
 
 (iv) a service provider to which paragraph (c) of the definition of service provider applies,
 
-(v) the registered provider of a designated centre to which paragraphs (a)(ii), (iii) or (c) of the definition of designated centre applies,
+(iva) a service provider to which paragraph (d) of the definition of service provider applies,
 
-(vi) the registered provider of a designated centre to which paragraphs (a)(i) or (b) of the definition of designated centre applies,
+(v) the registered provider of a designated centre to which paragraph (a)(ii), (iii) or (c) of the definition of designated centre applies,
+
+(vi) the registered provider of a designated centre to which paragraph (a)(i) or (b) of the definition of designated centre applies,
 
 (vii) the person in charge of a designated centre referred to in subparagraph (v), if other than its registered provider,
 
-(viii) the person in charge of a designated centre referred to in subparagraph (vi) if other than its registered provider.
+(viii) the person in charge of a designated centre referred to in subparagraph (vi), if other than its registered provider, or
+
+(ix) a person carrying on the business of providing a prescribed private health service, and
+
+(c) an investigation may be in the interests of—
+
+(i) improving the safety, quality and standards of the services described in section 8(1)(b) or (1)(ba) which are the subject of the investigation, or
+
+(ii) the provision of health and personal social services for the benefit of the health and welfare of the public.
+
+(1A) The Authority shall notify the Minister in writing before undertaking an investigation under subsection (1).
 
 (2) The Minister may, if he or she believes on reasonable grounds that—
 
-(a) there is a serious risk of the kind mentioned in paragraph (a) of subsection (1), and
+(a) there may be a serious risk of the kind mentioned in paragraph (a) of subsection (1), notwithstanding that such a risk may also exist elsewhere in those services,
 
-(b) the risk may be the result of any act, failure or negligence of the kind mentioned in paragraph (b)(i), (iii), (v) or (vii) of subsection (1), require the Authority to undertake an investigation in accordance with this section.
+(b) the risk may be the result of any act, failure to act or negligence of the kind mentioned in paragraph (b)(i), (iii), (iva), (v), (vii) or (ix) of subsection (1), and
 
-(2A) The Minister for Children, Equality, Disability, Integration and Youth may, if he or she believes on reasonable grounds that—
+(c) an investigation may be in the interests of—
 
-(a) there is a serious risk of the kind mentioned in paragraph (a)(i) of subsection (1), and
+(i) improving the safety, quality and standards of the services described in section 8(1)(b) or (1)(ba) which are the subject of the investigation, or
 
-(b) (i) the risk may be the result of any act, failure or negligence mentioned in paragraph (b)(ii), (iv), (vi) or (viii) of subsection (1), or
+(ii) the provision of health and personal social services for the benefit of the health and welfare of the public, require the Authority to undertake an investigation in accordance with this section.
 
-(ii) the risk may be the result of any act, failure or negligence mentioned in paragraph (b)(i), (iii), (v) or (vii) of subsection (1) in so far as such act, failure or negligence relates to the performance by the Executive of its specialist community-based disability services functions, require the Authority to undertake an investigation in accordance with this section.
+(2A) The Minister for Children and Youth Affairs may, if he or she believes on reasonable grounds that—
+
+(a) there may be a serious risk of the kind mentioned in paragraph (a)(i) of subsection (1), notwithstanding that such a risk may also exist elsewhere in those services,
+
+(b) the risk may be the result of any act, failure to act or negligence mentioned in paragraph (b)(ii), (iv), (vi) or (viii) of subsection (1), and
+
+(c) an investigation may be in the interests of—
+
+(i) improving the safety, quality and standards of the services described in section 8(1)(b) or (1)(ba) which are the subject of the investigation, or
+
+(ii) the provision of health and personal social services for the benefit of the health and welfare of the public, require the Authority to undertake an investigation in accordance with this section.
 
 (3) The Authority must ensure that an investigation under this section does not interfere, or conflict, with the functions of other statutory bodies.
+
+(3A) Where an investigation under this section is being undertaken in respect of the services specified in section 8(1)(b) or (1)(ba), the Authority shall—
+
+(a) give notice in writing to the relevant person of the matters to which the investigation relates, and
+
+(b) give the relevant person a copy of any document which in the reasonable opinion of the Authority is relevant to the investigation.
 
 (4) Where an investigation under this section is being undertaken in respect of a serious risk referred to in subsection (1)(a)(ii) and such risk relates to an appropriate institution, the Minister may, by notice in writing served on the person in charge of the appropriate institution, direct that person to ensure that, from the date, or the event, specified in the notice for the purpose—
 
@@ -58,4 +86,6 @@ Investigations by Authority.
 
 "Act of 2013" means the Protection of Life During Pregnancy Act 2013;
 
-"appropriate institution" has the meaning it has in the Act of 2013.
+"appropriate institution" has the meaning it has in the Act of 2013;
+
+"relevant person" means a person or body referred to in subparagraphs (i) to (ix) of subsection (1)(b).

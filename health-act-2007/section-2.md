@@ -2,11 +2,17 @@ Interpretation.
 
 2.— (1) In this Act:
 
+"Act of 2004" means the Health Act 2004;
+
 "Agency" means the Child and Family Agency established under the Child and Family Agency Act 2013;
 
 “Authority” means the Health Information and Quality Authority established under section 6;
 
 “Board” means the Board, referred to in section 13, of the Authority;
+
+"cancer screening service" has the same meaning as it has in section 2 of the Patient Safety (Notifiable Incidents and Open Disclosure) Act 2023;
+
+"complainant" shall be construed in accordance with section 41A(5);
 
 “dependent person” means dependent person as defined in section 1(1) of the Health (Nursing Homes) Act 1990;
 
@@ -40,11 +46,23 @@ Interpretation.
 
 “financial year” means a period of 12 months ending on 31 December in any year;
 
+"health service" means the provision of clinical care or any ancillary service to a person for—
+
+(a) the screening (other than screening carried out by a cancer screening service), preservation or improvement of the health of the person,
+
+(b) the prevention, diagnosis, treatment or care of an illness, injury or health condition of the person,
+
+(c) the performance or surgery, or a surgical intervention, in respect of aesthetic purposes, or other non-medical purposes, that involves instruments or equipment being inserted into the body of the person, or
+
+(d) without prejudice to paragraph (a), a cancer screening service;
+
 “Interim Health Information and Quality Authority” means the body established by the Interim Health Information and Quality Authority (Establishment) Order, 2005 (S.I. No. 132 of 2005);
 
 “Irish Health Services Accreditation Board” means the body established by the Irish Health Services Accreditation Board (Establishment) Order, 2002 (S.I. No. 160 of 2002);
 
 “local authority” has the same meaning as in the Local Government Act 2001;
+
+"medical speciality" means a medical speciality recognised by the Medical Council under section 89 of the Medical Practitioners Act 2007;
 
 “Mental Health Commission” means the body established by section 32 of the Mental Health Act 2001;
 
@@ -54,7 +72,29 @@ Interpretation.
 
 “ordinary member” means a member of the Board other than the chairperson;
 
+"patient" has the meaning assigned to it by section 41A(10);
+
 “prescribed” means prescribed by regulation made by the Minister;
+
+"prescribed private health service" means a health service that is prescribed under section 101A;
+
+"private hospital" means a hospital under the management or control of a person (other than the Executive)—
+
+(a) at which—
+
+(i) medical or surgical treatment for illness, injury, disability, palliative, obstetric or gynaecological care, or
+
+(ii) a health service, is provided to a person which provision of treatment is under the direction of registered medical practitioners from at least 3 different medical specialities who are registered in the Specialist Division of the register of medical practitioners, and
+
+(b) which is capable of accommodating one or more persons in that hospital when providing the treatment under paragraph (a), for a minimum period of 24 hours, but does not include—
+
+(i) a designated centre,
+
+(ii) a centre registered by the Mental Health Commission,
+
+(iii) a service provider to which paragraph (a) of the definition of service provider applies, or
+
+(iv) a hospital which is in receipt of assistance under section 39 of the Act of 2004;
 
 “public authority” means any of the following:
 
@@ -76,19 +116,27 @@ Interpretation.
 
 “register” means a register of designated centres established under section 41(1)(b);
 
+"register of medical practitioners" has the same meaning as it has in the Medical Practitioners Act 2007;
+
+"registered medical practitioner" has the same meaning as it has in the Medical Practitioners Act 2007;
+
 “registered provider” in relation to a designated centre means the person whose name is entered in a register as the person carrying on the business of the designated centre;
 
-"service provider" means a person who—
+"service provider" means—
 
-(a) enters into an arrangement under section 38 of the Health Act 2004 to provide a health or personal social service on behalf of the Executive,
+(a) a person who enters into an arrangement under section 38 of the Act of 2004 to provide a health or personal social service on behalf of the Executive,
 
-(b) is in receipt of assistance under section 39 of the Health Act 2004 in an amount that exceeds an amount prescribed for the purpose of this subparagraph, or
+(b) a person who is in receipt of assistance under section 39 of the Act of 2004 in an amount that exceeds an amount prescribed for the purpose of this subparagraph,
 
-(c) is a service provider under the Child and Family Agency Act 2013;
+(c) a service provider under the Child and Family Agency Act 2013, or
+
+(d) a private hospital;
 
 "special care unit" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Child Care Act 1991;
 
 "specialist community-based disability services functions" has the same meaning as it has in the Health Act 2004;
+
+"Specialist Division" has the same meaning as it has in the Medical Practitioners Act 2007.
 
 “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death.
 

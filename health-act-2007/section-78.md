@@ -8,6 +8,6 @@ Reports of authorised persons, the chief inspector and inspectors.
 
 (i) under section 70 of an authorised person appointed under that section,
 
-(ii) under section 41 of the chief inspector, or
+(ii) under section 41 or section 41A of the chief inspector, or
 
 (iii) performed under section 43 by an inspector appointed under that section.
