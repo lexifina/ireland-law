@@ -22,11 +22,11 @@ Procedure for giving notices.
 
 (4) For the purposes of subsection (3)(a), a company registered under the Companies Act 2014, or an existing company within the meaning of that Act, is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.
 
+OJ No. L. 241, 17.9.2015
+
 (5) For the purposes of subsection (1)(d), a notice is sent to a person by electronic means in accordance with this subsection if—
 
 (a) it is sent to an email address, fax number, or other electronic contact point, at which the person has agreed in writing to receive notices under this Act, and
-
-OJ No. L. 241, 17.9.2015
 
 (b) a record that the email, fax, or other electronic message has been sent is made for the sender by the email system, fax machine, or other electronic system used.
 
