@@ -12,11 +12,13 @@ Limitations on amount of administrative financial sanction.
 
 (1A) In the case of a contravention falling within paragraph (b) or (d) of the definition of "contravention" in section 139ZG, the amount of an administrative financial sanction imposed under section 139ZS shall not exceed 6 per cent of the turnover of the inquiry subject in the financial year preceding the date of the decision under section 139ZS to impose the sanction.
 
+(1AA) In the case of a contravention falling within paragraph (ba) of the definition of "contravention" in section 139ZG that amounts to, or is a result of, a systematic or persistent failure to comply with obligations under Article 3(3) of the Terrorist Content Online Regulation, an administrative financial sanction may be imposed under section 139ZS of up to 4 per cent of the global turnover of the inquiry subject in the financial year preceding the date of the decision under section 139ZS to impose the sanction.
+
 (1B) In the case of a contravention falling within paragraph (c) of the definition of "contravention" in section 139ZG, the amount of an administrative financial sanction imposed under section 139ZS shall not exceed one per cent of the income or turnover of the inquiry subject in the financial year preceding the date of the decision under section 139ZS to impose the sanction.
 
 (2) In subsection (1)(b)(ii), “relevant turnover” means turnover ... attributable to the service which gave rise to the contravention.
 
-(3) The Commission shall have regard to the following matters in determining the amount of the administrative financial sanction imposed under section 139ZS:
+(3) Other than where subsection (3A) applies, the Commission shall have regard to the following matters in determining the amount of the administrative financial sanction imposed under section 139ZS:
 
 (a) the nature, gravity and duration of the contravention;
 
@@ -50,10 +52,26 @@ Limitations on amount of administrative financial sanction.
 
 (o) previous determinations under this section which have been confirmed or made by the appropriate court (within the meaning of section 139ZX) under section 139ZX or confirmed by the Circuit Court under section 139ZY.
 
+(3A) In the case of a contravention falling within paragraph (ba) of the definition of "contravention" in section 139ZG, the Commission shall have regard to all relevant circumstances when determining the amount of the administrative financial sanction imposed under section 139ZS, including the following:
+
+(a) the nature, gravity and duration of the contravention;
+
+(b) whether the contravention was intentional or negligent;
+
+(c) previous contraventions by the hosting service provider;
+
+(d) the financial strength of the hosting service provider;
+
+(e) the level of cooperation of the hosting service provider with the competent authorities designated pursuant to Article 12(1) of the Terrorist Content Online Regulation;
+
+(f) the nature and size of the hosting service provider, in particular whether it is a micro, small or medium-sized enterprise;
+
+(g) the degree of fault of the hosting service provider, taking into account the technical and organisational measures taken by the provider to comply with the requirements of the Terrorist Content Online Regulation.
+
 (4) The amount of an administrative financial sanction imposed under section 139ZS shall—
 
 (a) be proportionate to the nature of the contravention, and
 
-(b) be set with a view to deterring the inquiry subject, and, where the inquiry subject is a provider of broadcasting services, audiovisual on-demand media services, designated online services or intermediary services, other such providers, from committing a contravention.
+(b) be set with a view to deterring the inquiry subject, and, where the inquiry subject is a a hosting service provider or a provider of broadcasting services, audiovisual on-demand media services, designated online services or intermediary services, other such providers, from committing a contravention.
 
 (5) ...

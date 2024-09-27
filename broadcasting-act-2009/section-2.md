@@ -116,25 +116,7 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 
 (b) over their organisation in a programme schedule or in a catalogue;
 
-“electronic communications network” means transmission systems including, where applicable—
-
-(a) switching equipment,
-
-(b) routing equipment, or
-
-(c) other resources, which permit the conveyance of signals by wire, by radio, by optical or by other electromagnetic means, and such conveyance includes the use of—
-
-(i) satellite networks,
-
-(ii) electricity cable systems, to the extent that they are used for the purposes of transmitting signals,
-
-(iii) fixed terrestrial networks (both circuit-switched and packet-switched, including the Internet),
-
-(iv) mobile terrestrial networks,
-
-(v) networks used for either or both sound and television broadcasting, and
-
-(vi) cable television and internet protocol television networks, irrespective of the type of information conveyed;
+"electronic communications network" means transmission systems, whether or not based on a permanent infrastructure or centralised administration capacity, and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed (circuit- and packet-switched, including internet) and mobile networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;
 
 “EEA Agreement” has the meaning assigned to it in the European Communities (Amendment) Act 1993;
 
@@ -143,8 +125,6 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 ...
 
 “employment” includes—
-
-OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
 
 (a) full-time paid employment,
 
@@ -157,6 +137,8 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 “establishment day” means the day appointed by the Minister under section 5 to be the establishment day for the purposes of this Act;
 
 ...
+
+OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
 
 “exploitation of commercial opportunities object” means an activity undertaken by a corporation in pursuance of paragraph (j) of section 114(1) or paragraph (i) of section 118(1);
 
@@ -171,6 +153,8 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 (b) in relation to a licence granted under this Act or any other enactment, the person to whom the licence has been granted;
 
 “holding company” has the same meaning as in the Companies Act 2014;
+
+"hosting service provider" has the same meaning as it has in the Terrorist Content Online Regulation;
 
 ...
 
@@ -256,6 +240,8 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 (i) the provider of which is under the jurisdiction of the State, and
 
+OJ No. L. 241, 17.9.2015, p. 1
+
 (ii) on which user-generated content is made available (directly or through providing access to another service), but does not include an audiovisual on-demand media service;
 
 “RTÉ” means Raidió Teilifís Éireann;
@@ -288,9 +274,9 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 “terrestrial means”, in relation to the transmission of a broadcasting service, means any means of transmitting such a service by wireless telegraphy, other than by means of ... a satellite device and “digital terrestrial means” shall be read accordingly;
 
-...
+"Terrorist Content Online Regulation" means Regulation (EU) 2021/784 of the European Parliament and of the Council of 29 April 2021 on addressing the dissemination of terrorist content online;
 
-OJ No. L. 241, 17.9.2015, p. 1
+...
 
 “user-generated content”, in relation to a relevant online service, means content created by a user of the service and uploaded to the service by that or another user;
 
