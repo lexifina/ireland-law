@@ -4,9 +4,7 @@ News and current affairs.
 
 (a) that news is reported and presented in an objective and impartial manner and without any expression of the broadcaster’s or provider’s own views, and
 
-(b) that the treatment of current affairs, including matters which are either of public controversy or the subject of current public debate, is fair to all
-
-OJ No. L. 88, 31.3.2017 interests concerned, and that the matter broadcast or made available is presented in an objective and impartial manner and without any expression of the broadcaster’s or provider’s own views.
+(b) that the treatment of current affairs, including matters which are either of public controversy or the subject of current public debate, is fair to all interests concerned, and that the matter broadcast or made available is presented in an objective and impartial manner and without any expression of the broadcaster’s or provider’s own views.
 
 (2) Should it prove impracticable to apply subsection (1)(b) in relation to a single programme, 2 or more related programmes may be considered as a whole, if—
 

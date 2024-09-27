@@ -114,4 +114,8 @@ HARMFUL ONLINE CONTENT: OFFENCE-SPECIFIC CATEGORIES
 
 42. Online content by which a person publishes or broadcasts information about a preliminary trial hearing, or an appeal under section 7 of the Criminal Procedure Act 2021, contrary to section 10(1) of that Act.
 
+43. Online content by which a person breaches an order made under section 28 of the Criminal Justice (Miscellaneous Provisions) Act 2023.
+
+44. Online content by which a person publishes or broadcasts identifying material contrary to section 46 of the Criminal Justice (Miscellaneous Provisions) Act 2023.
+
 Sections 139ZK(3), 139ZR(3) and (4) or 139ZU(2)(a).
