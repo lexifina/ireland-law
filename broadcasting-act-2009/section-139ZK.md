@@ -4,7 +4,7 @@ Powers of authorised officer.
 
 (a) except in the case of an investigation to which paragraph (aa) applies, subject to subsection (7), at any reasonable time, enter any place where the authorised officer has reasonable grounds for believing—
 
-(i) that an activity connected with a broadcasting service, audiovisual on-demand media service or designated online service takes place, or
+(i) that an activity connected with a broadcasting service, audiovisual on-demand media service , hosting service provider or designated online service takes place, or
 
 (ii) that relevant material or relevant equipment is kept;
 
@@ -24,7 +24,7 @@ Powers of authorised officer.
 
 (f) require any person to give the authorised officer such information as the officer may reasonably require relating to any relevant material which is in that person’s power or control or which that person is able to procure;
 
-(g) require any person to give the authorised officer any information that the officer may reasonably require relating to a broadcasting service, an audiovisual on-demand media service, or a a designated online service or an intermediary service;
+(g) require any person to give the authorised officer any information that the officer may reasonably require relating to a broadcasting service, an audiovisual on-demand media service, hosting service provider or a a designated online service or an intermediary service;
 
 (h) require any person to attend before the authorised officer to give any information that the officer may require the person to give under this section;
 
