@@ -6,7 +6,11 @@ Power to impose levies.
 
 (b) providers of sound broadcasting services;
 
-(c) providers of designated online services.
+(c) providers of designated online services;
+
+(d) intermediary service providers;
+
+(e) hosting service providers.
 
 (2) A levy order shall specify the period in respect of which a levy is imposed (the “levy period”).
 
@@ -48,7 +52,9 @@ Power to impose levies.
 
 (c) the nature and scale of services provided by a provider;
 
-(d) any other factor that may affect the exercise by the Commission of functions in relation to a provider, including, in the case of designated online services, matters referred to in section 139E(3)(d), (e) and (f).
+(d) any other factor that may affect the exercise by the Commission of functions in relation to a provider, including, in the case of designated online services, matters referred to in section 139E(3)(d), (e) and (f);
+
+(e) any other factor that may affect the performance by the Commission of functions in relation to an intermediary service provider including if that provider has been designated as a very large online platform or very large online search engine under Article 33 of the Digital Services Regulation and has been charged the annual supervisory fee under Article 43 of that Regulation.
 
 (10) Levy orders may (subject to subsection (3)):
 
@@ -63,6 +69,8 @@ Power to impose levies.
 (b) be refunded proportionately to those providers.
 
 (12) In this section and section 22—
+
+...
 
 “levy order” has the meaning given in subsection (1);
 
