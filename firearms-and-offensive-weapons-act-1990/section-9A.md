@@ -1,4 +1,4 @@
-F9[Possession of a realistic imitation firearm in a public place.
+F13[Possession of a realistic imitation firearm in a public place.
 
 9A.— (1) Where a person, without lawful authority or reasonable excuse (the onus of proving which shall lie on him or her), has a realistic imitation firearm with him or her in any public place, that person shall be guilty of an offence.
 

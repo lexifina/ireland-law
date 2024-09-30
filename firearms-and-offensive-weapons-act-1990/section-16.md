@@ -1,4 +1,4 @@
-F23[Power of search without warrant.
+F31[Power of search without warrant.
 
 16.— (1) If a member of the Garda Síochána suspects with reasonable cause that a person has with him or her in any public place (within the meaning of section 9(8)) any article in contravention of section 9 or 9A (inserted by section 40 of the Criminal Justice (Miscellaneous Provisions) Act 2009), he may:
 

@@ -1,4 +1,4 @@
-F10[Authorisation of use of realistic imitation firearms at specified venues, theatres, etc.
+F14[Authorisation of use of realistic imitation firearms at specified venues, theatres, etc.
 
 9B.— (1) The Superintendent of any district may authorise in writing the possession, use or carriage of realistic imitation firearms in that district at a specified location during such period, not exceeding one year, as may be specified in the authorisation.
 

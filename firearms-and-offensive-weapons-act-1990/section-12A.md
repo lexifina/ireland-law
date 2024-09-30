@@ -1,4 +1,4 @@
-F21[Shortening barrel of shotgun or rifle.
+F29[Shortening barrel of shotgun or rifle.
 
 12A.— (1) Subject to subsection (2), a person who shortens the barrel of—
 
