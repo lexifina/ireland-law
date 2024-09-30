@@ -1,6 +1,6 @@
 Chair of board of directors, etc.
 
-55A.— (1) The board of directors of a credit union shall elect one of its number to be the chair of the board, subject to that person being eligible to be chair of a board of directors.
+55A.—(1) The board of directors of a credit union shall elect one of its number to be the chair of the board, subject to that person being eligible to be chair of a board of directors.
 
 (2) The chair of the board of directors of a credit union may be referred to by whatever title the rules of the credit union provide.
 

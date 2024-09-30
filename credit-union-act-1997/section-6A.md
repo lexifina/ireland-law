@@ -1,6 +1,6 @@
 Supplemental provisions relating to registration, etc., under section 6 of Principal Act.
 
-6A.— (1) The Bank may impose such conditions, if any, as the Bank considers to be necessary to protect, with effect from registration under this Part, the interests of the members of the society seeking registration and any such conditions shall be a condition for registration as a credit union.
+6A.—(1) The Bank may impose such conditions, if any, as the Bank considers to be necessary to protect, with effect from registration under this Part, the interests of the members of the society seeking registration and any such conditions shall be a condition for registration as a credit union.
 
 (2) The conditions imposed by the Bank under subsection (1) may include requiring a credit union—
 

@@ -26,7 +26,7 @@ Amendment of registered rules.
 
 (9) Notwithstanding anything in the rules of a credit union, the board of directors may, by resolution passed during the second transitional period, make such amendments of the rules of the credit union as may be consequential on the provisions of the Credit Union (Amendment) Act 2023.
 
-(10) For the purposes of subsection (9), the second transitional period is the period of one year from the commencement of section 7(d) of theCredit Union (Amendment) Act 2023 or such longer period as may be determined by the Bank.
+(10) For the purposes of subsection (9), the second transitional period is the period of one year from the commencement of section 7(d) of the Credit Union (Amendment) Act 2023 or such longer period as may be determined by the Bank.
 
 (11) Notwithstanding anything in subsection (4), after the expiry of one year from the commencement of section 7(d) of the Credit Union (Amendment) Act 2023, the Bank shall not be required to register any amendment of a credit union’s rules unless such consequential amendments of the registered rules as are mentioned in subsection (9) either—
 

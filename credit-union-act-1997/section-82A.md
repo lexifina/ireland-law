@@ -1,6 +1,6 @@
 Proxies.
 
-82A. (1) Subject to subsection (3), a credit union may allow in its rules for any member of the credit union entitled to attend and vote at a general meeting of the credit union to be entitled to appoint another person (whether a member or not) as the member’s proxy to attend and vote instead of the member.
+82A.—(1) Subject to subsection (3), a credit union may allow in its rules for any member of the credit union entitled to attend and vote at a general meeting of the credit union to be entitled to appoint another person (whether a member or not) as the member’s proxy to attend and vote instead of the member.
 
 (2) A proxy so appointed shall have the same right as the member to speak at the meeting and to vote on a show of hands and on a poll.
 

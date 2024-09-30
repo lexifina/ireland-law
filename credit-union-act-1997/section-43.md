@@ -2,7 +2,7 @@
 
 Investments.
 
-43.— (1) A credit union shall manage its investments to ensure that those investments do not (taking account of the nature, scale, complexity and risk profile of the credit union) involve undue risk to members’ savings and, for that purpose, before making an investment a credit union shall assess the potential impact on the credit union, including the impact on the liquidity and financial position of the credit union.
+43.—(1) A credit union shall manage its investments to ensure that those investments do not (taking account of the nature, scale, complexity and risk profile of the credit union) involve undue risk to members’ savings and, for that purpose, before making an investment a credit union shall assess the potential impact on the credit union, including the impact on the liquidity and financial position of the credit union.
 
 (2) A credit union may invest any of its funds, which are surplus to its operating requirements and are not immediately required for the purposes of the credit union, in any one or more of the following:
 

@@ -1,6 +1,6 @@
 Raising of funds by shares and deposits.
 
-27.— (1) A credit union may raise funds to be used for its objects—
+27.—(1) A credit union may raise funds to be used for its objects—
 
 (a) by the issue to its members of shares in the credit union (which may be withdrawable or non-withdrawable), and
 

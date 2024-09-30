@@ -1,6 +1,6 @@
 Board Committees.
 
-56A.— (1) Subject to the other provisions of the Credit Union Acts 1997 to 2012 and any matter prescribed by the Bank, the board of directors of a credit union may cause any matter relating to its functions to be performed or carried out on its behalf by a committee, comprised entirely of directors or of a majority of directors, to act on behalf of the board of directors in respect of matters to be performed or carried out.
+56A.—(1) Subject to the other provisions of the Credit Union Acts 1997 to 2012 and any matter prescribed by the Bank, the board of directors of a credit union may cause any matter relating to its functions to be performed or carried out on its behalf by a committee, comprised entirely of directors or of a majority of directors, to act on behalf of the board of directors in respect of matters to be performed or carried out.
 
 (2) A decision of the board of directors to cause any matter relating to its functions to be performed or carried out on its behalf under subsection (1) shall be taken at a meeting of the board.
 

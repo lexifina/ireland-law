@@ -1,6 +1,6 @@
 Statutory reserve.
 
-45.— (1) In this section—
+45.—(1) In this section—
 
 "assets" means such assets as the Bank may from time to time specify for the purposes of this section;
 

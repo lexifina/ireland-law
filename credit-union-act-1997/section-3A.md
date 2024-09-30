@@ -1,6 +1,6 @@
 Extension of interim period.
 
-3A. The Government may, at the request of the Minister made after consultation with the Minister for Health, from time to time, by order extend the interim period, either generally or with reference to any particular purpose or provision, for such period as they consider appropriate if they are satisfied that, having regard to—
+3A.—The Government may, at the request of the Minister made after consultation with the Minister for Health, from time to time, by order extend the interim period, either generally or with reference to any particular purpose or provision, for such period as they consider appropriate if they are satisfied that, having regard to—
 
 (a) the threat to public health presented by Covid-19,
 
