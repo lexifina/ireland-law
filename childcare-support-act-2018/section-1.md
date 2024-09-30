@@ -18,9 +18,9 @@ Interpretation
 
 “child” means a person under the age of 18 years;
 
-“childcare service” means a service providing a pre-school service or a school age service;
+“childcare service” means an early years service;
 
-“childcare services provider” means the provider of a pre-school service or a school age service whose name is entered in the register of prescribed early years services established and maintained in accordance with section 58C of the Act of 1991;
+“childcare services provider” means the provider of an early years service whose name is entered in the register of prescribed early years services established and maintained in accordance with section 58C of the Act of 1991;
 
 “civil partner” shall be construed in accordance with section 3 of the Act of 2010;
 
@@ -33,6 +33,8 @@ Interpretation
 (b) two persons who are civil partners of each other, or
 
 (c) two persons who are cohabitants, who are habitually living together;
+
+“early years service” has the same meaning as it has in Part VIIA of the Act of 1991;
 
 “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by the protocol to Agreement done at Brussels on 17 March 1993;
 

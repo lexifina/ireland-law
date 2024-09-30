@@ -24,7 +24,7 @@ The following classes of persons are specified as mandated persons for the purpo
 
 9. Social worker who practises as such and who is eligible for registration in accordance with Part 4 of the Health and Social Care Professionals Act 2005 in the register (if any) of that profession.
 
-10. Emergency medical technician, paramedic and advanced paramedic registered with the Pre-Hospital Emergency Care Council under the Pre-Hospital Emergency Care Council (Establishment) Order 2000 (S.I. No. 109 of 2000).
+10. Emergency medical technician, paramedic and advanced paramedic registered with the Pre-Hospital Emergency Care Council under the Pre- Hospital Emergency Care Council (Establishment) Order 2000 (S.I. No. 109 of 2000).
 
 11. Probation officer within the meaning of section 1 of the Criminal Justice (Community Service) Act 1983.
 
@@ -54,7 +54,7 @@ The following classes of persons are specified as mandated persons for the purpo
 
 (i) safeguarding officer, child protection officer or other person (howsoever described) who is employed for the purpose of performing the child welfare and protection function of religious, sporting, recreational, cultural, educational and other bodies and organisations offering services to children;
 
-(j) child care staff member employed in a pre-school service within the meaning of Part VIIA of the Child Care Act 1991;
+(j) child care staff member employed in an early years service within the meaning of Part VIIA of the Child Care Act 1991;
 
 (k) person responsible for the care or management of a youth work service within the meaning of section 2 of the Youth Work Act 2001.
 
@@ -66,4 +66,4 @@ The following classes of persons are specified as mandated persons for the purpo
 
 17. Foster carer registered with the Agency.
 
-18. A person carrying on a pre-school service within the meaning of Part VIIA of the Child Care Act 1991.
+18. A person carrying on an early years service within the meaning of Part VIIA of the Child Care Act 1991.

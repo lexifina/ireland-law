@@ -6,7 +6,7 @@ RELEVANT WORK OR ACTIVITIES RELATING TO CHILDREN
 
 1. Any work or activity which is carried out by a person, a necessary and regular part of which consists mainly of the person having access to, or contact with, children in—
 
-(a) an establishment which provides pre-school services within the meaning of Part VII of the Child Care Act 1991,
+(a) an establishment which provides early years services within the meaning of Part VIIA of the Child Care Act 1991,
 
 (b) a school or centre of education, both within the meaning of the Education Act 1998,
 

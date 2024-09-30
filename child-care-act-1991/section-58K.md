@@ -1,8 +1,8 @@
-F345[Offences under Part VIIA
+F370[Offences under Part VIIA
 
 58K.—(1) A person who—
 
-(a) refuses to allow an authorised person to enter any premises in accordance with subsection (1) or (2) of section 58J or who obstructs or impedes an authorised person in the exercise of any of his powers under subsection (3) of that section,
+(a) refuses to allow an authorised person to enter any premises in accordance with subsection (1) or (2) of section 58J or who obstructs or impedes an authorised person in the exercise of any of his powers under subsection (3), (3A) or (3B) of that section,
 
 (b) contravenes a condition of registration under section 58D, or
 
