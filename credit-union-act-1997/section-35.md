@@ -2,7 +2,7 @@
 
 Making of loans.
 
-35.— (1) (a) In this section "large exposure", in relation to loans of a credit union to a borrower or a group of borrowers who are connected, means the total exposure (including contingent liabilities) of the credit union where the total exposure to such borrower or group of borrowers would be greater than an amount (whether expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) prescribed by the Bank.
+35.—(1) (a) In this section "large exposure", in relation to loans of a credit union to a borrower or a group of borrowers who are connected, means the total exposure (including contingent liabilities) of the credit union where the total exposure to such borrower or group of borrowers would be greater than an amount (whether expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) prescribed by the Bank.
 
 (b) For the purposes of this subsection—
 
@@ -14,7 +14,23 @@ Making of loans.
 
 (ii) between whom there is no relationship of control as set out in subparagraph (i), but who are to be regarded as constituting a single risk because they are so interconnected that, if one of them were to experience financial problems, the other person or some or all of the other persons would be likely to encounter repayment difficulties.
 
-(2) A credit union may make a loan to a member for such purpose as the credit union considers appropriate, upon such security (or without security) and terms as the rules of the credit union may provide. The ability of the loan applicant to repay shall be the primary consideration in the underwriting process of the credit union.
+(2) A credit union may—
+
+(a) make a loan to a member of the credit union,
+
+(b) enter into an agreement with one or more other credit unions in accordance with which the credit union agrees to participate in a loan to a member of one of those other credit unions (in this paragraph referred to as "the originating lender") by the originating lender, or
+
+(c) enter into an agreement between—
+
+(i) the credit union and one or more other credit unions, and
+
+(ii) one or more members of—
+
+(I) the credit union, or
+
+(II) one of those other credit unions, in accordance with which each credit union that is a party to the agreement provides a loan to the member or those members, as the case may be, for such purpose as the credit union considers appropriate and upon such security (or without security) and terms as the rules of the credit union may provide.
+
+(2A) The ability of the loan applicant to repay a loan shall be the primary consideration in the underwriting process of the credit union making the loan or participating in the loan, as the case may be.
 
 (3) A credit union shall manage and control lending to ensure the making of loans does not involve undue risk to members’ savings taking into account the nature, scale, complexity and risk profile of the credit union.
 

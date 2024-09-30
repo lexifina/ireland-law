@@ -40,7 +40,7 @@ Functions of board of directors.
 
 (n) the removal from office of an officer of the credit union, except directors or members of the board oversight committee, where the board of directors has duly determined that there has been a failure by the person concerned to perform duties or responsibilities;
 
-(o) approving, reviewing, and updating, where necessary, but at least annually, all plans, policies and procedures of the credit union, including the following:
+(o) approving, reviewing, and updating, where necessary, but at least every 3 years, all plans and policies of the credit union, including the following:
 
 (i) lending policies including lending limits;
 
@@ -73,6 +73,8 @@ Functions of board of directors.
 (xv) risk management policy;
 
 (xvi) conflicts of interest policy;
+
+(xvia) environmental, social and governance policy;
 
 (xvii) such other matters as the Bank may prescribe;
 
