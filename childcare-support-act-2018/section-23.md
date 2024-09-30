@@ -1,6 +1,6 @@
 Amendment of section 265 of Act of 2005
 
-23. Section 265(1) of the Act of 2005 is amended in paragraph (a) of the definition of “relevant purpose” —
+23. Section 265(1) of the Act of 2005 is amended in paragraph (a) of the definition of “relevant purpose”
 
 (a) in subparagraph (v)(III), by the substitution of “Student Support Act 2011,” for “Student Support Act 2011, or”,
 
