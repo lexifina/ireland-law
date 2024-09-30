@@ -1,4 +1,4 @@
-F136[Failure to find child.
+F137[Failure to find child.
 
 23NB.—(1) Where a child, in respect of whom a special care order or an interim special care order has been made, has not been found within 3 days of the making of that order the Child and Family Agency shall, on notice to the persons referred to in subsection (3), notify the High Court as soon as practicable after those 3 days have expired, that the child has not been found and of all steps taken, and proposed to be taken, by the Child and Family Agency and the Garda Síochána to find the child.
 

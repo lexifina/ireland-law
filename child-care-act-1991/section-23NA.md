@@ -1,4 +1,4 @@
-F134[Sections 23H and 23L: supplemental provisions.
+F135[Sections 23H and 23L: supplemental provisions.
 
 23NA.—(1) Where the High Court has made a special care order or an interim special care order in respect of a child, it may, on the application of the Child and Family Agency, make an order, for the duration of the period for which that special care order or interim special care order has effect, directing the Garda Síochána, when requested by the Child and Family Agency, to search for and find the child and to deliver the child to the custody of the Child and Family Agency at a special care unit specified by the Child and Family Agency where the child—
 

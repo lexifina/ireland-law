@@ -1,4 +1,4 @@
-F299[Orders relating to children in care of same foster parent or relative for five years or more.
+F301[Orders relating to children in care of same foster parent or relative for five years or more.
 
 43A.— (1) This section applies to a child in the care of the Child and Family Agency whether in care under section 4 or under section 18 and whether the child has been placed under section 36(1)(a) with a foster parent or under section 36(1)(d) with a relative.
 

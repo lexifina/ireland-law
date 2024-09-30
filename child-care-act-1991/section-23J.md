@@ -1,4 +1,4 @@
-F121[Extension of period for which special care order has effect.
+F122[Extension of period for which special care order has effect.
 
 23J.—(1) Where a special care order has been made in respect of a child and the Child and Family Agency is satisfied that there is reasonable cause to believe that—
 

@@ -1,6 +1,6 @@
 ## PART II PROMOTION OF WELFARE OF CHILDREN
 
-Functions of F12[Child and Family Agency].
+Functions of F13[Child and Family Agency].
 
 3.—(1) It shall be a function of the Child and Family Agency to promote the welfare of children ... who are not receiving adequate care and protection.
 

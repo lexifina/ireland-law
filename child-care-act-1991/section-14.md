@@ -1,4 +1,4 @@
-Notification to be given by F69[Child and Family Agency].
+Notification to be given by F70[Child and Family Agency].
 
 14.—(1)Where a child is delivered up to, or placed in the custody of, the Child and Family Agency under this Part, the Agency shall as soon as possible inform or cause to be informed a parent having custody of him or a person acting in loco parentis of that delivery or placement unless that parent or person is missing and cannot be found.
 

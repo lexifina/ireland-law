@@ -1,4 +1,4 @@
-F301[Variation, discharge or cessation of order under section 43A.
+F303[Variation, discharge or cessation of order under section 43A.
 
 43B.— (1) The court may vary or discharge an order under section 43A or any condition or restriction attaching to that order on the application of any of the following persons:
 

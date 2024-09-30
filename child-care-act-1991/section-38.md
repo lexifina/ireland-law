@@ -1,4 +1,4 @@
-Provision of residential care by F282[Child and Family Agency].
+Provision of residential care by F284[Child and Family Agency].
 
 38.—The Child and Family Agency shall make arrangements with the registered proprietors of children’s residential centres or with other suitable persons to ensure the provision of an adequate number of residential places for children in its care.
 
