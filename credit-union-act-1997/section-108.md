@@ -36,7 +36,7 @@ Accounting records etc.
 
 (6) Every record required to be kept under this section shall be preserved by the credit union for not less than six years from the latest date to which it relates.
 
-(7) Where the accounting records of the credit union are kept at a place other than the registered office of the credit union, the chair shall have responsibility for ensuring that a written record of their location is kept.
+(7) Where the accounting records of the credit union are kept at a place other than the registered office of the credit union, the chair shall have responsibility for ensuring that a written record of their location is kepart
 
 (8) Where a credit union conducts its business in more than one place, the board of directors shall ensure that such accounting records are kept and such systems of control are established and maintained for each of those places as will enable the credit union to comply with this section and section 109.
 
