@@ -12,9 +12,19 @@ Regulations.
 
 (d) prescribe the fees to be paid to the Agency by persons carrying on prescribed early years services towards the cost of inspections under this Part,
 
-(e) prescribe the minimum level of qualifications for any class or classes of persons working in an early years service, and
+(e) prescribe the minimum level of qualifications for any class or classes of persons working in an early years service,
 
-(f) prescribe any additional particulars and details required in relation to the register.
+(f) prescribe any additional particulars and details required in relation to the register,
+
+(g) prescribe a class or classes of persons who, in the opinion of the Minister, are fit and proper persons—
+
+(i) to be registered providers and to carry on a prescribed early years service,
+
+(ii) to be in charge of a prescribed early years service, or
+
+(iii) to participate in the management of an early years service,
+
+(h) specify the requirements that a member of a class or classes prescribed under subparagraph (i), (ii) or (iii) of paragraph (g) shall satisfy in order to be considered fit and proper persons for the purposes of the subparagraph concerned,
 
 (3) Regulations under this section may—
 
