@@ -1,0 +1,3 @@
+Temporary prohibition order.
+
+58JC.— ...
