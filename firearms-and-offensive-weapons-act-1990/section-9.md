@@ -24,11 +24,17 @@ Possession of knives and other articles.
 
 (ii) on conviction on indictment, to a fine or to imprisonment for a term not exceeding five years or to both.
 
-(b) A person guilty of an offence under subsection (4) or (5) shall be liable—
+(b) A person guilty of an offence under subsection (4) ... shall be liable—
 
 (i) on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding twelve months or to both, or
 
 (ii) on conviction on indictment, to a fine or to imprisonment for a term not exceeding five years or to both.
+
+(c) A person guilty of an offence under subsection (5) shall be liable—
+
+(i) on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding twelve months or to both, or
+
+(ii) on conviction on indictment, to a fine or to imprisonment for a term not exceeding seven years or to both.
 
 (8) In this section “public place” includes any highway and any other premises or place to which at the material time the public have or are permitted to have access, whether on payment or otherwise, and includes any club premises and any train, vessel or vehicle used for the carriage of persons for reward.
 

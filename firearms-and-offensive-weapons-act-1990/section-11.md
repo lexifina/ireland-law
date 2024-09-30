@@ -4,4 +4,4 @@ Production of article capable of inflicting serious injury.
 
 (a) on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding twelve months or to both, or
 
-(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding five years or to both.
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding seven years or to both.
