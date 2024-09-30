@@ -1,4 +1,4 @@
-F335[Registration
+F348[Registration
 
 58D.—(1) A person shall not provide a prescribed early years service unless his or her name is entered in the register as a provider of that service.
 
@@ -18,7 +18,7 @@ F335[Registration
 
 (6) The Agency may remove a registered provider from the register.
 
-(7) Where the Agency becomes aware that any particular entered in the register is incorrect it may amend the register to correct the matter.
+(7) Where the Agency becomes aware that any particular entered in the register is incorrect it shall amend the register to correct the matter.
 
 (8) The Agency shall attach a condition to a registration, refuse a registration, or remove a registered provider from the register where it is satisfied that—
 
@@ -32,7 +32,7 @@ F335[Registration
 
 (b) obstructs or impedes an authorised person in the exercise of any of his or her powers under subsection (3A) of that section.
 
-(9) The Agency shall refuse to register an applicant and shall remove from the register a registered provider—
+(9) The Agency may refuse to register an applicant and may remove from the register a registered provider—
 
 (a) who has been convicted of—
 
@@ -52,7 +52,7 @@ F335[Registration
 
 (a) make representations to the Agency, or
 
-(b) appeal to the District Court under section 58F against the decision.
+(b) appeal to the District Court under section 58F(1) against the decision.
 
 (13) A person who has been notified of a proposal under subsection (11) may, within 21 days of the receipt of the notification, make representations in writing to the Agency and the Agency shall—
 
