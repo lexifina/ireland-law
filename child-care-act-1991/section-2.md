@@ -16,6 +16,8 @@ Interpretation.
 
 “child” means a person under the age of 18 years other than a person who is or has been married;
 
+“Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+
 “eligible adult”, subject to subsections (1A) and (1B), means a person aged 18, 19 or 20 years who was in the care of the Child and Family Agency for a period of not less than 12 months in the 5 year period immediately prior to the person attaining the age of 18 years;
 
 “eligible child”, subject to subsections (1C) and (1D), means a child aged 16 years or over who—
@@ -34,6 +36,8 @@ Interpretation.
 
 “parents” includes a surviving parent and, in the case of a child who has been adopted under the Adoption Acts, 1952 to 1988, or, where the child has been adopted outside the State, whose adoption is recognised by virtue of the law for the time being in force in the State, means the adopter or adopters or the surviving adopter;
 
+"personal data" has the same meaning as it has in the Data Protection Regulation;
+
 “prescribed” means prescribed by regulations made by the Minister.
 
 "publish" means publish, other than by way of broadcast, to the public or a portion of the public.
@@ -44,7 +48,11 @@ Interpretation.
 
 "special care unit" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011).
 
-(1A) (a) Where prior to the coming into operation of section 82 of the Child and Family Agency Act 2013 a person was in the care of the Health Service Executive in accordance with this Act for any period of time in the 5 year period immediately prior to the person attaining the age of 18 years, that period of time shall be considered as time spent in the care of the Child and Family Agency for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
+(1A) (a) Where prior to the coming into operation of section 82 of the Child and Family Agency Act 2013 a person was in the care of the Health Service Executive in accordance with this Act for any period of time in the 5 year period immediately prior to the person attaining the age of 18 years, that period of time shall be considered as time spent in the care of the Child and
+
+O.J. No. L. 119, 4.5.2016, p. 1
+
+Family Agency for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
 
 (b) Where a person was in the care of the Child and Family Agency for a period (including a period referred to in paragraph (a)) of less than 12 months in the 5 year period immediately prior to the person attaining the age of 18 years, a period of time spent by that person in accommodation made available by the Agency, or by the Health Service Executive prior to the coming into operation of section 82 of the Child and Family Agency Act 2013, under section 5 in the 5 year period immediately prior to the person attaining the age of 18 years shall be reckonable for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
 
@@ -71,5 +79,3 @@ Interpretation.
 (b) a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended;
 
 (c) a reference to any other enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any other enactment, including this Act.
-
-O.J. No. L. 119, 4.5.2016, p. 1
