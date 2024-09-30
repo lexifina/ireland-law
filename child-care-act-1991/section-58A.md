@@ -10,13 +10,23 @@ Definitions for this Part.
 
 "authorised person" means a person appointed under section 58I to be an authorised person for the purposes of this Part;
 
+"childminding service" means a service that—
+
+(a) entails an individual taking care, by himself or herself, of children under the age of 15 years, in the home of the individual, and
+
+(b) is provided to children (other than that individual’s own children) for a total period of not less than 2 hours per day;
+
 "competitive sport" has the same meaning as it has in the Irish Sports Council Act 1999;
 
 "early years service" means a service providing—
 
-(a) a pre-school service, or
+(a) a pre-school service, ...
 
-(b) a school age service;
+(b) a school age service, or
+
+(c) a childminding service;
+
+"premises" means any premises, or part thereof, where an early years service is provided or is proposed to be provided, including the area immediately surrounding, or adjacent to, such premises which is used in conjunction with such premises, other than any part of that area that is a public place;
 
 "pre-school child" means a child who has not attained the age of six years, and who is not attending a recognised school;
 
@@ -27,6 +37,8 @@ Definitions for this Part.
 "recreational sport" has the same meaning as it has in the Irish Sports Council Act 1999;
 
 "register" means the register established and maintained in accordance with section 58C;
+
+"registered provider" has the meaning assigned to it by section 58C(2);
 
 "school" has the same meaning as it has in the Education Act 1998;
 
