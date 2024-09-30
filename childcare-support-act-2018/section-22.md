@@ -6,11 +6,11 @@ Amendment of Act of 1991
 
 (i) by the insertion of the following definition:
 
-“‘school’ has the same meaning as it has in the Education Act 1998;”,
+‘school’ has the same meaning as it has in the Education Act 1998;”,
 
 (ii) by the substitution of the following definition for the definition of “school age service”:
 
-“‘school age service’ means any early years service, play group, day nursery, crèche, day-care or other similar service which—
+‘school age service’ means any early years service, play group, day nursery, crèche, day-care or other similar service which—
 
 (a) caters for children under the age of 15 years enrolled in a school providing primary or post-primary education,
 
