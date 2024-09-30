@@ -18,6 +18,8 @@ Interpretation
 
 (b) in relation to a complaint concerning a financial service provider, means a consumer, any surviving dependant of a consumer, a legal personal representative of a deceased consumer, a widow, widower or surviving spouse or civil partner of a deceased consumer or any person who is contractually entitled to benefit from a long-term financial service;
 
+“automatic enrolment retirement savings system“means the retirement savings system established under the Automatic Enrolment Retirement Savings System Act 2024;
+
 “Bank” means the Central Bank of Ireland;
 
 “complaint” means a complaint made in accordance with this Act in relation to the conduct of a financial service provider or a pension provider specified in section 44(1)(a) and (b) respectively;
@@ -144,7 +146,9 @@ Interpretation
 
 “member” means—
 
-(a) in relation to a scheme, subject to sections 62 and 154 of the Act of 1990, any person who, having been admitted to membership under the rules of the scheme, remains entitled to any benefit under the scheme in respect of a period of service whilst employed within the State, and
+(a) in relation to a scheme, subject to sections 62 and 154 of the Act of 1990, any person who, having been admitted to membership under the rules of the scheme, other than the automatic enrolment retirement savings system, remains entitled to any benefit under the scheme in respect of a period of service whilst employed within the State,
+
+(aa) in relation to the automatic enrolment retirement savings system, a participant within the meaning of section 2 of the Automatic Enrolment Retirement Savings System Act 2024, and
 
 (b) in relation to a trust RAC, any person whose occupational activities entitle, or will entitle, the person to retirement benefits (within the meaning of Article 6 of Directive 2003/41/EC of the European Parliament and of the Council of 3 June 2003) in accordance with the rules of the trust RAC;
 
@@ -182,21 +186,25 @@ Interpretation
 
 “paying agent” means a person appointed by the trustees of a scheme to administer the payment of benefits under that scheme to beneficiaries and to collect and account for any tax liability arising from such benefits;
 
-“pension provider”, in relation to a scheme, means any of the following:
+“pension provider“means—
 
-(a) any employer who adheres to the scheme;
+(a) in relation to a scheme, other than the automatic enrolment retirement savings system, any of the following:
 
-(b) any person or undertaking that provides services to the scheme as a trustee, administrator, registered administrator for the purposes of Part VIA of the Act of 1990, consultant or advisor, investment manager, custodian, paying agent, insurer or actuary;
+(i) any employer who adheres to the scheme;
 
-(c) any person to whom the implementation or interpretation of the rules of the scheme is entrusted;
+(ii) any person or undertaking that provides services to the scheme as a trustee, administrator, registered administrator for the purposes of Part VIA of the Act of 1990, consultant or advisor, investment manager, custodian, paying agent, insurer or actuary;
 
-(d) any other person of a class specified in regulations made by the Minister under section 4;
+(iii) any person to whom the implementation or interpretation of the rules of the scheme is entrusted;
+
+(iv) any other person of a class specified in regulations made by the Minister under section 4, and
+
+(b) in relation to the automatic enrolment retirement savings system, An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir;
 
 “Pensions Ombudsman” shall be construed in accordance with section 127 of the Act of 1990;
 
 “PRSA” means a personal retirement savings account established by a contributor with a PRSA provider under the terms of a PRSA contract;
 
-“scheme”, in relation to a pension, means an occupational pension scheme, a PRSA or a trust RAC;
+“scheme”, in relation to a pension, means an occupational pension scheme, a PRSA , a trust RAC or the automatic enrolment retirement savings system;
 
 “trust RAC” means a trust scheme within the meaning of section 784(4) of the Taxes Consolidation Act 1997 which has been approved by the Revenue Commissioners for the purposes of section 784(4) or 785(5) of that Act or the application for approval of which under either of those provisions is being considered, other than a trust scheme which, apart from temporary holdings in cash for liquidity purposes, invests only in life assurance policies.
 

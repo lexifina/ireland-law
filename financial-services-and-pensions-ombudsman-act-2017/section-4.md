@@ -16,7 +16,7 @@ Regulations
 
 (i) paragraph (a) of the definition of “financial service provider”, or
 
-(ii) paragraph (d) of the definition of “pension provider”,
+(ii) subparagraph (a)(iv) of the definition of “pension provider”,
 
 (d) prescribe matters to be taken into account by the Ombudsman in the investigation or adjudication of a complaint,
 
