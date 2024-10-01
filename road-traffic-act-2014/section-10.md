@@ -18,7 +18,9 @@ Amendment of First Schedule to Act of 2002
 
 (b) by inserting after Part 1 the following:
 
-“Part 1A”,
+“Part 1A
+
+”,
 
 (c) in Part 4—
 
