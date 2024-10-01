@@ -20,7 +20,7 @@ Application of Part
 
 (II) a captive insurance undertaking as defined in point (2) of Article 13 of Directive 2009/138/EC, or a captive reinsurance undertaking as defined in point (5) of Article 13 of that Directive.
 
-(2) Chapter 3 shall apply for financial years commencing on or after 1 January 2028.
+(2) Chapter 3, other than section 1607 shall apply for financial years commencing on or after 1 January 2028.
 
 (3) Save where otherwise provided, Chapters 4, 5, 6 and 7 shall apply –
 

@@ -20,4 +20,4 @@ Exemption from section 1596 for certain subsidiaries
 
 (b) insurance undertakings that are part of a group, on the basis of financial relationships referred to in point (c)(ii) of Article 212(1) of Directive 2009/138/EC, and which are subject to group supervision in accordance with points (a) to (c) of Article 213(2) of that Directive shall be treated as subsidiary undertakings of the holding undertaking of that group.
 
-(4) This section shall not apply to an applicable holding company that is a public-interest entity.
+(4) This section shall not apply to an applicable holding company that is a public-interest entity falling within paragraph (a) of the definition of “public-interest entities”.
