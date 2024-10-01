@@ -4,7 +4,7 @@ Vehicle insurer obligations
 
 (a) when in motion, a danger to the public, and
 
-(b) beyond repair, shall notify the Minister in accordance with subsection (2) within 5 working days of such inspection.
+(b) beyond repair, shall notify the Minister in accordance with subsection (2) within 10 working days of such inspection.
 
 (2) When an insurer notifies the Minister under subsection (1) it shall also notify the Minister whether, based on the inspection of the vehicle, it is suitable for the salvaging of viable automotive parts.
 
