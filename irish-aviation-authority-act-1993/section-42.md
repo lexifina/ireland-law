@@ -1,6 +1,6 @@
 Acquisition of land.
 
-42.—(1) The company may acquire by agreement or, in accordance with the Second Schedule to the Air Navigation and Transport (Amendment) Act, 1998 (as applied by this section) compulsorily, any land or any easement or other right over land, or any water right, for the purpose of the performance of the functions conferred on it by this Act.
+42.— (1) The company may acquire by agreement or, in accordance with the Second Schedule to the Air Navigation and Transport (Amendment) Act, 1998 (as applied by this section) compulsorily, any land or any easement or other right over land, or any water right, for the purpose of the performance of the functions conferred on it by this Act.
 
 (2) Notwithstanding the provisions of any other Act, no person shall be entitled to acquire compulsorily any land or any easement or other right in respect of land belonging to the company, or to alienate, terminate, restrict or otherwise interfere with, without the agreement of the company, any right of the company in respect of such land.
 
