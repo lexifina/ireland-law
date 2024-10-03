@@ -1,6 +1,6 @@
 Appointment of authorised officers.
 
-63B. (1) The company may authorise in writing a relevant person to perform the functions conferred on authorised officers by or under this Act or the Air Navigation and Transport Act 2022 and shall, at the same time as such authorisation, furnish the relevant person with a certificate of his or her authorisation.
+63B.— (1) The company may authorise in writing a relevant person to perform the functions conferred on authorised officers by or under this Act or the Air Navigation and Transport Act 2022 and shall, at the same time as such authorisation, furnish the relevant person with a certificate of his or her authorisation.
 
 (2) A person who was an authorised officer within the meaning of section 2 immediately before the commencement of section 75 of the Air Navigation and Transport Act 2022 shall, on and after that commencement, be deemed to be authorised under subsection (1) on the same terms and conditions as he or she was such authorised officer immediately before that commencement.
 
