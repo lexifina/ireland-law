@@ -6,6 +6,8 @@ Revised Fire Safety Certificate.
 
 (ii) where significant revision is made to the design or works of a building or an extension of, a material alteration to or a material change of use of a building in respect of which a fire safety certificate has been granted by a building control authority.
 
+(aa) A Revised Fire Safety certificate shall not be required in respect of works to a Tier 1 building or a Tier 2 building provided that the works are carried out in accordance with the Code of Practice for the Remediation of Fire Safety Defects, published under Section 18(A) of the Fire Services Acts 1981 and 2003.
+
 (b) Where a revised fire safety certificate is required in respect of all works or buildings, a person shall not carry out such works or make a material change of use as regards such a building—
 
 (i) in the absence of a revised fire safety certificate in respect of the works or building, or
