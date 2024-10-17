@@ -1,4 +1,4 @@
-F20[Excluding orders.
+F21[Excluding orders.
 
 4.—(1) If, on the making of an application for an excluding order relating to a house or between the making of the application and its determination, the court is of the opinion that there are reasonable grounds for believing that, if the order is not made immediately, there is an immediate risk of significant harm to any person residing, working or otherwise lawfully in or in the vicinity of such house or of a housing estate in which such house is situate, the court may by order (in this Act referred to as an ‘interim excluding order’)—
 

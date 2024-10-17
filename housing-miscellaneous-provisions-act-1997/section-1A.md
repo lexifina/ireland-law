@@ -1,4 +1,4 @@
-F9[Person ceasing to be relevant purchaser
+F10[Person ceasing to be relevant purchaser
 
 1A. (1) A person shall cease to be a relevant purchaser for the purposes of this Act—
 

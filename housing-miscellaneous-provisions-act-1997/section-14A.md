@@ -1,4 +1,4 @@
-F36[Authorisation to occupy caravan on site.
+F38[Authorisation to occupy caravan on site.
 
 14A. Notwithstanding anything contained in the Housing Acts 1966 to 2014, a housing authority may refuse or defer an authorisation to a person to occupy a caravan on a site where—
 
