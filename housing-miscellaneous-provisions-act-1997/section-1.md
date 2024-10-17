@@ -2,9 +2,9 @@ Interpretation.
 
 1.—(1) In this Act, unless the context otherwise requires—
 
-‘affordable house’ means an affordable house provided under Part V of the Planning and Development Act 2000 or Part 2 of the Housing (Miscellaneous Provisions) Act 2002 or an affordable dwelling purchased under an affordable dwelling purchase arrangement under Part 2 of the Affordable Housing Act 2021 as the case may be;
+"affordable house" means an affordable house provided under Part V of the Planning and Development Act 2000 or Part 2 of the Housing (Miscellaneous Provisions) Act 2002 or an affordable dwelling purchased under an affordable dwelling purchase arrangement under Part 2 of the Affordable Housing Act 2021 as the case may be;
 
-‘anti-social behaviour’ includes either or both of the following, namely—
+"anti-social behaviour" includes either or both of the following, namely—
 
 (a) the manufacture, production, preparation, importation, exportation, sale, supply, possession for the purposes of sale or supply, or distribution of a controlled drug (within the meaning of the Misuse of Drugs Acts 1977 to 2007),
 
@@ -16,15 +16,17 @@ Interpretation.
 
 (iii) damage to or defacement by writing or other marks of any property, including a person’s home;
 
-‘caravan’ has the meaning assigned to it by section 13 of the Housing Act, 1988 (as amended by the Housing (Traveller Accommodation) Act, 1998);
+"caravan" has the meaning assigned to it by section 13 of the Housing Act, 1988 (as amended by the Housing (Traveller Accommodation) Act, 1998);
 
 “estate management” includes—
 
-(a) the securing or promotion of the interests of any tenants, lessees, owners or occupiers, whether individually or generally, in the enjoyment of any house, building or land provided by a housing authority under the Housing Acts 1966 to 2002 or Part V of the Planning and Development Act 2000,
+(a) the securing or promotion of the interests of any tenants, lessees, owners or occupiers, whether individually or generally, in the enjoyment of any house, building or land provided by a housing authority under the
+
+Housing Acts 1966 to 2002 or Part V of the Planning and Development Act 2000,
 
 (b) the avoidance, prevention or abatement of anti-social behaviour in any housing estate in which is situate a house provided by a housing authority under the Housing Acts 1966 to 2002 or Part V of the Planning and Development Act 2000 or a site;
 
-‘excluding order’ has, where the context admits or requires, the meaning assigned to it by subsection (1) or (2) of section 3;
+"excluding order" has, where the context admits or requires, the meaning assigned to it by subsection (1) or (2) of section 3;
 
 “health board” means a health board within the meaning of the Health Act, 1970;
 
@@ -32,7 +34,7 @@ Interpretation.
 
 “housing authority” has the meaning assigned to it by section 1 of the Housing (Miscellaneous Provisions) Act, 1992;
 
-‘relevant purchaser’ means (subject to section 1A)—
+"relevant purchaser" means (subject to section 1A)—
 
 (a) a person to whom a housing authority has sold a house under the Housing Acts 1966 to 2014 other than an affordable house, or
 
@@ -40,13 +42,13 @@ Interpretation.
 
 “respondent” has the meaning assigned to it by section 3 or where appropriate under section 3A;
 
-‘site’ means—
+"site" means—
 
 (a) a site to which section 13 of the Housing Act, 1988, (as amended by the Housing (Traveller Accommodation) Act, 1998) applies, and
 
 (b) a site provided or managed under section 6 of the Housing (Miscellaneous Provisions) Act, 1992;
 
-‘site excluding order’ has the meaning assigned to it by section 3A;
+"site excluding order" has the meaning assigned to it by section 3A;
 
 “tenant” means any person to whom a housing authority have let a house under the Housing Acts 1966 to 2002 or Part V of the Planning and Development Act 2000 or to whom a dwelling is let under a Chapter 4 tenancy agreement (within the meaning of the Housing (Miscellaneous Provisions) Act 2009).
 
