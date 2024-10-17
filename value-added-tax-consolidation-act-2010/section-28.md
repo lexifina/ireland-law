@@ -10,6 +10,14 @@ Special rules in relation to supplies of services.
 
 (3) Where a person is indemnified under a policy of insurance in respect of any amount payable in respect of services of a barrister or solicitor, those services shall be deemed, for the purposes of this Act, to be supplied to, and received by, such person.
 
+(3A) (a) Where an injured party receives compensation pursuant to the Act of 2024 in respect of any amount payable in respect of services of a barrister or solicitor, those services shall be deemed, for the purposes of this Act, to be supplied to, and received by, the holder of the contract of insurance concerned under which the injured party was covered in respect of loss or injury caused by a vehicle.
+
+(b) In paragraph (a)—
+
+"Act of 2024" means the Motor Insurance Insolvency Compensation Act 2024;
+
+"injured party" has the meaning assigned to it by the Act of 2024.
+
 (4) Where, in the case of a business carried on, or that has ceased to be carried on, by an accountable person, services (being services that are supplied using the assets or part of the assets of an accountable person) are, under any power exercisable by another person (including a receiver or liquidator), supplied by that other person in or towards the satisfaction of a debt owed by the accountable person, or in the course of winding up of a company, then those services shall be deemed to be supplied by the accountable person in the course or furtherance of his or her business.
 
 (5) Where another person (including a receiver or liquidator), under any power exercisable by that other person, in or towards the satisfaction of a debt owed by a taxable person, or in the course of winding up of a company—
