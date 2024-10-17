@@ -1,4 +1,4 @@
-F19[Agency may procure foreign currency for Government Minister or designated body.
+F21[Agency may procure foreign currency for Government Minister or designated body.
 
 25A.— (1) Subject to first receiving the consent of the Minister for Finance, a Minister of the Government or a designated body may request the Agency to procure for that Minister of the Government or designated body, as the case may be, foreign currency on terms and conditions agreed between—
 
