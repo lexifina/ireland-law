@@ -1,6 +1,6 @@
 Restriction on termination of certain tenancies by landlords.
 
-35A. (1) In this section—
+35A.—(1) In this section—
 
 "development" means a development consisting of land upon which there stands erected a building or buildings comprising a unit or units where, as respects such unit or units, it is intended that amenities, facilities and services are to be shared;
 

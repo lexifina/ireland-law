@@ -1,6 +1,6 @@
 Investigation report and decision.
 
-148X. (1) Subject to subsection (3), where an authorised officer has completed an investigation, the authorised officer shall, as soon as is practicable after having considered, in so far as they are relevant to the investigation, any information or records provided to the authorised officer pursuant to any requirement under section 148S, any statement or admission made by any person pursuant to any requirement under that section, any submissions made and any evidence presented (whether at an oral hearing referred to in section 148S(14) or otherwise)—
+148X.—(1) Subject to subsection (3), where an authorised officer has completed an investigation, the authorised officer shall, as soon as is practicable after having considered, in so far as they are relevant to the investigation, any information or records provided to the authorised officer pursuant to any requirement under section 148S, any statement or admission made by any person pursuant to any requirement under that section, any submissions made and any evidence presented (whether at an oral hearing referred to in section 148S(14) or otherwise)—
 
 (a) prepare a draft of the investigation report, and
 

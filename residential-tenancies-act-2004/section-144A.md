@@ -1,6 +1,6 @@
 Enforcement of requirement to update particulars.
 
-144A. (1) As soon as practicable after it has formed the opinion that a landlord under a tenancy has failed to comply with section 139(1), the Board shall serve the notice referred to in subsection (2).
+144A.—(1) As soon as practicable after it has formed the opinion that a landlord under a tenancy has failed to comply with section 139(1), the Board shall serve the notice referred to in subsection (2).
 
 (2) The notice shall—
 

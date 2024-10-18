@@ -1,6 +1,6 @@
 Application of Act to dwellings referred to in section 3(4): supplemental provisions.
 
-3B. For the purposes of the application of this Act to a dwelling the subject of a tenancy referred to in section 3(4) (inserted by section 3 of the Residential Tenancies (Amendment) Act 2015)—
+3B.—For the purposes of the application of this Act to a dwelling the subject of a tenancy referred to in section 3(4) (inserted by section 3 of the Residential Tenancies (Amendment) Act 2015)—
 
 (a) a reference in Part 4 to a "continuous period of 6 months", means a continuous period of 6 months that commences on or after the commencement of section 3(4),
 

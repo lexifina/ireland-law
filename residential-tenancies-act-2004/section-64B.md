@@ -2,7 +2,7 @@
 
 Duration of tenancy for purposes of this Chapter.
 
-64B. (1) For the purposes of this Chapter, a Part 4 tenancy and any further Part 4 tenancy entered into following the expiration of—
+64B.—(1) For the purposes of this Chapter, a Part 4 tenancy and any further Part 4 tenancy entered into following the expiration of—
 
 (a) the said Part 4 tenancy, or
 

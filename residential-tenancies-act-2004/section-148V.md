@@ -1,6 +1,6 @@
 Notice of investigation.
 
-148V. (1) The authorised officer appointed by the Board under section 148U shall, subject to subsection (2), as soon as is practicable after being so appointed—
+148V. —(1) The authorised officer appointed by the Board under section 148U shall, subject to subsection (2), as soon as is practicable after being so appointed—
 
 (a) if the investigation arises following receipt of a complaint by the Board—
 

@@ -1,6 +1,6 @@
 Restrictions on amounts payable.
 
-19B. (1) Payment shall not be sought from a person or a person shall not be required, for the purpose of securing a tenancy, to make any payment other than—
+19B.—(1) Payment shall not be sought from a person or a person shall not be required, for the purpose of securing a tenancy, to make any payment other than—
 
 (a) an advance payment of rent, which shall be no greater than the amount of rent payable under the tenancy agreement in respect of a period of one month, and
 

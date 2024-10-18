@@ -1,6 +1,6 @@
 Matters to be considered in determining nature of sanction.
 
-148AD. The Circuit Court or the decision maker, as appropriate, in considering the sanction (if any) to be imposed on a landlord pursuant to subsection (4)(a) or (5) of section 148X or confirmed or given under section 148AA(3) or 148AB(2), shall take into account the circumstances of the improper conduct concerned (including the factors occasioning it) and, without prejudice to the generality of the foregoing, may have regard to—
+148AD.—The Circuit Court or the decision maker, as appropriate, in considering the sanction (if any) to be imposed on a landlord pursuant to subsection (4)(a) or (5) of section 148X or confirmed or given under section 148AA(3) or 148AB(2), shall take into account the circumstances of the improper conduct concerned (including the factors occasioning it) and, without prejudice to the generality of the foregoing, may have regard to—
 
 (a) the need to ensure that any sanction imposed—
 

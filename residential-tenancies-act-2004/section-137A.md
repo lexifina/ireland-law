@@ -1,6 +1,6 @@
 Fee to accompany application under section 134(2A).
 
-137A. (1) Subject to subsections (2) and (6), the fee that is required to accompany an application referred to in subsection (2A) of section 134 shall—
+137A.—(1) Subject to subsections (2) and (6), the fee that is required to accompany an application referred to in subsection (2A) of section 134 shall—
 
 (a) in the case of an application made during the period of 12 months after the commencement of section 26 of the Residential Tenancies (Amendment) Act 2019, be €20, or
 

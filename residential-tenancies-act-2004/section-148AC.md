@@ -1,6 +1,6 @@
 Provisions supplementary to sections 148AA and 148AB.
 
-148AC. (1) The decision of the Circuit Court on an appeal under section 148AA or an application under section 148AB is final except that the Board or the landlord the subject of the decision may, by leave of the Circuit Court, appeal against the decision to the High Court on a point of law.
+148AC.—(1) The decision of the Circuit Court on an appeal under section 148AA or an application under section 148AB is final except that the Board or the landlord the subject of the decision may, by leave of the Circuit Court, appeal against the decision to the High Court on a point of law.
 
 (2) Where the Circuit Court confirms or gives a decision under section 148AA(3) or 148AB(2), the Board shall, as soon as is practicable after the decision is confirmed or given, as the case may be, give notice in writing of the decision to the landlord.
 

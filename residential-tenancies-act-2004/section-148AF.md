@@ -1,6 +1,6 @@
 Procedural rules.
 
-148AF. (1) The procedure to be followed under this Part in relation to an investigation shall, subject to this Part, be such as shall be determined by the Board by rules made by it with the consent of the Minister.
+148AF.—(1) The procedure to be followed under this Part in relation to an investigation shall, subject to this Part, be such as shall be determined by the Board by rules made by it with the consent of the Minister.
 
 (2) Without prejudice to the generality of subsection (1), rules under this section may—
 

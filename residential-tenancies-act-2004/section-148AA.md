@@ -1,6 +1,6 @@
 Appeal to Circuit Court against decision to impose sanction.
 
-148AA. (1) A landlord the subject of a decision under subsection (4)(a) or (5) of section 148X by the decision maker to impose a sanction on the landlord may, not later than 21 days from the giving by the Board to the landlord of the decision notice, appeal to the Circuit Court against the decision.
+148AA.—(1) A landlord the subject of a decision under subsection (4)(a) or (5) of section 148X by the decision maker to impose a sanction on the landlord may, not later than 21 days from the giving by the Board to the landlord of the decision notice, appeal to the Circuit Court against the decision.
 
 (2) The Circuit Court may, on the hearing of an appeal under subsection (1) by a landlord, consider any evidence adduced or argument made, whether or not adduced or made to an authorised officer or the decision maker.
 

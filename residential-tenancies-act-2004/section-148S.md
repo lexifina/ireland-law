@@ -1,6 +1,6 @@
 Powers of authorised officer.
 
-148S. (1) For the purposes of carrying out an investigation, an authorised officer may—
+148S.—(1) For the purposes of carrying out an investigation, an authorised officer may—
 
 (a) subject to subsections (12) and (13), at all reasonable times enter, inspect, examine and search any premises where he or she has reasonable grounds for believing that any activity in connection with the letting or tenancy of a dwelling is carried on,
 

@@ -1,6 +1,6 @@
 Duration of tenancy for dwellings referred to in section 3(1A).
 
-19C. (1) The duration of a tenancy of a relevant dwelling shall not exceed a period of 41 weeks.
+19C.—(1) The duration of a tenancy of a relevant dwelling shall not exceed a period of 41 weeks.
 
 (2) A landlord shall not request that a person enters or require a person to enter into a lease or tenancy agreement in relation to a relevant dwelling the duration of which exceeds a period of 41 weeks.
 
