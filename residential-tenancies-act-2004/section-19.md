@@ -138,7 +138,7 @@ Setting of rent above market rent prohibited.
 
 (a) a notice under section 22(2) has been served on the tenant, or
 
-(b) the review of the rent concerned has commenced, before the relevant date, or, if an order is made by the Minister under section 24A(5) in respect of an area where the dwelling concerned is situate, before the date of the coming into operation of the order, then subsections (3) and (4) shall not apply to the new rent, referred to in section 22(2), stated in that notice in accordance with that section.
+(b) the review of the rent concerned has commenced, before the relevant date, or, if an order is made by the Minister under section 24A(5) or (6A) in respect of an area where the dwelling concerned is situate, before the date of the coming into operation of the order, then subsections (3) and (4) shall not apply to the new rent, referred to in section 22(2), stated in that notice in accordance with that section.
 
 (6A) A person who fails to comply with the requirements of subsection (4) ... shall be guilty of an offence.
 

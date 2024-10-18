@@ -1,9 +1,9 @@
 Application of section 20 (frequency with which rent reviews may occur) to rent pressure zones.
 
-24C. (1) Where a tenancy commenced before the relevant date (within the meaning of section 19(7)) and the area in which the tenancy is situated is in a rent pressure zone (within the meaning of that section), then—
+24C.—(1) Where a tenancy commenced before the relevant date (within the meaning of section 19(7)) or, where an order under section 24A(5) or (6A) applies to the area in which the tenancy is situated, before the date of the coming into operation of that order, and the area in which the tenancy is situated is in a rent pressure zone within the meaning of section 19(7), then—
 
-(a) the first rent review after the relevant date shall be carried out in accordance with section 20, and
+(a) the first rent review after the relevant date or, where an order is made by the Minister under section 24A(5) or (6A) in respect of the area in which the dwelling is situate, the first rent review after the date of the coming into operation of that order, shall be carried out in accordance with section 20, and
 
 (b) any subsequent rent review shall be carried out as if subsections (4) to (6) of section 20 had not been enacted.
 
-(2) Where a tenancy commences on or after the relevant date (within the meaning of section 19(7)), and the area in which the tenancy is situated is in a rent pressure zone (within the meaning of that section), then any rent review after that date shall be carried out as if subsections (4) to (6) of section 20 had not been enacted.
+(2) Where a tenancy commences on or after the relevant date (within the meaning of section 19(7)) or, where an order under section 24A(5) or (6A) applies to the area in which the tenancy is situated, on or after the date of the coming into operation of that order, and the area in which the tenancy is situated is in a rent pressure zone within the meaning of section 19(7), then any rent review after that date shall be carried out as if subsections (4) to (6) of section 20 had not been enacted.
