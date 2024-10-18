@@ -10,7 +10,7 @@ Functions of Commission in relation to Electricity Costs Emergency Benefit Schem
 
 (d) to report to the Minister, at such intervals as are agreed by the Commission and the Minister, in relation to the performance by the distribution system operator and electricity suppliers of the respective functions conferred on them by or under the Act of 2023;
 
-(e) to consider any objection made to the Commission under section 6 (6) of the Act of 2023;
+(e) to consider any objection made to the Commission under section 6(6) of the Act of 2023;
 
 (f) to establish procedures for the consideration of an objection made to the Commission under section 6 (6) of the Act of 2023 and to publish such procedures on its website on or before 1 December 2023.
 
