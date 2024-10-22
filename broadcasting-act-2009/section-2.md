@@ -16,13 +16,17 @@ Definitions.
 
 “audiovisual broadcasting service” means an audiovisual media service provided for simultaneous or near-simultaneous viewing of audiovisual programmes on the basis of a programme schedule;
 
-“audiovisual commercial communication” means a commercial communication consisting of images with or without sound;
+“audiovisual commercial communication” means a commercial communication consisting of images with or without sound , including sponsorship and product placement;
 
-“audiovisual media service” means a service, within the meaning of Articles 56 and 57 of the Treaty on the Functioning of the European Union, where—
+"audiovisual media service" means:
 
-(a) the principal purpose of the service is devoted to, or
+(a) a service, within the meaning of Articles 56 and 57 of the Treaty on the Functioning of the European Union, where -
 
-(b) the principal purpose of a dissociable section of the service is devoted to, providing audiovisual programmes, by electronic communications networks, to the general public, under the editorial responsibility of the provider of the service, in order to inform, entertain or educate;
+(i) the principal purpose of the service is devoted to, or
+
+(ii) the principal purpose of a dissociable section of the service is devoted to, providing audiovisual programmes, by electronic communications networks, to the general public, under the editorial responsibility of the provider of the service, in order to inform, entertain or educate, or
+
+(b) an audiovisual commercial communication;
 
 “audiovisual on-demand media service” means an audiovisual media service provided for the viewing of programmes at the moment chosen by the user and at the user’s request on the basis of a catalogue of programmes selected by the provider of the service;
 
@@ -96,9 +100,9 @@ Definitions.
 
 “Council Directive” means Council Directive 89/552/EEC of 3 October 1989 on the co-ordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities as amended by Directive 97/36/EC of the European Parliament and of the Council of 30 June 1997 and by Directive 2007/65/EC of the European Parliament and of the Council of 11 December 2007;
 
-“Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
+OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2007
 
-OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2007 OJ No. L. 119, 4.5.2016, p. 1
+“Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “designated online service” means a service designated under section 139E;
 
@@ -134,11 +138,13 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 
 (d) being retained under contract, directly or indirectly, in any capacity as an adviser, consultant or lobbyist, or for the provision of services;
 
+OJ No. L. 119, 4.5.2016, p. 1
+
+OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
+
 “establishment day” means the day appointed by the Minister under section 5 to be the establishment day for the purposes of this Act;
 
 ...
-
-OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
 
 “exploitation of commercial opportunities object” means an activity undertaken by a corporation in pursuance of paragraph (j) of section 114(1) or paragraph (i) of section 118(1);
 
@@ -206,6 +212,8 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 “personal data” has the same meaning as it has in the Data Protection Regulation;
 
+"product placement" means any form of audiovisual commercial communication consisting of the inclusion of, or reference to, a product, a service or the trade mark thereof so that it is featured within a programme or a user-generated video, in return for payment or for similar consideration;
+
 “programme”means a sound programme or audiovisual programme;
 
 “programme material” (subject to section 153) means audio-visual material or audio material and includes advertisements ...;
@@ -240,8 +248,6 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 (i) the provider of which is under the jurisdiction of the State, and
 
-OJ No. L. 241, 17.9.2015, p. 1
-
 (ii) on which user-generated content is made available (directly or through providing access to another service), but does not include an audiovisual on-demand media service;
 
 “RTÉ” means Raidió Teilifís Éireann;
@@ -253,6 +259,8 @@ OJ No. L. 241, 17.9.2015, p. 1
 (a) the principal purpose of the service is devoted to providing sound programmes, by electronic communications networks, to the general public, under the editorial responsibility of the provider of the service, in order to inform, entertain or educate, and
 
 (b) the service is provided for simultaneous or near-simultaneous listening to sound programmes on the basis of a programme schedule;
+
+"sponsorship" means any contribution made by a public or private undertaking or natural person not engaged in providing audiovisual media services or video-sharing platform services or in producing audiovisual works to the financing of audiovisual media services, video-sharing platform services, user-generated videos or programmes with a view to promoting the name, trade mark, image, activities or products of the undertaking or person.
 
 “statutory committee” means the Contract Awards Committee or the Compliance Committee or both, as the case may be;
 
@@ -269,6 +277,8 @@ OJ No. L. 241, 17.9.2015, p. 1
 “television programme service” means a service which comprises a compilation of audio-visual programme material of any description and is transmitted, distributed or relayed by means of wireless telegraphy directly or indirectly for reception by the general public;
 
 “television programme service contract” and “television programme service contractor” have the same meaning as they have in section 70;
+
+OJ No. L. 241, 17.9.2015, p. 1
 
 “television licence fees” means a fee paid on a licence granted under section 143 in respect of a television set (within the meaning of section 140);
 
