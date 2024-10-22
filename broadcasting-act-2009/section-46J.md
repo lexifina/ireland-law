@@ -14,4 +14,6 @@ Harm, offence, incitement, and authority of State.
 
 (e) anything which may reasonably be regarded as tending to undermine the authority of the State.
 
+OJ No. L. 88, 31.3.2017
+
 (2) A failure to comply with subsection (1) shall be a contravention for the purposes of Part 8B.
