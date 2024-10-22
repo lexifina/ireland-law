@@ -10,6 +10,8 @@ Procedure for giving notices.
 
 (d) by sending it to the person by electronic means in accordance with subsection (5).
 
+OJ No. L. 241, 17.9.2015
+
 (2) Subsection (1) does not apply to a notice under section 147, a reminder notification or fixed payment notice under section 149, or a notification under Part 11.
 
 (3) In subsection (1)(b) and (c), “relevant address” means any of the following:
@@ -21,8 +23,6 @@ Procedure for giving notices.
 (c) a postal address at which the person has agreed in writing to receive notices under this Act.
 
 (4) For the purposes of subsection (3)(a), a company registered under the Companies Act 2014, or an existing company within the meaning of that Act, is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.
-
-OJ No. L. 241, 17.9.2015
 
 (5) For the purposes of subsection (1)(d), a notice is sent to a person by electronic means in accordance with this subsection if—
 

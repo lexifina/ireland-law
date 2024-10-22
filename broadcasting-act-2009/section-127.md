@@ -24,7 +24,9 @@ Bealach Scannán na hÉireann (Irish Film Channel).
 
 (7) Film and cinema works broadcast by the Irish Film Channel shall be broadcast uninterrupted by advertisements or acknowledgements of sponsorship.
 
-(8) The Minister, if so requested by An Coimisiún Toghcháin following consultation by An Coimisiún Toghcháin with the Irish Film Channel and consideration of any proposals of the Irish Film Channel for broadcasts in connection with the referendum that it communicates to An Coimisiún Toghcháin, shall direct the Irish Film Channel in writing to allocate broadcasting time to facilitate An Coimisiún Toghcháin in performing its functions, and the Irish Film Channel shall comply with a direction under this subsection.
+(8) The Minister, if so requested by An Coimisiún Toghcháin following consultation by An Coimisiún Toghcháin with the Irish Film Channel and consideration of any proposals of the Irish Film Channel for broadcasts in connection with the referendum that it communicates to An Coimisiún Toghcháin, shall direct the Irish Film Channel in writing to allocate broadcasting time to facilitate
+
+An Coimisiún Toghcháin in performing its functions, and the Irish Film Channel shall comply with a direction under this subsection.
 
 (9) Charges and conditions referred to in subsection (4) may be fixed subject to variations benefiting advertisers who use the Irish language in their advertisements.
 
