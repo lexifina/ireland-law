@@ -1,8 +1,8 @@
 Application for a waste licence or review of a waste licence.
 
-42.—(1) (a) Where a person proposes to make an application to the Agency for the grant of a waste licence under section 40or for the review of a waste licence under section 46, he or she shall publish or give notice of his or her intention to do so in such form and to such persons as may be prescribed under section 45.
+42.—(1) (a) Where a person proposes to make an application to the Agency for the grant of a waste licence under section 40 or for the review of a waste licence under section 46, he or she shall publish or give notice of his or her intention to do so in such form and to such persons as may be prescribed under section 45.
 
-(b) Where the Agency proposes to review a waste licence under section 46 (1), it shall publish such notice as may be prescribed under section 45for the purposes of this section, and shall give notice in writing to the holder of the licence and, where appropriate, to the local authority in whose functional area the activity, the subject matter of the licence, is carried on, and to such other persons (if any) as may be so prescribed, of its intention to conduct such a review.
+(b) Where the Agency proposes to review a waste licence under section 46 (1), it shall publish such notice as may be prescribed under section 45 for the purposes of this section, and shall give notice in writing to the holder of the licence and, where appropriate, to the local authority in whose functional area the activity, the subject matter of the licence, is carried on, and to such other persons (if any) as may be so prescribed, of its intention to conduct such a review.
 
 (1A) In subsections (1B) to (1I)—
 
