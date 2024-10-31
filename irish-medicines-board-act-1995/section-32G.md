@@ -1,0 +1,3 @@
+Substitution by pharmacists in case of medicinal product shortage.
+
+32G.— ...
