@@ -1,6 +1,6 @@
 Operation of section 14 of Act of 2011 (prescribing of certain matters).
 
-14A. (1) Where the Minister is satisfied to do so, having—
+14A.— (1) Where the Minister is satisfied to do so, having—
 
 (a) regard to any of the matters specified in subsection (2),
 
