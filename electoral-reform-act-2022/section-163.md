@@ -34,6 +34,4 @@ Codes of conduct
 
 (e) the right to freedom of assembly.
 
-(7) Where, in the opinion of the Commission, a person to whom a [mandatory] code of conduct is addressed is failing or has failed to comply with the code, the Commission may apply, by motion, to the High Court for an order directing the person to comply with the code, and the Court may, as it thinks fit, on the hearing of the application, make or refuse to make such an order.
-
-Chapter 6
+(7) Where, in the opinion of the Commission, a person to whom a [mandatory] code of conduct is addressed is failing or has failed to comply with the code, the Commission may apply, by motion, to the High Court for an order directing the person to comply with the code, and the Court may, as it thinks fit, on the hearing of the application, make or refuse to make such an order. Chapter 6
