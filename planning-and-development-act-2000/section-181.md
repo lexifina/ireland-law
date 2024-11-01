@@ -62,9 +62,7 @@ Development by State authorities.
 
 (bb) Notice of a declaration made under paragraph (ba) shall, as soon as may be, be published in Iris Oifigiúil and in at least one daily newspaper published in the State.
 
-(c) An application for approval referred to in paragraph (b) shall include a draft of the order the Minister concerned proposes to make under subsection
-
-(2)(a), the plans, drawings and particulars in relation to the proposed development and, other than where an exemption is granted under subsection (2I) or a declaration is made under paragraph (ba)(ii), an environmental impact assessment report or Natura impact statement, or both that report and that statement, as the case may be, in respect of the development.
+(c) An application for approval referred to in paragraph (b) shall include a draft of the order the Minister concerned proposes to make under subsection (2)(a), the plans, drawings and particulars in relation to the proposed development and, other than where an exemption is granted under subsection (2I) or a declaration is made under paragraph (ba)(ii), an environmental impact assessment report or Natura impact statement, or both that report and that statement, as the case may be, in respect of the development.
 
 (d) The environmental impact assessment report and the Natura impact statement provided under paragraph (c) shall, as appropriate, comply with the requirements of Parts X and XAB respectively.
 
