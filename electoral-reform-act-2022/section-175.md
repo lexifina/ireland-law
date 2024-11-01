@@ -22,6 +22,4 @@ Advance polling
 
 (a) occurring worldwide or over a very wide area, crossing international boundaries and affecting a large number of people, and
 
-(b) which has been declared by the World Health Organisation to be a pandemic.”.
-
-Chapter 4
+(b) which has been declared by the World Health Organisation to be a pandemic.”. Chapter 4
