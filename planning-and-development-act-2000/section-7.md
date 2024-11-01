@@ -4,7 +4,7 @@ Planning register.
 
 (2) A planning authority shall enter in the register—
 
-(a) particulars of any application made to it under this Act for permission for development, for retention of development, for substitute consent ..., or for outline permission for development (including the name and address of the applicant, the date of receipt of the application and brief particulars of the development or retention forming the subject of the application),
+(a) particulars of any application made to it under this Act for permission for development, for retention of development, f2or substitute consent ..., or for outline permission for development (including the name and address of the applicant, the date of receipt of the application and brief particulars of the development or retention forming the subject of the application),
 
 (b) where an environmental impact assessment report, remedial environmental impact assessment report, Natura impact statement or remedial Natura impact statement was submitted in respect of an application, an indication of this fact,
 

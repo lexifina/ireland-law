@@ -86,6 +86,8 @@ Interpretation.
 
 "confirmation notice" means the confirmation notice sent pursuant to article 97B(2) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001) following the entering onto the EIA portal of the information referred to in article 97A of those Regulations to which that notice relates;
 
+O.J.No. 20, 26.1.2010 p 7-25
+
 "core strategy" shall be construed in accordance with section 10 (inserted by section 7 of the Planning and Development (Amendment) Act 2010);
 
 ...
@@ -109,8 +111,6 @@ Interpretation.
 “enforcement notice” means an enforcement notice under section 154;
 
 "Environmental impact assessment" has the meaning given to it by section 171A;
-
-O.J.No. 20, 26.1.2010 p 7-25
 
 "Environmental Impact Assessment Directive" means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
 
@@ -144,13 +144,7 @@ O.J.No. 20, 26.1.2010 p 7-25
 
 (c) was provided for use as a dwelling but has not been occupied;
 
-"Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the
-
-O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
-
-O.J.No.L305, 8.11.1997, p 42-65
-
-Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
+"Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
 
 “house” means a building or part of a building which is being or has been occupied as a dwelling or was provided for use as a dwelling but has not been occupied, and where appropriate, includes a building which was designed for use as 2 or more dwellings or a flat, an apartment or other dwelling within such a building;
 
@@ -165,6 +159,10 @@ Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adj
 "large-scale residential development" means a development that includes—
 
 (a) the development of 100 or more houses,
+
+O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
+
+O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
 
 (b) the development of student accommodation that includes 200 or more bed spaces,
 
@@ -190,9 +188,7 @@ Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adj
 
 "LRD opinion" has the meaning given to it by section 32D;
 
-"LRD floor space", in relation to a building or part of a building, means the area ascertained by the internal measurement of the floor space on each floor of a building
-
-O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63 or part of a building (including internal walls and partitions), disregarding any floor space provided for—
+"LRD floor space", in relation to a building or part of a building, means the area ascertained by the internal measurement of the floor space on each floor of a building or part of a building (including internal walls and partitions), disregarding any floor space provided for—
 
 (a) the parking of vehicles by persons—
 
@@ -211,6 +207,8 @@ O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 05
 "maritime area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 "maritime area consent" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
+O.J.No. L345, 31.12.2003 p.97-105
 
 "maritime site" means a part of the maritime area, and includes—
 
@@ -237,8 +235,6 @@ O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 05
 "National Marine Planning Framework" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 "national newspaper" has the meaning assigned to it by the Maritime Area Planning Act 2021;
-
-O.J.No. L345, 31.12.2003 p.97-105
 
 "National Spatial Strategy" means the "National Spatial Strategy: 2002 – 2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy;
 
@@ -300,7 +296,7 @@ O.J.No. L345, 31.12.2003 p.97-105
 
 (i) in the case of a referral under section 193, the person by whom the application for permission for erection of the new structure was made,
 
-(j) the applicant for a licence under section 254 in relation to which an appeal is made by another person (other than a person acting on behalf of the appellant), and “party” shalcl be construed accordingly;
+(j) the applicant for a licence under section 254 in relation to which an appeal is made by another person (other than a person acting on behalf of the appellant), and “party” shall be construed accordingly;
 
 "permission" means a permission granted under section 34, 37G, 37N or 293, as appropriate;
 
