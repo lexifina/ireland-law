@@ -26,13 +26,25 @@ Restrictions on obligations of controllers and rights of data subjects for impor
 
 (b) the personal data relating to the data subject consist of an expression of opinion about the data subject by another person given in confidence or on the understanding that it would be treated as confidential to a person who has a legitimate interest in receiving the information, or
 
-(c) the personal data concerned are kept—
+(c) the restrictions are, having regard to the matters specified in subsection (3A), necessary and proportionate to safeguard the performance—
 
-(i) by the Commission for the performance of its functions,
+(i) by the Commission of its functions,
 
-(ii) by the Information Commissioner for the performance of his or her functions, or
+(ii) by the Information Commissioner of his or her functions, or
 
-(iii) by the Comptroller and Auditor General for the performance of his or her functions.
+(iii) by the Comptroller and Auditor General of his or her functions.
+
+(3A) In determining, for the purposes of subsection (3)(c), whether the restriction of a right or an obligation is necessary and proportionate to safeguard the performance of a function, the Commission, Information Commissioner or Comptroller and Auditor General, as the case may be, shall have regard to—
+
+(i) the extent to which the exercise of the right or compliance with the obligation concerned would prejudice the performance of the function, including by—
+
+(I) disclosing that a particular function is being performed, in a case in which such disclosure may prejudice the performance of the function concerned, or
+
+(II) preventing the processing of personal data for a period of time where any delay to the processing may prejudice the performance of that function,
+
+(ii) the need to respect the essence of the right to data protection of a data subject, and
+
+(iii) the risks to the rights and freedoms of a data subject which may result from such a restriction.
 
 (4) The Minister may prescribe requirements to be complied with when the rights and obligations referred to in subsection (1) are restricted in accordance with subsection (3).
 
