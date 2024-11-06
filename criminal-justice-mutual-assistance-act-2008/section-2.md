@@ -134,7 +134,7 @@ Interpretation (general).
 
 (ge) the 2018 Regulation;
 
-(gf) Titles VIII and XI of Part Three of the Trade and Cooperation Agreement;
+(gf) Titles II, VIII and XI of Part Three of the Trade and Cooperation Agreement;
 
 (h) the 1959 Convention;
 
@@ -149,6 +149,8 @@ Interpretation (general).
 (l) Articles 46, 49, 50 and 54 to 57 of the United Nations Convention against Corruption, done at New York on 31 October 2003;
 
 (la) the 1999 Protocol;
+
+(lb) the Second Optional Protocol;
 
 (m) a bilateral agreement between the State and a designated state, or a multilateral agreement between the State and other designated states, for the provision of such assistance; and
 
@@ -170,7 +172,7 @@ Interpretation (general).
 
 (b) includes a revenue offence, if or to the extent that the relevant international instrument or the law of the designated state concerned provides for mutual assistance in respect of such an offence, but
 
-(c) does not, other than in relation to a request for mutual assistance made under Title XI of Part Three of the Trade and Cooperation Agreement, include a political offence;
+(c) does not, other than in relation to a request for mutual assistance made under Title II or Title XI of Part Three of the Trade and Cooperation Agreement, include a political offence;
 
 “Part 7B Regulations” has the meaning assigned to it by section 109(1B);
 
@@ -246,6 +248,8 @@ Interpretation (general).
 
 “Second Additional Protocol” means the Second Additional Protocol of 8 November 2001 to the 1959 Convention;
 
+"Second Optional Protocol" means the Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography, done at New York on 25 May 2000;
+
 “state”, in relation to a state other than the State, includes a territory, whether in the state or outside it—
 
 (a) for whose external relations the state or its government is wholly or partly responsible, and
@@ -300,11 +304,11 @@ Interpretation (general).
 
 (gc) Schedule 7C sets out the English text of the 2018 Regulation,
 
-(gd) Schedule 7D sets out the English text of Titles VIII and XI of Part Three of the Trade and Cooperation Agreement.
-
-(h) Schedule 8 sets out the English text of the 1959 Convention and the First Additional Protocol thereto,
+(gd) Schedule 7D sets out the English text of Titles II, VIII and XI of Part Three of the Trade and Cooperation Agreement.
 
 1 OJ No. L 444, 31.12.2020, p. 14
+
+(h) Schedule 8 sets out the English text of the 1959 Convention and the First Additional Protocol thereto,
 
 (i) Schedule 9 sets out the English text of the Second Additional Protocol to the 1959 Convention,
 
@@ -315,6 +319,8 @@ Interpretation (general).
 (k) Schedule 11 sets out the English text of Articles 13, 14, 18, 19 and 20 of the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000,
 
 (l) Schedule 12 sets out the English text of Articles 46, 49, 50 and 54 to 57 of the United Nations Convention against Corruption, done at New York on 31 October 2003,
+
+(la) Schedule 12A sets out the English text of the Second Optional Protocol,
 
 (m) Schedule 13 sets out the English text of the Agreement on Mutual Legal Assistance between the European Union and the United States of America, done at Washington D.C. on 25 June 2003, and
 
