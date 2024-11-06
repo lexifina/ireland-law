@@ -36,11 +36,7 @@ No. 10 of 1934. Defence Forces (Temporary The whole Act. Provisions) Act, 1934.
 
 No. 26 of 1934. Defence Forces (Temporary The whole Act. Provisions) (No. 2) Act, 1934.
 
-No. 2 of 1935. Public Dance Halls Act, 1935. Section 15, the words “of the Minister for Defence or”. No. and year Short Title Extent of Repeal
-
-(1) (2) (3)
-
-No. 11 of 1935. Defence Forces (Temporary The whole Act. Provisions) Act, 1935.
+No. 2 of 1935. Public Dance Halls Act, 1935. Section 15, the words “of the Minister for Defence or”. No. 11 of 1935. Defence Forces (Temporary The whole Act. Provisions) Act, 1935.
 
 No. 3 of 1936. Defence Forces (Temporary The whole Act. Provisions) Act, 1936.
 
@@ -80,8 +76,6 @@ No. 6 of 1951. Defence Forces (Temporary The whole Act. Provisions) Act, 1951.
 
 No. 2 of 1952. Defence Forces (Temporary The whole Act. Provisions) Act, 1952.
 
-No. 1 of 1953. Defence Forces (Temporary The whole Act. Provisions) Act, 1953. No. and year Short Title Extent of Repeal
-
-(1) (2) (3)
+No. 1 of 1953. Defence Forces (Temporary The whole Act. Provisions) Act, 1953.
 
 No. 5 of 1954. Defence Forces (Temporary The whole Act. Provisions) Act, 1954.

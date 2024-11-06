@@ -36,6 +36,16 @@ Jurisdiction of courts-martial.
 
 (n) an offence under the Criminal Justice (Terrorist Offences) Act 2005.
 
+(1B) A summary court-martial shall not have jurisdiction—
+
+(a) to try any person who is for the time being an officer holding the army rank of lieutenant colonel or the equivalent naval rank or higher commissioned rank,
+
+(b) to try any person for a relevant offence,
+
+(c) to award to any person any sentence greater than imprisonment for a term of six months, or
+
+(d) in the case of an appeal under section 178E, to award any punishment greater than that awardable on summary disposal of the matter under section 177C or 178C, as appropriate.
+
 (2) A limited court-martial shall not have jurisdiction—
 
 (a) to try any person for any offence against military law committed by the person while subject to military law as an officer,

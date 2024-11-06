@@ -6,7 +6,9 @@ Ref. No. Army Ranks Naval Ranks
 
 (1) (2) (3)
 
-1 Maor-Sháirsint or (in English) Oifigeach Barántais or (in English) Sergeant-Major. Warrant Officer.
+1 Maor-Sháirsint or (in English) Oifigeach Barántais or (in English) Sergeant-Major. Warrant Officer. Ref. No. Army Ranks Naval Ranks
+
+(1) (2) (3)
 
 2 Ceathrú-Sháirsint Cathláin or (in Ard-Mhion-Oifigeach Sinsearach or English) Battalion Quartermaster- (in English) Senior Chief Petty Sergeant. Officer.
 
