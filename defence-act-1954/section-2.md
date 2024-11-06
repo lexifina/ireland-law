@@ -24,6 +24,8 @@ Interpretation generally.
 
 "Court-Martial Administrator" means the Court-Martial Administrator appointed under Chapter IVA of Part V of this Act;
 
+"court-martial prosecutor" has the meaning assigned to it by section 184F;
+
 "court-martial rules" means rules made under section 240B with respect to courts-martial; references to the date of attestation of a man shall be construed as references to the date which is, by virtue of section 59, the date of his attestation;
 
 "a day’s pay" means—
@@ -46,7 +48,9 @@ Interpretation generally.
 
 (a) a map, plan, graph, drawing, photograph or record, or
 
-(b) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form; the expression “employed on a State ship” has, in relation to a member of the Defence Forces, the meaning assigned to it by section 6; the word “enemy” includes armed mutineers, armed rebels, armed rioters and pirates; the expression "flag officer" means an officer holding the commissioned naval rank of commodore or higher commissioned naval rank; the expression “fraudulent enlistment” means the act of fraudulently enlisting within the meaning of section 164; the expression "general officer" means an officer holding the commissioned army rank of brigadier-general or higher commissioned army rank;
+(b) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form; the expression “employed on a State ship” has, in relation to a member of the Defence Forces, the meaning assigned to it by section 6; the word “enemy” includes armed mutineers, armed rebels, armed rioters and pirates;
+
+"External Oversight Body" has the meaning assigned to it by section 321; the expression "flag officer" means an officer holding the commissioned naval rank of commodore or higher commissioned naval rank; the expression “fraudulent enlistment” means the act of fraudulently enlisting within the meaning of section 164; the expression "general officer" means an officer holding the commissioned army rank of brigadier-general or higher commissioned army rank;
 
 "intoxicant" includes any alcohol, drug, solvent or any other substance or combination of substances; the word “man” means a person who is for the time being a member of the Defence Forces, but does not include an officer;
 
