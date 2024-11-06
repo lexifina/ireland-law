@@ -14,9 +14,7 @@ Amendment of section 50 of Act of 2006
 
 ‘DNA’ means deoxyribonucleic acid;
 
-‘DNA profile’, in relation to a person, means information comprising a set of identification characteristics of the non-coding part of DNA derived from an examination and analysis of a bodily sample from the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person;
-
-‘guardian’, in relation to a child (including a protected person who is a child), has the meaning it has in the Act of 2014;
+‘DNA profile’, in relation to a person, means information comprising a set of identification characteristics of the non-coding part of DNA derived from an examination and analysis of a bodily sample from the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person; ‘guardian’, in relation to a child (including a protected person who is a child), has the meaning it has in the Act of 2014;
 
 ‘non-coding part of DNA’, in relation to a person, means the chromosome regions of the person’s DNA that are not known to provide for any functional properties of the person;
 
