@@ -1,3 +1,3 @@
 Establishment day.
 
-320.— ...
+320.—The Minister shall by order appoint a day to be the establishment day for the purposes of this Part.

@@ -1,3 +1,5 @@
 Accounts of External Oversight Body.
 
-335.— ...
+335.—(1) The External Oversight Body shall keep, or cause to be kept, in such form as may be approved by the Minister, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, all proper and usual accounts of all money received or expended by it and, in particular, shall keep in such form as may be approved by the Minister all such special accounts (if any) as the Minister may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, from time to time direct.
+
+(2) Accounts kept in accordance with subsection (1) shall be submitted, not later than 1 April in the year immediately following the financial year to which they relate or on such earlier date as the Minister, after consultation with the Minister for Public Expenditure, National Development Plan Delivery and Reform, may direct, to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the Comptroller and Auditor General’s report on the accounts shall be presented to the Minister who shall, as soon as may be after they are so presented, cause copies thereof to be laid before each House of the Oireachtas.
