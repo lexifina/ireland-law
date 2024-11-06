@@ -24,7 +24,7 @@ Offences in relation to courts-martial, etc.
 
 (e) who uses insulting or threatening language or causes any interruption or disturbance in the proceedings of a service tribunal, or
 
-(ea) who communicates with the Director, a member of his staff (including a prosecuting officer), a member of a court-martial board, a military judge or a witness in any proceedings under this Act for the purpose of influencing, directly or indirectly, any decision relating to the performance of their functions, including, as appropriate, a decision to withdraw or not to institute such proceedings or any particular charge in such proceedings or the conduct or trial of any such proceedings, or
+(ea) who communicates with the Director, a member of his staff (including a court-martial prosecutor), a member of a court-martial board, a military judge or a witness in any proceedings under this Act for the purpose of influencing, directly or indirectly, any decision relating to the performance of their functions, including, as appropriate, a decision to withdraw or not to institute such proceedings or any particular charge in such proceedings or the conduct or trial of any such proceedings, or
 
 (eb) who fails, refuses or neglects to comply with a direction of the military judge under section 195, or
 
@@ -32,7 +32,7 @@ Offences in relation to courts-martial, etc.
 
 (f) who does or omits to do any other thing, which, if the service tribunal were a civil court having power to commit for contempt, would be contempt of that court, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court-martial.
 
-(3) If the Director, a member of his staff (including a prosecuting officer), a member of a court-martial board, a military judge or a witness in any proceedings under this Act is of the opinion that a communication is in breach of subsection (2)(ea) of this section, it shall be the duty of that person not to entertain the communication further.
+(3) If the Director, a member of his staff (including a court-martial prosecutor), a member of a court-martial board, a military judge or a witness in any proceedings under this Act is of the opinion that a communication is in breach of subsection (2)(ea) of this section, it shall be the duty of that person not to entertain the communication further.
 
 (4) (a) In the case of the Director or a member of his staff, subsection (2)(ea) of this section does not apply to—
 
