@@ -1,18 +1,22 @@
 Request pursuant to Article 7 of 2008 Council Decision or that Article as applied by 2009 Agreement with Iceland and Norway.
 
-79A.— (1) If the request for obtaining identification evidence for use in a member state under section 78—
+79A.— (1) If the request for obtaining identification evidence for use in a member state or the United Kingdom under section 78—
 
-(a) is pursuant to Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, and
+(a) is pursuant to—
+
+(i) Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, or
+
+(ii) Article 532 of the Trade and Cooperation Agreement, and
 
 (b) is for the DNA profile of a person who is suspected of having committed the offence concerned, then, following compliance with section 79(1), this section shall apply to the request if the identification evidence sought pursuant to the request is not in the possession of the Garda Síochána.
 
 (2) The Commissioner shall instruct a member of the Garda Síochána to inform the person whose DNA profile is sought pursuant to the request that—
 
-(a) his or her DNA profile has been requested by the member state concerned for the purposes of criminal proceedings, or a criminal investigation, in that member state,
+(a) his or her DNA profile has been requested by the member state concerned or the United Kingdom for the purposes of criminal proceedings, or a criminal investigation, in that member state or the United Kingdom, as the case may be,
 
-(b) if he or she consents to provide a DNA sample from which his or her DNA profile may be generated, the DNA profile will be transmitted to the member state concerned in accordance with this Chapter,
+(b) if he or she consents to provide a DNA sample from which his or her DNA profile may be generated, the DNA profile will be transmitted to the member state concerned or the United Kingdom, as the case may be, in accordance with this Chapter,
 
-(c) the DNA profile of the person may be given in evidence in any proceedings in the member state concerned, and
+(c) the DNA profile of the person may be given in evidence in any proceedings in the member state concerned or the United Kingdom, as the case may be, and
 
 (d) if he or she does not consent to provide a DNA sample, an application may be made to a judge of the District Court under subsection (5) for an order under that subsection.
 
@@ -48,7 +52,7 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (11) Before a member of the Garda Síochána takes, or causes to be taken, a DNA sample from a person under subsection (9), (13) or (17), the member shall, as may be appropriate, inform the person of the following:
 
-(a) that the DNA profile of the person has been requested by the member state concerned for the purposes of criminal proceedings, or a criminal investigation, in that member state;
+(a) that the DNA profile of the person has been requested by the member state concerned or the United Kingdom for the purposes of criminal proceedings, or a criminal investigation, in that member state or the United Kingdom, as the case may be;
 
 (b) that an order has been made by a judge of the District Court under subsection (5) authorising the sending of a notice to the person requiring him or her to attend at a named Garda Síochána station on a day, and at a time of day or between times of day, specified in the notice, or, in the event of his or her failure or refusal to comply with the notice, the arrest and detention of the person in a Garda Síochána station for the period specified in the order, for the purpose of having a DNA sample taken from him or her;
 
@@ -58,9 +62,9 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (ii) that another DNA sample may be taken from the person under subsection (13) or (17), as the case may be;
 
-(d) that the DNA sample will be used to generate a DNA profile in respect of the person and that the DNA profile will be transmitted to the member state concerned in accordance with this Chapter;
+(d) that the DNA sample will be used to generate a DNA profile in respect of the person and that the DNA profile will be transmitted to the member state concerned or the United Kingdom, as the case may be, in accordance with this Chapter;
 
-(e) that the DNA profile of the person generated from the DNA sample may be given in evidence in any proceedings in the member state concerned;
+(e) that the DNA profile of the person generated from the DNA sample may be given in evidence in any proceedings in the member state concerned or the United Kingdom, as the case may be;
 
 (f) that the provisions of sections 10(1), 14, 23 and 24, subsections (3) to (7) of section 21 and subsections (3) to (7) of section 22, of the Act of 2014 insofar as they relate to the taking of a non-intimate sample (within the meaning of that Act) from a person shall apply, with any necessary modifications, to the taking of the DNA sample from the person; and
 
@@ -94,7 +98,7 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (ii) the first DNA sample concerned taken from the person concerned has proved to be insufficient or was inadequately labelled, as the case may be, and
 
-(iii) the member state concerned is still seeking the DNA profile of the person concerned pursuant to the request concerned.
+(iii) the member state concerned or the United Kingdom, as the case may be, is still seeking the DNA profile of the person concerned pursuant to the request concerned.
 
 (17) If an order is made under subsection (16) for the purpose of having a second DNA sample taken from the person, subsections (6) to (9) shall, with any necessary modifications, apply to the taking of the second DNA sample from him or her.
 
@@ -114,4 +118,4 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (a) the conduct alleged to constitute the offence concerned would not, if it took place in the State, constitute a relevant offence, or
 
-(b) the request is for the DNA profile of a person who is not suspected of having committed the offence concerned in the member state concerned, then, section 79 and not this section shall apply to the request.
+(b) the request is for the DNA profile of a person who is not suspected of having committed the offence concerned in the member state concerned or the United Kingdom, as the case may be, then, section 79 and not this section shall apply to the request.

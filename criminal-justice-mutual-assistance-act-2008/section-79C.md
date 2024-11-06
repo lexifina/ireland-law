@@ -4,7 +4,7 @@ Recording of supply and receipt of data for requests pursuant to Article 7 of 20
 
 (a) in the case of requests under section 77, and
 
-(b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway.
+(b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, or Article 532 of the Trade and Cooperation Agreement.
 
 (2) The recording of the supply and receipt of data under subsection (1) shall be in a permanent legible form or be capable of being converted into a permanent legible form and shall include the following particulars in relation to the data:
 
@@ -38,6 +38,6 @@ Recording of supply and receipt of data for requests pursuant to Article 7 of 20
 
 (a) in the case of requests under section 77, or
 
-(b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision, or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, shall furnish such of the particulars specified in subsection (2) in relation to those data as the data controller or, as the case may be, controller has, as soon as reasonably practicable, to the Central Authority for the purposes of enabling the Central Authority to comply with this section.
+(b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision, or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, or Article 532 of the Trade and Cooperation Agreement, shall furnish such of the particulars specified in subsection (2) in relation to those data as the data controller or, as the case may be, controller has, as soon as reasonably practicable, to the Central Authority for the purposes of enabling the Central Authority to comply with this section.
 
-(8) In this section "reference code", in relation to the Central Authority or other authority, means the reference code that is assigned to the Central Authority or that other authority, as the case may be, for the purposes of the 2008 Council Decision or the 2009 Agreement with Iceland and Norway.
+(8) In this section "reference code", in relation to the Central Authority or other authority, means the reference code that is assigned to the Central Authority or that other authority, as the case may be, for the purposes of the 2008 Council Decision, the 2009 Agreement with Iceland and Norway or Title II of Part Three of the Trade and Cooperation Agreement.

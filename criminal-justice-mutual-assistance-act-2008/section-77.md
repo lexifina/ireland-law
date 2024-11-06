@@ -22,7 +22,7 @@ Identification evidence for use in State.
 
 (b) a brief description of the conduct constituting the offence concerned, ...
 
-(ba) in the case of a request pursuant to Article 7 of the 2008 Council Decision, or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, for the DNA profile of a person who is suspected of having committed the offence concerned whose DNA profile is not in the possession of the appropriate authority, a statement issued by the Commissioner of the Garda Síochána or the Director of Public Prosecutions, as may be appropriate, confirming that the requirements for the taking of a DNA sample from the person under the law of the State would be complied with if the person were in the State, and
+(ba) in the case of a request pursuant to Article 7 of the 2008 Council Decision, or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, or, in the case of a request pursuant to Article 532 of the Trade and Cooperation Agreement, for the DNA profile of a person who is suspected of having committed the offence concerned whose DNA profile is not in the possession of the appropriate authority, a statement issued by the Commissioner of the Garda Síochána or the Director of Public Prosecutions, as may be appropriate, confirming that the requirements for the taking of a DNA sample from the person under the law of the State would be complied with if the person were in the State, and
 
 (c) any other available information that may assist the appropriate authority in complying with the request.
 

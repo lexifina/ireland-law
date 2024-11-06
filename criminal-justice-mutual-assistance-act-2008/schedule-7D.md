@@ -2,6 +2,178 @@ SCHEDULE 7D
 
 Text of Titles VIII and XI of Part Three of the Trade and Cooperation Agreement
 
+TITLE II
+
+EXCHANGES OF DNA, FINGERPRINTS AND VEHICLE REGISTRATION DATA
+
+Article 527
+
+Objective
+
+The objective of this Title is to establish reciprocal cooperation between the competent law enforcement authorities of the United Kingdom, on the one side, and the Member States, on the other side, on the automated transfer of DNA profiles, dactyloscopic data and certain domestic vehicle registration data.
+
+Article 528
+
+Definitions
+
+For the purposes of this Title, the following definitions apply:
+
+(a) “competent law enforcement authority” means a domestic police, customs or other authority that is authorised by domestic law to detect, prevent and investigate offences or criminal activities and to exercise authority and take coercive measures in the context of such activities; agencies, bodies or other units dealing especially with national security issues are not competent law enforcement authorities for the purposes of this Title;
+
+(b) “search” and “comparison”, as referred to in Articles 530, 531, 534 and 539 mean the procedures by which it is established whether there is a match between, respectively, DNA data or dactyloscopic data which have been communicated by one State and DNA data or dactyloscopic data stored in the databases of one, several, or all of the other States;
+
+(c) “automated searching”, as referred to in Article 537, means an online access procedure for consulting the databases of one, several, or all of the other States;
+
+(d) “non-coding part of DNA” means chromosome regions not genetically expressed, i.e. not known to provide for any functional properties of an organism;
+
+(e) “DNA profile” means a letter or numeric code which represents a set of identification characteristics of the non-coding part of an analysed human DNA sample, i.e. the particular molecular structure at the various DNA locations (loci); (f) “DNA reference data” means DNA profile and reference number; DNA reference data shall only include DNA profiles established from the non-coding part of DNA and a reference number; DNA reference data shall not contain any data from which the data subject can be directly identified; DNA reference data which is not attributed to any natural person (unidentified DNA profiles) shall be recognisable as such;
+
+(g) “reference DNA profile” means the DNA profile of an identified person;
+
+(h) “unidentified DNA profile” means the DNA profile obtained from traces collected during the investigation of criminal offences and belonging to a person not yet identified;
+
+(i) “note” means a State’s marking on a DNA profile in its domestic database indicating that there has already been a match for that DNA profile on another State’s search or comparison;
+
+(j) “dactyloscopic data” means fingerprint images, images of fingerprint latents, palm prints, palm print latents and templates of such images (coded minutiae), when they are stored and dealt with in an automated database;
+
+(k) “dactyloscopic reference data” means dactyloscopic data and reference number; dactyloscopic reference data shall not contain any data from which the data subject can be directly identified; dactyloscopic reference data which is not attributed to any natural person (unidentified dactyloscopic data) shall be recognisable as such;
+
+(l) “vehicle registration data” means the data-set as specified in Chapter 3 of Annex 39;
+
+(m) “individual case”, as referred to in Article 530(1), second sentence, Article 534(1), second sentence and Article 537(1), means a single investigation or prosecution file; if such a file contains more than one DNA profile, or one piece of dactyloscopic data or vehicle registration data, they may be transmitted together as one request;
+
+(n) “laboratory activity” means any measure taken in a laboratory when locating and recovering traces on items, as well as developing, analysing and interpreting forensic evidence regarding DNA profiles and dactyloscopic data, with a view to providing expert opinions or exchanging forensic evidence;
+
+(o) “results of laboratory activities” means any analytical outputs and directly associated interpretation;
+
+(p) “forensic service provider” means any organisation, public or private, that carries out laboratory activities at the request of competent law enforcement or judicial authorities;
+
+(q) “domestic accreditation body” means the sole body in a State that performs accreditation with authority derived from the State.
+
+Article 529
+
+Establishment of domestic DNA analysis files
+
+1. The States shall open and keep domestic DNA analysis files for the investigation of criminal offences.
+
+2. For the purpose of implementing this Title, the States shall ensure the availability of DNA reference data from their domestic DNA analysis files as referred to in paragraph 1.
+
+3. The States shall declare the domestic DNA analysis files to which Articles 529 to 532 and Articles 535, 536 and 539 apply and the conditions for automated searching as referred to in Article 530(1).
+
+Article 530
+
+Automated searching of DNA profiles
+
+1. For the investigation of criminal offences, States shall allow other States’ national contact points as referred to in Article 535 access to the DNA reference data in their DNA analysis files, with the power to conduct automated searches by comparing DNA profiles. Searches may be conducted only in individual cases and in compliance with the requesting State’s domestic law.
+
+2. If an automated search shows that a DNA profile supplied matches DNA profiles entered in the requested State’s searched file, the requested State shall send to the national contact point of the requesting State in an automated way the DNA reference data with which a match has been found. If no match can be found, this shall be notified automatically.
+
+Article 531
+
+Automated comparison of DNA profiles
+
+1. For the investigation of criminal offences, the States, via their national contact points, shall compare the DNA profiles of their unidentified DNA profiles with all DNA profiles from other domestic DNA analysis files’ reference data in accordance with mutually accepted practical arrangements between the States concerned. DNA profiles shall be supplied and compared in automated form. Unidentified DNA profiles shall be supplied for comparison only where provided for under the requesting State’s domestic law.
+
+2. If a State, as a result of the comparison referred to in paragraph 1, finds that any DNA profiles supplied by another State match any of those in its DNA analysis files, it shall supply that other State’s national contact point with the DNA reference data with which a match has been found without delay.
+
+Article 532
+
+Collection of cellular material and supply of DNA profiles
+
+Where, in ongoing investigations or criminal proceedings, there is no DNA profile available for a particular individual present within a requested State’s territory, the requested State shall provide legal assistance by collecting and examining cellular material from that individual and by supplying the DNA profile obtained to the requesting State, if:
+
+(a) the requesting State specifies the purpose for which it is required;
+
+(b) the requesting State produces an investigation warrant or statement issued by the competent authority, as required under that State’s domestic law, showing that the requirements for collecting and examining cellular material would be fulfilled if the individual concerned were present within the requesting State’s territory; and
+
+(c) under the requested State’s law, the requirements for collecting and examining cellular material and for supplying the DNA profile obtained are fulfilled.
+
+Article 533
+
+Dactyloscopic data
+
+For the purpose of implementing this Title, the States shall ensure the availability of dactyloscopic reference data from the file for the domestic automated fingerprint identification systems established for the prevention and investigation of criminal offences.
+
+Article 534
+
+Automated searching of dactyloscopic data
+
+1. For the prevention and investigation of criminal offences, States shall allow other States’ national contact points, as referred to in Article 535, access to the reference data in the automated fingerprint identification systems which they have established for that purpose, with the power to conduct automated searches by comparing dactyloscopic data. Searches may be conducted only in individual cases and in compliance with the requesting State’s domestic law.
+
+2. The confirmation of a match of dactyloscopic data with reference data held by the requested State shall be carried out by the national contact point of the requesting State by means of the automated supply of the reference data required for a clear match.
+
+Article 535
+
+National contact points
+
+1. For the purposes of the supply of data as referred to in Articles 530, 531 and 534, the States shall designate national contact points.
+
+2. In respect of the Member States, national contact points designated for an analogous exchange of data within the Union shall be considered as national contact points for the purpose of this Title.
+
+3. The powers of the national contact points shall be governed by the applicable domestic law.
+
+Article 536
+
+Supply of further personal data and other information
+
+If the procedure referred to in Articles 530, 531 and 534 show a match between DNA profiles or dactyloscopic data, the supply of further available personal data and other information relating to the reference data shall be governed by the domestic law, including the legal assistance rules, of the requested State, without prejudice to Article 539(1).
+
+Article 537
+
+Automated searching of vehicle registration data
+
+1. For the prevention and investigation of criminal offences and in dealing with other offences within the jurisdiction of the courts or a public prosecutor in the requesting State, as well as in maintaining public security, States shall allow other States’ national contact points, as referred to in paragraph 2, access to the following domestic vehicle registration data, with the power to conduct automated searches in individual cases:
+
+(a) data relating to owners or operators; and
+
+(b) data relating to vehicles.
+
+2. Searches may be conducted under paragraph 1 only with a full chassis number or a full registration number and in compliance with the requesting State’s domestic law.
+
+3. For the purposes of the supply of data as referred to in paragraph 1, the States shall designate a national contact point for incoming requests from other States. The powers of the national contact points shall be governed by the applicable domestic law.
+
+Article 538
+
+Accreditation of forensic service providers carrying out laboratory activities
+
+1. The States shall ensure that their forensic service providers carrying out laboratory activities are accredited by a domestic accreditation body as complying with EN ISO/IEC 17025.
+
+2. Each State shall ensure that the results of accredited forensic service providers carrying out laboratory activities in other States are recognised by its authorities responsible for the prevention, detection, and investigation of criminal offences as being equally reliable as the results of domestic forensic service providers carrying out laboratory activities accredited to EN ISO/IEC 17025.
+
+3. The competent law enforcement authorities of the United Kingdom shall not carry out searches and automated comparison in accordance with Articles 530, 531 and 534 before the United Kingdom has implemented and applied the measures referred to in paragraph 1 of this Article.
+
+4. Paragraphs 1 and 2 do not affect domestic rules on the judicial assessment of evidence.
+
+5. The United Kingdom shall communicate to the Specialised Committee on Law Enforcement and Judicial Cooperation the text of the main provisions adopted to implement and apply the provisions of this Article.
+
+Article 539
+
+Implementing measures
+
+1. For the purposes of this Title, States shall make all categories of data available for searching and comparison to the competent law enforcement authorities of other States under conditions equal to those under which they are available for searching and comparison by domestic competent law enforcement authorities. States shall supply further available personal data and other information relating to the reference data as referred to in Article 536 to the competent law enforcement authorities of other States for the purposes of this Title under conditions equal to those under which they would be supplied to domestic authorities.
+
+2. For the purpose of implementing the procedures referred to in Articles 530, 531, 534 and 537, technical and procedural specifications are laid down in Annex 39.
+
+3. The declarations made by Member States in accordance with Council Decisions 2008/615/JHA 2 and 2008/616/JHA3 shall also apply in their relations with the United Kingdom.
+
+Article 540
+
+Ex ante evaluation
+
+1. In order to verify whether the United Kingdom has fulfilled the conditions set out in Article 539 and Annex 39, an evaluation visit and a pilot run, to the extent required by Annex 39, shall be carried out in respect of, and under conditions and arrangements acceptable to, the United Kingdom. In any event, a pilot run shall be carried out in relation to the searching of data under Article 537.
+
+2. On the basis of an overall evaluation report on the evaluation visit and, where applicable, the pilot run, as referred to in paragraph 1, the Union shall determine the date or dates from which personal data may be supplied by Member States to the United Kingdom pursuant to this Title.
+
+3. Pending the outcome of the evaluation referred to in paragraph 1, from the date of the entry into force of this Agreement, Member States may supply to the United Kingdom personal data as referred to in Articles 530, 531, 534 and 536 until the date or dates determined by the Union in accordance with paragraph 2 of this Article, but not longer than nine months after the entry into force of this Agreement. The Specialised Committee on Law Enforcement and Judicial Cooperation may extend this period once by a maximum of nine months.
+
+Article 541
+
+Suspension and disapplication
+
+1. In the event that the Union considers it necessary to amend this Title because Union law relating to the subject matter governed by this Title is amended substantially, or is in the process of being amended substantially, it may notify the United Kingdom accordingly with a view to agreeing on a formal amendment of this Agreement in relation to this Title. Following such notification, the Parties shall engage in consultations.
+
+2. Where within nine months of that notification the Parties have not reached an agreement amending this Title, the Union may decide to suspend the application of this Title or any provisions of this Title for a period of up to nine months. Before the end of that period, the Parties may agree on an extension of the suspension for an additional period of up to nine months. If by the end of the suspension period the Parties have not reached an agreement amending this Title, the suspended provisions shall cease to apply on the first day of the month following the expiry of the suspension period, unless the Union informs the United Kingdom that it no longer seeks any amendment to this Title. In that case, the suspended provisions of this Title shall be reinstated.
+
 TITLE VIII
 
 MUTUAL ASSISTANCE
@@ -16,9 +188,7 @@ Objective
 
 (b) the Additional Protocol to the European Mutual Assistance Convention, done at Strasbourg on 17 March 1978; and
 
-(c) the Second Additional Protocol to the European Mutual Assistance Convention, done at Strasbourg on 8 November 2001.
-
-2. This Title is without prejudice to the provisions of Title IX, which takes precedence over this Title.
+(c) the Second Additional Protocol to the European Mutual Assistance Convention, done at Strasbourg on 8 November 2001.2. This Title is without prejudice to the provisions of Title IX, which takes precedence over this Title.
 
 Article 634
 
@@ -182,9 +352,7 @@ For the purposes of this Title, the following definitions apply:
 
 Article 658
 
-Obligation to assist
-
-The States shall afford each other, upon request, the widest possible measure of assistance in the identification and tracing of instrumentalities, proceeds and other property liable to confiscation. Such assistance shall include any measure providing and securing evidence as to the existence, location or movement, nature, legal status or value of those instrumentalities, proceeds or other property.
+Obligation to assist The States shall afford each other, upon request, the widest possible measure of assistance in the identification and tracing of instrumentalities, proceeds and other property liable to confiscation. Such assistance shall include any measure providing and securing evidence as to the existence, location or movement, nature, legal status or value of those instrumentalities, proceeds or other property.
 
 Article 659
 
@@ -372,11 +540,7 @@ Grounds for refusal
 
 (f) the request relates to a confiscation order resulting from a decision rendered in absentia of the person against whom the order was issued and, in the opinion of the requested State, the proceedings conducted by the requesting State leading to such decision did not satisfy the minimum rights of defence recognised as due to everyone against whom a criminal charge is made.
 
-6. For the purposes of point (f) of paragraph 5 a decision is not considered to have been rendered in absentia if:
-
-(a) it has been confirmed or pronounced after opposition by the person concerned; or
-
-(b) it has been rendered on appeal, provided that the appeal was lodged by the person concerned.
+6. For the purposes of point (f) of paragraph 5 a decision is not considered to have been rendered in absentia if:(a) it has been confirmed or pronounced after opposition by the person concerned; or(b) it has been rendered on appeal, provided that the appeal was lodged by the person concerned.
 
 7. When considering, for the purposes of point (f) of paragraph 5, whether the minimum rights of defence have been satisfied, the requested State shall take into account the fact that the person concerned has deliberately sought to evade justice or the fact that that person, having had the possibility of lodging a legal remedy against the decision made in absentia, elected not to do so. The same applies where the person concerned, having been duly served with the summons to appear, elected not to do so nor to ask for adjournment.
 
@@ -470,7 +634,9 @@ Form of request and languages
 
 3. The United Kingdom and the Union, acting on behalf of any of its Member States, may each notify the Specialised Committee on Law Enforcement and Judicial Cooperation of the language or languages which, in addition to the official language or languages of that State, may be used for making requests under this Title.
 
-4. Requests under Article 663 for provisional measures shall be made using the prescribed form at Annex 46. 5. Requests under Article 665 for confiscation shall be made using the prescribed form at Annex 46.
+4. Requests under Article 663 for provisional measures shall be made using the prescribed form at Annex 46.
+
+5. Requests under Article 665 for confiscation shall be made using the prescribed form at Annex 46.
 
 6. The Specialised Committee on Law Enforcement and Judicial Cooperation may amend the forms referred to in paragraphs 4 and 5 as may be necessary.
 
@@ -518,13 +684,21 @@ Content of request
 
 (ii) an attestation by the competent authority of the requesting State that the confiscation order is enforceable and not subject to ordinary means of appeal;
 
-(iii) information as to the extent to which the enforcement of the order is requested; and
-
-(iv) information as to the necessity of taking any provisional measures;
+(iii) information as to the extent to which the enforcement of the order is requested; and(iv) information as to the necessity of taking any provisional measures;
 
 (b) in the case of point (b) of Article 665(1), a statement of the facts relied upon by the requesting State sufficient to enable the requested State to seek the order under its domestic law;
 
 (c) where third parties have had the opportunity to claim rights, documents demonstrating that this has been the case.
+
+Article 681
+
+Defective requests
+
+1. If a request does not comply with the provisions of this Title or the information supplied is not sufficient to enable the requested State to deal with the request, that State may ask the requesting State to amend the request or to complete it with additional information.
+
+2. The requested State may set a time limit for the receipt of such amendments or information.
+
+3. Pending receipt of the requested amendments or information in relation to a request under Article 665, the requested State may take any of the measures referred to in Articles 658 to 664.
 
 Article 682
 
@@ -536,9 +710,7 @@ Plurality of requests
 
 Article 683
 
-Obligation to give reasons
-
-The requested State shall give reasons for any decision to refuse, postpone or make conditional any cooperation under this Title.
+Obligation to give reasons The requested State shall give reasons for any decision to refuse, postpone or make conditional any cooperation under this Title.
 
 Article 684
 
