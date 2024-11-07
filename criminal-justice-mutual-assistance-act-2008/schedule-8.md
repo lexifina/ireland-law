@@ -4,7 +4,9 @@ PART 1
 
 TEXT OF 1959 CONVENTION
 
-Preamble The governments signatory hereto, being members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity among its members;
+Preamble
+
+The governments signatory hereto, being members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity among its members;
 
 Believing that the adoption of common rules in the field of mutual assistance in criminal matters will contribute to the attainment of this aim;
 
@@ -56,9 +58,7 @@ Appearance of witnesses, experts and prosecuted persons
 
 Article 7
 
-1. The requested Party shall effect service of writs and records of judicial verdicts which are transmitted to it for this purpose by the requesting Party.
-
-Service may be effected by simple transmission of the writ or record to the person to be served. If the requesting Party expressly so requests, service shall be effected by the requested Party in the manner provided for the service of analogous documents under its own law or in a special manner consistent with such law.
+1. The requested Party shall effect service of writs and records of judicial verdicts which are transmitted to it for this purpose by the requesting Party. Service may be effected by simple transmission of the writ or record to the person to be served. If the requesting Party expressly so requests, service shall be effected by the requested Party in the manner provided for the service of analogous documents under its own law or in a special manner consistent with such law.
 
 2. Proof of service shall be given by means of a receipt dated and signed by the person served or by means of a declaration made by the requested Party that service has been effected and stating the form and date of such service. One or other of these documents shall be sent immediately to the requesting Party. The requested Party shall, if the requesting Party so requests, state whether service has been effected in accordance with the law of the requested Party. If service cannot be effected, the reasons shall be communicated immediately by the requested Party to the requesting Party.
 
@@ -234,7 +234,9 @@ Article 30
 
 The Secretary General of the Council of Europe shall notify the members of the Council and the government of any State which has acceded to this Convention of: a) the names of the signatories and the deposit of any instrument of ratification or accession; b) the date of entry into force of this Convention; c) any notification received in accordance with the provisions of Article 5 — paragraph 1, Article 7 — paragraph 3, Article 15 — paragraph 6, Article 16 — paragraph 2, Article 24, Article 25 — paragraphs 3 and 4, Article 26 — paragraph 4; d) any reservation made in accordance with Article 23, paragraph 1; e) the withdrawal of any reservation in accordance with Article 23, paragraph 2; f) any notification of denunciation received in accordance with the provisions of Article 29 and the date on which such denunciation will take effect.
 
-In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. Done at Strasbourg, this 20th day of April 1959, in English and French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the signatory and acceding governments.
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at Strasbourg, this 20th day of April 1959, in English and French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the signatory and acceding governments.
 
 PART 2
 
