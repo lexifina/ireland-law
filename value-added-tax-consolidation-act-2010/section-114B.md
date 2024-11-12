@@ -132,11 +132,7 @@ Covid-19: special warehousing and interest provisions.
 
 (6) Where this section applies to an accountable person, section 114 shall not apply to the accountable person’s Covid-19 liabilities.
 
-(7) Where—
-
-(a) this section applies to an accountable person, and
-
-(b) the accountable person complies with the accountable person’s obligations under the Acts, no interest shall be due and payable by the accountable person in respect of the accountable person’s Covid-19 liabilities during Period 1 and Period 2.
+(7) ...
 
 (8) Where—
 
@@ -144,23 +140,37 @@ Covid-19: special warehousing and interest provisions.
 
 (b) the accountable person complies with the accountable person’s obligations under the Acts,
 
-(c) the accountable person has, prior to Period 3, entered into an agreement with the Collector-General to pay the accountable person’s Covid-19 liabilities, together with interest under this subsection, and
+(c) the accountable person has—
 
-(d) the accountable person complies with the obligations of the accountable person under the agreement referred to in paragraph (c), from the first day of Period 3, simple interest shall be paid by the accountable person to the Revenue Commissioners on any amount of the Covid-19 liabilities remaining unpaid and such interest shall be calculated from that day until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0082 per cent.
+(i) before 1 May 2024, engaged with the Collector-General regarding the accountable person’s Covid-19 liabilities with a view to entering into an agreement to pay those liabilities, and
+
+(ii) entered into an agreement referred to in subparagraph (i), whether before or after 1 May 2024, and
+
+(d) the accountable person complies with the obligations of the accountable person under the agreement entered into as referred to in paragraph (c)(ii), no interest shall be due and payable by the accountable person in respect of the accountable person’s Covid-19 liabilities during Period 1, Period 2 and Period 3.
 
 (9) ...
 
 (10) Where an accountable person—
 
-(a) during Period 1 or Period 2, fails to comply with an obligation referred to in subsection (7)(b),
+(a) at any time during the period beginning on the first day of Period 1 and ending on 30 April 2024 fails to comply with the accountable person’s obligations under the Acts,
 
-(b) on the first day of Period 3, has not entered into an agreement referred to in subsection (8)(c), or
+(b) is not an accountable person to whom subsection (8)(c) applies, or
 
-(c) during Period 3, fails to comply with an obligation referred to in subsection (8)(b) or (d), simple interest shall be paid by the accountable person to the Revenue Commissioners on any amount of the Covid-19 liabilities remaining unpaid on—
+(c) on or after 1 May 2024—
 
-(i) in a case in which paragraph (a) or (c) applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+(i) fails to comply with the accountable person’s obligations under the Acts, or
 
-(ii) in a case in which paragraph (b) applies, the first day of Period 3, and such interest shall be calculated from that day until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0274 per cent.
+(ii) fails to comply with an obligation referred to in subsection (8)(d), simple interest shall be paid by the accountable person to the Revenue Commissioners on any amount of the Covid-19 liabilities remaining unpaid on—
+
+(I) in a case to which paragraph (a) or (c) applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+
+(II) in a case to which paragraph (b) applies, 1 May 2024, and such interest shall be calculated from—
+
+(A) in a case to which paragraph (a) applies, the date on which the event resulting in failure to comply with the obligation concerned occurred,
+
+(B) in a case to which paragraph (b) applies, the first day of Period 3, and
+
+(C) in a case to which paragraph (c) applies, 1 May 2024, until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0274 per cent.
 
 (11) ...
 
