@@ -78,9 +78,11 @@ Deduction for tax borne or paid.
 
 (3) Subsection (2) shall not apply to—
 
-(a) an accountable person referred to in section 9(4) or 12(3), or
+(a) an accountable person referred to in section 9(4) or 12(3),
 
-(b) an accountable person referred to in section 9(6) or 12(5) unless the tax relates to racehorse training services supplied by him or her.
+(b) an accountable person referred to in section 9(6) or 12(5) unless the tax relates to racehorse training services supplied by him or her, or
+
+(c) an accountable person referred to in section 22(3) or 28(4), or a taxable person who is deemed to have supplied a letting in accordance with section 28(5), in respect of supplies to which those sections apply.
 
 (4)(a) A person who, by election or in accordance with section 5(2) is deemed to become an accountable person, shall, in accordance with regulations, be entitled, in computing the amount of tax payable by him or her in respect of the first taxable period for which he or she is so deemed to be an accountable person, to treat as tax deductible under subsection (2) such part of the value of the stock-in-trade held by him or her immediately before the commencement of that taxable period as could reasonably be regarded as the amount which he or she would be entitled to claim under subsection (2) if that person had been an accountable person at the time of the delivery to him or her of such stock-in-trade.
 

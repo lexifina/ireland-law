@@ -172,7 +172,7 @@ Financial services.
 
 (ec) an undertaking for collective investment in transferable securities (within the meaning of Article 1 of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009) which has been authorised by the competent authority (as defined in point (h) of Article 2(1) of that Directive) of another Member State;
 
-(ed) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by the competent authority (as defined in point (f) of Article 4(1) of that Directive) of another Member State;
+(ed) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by or registered with the competent authority (as defined in point (f) of Article 4(1) of that Directive) of a Member State;
 
 (f) any other undertaking that is determined by the Minister to be a collective investment undertaking for the purposes of this subparagraph.
 

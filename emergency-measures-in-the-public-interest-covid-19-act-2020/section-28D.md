@@ -92,11 +92,7 @@ Covid-19: special warehousing and interest (relevant tax due under section 28B(1
 
 (5) Where this section applies to an employer, section 28B(15) shall not apply to the employer’s liability in respect of Covid-19 relevant tax.
 
-(6) Where—
-
-(a) this section applies to an employer, and
-
-(b) the employer complies with the employer’s obligations under the Acts, no interest shall be due and payable by the employer in relation to the employer’s liability in respect of Covid-19 relevant tax during Period 1 and Period 2.
+(6) ...
 
 (7) Where—
 
@@ -104,21 +100,35 @@ Covid-19: special warehousing and interest (relevant tax due under section 28B(1
 
 (b) the employer complies with the employer’s obligations under the Acts,
 
-(c) the employer has, prior to Period 3, entered into an agreement with the Collector-General to pay the employer’s liability in respect of Covid- 19 relevant tax, together with interest under this subsection, and
+(c) the employer has—
 
-(d) the employer complies with the obligations of the employer under the agreement referred to in paragraph (c), from the first day of Period 3 simple interest shall be paid by the employer to the Revenue Commissioners in relation to any amount of the Covid-19 relevant tax remaining unpaid and such interest shall be calculated from that day until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0. 0082 per cent.
+(i) before 1 May 2024, engaged with the Collector-General regarding the employer’s liability in respect of Covid-19 relevant tax with a view to entering into an agreement to pay that liability, and
+
+(ii) entered into an agreement referred to in subparagraph (i), whether before or after 1 May 2024, and
+
+(d) the employer complies with the obligations of the employer under the agreement entered into as referred to in paragraph (c)(ii), no interest shall be due and payable by the employer in relation to the employer’s liability in respect of Covid-19 relevant tax during Period 1, Period 2 and Period 3.
 
 (8) Where an employer—
 
-(a) during Period 1 or Period 2, fails to comply with an obligation referred to in subsection (6)(b),
+(a) at any time during the period beginning on the first day of Period 1 and ending on 30 April 2024 fails to comply with the employer’s obligations under the Acts,
 
-(b) on the first day of Period 3, has not entered into an agreement referred to in subsection (7)(c), or
+(b) is not an employer to whom subsection (7)(c) applies, or
 
-(c) during Period 3, fails to comply with an obligation referred to in subsection (7)(b) or (d), simple interest shall be paid by the employer to the Revenue Commissioners in relation to any amount of the Covid- 19 relevant tax remaining unpaid from—
+(c) on or after 1 May 2024—
 
-(i) in a case in which paragraph (a) or (c) applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+(i) fails to comply with the employer’s obligations under the Acts, or
 
-(ii) in a case in which paragraph (b) applies, the first day of Period 3, and such interest shall be calculated from that day until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0. 0219 per cent.
+(ii) fails to comply with an obligation referred to in subsection (7)(d), simple interest shall be paid by the employer to the Revenue Commissioners in relation to any amount of the Covid-19 relevant tax remaining unpaid on—
+
+(I) in a case to which paragraph (a) or (c) applies, the date on which the event resulting in failure to comply with the obligation concerned occurred, and
+
+(II) in a case to which paragraph (b) applies, 1 May 2024, and such interest shall be calculated from—
+
+(A) in a case to which paragraph (a) applies, the date on which the event resulting in failure to comply with the obligation concerned occurred,
+
+(B) in a case to which paragraph (b) applies, the first day of Period 3, and
+
+(C) in a case to which paragraph (c) applies, 1 May 2024, until payment of the amount for any day or part of a day during which that amount remains unpaid, at a rate of 0.0219 per cent.
 
 (9) Where an employer has complied with the requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part, the failure of the employer to pay Covid-19 relevant tax shall not, for the purpose of section 1094 or 1095 of the Taxes Consolidation Act 1997, be treated as a failure to comply with the obligations imposed on the employer by the Acts (within the meaning of section 1094 or 1095, as the case may be).
 

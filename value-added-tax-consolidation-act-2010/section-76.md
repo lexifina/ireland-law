@@ -18,7 +18,7 @@ Returns and remittances.
 
 (i) furnish to the Collector-General—
 
-(I) a true and correct return, prepared in accordance with regulations, of the total amount of tax which became due in that taxable period, by—
+(I) a true and correct return, prepared in accordance with regulations, of the total amount of tax which became due , and the amount (if any) which would have been deductible therefrom in accordance with Chapter 1 of Part 8 but for the application of section 59(3)(c), in that taxable period, by—
 
 (A) the accountable person in relation to the disposal of the goods or the supply of the services, and
 

@@ -20,7 +20,7 @@ General limits on deductibility.
 
 (2)(a) Notwithstanding anything in this Chapter, a deduction of tax under this Chapter shall not be made if, and to the extent that, the tax relates to—
 
-(i) expenditure incurred by the accountable person on food or drink, or accommodation (other than qualifying accommodation in connection with attendance at a qualifying conference), or other personal services, for the accountable person, the accountable person’s agents or employees, except to the extent (if any) that such expenditure is incurred in relation to a supply of services in respect of which that accountable person is accountable for tax,
+(i) expenditure incurred by the accountable person on food or drink, or accommodation (other than qualifying accommodation in connection with attendance at a qualifying conference), or other personal services, for the accountable person, the accountable person’s agents or employees, except to the extent (if any) that such expenditure is incurred for the purposes of a supply of services, being the provision of food or drink, or accommodation, or other personal services, in respect of which that accountable person is accountable for tax,
 
 (ii) expenditure incurred by the accountable person on food or drink, or accommodation or other entertainment services, where such expenditure forms all or part of the cost of providing an advertising service in respect of which tax is due and payable by the accountable person,
 
