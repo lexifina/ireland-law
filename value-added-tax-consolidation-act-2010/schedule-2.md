@@ -210,34 +210,6 @@ Any of the following items not being items (a)Tea, herbal tea and preparations s
 
 Part F
 
-(1) (2) Part A
-
-Beverages chargeable with excise duty specifically charged on spirits, beer, wine, cider, perry or Irish wine, and preparations derived from any of them.
-
-Part B
-
-(a) Tea, herbal tea and preparations derived from either or both of them, when supplied in drinkable form.
-
-(b) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from them, when supplied in drinkable form.
-
-Part C
-
-(a) Ice cream, ice lollipops, water ices, frozen desserts, frozen yoghurts and similar frozen products, and prepared mixes and powders for making any of those products.
-
-(b) Savoury products made from cereal or grain, or from flour or starch derived from cereal or grain, pork scratchings, and similar products when supplied for human consumption without further preparation.
-
-Part D
-
-Any of the following when supplied for human consumption without further preparation:
-
-(a) potato crisps, potato sticks, potato puffs and similar products made from potato, or from potato flour or from potato starch;
-
-(b) popcorn;
-
-(c) salted or roasted nuts, whether or not in their shells.
-
-Part E
-
 (1) (2)
 
 All kinds of chocolates, sweets and similar For the purposes of this Part “bread” means food confectionery (including glacé or crystallised for human consumption manufactured by baking fruits), biscuits, crackers and wafers, and all other dough composed exclusively of a mixture of cereal kinds of confectionery and bakery products or other flour and any one or more of the (whether cooked or uncooked), excluding bread ingredients included in column (1) of Table 2 to this within the meaning assigned to it in column (2) paragraph that do not exceed the quantities (if any) of this Part. set out for each ingredient in column (2) of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.
@@ -250,7 +222,9 @@ Ingredients and Weight Limits thereof for Bread as defined in column (2) of Part
 
 Fats and sugars (including any fats and Not exceeding 12% in aggregate sugars contained in any bread improver)
 
-Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
+Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate
+
+Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
 
 (2) In this paragraph, a reference to supplying food and drink includes—
 
