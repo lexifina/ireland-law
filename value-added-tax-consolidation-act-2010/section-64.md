@@ -118,7 +118,9 @@ T is the total number of intervals in the adjustment period in relation to that 
 
 B × N T where—
 
-B is the total reviewed deductible amount in relation to that capital good or, in the case of a supply to which subparagraph (i)(III)(B) applies, the amount of the total tax incurred in relation to that capital good which that owner claimed as a deduction in accordance with Chapter 1, N is the number of full intervals remaining in the adjustment period in relation to that capital good at the time of supply plus one, and
+B is the total reviewed deductible amount in relation to that capital good or, in the case of a supply to which subparagraph (i)(III)(B) applies, the amount of the total tax incurred in relation to that capital good which that owner claimed as a deduction in accordance with Chapter 1,
+
+N is the number of full intervals remaining in the adjustment period in relation to that capital good at the time of supply plus one, and
 
 T is the total number of intervals in the adjustment period in relation to that capital good.
 
@@ -354,7 +356,9 @@ G is the amount of that tax that would have been deductible in accordance with C
 
 (f) Where an amount of tax is payable in respect of an interval in accordance with subsection (2)(b)(i), (3)(b)(i) or (4)(b)(i), and where the start date or the end date or both occur during that interval, the amount of that tax that shall be payable by the mortgagee or the receiver shall be calculated in accordance with the following formula—
 
-J x K L where— J is the amount of the tax payable in accordance with subsection (2)(b)(i), (3)(b)(i) or (4)(b)(i),
+J x K L where—
+
+J is the amount of the tax payable in accordance with subsection (2)(b)(i), (3)(b)(i) or (4)(b)(i),
 
 K is the number of days during the interval in which the mortgagee has possession or the receiver has been appointed,
 

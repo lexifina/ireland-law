@@ -36,7 +36,9 @@ Transitional measures for supplies of immovable goods.
 
 TD × (Y — N) Y where—
 
-TD is the amount of the tax referred to in paragraph (a)(ii) that the landlord was entitled to deduct, Y is 20 or, if the interest when it was acquired by the landlord was for a period of less than 20 years, the number of full years in that interest, and
+TD is the amount of the tax referred to in paragraph (a)(ii) that the landlord was entitled to deduct,
+
+Y is 20 or, if the interest when it was acquired by the landlord was for a period of less than 20 years, the number of full years in that interest, and
 
 N is the number of full years since the landlord acquired the interest in the immovable goods referred to in paragraph (a) or, if the goods were developed since that interest was acquired, the number of full years since the most recent development, but if that N is greater than that Y, the deductibility adjustment shall be deemed to be nil.
 

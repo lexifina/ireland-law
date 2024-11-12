@@ -62,15 +62,15 @@ No. 22 of 1997. Finance Act 1997. Part III (sections 95 to 114), in so far as it
 
 No. 3 of 1998. Finance Act 1998. Part 3 (sections 104 to 117), in so far as it is unrepealed. Paragraph (v) of section 133(6). Sections 134(2) and 138(4) and (9).
 
-No. 2 of 1999. Finance Act 1999. Part 3 (sections 119 to 139), in so far as it is unrepealed. Section 217(4) and (10). No. 3 of 2000. Finance Act 2000. Part 3 (sections 107 to 124), in so far as it is unrepealed. Section 166(4) and (10).
+No. 2 of 1999. Finance Act 1999. Part 3 (sections 119 to 139), in so far as it is unrepealed. Section 217(4) and (10).
+
+No. 3 of 2000. Finance Act 2000. Part 3 (sections 107 to 124), in so far as it is unrepealed. Section 166(4) and (10).
 
 No. 7 of 2001. Finance Act 2001. Part 4 (sections 181 to 200), in so far as it is unrepealed. Section 243(4) and (10). Schedule 5, Part 4.
 
 No. 5 of 2002. Finance Act 2002. Part 3 (sections 98 to 110), in so far as it is unrepealed. Section 141(4) and (9). Schedule 6, paragraphs 1 and 6(a).
 
-No. 3 of 2003. Finance Act 2003. Part 3 (sections 112 to 131), in so far as it is unrepealed. Section 171(4) and (10). Schedule 6, paragraphs 2 and 3(b).
-
-No. 8 of 2004. Finance Act 2004. Part 3 (sections 54 to 65), in so far as it is unrepealed. Section 94(4) and (9).
+No. 3 of 2003. Finance Act 2003. Part 3 (sections 112 to 131), in so far as it is unrepealed. Section 171(4) and (10). Schedule 6, paragraphs 2 and 3(b). No. 8 of 2004. Finance Act 2004. Part 3 (sections 54 to 65), in so far as it is unrepealed. Section 94(4) and (9).
 
 No. 5 of 2005. Finance Act 2005. Part 3 (sections 98 to 113), in so far as it is unrepealed. Section 150(4).
 
@@ -98,9 +98,7 @@ S.I. No. 307 of 1975. Imposition of Duties (No. 221) (Excise Duties) Paragraph 1
 
 S.I. No. 146 of 1978. Value-Added Tax (Reduction of Rate) (No. 4) The whole statutory Order 1978. instrument.
 
-S.I. No. 53 of 1981. Value-Added Tax (Reduction of Rate) (No. 5) The whole statutory Order 1981. instrument.
-
-S.I. No. 430 of 1985. Value-Added Tax (Exempted Activities) (No. 1) The whole statutory Order 1985. instrument.
+S.I. No. 53 of 1981. Value-Added Tax (Reduction of Rate) (No. 5) The whole statutory Order 1981. instrument. S.I. No. 430 of 1985. Value-Added Tax (Exempted Activities) (No. 1) The whole statutory Order 1985. instrument.
 
 S.I. No. 413 of 1992. European Communities (Value-Added Tax) The whole statutory Regulations 1992. instrument.
 
