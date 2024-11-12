@@ -1,0 +1,9 @@
+Number 44 of 2024
+
+COMPANIES (CORPORATE GOVERNANCE, ENFORCEMENT AND REGULATORY PROVISIONS) ACT 2024
+
+An Act to provide for the conduct of, and participation in, general meetings of a company or industrial and provident society by the use of electronic communications technology; to repeal certain provisions of the Companies Act 2014 and the Industrial and Provident Societies Act 1893; to provide for the circumstances in which a company is not entitled to an audit exemption under section 358 of the Companies Act 2014; to provide for the disapplication of the Probation of Offenders Act 1907 to an offence under section 343 of the Companies Act 2014; to make certain amendments to the rescue process for small and micro companies; to provide for additional grounds for involuntary strike off of companies; to extend the list of competent authorities to which the Authority may disclose information, books or documents under section 792 of the Companies Act 2014; to provide for an offence of obstructing, interfering with or impeding an officer of the Corporate Enforcement Authority; to enable the Irish Auditing and Accounting Supervisory Authority to use money paid into the reserve fund in accordance with section 919 of the Companies Act 2014 in the performance of its functions under section 934 of that Act; to enable the Irish Auditing and Accounting Supervisory Authority to issue an interim direction in certain circumstances; to enable specified bodies to disclose information to the Corporate Enforcement Authority under section 944Q of the Companies Act 2014; and for those purposes, and other purposes, to amend the Companies Act 2014, the Industrial and Provident Societies Act 1893, and the Registration of Business Names Act 1963.
+
+[12th November, 2024]
+
+Be it enacted by the Oireachtas as follows:
