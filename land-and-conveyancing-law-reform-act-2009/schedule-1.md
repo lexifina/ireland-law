@@ -28,9 +28,7 @@ Section 37 In subsection (1)—
 
 (a) in paragraph (h), the substitution
 
-(b) Enactment Provision Nature of amendment (1) (2) (3)
-
-Courts (Supplemental Third Schedule In column (2) at reference number Provisions) Act 1961 19, the insertion of the following after paragraph (c):
+(b) Courts (Supplemental Third Schedule In column (2) at reference number Provisions) Act 1961 19, the insertion of the following after paragraph (c):
 
 In column (2) at reference number 22, the insertion of “and under section
 
@@ -52,7 +50,7 @@ Section 39 The deletion of “full or limited”. Section 44 In subsection (3), 
 
 Section 45 The deletion of “full or limited”. Section 46 The deletion of “full or limited”. Section 47 The deletion of “full or limited”. Section 51 In subsection (1), the substitution of “A”
 
-In subsection (2), the deletion of “or in Enactment Provision Nature of amendment (1) (2) (3)
+In subsection (2), the deletion of “or in
 
 Section 60 In subsection (2), the deletion of—
 
@@ -86,7 +84,7 @@ In subsection (2), the deletion of
 
 In subsection (4), the deletion of “or, in
 
-In subsection (6), the substitution of Enactment Provision Nature of amendment (1) (2) (3)
+In subsection (6), the substitution of
 
 Succession Act 1965 Section 60 In subsection (1)—
 
@@ -114,13 +112,11 @@ Section 61 In subsection (3)(a)—
 
 (a) the deletion of “fee farm grant, sub
 
-(b) the deletion of “any rent reserved Enactment Provision Nature of amendment (1) (2) (3)
+(b) the deletion of “any rent reserved
 
 Section 87 In subsection (4), the substitution of “a
 
-In subsection (5), the substitution of
-
-Trustee Savings Bank Act Section 23 The substitution of the following for 1989 subsection (5):
+In subsection (5), the substitution of Trustee Savings Bank Act Section 23 The substitution of the following for 1989 subsection (5):
 
 Housing (Miscellaneous Section 5 In subsection (6)— Provisions) Act 1992 (a) the substitution of “legal mortgage
 
@@ -132,11 +128,9 @@ Powers of Attorney Act Section 16 In subsection (2), the deletion of “or as 19
 
 Family Law (Divorce) Act Section 15 In subsection (1)(e), the substitution of 1996
 
-Taxes Consolidation Act Section 574 In subsection (3), the deletion of “(and 1997 Enactment Provision Nature of amendment (1) (2) (3)
+Taxes Consolidation Act Section 574 In subsection (3), the deletion of “(and 1997
 
-Section 964 In subsection (1), the substitution of the following for paragraph (c):
-
-Stamp Duties Consolidation Section 1 In subsection (1), in the definition of Act 1999
+Section 964 In subsection (1), the substitution of the following for paragraph (c): Stamp Duties Consolidation Section 1 In subsection (1), in the definition of Act 1999
 
 Planning and Development Section 99 In subsection (3A)(c), the substitution of Act 2000
 

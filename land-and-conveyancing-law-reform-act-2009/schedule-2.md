@@ -6,7 +6,9 @@ PART 1
 
 PRE-UNION IRISH STATUTES
 
-Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+Session and Short Title Extent of Repeal Chapter
+
+(1) (2) (3)
 
 10 Chas. 1 Statute of Uses 1634 The whole Act so far as unrepealed sess. 2 c. 1
 
@@ -14,7 +16,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 10 Chas. 1 Maintenance and Embracery Act 1634 Sections 2, 4 and 6 sess. 3 c. 15
 
-10 & 11 Ecclesiastical Lands Act 1634 The whole Act so far as unrepealed Chas. 1 c. 3 Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+10 & 11 Ecclesiastical Lands Act 1634 The whole Act so far as unrepealed Chas. 1 c. 3
 
 15 Chas. 1 c. 3 Forfeiture Act 1639 The whole Act
 
@@ -28,9 +30,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 2 Anne c. 8 Plus Lands Act 1703 The whole Act
 
-6 Anne c. 10 Administration of Justice Act 1707 Section 23
-
-8 Geo. 1 c. 5 Boundaries Act 1721 The whole Act so far as unrepealed
+6 Anne c. 10 Administration of Justice Act 1707 Section 23 8 Geo. 1 c. 5 Boundaries Act 1721 The whole Act so far as unrepealed
 
 10 Geo. 1 c. 5 Mining Leases Act 1723 The whole Act so far as unrepealed
 
@@ -118,7 +118,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 3 & 4 Will. 4 c. Fines and Recoveries Act 1833 The whole Act so far as 74 unrepealed
 
-3 & 4 Will. 4 c. Inheritance Act 1833 The whole Act so far as 106 unrepealed Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+3 & 4 Will. 4 c. Inheritance Act 1833 The whole Act so far as 106 unrepealed
 
 4 & 5 Will. 4 c. Fines and Recoveries (Ireland) Act 1834 The whole Act so far as 92 unrepealed
 
@@ -134,9 +134,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 2 & 3 Vic. c. 3 Tithe Arrears (Ireland) Act 1839 The whole Act so far as unrepealed
 
-5 Vic. c. 1 Crown Lands Act 1841 The whole Act
-
-5 & 6 Vic. c. 89 Drainage (Ireland) Act 1842 The whole Act
+5 Vic. c. 1 Crown Lands Act 1841 The whole Act 5 & 6 Vic. c. 89 Drainage (Ireland) Act 1842 The whole Act
 
 6 & 7 Vic. c. 23 Copyhold Act 1843 The whole Act
 
@@ -170,7 +168,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 12 & 13 Vic. c. Leases Act 1849 The whole Act so far as 26 unrepealed
 
-12 & 13 Vic. c. Landed Property Improvement (Ireland) Act The whole Act so far as 59 1849 unrepealed Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+12 & 13 Vic. c. Landed Property Improvement (Ireland) Act The whole Act so far as 59 1849 unrepealed
 
 12 & 13 Vic. c. Renewable Leasehold Conversion Act 1849 The whole Act so far as 105 unrepealed
 
@@ -190,9 +188,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 15 & 16 Vic. c. Crown Lands Act 1852 The whole Act 62
 
-16 & 17 Vic. c. Crown Lands Act 1853 The whole Act 56
-
-16 & 17 Vic. c. Drainage and Improvement of Lands (Ireland) The whole Act 130 Act 1853
+16 & 17 Vic. c. Crown Lands Act 1853 The whole Act 56 16 & 17 Vic. c. Drainage and Improvement of Lands (Ireland) The whole Act 130 Act 1853
 
 17 & 18 Vic. c. Crown Land Revenues Act 1854 The whole Act 68
 
@@ -216,7 +212,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 23 & 24 Vic. c. Law of Property Amendment Act 1860 Sections 7, 8 and 10 38
 
-23 & 24 Vic. c. Landed Property (Ireland) Improvement Act The whole Act so far as 153 1860 unrepealed Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+23 & 24 Vic. c. Landed Property (Ireland) Improvement Act The whole Act so far as 153 1860 unrepealed
 
 24 & 25 Vic. c. Landed Estates Court (Ireland) Act 1861 The whole Act so far as 123 unrepealed
 
@@ -240,9 +236,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 28 & 29 Vic. c. Drainage and Improvement of Lands The whole Act 53 Supplemental Act (No. 2 Ireland) 1865
 
-28 & 29 Vic. c. Mortgage Debenture Act 1865 The whole Act 78
-
-28 & 29 Vic. c. Land Debentures (Ireland) Act 1865 The whole Act 101
+28 & 29 Vic. c. Mortgage Debenture Act 1865 The whole Act 78 28 & 29 Vic. c. Land Debentures (Ireland) Act 1865 The whole Act 101
 
 29 & 30 Vic. c. Landed Property Improvement (Ireland) Act The whole Act so far as 26 1866 unrepealed
 
@@ -262,7 +256,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 30 & 31 Vic. c. Drainage and Improvement of Lands The whole Act 139 Supplemental Act (Ireland) (No. 2) 1867
 
-31 & 32 Vic. c. Drainage and Improvement of Lands The whole Act 3 Supplemental Act (Ireland) (No. 3) 1867 Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+31 & 32 Vic. c. Drainage and Improvement of Lands The whole Act 3 Supplemental Act (Ireland) (No. 3) 1867
 
 31 & 32 Vic. c. 4 Sales of Reversions Act 1867 The whole Act so far as unrepealed
 
@@ -290,9 +284,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 39 & 40 Vic. c. Partition Act 1876 The whole Act so far as 17 unrepealed
 
-40 & 41 Vic. c. Settled Estates Act 1877 The whole Act so far as 18 unrepealed
-
-40 & 41 Vic. c. Limited Owners Reservoirs and Water Supply The whole Act so far as 31 Further Facilities Act 1877 unrepealed
+40 & 41 Vic. c. Settled Estates Act 1877 The whole Act so far as 18 unrepealed 40 & 41 Vic. c. Limited Owners Reservoirs and Water Supply The whole Act so far as 31 Further Facilities Act 1877 unrepealed
 
 40 & 41 Vic. c. Contingent Remainders Act 1877 The whole Act 33
 
@@ -308,7 +300,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 47 & 48 Vic. c. Settled Land Act 1884 The whole Act so far as 18 unrepealed
 
-48 & 49 Vic. c. Crown Lands Act 1885 The whole Act so far as 79 unrepealed Session and Short Title Extent of Repeal Chapter (1) (2) (3)
+48 & 49 Vic. c. Crown Lands Act 1885 The whole Act so far as 79 unrepealed
 
 50 & 51 Vic. c. Settled Land Acts (Amendment) Act 1887 The whole Act so far as 30 unrepealed
 
@@ -354,7 +346,9 @@ No. 5 of 1957 Married Women’s Status Act 1957 Sections 2(4) and 2(5)
 
 No. 16 of 1964 Registration of Title Act 1964 Sections 3(2), 27, 37(2), 44(2), 52(3), 55(3), 61(1), 61(3)(b),
 
-No. 27 of 1965 Succession Act 1965 Sections 50(3), 58(2), 95 and 97 No. 3 of 1967 Landlord and Tenant (Ground Rents) Act 1967 Section 24(2)
+No. 27 of 1965 Succession Act 1965 Sections 50(3), 58(2), 95 and 97
+
+No. 3 of 1967 Landlord and Tenant (Ground Rents) Act 1967 Section 24(2)
 
 No. 10 of 1980 Landlord and Tenant (Amendment) Act 1980 Sections 79 and 80(2)
 
