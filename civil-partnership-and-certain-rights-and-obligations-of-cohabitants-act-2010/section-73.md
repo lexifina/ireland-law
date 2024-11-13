@@ -32,8 +32,6 @@ Insertion of new sections in Act of 1965.
 
 (6) The costs in the proceedings shall be at the discretion of the court.
 
-(7) An order under this section shall not be made except on an application made within 6 months from the first taking out of representation of the deceased’s estate.
-
-67B.— (1) If an intestate dies leaving issue and no spouse or civil partner, the estate shall be distributed among the issue in accordance with subsection (2).
+(7) An order under this section shall not be made except on an application made within 6 months from the first taking out of representation of the deceased’s estate. 67B.— (1) If an intestate dies leaving issue and no spouse or civil partner, the estate shall be distributed among the issue in accordance with subsection (2).
 
 (2) If all the issue are in equal degree of relationship to the deceased the distribution shall be in equal shares among them; if they are not, it shall be per stirpes.”.

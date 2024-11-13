@@ -12,9 +12,7 @@ Application for provision from estate of deceased cohabitant.
 
 (ii) any such order made by the court had not yet been executed, or
 
-(c) had, not later than 2 years after the relationship ended, made an application for an order under section 174,
-
-175 or 187 , the order was made, an application under section 173(6) was subsequently made in respect of that order and either—
+(c) had, not later than 2 years after the relationship ended, made an application for an order under section 174, 175 or 187 , the order was made, an application under section 173(6) was subsequently made in respect of that order and either—
 
 (i) the proceedings in respect of that application were pending at the time of the death, or
 
@@ -24,11 +22,7 @@ Application for provision from estate of deceased cohabitant.
 
 (4) In considering whether to make an order under this section, the court shall have regard to all the circumstances of the case, including—
 
-(a) an order made under section 173(6), 174 ,
-
-175 or
-
-187 in favour of the applicant,
+(a) an order made under section 173(6), 174 , 175 or 187 in favour of the applicant,
 
 (b) a devise or bequest made by the deceased in favour of the applicant,
 

@@ -118,7 +118,7 @@ Insertion of new Part 7A of Act of 2004.
 
 (d) give the corrected civil partnership registration form to one of the parties to the civil partnership.
 
-(4) If the registrar who receives an objection under subsection (1) believes that the possibility of the existence of an impediment to the intended civil partnership registration needs to be investigated, he or she shall refer the objection to an tArd-Chláraitheoir for consideration and, pending the decision of an tArd- Chláraitheoir, he or she shall—
+(4) If the registrar who receives an objection under subsection (1) believes that the possibility of the existence of an impediment to the intended civil partnership registration needs to be investigated, he or she shall refer the objection to an tArd-Chláraitheoir for consideration and, pending the decision of an tArd-Chláraitheoir, he or she shall—
 
 (a) notify the parties to the intended civil partnership registration that—
 
@@ -156,7 +156,7 @@ Insertion of new Part 7A of Act of 2004.
 
 (b) take all reasonable steps to ensure that the registration does not proceed.
 
-(9) If, notwithstanding the steps taken by the registrar pursuant to paragraph (8)(b), the civil registration proceeds, the entry in the register is invalid and any person who becomes aware of that entry into the register shall notify an tArd- Chláraitheoir of it.
+(9) If, notwithstanding the steps taken by the registrar pursuant to paragraph (8)(b), the civil registration proceeds, the entry in the register is invalid and any person who becomes aware of that entry into the register shall notify an tArd-Chláraitheoir of it.
 
 (10) When an tArd-Chláraitheoir becomes aware of an entry referred to in subsection (9)—
 
@@ -178,6 +178,4 @@ Insertion of new Part 7A of Act of 2004.
 
 (b) immediately after those declarations are made, give the registrar a signed certificate written in the language of the registration, to the effect that the interpreter has faithfully acted as interpreter.
 
-59H.— The parties to a registered civil partnership shall be taken to be civil partners of each other as soon as the registrar has countersigned the civil partnership form as required by section 59D(6)(a), regardless of whether the registrar has performed the actions required of him or her under section 59D(6)(c), and all duties and benefits that accrue to civil partners under the Act of 2010 or any other law accrue to them.
-
-59I.— This Part shall have effect notwithstanding any statutory provision that conflicts with it.”.
+59H.— The parties to a registered civil partnership shall be taken to be civil partners of each other as soon as the registrar has countersigned the civil partnership form as required by section 59D(6)(a), regardless of whether the registrar has performed the actions required of him or her under section 59D(6)(c), and all duties and benefits that accrue to civil partners under the Act of 2010 or any other law accrue to them. 59I.— This Part shall have effect notwithstanding any statutory provision that conflicts with it.”.
