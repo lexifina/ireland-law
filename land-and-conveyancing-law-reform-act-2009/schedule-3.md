@@ -68,9 +68,7 @@ Those covenants are subject to the following variations, that is to say—
 
 (a) liability in respect of any breach of the covenants extends to the acts or omissions of any person whether or not that person is within the classes of person set out in paragraph 1 of Part 1;
 
-(b) covenant (2) (for quiet enjoyment) is not implied against any mortgagor until the mortgagee has lawfully entered into possession of the land conveyed.
-
-Paragraph 4
+(b) covenant (2) (for quiet enjoyment) is not implied against any mortgagor until the mortgagee has lawfully entered into possession of the land conveyed. Paragraph 4
 
 Class 4 Conveyances
 
@@ -82,7 +80,9 @@ Covenants implied in a conveyance comprising a mortgage of land comprised in a l
 
 (6) That the covenantor will from time to time, so long as any money remains owing on the security of the land conveyed, pay the rent reserved by the grant or lease and perform and observe the covenants in it and will indemnify the person to whom the conveyance is made in respect of any consequences of the breach of this covenant.
 
-Paragraph 5 Class 5 Conveyances
+Paragraph 5
+
+Class 5 Conveyances
 
 Covenant implied in a conveyance made by a person who is expressed to convey “as trustee”, “as mortgagee”, “as personal representative” or under an order of the court.
 
