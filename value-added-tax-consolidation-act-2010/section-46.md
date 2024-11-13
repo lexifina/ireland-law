@@ -12,7 +12,7 @@ Rates of tax.
 
 (c) subject to paragraphs (ca), (caa) and (cb) 13.5 per cent of the amount on which tax is chargeable in relation to goods or services of a kind specified in Schedule 3;
 
-(ca) ... 9 per cent in relation to goods or services of a kind specified in paragraphs 7(a), 7A and 12 of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
+(ca) ... 9 per cent in relation to goods or services of a kind specified in paragraphs 7(a), 7A, 12 and 12A of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
 (caa) during the period from 1 May 2022 to 30 April 2025, 9 per cent in relation to goods of a kind specified in paragraph 17(2) and (3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
