@@ -1,10 +1,10 @@
 Functions of Commission.
 
-10C.—(1) Without prejudice to the generality of section 10B, the Commission shall once each year—
+10C.—(1) Without prejudice to the generality of section 10B, the Commission shall once each year, after consultation with and voluntary participation of the representatives of employers and employees—
 
-(a) examine the national minimum hourly rate of pay, and
+(a) examine the national minimum hourly rate of pay, prescribed percentages and allowances, and
 
-(b) make a recommendation to the Minister respecting the national minimum hourly rate of pay.
+(b) make a recommendation to the Minister respecting the national minimum hourly rate of pay, prescribed percentages and allowances.
 
 (2) (a) A recommendation under this section shall be accompanied by a report on the matters considered when making the recommendation.
 
@@ -12,7 +12,7 @@ Functions of Commission.
 
 (3) When making a recommendation under subsection (1)(b), the Commission shall have regard to—
 
-(a) changes in earnings during the relevant period,
+(a) changes in earnings during the relevant period, including their growth rate, general levels, and distribution,
 
 (b) changes in currency exchange rates during the relevant period,
 
@@ -28,7 +28,7 @@ Functions of Commission.
 
 (e) international comparisons, particularly with Great Britain and Northern Ireland,
 
-(f) the need for job creation, and
+(f) the need for job creation,
 
 (g) the likely effect that any proposed order will have on—
 
@@ -36,7 +36,13 @@ Functions of Commission.
 
 (ii) the cost of living, and
 
-(iii) national competitiveness.
+(iii) national competitiveness,
+
+(h) the purchasing power of the national minimum hourly rate of pay, taking into account the cost of living,
+
+(i) long-term national productivity levels and developments, and
+
+(j) indicative reference values used at international or national levels, such as 60% of the gross median wage, in order to guide the assessment of the adequacy of the national minimum hourly rate of pay.
 
 (4) (a) If so requested by the Minister, the Commission shall examine and report its views and recommendations on such matters, related generally to the functions of the Commission under this Act, as are specified by the Minister in that request.
 
@@ -52,14 +58,20 @@ Functions of Commission.
 
 (5) The Commission shall once every 3 years report generally on the operation of this Act and, in particular, on the impact of any orders made under section 10D on low pay, income distribution and employment costs.
 
-(6) When preparing a report under this section the Commission shall consult with such persons, including representatives of employers and employees, as it thinks appropriate.
+(6) When preparing a report under this section the Commission shall consult with representatives of employers and employees, and such other persons it thinks appropriate, in a timely and effective manner and shall consult in particular on—
+
+(a) the national minimum hourly rate of pay, prescribed percentages and allowances, and
+
+(b) decisions relating to the collection of data and the carrying out of studies and analyses to provide information to authorities and other representatives involved in setting the national minimum hourly rate of pay.
 
 (7) The Minister shall cause a copy of any report or recommendation furnished to him or her in accordance with this section to be laid before each House of the Oireachtas not later than 3 months after the receipt of that report or recommendation.
 
 (8) The Commission shall have all such powers as are necessary or expedient for the performance of its functions.
 
-(9) In this section "relevant period" means—
+(9) In this section—
 
-(a) in the case of the first report furnished under subsection (2)(b), the period since the most recent making of an order under section 11 of the Principal Act, or
+"allowances" means an allowance declared by order in accordance with section 10D(3);
 
-(b) in the case of a second or subsequent report furnished under subsection (2)(b), the period since the most recent making of an order under section 10D (inserted by section 8 of the Act of 2015).
+"prescribed percentages" means a percentage prescribed by the Minister in accordance with section 15(1);
+
+"relevant period" means the period since the most recent making of an order under section 10D (inserted by section 8 of the Act of 2015).

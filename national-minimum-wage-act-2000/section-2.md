@@ -12,6 +12,8 @@ Interpretation.
 
 "Commission" means the Low Pay Commission established under section 10A (inserted by section 5 of the Act of 2015);
 
+"Directive" means Directive (EU) 2022/2041 of the European Parliament and of the Council of 19 October 2022 on adequate minimum wages in the European Union;
+
 “employee” means a person of any age who has entered into, or works or has worked under, a contract of employment;
 
 “employer”, in relation to an employee, means the person with whom the employee has entered into, or for whom the employee works or has worked under, a contract of employment, and includes a transferee of an undertaking referred to in section 46;
@@ -35,6 +37,8 @@ Interpretation.
 “working hours” has the meaning assigned to it by section 8.
 
 (2) A reference in this Act to an employee of an employer shall be construed as a reference to an employee employed by that employer or to whom the employer is liable to pay wages and for that purpose a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act, 1956) shall be deemed to be an employee employed by the State or the Government and an officer or servant of a local authority for the purposes of the Local Government Act, 1941, or of a harbour authority or of a health board, or a member of staff of an education and training board, shall be deemed to be an employee employed by the respective authority or board.
+
+(2A) A word or expression used in section 10C that is also used in the Directive has, unless the context otherwise requires, the same meaning in this Act as it has in that Directive.
 
 (3) In this Act—
 
