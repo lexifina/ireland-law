@@ -2,7 +2,7 @@
 
 Definitions and application.
 
-66A. (1) In this Part—
+66A.— (1) In this Part—
 
 "durable medium" means any medium on which information is provided and stored, including paper and email, that—
 

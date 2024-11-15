@@ -1,6 +1,6 @@
 Arrangements for the secondment of certain employees
 
-24G. (1) In this section—
+24G.— (1) In this section—
 
 "Bank" means the Central Bank of Ireland;
 

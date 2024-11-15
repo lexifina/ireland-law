@@ -1,6 +1,6 @@
 Arrangements in relation to collection of levies.
 
-24D.—(1) The Agency may enter into an arrangement with a prescribed body in relation to the collection of a levy.
+24D.— (1) The Agency may enter into an arrangement with a prescribed body in relation to the collection of a levy.
 
 (2) An arrangement referred to in subsection (1) is to be for the purpose of enabling the Agency or prescribed body to collect the relevant levy from each person or body obliged to pay it and pay the collected levy to the entity entitled to receive it.
 

@@ -1,6 +1,6 @@
 Arrangements in relation to the collection of information relevant to levy collection
 
-24F. (1) The Commission may, for the purpose of obtaining any information which may be required in relation to the calculation of levies to be imposed under section 24B require persons who are subject to such levies to provide the Commission within such reasonable period as the Commission may determine, with such information as the Commission may reasonably require in relation to the calculation of the amounts of the said levies.
+24F.— (1) The Commission may, for the purpose of obtaining any information which may be required in relation to the calculation of levies to be imposed under section 24B require persons who are subject to such levies to provide the Commission within such reasonable period as the Commission may determine, with such information as the Commission may reasonably require in relation to the calculation of the amounts of the said levies.
 
 (2) A person who—
 

@@ -2,7 +2,7 @@
 
 Interpretation.
 
-63A. In this Chapter—
+63A.— In this Chapter—
 
 "allowance" includes any discount, rebate, price concession or other advantage that is collateral to a sale or purchase of grocery goods but is not applied directly to the selling or purchase price;
 

@@ -1,6 +1,6 @@
 Terms of gift voucher contracts.
 
-66B. (1) (a) Subject to subsection (5), a gift voucher contract shall contain a term that the gift voucher is—
+66B.— (1) (a) Subject to subsection (5), a gift voucher contract shall contain a term that the gift voucher is—
 
 (i) subject to an expiry date that is at least 5 years from the date on which the contract was entered into, or
 

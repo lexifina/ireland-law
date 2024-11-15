@@ -1,6 +1,6 @@
 Contravention notices.
 
-63D. (1) Where, on foot of an investigation carried out by the Commission under section 63C, the Commission is of the opinion that a relevant grocery goods undertaking is contravening or has contravened any provision of regulations made under section 63B that is stated in those regulations to be a penal provision, the Commission may instruct an authorised officer to serve, personally or by post, a notice (in this Chapter referred to as a "contravention notice") on the relevant grocery goods undertaking.
+63D.— (1) Where, on foot of an investigation carried out by the Commission under section 63C, the Commission is of the opinion that a relevant grocery goods undertaking is contravening or has contravened any provision of regulations made under section 63B that is stated in those regulations to be a penal provision, the Commission may instruct an authorised officer to serve, personally or by post, a notice (in this Chapter referred to as a "contravention notice") on the relevant grocery goods undertaking.
 
 (2) A contravention notice shall—
 

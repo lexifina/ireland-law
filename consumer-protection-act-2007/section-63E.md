@@ -1,6 +1,6 @@
 Enforcement.
 
-63E. (1) A relevant grocery goods undertaking that contravenes a requirement in a contravention notice commits an offence and is liable—
+63E.— (1) A relevant grocery goods undertaking that contravenes a requirement in a contravention notice commits an offence and is liable—
 
 (a) on summary conviction, to the fines and penalties provided for in section 79, or
 

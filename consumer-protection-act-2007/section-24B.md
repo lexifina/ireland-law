@@ -1,6 +1,6 @@
 Power to impose levies.
 
-24B.—(1) The Agency may make regulations prescribing levies to be paid by persons who are subject to regulation under the designated enactments and designated statutory instruments (within the respective meanings given by the Central Bank Act 1942).
+24B.— (1) The Agency may make regulations prescribing levies to be paid by persons who are subject to regulation under the designated enactments and designated statutory instruments (within the respective meanings given by the Central Bank Act 1942).
 
 (2) A levy prescribed under subsection (1) shall relate only to the Agency’s performance of its functions referred to in section 10(3)(j) of the Competition and Consumer Protection Act 2014.
 

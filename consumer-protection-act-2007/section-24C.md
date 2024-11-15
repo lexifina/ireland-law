@@ -1,6 +1,6 @@
 Surplus or deficiency in certain income of Agency during financial year.
 
-24C.—(1) If the total sum received by the Agency on account of levies prescribed under section 24B during a financial year is greater than the Agency’s expenditure on the performance of its functions referred to in section 10(3)(j) of the Competition and Consumer Protection Act 2014 during that financial year, the Agency—
+24C.— (1) If the total sum received by the Agency on account of levies prescribed under section 24B during a financial year is greater than the Agency’s expenditure on the performance of its functions referred to in section 10(3)(j) of the Competition and Consumer Protection Act 2014 during that financial year, the Agency—
 
 (a) shall apply the surplus to the performance of those functions and the exercise of those powers in the following financial year, and
 

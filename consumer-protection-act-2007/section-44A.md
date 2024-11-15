@@ -1,6 +1,6 @@
 Misleading: marketing of goods as identical where significantly different.
 
-44A.—(1) A commercial practice is misleading if—
+44A.— (1) A commercial practice is misleading if—
 
 (a) unless justified by legitimate and objective factors, it involves any marketing of goods in a Member State as being identical to goods marketed in other Member States where the goods have significantly different composition or characteristics, and
 

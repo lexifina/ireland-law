@@ -1,6 +1,6 @@
 Regulations in respect of grocery goods undertakings.
 
-63B. (1) Where the Minister considers it to be appropriate having regard to—
+63B.— (1) Where the Minister considers it to be appropriate having regard to—
 
 (a) the desirability of the promotion of competitive trade between grocery goods undertakings,
 
