@@ -36,10 +36,4 @@ Eligibility criteria for application to register as AHB
 
 (II) requiring that all of its property (both real and personal) be applied solely in furtherance of its primary object or primary objects specified in subparagraph (i), except for moneys expended in the operation and maintenance of the person, including moneys paid in remuneration and superannuation of members of its staff.
 
-(3) In this section references to the provision of dwellings for the purpose of the alleviation of housing need mean the provision of dwellings, in the State, with assistance given by a housing authority under section 6 of the Act of 1992—
-
-(a) for letting to persons assessed under section 20 of the Act of 2009 as being eligible for social housing support (within the meaning of that Act),
-
-(b) for letting to persons who are not qualified for social housing support (within the meaning of the Act of 2009) but whose income would not be adequate to meet the rental payments for a dwelling to meet the person’s reasonable accommodation needs because the rental payments calculated over the course of a year would exceed 35 per cent of that person’s annual income net of income tax and pay related social insurance, or
-
-(c) for sale under affordable dwelling purchase arrangements under Part 5 of the Act of 2009 to eligible households (within the meaning of Part 5 of the Act of 2009).
+(3) ...

@@ -14,7 +14,7 @@ Protection of AHBs
 
 (f) there is a serious risk to the financial viability of an AHB,
 
-(g) it is necessary for the purpose of the protection of the tenants of dwellings provided or managed, as the case may be, by an AHB for the purpose specified in section 25(2)(b)(i), or
+(g) it is necessary for the purpose of the protection of the tenants of dwellings provided or, as the case may be, managed by an AHB for the purpose of alleviating a housing need, or
 
 (h) information tending to show any matter falling within any of the preceding paragraphs has been or is being concealed or destroyed, the High Court may make such order as it considers appropriate in the circumstances.
 

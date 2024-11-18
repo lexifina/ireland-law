@@ -20,7 +20,7 @@ Funding of the Land Development Agency
 
 (b) paid under subsection (1)(d), shall not at any time exceed €1,250,000,000.
 
-(3A) The total amount paid under subsection (1)(e) shall not at any time exceed €1,250,000,000.
+(3A) The total amount paid under subsection (1)(e) shall not at any time exceed €2,500,000,000.
 
 (4) For the purpose of calculating the amount referred to in subsection (3), the equivalent in the currency of the State of amounts loaned or paid in a currency other than the currency of the State shall be calculated at the rate of exchange prevailing at the time the calculation is made.
 

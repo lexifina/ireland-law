@@ -14,11 +14,7 @@ Interpretation
 
 “Appeals Panel” means the Appeals Panel established under section 61;
 
-“approved housing body” means—
-
-(a) a person registered in the register as an approved housing body under section 28, or
-
-(b) a person who, by virtue of section 34(1), is deemed to be registered in the register as an approved housing body;
+"approved housing body" means a person registered in the register in accordance with section 28(2)(a) as an approved housing body;
 
 “approved standards” means standards approved and published under section 37;
 
@@ -30,9 +26,9 @@ Interpretation
 
 “chief executive” means the chief executive officer of the Regulator appointed under section 11;
 
-“common areas, structures, works and services” means, in relation to dwellings provided for the purpose specified in section 25(2)(b)(i), areas, structures, works and services that are, or are intended to be, common to such dwellings and enjoyed therewith, including, where relevant, access and side roads, architectural features, circulation areas, footpaths, internal common stairways, open spaces, parking areas, utility rooms and that portion of the roof or exterior of any building not intended to form or not forming part of any individual dwelling;
+“common areas, structures, works and services” means, in relation to dwellings provided for the purpose of alleviating a housing need, areas, structures, works and services that are, or are intended to be, common to such dwellings and enjoyed therewith, including, where relevant, access and side roads, architectural features, circulation areas, footpaths, internal common stairways, open spaces, parking areas, utility rooms and that portion of the roof or exterior of any building not intended to form or not forming part of any individual dwelling;
 
-“communal facilities and amenities” means, in relation to dwellings provided for the purpose specified in section 25(2)(b)(i), areas, structures, works and services that are, or are intended to be, common to such dwellings and enjoyed therewith and used for the common benefit or enjoyment of tenants of those dwellings, including, but not limited to, facilities for sanitation, heating, refuse, food preparation, dining, storage, laundry, child care and recreation;
+“communal facilities and amenities” means, in relation to dwellings provided for the purpose of alleviating a housing need, areas, structures, works and services that are, or are intended to be, common to such dwellings and enjoyed therewith and used for the common benefit or enjoyment of tenants of those dwellings, including, but not limited to, facilities for sanitation, heating, refuse, food preparation, dining, storage, laundry, child care and recreation;
 
 “company” means a company formed and registered under the Act of 2014 or an existing company within the meaning of that Act;
 
@@ -75,6 +71,8 @@ Interpretation
 “notice of non-compliance” has the meaning given to it by section 39(2);
 
 “notice of non-implementation” has the meaning given to it by section 42(1);
+
+"purpose of alleviating a housing need" shall be construed in accordance with section 2A;
 
 “record” includes, in addition to any record in writing—
 
