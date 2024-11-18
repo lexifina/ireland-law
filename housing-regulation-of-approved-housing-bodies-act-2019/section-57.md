@@ -8,17 +8,19 @@ Cancellation of registration where AHB requests
 
 (3) For the purposes of the consideration by the Regulator of the request under subsection (1), an AHB shall give to the Regulator—
 
-(a) information on its proposals, having regard to the terms and conditions of any assistance given to the AHB under section 6 of the Act of 1992, relating to dwellings provided or managed by it in furtherance of its primary object or primary objects specified in section 25(2)(b)(i), and
+(a) information on its proposals relating to dwellings provided or managed by it,
+
+(aa) without prejudice to paragraph (a), information on its proposals, having regard to the terms and conditions of any assistance given to the AHB under section 6 of the Act of 1992, or under Part 3 of the Affordable Housing Act 2021, relating to dwellings provided or managed by it for the purpose of alleviating a housing need, and
 
 (b) such other information, specified by the Regulator under subsection (2), as the Regulator may reasonably require for the purposes of this section.
 
-(4) An AHB shall give a copy of a notice under subsection (1) to each housing authority in whose functional area any dwellings referred to in subsection (3)(a) are situated and shall, where requested by the Regulator, confirm, in writing, to the Regulator that such a copy has been so given.
+(4) An AHB shall give a copy of a notice under subsection (1) to each housing authority in whose functional area any dwellings referred to in subsection (3)(aa) are situated and shall, where requested by the Regulator, confirm, in writing, to the Regulator that such a copy has been so given.
 
-(5) A housing authority to whom a copy of a notice under subsection (1) is given under subsection (4) may make representations, in writing, to the Regulator concerning the notice.
+(5) A housing authority to whom a copy of a notice under subsection (1) is given under subsection (4) may make representations, in writing, to the Regulator concerning the information referred to in subsection (3)(aa) contained in the notice.
 
 (6) The Regulator shall grant a request in a notice under subsection (1) for cancellation of the registration of an AHB unless—
 
-(a) the Regulator, having considered the information in the notice and the representations, if any, made by a housing authority in accordance with subsection (5),considers that any proposals referred to in subsection (3)(a) are not in compliance with the terms and conditions referred to in subsection (3)(a),
+(a) the Regulator, having considered the information in the notice and the representations, if any, made by a housing authority in accordance with subsection (5),considers that any proposals referred to in subsection (3)(aa) are not in compliance with the terms and conditions referred to in subsection (3)(aa),
 
 (b) the Regulator considers that removal is sought with a view to enabling the AHB to distribute its assets to members,
 

@@ -12,7 +12,7 @@ Lettings of cost rental dwelling
 
 (iv) having due regard to the accommodation needs of proposed tenants and to the size and type of dwelling concerned, and
 
-(b) comply with regulations made by the Minister under subsection (3).
+(b) subject to section 31A(8), comply with regulations made by the Minister under subsection (3).
 
 (2) The landlord of a cost rental dwelling may only enter into a tenancy agreement in respect of that dwelling that complies with regulations under this section and includes such mandatory terms as the Minister may prescribe.
 
@@ -20,7 +20,7 @@ Lettings of cost rental dwelling
 
 (a) the process by which vacancies which may arise in cost rental dwellings are to be notified to the public, applied for and allocated;
 
-(b) eligibility requirements in respect of tenants, including maximum and minimum income levels for tenants and the households of tenants, having regard to the type, size, and location of the dwelling, and the size and composition of the household;
+(b) eligibility requirements in respect of tenants, including the composition of a household and maximum and minimum income levels for tenants and the households of tenants, having regard to the type, size, and location of the dwelling, and the size and composition of the household;
 
 (c) the process by which tenants are to be selected;
 
@@ -31,3 +31,5 @@ Lettings of cost rental dwelling
 (f) the form and content of a cost rental tenancy agreement, including mandatory terms of the agreement, which may include, but shall not be limited to, covenants on the part of the landlord and the tenant, agreements and provisos with regard to the cost rental tenancy, provision for the giving or service of notices, deemed dates of receipt of notices and other incidental and consequential matters.
 
 (4) Regulations under this section shall not affect the discretion of the owner of a cost rental dwelling to proceed or not to proceed with any particular letting notwithstanding that a prospective tenant is eligible under such regulations.
+
+(5) This section shall not apply to a letting of a cost rental dwelling in accordance with section 31B(4).

@@ -14,19 +14,19 @@ Cancellation of registration on specified grounds
 
 (b) that the AHB has failed or is failing to comply with any provision of, or a requirement or direction under, this Act;
 
-(c) that the AHB no longer satisfies the eligibility criteria or any of them;
+(c) in the case of an AHB other than an AHB referred to in section 26A, that the AHB no longer satisfies the eligibility criteria or any of them;
 
-(d) that there are grounds on which the Regulator would be entitled or required to refuse an application under section 27 for the registration of the AHB;
+(d) that there are grounds on which the Regulator would be entitled or required to refuse an application under section 27 for the registration of the AHB .
 
-(e) that the AHB is an AHB to which section 34(9) or (10), as the case may be, applies.
+(e) ...
 
-(3) If the Regulator proposes to cancel the registration of an AHB under subsection (1), the Regulator shall give notice of the proposal and of the reasons for it to the AHB and, in so far as it is practicable, to each housing authority in whose functional area any dwellings provided or managed by the AHB in furtherance of its primary object or primary objects specified in section 25(2)(b)(i) are situated.
+(3) If the Regulator proposes to cancel the registration of an AHB under subsection (1), the Regulator shall give notice of the proposal and of the reasons for it to the AHB and, in so far as it is practicable, to each housing authority in whose functional area any dwellings provided or managed by the AHB for the purpose of alleviating a housing need are situated.
 
 (4) A notice of a proposal under subsection (3) shall include a statement that within the period specified in the notice, being a period of not less than 21 days from the date of the notice—
 
 (a) the AHB shall give to the Regulator—
 
-(i) information on its proposals, having regard to the terms and conditions of any assistance given to the AHB under section 6 of the Act of 1992, relating to dwellings provided or managed by it in furtherance of its primary object or primary objects specified in section 25(2)(b)(i), and
+(i) information on its proposals relating to dwellings provided or managed by it for the purpose of alleviating a housing need, and
 
 (ii) such other information, specified in the notice, as the Regulator may reasonably require for the purposes of this section, and
 

@@ -6,13 +6,9 @@ Protection of tenants: requirement to transfer certain dwellings
 
 53. (1) This section applies to the following persons:
 
-(a) a person who is deemed to be registered as an AHB by virtue of section 34(1) and who fails to apply for registration under section 27 —
+(a) ...
 
-(i) before the end of the period specified in section 34(6)(a), (b), (c) or (d), as the case may be, or any extension of that period under section 34(7), or
-
-(ii) before the end of the period specified in a notice under section 34(10)(a);
-
-(b) a person who is deemed to be registered as an AHB by virtue of section 34(1) and, in respect of whose application for registration under section 27, notice of a decision to refuse to grant the application is given under section 31;
+(b) ...
 
 (c) an AHB who, by notice given to the Regulator under section 57(1), requests cancellation of its registration as an AHB;
 
@@ -20,7 +16,7 @@ Protection of tenants: requirement to transfer certain dwellings
 
 (e) an AHB whose registration is cancelled under section 57 or 58, as the case may be.
 
-(2) Where the Regulator considers that it is necessary to do so for the purpose of the protection of tenants of dwellings provided for the purpose specified in sectio 25(2)(b)(i) by a person to whom this section applies, the Regulator may, by notice to such person, require the person to transfer all or any of such dwellings, without prejudice to any right or interest of the tenants concerned in the dwellings, together with any common areas, structures, works and services and communal facilities and amenities that are in the ownership or under the control of that person, to an AHB identified by the Regulator or to such other person as the Regulator considers appropriate.
+(2) Where the Regulator considers that it is necessary to do so for the purpose of the protection of tenants of dwellings provided for the purpose of alleviating a housing need by a person to whom this section applies, the Regulator may, by notice to such person, require the person to transfer all or any of such dwellings, without prejudice to any right or interest of the tenants concerned in the dwellings, together with any common areas, structures, works and services and communal facilities and amenities that are in the ownership or under the control of that person, to an AHB identified by the Regulator or to such other person as the Regulator considers appropriate.
 
 (3) A notice under subsection (2) shall set out—
 

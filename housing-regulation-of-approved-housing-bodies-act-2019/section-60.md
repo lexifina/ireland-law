@@ -14,7 +14,7 @@ Removal from register following cancellation of registration
 
 (i) the Residential Tenancies Board,
 
-(ii) in so far as it is practicable to do so, each housing authority in whose functional area any dwellings provided or managed by the AHB concerned in furtherance of its primary object or primary objects specified in section 25(2)(b)(i) are situated, and
+(ii) in so far as it is practicable to do so, each housing authority in whose functional area any dwellings provided or, as the case may be, managed by the AHB concerned for the purpose of alleviating a housing need are situated, and
 
 (iii) in the case of a registered charitable organisation, the Charities Regulatory Authority, that the registration of the AHB has been cancelled.
 

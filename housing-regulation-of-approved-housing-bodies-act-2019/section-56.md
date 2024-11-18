@@ -54,7 +54,7 @@ Examinership: modification of Part 10 of Act of 2014 for purposes of application
 
 (f) in section 539(1), the following paragraph is inserted after paragraph (g):
 
-“(ga) in the case of a company referred to in section 510(6), include proposals for the protection of dwellings provided or managed in furtherance of the primary object or primary objects of the company as specified in section 25(2)(b)(i) of the Housing (Regulation of Approved Housing Bodies) Act 2019,”,
+“(ga) in the case of a company referred to in section 510(6), include proposals for the protection of dwellings provided or, as the case may be, managed for the purpose of alleviating a housing need,”,
 
 (g) in section 540, the following subsection is inserted after subsection (12):
 
