@@ -4,7 +4,9 @@ Amendments to Act of 2009
 
 (a) in section 2—
 
-(i) in the definition of “affordable housing”, by the substitution of “affordable dwellings within the meaning of section 4 of the Affordable Housing Act 2021 purchased under Part 2 of that Act” for “affordable dwellings purchased under affordable dwelling purchase arrangements under Part 5”, and
+(i) in the definition of “affordable housing”, by the substitution of “affordable dwellings within the meaning of section 4 of the Affordable Housing Act 2021 purchased under Part 2 of that Act” for
+
+“affordable dwellings purchased under affordable dwelling purchase arrangements under Part 5”, and
 
 (ii) in the definition of “material improvements”, by the substitution of “means improvements made to a dwelling sold under an incremental purchase arrangement under Part 3” for “means improvements made to - (a) a dwelling sold under an incremental purchase arrangement under Part 3, or (b) subject to section 78(3), a dwelling sold under an affordable dwelling purchase arrangement under Part 5”,
 

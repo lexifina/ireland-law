@@ -80,13 +80,13 @@ Table
 
 Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
 
-1. section section 23 subsection (13) 75(4)(b) Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
+1. section section 23 subsection (13) 75(4)(b)
 
 2. section sections 19 or as subsections (2), A referral of any such 78(1)(b) the case may be (3)(a) and (4)(a) dispute or complaint 19A must be made before—
 
 (a) the date on which the tenancy is to begin, or
 
-(b) the expiry of 28 days from the date of the cost rental tenancy agreement
+(b) the expiry of 28 days from the date of the Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4) cost rental tenancy agreement
 
 3. section Part 3 subsections (2), A referral of any such 78(1)(c) (3)(b), (4)(b) and dispute or complaint (5) to (12) must be made before the expiry of 28 days from the receipt by the tenant of the rent review notice
 
