@@ -14,8 +14,12 @@ Days not to be treated as days of unemployment.
 
 (II) not less than 117 employment contributions have been paid in respect of him or her in respect of the period of 3 years immediately preceding that day or in respect of the last 3 complete contribution years immediately preceding that day, or
 
-(ii) constitutes employment as a retained fire fighter.
+(ii) constitutes employment as a retained fire fighter, or
+
+(iii) is subject to an agreement at the Workplace Relations Commission or the Labour Court under which the person is retained in their occupation by their employer, without undertaking any gainful employment for that employer, and the total remuneration does not exceed €144 on a weekly basis and will be reviewed every 13 weeks.
 
 (2) Where the provisions of sub-paragraph (1)(b)(ii) are satisfied as respects any day they shall continue to be regarded as satisfied in respect of any subsequent day which is in the same period of interruption of employment.
 
 (3) For the purposes of Chapter 12 of Part 2 and notwithstanding the provisions of sub-article (1)(b), any day on which a person is undergoing a course of rehabilitation training provided by an organisation (being an organisation approved of by the Minister for Health and Children for the purposes of the provision of such training) shall be treated as a day of unemployment and the person shall be deemed to be available for employment on any such day.
+
+(4) For the purposes of Chapter 12 of Part 2, and notwithstanding any other provision in this article, where a person is entitled to jobseeker’s benefit in respect of any day in a payment week, and that person commences employment in that payment week, which results in their claim to jobseeker’s benefit being closed, any remaining days in that payment week where they would have been ordinarily entitled to jobseeker’s benefit but for the reason that they commenced employment, shall be considered to be a day of unemployment.
