@@ -2,6 +2,8 @@ Compliance with statutory requirements etc.
 
 17.—(1) In relation to discrimination on the civil status ground, nothing in this Act shall render unlawful any act done in compliance with any provision of the Maternity Protection Act, 1994, or the Adoptive Leave Act, 1995.
 
+(1A) In relation to discrimination on the disability ground, nothing in this Act shall render unlawful any act done in compliance with any provision of section 14C of the Maternity Protection Act 1994.
+
 (2) In relation to discrimination on the basis of nationality, nothing in this Act shall render unlawful any action taken in accordance with the Employment Permits Act 2024.
 
 (3) In relation to discrimination on the age ground or the disability ground, nothing in this Act shall render unlawful any act done in compliance with any provision made by or under—
