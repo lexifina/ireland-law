@@ -1,4 +1,4 @@
-Provisions
+Provisions regarding periods of probation, training and apprenticeship.
 
 25.—(1) During an employee’s absence from work while on protective leave, being an employee who, starting with the commencement of her or his employment with the employer—
 
