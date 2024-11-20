@@ -1,4 +1,4 @@
-F42[Termination of leave in event of sickness of F43[father or other parent].
+F47[Termination of leave in event of sickness of F48[father or other parent].
 
 16A.—(1) If, at any time—
 

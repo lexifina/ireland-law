@@ -1,4 +1,4 @@
-F30[Entitlement to time off from work or reduction of working hours for breastfeeding.
+F35[Entitlement to time off from work or reduction of working hours for breastfeeding.
 
 15B.—(1) An employee who is breastfeeding shall be entitled, without loss of pay, at the option of her employer to either—
 

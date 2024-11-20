@@ -1,4 +1,4 @@
-Right to time off from work for antenatal or post-natal care.
+Right to time off from work for antenatal or postnatal care.
 
 15.—(1) For the purpose of receiving ante-natal or post-natal care or both, an employee shall be entitled to time off from her work, without loss of pay, in accordance with regulations made under this section by the Minister.
 

@@ -1,4 +1,4 @@
-Entitlement of employed F31[father or other parent, as the case may be,] to leave on death of mother.
+Entitlement of employed F36[father or other parent, as the case may be,] to leave on death of mother.
 
 16.—(1) If a woman or other person who has been delivered of a living child (in this section referred to as "the mother") dies at any time before the expiry of the fortieth week following the week of her confinement, the father or other parent, as the case may be, of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section to leave from his employment for a period ending as follows—
 

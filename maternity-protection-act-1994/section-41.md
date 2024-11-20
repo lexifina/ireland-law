@@ -26,34 +26,4 @@ Protection of employee’s rights on insolvency of employer.
 
 ACTS REFERRED TO
 
-Bankruptcy Act, 1988 1988, No. 27
-
-Civil Service Regulation Act, 1956 1956, No. 46
-
-Companies Act, 1963 1963, No. 33
-
-Courts Act, 1981 1981, No. 11
-
-Employment Agency Act, 1971 1971, No. 27
-
-Holidays (Employees) Act, 1973 1973, No. 25
-
-Local Government Act, 1941 1941, No. 23
-
-Maternity Protection of Employees Act, 1981 1981, No. 2
-
-Maternity Protection of Employees Acts, 1981 and 1991
-
-Minimum Notice and Terms of Employment Act, 1973 1973, No. 4
-
-Protection of Employees (Employers’ Insolvency) Act, 1984, No. 21 1984
-
-Redundancy Payments Act, 1967 1967, No. 21
-
-Redundancy Payments Acts, 1967 to 1991
-
-Safety, Health and Welfare at Work Act, 1989 1989, No. 7
-
-Social Welfare (Consolidation) Act, 1993 1993, No. 27
-
-Unfair Dismissals Act, 1977 1977, No. 10
+Bankruptcy Act, 1988 1988, No. 27 Civil Service Regulation Act, 1956 1956, No. 46 Companies Act, 1963 1963, No. 33 Courts Act, 1981 1981, No. 11 Employment Agency Act, 1971 1971, No. 27 Holidays (Employees) Act, 1973 1973, No. 25 Local Government Act, 1941 1941, No. 23 Maternity Protection of Employees Act, 1981 1981, No. 2 Maternity Protection of Employees Acts, 1981 and 1991 Minimum Notice and Terms of Employment Act, 1973 1973, No. 4 Protection of Employees (Employers’ Insolvency) Act, 1984 1984, No. 21 Redundancy Payments Act, 1967 1967, No. 21 Redundancy Payments Acts, 1967 to 1991 Safety, Health and Welfare at Work Act, 1989 1989, No. 7 Social Welfare (Consolidation) Act, 1993 1993, No. 27 Unfair Dismissals Act, 1977 1977, No. 10
