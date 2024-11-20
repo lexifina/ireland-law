@@ -1,4 +1,4 @@
-Investigations by F129[Director General of the Workplace Relations Commission] or the Labour Court.
+Investigations by F131[Director General of the Workplace Relations Commission] or the Labour Court.
 
 79.—(1) Where a case which has been referred to the Director General of the Workplace Relations Commission under section 77—
 

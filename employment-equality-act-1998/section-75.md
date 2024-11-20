@@ -1,6 +1,6 @@
 ## Equality Investigations
 
-F111[Director General of the Workplace Relations Commission] and other officers.
+F113[Director General of the Workplace Relations Commission] and other officers.
 
 75.—(1) ...
 
