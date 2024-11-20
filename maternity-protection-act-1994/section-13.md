@@ -6,7 +6,7 @@ Commencement of maternity leave (early confinement).
 
 (a) 26 consecutive weeks and a further period of maternity leave in respect of a date of confinement that occurred on or after 1 October 2017, the duration of which is equal to the duration of the premature birth period, or
 
-(b) 26 weeks and a further period of maternity leave in respect of a date of confinement that occurred on or after 1 October 2017, the duration of which is equal to the duration of the premature birth period part of which is postponed in accordance with section 14B, as may be appropriate, commencing on whichever of the following is the earlier—
+(b) 26 weeks and a further period of maternity leave in respect of a date of confinement that occurred on or after 1 October 2017, the duration of which is equal to the duration of the premature birth period part of which is postponed in accordance with section 14B or section 14C, as may be appropriate, commencing on whichever of the following is the earlier—
 
 (i) the first day of maternity leave taken in accordance with section 10, or
 
