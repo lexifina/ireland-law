@@ -1,6 +1,6 @@
 Membership of certain bodies.
 
-13. (1)—A body which—
+13.—(1)A body which—
 
 (a) is an organisation of workers or of employers,
 

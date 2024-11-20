@@ -16,7 +16,7 @@ Nature and extent of employer’s obligations in certain cases.
 
 (c) the admission of an individual to membership of a regulatory body or into a profession, vocation or occupation controlled by a regulatory body, subsection (1) shall apply, with any necessary modification, as it applies to the recruitment of an individual to a position.
 
-(3) (a) For the purposes of this Act a person who has a disability is fully competent to undertake, and fully capable of undertaking, any duties if the person would be so fully competent and capable on reasonable accommodation (in this subsection referred to as ‘appropriate measures’) being provided by the person’s employer.
+(3) (a) For the purposes of this Act a person who has a disability is fully competent to undertake, and fully capable of undertaking, any duties if the person would be so fully competent and capable on reasonable accommodation (in this subsection referred to as "appropriate measures") being provided by the person’s employer.
 
 (b) The employer shall take appropriate measures, where needed in a particular case, to enable a person who has a disability—
 
@@ -36,7 +36,7 @@ Nature and extent of employer’s obligations in certain cases.
 
 (4) In subsection (3)—
 
-‘appropriate measures’, in relation to a person with a disability—
+"appropriate measures", in relation to a person with a disability—
 
 (a) means effective and practical measures, where needed in a particular case, to adapt the employer’s place of business to the disability concerned,
 

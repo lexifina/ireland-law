@@ -1,3 +1,5 @@
+## Vicarious Liability etc.
+
 Liability of employers and principals.
 
 15.—(1) Anything done by a person in the course of his or her employment shall, in any proceedings brought under this Act, be treated for the purposes of this Act as done also by that person’s employer, whether or not it was done with the employer’s knowledge or approval.
