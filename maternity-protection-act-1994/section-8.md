@@ -4,7 +4,7 @@ Entitlement to maternity leave.
 
 (a) 26 consecutive weeks, or
 
-(b) 26 weeks part of which is postponed in accordance with section 14B, as may be appropriate.
+(b) 26 weeks part of which is postponed in accordance with section 14B or section 14C, as may be appropriate.
 
 (1A) Subject to this Part, a pregnant employee referred to in subsection (1) shall be entitled to a further period of maternity leave that is in addition to the minimum period of maternity leave referred to in paragraphs (a) or (b) of subsection (1), if, on or after 1 October 2017 the date of confinement occurs more than 2 weeks before the expected week of confinement.
 
