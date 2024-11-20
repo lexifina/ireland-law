@@ -1,6 +1,6 @@
-F28[Postponement of maternity leave or additional maternity leave in event of hospitalisation of child.
+F31[Postponement of maternity leave or additional maternity leave in event of hospitalisation of child.
 
-14B.—(1) Subject to subsection (2), an employee who is on maternity leave or is entitled to, or is on, additional maternity leave may, if the child in connection with whose birth she is on, or is entitled to, that leave (in this section referred to as "the child") is hospitalised, request in writing (or cause a written request to be submitted to) her employer to postpone—
+14B.—(1) Subject to subsection (2) and section 14C(10), an employee who is on maternity leave or is entitled to, or is on, additional maternity leave may, if the child in connection with whose birth she is on, or is entitled to, that leave (in this section referred to as "the child") is hospitalised, request in writing (or cause a written request to be submitted to) her employer to postpone—
 
 (a) part of the maternity leave,
 
