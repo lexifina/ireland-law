@@ -6,7 +6,9 @@ Amendment of sections 4 and 5 of Act of 2010 - offences involving certain drugs
 
 “(1A) Subject to subsection (1B), a person shall not drive or attempt to drive a mechanically propelled vehicle in a public place while there is present in his or her body a quantity of a drug specified in column (2) of the Schedule such that, within 3 hours after so driving or attempting to drive, the concentration of that drug in his or her blood is equal to or greater than the concentration specified in column (3) at the same reference number.
 
-(1B) Subsection (1A) does not apply to a person in respect of a drug specified at reference number 1 or 2 in column (2) of the Schedule where the person is the holder of a certificate, in the prescribed form (referred to in this Part as a “medical exemption certificate”) which indicates that at the time at which that drug was found to be present in his or her blood Δ - Tetrahydrocannabinol had been lawfully prescribed for him or her and which is signed by the doctor who prescribed it. (1C) A person who signs a medical exemption certificate containing information which he or she knows to be false commits an offence and is liable on summary conviction to a class C fine.”,
+(1B) Subsection (1A) does not apply to a person in respect of a drug specified at reference number 1 or 2 in column (2) of the Schedule where the person is the holder of a certificate, in the prescribed form (referred to in this Part as a “medical exemption certificate”) which indicates that at the time at which that drug was found to be present in his or her blood Δ - Tetrahydrocannabinol had been lawfully prescribed for him or her and which is signed by the doctor who prescribed it.
+
+(1C) A person who signs a medical exemption certificate containing information which he or she knows to be false commits an offence and is liable on summary conviction to a class C fine.”,
 
 (b) in section 5, by inserting after subsection (1) the following:
 
