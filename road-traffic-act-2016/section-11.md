@@ -36,7 +36,9 @@ Mandatory intoxicant testing
 
 (a) refuses or fails to comply immediately with a requirement under subsection (4) (other than subsection (4)(d)(ii)) or such a requirement in a manner indicated by a member of the Garda Síochána under subsection (5), or
 
-(b) without reasonable excuse, refuses or fails to comply immediately with a requirement under subsection (4)(d)(ii) or such a requirement in a manner indicated by a member of the Garda Síochána under subsection (5), commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both. (7) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
+(b) without reasonable excuse, refuses or fails to comply immediately with a requirement under subsection (4)(d)(ii) or such a requirement in a manner indicated by a member of the Garda Síochána under subsection (5), commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+
+(7) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
 
 (8) Where a member of the Garda Síochána requires a person to provide a specimen of oral fluid under this section, the member may request the person of whom the requirement is made to produce for inspection any medical exemption certificate referred to in section 4(1B) or 5(1B) which he or she holds.
 

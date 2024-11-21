@@ -12,9 +12,7 @@ In this Part—
 
 (a) ‘offence’ means an offence under section 10 of the Act of 1968, and
 
-(b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Licensing of Trailers and Semi-Trailers) Regulations 1982 (S.I. No. 35 of 1982).
-
-Reference Offence General Description of Penalty Points Penalty Number Offence on Payment of Points on (2) Fixed Charge Conviction (3) (4) (1) (5)
+(b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Licensing of Trailers and Semi-Trailers) Regulations 1982 (S.I. No. 35 of 1982). Reference Offence General Description of Penalty Points Penalty Number Offence on Payment of Points on (2) Fixed Charge Conviction (3) (4) (1) (5)
 
 1. Offence Using a trailer or semi- 2 4 consisting of trailer with a maximum contravention of permissible weight Regulation 3 exceeding 3,500kg without a licence
 
