@@ -1,6 +1,6 @@
 F31[Regulations for preventing, limiting, minimising or slowing spread of Covid-19
 
-31A. (1) The Minister may, having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2), make regulations for the purpose of preventing, limiting, minimising or slowing the spread of Covid-19 (including the spread outside the State) or where otherwise necessary, to deal with public health risks arising from the spread of Covid-19 and, without prejudice to the generality of the foregoing, such regulations may, in particular, provide for all or any of the following:
+31A.—(1) The Minister may, having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2), make regulations for the purpose of preventing, limiting, minimising or slowing the spread of Covid-19 (including the spread outside the State) or where otherwise necessary, to deal with public health risks arising from the spread of Covid-19 and, without prejudice to the generality of the foregoing, such regulations may, in particular, provide for all or any of the following:
 
 (a) restrictions to be imposed upon travel to or from the State;
 

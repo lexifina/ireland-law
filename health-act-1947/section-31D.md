@@ -1,6 +1,6 @@
 F56[Power of member of Garda Síochána to give direction
 
-31D. (1) Without prejudice to the generality of subsection (7) of section 31A, where a member of the Garda Síochána finds a person in a public place and suspects, with reasonable cause, that such person—
+31D.—(1) Without prejudice to the generality of subsection (7) of section 31A, where a member of the Garda Síochána finds a person in a public place and suspects, with reasonable cause, that such person—
 
 (a) intends to enter a dwelling for the purpose of attending an event organised in contravention of a dwelling event provision,
 

@@ -1,6 +1,6 @@
 F61[Detention and isolation of persons in certain circumstances
 
-38A. (1) Where, having regard to the matters specified in subsection (2), a medical officer of health believes in good faith that—
+38A.—(1) Where, having regard to the matters specified in subsection (2), a medical officer of health believes in good faith that—
 
 (a) a person is a potential source of infection, and
 

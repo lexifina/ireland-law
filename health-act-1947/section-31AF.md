@@ -1,6 +1,6 @@
 F46[Application for emergency cessation order
 
-31AF. (1) A compliance officer may apply ex parte to the District Court, at the next available sitting of that court, for an order (in this Act referred to as a "emergency cessation order") for the temporary restriction of access by members of the public to a relevant indoor premises, for a period not exceeding 72 hours, where—
+31AF.—(1) A compliance officer may apply ex parte to the District Court, at the next available sitting of that court, for an order (in this Act referred to as a "emergency cessation order") for the temporary restriction of access by members of the public to a relevant indoor premises, for a period not exceeding 72 hours, where—
 
 (a) one, or more than one, indoor operator fails or refuses to comply with a direction under section 31AE(2), and
 

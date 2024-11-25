@@ -1,6 +1,6 @@
 F50[Appeal against compliance notice
 
-31AJ. (1) A person aggrieved by a compliance notice may appeal against the notice to the District Court.
+31AJ.—(1) A person aggrieved by a compliance notice may appeal against the notice to the District Court.
 
 (2) An appeal under subsection (1) shall be made not later than 7 days from the date on which the compliance notice was served.
 
