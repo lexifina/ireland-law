@@ -1,6 +1,6 @@
 Fixed payment notice in respect of certain alleged offences.
 
-31C. (1) Where a member of the Garda Síochána has reasonable grounds for believing that a person has committed an offence consisting of a contravention of a fixed penalty provision, that member may give to the person a notice in writing (in this section referred to as a "fixed payment notice") in the prescribed form stating—
+31C.—(1) Where a member of the Garda Síochána has reasonable grounds for believing that a person has committed an offence consisting of a contravention of a fixed penalty provision, that member may give to the person a notice in writing (in this section referred to as a "fixed payment notice") in the prescribed form stating—
 
 (a) that the person is alleged to have committed that offence,
 

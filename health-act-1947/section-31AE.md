@@ -1,6 +1,6 @@
 Entry, inspection, etc., of relevant indoor premises.
 
-31AE. (1) A compliance officer may enter a relevant indoor premises without warrant at any time and there make such inspection, examination, observation and enquiry as he or she thinks proper in order to assess whether an indoor operator has complied with the conditions referred to in section 31AB(3).
+31AE.—(1) A compliance officer may enter a relevant indoor premises without warrant at any time and there make such inspection, examination, observation and enquiry as he or she thinks proper in order to assess whether an indoor operator has complied with the conditions referred to in section 31AB(3).
 
 (2) Where, having made an inspection, examination, observation and enquiry under subsection (1), a compliance officer forms the view that an indoor operator has, without complying with the conditions referred to in section 31AB(3), permitted, or otherwise granted, persons access to a relevant indoor premises in contravention of regulations made under section 31A, the compliance officer shall—
 

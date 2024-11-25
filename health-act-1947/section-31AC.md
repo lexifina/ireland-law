@@ -1,6 +1,6 @@
 Matters relating to documents provided for purposes of section 31AB.
 
-31AC. (1) An indoor operator may, for the purposes of complying with conditions referred to in section 31AB(3), request that a person seeking entry to a relevant indoor premises make available for inspection to him or her evidence that the person is a permitted person.
+31AC.—(1) An indoor operator may, for the purposes of complying with conditions referred to in section 31AB(3), request that a person seeking entry to a relevant indoor premises make available for inspection to him or her evidence that the person is a permitted person.
 
 (2) A person shall be guilty of an offence where he or she provides a document in response to the request of an indoor operator under subsection (1) that, to the person’s knowledge—
 

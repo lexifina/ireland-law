@@ -1,6 +1,6 @@
 Application for cessation order.
 
-31AH. (1) A compliance officer may apply to the District Court for an order (in this Act referred to as a "cessation order") for the restriction of access by members of the public to a relevant indoor premises where he or she is of the opinion that—
+31AH.—(1) A compliance officer may apply to the District Court for an order (in this Act referred to as a "cessation order") for the restriction of access by members of the public to a relevant indoor premises where he or she is of the opinion that—
 
 (a) there has been a failure to comply with a compliance notice, and
 
