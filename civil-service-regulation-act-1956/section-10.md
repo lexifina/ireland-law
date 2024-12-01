@@ -1,0 +1,3 @@
+Retirement of women civil servants on marriage.
+
+10.—...
