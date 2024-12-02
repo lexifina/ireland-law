@@ -130,7 +130,7 @@ Interpretation.
 
 “NTMA” means the National Treasury Management Agency;
 
-‘officer of NAMA’ means—
+"officer of NAMA" means—
 
 (a) the Chief Executive Officer of NAMA,
 
@@ -144,7 +144,9 @@ Interpretation.
 
 “quarterly report” means the report to the Minister under section 55;
 
-... “security” includes—
+...
+
+“security” includes—
 
 (a) a charge,
 

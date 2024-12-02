@@ -16,7 +16,9 @@ Functions of NAMA.
 
 (iii) holding, refinancing, realising and disposing of any relevant security.
 
-(1A) NAMA has such other functions as are conferred on it by or under the Irish Bank Resolution Corporation Act 2013. (2) In the exercise of its functions NAMA shall have regard to the need to avoid undue concentrations or distortions in the market for development land.
+(1A) NAMA has such other functions as are conferred on it by or under the Irish Bank Resolution Corporation Act 2013.
+
+(2) In the exercise of its functions NAMA shall have regard to the need to avoid undue concentrations or distortions in the market for development land.
 
 (3) The Minister may confer on NAMA, by order, such additional functions connected with the functions for the time being of NAMA as he or she thinks necessary for the achievement of its purposes, subject to such conditions (if any) as may be specified in the order.
 
