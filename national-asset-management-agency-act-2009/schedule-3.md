@@ -16,9 +16,9 @@ Item Provision Amendment amended
 
 4 Section After “deferred”, insert “, special investment”. 18(1)(b)(i)
 
-5 Section 18(1) After subsection (1), insert—
+5 Section 18(1) After subsection (1), insert— Item Provision Amendment amended
 
-(a) that entitle the holder of the shares to such voting rights on Item Provision Amendment amended
+(a) that entitle the holder of the shares to such voting rights on
 
 (b) that entitle the holder of the shares to appoint such number of
 
@@ -46,13 +46,13 @@ Item Provision Amendment amended
 
 (2) The building society concerned, the Minister for Finance and any nominee of that Minister shall act in accordance with any relationship framework specified under subsection (1).
 
-(3) Parts 2 and 3 of the Competition Act 2002 shall not apply to the issue to the Minister for Finance, or that Minister’s nominee, of one or more special
+(3) Parts 2 and 3 of the Competition Act 2002 shall not apply to the issue to the Minister for Finance, or that Minister’s nominee, of one or more special Item Provision Amendment amended
 
 (4) Section 7 of the Credit Institutions (Financial Support) Act 2008 shall not apply to the issue to the Minister for Finance, or that Minister’s nominee, of one
 
 7 Section 50(1) Substitute “subsections (11), (16) and (18) and section 69(3A)(c)” for “subsections
 
-8 Section 50 Insert after subsection (17)— Item Provision Amendment amended
+8 Section 50 Insert after subsection (17)—
 
 (19) A provision in the memorandum or rules of a society shall not operate to—
 
@@ -78,13 +78,13 @@ Item Provision Amendment amended
 
 (c) notwithstanding any other provision of this Act or any provision of
 
-(i) a resolution in writing signed by the member holding such shares shall be as valid and effective for all purposes as if the resolution had been passed at a general meeting of the society duly convened and held, and
+(i) a resolution in writing signed by the member holding such shares shall be as valid and effective for all purposes as Item Provision Amendment amended if the resolution had been passed at a general meeting of the society duly convened and held, and
 
 (ii) a resolution mentioned in subparagraph (i), if described as a special resolution or conversion resolution, shall be deemed to be such a resolution.”.
 
 12 Section 70(2) Substitute “Subject to section 69(3A), a resolution” for “A resolution”.
 
-13 Section 71(1) Substitute “Subject to section 69(3A), a resolution” for “A resolution”. Item Provision Amendment amended
+13 Section 71(1) Substitute “Subject to section 69(3A), a resolution” for “A resolution”.
 
 14 After section 71, insert—
 
@@ -108,13 +108,13 @@ Item Provision Amendment amended
 
 1 Section Delete subsection. 18B(2)
 
-2 After section 18B, insert—
+2 After section 18B, insert— Item Provision Amendment amended
 
 18BA.—(1) Nothing in this Act shall be read so as to prevent any member
 
 (2) Where more than half of the members of the Board are also members of the Regulatory Authority, then paragraph 2 of Schedule 1 shall apply as if it read ‘A quorum for all meetings of
 
-3 After section 19A, insert— Item Provision Amendment amended
+3 After section 19A, insert—
 
 19B.— Where the Board is considering a budgetary or funding issue relating to the
 
@@ -140,7 +140,7 @@ Item Provision Amendment amended
 
 11 Schedule At the end, insert— 2, Part 1
 
-Part 12
+Part 12 Item Provision Amendment amended
 
 12 Schedule Substitute— 3, paragraph 5(3)(b) (c) in order to facilitate a restructuring of the Authority and the Board so
 
@@ -176,7 +176,7 @@ Item Provision Amendment amended
 
 (i) a copy of the petition has been served on that Agency, and
 
-(ii) the court has heard that Agency in relation to the making of the order.
+(ii) the court has heard that Agency in relation to the making of the order. Item Provision Amendment amended
 
 (6) In subsection (5) ‘bank asset’ and ‘NAMA group entity’ have the same
 
@@ -186,7 +186,7 @@ Item Provision Amendment amended
 
 (b) if the related company has any such obligation—
 
-(i) a copy of the petition has been served on that Agency, and Item Provision Amendment amended
+(i) a copy of the petition has been served on that Agency, and
 
 (ii) the court has heard that Agency in relation to the making of the order.
 
@@ -246,7 +246,7 @@ Item Provision Amendment amended
 
 Substitute “In this section and sections 42 and 42A,” for “In this section and in section 1 Section 40(3)
 
-2 After section 42, insert—
+2 After section 42, insert— Item Provision Amendment amended
 
 42A.—(1) Notwithstanding section 42, on application by the National Asset
 
@@ -254,7 +254,7 @@ Substitute “In this section and sections 42 and 42A,” for “In this section
 
 (I) the development to which the permission relates was commenced before the expiration of the appropriate period sought to be extended,
 
-(II) substantial works were carried out pursuant to the permission during that period, and Item Provision Amendment amended
+(II) substantial works were carried out pursuant to the permission during that period, and
 
 (III) the development will be completed within a reasonable time, or
 
@@ -272,7 +272,7 @@ Substitute “In this section and sections 42 and 42A,” for “In this section
 
 (2) (a) Where an application is duly made under this section to a planning
 
-(b) Without prejudice to the generality of paragraph (a), it shall be
+(b) Without prejudice to the generality of paragraph (a), it shall be Item Provision Amendment amended
 
 (i) in case all of the requirements referred to in paragraph (a), are complied with on or before the day of receipt by
 
@@ -280,7 +280,7 @@ Substitute “In this section and sections 42 and 42A,” for “In this section
 
 (3) A decision to extend an appropriate period shall be made once and once only under this section and a planning authority shall not further extend the appropriate period.
 
-(4) Particulars of any application made to a planning authority under this section and of the decision of the planning authority in respect of the application shall be recorded on the relevant entry in the register. Item Provision Amendment amended
+(4) Particulars of any application made to a planning authority under this section and of the decision of the planning authority in respect of the application shall be recorded on the relevant entry in the register.
 
 (5) Where a decision to extend is made under this section, section 40 shall, in relation to the permission to which the decision relates, be construed and have effect, subject to, and in accordance with, the terms of the decision.
 
@@ -300,13 +300,13 @@ Item Provision Amendment amended
 
 1 After section 108A, insert—
 
-108B.—(1) In this section:
+108B.—(1) In this section: Item Provision Amendment amended
 
 (2) (a) Where NAMA directly owns any part of the ordinary share capital,
 
 (b) Where the first body corporate is associated, directly or indirectly,
 
-(3) Stamp duty shall not be chargeable under or by reference to any Heading in Schedule 1 on an instrument— Item Provision Amendment amended
+(3) Stamp duty shall not be chargeable under or by reference to any Heading in Schedule 1 on an instrument—
 
 (a) for the sale, transfer, lease or other disposition of any property,
 
@@ -328,7 +328,7 @@ AMENDMENTS OF TAXES CONSOLIDATION ACT 1997
 
 Item Provision Amendment amended
 
-1 Section In subparagraph (i)(II), substitute “Commission,” for “Commission, or”. 172A(1)(a),
+1 Section In subparagraph (i)(II), substitute “Commission,” for “Commission, or”. 172A(1)(a), Item Provision Amendment amended
 
 2 Section After subparagraph (i)(III), insert— 172A(1)(a),
 
@@ -338,7 +338,7 @@ Item Provision Amendment amended
 
 4 Section After paragraph (e), insert— 246(3)
 
-(i) the National Asset Management Agency or a company referred to in section 616(1)(g), Item Provision Amendment amended
+(i) the National Asset Management Agency or a company referred to in section 616(1)(g),
 
 (ii) the State acting through the National Asset Management Agency or through a company referred to in section 616(1)(g), or
 
@@ -358,13 +358,13 @@ Item Provision Amendment amended
 
 7 After section 396B, insert—
 
-396C.―(1)(a) In this section―
+396C.―(1)(a) In this section― Item Provision Amendment amended
 
 (a) the company is a subsidiary of the first-mentioned institution,
 
 (b) the first-mentioned institution is a subsidiary of the company,
 
-(c) both the company and the first-mentioned institution are Item Provision Amendment amended
+(c) both the company and the first-mentioned institution are
 
 C where―
 
@@ -376,13 +376,13 @@ C where―
 
 (I) to a company resident in the State, or
 
-(II) through or from a branch or agency in the State of a company that is not so resident. (2) Where for any accounting period a participating institution makes a claim under subsection 396(1) for relief in respect of available losses incurred, or deemed under subsection (3) to have been incurred, in a trade carried on by that institution, the amount of the losses which may be set off against trading income of the trade in that accounting period shall not exceed the relevant limit of the participating institution for that period.
+(II) through or from a branch or agency in the State of a company that is not so resident. (2) Where for any accounting period a participating institution makes a claim under subsection 396(1) for relief in respect of available losses incurred, or deemed under subsection (3) to have been incurred, in a trade carried on by that institution, the amount of the losses which may be set off against trading Item Provision Amendment amended income of the trade in that accounting period shall not exceed the relevant limit of the participating institution for that period.
 
 (3) (a) Subject to subsection (2) and paragraphs (b) and (c), where in relation to
 
 (i) a participating institution has an amount of available losses (referred to in this subsection as the ‘excess
 
-(ii) a group company in relation to that institution, having claimed all relief under section 396(1), if any, to which it would otherwise be entitled (including by reference to other claims made under this subsection), could obtain relief, or more relief, under section 396(1) for that accounting period if some or all of the excess Item Provision Amendment amended available losses of the participating institution were deemed to have been incurred by the group company, then, on the making of a claim in that regard by the group company, the participating institution may surrender to the group company an amount of those excess available losses that does not exceed the amount for which the group company could obtain relief for that accounting period, having claimed all other relief under section 396(1) to which it is entitled, and—
+(ii) a group company in relation to that institution, having claimed all relief under section 396(1), if any, to which it would otherwise be entitled (including by reference to other claims made under this subsection), could obtain relief, or more relief, under section 396(1) for that accounting period if some or all of the excess available losses of the participating institution were deemed to have been incurred by the group company, then, on the making of a claim in that regard by the group company, the participating institution may surrender to the group company an amount of those excess available losses that does not exceed the amount for which the group company could obtain relief for that accounting period, having claimed all other relief under section 396(1) to which it is entitled, and—
 
 (I) that group company shall be deemed for the purposes of section 396(1) to have incurred those losses and shall set off the amount so surrendered against its trading income for the accounting period, which income shall be treated as reduced by that amount, and
 
@@ -396,7 +396,7 @@ C where―
 
 (ii) shall require the consent of the participating institution notified to the inspector in such form as the Revenue Commissioners may require, and
 
-(iii) shall be made within 2 years from the end of the accounting period to which the claim relates. (4) (a) Subject to subparagraph (b), where the inspector ascertains that any
+(iii) shall be made within 2 years from the end of the accounting period to which the claim relates. (4) (a) Subject to subparagraph (b), where the inspector ascertains that any Item Provision Amendment amended
 
 (b) Subparagraph (a) is without prejudice to the making of an
 
@@ -404,7 +404,7 @@ C where―
 
 8 Section Substitute— 495(10)
 
-(a) control (or together with any person connected with it control) Item Provision Amendment amended
+(a) control (or together with any person connected with it control)
 
 (b) be a 51 per cent subsidiary of any company other than the National and no arrangements shall be in existence at any time in that period by virtue of which the company could fall within paragraph (a) or (b).”.
 
@@ -422,7 +422,7 @@ C where―
 
 13 Section 623 After subsection (2), insert—
 
-(i) NAMA, or
+(i) NAMA, or Item Provision Amendment amended
 
 (ii) a company to which section 616(1)(g) relates from that Agency or a
 
@@ -430,7 +430,7 @@ C where―
 
 14 After section 644AA, insert—
 
-644AB.—(1) In this section— Item Provision Amendment amended
+644AB.—(1) In this section—
 
 (a) disposed of to an authority possessing compulsory purchasing powers
 
@@ -442,7 +442,7 @@ C where―
 
 (b) any gain of a capital nature arising directly or indirectly from the to the extent to which the profits or gains are attributable to the rezoning of that land.
 
-(3) Notwithstanding any provision to the contrary in the Corporation Tax Acts, but subject to this section, a company shall not be chargeable to corporation tax in respect of profits or gains to which this section applies and, accordingly, such profits or gains shall not be regarded as profits or gains of the company for the purposes of corporation tax.
+(3) Notwithstanding any provision to the contrary in the Corporation Tax Acts, but subject to this section, a company shall not be chargeable to corporation tax in respect of profits or gains to which this section applies and, accordingly, such profits or gains shall not be regarded as profits or gains of the company for the purposes of corporation tax. Item Provision Amendment amended
 
 (4) Notwithstanding any other provision of the Tax Acts and subject to subsections (6) and (7), to the extent to which profits or gains of a basis period for a year of assessment consist of profits or gains to which this section applies—
 
@@ -452,7 +452,7 @@ C where―
 
 (5) (a) To the extent that a loss is attributable to the rezoning of land
 
-(i) may be carried forward and may only be deducted from or set off against the amount Item Provision Amendment amended of profits or gains to which this section applies for any subsequent year of assessment, and
+(i) may be carried forward and may only be deducted from or set off against the amount of profits or gains to which this section applies for any subsequent year of assessment, and
 
 (ii) in the case of a company, shall be disregarded for the purposes of the Corporation Tax Acts.
 
@@ -474,7 +474,7 @@ C where―
 
 (9) Where a distribution is made by a company in part out of profits or gains to which this section applies and in part out of other profits or gains, then the distribution shall be treated as if it consisted of 2 distributions respectively made out of the profits or gains to which this section applies and out of other profits or gains.
 
-(10) So much of any distribution as has been made out of profits or gains to which this section applies shall not be regarded as income for any purpose of the Income Tax Acts or be included in reckonable income—
+(10) So much of any distribution as has been made out of profits or gains to which this section applies shall not be regarded as income for any purpose of the Income Tax Acts or be included in reckonable income— Item Provision Amendment amended
 
 (a)
 
@@ -484,7 +484,7 @@ C where―
 
 15 After section 649A, insert—
 
-649B.—(1) In this section— Item Provision Amendment amended
+649B.—(1) In this section—
 
 (2) This section applies to a relevant disposal, made on or after 30 October 2009, where the disposal consists of land that―
 
@@ -498,11 +498,11 @@ C where―
 
 (4) This section shall not apply to a disposal of land to which subsection (2) relates where―
 
-(a) the land is disposed of to an authority possessing compulsory
+(a) the land is disposed of to an authority possessing compulsory Item Provision Amendment amended
 
 (b) the disposal is a disposal by a company referred to in section and, accordingly, the rate of capital gains tax in respect of a chargeable gain on a relevant disposal referred to in paragraphs (a) to (c) shall be the rate specified
 
-(5) Notwithstanding any provision to the contrary in the Capital Gains Tax Acts, any loss accruing on any disposal shall not be deducted from a chargeable gain to which this section applies except a loss arising on a rezoning. Item Provision Amendment amended
+(5) Notwithstanding any provision to the contrary in the Capital Gains Tax Acts, any loss accruing on any disposal shall not be deducted from a chargeable gain to which this section applies except a loss arising on a rezoning.
 
 (6) This section shall apply to relevant disposals made on or after 30 October 2009.”.
 
@@ -530,7 +530,7 @@ C where―
 
 (15) For the purposes of this section, the enforcement of a debt security by the National Asset Management Agency or by a company to which section 616(1)(g) relates shall not be treated as a disposal of an asset.”.
 
-25 Schedule 13 After paragraph 173, insert—
+25 Schedule 13 After paragraph 173, insert— Item Provision Amendment amended
 
 26 Schedule 15, After paragraph 42, insert— Part 1
 
