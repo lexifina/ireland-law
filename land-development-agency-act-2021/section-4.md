@@ -8,6 +8,8 @@ Interpretation
 
 “Act of 2009” means the Housing (Miscellaneous Provisions) Act 2009;
 
+“Act of 2011” means the Multi-Unit Developments Act 2011;
+
 “Agency” has the meaning assigned to it by section 12;
 
 “Board” has the meaning assigned to it by section 16;
@@ -17,6 +19,8 @@ Interpretation
 “chief executive” has the meaning assigned to it by section 17;
 
 “Companies Act” means the Companies Act 2014;
+
+“company limited by guarantee” has the same meaning as it has in Part 18 of the Companies Act;
 
 “DAC limited by shares” has the same meaning as it has in Part 16 of the Companies Act;
 
@@ -40,6 +44,12 @@ Interpretation
 
 “Minister” means the Minister for Housing, Local Government and Heritage;
 
+“multi-unit development” has the same meaning as it has in the Act of 2011;
+
+“NAMA” means the National Asset Management Agency;
+
+“NARPS” means the National Asset Residential Property Services DAC;
+
 “Order of 2018” means the Land Development Agency (Establishment) Order 2018 (S.I. No. 352 of 2018);
 
 “other land” means:
@@ -47,6 +57,8 @@ Interpretation
 (a) land within a census town which is not relevant public land;
 
 (b) land contiguous to land within a census town;
+
+“owners’ management company”has the same meaning as it has in the Act of 2011;
 
 “prescribed” means prescribed by regulations made by the Minister;
 
@@ -64,4 +76,6 @@ Interpretation
 
 “Schedule 2 public body” has the meaning assigned to it by section 5;
 
-“subsidiary DAC” means a subsidiary formed and registered by the Agency in accordance with Part 4.
+“subsidiary CLG” means a subsidiary formed and registered by the Agency or a subsidiary DAC in accordance with section 33A;
+
+“subsidiary DAC” means a subsidiary, other than a subsidiary CLG, formed and registered by the Agency in accordance with Part 4.

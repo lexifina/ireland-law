@@ -22,7 +22,7 @@ Powers of NAMA.
 
 (g) draw, accept and negotiate negotiable instruments,
 
-(h) distribute assets in specie to the Minister,
+(h) distribute assets in specie to the Minister, or, in the case of a direction to do so under section 14, to the Land Development Agency,
 
 (i) accept any security, guarantee, indemnity or surety,
 
