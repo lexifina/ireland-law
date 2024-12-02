@@ -56,7 +56,9 @@ Functions of Agency
 
 (n) to create investment vehicles to facilitate the development of relevant public land and land owned by the Agency;
 
-(o) to enter into commercial arrangements for the development of relevant public land and land that is privately owned in order to achieve the purposes of this Act and to expedite the provision of social and affordable housing.
+(o) to enter into commercial arrangements for the development of relevant public land and land that is privately owned in order to achieve the purposes of this Act and to expedite the provision of social and affordable housing;
+
+(p) where directed to do so in accordance with this Act, to acquire NARPS in specie from NAMA.
 
 (2) The Agency shall have all such powers as are necessary or expedient for the performance of its functions.
 
