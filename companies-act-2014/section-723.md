@@ -12,7 +12,7 @@ Prosecution of offences committed by officers and members of company
 
 (b) give to him or her such access to, and facilities for inspecting and taking any copies of, such documents (being documents in the possession or under the control of the liquidator and relating to the matter in question) as he or she may require.
 
-(3) Where the court gives the foregoing direction to the liquidator, it shall also direct the liquidator to refer the matter concerned to the Authority.
+(3) Where the court gives the foregoing direction to the liquidator, it shall also direct the liquidator to refer the matter concerned to the Authority forthwith.
 
 (4) Where a direction under subsection (3) is given by the court to the liquidator, the liquidator shall—
 
@@ -28,7 +28,7 @@ Prosecution of offences committed by officers and members of company
 
 (b) give to him or her such access to, and facilities for inspecting and taking any copies of, such documents (being documents in the possession or under the control of the liquidator and relating to the matter in question) as he or she may require.
 
-(7) Where a foregoing report is made by the liquidator, the liquidator shall also report the matter to the Authority.
+(7) Where a foregoing report is made by the liquidator, the liquidator shall also report the matter to the Authority forthwith.
 
 (8) Where a matter is reported by the liquidator under subsection (7) to the Authority, the liquidator shall—
 
