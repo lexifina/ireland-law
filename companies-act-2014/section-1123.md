@@ -32,8 +32,6 @@ Acquisitions of uncertificated securities from dissenting shareholders
 
 (2) In this section each of the following:
 
-OJ No, L150, 7.6.2019, p. 296
-
 (i) “issuer-instruction”;
 
 (ii) “operator”;
