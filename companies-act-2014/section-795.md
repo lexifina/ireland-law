@@ -18,7 +18,7 @@ Saving for privileged information
 
 (a) to whom such information has been so disclosed, or
 
-(b) who has taken possession of it, shall (unless the person has, within the period subsequently mentioned in this subsection, been served with notice of an application under subsection (5) in relation to the matter concerned) apply to the court for a determination as to whether the information is privileged legal material and an application under this subsection shall be made within 7 days after the date of disclosure or the taking of possession.
+(b) who has taken possession of it, shall (unless the person has, within the period subsequently mentioned in this subsection, been served with notice of an application under subsection (5) in relation to the matter concerned) apply to the court for a determination as to whether the information is privileged legal material and an application under this subsection shall be made within 14 days after the date of disclosure or the taking of possession.
 
 (5) A person who, in the circumstances referred to in subsection (3), is compelled to disclose information, or from whose possession information is taken, pursuant to the powers in this Part, may apply to the court for a determination as to whether the information is privileged legal material.
 
@@ -26,7 +26,7 @@ Saving for privileged information
 
 (a) the preservation of the information, in whole or in part, in a safe and secure place in any manner specified by the court,
 
-(b) the appointment of a person with suitable legal qualifications possessing the level of experience, and the independence from any interest falling to be determined between the parties concerned, that the court considers to be appropriate for the purpose of—
+(b) the appointment of a person or persons with suitable legal qualifications possessing the level of experience, and the independence from any interest falling to be determined between the parties concerned, that the court considers to be appropriate for the purpose of—
 
 (i) examining the information, and
 

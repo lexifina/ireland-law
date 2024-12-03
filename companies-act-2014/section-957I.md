@@ -1,4 +1,4 @@
-Appeals to and orders of court, including orders confirming decisions of Director (Repealed)
+Appeals to and orders of court, including orders confirming decisions of Director (Repealed
 
 957I. ...
 
@@ -8,19 +8,23 @@ Definitions (Chapter 3A)
 
 944A. In this Chapter and Schedule 22—
 
-"Act of 2004" means the Public Service Management (Recruitment and Appointments) Act 2004 ;
+“Act of 2004”means the Public Service Management (Recruitment and Appointments) Act 2004;
 
-"chairperson" means the chairperson of the Authority;
+“chairperson” means the chairperson of the Authority, being—
 
-"civil servant" has the meaning assigned to it by the Civil Service Regulation Act 1956;
+(a) the chairperson appointed under section 944G(1) or (3), or
 
-"Committee of Public Accounts" means the committee of Dáil Éireann established under the rules and Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General;
+(b) the chairperson under section 944G(4);
 
-"establishment day" means the day appointed by order under section 944B;
+“civil servant”has the meaning assigned to it by the Civil Service Regulation Act 1956;
 
-"financial year", in relation to the Authority, means a period of 12 months ending on 31 December in any year and, in the case of the first financial year of the Authority, means the period commencing on the establishment day and ending on 31 December in the year in which the establishment day falls;
+“Committee of Public Accounts” means the committee of Dáil Éireann established under the rules and Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General;
 
-"Member" has the meaning assigned to it by section 944F(2) and includes a person authorised to act in place of a Member under section 944I.
+“establishment day” means the day appointed by order under section 944B;
+
+“financial year”, in relation to the Authority, means a period of 12 months ending on 31 December in any year and, in the case of the first financial year of the Authority, means the period commencing on the establishment day and ending on 31 December in the year in which the establishment day falls;
+
+“Member” has the meaning assigned to it by section 944F(2) and includes a person authorised to act in place of a Member under section 944I.
 
 Establishment day
 
@@ -118,7 +122,7 @@ Appointment of chairperson of Authority
 
 (3) Where a chairperson stands appointed under subsection (1), and is unavailable to perform his or her duties due to absence or incapacity, the Minister shall appoint a person (which may be another existing Member or a member of staff of the Authority) to act as chairperson for the duration of the period of absence or incapacity.
 
-(4) Where the Authority consists of one Member, a reference in this Chapter, or in Schedule 22, to the chairperson shall be construed as a reference to that Member.
+(4) Where the Authority consists of one Member, that Member shall be chairperson.
 
 (5) The chairperson shall carry on and manage and control generally the staff, administration and business of the Authority.
 
@@ -158,15 +162,19 @@ Resignation, removal, disqualification of Member
 
 Acting Member
 
-944I. (1) Where one Member only stands appointed for the time being under section 944F, the Minister may authorise in writing a person (which may be a member of staff of the Authority) to perform the functions of a Member during any period when that Member is absent from duty or absent from the State or is, for any other reason, unable to perform the functions of a Member.
+944I. (1) Where one Member only stands appointed for the time being under section 944F, the Minister may authorise in writing a person (which may be a member of staff of the Authority) to perform the functions of a Member and of the chairperson during any period when that Member is absent from duty or absent from the State or is, for any other reason, unable to perform the functions of a Member and the chairperson.
 
-(2) Where a vacancy occurs in the office of Member and no Member stands appointed for the time being under section 944F, the Minister may authorise in writing a person (which may be a member of staff of the Authority) to perform the functions of a Member during the period of that vacancy.
+(2) Where a vacancy occurs in the office of Member and no Member stands appointed for the time being under section 944F, the Minister may authorise in writing a person (which may be a member of staff of the Authority) to perform the functions of a Member and of the chairperson during the period of that vacancy.
 
 (3) An authorisation under subsection (2) shall not remain in force for a period of more than 6 months unless the Minister is satisfied that it is not practicable for an appointment under section 944F to be made within that period, in which case he or she may extend that period by such further period as he or she is satisfied is a period within which it is practicable for an appointment to be made under that section.
 
 (4) The Minister may at any time terminate an authorisation under this section.
 
-(5) A person in respect of whom an authorisation under this section is in force may perform the functions of a Member under this Act, and, for that purpose, references to a Member in this Chapter (other than in sections 944F(3), 944H(2) and 944L) and in Schedule 22 shall be construed as including references to that person.
+(5) A person in respect of whom an authorisation under this section is in force may perform the functions of a Member and the chairperson under this Act and, for that purpose, references in this Chapter and in Schedule 22—
+
+(a) to a Member, other than in sections 944F(3), 944H(2) and 944L, and
+
+(b) to the chairperson, other than in sections 944G(1) and 944G(3), shall be construed as including references to that person.
 
 Assignment and transfer of staff to Authority
 
@@ -250,27 +258,27 @@ Accountability of Authority to Committee of Public Accounts
 
 Accountability of Member to certain Oireachtas Committees
 
-944O. (1) In this section, "Committee" means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a sub-committee of such a Committee.
+944O. (1) In this section, “Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a sub-committee of such a Committee.
 
-(2) Subject to subsection (3), a Member shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Authority.
+(2) Subject to subsection (3), the chairperson shall, at the request in writing of a Committee, attend before it to give account for the general administration of the Authority.
 
-(3) A Member shall not be required to give account before a Committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal.
+(3)The chairperson shall not be required to give account before a Committee for any matter which is or has been or may at a future time be the subject of proceedings before a court or tribunal.
 
-(4) Where a Member is of the opinion that a matter in respect of which he or she is requested to give an account before a Committee is a matter to which subsection (3) applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the Committee at a time when the Member is before it, the information shall be so conveyed in writing.
+(4) Where the chairperson is of the opinion that a matter in respect of which he or she is requested to give an account before a Committee is a matter to which subsection (3) applies, he or she shall inform the Committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the Committee at a time when the chairperson is before it, the information shall be so conveyed in writing.
 
-(5) Where the Member has informed a Committee of his or her opinion in accordance with subsection (4) and the Committee does not withdraw the request referred to in subsection (2) in so far as it relates to a matter the subject of that opinion—
+(5) Where the chairperson has informed a Committee of his or her opinion in accordance with subsection (4) and the Committee does not withdraw the request referred to in subsection (2) in so far as it relates to a matter the subject of that opinion—
 
-(a) the Member may, on behalf of the Authority, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which subsection (3) applies, or
+(a) the chairperson may, on behalf of the Authority, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which subsection (3) applies, or
 
 (b) the Chairperson of the Committee may, on behalf of the Committee, not later than the 21 days referred to in paragraph (a), make such an application, and the High Court shall determine the matter.
 
-(6) Pending the determination of an application under subsection (5), the Member shall not attend before the Committee to give account for the matter the subject of the application.
+(6) Pending the determination of an application under subsection (5), the chairperson shall not attend before the Committee to give account for the matter the subject of the application.
 
-(7) If the High Court determines that the matter concerned is one to which subsection (3) applies, the Committee shall withdraw the request referred to in subsection (2), but if the High Court determines that subsection (3) does not apply, the Member shall attend before the Committee and give account for the matter.
+(7) If the High Court determines that the matter concerned is one to which subsection (3) applies, the Committee shall withdraw the request referred to in subsection (2), but if the High Court determines that subsection (3) does not apply, the chairperson shall attend before the Committee and give account for the matter.
 
-(8) In the performance of his or her duties under this section, a Member shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+(8) In the performance of his or her duties under this section, the chairperson shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
 
-(9) In this section, a reference to "Member" shall, where more than one Member has been appointed under section 944F, be taken to be a reference to the chairperson.
+(9) ...
 
 Confidentiality of information
 
@@ -314,11 +322,23 @@ Disclosure of information to Authority
 
 (f) the Registrar,
 
-(g) the registrar of friendly societies, or
+(g) the registrar of friendly societies,
+
+(ga) the Registrar of Beneficial Ownership,
+
+(gb) the Charities Regulatory Authority,
+
+(gc) the Minister for Social Protection,
+
+(gd) the Data Protection Commission,
+
+(ge) Office of the Protected Disclosures Commissioner,
+
+(gf) the Criminal Assets Bureau, or
 
 (h) such other authority or other person as may be prescribed, may disclose to the Authority or an officer of the Authority information to which this subsection applies.
 
-(2) Subsection (1) applies to information that, in the opinion of the Authority or other person referred to in any of paragraphs (a) to (g) of that subsection disclosing, or seeking to disclose the information—
+(2) Subsection (1) applies to information that, in the opinion of the Authority or other person referred to in any of paragraphs (a) to (gf) of that subsection disclosing, or seeking to disclose the information—
 
 (a) relates to the commission of an offence under this Act or non-compliance otherwise with this Act or with the duties and obligations to which companies and their officers are subject, or
 

@@ -16,7 +16,7 @@ Consideration by members and creditors of rescue plan
 
 (c) the eligible company concerned, and
 
-(d) the directors of the eligible company, where eligible it is accepted by at least one class of creditors whose interests or claims would be impaired by implementation of the rescue plan and 21 days pass from the date of filing of the notice of approval with the office of the relevant court under section 558Z(6), and no objection is filed in accordance with section 558ZC.
+(d) the directors of the eligible company, where it is accepted by at least one class of creditors whose interests or claims would be impaired by implementation of the rescue plan and 21 days pass from the date of filing of the notice of approval with the office of the relevant court under section 558Z(6), and no objection is filed in accordance with section 558ZC.
 
 (6) Nothing in subsection (4) shall, in the case of a member or creditor who abstains from voting, or otherwise fails to cast a vote, in respect of the rescue plan, be read as permitting such an abstention or failure to be regarded as a casting by that person of a vote against the rescue plan.
 

@@ -4,6 +4,18 @@ Power of court to fix remuneration of receiver
 
 (2) That order of the court is one fixing the amount to be paid by way of remuneration to that receiver and such an order may be made notwithstanding that his or her remuneration has been fixed by or under that instrument.
 
+(2A) In fixing the amount to be paid by way of remuneration to a receiver under subsection (2), the court shall take the following into account:
+
+(a) the time properly required to be given by the person as receiver and by his or her assistants in attending to the company’s affairs;
+
+(b) the complexity (or otherwise) of the case;
+
+(c) any respects in which, in connection with the company’s affairs, there falls on the receiver any responsibility of an exceptional kind or degree;
+
+(d) the effectiveness with which the receiver appears to be carrying out, or to have carried out, his or her duties;
+
+(e) the value and nature of the property with which the receiver has to deal.
+
 (3) Subject to subsection (4), the power of the court under subsection (1) shall, where no previous order has been made in relation to the matter concerned under that subsection—
 
 (a) extend to fixing the remuneration for any period before the making of the order or the application for it,

@@ -2,7 +2,7 @@ Process adviser’s duty to seek provision of email addresses
 
 558I. (1) This section applies where a process adviser is appointed in respect of an eligible company by virtue of the passing of a resolution referred to in section 558E(2).
 
-(2) As soon as practicable after the appointment, the process adviser shall give to each person specified in subsection (3) a notice in writing—
+(2) As soon as practicable after the appointment, the process adviser shall give to each person specified in subsection (4) a notice in writing—
 
 (a) requesting that the person provide the process adviser with an email address that the process adviser may use for the purpose of giving the person any notices and other documents that the process adviser is required or authorised to give to the person under this Part, and
 

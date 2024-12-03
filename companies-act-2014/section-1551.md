@@ -48,13 +48,21 @@ Audit committees for public-interest entities
 
 (b) in an annual return or other periodic statement delivered by it to the Registrar or Central Bank, set forth the reasons for why it considers the establishment of an audit committee by it is not appropriate and, accordingly, why it has availed itself of that exemption.
 
-(13) (a) Subject to paragraph (b), subsection (1) shall not apply to a captive insurance undertaking or captive reinsurance undertaking (in each case within the meaning of Regulation 3 of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015)) provided that it has a body or bodies performing equivalent functions to an audit committee, established and functioning in accordance with provisions in place in the State in which the public-interest entity to be audited is registered (in such case the entity shall disclose on its website which body carries out those functions and how that body is composed).
+(13) (a) Subject to paragraph (b), subsection (1) shall not apply to a captive insurance undertaking or captive reinsurance undertaking (in each case within the meaning of Regulation 3 of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015)) provided that it has a body or bodies performing equivalent functions to an audit committee, established and functioning in accordance with provisions in place in the State in which the public-interest entity to be audited is registered ....
 
 (b) A captive insurance undertaking or captive reinsurance undertaking which falls within paragraph (a) shall satisfy the following conditions:
 
 (i) it shall not be owned by a credit institution;
 
-(ii) it shall not issue transferable securities admitted to trading on a regulated market.
+(ii) it shall not issue transferable securities admitted to trading on a regulated market;
+
+(iii) it shall disclose which body carries out the equivalent functions referred to in paragraph (a) and how such body is composed—
+
+(I) on its website,
+
+(II) in any annual report published by it, or
+
+(III) in an annual return or other periodic statement delivered by it to the Registrar or the Central Bank.
 
 (14) Without prejudice to the responsibility of the directors of the public-interest entity, the responsibilities of the audit committee shall include—
 
@@ -78,6 +86,6 @@ Audit committees for public-interest entities
 
 (18) Section 167 shall not apply to a public-interest entity which is both a UCITS referred to in subsection (11)(b) and a company.
 
-(19) In this section, "2003 Prospectus Directive" has the meaning assigned to it by section 1348.
+(19) In this section, “2003 Prospectus Directive” has the meaning assigned to it by section 1348.
 
 CHAPTER 17

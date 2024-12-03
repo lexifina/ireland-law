@@ -1,6 +1,6 @@
 Appeals to and orders of the court, including orders confirming decisions of Supervisory Authority
 
-941. (1) In an appeal under section 931B(5), 933(10) or (12) or 934(11) or (13), the court may consider any evidence adduced or argument made, whether or not adduced or made to the Supervisory Authority or other body whose decision is under appeal.
+941. (1) In an appeal under section 931B(5), 933(10) or (12), or 934(11) or (13) or 934AA(11), the court may consider any evidence adduced or argument made, whether or not adduced or made to the Supervisory Authority or other body whose decision is under appeal.
 
 (2) On the hearing of such an appeal, the court may make any order or give any direction it thinks fit, including an order—
 

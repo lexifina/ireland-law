@@ -10,7 +10,7 @@ Additional provisions concerning notice under section 181 by a traded PLC
 
 (a) when and where the meeting is to take place and the proposed agenda for the meeting;
 
-(aa) in the case of a meeting during the interim period proposed to be held wholly or partly by the use of electronic communications technology—
+(aa) in the case of a meeting ... proposed to be held wholly or partly by the use of electronic communications technology—
 
 (i) the electronic platform to be used for the meeting,
 

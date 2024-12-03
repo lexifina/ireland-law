@@ -1,6 +1,6 @@
 Further provision with respect to leases
 
-558R. (1) Subject to subsection (3), a rescue plan for an eligible company shall not contain provision that provides for either or both of the following—
+558R. (1) Subject to subsection (2), a rescue plan for an eligible company shall not contain provision that provides for either or both of the following—
 
 (a) a reduction in the amount of any rent or other periodical payment reserved under a lease of land that falls to be paid after the date from which the rescue plan would come into effect under section 558ZB or 558ZE, as the case may be, or the complete extinguishment of the right of the lessor to any such payments;
 

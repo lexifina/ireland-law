@@ -4,4 +4,4 @@ Requirements for Chapter to apply
 
 (a) none of the merging companies is a public limited company, and
 
-(b) one, at least, of the merging companies is a private company limited by shares.
+(b) one, at least, of the merging companies is a private company limited by shares or a designated activity company limited by shares.

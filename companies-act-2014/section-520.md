@@ -6,7 +6,7 @@ Effect of petition to appoint examiner on creditors and others
 
 (a) beginning with the date of the presentation of a petition in relation to the company, and
 
-(b) (subject to section 534(3), (3A) and (4) ending on—
+(b) (subject to section 534(3) and (4) ending on—
 
 (i) the expiry of 70 days after that date, or
 

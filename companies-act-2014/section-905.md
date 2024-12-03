@@ -14,9 +14,15 @@ Functions of Supervisory Authority
 
 (c) require changes to and to approve—
 
-(i) the constitution and bye laws of each prescribed accountancy body, including its investigation and disciplinary procedures and its standards, and
+(i) the investigation and disciplinary procedures and standards of each prescribed accountancy body, and
 
-(ii) any amendments to the approved constitution or bye laws of each prescribed accountancy body, including amendments to its investigation and disciplinary procedures and to its standards,
+(ii) any amendments to the approved investigation and disciplinary procedures and standards of each prescribed accountancy body,
+
+(ca) require changes to—
+
+(i) the constitution and bye laws of each prescribed accountancy body, and
+
+(ii) any amendments to the constitution or bye laws of each prescribed accountancy body,
 
 (d) conduct under section 933 enquiries into whether a prescribed accountancy body has complied with the investigation and disciplinary procedures approved for that body under paragraph (c) or referred to in paragraph (a)(ii) or (iii) or (b)(ii) of the definition of "approved investigation and disciplinary procedures" in subsection (1) of that section,
 

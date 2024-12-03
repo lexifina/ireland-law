@@ -1,6 +1,6 @@
-Execution of instruments during interim period
+Execution of instruments consisting of several documents in like form
 
-43A. (1) Subsections (2) to (4) apply to a company during the interim period only and notwithstanding any provision of—
+43A. (1) Subsections (2) to (4) apply in relation to a company notwithstanding any provision of—
 
 (a) section 43(2)(b) or (3), or
 

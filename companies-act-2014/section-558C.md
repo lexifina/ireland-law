@@ -26,7 +26,7 @@ Process adviser to determine whether eligible company has reasonable prospect of
 
 (g) the circumstances of the market in which the eligible company is operating, including the likely future prospects of the market,
 
-(h) the expertise, brand and historic success of the eligible company,
+(h) the expertise, brand, social and cultural importance and historic success of the eligible company,
 
 (i) where the eligible company is part of a group of companies, the place of the company in the structure of the group and its prospects in that context,
 

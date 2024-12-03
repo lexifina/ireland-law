@@ -4,13 +4,13 @@ Register of restricted persons
 
 (2) Where the court grants partial relief to a restricted person under section 822(1)—
 
-(a) a prescribed officer of the court shall ensure that the prescribed particulars of the relief are provided to the Registrar, and
+(a) a prescribed officer of the court shall ensure that the prescribed particulars of the relief are provided to the Registrar and the Authority within 28 days of the perfection of the order granting the relief, and
 
 (b) the Registrar shall as soon as practicable enter those particulars on the register.
 
 (3) Where the court grants full relief to a restricted person under section 822(1)—
 
-(a) a prescribed officer of the court shall ensure that the Registrar is notified, and
+(a) a prescribed officer of the court shall ensure that the the Registrar and the Authority are notified within 28 days after the perfection of the order granting the relief, and
 
 (b) the Registrar shall as soon as practicable remove the particulars of that person from the register.
 

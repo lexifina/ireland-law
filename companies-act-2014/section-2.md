@@ -94,7 +94,7 @@ Interpretation generally
 
 (c) where used in connection with proceedings for a debt or the recovery of a sum otherwise provided by this Act to be recoverable and a particular court or a court of competent jurisdiction is not specified for the purpose, means any court of competent jurisdiction;
 
-"Covid-19" means a disease caused by infection with the virus SARS- CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
+...
 
 “CRO Gazette” means the Companies Registration Office Gazette referred to in section 887(7);
 
@@ -136,11 +136,7 @@ Interpretation generally
 
 “Insolvency Regulation” means Council Regulation (EC) No. 1346/2000 of 29 May 2000 on insolvency proceedings;
 
-"interim period" means—
-
-(a) the period beginning on the commencement of section 3 of the Companies (Miscellaneous Provisions) (Covid-19) Act 2020 and ending on 31 December 2020, and
-
-(b) such other period (if any) as may be specified by order under section 12A;
+...
 
 “Joint Stock Companies Acts” means the Joint Stock Companies Act 1856, the Joint Stock Companies Acts 1856, 1857, the Joint Stock Banking Companies Act 1857 and the Act to enable Joint Stock Banking Companies to be formed on the principle of limited liability, or any one or more of those Acts as the case may require, but does not include the Act 7 & 8 Victoria, Chapter 110;
 
@@ -222,7 +218,9 @@ Interpretation generally
 
 (b) the person referred to in subsection (6) (which relates to the existing Registrar of Companies) of section 887 for so long as the person holds office in accordance with subsection (5) of that section;
 
-"Regulation (EU) 2016/679" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
+“Registrar of Beneficial Ownership” means the Registrar of Beneficial Ownership of Companies and Industrial and Provident Societies;
+
+“Regulation (EU) 2016/679” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “related company” shall be read in accordance with subsections (10) and (11);
 
@@ -242,7 +240,7 @@ Interpretation generally
 
 “special resolution” has the meaning given to it by section 191;
 
-"statutory auditor" means an individual or a firm (within the meaning of Part 27) that stands approved as a statutory auditor or statutory audit firm, as the case may be, under Part 27, and includes a firm registered in accordance with section 1465;
+“statutory auditor” means an individual or a firm (within the meaning of Part 27) that stands approved as a statutory auditor or statutory audit firm, as the case may be, under Part 27, and includes a firm registered in accordance with section 1465;
 
 “subscribe” includes, where the means of authentication referred to in section 888 are employed, subscribe in the prescribed non-legible form;
 

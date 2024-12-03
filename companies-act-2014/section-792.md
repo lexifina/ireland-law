@@ -1,6 +1,6 @@
 Information, books or documents may be disclosed to competent authority
 
-792. (1) Any information, book or document relating to a company that has been obtained under any of sections 778 to 780, 783 or 787 may be disclosed to a competent authority without the consent of the company.
+792. (1) Any information, book or document relating to a company that has been obtained under any of sections 778 to 780, 783 or 787 may be disclosed to a competent authority without the consent of the company, if the Authority considers that the information, book or document is required for a purpose specified in paragraph (a), (b) or (c) of section 944P(3).
 
 (2) For the purposes of subsection (1), a competent authority includes—
 
@@ -19,6 +19,22 @@ Information, books or documents may be disclosed to competent authority
 (g) the Revenue Commissioners;
 
 (h) the Supervisory Authority;
+
+(ha) the Registrar of Beneficial Ownership;
+
+(hb) the Registrar of Friendly Societies;
+
+(hc) the Charities Regulatory Authority;
+
+(hd) the Competition and Consumer Protection Commission;
+
+(he) the Data Protection Commission;
+
+(hf) the Insolvency Service of Ireland;
+
+(hg) Office of the Protected Disclosures Commissioner;
+
+(hh) the Criminal Assets Bureau;
 
 (i) any court of competent jurisdiction;
 

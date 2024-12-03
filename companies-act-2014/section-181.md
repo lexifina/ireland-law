@@ -20,7 +20,7 @@ Notice of general meetings
 
 (a) the place, the date and the time of the meeting;
 
-(aa) in the case of a meeting during the interim period proposed to be held wholly or partly by the use of electronic communications technology—
+(aa) in the case of a meeting proposed to be held wholly or partly by the use of electronic communications technology—
 
 (i) the electronic platform to be used for the meeting,
 
@@ -47,3 +47,9 @@ Notice of general meetings
 (iii) the time by which the proxy must be received at the company's registered office or some other place within the State as is specified in the statement for that purpose.
 
 (6) Save to the extent that the company's constitution provides otherwise, the accidental omission to give notice of a meeting to, or the non-receipt of notice of a meeting by, any person entitled to receive notice shall not invalidate the proceedings at the meeting.
+
+(7) In this section and section 1103(2)(aa)—
+
+“electronic communications technology” has the same meaning as it has in section 176A;
+
+“electronic platform” means an electronic system for the delivery of electronic communications technology, including websites, access software and access telephone details or any other electronic technology that delivers such technology.

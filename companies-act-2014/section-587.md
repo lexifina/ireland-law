@@ -8,19 +8,7 @@ Meeting of creditors
 
 (a) state the date, time and location of the creditors’ meeting,
 
-(aa) in the case of a creditors’ meeting to be held wholly or partly by the use of electronic communications technology during the interim period, specify—
-
-(i) the electronic platform to be used for the meeting,
-
-(ii) details for access to the electronic platform,
-
-(iii) the time and manner by which a relevant attendee must confirm his or her intention to attend the meeting,
-
-(iv) any requirements or restrictions which the relevant person has put in place in order to identify relevant attendees who intend to attend the meeting,
-
-(v) the procedure for relevant attendees to communicate questions and comments during the meeting, and
-
-(vi) the procedure to be adopted for voting on resolutions proposed to be passed at the meeting;
+(aa) ...
 
 (ab) inform the creditors of the company of their power to appoint a committee of inspection under section 667,
 
@@ -40,7 +28,7 @@ Meeting of creditors
 
 (5) That copy may be delivered by the company to the requesting person by post or, with the consent of the requesting person, in any other manner.
 
-(6) The company shall cause notice of the creditors’ meeting to be advertised, at least 10 days before the date of the meeting, once at least in 2 daily newspapers circulating in the district where the registered office or principal place of business of the company is situate; such notice is not required to include the matters referred to in subsection (3)(aa) or the list of creditors attached, pursuant to subsection (3)(c)(i), to the notice required by subsection (2).
+(6) The company shall cause notice of the creditors’ meeting to be advertised, at least 10 days before the date of the meeting, once at least in 2 daily newspapers circulating in the district where the registered office or principal place of business of the company is situate; such notice is not required to include ..., pursuant to subsection (3)(c)(i), to the notice required by subsection (2).
 
 (7) The directors of the company shall—
 

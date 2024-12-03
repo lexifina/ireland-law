@@ -18,7 +18,7 @@ Court hearing in case of objection
 
 (a) an objection is upheld,
 
-(b) the relevant court proposes to modify the rescue plan, and
+(b) the relevant court proposes to modify the rescue plan, or
 
 (c) the High Court considers winding up the company.
 

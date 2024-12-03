@@ -8,6 +8,8 @@ Obligation (unless relieved) of liquidator of insolvent company to apply for res
 
 (2) In a winding up of an insolvent company, where this subsection applies, the liquidator shall apply under section 819(1) for a declaration under that provision in respect of each of the directors of the company.
 
+(2A) The liquidator’s obligations under this Part in respect of an insolvent company shall continue to apply to him or her until the conclusion of all proceedings relating to an application for a declaration under section 819(1) restricting a director from being a director of a company, including until the conclusion of any appeal in relation thereto.
+
 (3) As respects subsection (2)—
 
 (a) that subsection applies unless the Authority has relieved the liquidator of the obligation to make the application under section 819(1) in relation to the winding up concerned or a particular director or directors (which power to so relieve is conferred on the Authority by this paragraph), and

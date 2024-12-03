@@ -30,4 +30,6 @@ Obligation to make annual return
 
 (11) If a company fails to comply with the requirements of this section, the company and any officer of it who is in default shall be guilty of a category 3 offence.
 
+(11A) Section 1(1) of the Probation of Offenders Act 1907 shall not apply to an offence under this section.
+
 (12) In subsection (11) “officer” includes any shadow director and de facto director.

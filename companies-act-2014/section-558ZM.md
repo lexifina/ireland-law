@@ -10,4 +10,4 @@ Power of relevant court to order the return of assets improperly transferred
 
 (3) Subsection (1) shall not apply to any conveyance, mortgage, delivery of goods, payment, execution or other act relating to property made or done by or against an eligible company to which section 604 applies.
 
-(4) In deciding whether it is just and equitable to make an order under this section, the relevant court shall have regard to the rights of persons who have a bona fide and for value acquired an interest in the property subject of the application.
+(4) In deciding whether it is just and equitable to make an order under this section, the relevant court shall have regard to the rights of persons who have bona fide and for value acquired an interest in the property subject of the application.

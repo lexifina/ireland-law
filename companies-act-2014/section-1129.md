@@ -2,13 +2,13 @@ Mergers to which Chapter applies — definitions and supplementary provision
 
 1129. (1) In this Chapter “merger by acquisition” means an operation in which a company (the “successor company”) acquires all the assets and liabilities of one or more other companies that is or are dissolved without going into liquidation in exchange for the issue to the members of that company or those companies of shares in the first-mentioned company, with or without any cash payment.
 
-(2) In this Chapter “merger by absorption” means an operation whereby, on being dissolved and without going into liquidation, a company transfers all of its assets and liabilities to a company that is the holder of all the shares representing the capital of the first-mentioned company.
+(2) In this Chapter “merger by absorption” means an operation whereby, on being dissolved and without going into liquidation, one or more companies transfers or transfer all of its or their assets and liabilities to a company that is the holder of all the shares representing the capital of the first-mentioned company or companies.
 
-(3) The reference in subsection (2) to a company (the “second-mentioned company”) that is the holder of all the shares representing the capital of the first-mentioned company in that subsection includes a reference to either of the following cases:
+(3) The reference in subsection (2) to a company (the “second-mentioned company”) that is the holder of all the shares representing the capital of the first-mentioned company or companies in that subsection includes a reference to either of the following cases:
 
 (a) a case where all of those shares are held by other persons in their own names but on behalf of the second-mentioned company;
 
-(b) a case where the shares representing the capital of the first-mentioned company held by the second-mentioned company and by other persons in their own names but on behalf of the second-mentioned company amount, in aggregate, to all of the shares representing the foregoing capital.
+(b) a case where the shares representing the capital of the first-mentioned company or companies held by the second-mentioned company and by other persons in their own names but on behalf of the second-mentioned company amount, in aggregate, to all of the shares representing the foregoing capital.
 
 (4) In this Chapter “merger by formation of a new company” means an operation in which 2 or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to a company that they form — the “other company”— in exchange for the issue to their members of shares representing the capital of the other company, with or without any cash payment.
 

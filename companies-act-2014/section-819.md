@@ -56,4 +56,4 @@ Declaration by court restricting director of insolvent company in being appointe
 
 (f) an unregistered company.
 
-(7) A prescribed officer of the court shall ensure that the prescribed particulars of a declaration under this section are provided to the Registrar in the prescribed form and manner (if any).
+(7) A prescribed officer of the court shall ensure that the prescribed particulars of a declaration under this section are provided to the Registrar and the Authority in the prescribed form and manner (if any) within 28 days after the perfection of the declaration made by the court under subsection (1).

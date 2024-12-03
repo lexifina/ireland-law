@@ -20,7 +20,7 @@ Company investigations concerning interests in shares
 
 (3) The particulars referred to in subsection (2)(a) and (b) include particulars of the identity of persons interested in the shares in question and of whether persons interested in the same shares are or were parties to a share acquisition agreement or to any agreement or arrangement relating to the exercise of any rights conferred by the holding of the shares.
 
-(4) A notice under this section shall require any information given in response to the notice to be given in writing within such reasonable time as may be specified in the notice.
+(4) A notice under this section shall require any information given in response to the notice to be given in writing within such reasonable period as may be specified in the notice, which period shall not exceed 5 days.
 
 (5) Sections 257 to 259 (as adapted by section 1059) apply for the purpose of construing references in this section to persons interested in shares and to interests in shares respectively, as they apply for the purposes mentioned in section 1059 (but with the omission of any reference to section 260).
 

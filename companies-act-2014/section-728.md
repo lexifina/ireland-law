@@ -18,4 +18,4 @@ Contents of Registrar's notice to company
 
 (2) The date to be specified for the purposes of subsection (1)(f) shall be a date falling not less than 28 days after the date of the notice.
 
-(3) Except where the ground for striking off is that set out in section 726(d), (e) or (f), the notice shall also state that each director of the company at the date that the notice is sent is liable for disqualification under section 842(h) if the company is struck off the register.
+(3) Except where the ground for striking off is that set out in any of paragraphs (d) to (i) of section 726, the notice shall also state that each director of the company at the date that the notice is sent is liable for disqualification under section 842(h) if the company is struck off the register.

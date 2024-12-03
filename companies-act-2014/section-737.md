@@ -14,9 +14,15 @@ Restoration on application to Registrar
 
 (a) the Registrar has received from the company all annual returns outstanding, if any, being annual returns prepared in accordance with Part 6;
 
-(b) the Registrar is satisfied that section 137(1) is being complied with in relation to the company; and
+(b) the Registrar is satisfied that section 137(1) is being complied with in relation to the company;
 
-(c) the Registrar is satisfied that no notification required by section 149(8) remains outstanding in relation to the company.
+(c) the Registrar is satisfied that no notification required by section 149(8) remains outstanding in relation to the company;
+
+(d) the Registrar is satisfied that section 50(1) is being complied with in relation to the company;
+
+(e) the Registrar is satisfied that section 129(1) is being complied with in relation to the company;
+
+(f) if the ground, or one of the grounds, on which the company had been struck off the register is that referred to in section 726(i), the Registrar has received written confirmation from the Registrar of Beneficial Ownership that he or she has no objection to the company being restored under this section.
 
 (3) If the ground, or one of the grounds, on which the company had been struck off the register is that referred to in section 726(b), subsection (2) shall have effect as if the following paragraph were inserted after paragraph (a) of that subsection:
 

@@ -12,4 +12,10 @@ Information to be supplied to Registrar
 
 (ii) an offence under section 855(1) or 856(1).
 
-(2) In any case to which this section applies, a prescribed officer of the court shall ensure that the Registrar is given the prescribed particulars of the order, relief or conviction at such time and in such form and manner as may be prescribed.
+(2) In any case to which this section applies, a prescribed officer of the court shall ensure that the Registrar and the Authority are given the prescribed particulars of the order, relief or conviction, in such form and manner as may be prescribed, within 28 days after—
+
+(a) the perfection of a disqualification order under paragraph (a) of subsection (1),
+
+(b) the perfection of an order granting or varying relief under paragraph (b), of subsection (1), or
+
+(c) the date of a conviction under subsection (1)(c).

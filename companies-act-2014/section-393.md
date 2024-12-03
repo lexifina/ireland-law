@@ -6,9 +6,11 @@ Report to Registrar and Director: category 1 and 2 offences
 
 (a) furnish the Authority with such further information in their possession or control relating to the matter as the Authority may require, including further information relating to the particulars of the grounds on which they formed the opinion referred to in that subsection,
 
-(b) give the Authority such access to books and documents in their possession or control relating to the matter as the Authority may require, and
+(b) give the Authority such access to books and documents in their possession or control relating to the matter as the Authority may require,
 
-(c) give the Authority such access to facilities for the taking of copies of or extracts from those books and documents as the Authority may require.
+(c) give the Authority such access to facilities for the taking of copies of or extracts from those books and documents as the Authority may require, and
+
+(d) furnish the Authority with such copies of, or extracts from, those books and documents as the Authority may require, accompanied by a certificate of the statutory auditors, bearing their signatures, stating that the copies or extracts so furnished are a true copy of, or extract from, the original books or documents concerned.
 
 (3) Any written information given in response to a request of the Authority under subsection (2) shall in all legal proceedings (other than proceedings for an offence) be admissible without further proof, until the contrary is shown, as evidence of the facts stated in it.
 

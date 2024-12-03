@@ -6,7 +6,7 @@ Requirements where eligible company wishes to avail of rescue plan
 
 (a) the conditions specified in subsection (2) are met in relation to an eligible company, and
 
-(b) the directors of the eligible company wish to avail of a rescue plan.
+(b) the directors of the eligible company wish it to avail of a rescue plan.
 
 (2) The conditions referred to in subsection (1) are—
 
@@ -16,7 +16,7 @@ Requirements where eligible company wishes to avail of rescue plan
 
 (c) no order has been made for the winding up of the eligible company,
 
-(d) the directors of the eligible company have not passed a resolution for the appointment of a process adviser in respect of the eligible company during the period of 5 years ending on the date on which it is proposed that such a resolution be passed by the eligible company,
+(d) the directors of the eligible company have not passed a resolution for the appointment of a process adviser in respect of the eligible company during the period of 5 years ending on the date on which it is proposed that such a resolution be passed by the directors of the eligible company,
 
 (e) no examiner has been appointed to the eligible company during the period of 5 years referred to in paragraph (d).
 

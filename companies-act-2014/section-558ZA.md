@@ -28,7 +28,7 @@ Process adviser’s report
 
 (b) employees of the eligible company,
 
-(c) the Director,
+(c) the Authority
 
 (d) the office of the relevant court, and
 
