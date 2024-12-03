@@ -1,7 +1,3 @@
-## PART 12 STRIKE OFF AND RESTORATION
-
-## CHAPTER 1 Strike off of company
-
 When Registrar may strike company off register
 
 725. (1) Except in the case of an application by a company to be struck off the register, the Registrar may strike a company off the register if—

@@ -2,9 +2,7 @@ Funding in respect of functions of Supervisory Authority under certain regulatio
 
 918. (1) ...
 
-(2) For the purposes specified in subsection (3), the Supervisory Authority may impose, with the Minister’s consent and subject to subsections (4) to
-
-(6), one or more levies in each financial year of the Supervisory Authority on statutory auditors and audit firms auditing and, where applicable, carrying out the assurance of sustainability reporting public-interest entities.
+(2) For the purposes specified in subsection (3), the Supervisory Authority may impose, with the Minister’s consent and subject to subsections (4) to (6), one or more levies in each financial year of the Supervisory Authority on statutory auditors and audit firms auditing and, where applicable, carrying out the assurance of sustainability reporting public-interest entities.
 
 (3) Money received by the Supervisory Authority under this section may be used only for the purposes of meeting expenses properly incurred by it in performing its functions as the competent authority under Regulation (EU) No 537/2014 or this Act (including a function under section 905(2)(n)) in relation to statutory auditors of public-interest entities or the assurance of sustainability reporting of public-interest entities.
 

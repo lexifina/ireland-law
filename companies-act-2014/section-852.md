@@ -32,9 +32,7 @@ Restriction undertaking — initiation of procedure that provides person opportu
 
 (d) that during the notice period, or that period as so extended, the Authority will refrain from making an application in respect of the person under section 819 arising from or in connection with the underlying facts and circumstances;
 
-(e) that if the person, within the notice period or that period as so extended, does the things referred to in paragraph (c)(I) and (II), the
-
-Authority shall not, after the expiry of that period, make an application in respect of the person under section 819 arising from or in connection with the underlying facts and circumstances.
+(e) that if the person, within the notice period or that period as so extended, does the things referred to in paragraph (c)(I) and (II), the Authority shall not, after the expiry of that period, make an application in respect of the person under section 819 arising from or in connection with the underlying facts and circumstances.
 
 (4) That notice shall also state—
 

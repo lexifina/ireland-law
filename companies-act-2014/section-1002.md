@@ -90,9 +90,7 @@ Section 155
 
 Voting by director in respect of contract,
 
-Section 161(7) etc. in which director is interested
-
-Majority written resolutions
+Section 161(7) etc. in which director is interested Majority written resolutions
 
 Section 194
 
@@ -124,7 +122,9 @@ Section 333 audited (unless audit exemption availed of )
 
 Exclusions, exemptions and special Chapter 14 of Part 6 arrangements with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant Chapter 16 of Part 6 companies
+Audit exemption Chapter 15 of Part 6
+
+Special audit exemption for dormant Chapter 16 of Part 6 companies
 
 Small and medium companies
 

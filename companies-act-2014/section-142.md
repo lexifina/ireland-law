@@ -46,4 +46,6 @@ Limitation on number of directorships
 
 Table
 
-A company that is the holder of a licence under section 9 of the Central Bank Act 1971 or is exempt from the requirement under that Act to hold such a licence. A company falling within any provision (in so far as applicable to a private company limited by shares) of Schedule 5.
+A company that is the holder of a licence under section 9 of the Central Bank Act 1971 or is exempt from the requirement under that Act to hold such a licence.
+
+A company falling within any provision (in so far as applicable to a private company limited by shares) of Schedule 5.
