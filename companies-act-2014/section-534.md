@@ -14,23 +14,11 @@ Report by examiner
 
 (b) in accordance with section 536, report on those proposals to the court, within 35 days after the date of his or her appointment or such longer period as the court may allow.
 
-(3) Subject to subsection (3A), where, on the application of the examiner, the court is satisfied that the examiner would be unable to report under subsection (2) to the court within the period of 70 days referred to in section 520(2) but that he or she would be able to report under that subsection to the court if that period were extended, the court may by order extend that period by not more than 30 days to enable him or her to do so.
+(3) Where, on the application of the examiner, the court is satisfied that the examiner would be unable to report under subsection (2) to the court within the period of 70 days referred to in section 520(2) but that he or she would be able to report under that subsection to the court if that period were extended, the court may by order extend that period by not more than 30 days to enable him or her to do so.
 
-(3A) (a) Paragraph (b) applies where the examiner has obtained an order under subsection (3) extending the period of 70 days referred to in section 520(2).
+(3A) ...
 
-(b) Where, during the interim period, on the application of the examiner, the court is satisfied that—
-
-(i) the examiner has been unable to report under subsection (2) to the court within the period of 70 days referred to in section 520(2),
-
-(ii) having obtained an order of the court under subsection (3) to extend the period referred to in section 520(2), he or she would be unable to report under subsection (2) to the court within the period as so extended by the court under subsection (3),
-
-(iii) the examiner would be able to report under subsection (2) to the court if the period as extended under subsection (3) were further extended, and
-
-(iv) exceptional circumstances exist in respect of the company the subject of the application, the court may by order further extend the extended period by not more than 50 days to enable the examiner to make his or her report.
-
-(c) In paragraph (b), "exceptional circumstances" include (but are not limited to) the nature and potential or actual impact of Covid-19 on the company.
-
-(4) Where the examiner has submitted a report under this section to the court and, but for this subsection, the period mentioned in section 520(2) (and any extended period allowed under subsection (3)) and any further extended period allowed under subsection (3A) would expire, the court may, of its own motion or on the application of the examiner, extend the period concerned by such period as the court considers necessary to enable it to take a decision under section 541, but the total duration of the period referred to in section 520(2), any extended period allowed under subsection (3), any further extended period allowed under subsection (3A), and any further extended period allowed under this subsection, shall not exceed 12 months..
+(4) Where the examiner has submitted a report under this section to the court and, but for this subsection, the period mentioned in section 520(2) (and any extended period allowed under subsection (3)) ... would expire, the court may, of its own motion or on the application of the examiner, extend the period concerned by such period as the court considers necessary to enable it to take a decision under section 541, but the total duration of the period referred to in section 520(2), any extended period allowed under subsection (3), ... and any further extended period allowed under this subsection, shall not exceed 12 months..
 
 (5) The examiner shall supply a copy of his or her report under this section—
 
