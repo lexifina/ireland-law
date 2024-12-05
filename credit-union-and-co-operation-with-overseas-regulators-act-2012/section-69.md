@@ -82,7 +82,9 @@ Amendment to Central Bank Reform Act 2010.
 
 (f) if provision is required to be made for the first-mentioned person and another person in any consolidated accounts compiled in accordance with Seventh Council Directive 83/349/EEC of 13 June 1983 , that other person.
 
-(2) References in this Part to a regulated financial service provider, or a related undertaking, shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider, or a related undertaking, at the relevant time. 56.— (1) The following are persons to whom this Part applies (including persons outside the State):
+(2) References in this Part to a regulated financial service provider, or a related undertaking, shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider, or a related undertaking, at the relevant time.
+
+56.— (1) The following are persons to whom this Part applies (including persons outside the State):
 
 (a) a regulated financial service provider;
 
@@ -118,7 +120,9 @@ Amendment to Central Bank Reform Act 2010.
 
 (i) is or has been an officer or employee or agent of any person to whom this Part applies, or
 
-(ii) appears to the Bank or the authorised officer to have the information in his or her possession or under his or her control. 57.— (1) For the purposes of obtaining any information necessary for the performance by the Bank of its functions under financial services legislation relating to the proper and effective regulation of financial service providers, the Bank may appoint any of its officers or employees or other suitably qualified persons to be authorised officers and to exercise any of the powers conferred by this Part.
+(ii) appears to the Bank or the authorised officer to have the information in his or her possession or under his or her control.
+
+57.— (1) For the purposes of obtaining any information necessary for the performance by the Bank of its functions under financial services legislation relating to the proper and effective regulation of financial service providers, the Bank may appoint any of its officers or employees or other suitably qualified persons to be authorised officers and to exercise any of the powers conferred by this Part.
 
 (2) The Bank may revoke any appointment made by it under subsection (1).
 
