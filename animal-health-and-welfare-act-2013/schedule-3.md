@@ -24,9 +24,7 @@ Housing and Husbandry of animals
 
 7. The provision and maintenance of drainage, water supply or other facilities for an animal, including the sanitation of land or premises on which an animal is kept or otherwise used.
 
-8. The protection of animals from adverse weather or other environmental conditions.
-
-Disease control and veterinary
+8. The protection of animals from adverse weather or other environmental conditions. Disease control and veterinary
 
 9. The notification of the existence or suspected existence of disease.
 
@@ -60,9 +58,7 @@ Measures to be taken regarding animals
 
 19. The provision of biosecurity measures, including the use of personal protective equipment and the cleansing or disinfecting of clothing, equipment, machinery, land or premises.
 
-20. The maintenance and repair of boundary fences, walls or other structures.
-
-Transport or movement of animals
+20. The maintenance and repair of boundary fences, walls or other structures. Transport or movement of animals
 
 21. The regulation (including restriction or prohibition) of transport or movement of animals, animal products or animal feed, including provisions in respect of—
 
