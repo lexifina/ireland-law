@@ -66,11 +66,7 @@ No. 13 of 1985 Control of Bulls for Breeding Act 1985 The whole Act
 
 No. 32 of 1986 Control of Dogs Act 1986 Sections 20, 24 and 29
 
-No. 5 of 1996 Bovine Diseases (Levies) (Amendment) Act 1996 The whole Act Session and Short Title or Subject Extent of Repeal Chapter or
-
-Number and Year (1) (2) (3)
-
-No. 37 of 1996 Control of Horses Act 1996 Sections 43, 44 and 48
+No. 5 of 1996 Bovine Diseases (Levies) (Amendment) Act 1996 The whole Act No. 37 of 1996 Control of Horses Act 1996 Sections 43, 44 and 48
 
 No. 2 of 2000 National Beef Assurance Scheme Act 2000 The whole Act
 
