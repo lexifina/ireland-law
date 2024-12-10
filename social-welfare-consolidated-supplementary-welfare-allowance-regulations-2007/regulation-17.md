@@ -26,8 +26,8 @@ Continuation of payment of supplement where entitlement commences before 1 Febru
 
 (4A) Notwithstanding sub-article (4), in the case of a claimant who is in receipt of a supplement under Part 4 of these Regulations, any increase in the weekly rate of benefit or assistance payable to that claimant, as provided for—
 
-(a) by the Social Welfare Act 2022, or
+(a) by the Social Welfare Act 2024 , or
 
-(b) by virtue of Regulations made, which commence on or after 28 December 2022 but before 6 January 2023, under the Principal Act, insofar as such Regulations relate to an increase in the weekly rate of benefit or assistance, shall not have the effect of reducing the rate of supplement below that which was payable before the said increase occurs.
+(b) by virtue of Regulations made, which commence on or after 25 December 2024 but before 4 January 2025, under the Principal Act, insofar as such Regulations relate to an increase in the weekly rate of benefit or assistance, shall not have the effect of reducing the rate of supplement below that which was payable before the said increase occurs.
 
 (5) In this article "Regulations of 1995" means the Social Welfare (Consolidated Supplementary Welfare Allowance) Regulations 1995 (S.I. No. 382 of 1995).
