@@ -16,4 +16,6 @@ Power of the Board to make procedural rules relating to mediation.
 
 (d) subject to section 18E(3), specify by which means mediation under this Chapter and an assessment under section 20 shall be independent and separate from each other,
 
-(e) specify that the Board may facilitate the mediation process to take place other than in person, including by way of telephone or other electronic means. Chapter 2
+(e) specify that the Board may facilitate the mediation process to take place other than in person, including by way of telephone or other electronic means.
+
+Chapter 2

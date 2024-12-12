@@ -14,6 +14,4 @@ Enforceability of assessment.
 
 (c) to the Board, the amount of any outstanding charges payable to the Board by the respondent in accordance with regulations under section 22.
 
-(3) If the assessment is binding on more than one respondent, the liability of the respondents for payment of that amount or those amounts shall be joint and several and an order to pay shall include a statement to that effect.
-
-Chapter 3
+(3) If the assessment is binding on more than one respondent, the liability of the respondents for payment of that amount or those amounts shall be joint and several and an order to pay shall include a statement to that effect. Chapter 3
