@@ -48,9 +48,7 @@ S.I. No. 101 of European Communities (Appliances Burning Gaseous Fuels) Regulati
 
 S.I. No. 150 of 1995
 
-S.I. No. 428 of European Communities (Low Voltage Electrical Equipment) Regulations 1992 and 1992 1994 Number and Citation Year (1) (2)
-
-S.I. No. 307 of 1994
+S.I. No. 428 of European Communities (Low Voltage Electrical Equipment) Regulations 1992 and 1992 1994 S.I. No. 307 of 1994
 
 S.I. No. 272 of European Communities (Personal Protective Equipment) Regulations 1993 to 1997 1993
 
@@ -92,11 +90,9 @@ S.I. No. 528 of 2003
 
 S.I. No. 228 of 2005
 
-S.I. No. 514 of 2005 Number and Citation Year (1) (2)
+S.I. No. 514 of 2005
 
-S.I. No. 647 of 2005
-
-S.I. No. 639 of European Communities (Requirements to Indicate Product Prices) Regulations 2002 2002
+S.I. No. 647 of 2005 S.I. No. 639 of European Communities (Requirements to Indicate Product Prices) Regulations 2002 2002
 
 S.I. No. 11 of European Communities (Sale of Consumer Goods and Associated Guarantees) 2003 Regulations 2003
 
