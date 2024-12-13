@@ -12,4 +12,6 @@ S.I. No. 482 of 1992 European Communities (Low Voltage Electrical Equipment) Reg
 
 S.I. No. 272 of 1993 European Communities (Personal Protective Equipment) Regulations 1993
 
-S.I. No. 199 of 2004 European Communities (General Product Safety) Regulations 2004
+... ...
+
+S.I. No. XX of 2024 European Union (General Product Safety) Regulations 2024

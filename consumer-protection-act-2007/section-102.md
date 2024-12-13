@@ -4,6 +4,6 @@ Admissibility of certain laboratory tests.
 
 (2) Those proceedings are proceedings under any of the statutory instruments specified in Schedule 7 .
 
-(3) In this section ‘relevant laboratory’ means a laboratory the competence of which to carry out tests in relation to products is recognised by an authority performing functions under the laws, regulations or administrative provisions adopted by a Member State for the purposes of any of the Directives specified in Schedule 8.
+(3) In this section "relevant laboratory" means a laboratory the competence of which to carry out tests in relation to products is recognised by an authority performing functions under the laws, regulations or administrative provisions adopted by a Member State for the purposes of any of the Directives or Regulations specified in Schedule 8.
 
 (4) Where a certificate referred to in subsection (1) is produced in proceedings referred to in subsection (2), it shall be presumed, until the contrary is shown, that the laboratory referred to in the certificate as a relevant laboratory is such a laboratory.
