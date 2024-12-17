@@ -12,7 +12,7 @@ Interpretation.
 
 (b) a detergent within the meaning of the Detergents Regulation,
 
-(c) a substance, preparation or article within the meaning of the REACH Regulation,
+(c) a substance, mixture or article within the meaning of the REACH Regulation,
 
 (d) a substance, mixture or article within the meaning of the CLP Regulation, and
 
