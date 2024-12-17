@@ -16,13 +16,15 @@ Regulations to give full effect to this Part.
 
 (g) the charging by the Health Service Executive for the provision of health services provided in the State to persons from the United Kingdom and the method in relation to which charges for such health services shall be calculated and levied;
 
-OJ No. CI 384, 12.11.2019, p.1
-
 (h) the manner in which payments in respect of charges referred to in paragraph (g) shall be made to the State by individuals and by the United Kingdom;
 
 (i) the method by which payments are to be made by the State in respect of health services provided in the United Kingdom and the manner in which such payments shall be made by the State to the United Kingdom;
 
-(j) the method by which charges are to be levied by the State on the United Kingdom in respect of health services provided by or on behalf of the Health Service Executive in the State and the manner in which payments shall be made by the United Kingdom to the State;
+(j) the method by which charges are to be levied by the State on the United Kingdom in respect of health services provided by or on behalf of the Health
+
+OJ No. CI 384, 12.11.2019, p.1
+
+Service Executive in the State and the manner in which payments shall be made by the United Kingdom to the State;
 
 (k) the class or classes of persons in respect of whom payments shall be made by the State or the United Kingdom, including the methodology used to estimate the number of persons concerned;
 
