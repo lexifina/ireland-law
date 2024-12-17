@@ -26,7 +26,7 @@ Offences relating to sale by retail of tobacco products.
 
 (5) (a) A person registered under section 37 may provide such information relating to a tobacco product sold by him or her to a member of the public intending to purchase a tobacco product as may be prescribed by regulations made by the Minister.
 
-(b) Regulations under paragraph (a) may provide that the person registered under section 37 may—
+(b) Regulations under paragraph (a) may provide that that the person registered under section 37 may—
 
 (i) notwithstanding subsection (3), show the member of the public concerned one packet only of each tobacco product sold by him or her, or a reproduction thereof, or
 
