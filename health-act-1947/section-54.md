@@ -35,3 +35,7 @@ Regulations for prevention of danger from food and drink.
 "protection of consumer interests" includes all measures for the prohibition or prevention of the processing, storage, transport, distribution, trading or selling to the prejudice of the consumer of any food which is not of the nature, substance or quality demanded by the consumer;
 
 "repealed section" means section 54 of this Act as in force immediately before the commencement of this section.
+
+...
+
+SCHEDULE 3
