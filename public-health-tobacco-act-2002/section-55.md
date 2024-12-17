@@ -1,4 +1,4 @@
-F87[Prohibition notice
+F88[Prohibition notice
 
 55.—(1) Where an authorised officer is of the opinion that a person has contravened a provision to which this section applies, the authorised officer may, with the approval of the chief executive officer of the Executive, or another officer of the Executive designated for that purpose, serve, or arrange to have served, on the person concerned, an order (in this section referred to as a "prohibition notice") in accordance with subsection (2).
 

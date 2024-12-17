@@ -1,6 +1,6 @@
 Register of retailers of tobacco products.
 
-37.—(1) The Office shall, on the commencement of this section, cause to be established and maintained a register of all persons who carry on, in whole or in part, the business of selling tobacco products by retail (hereafter in this Act referred to as "the register").
+37. — (1) The Office shall, on the commencement of this section, cause to be established and maintained a register of all persons who carry on, in whole or in part, the business of selling tobacco products by retail (hereafter in this Act referred to as "the register").
 
 (2) The Office may, for the purpose of defraying any expense incurred in establishing or maintaining the register, charge each person registered under this section a fee of such amount as may be determined by the Minister (in this section referred to as the “appropriate fee”).
 
@@ -8,7 +8,7 @@ Register of retailers of tobacco products.
 
 (4) A person who immediately before the commencement of this section was carrying on, in whole or in part, the business of selling tobacco products by retail shall, if he or she wishes to continue carrying on that business, apply, not later than 3 months after such commencement, to the Office to be registered in the register.
 
-(5) An application under this section shall—
+(5) An application under this section shall —
 
 (a) be in writing,
 
@@ -18,7 +18,7 @@ Register of retailers of tobacco products.
 
 (d) contain such other information as may be prescribed by regulations made by the Minister, and shall be accompanied by the appropriate fee.
 
-(6) As soon as practicable after an application under this section, in respect of which there is compliance with subsection (5), is received by the Office, the Office shall, subject to subsection (9), enter in the register—
+(6) As soon as practicable after an application under this section, in respect of which there is compliance with subsection (5), is received by the Office, the Office shall, subject to subsection (9), enter in the register —
 
 (a) the applicant's name and the address at which he or she ordinarily resides,
 
@@ -54,6 +54,6 @@ Register of retailers of tobacco products.
 
 (15) (a) It shall be lawful for a person to sell a tobacco product, or cause a tobacco product to be sold by retail, in accordance with this Act, from premises in respect of which he or she is registered under this section.
 
-(b) Subject to any order under subsection (4) or (5) of section 5A, it shall be lawful for a person who, immediately before the commencement of this section, carried on, in whole or in part, the business of selling tobacco products by retail, to sell a tobacco product, or cause a tobacco product to be sold, by retail, in accordance with this Act, during the period of 3 months after such commencement, from premises (being premises in respect of which he or she is not registered under this section) in which, immediately before such commencement, he or she carried on such business.
+(b) Subject to any order under subsection (4) or (5) of section 5A , it shall be lawful for a person who, immediately before the commencement of this section, carried on, in whole or in part, the business of selling tobacco products by retail, to sell a tobacco product, or cause a tobacco product to be sold, by retail, in accordance with this Act, during the period of 3 months after such commencement, from premises (being premises in respect of which he or she is not registered under this section) in which, immediately before such commencement, he or she carried on such business.
 
 (c) Subject to any order under subsection (4) or (5) of section 5A, it shall be lawful for a person to whom paragraph (b) applies and who has made an application under subsection (4) to sell a tobacco product, or cause a tobacco product to be sold, by retail, in accordance with this Act, during the period of 12 months after the expiration of the period of 3 months referred to in that subsection, from premises (being premises in respect of which he or she is not registered under this section) in which, immediately before such commencement, he or she carried on such business.
