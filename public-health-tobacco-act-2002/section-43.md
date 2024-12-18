@@ -1,10 +1,10 @@
 Offences relating to sale by retail of tobacco products.
 
-43.—(1) Subject to subsection (2), it shall be an offence for a person to sell a tobacco product by retail, or cause a tobacco product to be sold by retail, by means of self service.
+43.—(1) It shall be an offence for a person to sell a tobacco product by retail, or cause a tobacco product to be sold by retail, by means of self service.
 
-(2) It shall be lawful for tobacco products to be sold by retail, in accordance with regulations made by the Minister, by means of a vending machine on licensed premises or the premises of a registered club by such persons, or by persons belonging to such classes of persons, as are specified in the regulations (being persons who are registered under section 37 in respect of the licensed premises concerned or the premises of the registered club concerned).
+(2) ...
 
-(3) A person registered under section 37 (other than a person to whom regulations under subsection (2) apply) shall ensure that tobacco products sold by him or her are kept in a closed container or dispenser that is not visible or accessible to any person other than the first-mentioned person, or a person employed by him or her in connection with the business of selling goods by retail while so employed.
+(3) A licensee shall ensure that tobacco products sold by him or her are kept in a closed container or dispenser that is not visible or accessible to any person other than the licensee, or a person employed by him or her in connection with the business of selling goods by retail while so employed.
 
 (4) A person registered under section 37 shall ensure that—
 
@@ -24,9 +24,9 @@ Offences relating to sale by retail of tobacco products.
 
 (iii) providing such other information as may be so prescribed.
 
-(5) (a) A person registered under section 37 may provide such information relating to a tobacco product sold by him or her to a member of the public intending to purchase a tobacco product as may be prescribed by regulations made by the Minister.
+(5) (a) A licensee may provide such information relating to a tobacco product sold by him or her to a member of the public intending to purchase a tobacco product as may be prescribed by regulations made by the Minister.
 
-(b) Regulations under paragraph (a) may provide that that the person registered under section 37 may—
+(b) Regulations under paragraph (a) may provide that the licensee may—
 
 (i) notwithstanding subsection (3), show the member of the public concerned one packet only of each tobacco product sold by him or her, or a reproduction thereof, or
 
