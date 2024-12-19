@@ -20,7 +20,7 @@ Saving for legal privilege
 
 (i) examining the information, and
 
-(ii) preparing a report for the court, or the adjudication officer as the case may be, with a view to assisting or facilitating the court in the making by the court of its determination as to whether the information is privileged legal material.
+(ii) preparing a report for the court, or the adjudication officer as the case may be, with a view to assisting or facilitating the court, or the adjudication officer as the case may be, in the making by the court, or the adjudication officer as the case may be, of its determination as to whether the information is privileged legal material.
 
 (6) An application under subsection (3), (4) or (5) shall be by motion and may, if the High Court or, in respect of proceedings under Parts 2C, 2D and 2G of the Act of 2002, an adjudication officer appointed under the Act of 2002 directs, be heard otherwise than in public.
 
