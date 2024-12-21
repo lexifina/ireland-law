@@ -1,4 +1,4 @@
-F36[Guidelines in respect of language standards
+F35[Guidelines in respect of language standards
 
 19D. —(1) The Minister may issue guidelines for the purpose of providing practical guidance to public bodies as respects the compliance, by those bodies, with language standards prescribed under section 19A(2).
 

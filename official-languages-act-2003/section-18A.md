@@ -1,4 +1,4 @@
-F27[Establishment of Advisory Committee
+F26[Establishment of Advisory Committee
 
 18A. —(1) The Minister shall, by order, appoint a day to be the establishment day (in this Act referred to as the "establishment day") for the purposes of this Act, and the establishment day shall be a day that is not later than 6 months after the passing of the Official Languages (Amendment) Act 2021.
 

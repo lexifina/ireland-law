@@ -1,4 +1,4 @@
-F33[Language standards
+F32[Language standards
 
 19A. —(1) For the purpose of prescribing language standards to apply to a public body or class of public bodies in order to promote the use of the Irish language for official purposes in the State, the Minister may, with the consent of the Minister of the Government in whom functions in relation to the body or each body in the class of public bodies is vested, prescribe the public body or class of public bodies for the purposes of this section.
 

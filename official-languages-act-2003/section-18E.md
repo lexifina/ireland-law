@@ -1,4 +1,4 @@
-F31[Public bodies in Gaeltacht Language Planning Areas
+F30[Public bodies in Gaeltacht Language Planning Areas
 
 18E. —The Minister shall, by order, within 3 months of submitting the National Plan to the Government under section 18D(1)(a)(iii) and having regard to the National Plan—
 
