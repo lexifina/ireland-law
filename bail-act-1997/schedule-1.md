@@ -26,11 +26,17 @@ Offences against the person
 
 (aa) section 3A (non-fatal strangulation or non-fatal suffocation);
 
+(ab) section 3B (assault causing harm aggravated by hatred);
+
 (b) section 4 (causing harm);
 
 (ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm;)
 
+(bb) section 4B (causing serious harm aggravated by hatred);
+
 (c) section 5 (threats to kill or cause serious harm);
+
+(ca) section 5A (threats to kill or cause serious harm aggravated by hatred);
 
 (d) section 6 (syringe, etc. attacks);
 
@@ -40,9 +46,15 @@ Offences against the person
 
 (g) section 9 (coercion);
 
+(ga) section 9A (coercion aggravated by hatred);
+
 (h) section 10 (harassment or stalking);
 
+(ha) section 10B (harassment aggravated by hatred);
+
 (i) section 13 (endangerment);
+
+(ia) section 13A (endangerment aggravated by hatred);
 
 (j) section 14 (endangering traffic);
 
@@ -57,6 +69,8 @@ Offences against the person
 8. Any offence under the following provisions of the Criminal Justice (Public Order) Act, 1994—
 
 (a) section 18 (assault with intent to cause bodily harm or commit indictable offence);
+
+(aa) section 18A (assault with intent to cause bodily harm or commit indictable offence aggravated by hatred);
 
 (b) section 19 (assault or obstruction of peace officer).
 
@@ -175,6 +189,8 @@ Robbery and burglary
 18. Any offence under the following provisions of the Criminal Damage Act, 1991—
 
 (a) section 2 (damaging property);
+
+(aa) section 2A (damaging property aggravated by hatred);
 
 (b) section 3 (threat to damage property);
 
