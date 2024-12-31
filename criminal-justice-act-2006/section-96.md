@@ -1,4 +1,4 @@
-Certificate as evidence of person’s being subject to requirements of this Part.
+Certificate as evidence of person's being subject to requirements of this Part.
 
 96.— (1) If the conviction, after the commencement of this Part, of a person for an offence gives rise or may give rise to his or her becoming subject to the requirements of this Part, the court before which he or she is convicted of the offence shall forthwith, after the conviction, issue to each of the persons referred to in subsection (6) a certificate stating—
 

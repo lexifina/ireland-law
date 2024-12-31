@@ -1,6 +1,6 @@
 ## PART 3 ADMISSIBILITY OF CERTAIN WITNESS STATEMENTS
 
-Definitions ( Part 3 ).
+Definitions (Part 3).
 
 15.— In this Part—
 

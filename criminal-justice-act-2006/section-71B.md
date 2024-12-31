@@ -1,4 +1,4 @@
-Provisions with respect to proof of criminal organisation’s existence.
+Provisions with respect to proof of criminal organisation's existence.
 
 71B.— (1) In proceedings under this Part the opinion of—
 
