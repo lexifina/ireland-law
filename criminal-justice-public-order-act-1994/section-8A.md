@@ -1,4 +1,4 @@
-F8[Power to direct persons who are in possession of intoxicating substances, etc.
+F13[Power to direct persons who are in possession of intoxicating substances, etc.
 
 8A.—(1) This section applies where a member of the Garda Síochána believes with reasonable cause that—
 

@@ -1,6 +1,6 @@
 ## PART IIA OFFENCES RELATING TO ENTERING AND OCCUPYING LAND WITHOUT CONSENT
 
-F26[Interpretation (Part IIA).
+F33[Interpretation (Part IIA).
 
 19A.—(1) In this Part, except where the context otherwise requires—
 

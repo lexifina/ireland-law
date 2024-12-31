@@ -1,4 +1,4 @@
-F26[Entry on and occupation of land or bringing onto or placing an object on land without consent.
+F33[Entry on and occupation of land or bringing onto or placing an object on land without consent.
 
 19C.—(1) A person, without the duly given consent of the owner, shall not—
 

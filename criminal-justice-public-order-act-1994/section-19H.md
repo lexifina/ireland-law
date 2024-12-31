@@ -1,4 +1,4 @@
-F26[Jurisdiction of District Court.
+F33[Jurisdiction of District Court.
 
 19H.—(1) Notwithstanding any statutory provision or rule of law to the contrary, the jurisdiction of the District Court shall not, in summary proceedings in relation to an offence under this Part, be ousted by reason solely of a question of title to land being brought into issue.
 

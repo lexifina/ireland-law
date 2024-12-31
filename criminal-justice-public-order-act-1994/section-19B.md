@@ -1,4 +1,4 @@
-F26[Extent of application (Part IIA), etc.
+F33[Extent of application (Part IIA), etc.
 
 19B.—(1) This Part does not apply to any public road within the meaning of the Roads Act, 1993.
 

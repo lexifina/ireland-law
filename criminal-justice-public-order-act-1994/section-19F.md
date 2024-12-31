@@ -1,4 +1,4 @@
-F26[Removal, storage and disposal of object.
+F33[Removal, storage and disposal of object.
 
 19F.—(1) Where a person fails to comply with a direction under section 19C(3)(b), a member of the Garda Síochána may remove or cause to be removed any object which the member has reason to believe was brought onto or placed on the land in contravention of section 19C(1) and may store or cause to be stored such object so removed.
 
