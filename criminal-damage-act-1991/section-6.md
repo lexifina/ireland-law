@@ -2,7 +2,7 @@
 
 6.—(1) This section applies to—
 
-(a) any offence under section 2 (1) or 5,
+(a) an offence under section 2(1), including such an offence when committed aggravated by hatred for the purposes of section 2A,
 
 (b) any offence under section 3 other than one involving a threat by the person charged to damage property in a way which he knows is likely to endanger the life of another, and
 

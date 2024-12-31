@@ -12,4 +12,6 @@ Proceedings.
 
 (c) ...
 
+(2A) In this section, references to an offence under section 2 shall include references to such an offence when committed aggravated by hatred for the purposes of section 2A.
+
 (3) ...

@@ -24,15 +24,21 @@ Non-fatal offences against the person
 
 (aa) section 3A (non-fatal strangulation or non-fatal suffocation);
 
+(ab) section 3B (assault causing harm aggravated by hatred);
+
 (b) section 4 (assault causing serious harm);
 
 (ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
+
+(bb) section 4B (causing serious harm aggravated by hatred);
 
 (c) section 6 (syringe and other attacks);
 
 (d) section 12 (poisoning);
 
 (e) section 13 (endangerment);
+
+(ea) section 13A (endangerment aggravated by hatred);
 
 (f) section 14 (endangering traffic);
 
@@ -54,7 +60,11 @@ Sexual offences
 
 Criminal damage
 
-5. Any offence under section 2 (damaging property) of the Criminal Damage Act 1991.
+5. Any offence under any of the following provisions of the Criminal Damage Act 1991:
+
+(a) section 2 (damaging property);
+
+(b) section 2A (damaging property aggravated by hatred).
 
 Malicious damage
 
@@ -80,7 +90,9 @@ Offences relating to aircraft and vehicles
 
 Offences relating to maritime navigation and fixed platforms located on the continental shelf
 
-7A. Any offence under section 2 of the Maritime Security Act 2004. Offences relating to explosives
+7A. Any offence under section 2 of the Maritime Security Act 2004.
+
+Offences relating to explosives
 
 8. An offence under any of the following provisions of the Explosive Substances Act 1883:
 

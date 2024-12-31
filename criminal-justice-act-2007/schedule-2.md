@@ -14,7 +14,11 @@ Non-fatal offences against the person
 
 (aa) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
 
+(ab) section 4B (causing serious harm aggravated by hatred);
+
 (b) section 5 (threats to kill or cause serious harm);
+
+(ba) section 5A (threats to kill or cause serious harm aggravated by hatred);
 
 (c) section 15 (false imprisonment).
 

@@ -54,9 +54,9 @@ COMMON LAW OFFENCE
 
 OFFENCES AGAINST THE PERSON
 
-2. An offence under section 18 or 19(1) of the Criminal Justice (Public Order) Act 1994.
+2. An offence under section 18, 18A or 19(1) of the Criminal Justice (Public Order) Act 1994.
 
-3. An offence under the Non-Fatal Offences Against the Person Act 1997 (other than section 2 or 16).
+3. An offence under the Non-Fatal Offences Against the Person Act 1997 (other than section 2, 2A or 16).
 
 SEXUAL OFFENCES
 
@@ -77,6 +77,8 @@ HUMAN TRAFFICKING OFFENCES
 THEFT AND FRAUD OFFENCES
 
 9. An offence under section 2(2)(b), 3(b) or 4(b)(i) of the Criminal Damage Act 1991.
+
+9A. An offence under section 2A of the Criminal Damage Act 1991 insofar as it relates to an offence under section 2(2)(b) of that Act that is aggravated by hatred for the purposes of section 2A of that Act.
 
 10. An offence under section 13 or 14 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
 

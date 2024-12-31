@@ -22,4 +22,4 @@ Convictions which may be regarded as spent in certain circumstances
 
 (b) section 37A of the Intoxicating Liquor Act 1988,
 
-(c) section 4, 5, 6, 7, 8, 8A(4) or 9 of the Criminal Justice (Public Order) Act 1994.
+(c) section 4, 5, 6, 6A, 7, 7A, 8, 8A(4) or 9 of the Criminal Justice (Public Order) Act 1994.

@@ -58,13 +58,21 @@ OFFENCES AGAINST CHILDREN FOR PURPOSES OF OFFENCE UNDER SECTION 2
 
 (aa) section 3A (non-fatal strangulation or non-fatal suffocation),
 
+(ab) section 3B (assault causing harm aggravated by hatred),
+
 (b) section 4 (causing serious harm),
 
 (ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm),
 
+(bb) section 4B (causing serious harm aggravated by hatred),
+
 (c) section 5 (threats to kill or cause serious harm),
 
+(ca) section 5A (threats to kill or cause serious harm aggravated by hatred),
+
 (d) section 13 (endangerment),
+
+(da) section 13A (endangerment aggravated by hatred),
 
 (e) section 15 (false imprisonment),
 

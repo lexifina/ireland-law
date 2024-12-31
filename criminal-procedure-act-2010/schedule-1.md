@@ -46,6 +46,8 @@ Offences against the person
 
 (aa) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
 
+(ab) section 4B (causing serious harm aggravated by hatred);
+
 (b) section 6(5) (syringe offences);
 
 (c) section 8(2) (placing or abandoning syringe);
@@ -95,6 +97,8 @@ Explosives offences
 Damaging property
 
 20. An offence of arson under section 2(1) or (3) or an offence under section 2(2) (whether arson or not) of the Criminal Damage Act 1991 (damaging of property).
+
+20A. An offence under section 2A of the Criminal Damage Act 1991 (damaging property aggravated by hatred).
 
 Robbery and burglary
 

@@ -1,6 +1,8 @@
 SCHEDULE 6
 
-OFFENCES AGAINST INTERNATIONALLY PROTECTED PERSONS PART 1
+OFFENCES AGAINST INTERNATIONALLY PROTECTED PERSONS
+
+PART 1
 
 (specified offences referred to in section 11(1)(a))
 
@@ -20,19 +22,27 @@ Non-fatal offences against the person.
 
 (a) section 2 (assault);
 
+(aa) section 2A (assault aggravated by hatred);
+
 (b) section 3 (assault causing harm);
 
 (ba) section 3A (non-fatal strangulation or non-fatal suffocation);
 
+(bb) section 3B (assault causing harm aggravated by hatred);
+
 (c) section 4 (assault causing serious harm);
 
 (ca) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
+
+(cb) section 4B (causing serious harm aggravated by hatred);
 
 (d) section 6 (syringe and other attack);
 
 (e) section 12 (poisoning);
 
 (f) section 13 (endangerment);
+
+(fa) section 13A (endangerment aggravated by hatred);
 
 (g) section 15 (false imprisonment).
 
@@ -63,6 +73,8 @@ Criminal damage and other offences.
 6. An offence under any of the following provisions:
 
 (a) section 2 of the Criminal Damage Act 1991 (damaging property);
+
+(aa) section 2A of the Criminal Damage Act 1991 (damaging property aggravated by hatred);
 
 (b) section 10 of the Criminal Law (Jurisdiction) Act 1976 (unlawful seizure of vehicles, etc.);
 

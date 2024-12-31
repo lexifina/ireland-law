@@ -2,6 +2,8 @@ Interpretation.
 
 1.—(1) In this Act—
 
+"Act of 2024" means the Criminal Justice (Hate Offences) Act 2024;
+
 “contaminated blood” means blood which is contaminated with any disease, virus, agent or organism which if passed into the blood stream of another could infect the other with a life threatening or potentially life threatening disease;
 
 “contaminated fluid” means fluid or substance which is contaminated with any disease, virus, agent or organism which if passed into the blood stream of another could infect the other with a life threatening or potentially life threatening disease;
@@ -10,9 +12,13 @@ Interpretation.
 
 “harm” means harm to body or mind and includes pain and unconsciousness;
 
+"hatred" has the meaning it has in section 2 of the Act of 2024;
+
 “member of the family” in relation to a person, means the spouse, a child (including step-child or adopted child), grandchild, parent, grandparent, step-parent, brother, sister, half-brother, half-sister, uncle, aunt, nephew or niece of the person or any person cohabiting or residing with him or her;
 
 “property” means property of a tangible nature, whether real or personal, including money and animals that are capable of being stolen;
+
+"protected characteristic" has the meaning it has in section 2 of the Act of 2024;
 
 “public place” includes any street, seashore, park, land or field, highway and any other premises or place to which at the material time the public have or are permitted to have access, whether on payment or otherwise, and includes any train, vessel, aircraft or vehicle used for the carriage of persons for reward;
 
