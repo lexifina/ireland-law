@@ -4,9 +4,15 @@ Interpretation (Part II).
 
 3.—In this Part, except where the context otherwise requires—
 
+"Act of 2024" means the Criminal Justice (Hate Offences) Act 2024;
+
 “dwelling” includes a building, vehicle or vessel ordinarily used for habitation;
 
+"hatred" has the meaning it has in section 2 of the Act of 2024;
+
 “private place” means a place that is not a public place;
+
+"protected characteristic" has the meaning it has in section 2 of the Act of 2024;
 
 “public place” includes—
 

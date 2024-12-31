@@ -20,7 +20,7 @@ Certain convictions are not required to be disclosed.
 
 (b) under section 37A of the Intoxicating Liquor Act 1988,
 
-(c) under section 4, 5, 6, 7, 8, 8A(4) or 9 of the Criminal Justice (Public Order) Act 1994.
+(c) under section 4, 5, 6, 6A, 7, 7A, 8, 8A(4) or 9 of the Criminal Justice (Public Order) Act 1994.
 
 (5) In this section—
 
