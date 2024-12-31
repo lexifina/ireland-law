@@ -12,9 +12,7 @@ REAFFIRMING the principle of equal rights and self-determination of peoples as e
 
 CONSIDERING that the taking of hostages is an offence of grave concern to the international community and that, in accordance with the provisions of this Convention, any person committing an act of hostage taking shall either be prosecuted or extradited,
 
-BEING CONVINCED that it is urgently necessary to develop international co-operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism,
-
-Have agreed as follows:
+BEING CONVINCED that it is urgently necessary to develop international co-operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism, Have agreed as follows:
 
 Article 1
 
@@ -150,7 +148,9 @@ The provisions of this Convention shall not affect the application of the Treati
 
 Article 16
 
-1. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
+1. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization
+
+United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609. of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
 
 2. Each State may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation.
 
@@ -159,8 +159,6 @@ Article 16
 Article 17
 
 1. This Convention is open for signature by all States until 31 December 1980 at United Nations Headquarters in New York.
-
-United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609.
 
 2. This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 

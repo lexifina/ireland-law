@@ -12,9 +12,7 @@ Recalling the Declaration on the Occasion of the Fiftieth Anniversary of the Uni
 
 Recalling also the Declaration on Measures to Eliminate International Terrorism, annexed to General Assembly resolution 49/60 of 9 December 1994, in which, inter alia, “the States Members of the United Nations solemnly reaffirm their unequivocal condemnation of all acts, methods and practices of terrorism as criminal and unjustifiable, wherever and by whomever committed, including those which jeopardize the friendly relations among States and peoples and threaten the territorial integrity and security of States”,
 
-Noting that the Declaration also encouraged States “to review urgently the scope of the existing international legal provisions on the prevention, repression and elimination of terrorism in all its forms and manifestations, with the aim of ensuring that there is a comprehensive legal framework covering all aspects of the matter”,
-
-Recalling further General Assembly resolution 51/210 of 17 December 1996 and the Declaration to Supplement the 1994 Declaration on Measures to Eliminate International Terrorism, annexed thereto,
+Noting that the Declaration also encouraged States “to review urgently the scope of the existing international legal provisions on the prevention, repression and elimination of terrorism in all its forms and manifestations, with the aim of ensuring that there is a comprehensive legal framework covering all aspects of the matter”, Recalling further General Assembly resolution 51/210 of 17 December 1996 and the Declaration to Supplement the 1994 Declaration on Measures to Eliminate International Terrorism, annexed thereto,
 
 Noting also that terrorist attacks by means of explosives or other lethal devices have become increasingly widespread,
 
@@ -22,7 +20,9 @@ Noting further that existing multilateral legal provisions do not adequately add
 
 Being convinced of the urgent need to enhance international cooperation between States in devising and adopting effective and practical measures for the prevention of such acts of terrorism and for the prosecution and punishment of their perpetrators,
 
-Considering that the occurrence of such acts is a matter of grave concern to the international community as a whole, Noting that the activities of military forces of States are governed by rules of international law outside the framework of this Convention and that the exclusion of certain actions from the coverage of this Convention does not condone or make lawful otherwise unlawful acts, or preclude prosecution under other laws,
+Considering that the occurrence of such acts is a matter of grave concern to the international community as a whole,
+
+Noting that the activities of military forces of States are governed by rules of international law outside the framework of this Convention and that the exclusion of certain actions from the coverage of this Convention does not condone or make lawful otherwise unlawful acts, or preclude prosecution under other laws,
 
 Have agreed as follows:
 
@@ -42,9 +42,7 @@ For the purposes of this Convention:
 
 4. “Military forces of a State” means the armed forces of a State which are organized, trained and equipped under its internal law for the primary purpose of national defence or security, and persons acting in support of those armed forces who are under their formal command, control and responsibility.
 
-5. “Place of public use” means those parts of any building, land, street, waterway or other location that are accessible or open to members of the public, whether continuously, periodically or occasionally, and encompasses any commercial, business, cultural, historical, educational, religious, governmental, entertainment, recreational or similar place that is so accessible or open to the public.
-
-6. “Public transportation system” means all facilities, conveyances and instrumentalities, whether publicly or privately owned, that are used in or for publicly available services for the transportation of persons or cargo.
+5. “Place of public use” means those parts of any building, land, street, waterway or other location that are accessible or open to members of the public, whether continuously, periodically or occasionally, and encompasses any commercial, business, cultural, historical, educational, religious, governmental, entertainment, recreational or similar place that is so accessible or open to the public. 6. “Public transportation system” means all facilities, conveyances and instrumentalities, whether publicly or privately owned, that are used in or for publicly available services for the transportation of persons or cargo.
 
 Article 2
 
@@ -138,9 +136,7 @@ Article 9
 
 1. The offences set forth in article 2 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties before the entry into force of this Convention. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
 
-2. When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article
-
-2. Extradition shall be subject to the other conditions provided by the law of the requested State.
+2. When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 2. Extradition shall be subject to the other conditions provided by the law of the requested State.
 
 3. States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 2 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.
 
@@ -244,6 +240,4 @@ Article 23
 
 Article 24
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 12 January 1998.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States. IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 12 January 1998.

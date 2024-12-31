@@ -2,9 +2,7 @@ SCHEDULE 4
 
 CONVENTION ON THE PREVENTION AND PUNISHMENT OF CRIMES AGAINST INTERNATIONALLY PROTECTED PERSONS, INCLUDING DIPLOMATIC AGENTS
 
-The States Parties to this Convention,
-
-Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co-operation among States,
+The States Parties to this Convention, Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co-operation among States,
 
 Considering that crimes against diplomatic agents and other internationally protected persons jeopardizing the safety of these persons create a serious threat to the maintenance of normal international relations which are necessary for co-operation among States,
 

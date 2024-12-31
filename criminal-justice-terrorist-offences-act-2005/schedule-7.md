@@ -22,9 +22,7 @@ Recalling also General Assembly resolution 52/165 of 15 December 1997, in which 
 
 Recalling further General Assembly resolution 53/108 of 8 December 1998, in which the Assembly decided that the Ad Hoc Committee established by General Assembly resolution 51/210 of 17 December 1996 should elaborate a draft international convention for the suppression of terrorist financing to supplement related existing international instruments,
 
-Considering that the financing of terrorism is a matter of grave concern to the international community as a whole,
-
-Noting that the number and seriousness of acts of international terrorism depend on the financing that terrorists may obtain,
+Considering that the financing of terrorism is a matter of grave concern to the international community as a whole, Noting that the number and seriousness of acts of international terrorism depend on the financing that terrorists may obtain,
 
 Noting also that existing multilateral legal instruments do not expressly address such financing,
 
