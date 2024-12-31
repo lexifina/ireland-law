@@ -14,7 +14,7 @@ Definitions
 
 “relevant offence” means—
 
-(a) an offence under section 3, 3A, 4, 4A, 5, 9 or 10 of the Non-Fatal Offences against the Person Act 1997,
+(a) an offence under section 3, 3A, 3B, 4, 4A, 4B, 5, 5A, 9 , 9A or 10 of the Non-Fatal Offences against the Person Act 1997,
 
 (b) sexual assault within the meaning of section 2 of the Act of 1990,
 
