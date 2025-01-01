@@ -26,9 +26,11 @@ General rules.
 
 (f) if the supply of services is the provision of intra-Community transport of goods to a non-taxable person, the place of departure of those goods (being the place where the transport of the goods actually begins) irrespective of the distance covered by the means of transport in order to reach the place where the goods are located;
 
-(g) if the supply of services, and of any ancillary services, is in respect of or related to admission to a cultural, artistic, sporting, scientific, educational, entertainment or similar event, such as a fair or exhibition, (including the supply of tickets granting access to such an event) and the supply is to a taxable person, the place where that event actually takes place;
+(g) if the supply of services, and of any ancillary services, is in respect of or related to admission to a cultural, artistic, sporting, scientific, educational, entertainment or similar event, such as a fair or exhibition, (including the supply of tickets granting access to such an event) and the supply is to a taxable person, the place where that event actually takes place , except where attendance at such an event is virtual;
 
 (ga) if the supply of services, and of any ancillary services, is in respect of or related to ... a cultural, artistic, sporting, scientific, educational, entertainment or similar activity, such as a fair or exhibition (including the supply of services of the organiser of such an activity or the supply of tickets granting access to such an activity), and the supply is to a non-taxable person, the place where that activity actually takes place;
+
+(gb) if the supply of services, and of any ancillary services, is in respect of or related to a cultural, artistic, sporting, scientific, educational, entertainment or similar activity, such as a fair or exhibition (including the supply of services of the organiser of such an activity or the supply of tickets granting access to such an activity), and that supply is streamed or otherwise made virtually available to a non-taxable person, the place where that person is established, has a permanent address or usually resides;
 
 (h) if the supply of services is to a non-taxable person and consists of—
 
