@@ -20,4 +20,4 @@ Disregard of proceeds from sale of principal residence — disability allowance,
 
 (c) the gross proceeds are derived from the sale of a dwelling-house or part of a dwelling-house which is, or has been occupied by the claimant or beneficiary as his or her principal residence or land which he or she has for his or her own occupation and enjoyment with that residence as its gardens or grounds up to an area not exceeding one acre.
 
-(2) The limit prescribed for the purposes of Rule 2 of Part 2, Rule 3 of Part 3 and Rule 3 of Part 5 of Schedule 3 to the Principal Act shall be €190,500.
+(2) The limit prescribed for the purposes of Rule 2 of Part 2, Rule 3 of Part 3 and Rule 3 of Part 5 of Schedule 3 to the Principal Act shall be €337,500.
