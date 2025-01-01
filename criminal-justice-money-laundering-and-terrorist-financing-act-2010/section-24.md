@@ -16,7 +16,7 @@ Definitions.
 
 "business risk assessment" has the meaning given to it by section 30A;
 
-"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
+"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, as amended by –
 
 (a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
 
@@ -34,9 +34,23 @@ Definitions.
 
 (h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
 
-(i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014, and
+(i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
 
-(j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic;
+(j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic,
+
+(k) Commission Delegated Regulation (EU) 2021/424 of 17 December 2019 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the alternative standardised approach for market risk,
+
+(l) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID-19 crisis,
+
+(m) Commission Implementing Regulation (EU) 2021/1043 of 24 June 2021 on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 of the European Parliament and of the Council,
+
+(n) Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No. 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities,
+
+(o) Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point,
+
+(p) Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024 amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor, and
+
+(q) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk;
 
 "collective investment undertaking" means—
 
