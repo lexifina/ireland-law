@@ -128,9 +128,7 @@ Certain electronically supplied matter
 
 (e) children’s picture, drawing or colouring books, or
 
-(f) music printed or in manuscript form, but excluding the supply of any such material which is wholly or predominantly devoted to advertising or consists wholly or predominantly of audible music or video content.
-
-Shows, exhibitions, cultural facilities, etc.
+(f) music printed or in manuscript form, but excluding the supply of any such material which is wholly or predominantly devoted to advertising or consists wholly or predominantly of audible music or video content. Shows, exhibitions, cultural facilities, etc.
 
 8. (1) Promotion of, and admission to, showings of cinematographic films.
 
@@ -152,7 +150,7 @@ Shows, exhibitions, cultural facilities, etc.
 
 Private dwellings.
 
-9. (1) Services consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, other than the supply and installation of solar panels as specified in paragraph 14 of Schedule 2, where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+9. (1) Services consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, other than the supply and installation of solar panels as specified in paragraph 14 of Schedule 2, or the supply and installation of low emissions heat pump heating systems as specified in paragraph 12A,where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
 (2) Services consisting of the routine cleaning of private dwellings.
 
@@ -172,9 +170,7 @@ Agricultural goods and services.
 
 (2) Animal insemination services other than the services specified in subparagraphs (4) and (5) of paragraph 13B.
 
-(3) The supply of livestock semen.
-
-Hotel, holiday accommodation.
+(3) The supply of livestock semen. Hotel, holiday accommodation.
 
 11. Subject to regulations, if any—
 
@@ -202,6 +198,10 @@ Sporting facilities.
 
 (3) ...
 
+Low emissions heat pump heating systems
+
+12A. The supply and installation of low emissions heat pump heating systems.
+
 Other services.
 
 13. (1) Services consisting of the acceptance for disposal of waste material.
@@ -212,7 +212,7 @@ Other services.
 
 PART 2A
 
-CERTAIN SUPPLIES WITH REDUCED RATE: PARTICULAR PROVISIONS IN ACCORDANCE WITH ARTICLE 102 OF THE VAT DIRECTIVE
+CERTAIN SUPPLIES WITH REDUCED RATE: PARTICULAR PROVISIONS IN ACCORDANCE WITH ANNEX III OF THE VAT DIRECTIVE
 
 District heating.
 
@@ -220,7 +220,7 @@ District heating.
 
 PART 2B
 
-CERTAIN SUPPLIES WITH REDUCED RATE: SPECIAL PROVISIONS IN ACCORDANCE WITH ARTICLE 113 OF THE VAT DIRECTIVE
+CERTAIN SUPPLIES WITH REDUCED RATE: PARTICULAR PROVISIONS IN ACCORDANCE WITH ARTICLE 105A(3) AND ANNEX III OF THE VAT DIRECTIVE
 
 Horses and greyhounds
 
@@ -250,7 +250,7 @@ Horses and greyhounds
 
 PART 3
 
-CERTAIN SUPPLIES WITH REDUCED RATE AT 1 JANUARY 1991: SPECIAL PROVISIONS IN ACCORDANCE WITH ARTICLE 115 OF THE VAT DIRECTIVE
+CERTAIN SUPPLIES WITH REDUCED RATE: PARTICULAR PROVISIONS IN ACCORDANCE WITH ARTICLE 105A(3) OF THE VAT DIRECTIVE
 
 Housing.
 
@@ -258,13 +258,13 @@ Housing.
 
 PART 4
 
-CERTAIN SUPPLIES WITH REDUCED RATE AT 1 JANUARY 1991: SPECIAL PROVISIONS IN ACCORDANCE WITH ARTICLE 118 OF THE VAT DIRECTIVE
+CERTAIN SUPPLIES WITH REDUCED RATE: PARTICULAR PROVISIONS IN ACCORDANCE WITH ARTICLE 105A(3) AND ANNEX III OF THE VAT DIRECTIVE
 
 Non-residential immovable goods.
 
 15. (1) The supply of immovable goods, other than immovable goods used or to be used for residential purposes.
 
-(2) Services consisting of the development of immovable goods (not being goods referred to in paragraph 9(1)) and work on those goods (including the installation of fixtures), where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+(2) Services consisting of the development of immovable goods (not being goods referred to in paragraph 9(1)) and work on those goods (including the installation of fixtures), other than the supply and installation of low emissions heat pump heating systems as specified in paragraph 12A, where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
 (3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in paragraph 9(2)).
 
@@ -374,7 +374,7 @@ PART 5
 
 SUPPLIES OF CERTAIN LIVE PLANTS AND SIMILAR GOODS
 
-This Part sets out special provisions in accordance with Article 122 and Annex III (paragraph (11)) of the VAT Directive.
+This Part sets out special provisions in accordance with Annex III of the VAT Directive
 
 Plants and bulbs, etc.
 
