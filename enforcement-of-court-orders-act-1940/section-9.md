@@ -6,4 +6,4 @@ Release of persons imprisoned for non-payment of money.
 
 (3) Where the Minister directs that a person be released from prison, the person shall be released in accordance with the direction.
 
-(4) In this section ‘Minister’ means Minister for Justice, Equality and Law Reform.
+(4) In this section "Minister" means Minister for Justice, Equality and Law Reform.
