@@ -1,0 +1,11 @@
+Effective direction of business and place of head office (Class 1 firms).
+
+31F.—The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the applicant satisfies the Bank that—
+
+(a) it is a body corporate,
+
+(b) its registered office and its head office are both located in the State,
+
+(c) at least 2 persons effectively direct its business, and
+
+(d) the members of its management body meet the requirements of Regulation 79 of the European Union (Capital Requirements) Regulations 2014.

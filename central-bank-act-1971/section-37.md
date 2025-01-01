@@ -1,0 +1,3 @@
+Transfer in the case of property held on bailment.
+
+37.—The custody of any document, goods or other property held by the transferor in connection with the business agreed to be transferred as bailee for any other person at any office or branch of the transferor in the State (or, where the relevant transfer order under section 33(1) so provides, inside and outside the State) shall be transferred or deemed to be transferred to the transferee on the transfer date and the rights and obligations of the transferor under any contract of bailment relating to the document, goods or property shall be transferred or deemed to be transferred on that date to the transferee.

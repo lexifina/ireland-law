@@ -1,0 +1,3 @@
+Powers of authorised persons with respect to holders of licences. (Repealed)
+
+17A.— ...
