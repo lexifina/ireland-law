@@ -32,9 +32,17 @@ Functions of the Council and their delegation.
 
 (3) The Council shall make rules for the purposes of regulating or prescribing anything relating to education or training that, in accordance with this Act, is to be prescribed.
 
+(3A) The Council shall make rules specifying the education and training which a registered pharmacist must receive to enable him or her to prescribe medicinal products in accordance with regulations made under section 32 (2)(l)(iv) of the Irish Medicines Board Act 1995.
+
+(3B) Rules made under subsection (3A) shall include—
+
+(a) the standard of education and training required to be reached by a registered pharmacist in order to prescribe medicinal products in accordance with regulations made under section 32 (2)(l)(iv) of the Irish Medicines Board Act 1995, taking into account any practical professional experience of prescribing which the registered pharmacist may have, and
+
+(b) any other relevant continuing professional education.
+
 (4) The Council may not make rules under subsection (2), (2A), (2B) or (3) for any purpose for which the Minister may make regulations under section 18.
 
-(5) Rules made under subsection (2), (2A), (2B) or (3) shall be subject to the consent of the Minister and, when the Council has made them, it shall—
+(5) Rules made under subsection (2), (2A), (2B), (3) or (3A) shall be subject to the consent of the Minister and, when the Council has made them, it shall—
 
 (a) submit them to the Minister for laying before each House of the Oireachtas, and
 
