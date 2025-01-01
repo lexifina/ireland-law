@@ -1,6 +1,6 @@
 Reduced rate qualified adult increase — State pensions.
 
-10. Subject to articles 62, 62A, 62B, 65, 65A, 65B, 70A, 71 and 71A, where a claimant or beneficiary of State pension (contributory) or State pension (transition) under Part 2 of the Principal Act would be entitled to an increase in respect of—
+10. Subject to articles 62, 62A, 62B, 62C, 62E, 65A 65B, 70A, 71 and 71A, where a claimant or beneficiary of State pension (contributory) or State pension (transition) under Part 2 of the Principal Act would be entitled to an increase in respect of—
 
 (a) his or her spouse,
 

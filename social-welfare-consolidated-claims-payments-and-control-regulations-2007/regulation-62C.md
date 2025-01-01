@@ -1,6 +1,6 @@
 Aggregated contributions method – increase for qualified adult.
 
-62C. (1) In the case of a claimant who, in accordance with section 109(6B), has their pension calculated under the aggregated contributions method, any increase payable under section 297 shall be—
+62C. (1) Subject to sub-article (2), in the case of a claimant who, in accordance with section 109(6B), has their pension calculated under the aggregated contributions method, being a person who attained pensionable age or deferred pensionable age, as the case may be, prior to 1 January 2025, any increase payable under section 297 shall be—
 
 (a) where his or her spouse, civil partner or cohabitant has attained pensionable age and the weekly income of that spouse, civil partner or cohabitant, as the case may be, calculated in accordance with article 8, does not exceed the highest amount specified in column (1) of Schedule 2 to these Regulations— that percentage, which equates to the percentage rate obtained in respect of the claimant in accordance with section 109(6B), of the amount specified in column (2) of Schedule 2 to these Regulations opposite the relevant band of income in column (1) of that Schedule that corresponds to the weekly income of that spouse, civil partner or cohabitant, and
 

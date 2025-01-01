@@ -1,6 +1,6 @@
 Partial satisfaction of contribution conditions for State pension (contributory) where person attains pensionable age on or after 1 September 2012.
 
-62. (1) Subject to sub-article (2), where a person attains pensionable age on or after 1 September 2012 and would be entitled to State pension (contributory) but for the fact that the relevant yearly average contribution conditions are not satisfied, he or she shall, where that person’s yearly average is not less than 10, be entitled to State pension (contributory) at a rate determined in accordance with this article.
+62. (1) Subject to sub-article (2), where a person attains pensionable age on or after 1 September 2012, or deferred pensionable age, as the case may be, prior to 1 January 2025, and would be entitled to State pension (contributory) but for the fact that the relevant yearly average contribution conditions are not satisfied, he or she shall, where that person’s yearly average is not less than 10, be entitled to State pension (contributory) at a rate determined in accordance with this article.
 
 (2) For the purposes of this article, where a person has a yearly average of less than 20, but not less than 10 and that person has attained pensionable age—
 
