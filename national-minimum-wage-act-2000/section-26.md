@@ -1,4 +1,4 @@
-[Decision of adjudication officer under section 41 of Workplace Relations Act 2015]
+Decision of adjudication officer under section 41 of Workplace Relations Act 2015
 
 26.—(1) A decision of an adjudication officer in relation to a dispute in respect of the entitlements of an employee under this Act referred to the adjudication officer under section 41 of the Workplace Relations Act 2015 may contain—
 
