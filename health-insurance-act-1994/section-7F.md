@@ -36,6 +36,8 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 
 (i) the 3 year period from 1 January 2020 to the end of 2022, and
 
+OJC 8/04, 11.01.2012, p.15
+
 (ii) the 3 year period from 1 January 2021 to the end of 2023, the reference in paragraph (a) to 6 per cent per annum shall, as respects the applicable 3 year period referred to in subparagraph (i), be read as a reference to 4. 9 per cent per annum and, as respects the applicable 3 year period referred to in subparagraph (ii), be read as a reference to 5. 5 per cent per annum and paragraph (a) shall apply accordingly.
 
 (5) The Authority shall—
@@ -54,9 +56,7 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 
 (v) if paragraph (b) of subsection (4A) is applicable, the period from 1 January of the first year of the applicable 3 year period to the end of the last year of the applicable 3 year period,
 
-(6) (a) Where the Authority determines under subsection (5)(b) that there is a positive cumulative net financial impact on a registered undertaking or former registered undertaking in respect of a period, it shall make a determination
-
-OJC 8/04, 11.01.2012, p.15 as to whether the undertaking has or has not, in respect of that period, made a profit which is in excess of the reasonable profit ... in respect of that period.
+(6) (a) Where the Authority determines under subsection (5)(b) that there is a positive cumulative net financial impact on a registered undertaking or former registered undertaking in respect of a period, it shall make a determination as to whether the undertaking has or has not, in respect of that period, made a profit which is in excess of the reasonable profit ... in respect of that period.
 
 (b) Where the Authority determines under paragraph (a) that a registered undertaking or former registered undertaking has made a profit which is in excess of a reasonable profit in respect of a period, it shall make a further determination as to the monetary equivalent amount of the profit which is in excess of the corresponding monetary equivalent amount of such reasonable profit in respect of that period.
 
