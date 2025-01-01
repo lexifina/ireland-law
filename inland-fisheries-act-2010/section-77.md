@@ -36,13 +36,13 @@ Reference Number Section of Principal Act Penalty (1) (2) (3)
 
 4. 163. A fine not exceeding €2,000 or, in the case of
 
-5. 69, 123, 128, 129. A fine not exceeding €2,000 and, in the case
+5. 69, 123, 128, 129. A fine not exceeding €2,000 and, in the case Reference Number Section of Principal Act Penalty (1) (2) (3)
 
 6. 100(3). A fine not exceeding €2,000, and if after
 
 100(5)(e). A fine not exceeding €2,000.
 
-7. 111. A fine not exceeding €2,000 and a further fine Reference Number Section of Principal Act Penalty (1) (2) (3)
+7. 111. A fine not exceeding €2,000 and a further fine
 
 8. 124. A fine not exceeding €2,000 and a further fine
 
@@ -68,7 +68,7 @@ Reference Number Section of Act of 1962 Penalty (1) (2) (3)
 
 1. 27. A fine not exceeding €500.
 
-2. 28(1). A fine not exceeding €1,000 together with an amount not exceeding €250 for each salmon and €50 for each trout in respect of which the offence under that section is committed provided that the total amount of the fine shall not exceed €2,500. Reference Number Section of Act of 1962 Penalty (1) (2) (3)
+2. 28(1). A fine not exceeding €1,000 together with an amount not exceeding €250 for each salmon and €50 for each trout in respect of which the offence under that section is committed provided that the total amount of the fine shall not exceed €2,500.
 
 3. 28(3), 28(5). A fine not exceeding €1,000.
 
