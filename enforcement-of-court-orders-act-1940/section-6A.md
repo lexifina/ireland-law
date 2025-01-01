@@ -2,11 +2,11 @@ F14[Entitlement to legal aid.
 
 6A.— (1) If it appears to a judge of the District Court in proceedings on a summons under section 6 that the means of a debtor are insufficient to enable him or her to obtain legal aid, the judge shall, on application being made by the debtor in that behalf, grant to the debtor—
 
-(a) a certificate for free legal aid (in this section referred to as a ‘debtor’s legal aid certificate’),
+(a) a certificate for free legal aid (in this section referred to as a "debtor’s legal aid certificate"),
 
-(b) where the debtor appeals an order for his or her imprisonment made under section (7)(c) or (d) and applies to the judge for legal aid in connection with the appeal, a certificate for free legal aid in respect of the appeal (in this section referred to as a ‘debtor’s legal aid (appeal) certificate’), or
+(b) where the debtor appeals an order for his or her imprisonment made under section (7)(c) or (d) and applies to the judge for legal aid in connection with the appeal, a certificate for free legal aid in respect of the appeal (in this section referred to as a "debtor’s legal aid (appeal) certificate"), or
 
-(c) where the judge refers a question of law arising in the proceedings to the High Court by way of case stated or states a case in relation to the proceedings for the opinion of the High Court and the debtor applies to the judge for legal aid in connection with that reference or case stated, a certificate for free legal aid in respect of the reference or case stated (in this section referred to as a ‘debtor’s legal aid (case stated) certificate’).
+(c) where the judge refers a question of law arising in the proceedings to the High Court by way of case stated or states a case in relation to the proceedings for the opinion of the High Court and the debtor applies to the judge for legal aid in connection with that reference or case stated, a certificate for free legal aid in respect of the reference or case stated (in this section referred to as a "debtor’s legal aid (case stated) certificate").
 
 (2) (a) Where a certificate has been granted under subsection (1) the debtor concerned shall be entitled to legal aid and to have legal representation assigned to him or her for that purpose.
 
