@@ -64,15 +64,17 @@ Margin scheme — taxable dealers.
 
 (3) Where the margin scheme is applied to a supply of goods, the amount on which tax is chargeable on the supply in accordance with section 3(a) or (c) is, notwithstanding Chapter 1 of Part 5, the profit margin less the amount of tax included in the profit margin.
 
-(4)(a) Subject to paragraph (b) and to such conditions (if any) as may be specified in regulations, a taxable dealer may, notwithstanding subsection (2), opt to apply the margin scheme to all that dealer’s supplies of any of the following as if they were margin scheme goods:
+(4)(a) Subject to paragraphs (b) and (c) and to such conditions (if any) as may be specified in regulations, a taxable dealer may, notwithstanding subsection (2), opt to apply the margin scheme to all that dealer’s supplies of any of the following as if they were margin scheme goods:
 
 (i) a work of art, collector’s item or antique which the taxable dealer imported;
 
 (ii) a work of art which has been supplied to the taxable dealer by its creator or the creator’s successors in title; or
 
-(iii) a work of art which has been supplied to the taxable dealer by an accountable person other than a taxable dealer, where the supply to that dealer is of the kind referred to in section 48(1)(c).
+(iii) a work of art which has been supplied to the taxable dealer by an accountable person other than a taxable dealer ....
 
 (b) Where a taxable dealer opts to apply the margin scheme in accordance with paragraph (a), the option shall be for a period of not less than 2 years from the date when that option was exercised.
+
+(c) The option provided for in paragraph (a) shall not apply where the works of art, collectors' items or antiques supplied to or imported by the taxable dealer were chargeable at the rate of tax specified in section 46(1)(c).
 
 (5) Where a taxable dealer exercises the option in accordance with subsection (4), in respect of the goods specified in subsection (4)(a)(i), then, notwithstanding the definition of “purchase price” in subsection (1), the purchase price for the purposes of determining the profit margin in relation to a supply of those goods shall be an amount equal to the value of those goods for the purposes of importation determined in accordance with section 53 increased by the amount of any tax payable in respect of the importation of those goods.
 
