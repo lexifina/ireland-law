@@ -32,7 +32,7 @@ Section Extent of Amendment (1) (2)
 
 (iii) section 6(4) shall apply to a statement under this subsection as it applies to a statement furnished to the Clerk under paragraph (a), (b) or (c) of section 29(1).”.
 
-6 In subsection (4)— Section Extent of Amendment (1) (2)
+6 In subsection (4)—
 
 (a) in paragraph (a), “paragraphs (a), (b) and (c) of” shall be inserted before “section 29(1)”, and
 
@@ -66,7 +66,7 @@ Section Extent of Amendment (1) (2)
 
 (2) The following subsection shall be substituted for subsection (2):
 
-“(2) Where a Committee, either during or at the conclusion of an investigation under this section in relation to section 5 or 7, becomes of opinion that the Section Extent of Amendment (1) (2) member the subject of the investigation has not contravened that section but may have contravened the other section or done a specified act, it may carry out an investigation under this section to determine whether the person has contravened that other section or done the specified act.”.
+“(2) Where a Committee, either during or at the conclusion of an investigation under this section in relation to section 5 or 7, becomes of opinion that the member the subject of the investigation has not contravened that section but may have contravened the other section or done a specified act, it may carry out an investigation under this section to determine whether the person has contravened that other section or done the specified act.”.
 
 (3) The following subsections shall be inserted after subsection (2):
 
@@ -96,7 +96,7 @@ Section Extent of Amendment (1) (2)
 
 “(c) in case the determination is that there has been a contravention of section 5 or 7, or that a specified act has been done, by the member—
 
-(i) if the determination is that the contravention or act is continuing, the steps required to be taken by him or her to secure compliance by him or her with section 5 or 7 or the cesser of the act, Section Extent of Amendment (1) (2)
+(i) if the determination is that the contravention or act is continuing, the steps required to be taken by him or her to secure compliance by him or her with section 5 or 7 or the cesser of the act,
 
 (ii) whether the contravention or act was committed or done inadvertently, negligently, recklessly or intentionally,
 
@@ -132,7 +132,7 @@ Section Extent of Amendment (1) (2)
 
 (2) In subsection (4), “not later than the following 31 January” shall be substituted for “not later than 30 days after that date”.
 
-14 In subsection (3)(b), “office holder” shall be substituted for “officer”. Section Extent of Amendment (1) (2)
+14 In subsection (3)(b), “office holder” shall be substituted for “officer”.
 
 16 The following paragraph shall be substituted for paragraph (a) of subsection (2):
 
@@ -158,13 +158,15 @@ Section Extent of Amendment (1) (2)
 
 (b) in case the person was so appointed on or after the date of such commencement and the statement is the first such statement so furnished by the person since such appointment, be in respect of the period from the date of such appointment to the following 31 December, and
 
-(c) in any other case, be in respect of the period beginning on the day immediately following the date of the expiration of the period to which the last previous such statement so furnished by the person related to Section Extent of Amendment (1) (2) the following 31 December or, if it is earlier, the date on which, in relation to the person, the period referred to in section 19(2) ends.”.
+(c) in any other case, be in respect of the period beginning on the day immediately following the date of the expiration of the period to which the last previous such statement so furnished by the person related to the following 31 December or, if it is earlier, the date on which, in relation to the person, the period referred to in section 19(2) ends.”.
 
 (2) The following subsections shall be substituted for subsection (3):
 
 “(3) A statement by a person under section 17(1)(a), 18(2)(a) or 19(3)(a)(i) in respect of a period specified in paragraph (a) of subsection (1) or paragraph (a) of subsection (1A) shall be furnished by the person to the person or persons concerned not later than such time in the year concerned as the Minister may determine.
 
-(3A) A statement by a person under section 17(1)(a), 18(2)(a) or 19(3)(a)(i) in respect of a period specified in paragraph (b) or (c) of subsection (1) or paragraph (b) or (c) of subsection (1A) shall be furnished by the person to the person or persons concerned not later than 31 January in the year following the year in which the period fell.
+(3A) A statement by a person under section 17(1)(a), 18(2)(a) or 19(3)(a)(i) in respect of a period specified in paragraph (b) or (c) of subsection (1) or paragraph
+
+(b) or (c) of subsection (1A) shall be furnished by the person to the person or persons concerned not later than 31 January in the year following the year in which the period fell.
 
 (3B) Notwithstanding subsection (3A), where, in relation to a person who is a special adviser, within the meaning of section 19, the period referred to in subsection (2) of that section ends, a statement under subsection (3)(a)(i) of that section in relation to that period shall be furnished by the person to the persons concerned not later than 28 days from such ending.”.
 
@@ -190,7 +192,7 @@ Section Extent of Amendment (1) (2)
 
 23 In subsection (3), “the provision of this Act or the Act of 1997 to which the investigation relates or has not done a specified act, but, as may be appropriate, may have contravened another provision of Part II, III or IV or the Act of 1997 or may have done a specified act, it may carry out an investigation under this section to determine, as appropriate, whether the person has contravened that other provision or that Act or has done a specified act” shall be substituted for the words from and including “the provision of this Act” to the end of the subsection.
 
-24 (1) In subsection (1)— Section Extent of Amendment (1) (2)
+24 (1) In subsection (1)—
 
 (a) the following paragraph shall be substituted for paragraph (b):
 
@@ -228,7 +230,7 @@ Section Extent of Amendment (1) (2)
 
 (4) The following subsection shall be inserted after subsection (5):
 
-“(5A) A public body to which a report under subsection (1) or subsection (2) of section 23 of the Act of 2001 is furnished may, having considered the report and invited submissions from the person concerned in relation to the matter and considered any such submissions, take such action in relation to the person to whom the report relates as it considers appropriate including suspension without payment of remuneration from the office or position held or occupied by the person for such person for such period as it may determine, being, in the case of a person to whom a report under the said subsection (2) relates, a period Section Extent of Amendment (1) (2) ending not later than the date on which the documents concerned specified in subsection (1)(a) of the said section 23 are furnished to the Commission.”.
+“(5A) A public body to which a report under subsection (1) or subsection (2) of section 23 of the Act of 2001 is furnished may, having considered the report and invited submissions from the person concerned in relation to the matter and considered any such submissions, take such action in relation to the person to whom the report relates as it considers appropriate including suspension without payment of remuneration from the office or position held or occupied by the person for such person for such period as it may determine, being, in the case of a person to whom a report under the said subsection (2) relates, a period ending not later than the date on which the documents concerned specified in subsection (1)(a) of the said section 23 are furnished to the Commission.”.
 
 25 (1) In subsection (1)—
 
@@ -262,7 +264,7 @@ Section Extent of Amendment (1) (2)
 
 (I) if the report aforesaid includes a determination that the office holder or other member is continuing to contravene this Act or that the specified act concerned is continuing and the Committee is satisfied that the contravention or act has continued up to the date of the motion for the resolution concerned under subsection (1), or
 
-(II) if the Committee is satisfied, in a case to which section 25 of the Act of 2001 applies, that the office holder or other member concerned has not, up to the date aforesaid, complied with section 21 or 23, as may be appropriate, until such time (if any) after the expiration of the period specified pursuant to subparagraph (i) in the resolution as he or she takes the steps specified Section Extent of Amendment (1) (2) in the resolution (being the steps specified in the report) to secure compliance by him or her with this Act or the cesser of the act or, as the case may be, the office holder or other member furnishes to the Commission the document specified in section 21 or 23, as may be appropriate.”.
+(II) if the Committee is satisfied, in a case to which section 25 of the Act of 2001 applies, that the office holder or other member concerned has not, up to the date aforesaid, complied with section 21 or 23, as may be appropriate, until such time (if any) after the expiration of the period specified pursuant to subparagraph (i) in the resolution as he or she takes the steps specified in the resolution (being the steps specified in the report) to secure compliance by him or her with this Act or the cesser of the act or, as the case may be, the office holder or other member furnishes to the Commission the document specified in section 21 or 23, as may be appropriate.”.
 
 (3) The following subsection shall be inserted after subsection (2):
 
@@ -292,7 +294,7 @@ Section Extent of Amendment (1) (2)
 
 “(4A) A Committee or the Commission may, for sufficient reason if it considers it appropriate to do so, arrange for the examination of a person at any place in or outside the State by, in the case of a Committee, a member of the Committee, a member of the staff of the Committee or any other person and, in the case of the Commission, by a member of the Commission, a member of the staff of the Commission or any other person and may receive, in such form as it may determine, the evidence of the person taken at the examination, and the relevant rules of court relating to evidence in proceedings in the High Court shall apply in relation to the matters aforesaid with any necessary modifications.
 
-(4B) In relation to the matters specified in subsection (1) and (2) and, in so far as they relate to a Committee or the Commission, subsection (4A), a Committee or the Commission shall have all such powers, rights and privileges as are vested Section Extent of Amendment (1) (2) in the High Court on the occasion of an action and, in relation to the matters specified in subsection (4A), in so far as they relate to a person conducting an examination pursuant to that subsection, that person shall have all the powers, rights and privileges aforesaid.”.
+(4B) In relation to the matters specified in subsection (1) and (2) and, in so far as they relate to a Committee or the Commission, subsection (4A), a Committee or the Commission shall have all such powers, rights and privileges as are vested in the High Court on the occasion of an action and, in relation to the matters specified in subsection (4A), in so far as they relate to a person conducting an examination pursuant to that subsection, that person shall have all the powers, rights and privileges aforesaid.”.
 
 (2) In subsection (6)(b), “or the Act of 1997 or the specified act” shall be inserted after “this Act”.
 
