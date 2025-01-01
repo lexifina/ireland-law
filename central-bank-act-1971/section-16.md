@@ -1,0 +1,5 @@
+Provisions in relation to registration or change of business name.
+
+16.—(1)The registrar for the purposes of the Registration of Business Names Act, 1963, shall notify the Bank of any proposal to register a name or a change in a name under that Act if, in the opinion of the registrar, there would, by virtue of the proposal, be in relation to the business to which the proposal relates, a holding out as a banker or as carrying on banking business and the said registrar shall not register the name or change of name unless and until the Bank indicates to him its willingness to grant a licence in respect of the business concerned or to exempt it under section 8 of this Act or the Bank indicates to the registrar that the company is one to which the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014), relate.
+
+(2) The Minister for Industry and Commerce shall consult the Bank in relation to any proposal to change the name of a company (within the meaning of the Companies Act, 1963) if, in the opinion of that Minister, the company would, by virtue of the change, be holding itself out as a banker or appear to be carrying on banking business.

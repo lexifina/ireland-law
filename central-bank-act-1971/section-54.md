@@ -1,0 +1,7 @@
+Superannuation.
+
+54.—(1) Notwithstanding anything in section 3 of the Central Bank Act, 1961, an amendment under that Act of the scheme made pursuant to section 33 (1) (c) of the Act of 1942 may provide that an award may be made under that scheme to or in relation to a person who is less than sixty years of age when he ceases to hold office as Governor for reasons other than death, infirmity of mind or body or abolition of office, if he has completed one term of office as Governor.
+
+(2) The Bank may from time to time, with the approval of the Minister, make a scheme amending a scheme under section 31(4) of the Act of 1927 (as continued in force by virtue of section 15(6) of the Central Bank Act, 1989) or section 33(1)(c) of the Act of 1942 or a scheme under this subsection and a scheme under this subsection may, without prejudice to the generality of the foregoing, provide for the granting of superannuation benefits (including pensions, allowances and gratuities) to widows and children of persons to whom those schemes apply and for the payment of contributions in respect of such benefits by the persons to whom those schemes apply.
+
+(3) Every scheme under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and if either House, within the next twenty-one days on which that House has sat after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
