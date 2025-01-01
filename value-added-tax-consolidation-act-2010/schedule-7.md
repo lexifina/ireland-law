@@ -10,7 +10,9 @@ In the Act specified in column (1) of the following table for the words set out 
 
 Act amended Words to be replaced Words to be substituted
 
-(1) (2) (3) Criminal Justice (Legal Aid) Act 1962: section 10(1)(d)(i) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act section 10(1)(d)(ii) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act
+(1) (2) (3)
+
+Criminal Justice (Legal Aid) Act 1962: section 10(1)(d)(i) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act section 10(1)(d)(ii) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act
 
 Companies Act 1990: section 205E(1), in the the Value-Added Tax Act the Value-Added Tax Consolidation Act definition of “tax law”, in 1972 and the enactments 2010, and the enactments amending or paragraph (e) amending or extending that extending that Act Act
 
