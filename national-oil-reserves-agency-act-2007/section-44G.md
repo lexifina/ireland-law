@@ -66,7 +66,11 @@ Renewable transport fuel obligation certificates.
 
 (3) An application for a renewable transport fuel obligation certificate may be made at any time during the reporting period in which the renewable transport fuel was disposed of as referred to in subsection (1) but in any case not later than the closing date specified in respect of the reporting period concerned in a determination made under subsection (2A).
 
-(4) …
+(4) An application for a renewable transport fuel obligation certificate shall include a statement by the renewable transport fuel obligation account holder concerned, in the prescribed form and including the prescribed information, particulars and documentation, that he or she has complied with—
+
+(a) the sustainability and greenhouse gas emission savings criteria for renewable transport fuels set out in Schedule 3 to the Renewable Energy Regulations, and as provided for under Article 28(5) of the Directive, and
+
+(b) any requirements for verification of compliance with those sustainability and greenhouse gas emissions savings criteria in accordance with the Renewable Energy Regulations and the European Union (Biofuel Sustainability Criteria) Regulations 2012 (S.I. No. 33 of 2012).
 
 (5) An application for a renewable transport fuel obligation certificate shall include a declaration in the prescribed form by the renewable transport fuel obligation account holder—
 
