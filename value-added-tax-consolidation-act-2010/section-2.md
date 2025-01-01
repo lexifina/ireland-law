@@ -124,7 +124,7 @@ Interpretation — general.
 
 “goods” means all movable and immovable objects (other than things in action or money), and references to goods include references to both new and used goods;
 
-“goods threshold” means €80,000;
+“goods threshold” means €85,000;
 
 “hire”, in relation to movable goods, includes a letting on any terms including a leasing;
 
@@ -204,7 +204,7 @@ Interpretation — general.
 
 “secretary” includes such persons as are referred to in section 1044(2) of the Taxes Consolidation Act 1997 and section 55(1) of the Finance Act 1920;
 
-“services threshold” means €40,000;
+“services threshold” means €42,500;
 
 “stock-in-trade”, in relation to a person, means goods that are—
 
