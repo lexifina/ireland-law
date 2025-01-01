@@ -44,11 +44,7 @@ Exports.
 
 Services relating to vessels and aircraft.
 
-4. (1) The provision of docking, landing, loading or unloading facilities (including customs clearance), directly in connection with—
-
-(a) the disembarkation or embarkation of passengers, or
-
-(b) the importation or exportation of goods.
+4. (1) ...
 
 (2) The supply, modification, repair, maintenance, chartering and hiring of—
 
@@ -76,7 +72,7 @@ Services relating to vessels and aircraft.
 
 (5) The supply of goods for the fuelling and provisioning of sea-going vessels and aircraft of the kind specified in subparagraph (2), but excluding goods for supply on board the vessels or aircraft to passengers with a view to those goods being taken off the vessels or aircraft by those passengers.
 
-(6) The supply of navigation services by the Irish Aviation Authority to meet the needs of aircraft to which subparagraph (2)(b) relates.
+(6) ...
 
 Certain transactions treated as exports.
 
@@ -116,7 +112,7 @@ Services by intermediaries.
 
 (b) services of the kind referred to in paragraph 3(2) (Carriage of goods in transit to a place outside the Community);
 
-(c) services of the kind referred to in paragraph 4(1) (Provision of docking, landing, loading or unloading facilities);
+(c) ...
 
 (d) services of the kind referred to in—
 
@@ -158,9 +154,7 @@ PART 2
 
 SUPPLIES WITHIN THE STATE
 
-This Part sets out special provisions as provided by Article 109 of the VAT Directive.
-
-Food and drink.
+This Part sets out special provisions in accordance with Article 105a(1) and Annex III of the VAT Directive. Food and drink.
 
 8. (1) A supply of food and drink of a kind used for human consumption, other than—
 
@@ -206,13 +200,13 @@ Part E
 
 (1) (2)
 
-Any of the following items not being items (a)Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from, (b) Cocoa, coffee and chicory and other roasted fruit or vegetables, and syrups, coffee substitutes, and preparations and concentrates, essences, powders, extracts derived from any of them, when crystals or other products for the supplied in non-drinkable form. preparation of beverages; (c) Milk ... (b) beverages other than those specified in (d) Preparations and extracts derived from Part A or B. meat, yeast or eggs.
+Any of the following items not being items (a) Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from (b) Cocoa, coffee and chicory and other roasted fruit, vegetables, plants, grains, coffee substitutes, and preparations and seeds, or pulses, and syrups, extracts derived from any of them, when concentrates, essences, powders, supplied in non-drinkable form. crystals or other products for the (c) Milk ... preparation of beverages; (d) Preparations and extracts derived from meat, (b) beverages other than those specified in yeast or eggs. Part A or B. (e) Oat milk, almond milk, rice milk, coconut milk, hemp milk, cashew milk, soy milk, pea milk, hazelnut milk, flax milk, potato milk or other similar milk substitute drinks.
 
 Part F
 
 (1) (2)
 
-All kinds of chocolates, sweets and similar For the purposes of this Part “bread” means food confectionery (including glacé or crystallised for human consumption manufactured by baking fruits), biscuits, crackers and wafers, and all other dough composed exclusively of a mixture of cereal kinds of confectionery and bakery products or other flour and any one or more of the (whether cooked or uncooked), excluding bread ingredients included in column (1) of Table 2 to this within the meaning assigned to it in column (2) paragraph that do not exceed the quantities (if any) of this Part. set out for each ingredient in column (2) of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.
+All kinds of chocolates, sweets and similar For the purposes of this Part “bread” means food for confectionery (including glacé or crystallised human consumption manufactured by baking dough fruits), biscuits, crackers and wafers, and all composed exclusively of a mixture of cereal or other kinds of confectionery and bakery products other flour and any one or more of the ingredients (whether cooked or uncooked), excluding bread included in column (1) of Table 2 to this paragraph within the meaning assigned to it in column (2) that do not exceed the quantities (if any) set out for of this Part. each ingredient in column (2) of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.
 
 Table 2
 
@@ -326,9 +320,7 @@ Other zero-rated goods and services.
 
 (2) Life saving services provided by the Royal National Lifeboat Institution including the organisation and maintenance of the lifeboat service.
 
-(3) The supply of sanitary towels, sanitary tampons, menstrual cups, menstrual pants and menstrual sponges.
-
-The supply of sanitary towels and sanitary tampons.
+(3) The supply of sanitary towels, sanitary tampons, menstrual cups, menstrual pants and menstrual sponges. The supply of sanitary towels and sanitary tampons.
 
 (4) ...
 
