@@ -1,4 +1,4 @@
-F193[Exempted person.
+F195[Exempted person.
 
 60.—(1) In this Part of this Act “exempted person” means, subject to subsection (3) of section 78 of this Act—
 
