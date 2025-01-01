@@ -180,7 +180,7 @@ Firearms
 
 (g) section 12A (shortening barrel of shotgun or rifle).
 
-16A. Any offence under section 3 of the Firearms (Firearm Certificates for Non- Residents) Act 2000 (prohibition of false information and alteration of firearm certificates).
+16A. Any offence under section 3 of the Firearms (Firearm Certificates for Non-Residents) Act 2000 (prohibition of false information and alteration of firearm certificates).
 
 Robbery and burglary
 
@@ -199,6 +199,10 @@ Robbery and burglary
 Offences relating to passports.
 
 18A. An offence under any paragraph of section 20(1) of the Passports Act 2008.
+
+Offences relating to travel documents
+
+18B. Any offence under any paragraph of section 209(1) of the International Protection Act 2026.
 
 Road Traffic Act offences
 
@@ -336,8 +340,8 @@ Offences relating to smuggling of persons
 
 44. Any offence under section 6, 7, 8 or 14 of the Criminal Justice (Smuggling of Persons) Act 2021.
 
-Offences under the Criminal Justice (Engagement of Children in Criminal
+Offences under the Criminal Justice (Engagement of Children in Criminal Activity)
 
-Activity) Act 2024
+Act 2024
 
 45. An offence under the Criminal Justice (Engagement of Children in Criminal Activity) Act 2024.
