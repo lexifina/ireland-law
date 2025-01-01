@@ -152,7 +152,7 @@ Interpretation.
 
 “pharmacy owner” has the meaning assigned to it by section 2 of the Act of 2007;
 
-“prescriber”, in relation to a prescription, means the person referred to in paragraph (a), (b) or (c) of the definition of “prescription” who issued the prescription;
+“prescriber”, in relation to a prescription, means the person referred to in paragraph (a), (b), (c) or (d) of the definition of “prescription” who issued the prescription;
 
 “prescription” means a prescription issued by—
 
@@ -164,9 +164,11 @@ Interpretation.
 
 (ii) the person is not connected with any practice of dentistry or medicine in the State, and
 
-(iii) the prescription has not been issued with a view to enabling the supply of a medicinal product by mail order, or
+(iii) the prescription has not been issued with a view to enabling the supply of a medicinal product by mail order,
 
-(c) a registered nurse within the meaning of section 2(1) of the Nurses and Midwives Act 2011;
+(c) a registered nurse within the meaning of section 2(1) of the Nurses and Midwives Act 2011, or;
+
+(d) a registered pharmacist who is for the time being registered in the register of pharmacists established under section 13 (1)(a)(i) of the Pharmacy Act 2007;
 
 “reference price” shall be construed in accordance with section 24;
 

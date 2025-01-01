@@ -10,6 +10,8 @@ Interpretation.
 
 (c) by external application, and whether or not by direct contact with the body of the person;
 
+"authorised medicinal product" means a medicinal product that is authorised under the Medicinal Products (Control of Placing on the Market) Regulations 2007 (S.I. No. 540 of 2007) or Regulation (EC) No. 726/2004 of the European Parliament and of the Council of 31 March 2004, as amended;
+
 “the Board” means the Irish Medicines Board;
 
 “the Chief Executive” means the chief executive officer of the Board;
@@ -36,9 +38,15 @@ Interpretation.
 
 "medicinal product" has the meaning assigned to it by Directive 2001/83/EC of 6 November 2001, as amended from time to time;
 
+"medicinal product shortage" means where the current or anticipated supply of an authorised medicinal product or products that is placed on the market does not meet the current or, as the case may be, anticipated demand for that medicinal product or products;
+
+"medicinal product that is in short supply" means, in relation to a medicinal product shortage, the authorised medicinal product or products that is the subject of the medicinal product shortage;
+
 “the Minister” means the Minister for Health;
 
 "premises" includes any aircraft, hovercraft, ship, stall or vehicle;
+
+"protocol" means a protocol issued by the Minister under section 32G;
 
 “recognised trade unions and staff associations” means the trade unions and staff associations recognised by the Board for the purpose of negotiations which are concerned with the remuneration, conditions of employment or working conditions of officers of the Board and employees of the Board;
 
@@ -47,6 +55,10 @@ Interpretation.
 "registered medical practitioner" means a person registered in the General Register of Medical Practitioners established under the Medical Practitioners Act 1978;
 
 "registered nurse" means a person whose name is entered in the register of nurses maintained under section 27 of the Nurses Act 1985;
+
+"registered pharmacist" means a person registered in the register of pharmacists established under section 13 of the Pharmacy Act 2007;
+
+"substitutable medicinal product" means the medicinal product or products that registered pharmacists are authorised under a protocol to supply in substitution for the medicinal product that is in short supply;
 
 "veterinary medicinal product" has the meaning assigned to it by Directive 2001/82/EC of 6 November 2001, as amended from time to time.
 

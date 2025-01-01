@@ -2,13 +2,13 @@ Functions of the Society.
 
 7.— (1) The principal functions of the Society shall be—
 
-(a) to regulate the profession of pharmacy in the State having regard to the need to protect, maintain and promote the health and safety of the public,
+(a) to regulate the profession of pharmacy in the State, including prescribing by pharmacists, having regard to the need to protect, maintain and promote the health and safety of the public,
 
 (b) to promote and ensure a high standard of education and training for persons seeking to become pharmacists,
 
 (c) to ensure that those persons and pharmacists obtain appropriate experience,
 
-(d) to ensure that pharmacists undertake appropriate continuing professional development, including the acquisition of specialisation, and
+(d) to ensure that pharmacists undertake appropriate continuing professional development, including in relation to prescribing and the acquisition of specialisation, and
 
 (e) to—
 

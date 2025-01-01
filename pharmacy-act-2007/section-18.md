@@ -14,17 +14,17 @@ Regulation of retail pharmacy businesses.
 
 (f) the conditions, (including those relating to temperature, humidity, cleanliness and sanitation) in which medicinal products are prepared, stored, sold, supplied and dispensed there;
 
-(g) the precautions to be taken before medicinal products are sold or supplied there;
+(g) the precautions to be taken before medicinal products are prepared, supplied, sold or prescribed there;
 
 (h) the disposal of medicinal products;
 
-(i) the manner in which medicinal products are to be sold or supplied there;
+(i) the manner in which medicinal products are to be supplied, sold or prescribed there;
 
-(j) the physical characteristics of that part of the premises which is to be provided for members of the public being sold or supplied with medicinal products or to whom medical prescriptions are being dispensed, and the facilities within that part;
+(j) the physical characteristics of that part of the premises which is to be provided for members of the public to whom medicinal products are being sold, supplied or prescribed or to whom medical prescriptions are being dispensed, and the facilities within that part;
 
-(k) the facilities to be provided and arrangements made there to enable the review, if necessary in private, of the medicinal treatment of a person to whom medicinal products are being or might be sold or supplied and the counselling, if necessary in private, of that person in connection with that treatment;
+(k) the facilities to be provided and arrangements made there to enable the review, if necessary in private, of the medicinal treatment of a person to whom medicinal products are being or might be sold, supplied or prescribed and the counselling, if necessary in private, of that person in connection with that treatment;
 
-(l) the keeping of records of and in connection with the sale and supply of medicinal products and the dispensing of medical prescriptions;
+(l) the keeping of records of and in connection with the preparation, prescribing, sale and supply of medicinal products and the preparation and dispensing of medicinal prescriptions;
 
 (m) the retention, custody, transfer and disposal of those records following the cessation or transfer of the retail pharmacy business;
 
