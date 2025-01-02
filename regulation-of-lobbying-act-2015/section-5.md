@@ -6,7 +6,7 @@ Meaning of carrying on lobbying activities
 
 (b) makes, or manages or directs the making of, any relevant communications in any of the circumstances in which subsection (2) applies to the person, or
 
-(c) makes, or manages or directs the making of, any relevant communications about the development or zoning of land under the Planning and Development Acts 2000 to 2021.
+(c) makes, or manages or directs the making of, any relevant communications about the development or zoning of land under the Planning and Development Acts 2000 to 2023 or the Planning and Development Act 2024.
 
 (2) The circumstances in which this subsection applies to a person are that—
 
@@ -30,7 +30,7 @@ Meaning of carrying on lobbying activities
 
 (5) The following are excepted communications:
 
-(a) communications by or on behalf of an individual relating to his or her private affairs about any matter other than the development or zoning under the Planning and Development Acts 2000 to 2021 of any land apart from the individual’s principal private residence;
+(a) communications by or on behalf of an individual relating to his or her private affairs about any matter other than the development or zoning under the Planning and Development Acts 2000 to 2023 or the Planning and Development Act 2024 of any land apart from the individual’s principal private residence;
 
 (b) communications by or on behalf of a country or territory other than the State;
 
