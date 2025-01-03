@@ -4,6 +4,14 @@ REDUCED RATES OF STATE PENSION (CONTRIBUTORY) AND INCREASES FOR QUALIFIED ADULT 
 
 Article 62
 
-Yearly Average Weekly Rate Increase for Increase for Qualified Adult Qualified Adult who has not who has attained attained pensionable age pensionable age (1) (2) (3) (4)
+Yearly Average Weekly Rate Increase for Increase for Qualified Adult Qualified Adult who has not who has attained attained pensionable age pensionable age (1) (2) (3) (4) € € €
 
-€ € € Less than 48, but not less than 40 260.10 168.20 225.90 Less than 40, but not less than 30 238.50 160.00 214.20 Less than 30, but not less than 20 225.90 149.70 201.60 Less than 20, but not less than 15 172.90 115.20 154.40 Less than 15, but not less than 10 106.00 70.20 95.60
+Less than 48, but not less than 40 283.70 183.40 246.30
+
+Less than 40, but not less than 30 260.10 174.40 233.60
+
+Less than 30, but not less than 20 246.30 163.30 219.80
+
+Less than 20, but not less than 15 188.50 125.60 168.40
+
+Less than 15, but not less than 10 115.60 76.60 104.20
