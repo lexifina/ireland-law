@@ -1,8 +1,8 @@
 Provision of information in relation to working time.
 
-17.—(1) If neither the contract of employment of the employee concerned nor any employment regulation order, registered employment agreement or collective agreement that has effect in relation to the employee specifies the normal or regular starting and finishing times of work of an employee, the employee’s employer shall notify the employee, subject to subsection (3), at least 24 hours before the first day or, as the case may be, the day, in each week that he or she proposes to require the employee to work, of the times at which the employee will normally be required to start and finish work on each day, or, as the case may be, the day or days concerned, that week, and the employee’s employer shall ensure the work takes place within predetermined reference hours and days.
+17.—(1) If neither the contract of employment of the employee concerned nor any employment regulation order, registered employment agreement or collective agreement that has effect in relation to the employee specifies the normal or regular starting and finishing times of work of an employee, the employee’s employer shall notify the employee, subject to subsection (3), at least 24 hours before the first day or, as the case may be, the day, in each week that he or she proposes to require the employee to work, of the times at which the employee will normally be required to start and finish work on each day, or, as the case may be, the day or days concerned, that week, and the employee’s employer shall, other than where the employee is a person holding office under, or in the service of, the State as a member of the Defence Forces, ensure the work takes place within predetermined reference hours and days.
 
-(1A) When the requirements of subsection (1) are not met by the employee’s employer, an employee shall have the right to refuse to work during the reference hours and days predetermined by the employer in accordance with that subsection without adverse consequences.
+(1A) When the requirements of subsection (1) are not met by the employee’s employer, an employee, other than a person holding office under, or in the service of, the State as a member of the Defence Forces, shall have the right to refuse to work during the reference hours and days predetermined by the employer in accordance with that subsection without adverse consequences.
 
 (2) If the hours for which an employee is required to work for his or her employer in a week include such hours as the employer may from time to time decide (in this subsection referred to as “additional hours”), the employer shall notify the employee, subject to subsection (3), at least 24 hours before the first day or, as the case may be, the day, in that week on which he or she proposes to require the employee to work all or, as the case may be, any of the additional hours, of the times at which the employee will be required to start and finish working the additional hours on each day, or, as the case may be, the day or days concerned, of that week.
 
@@ -12,7 +12,7 @@ Provision of information in relation to working time.
 
 (5) It shall be a sufficient notification to an employee of the matters referred to in subsection (1) or (2) for the employer concerned to post a notice of the matters in a conspicuous position in the place of the employee’s employment.
 
-(6) In this section—
+(6) In this section -
 
 "reference hours and days" has the same meaning as it has in Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 20197 on transparent and predictable working conditions in the European Union;
 
