@@ -1,6 +1,6 @@
 Prohibition of zero hours working practices in certain circumstances and minimum payment in certain circumstances.
 
-18. (1) This section applies to an employee whose contract of employment operates to require the employee to make himself or herself available to work for the employer in a week—
+18.—(1) This section applies to an employee whose contract of employment operates to require the employee to make himself or herself available to work for the employer in a week—
 
 (a) a certain number of hours ("the contract hours"),
 

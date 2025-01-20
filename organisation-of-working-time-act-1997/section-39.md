@@ -30,13 +30,13 @@ Unfair Dismissals Acts, 1977 to 1993
 
 Parental Leave Act 1998
 
-Protection of Persons Reporting Child Abuse Act 1998
-
-European Communities (Protection of Employment) Regulations 2000 (S.I. No. 488 of 2000)
+Protection of Persons Reporting Child Abuse Act 1998 European Communities (Protection of Employment) Regulations 2000 (S.I. No. 488 of 2000)
 
 Carer’s Leave Act 2001
 
-Protection of Employees (Part-Time Work) Act 2001 European Communities (Protection of Employees on the Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
+Protection of Employees (Part-Time Work) Act 2001
+
+European Communities (Protection of Employees on the Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
 
 Protection of Employees (Fixed-Term Work) Act 2003
 

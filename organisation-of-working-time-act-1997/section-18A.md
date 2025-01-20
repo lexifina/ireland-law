@@ -1,6 +1,6 @@
 Banded Hours.
 
-18A. (1) Where an employee’s contract of employment or statement of terms of employment does not reflect the number of hours worked per week by an employee over a reference period, the employee shall be entitled to be placed in a band of weekly working hours specified in the Table to this section.
+18A.—(1) Where an employee’s contract of employment or statement of terms of employment does not reflect the number of hours worked per week by an employee over a reference period, the employee shall be entitled to be placed in a band of weekly working hours specified in the Table to this section.
 
 (2) In accordance with subsection (1), where an employee believes that he or she is entitled to be placed in a band of weekly working hours, he or she shall inform the employer and request, in writing, to be so placed.
 

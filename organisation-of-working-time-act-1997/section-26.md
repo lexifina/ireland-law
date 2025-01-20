@@ -1,6 +1,6 @@
 Refusal by an employee to co-operate with employer in breaching Act.
 
-26. (1) An employer shall not penalise or threaten penalisation of an employee for—
+26. —(1) An employer shall not penalise or threaten penalisation of an employee for—
 
 (a) invoking any right conferred on him or her by this Act,
 
