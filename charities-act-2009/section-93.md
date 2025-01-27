@@ -52,7 +52,9 @@ Provision for non-cash collections and related matters under Act of 1962.
 
 (c) the insertion of the following section after section 5:
 
-“Application for non-cash collection permits. 5A.— (1) Upon the application of a person who proposes to carry on the activity of holding non-cash collections in a particular locality during any period of 12 months, the Chief Superintendent for that locality may grant a non-cash collection permit to that person authorising him to hold non-cash collections in that locality during the period of 12 months specified in the permit by that Chief Superintendent.
+“Application for non-cash collection permits.
+
+5A.— (1) Upon the application of a person who proposes to carry on the activity of holding non-cash collections in a particular locality during any period of 12 months, the Chief Superintendent for that locality may grant a non-cash collection permit to that person authorising him to hold non-cash collections in that locality during the period of 12 months specified in the permit by that Chief Superintendent.
 
 (2) An application under this section shall be in writing and in the prescribed form, and shall contain such particulars as may be required under the prescribed form.
 
