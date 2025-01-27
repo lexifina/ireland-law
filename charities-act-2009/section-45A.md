@@ -1,0 +1,3 @@
+High Court confirmation of removal.
+
+45A.— …
