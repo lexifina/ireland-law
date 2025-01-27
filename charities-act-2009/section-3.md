@@ -44,7 +44,7 @@ Charitable purpose.
 
 (ii) for the purpose of gaining new followers.
 
-(11) In this section “purpose that is of benefit to the com munity” includes—
+(11) In this section “purpose that is of benefit to the community” includes—
 
 (a) the advancement of community welfare including the relief of those in need by reason of youth, age, ill-health, or disability,
 
