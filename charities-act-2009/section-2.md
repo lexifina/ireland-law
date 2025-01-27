@@ -8,7 +8,13 @@ Interpretation.
 
 “Act of 2001” means the Criminal Justice (Theft and Fraud Offences) Act 2001;
 
+“Act of 2014” means the Companies Act 2014;
+
+“authorised officer” has the meaning assigned to it by section 68A(1);
+
 “Authority” has the meaning assigned to it by section 13;
+
+“balance sheet total” in relation to a charitable organisation, means the aggregate of the amounts shown as assets in the organisation’s balance sheet;
 
 “body” includes, in relation to a trust in respect of which there is only one trustee, that trustee;
 
@@ -28,7 +34,7 @@ Interpretation.
 
 (II) in the case of a religious organisation or community, on accommodation and care of members of the organisation or community, and
 
-(iii) none of the property of which is payable to the members of the body other than in accordance with section 89, but shall not include an excluded body;
+(iii) none of the property of which is payable to the members of the body other than in accordance with Part 6A, but shall not include an excluded body;
 
 “charitable purpose” shall be construed in accordance with section 3;
 
@@ -38,13 +44,31 @@ Interpretation.
 
 (b) established under a deed of trust that requires the trustees of the trust to apply all of the property (both real and personal) of the trust in furtherance of that purpose except for moneys expended in the management of the trust, and
 
-(c) none of the property of which is payable to the trustees of the trust other than in accordance with section 89;
+(c) none of the property of which is payable to the trustees of the trust other than in accordance with Part 6A;
 
 “charity trustee” includes—
 
-(a) in the case of a charitable organisation that is a company, the directors and other officers of the company, and
+(a) in the case of a charitable organisation that is a company—
 
-(b) in the case of a charitable organisation that is a body corporate (other than a company) or an unincorporated body of persons, any officer of the body or any person for the time being performing the functions of an officer of the body, and references to a charity trustee of a charitable organisation shall be construed as including references to a trustee of a charitable trust;
+(i) any director of the company,
+
+(i) any other person in accordance with whose directions or instructions the directors of the company are accustomed to act, unless the directors are accustomed so to act by reason only that they do so on advice given by the person in a professional capacity, and
+
+(iii) any other person who occupies the position of director of the company but who has not been formally appointed as such, unless the person only gives advice in a professional capacity to the company or any directors of it, but does not include a person who is the company secretary, unless he or she is also a person referred to in subparagraph (i), (ii) or (iii),
+
+(b) in the case of a charitable organisation that is a body corporate (other than a company) or an unincorporated body of persons—
+
+(i) any person who, in relation to that body, is—
+
+(I) a member of the board, or
+
+(II) a member of the governing body,
+
+(ii) any other person in accordance with whose directions or instructions a person referred to in subparagraph (i) is accustomed to act, unless such person is accustomed so to act by reason only that they do so on advice given by that person in a professional capacity, and
+
+(iii) any other person who occupies the position of member of the board or member of the governing body but who has not been formally appointed as such, unless the person only gives advice in a professional capacity to the charitable organisation or any members of the board or members of the governing body, but does not include a person who performs the functions of a secretary to the board or to the governing body, unless he or she is also a person referred to in subparagraph (i), (ii) or (iii), and
+
+(c) in the case of a charitable trust to which section 54A(2) applies, the body corporate and the directors of that body corporate, and references to a charity trustee of a charitable organisation shall be construed as including references to a trustee of a charitable trust;
 
 “chief executive” has the meaning assigned to it by section 19;
 
@@ -54,7 +78,7 @@ Interpretation.
 
 (a) in the case of a charitable organisation consisting of trustees of a charitable trust, the deed of trust establishing the charitable trust,
 
-(b) in the case of a charitable organisation that is a company, the memorandum and articles of association of the company,
+(b) in the case of a charitable organisation that is a company, the constitution (within the meaning of section 2(1) of the Act of 2014),
 
 (c) in the case of a charitable organisation that is a body corporate other than a company, the charter, statute or other like instrument by which it is established, and
 
@@ -72,11 +96,11 @@ Interpretation.
 
 (d) a parents’ association established in accordance with section 26 of the Act of 1998,
 
-(e) a student council established in accordance with section 27 of the Act of 1998,
+(e) a student council established in accordance with section 27 of the Act of 1998, or
 
-(f) a designated institution of higher education within the meaning of the Higher Education Authority Act 2022 that falls under paragraph (a) of section 53(1) of that Act, or
+(f) a designated institution of higher education within the meaning of the Higher Education Authority Act 2022 that falls under paragraph (a) of section 53(1) of that Act;
 
-(g) a body established solely for the purpose of funding not more than one such institution of higher education;
+(g) ...
 
 “EEA Agreement” has the same meaning as it has in the European Communities (Amendment) Act 1993;
 
@@ -112,11 +136,19 @@ Interpretation.
 
 (v) for the benefit of an organisation, membership of which is unlawful;
 
+“insolvency arrangement” has the same meaning as it has in the Personal Insolvency Act 2012;
+
 “judicial office in the Superior Courts” means the office of judge of the High Court , the office of judge of the Court of Appeal or the office of judge of the Supreme Court;
 
 “local authority” has the same meaning as it has in the Local Government Act 2001;
 
 “material interest” shall be construed in accordance with section 2(3) of the Ethics in Public Office Act 1995;
+
+“member of the charitable organisation” means—
+
+(a) in the case of a charitable organisation that is a company, a member of the company within the meaning of section 168 of the Act of 2014, or
+
+(b) in the case of a charitable organisation that is a body corporate (other than a company) or an unincorporated body of persons, a person who is entitled to appoint, nominate or vote for the appointment of a person as a charity trustee of that organisation;
 
 “Minister” means the Minister for Community, Rural and Gaeltacht Affairs;
 
@@ -144,13 +176,17 @@ Interpretation.
 
 (b) a charitable organisation that, by virtue of section 40, is deemed to be registered in the register;
 
-“registration number” has the meaning assigned to it by section 40(6)(e);
+“registration number” has the meaning assigned to it by section 39(7)(e) or 40(6)(e), as the case may be;
+
+“removal notice” has the meaning assigned to it by section 44A(5)(b);
+
+“specified clause” has the meaning assigned to it by section 42A(8);
 
 “Tribunal” has the meaning assigned to it by section 75.
 
 (2) (a) For the purposes of this Act—
 
-(i) a person is connected with an individual if that person is a parent, brother, sister, spouse, grandparent or grandchild of the individual or a child of the spouse of the individual,
+(i) a person is connected with an individual if that person is a child, step-child, parent, step-parent, brother, sister, spouse, civil partner, cohabitant, grandparent or grandchild of the individual or a child of the individual’s civil partner or cohabitant,
 
 (ii) a person, in his or her capacity as a trustee of a trust, is connected with an individual if that individual, or any of that individual’s children, or any body corporate that that individual controls is a beneficiary of the trust,
 
@@ -162,4 +198,12 @@ Interpretation.
 
 (vi) any two or more persons acting together to secure or exercise control of a body corporate shall be treated in relation to that body corporate as connected with one another and with any person acting on the directions of any of them to secure or exercise control of the body corporate.
 
-(b) In this subsection “control” has the meaning assigned to it by section 11 of the Taxes Consolidation Act 1997, and cognate words shall be construed accordingly.
+(b) In this subsection—
+
+“Act of 2010” means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+“civil partner” means a person in a civil partnership or legal relationship to which section 3 of the Act of 2010 applies;
+
+“cohabitant” means a cohabitant within the meaning of section 172(1) of the Act of 2010;
+
+“control” has the meaning assigned to it by section 11 of the Taxes Consolidation Act 1997.
