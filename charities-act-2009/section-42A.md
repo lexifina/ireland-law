@@ -1,0 +1,3 @@
+Change of charitable purpose and amendment of constitution.
+
+42A.— …

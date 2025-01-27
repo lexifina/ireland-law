@@ -1,6 +1,6 @@
 Determination of appeals by Tribunal.
 
-77.— (1) An appeal to the Tribunal shall be brought not later than 21 days from the date of the decision that is being appealed.
+77.— (1) An appeal to the Tribunal shall be brought not later than 21 days, or such longer period as the Tribunal may for good and sufficient reason determine, after service on the person of a notice in writing of the decision or direction of the Authority that is being appealed.
 
 (2) The Tribunal shall hold one or more hearings for the purpose of determining an appeal.
 

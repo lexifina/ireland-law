@@ -1,6 +1,6 @@
 Disclosure of information by Authority where it suspects commission of offence.
 
-28.— (1) The Authority shall provide any information obtained by it in the performance of its functions that causes the Authority to suspect that an offence has been committed by a charity trustee or a charitable organisation to—
+28.— (1) The Authority shall provide any information obtained by it in the performance of its functions that causes the Authority to suspect that an offence, other than an offence under this Act, has been committed by a charity trustee or a charitable organisation to—
 
 (a) the Garda Síochána,
 
@@ -12,7 +12,9 @@ Disclosure of information by Authority where it suspects commission of offence.
 
 (e) any other person charged with the detection, investigation or prosecution of offences, as may be appropriate, where it is not satisfied that the information has already been reported to a person specified in paragraph (a), (b), (c), (d) or (e).
 
-(2) Information provided under subsection (1) may be used by the person to whom it has been provided for the purpose only of the detection, investigation or prosecution of an offence.
+(1A) The Authority may provide, to a person specified in paragraph (a), (b), (c), (d) or (e) of subsection (1), any information obtained by it in the performance of its functions that causes the Authority to suspect that an offence under this Act has been committed by a charity trustee or a charitable organisation.
+
+(2) Information provided under subsection (1) or (1A) may be used by the person to whom it has been provided for the purpose only of the detection, investigation or prosecution of an offence.
 
 (3) The Authority may provide any information—
 
