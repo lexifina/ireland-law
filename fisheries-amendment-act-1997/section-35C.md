@@ -1,4 +1,4 @@
-F19[Provision of services by Minister to Board and Board to Minister.
+F21[Provision of services by Minister to Board and Board to Minister.
 
 35C.—(1) For the purpose of enabling the Board to perform its functions, the Minister may provide services (including services of staff) to the Board, on such terms and conditions (including payment for such services) as may be agreed, and the Board may avail itself of such services.
 

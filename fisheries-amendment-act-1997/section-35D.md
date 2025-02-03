@@ -1,4 +1,4 @@
-F20[Membership of either House of Oireachtas, etc.
+F22[Membership of either House of Oireachtas, etc.
 
 35D.—(1) Where a person who is an employee of the Board is nominated as a member of Seanad Éireann or for election to either House of the Oireachtas or the European Parliament, or is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act, 1997, as having been elected to that Parliament to fill a vacancy, or becomes a member of a local authority, he or she shall stand seconded from employment by the Board and shall not be paid by, or be entitled to receive from, the Board any remuneration or allowances—
 

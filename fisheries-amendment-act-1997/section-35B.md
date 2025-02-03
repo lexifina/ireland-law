@@ -1,4 +1,4 @@
-F18[Superannuation of employees of Board.
+F20[Superannuation of employees of Board.
 
 35B.—(1) The Board shall prepare and submit to the Minister for his or her approval, a scheme or schemes for the granting of pensions, gratuities and other allowances on retirement or death to or in respect of such whole-time employees of the Board as it considers appropriate.
 

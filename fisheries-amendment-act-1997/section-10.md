@@ -18,11 +18,11 @@ Applications for licences.
 
 (ii) provide that the Minister may require, in the case of specified applications, the submission of an environmental impact statement in respect of the application,
 
-(1)O.J. No. L175, 5.7.1985.
-
 (iii) specify the information to be contained in an environmental impact statement,
 
 (iv) allow the Minister to determine, for the purposes of dealing with an application, the adequacy of the information contained in an environmental impact statement,
+
+(1)O.J. No. L175, 5.7.1985.
 
 (e) provide for the availability for inspection of documents or extracts from documents relating to applications, the period of such availability, and for the purchase of copies of or extracts from such documents,
 

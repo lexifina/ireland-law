@@ -1,4 +1,4 @@
-F37[ Prosecutor may appeal dismissal of proceedings in District Court.
+F39[ Prosecutor may appeal dismissal of proceedings in District Court.
 
 65B.— (1) Where any proceedings tried summarily in the District Court for an offence under this Act are dismissed, whether on the merits or without prejudice, the prosecutor may appeal against the order of dismissal to the judge of the Circuit Court within whose Circuit the courthouse in which the order was made is situated.
 

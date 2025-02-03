@@ -1,4 +1,4 @@
-F17[Employees of Board.
+F19[Employees of Board.
 
 35A.—(1) The Board shall appoint such and so many persons to be employees to the Board as the Board, subject to the approval of the Minister, given with the consent of the Minister for Finance, as to the number and kind of those employees, from time to time considers appropriate.
 
