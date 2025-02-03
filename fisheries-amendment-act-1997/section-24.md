@@ -2,13 +2,13 @@ Tenure of office of Chairperson and members of Board.
 
 24.—(1) Subject to this section—
 
-(a) the Chairperson shall hold office for a period of five years, and may be reappointed for a second or subsequent term of office; and
+(a) the Chairperson shall hold office for such period, not exceeding five years, as shall be specified by the Government when appointing the Chairperson, and may be re-appointed for a second or subsequent term of office, and
 
 (b) a member of the Board, other than the Chairperson, shall hold office for such period, not exceeding five years, as shall be specified by the Minister when appointing the member, and may be re-appointed for a second or subsequent term of office.
 
 (2) The Chairperson or other member of the Board may resign the office of Chairperson or member, as the case may be, by letter addressed to the Minister, and the resignation shall take effect on the date of the receipt of the letter by the Minister.
 
-(3) The Chairperson or other member of the Board shall vacate the office of Chairperson or member, as the case may be, on attaining the age of 70 years.
+(3) ...
 
 (4) Where the Chairperson or other member of the Board—
 
