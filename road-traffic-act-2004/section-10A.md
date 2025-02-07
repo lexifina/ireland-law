@@ -1,4 +1,4 @@
-F17[Speed limits at road works on national managed roads
+F18[Speed limits at road works on national managed roads
 
 10A.—(1) The Chief Executive of the National Roads Authority may, where he or she considers it is in the interests of road safety on a national managed road, or part of a national managed road where road works are being carried out, by order apply to that road or part of it, subject to section 10C, a special limit being a speed limit of not less than 20 kilometres per hour, as the speed limit on the national managed road for mechanically propelled vehicles, in lieu of the speed limit provided or having effect under this Act in respect of the national managed road or part of it.
 

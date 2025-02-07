@@ -1,4 +1,4 @@
-F14[Special speed limits on national managed roads
+F15[Special speed limits on national managed roads
 
 9A.—(1) The National Roads Authority may make bye-laws specifying in respect of any specified national managed road or specified part of a national managed road or specified carriageway or lane of a national managed road, the speed limit which shall be the speed limit on that road or those roads for mechanically propelled vehicles.
 
