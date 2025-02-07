@@ -16,7 +16,9 @@ Offence of exceeding speed limit.
 
 (b) the built-up area speed limit,
 
-(c) the regional and local roads speed limit,
+(c) the regional roads speed limit,
+
+(ca) the local roads speed limit,
 
 (d) the national roads speed limit,
 

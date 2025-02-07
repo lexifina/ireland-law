@@ -14,11 +14,11 @@ Special speed limits.
 
 (c) 60 kilometres per hour,
 
-(d) 80 kilometres per hour, in respect of a motorway, a national road or a road in a built-up area,
+(d) 80 kilometres per hour, in respect of a motorway, a national road, a local road or a road in a built-up area,
 
 (e) 100 kilometres per hour, in respect of a motorway, a non-urban regional or local road or a road in a built-up area, and
 
-(f) 120 kilometres per hour, in respect of a dual carriageway that forms part of a national road that is not a motorway in accordance with guidelines issued by the Minister under section 10D
+(f) 120 kilometres per hour, in respect of a dual carriageway that forms part of a national road that is not a motorway in accordance with guidelines issued by the Minister under section 10D.
 
 (3) Before making special speed limit bye-laws a county council or city council shall give notice to—
 
