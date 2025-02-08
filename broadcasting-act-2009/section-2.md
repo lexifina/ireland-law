@@ -120,7 +120,7 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 
 (b) over their organisation in a programme schedule or in a catalogue;
 
-"electronic communications network" means transmission systems, whether or not based on a permanent infrastructure or centralised administration capacity, and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed (circuit- and packet-switched, including internet) and mobile networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;
+“electronic communications network” means transmission systems, whether or not based on a permanent infrastructure or centralised administration capacity, and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed (circuit- and packet-switched, including internet) and mobile networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;
 
 “EEA Agreement” has the meaning assigned to it in the European Communities (Amendment) Act 1993;
 
@@ -128,19 +128,21 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 
 ...
 
+“EMFA” means Regulation (EU) 2024/1083 of the European Parliament and of the Council of 11 April 2024 establishing a common framework for media services in the internal market and amending Directive 2010/13/EU (European Media Freedom Act);
+
 “employment” includes—
 
 (a) full-time paid employment,
 
 (b) part-time paid employment,
 
+OJ No. L. 119, 4.5.2016, p. 1
+
+OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1 OJ L, 2024/1083, 17.4.2024
+
 (c) temporary paid employment for a period of 16 weeks or more in the period of a year, or
 
 (d) being retained under contract, directly or indirectly, in any capacity as an adviser, consultant or lobbyist, or for the provision of services;
-
-OJ No. L. 119, 4.5.2016, p. 1
-
-OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
 
 “establishment day” means the day appointed by the Minister under section 5 to be the establishment day for the purposes of this Act;
 
@@ -276,9 +278,9 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 “television programme service” means a service which comprises a compilation of audio-visual programme material of any description and is transmitted, distributed or relayed by means of wireless telegraphy directly or indirectly for reception by the general public;
 
-“television programme service contract” and “television programme service contractor” have the same meaning as they have in section 70;
-
 OJ No. L. 241, 17.9.2015, p. 1
+
+“television programme service contract” and “television programme service contractor” have the same meaning as they have in section 70;
 
 “television licence fees” means a fee paid on a licence granted under section 143 in respect of a television set (within the meaning of section 140);
 
