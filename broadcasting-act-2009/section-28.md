@@ -6,7 +6,9 @@ Accountability of Commissioner to Oireachtas committees.
 
 (3) Subsections (1) and (2) do not require a Commissioner to give account before a committee for any matter which is or has been, or which may in the future be, the subject of proceedings before a court or tribunal.
 
-(4) Where a Commissioner is of the opinion that a matter in respect of which he or she is requested to give an account before a committee is a matter to which subsection (3) applies, he or she shall inform the committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the committee at a time when the Commissioner is before it, the information shall be so conveyed in writing.
+(4) Where a Commissioner is of the opinion that a matter in respect of which he or she is requested to give an account before a committee is a matter to which subsection
+
+(3) applies, he or she shall inform the committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the committee at a time when the Commissioner is before it, the information shall be so conveyed in writing.
 
 (5) Where the Commissioner has informed a committee of his or her opinion in accordance with subsection (4) and the committee does not withdraw the requirement referred to in subsection (1) or (2) in so far as it relates to a matter the subject of that opinion—
 
