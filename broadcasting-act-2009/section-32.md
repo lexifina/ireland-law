@@ -1,10 +1,10 @@
 Co-operation with other bodies.
 
-32.— (1) The Commission may, in the interests of the effective discharge of its functions, co-operate and enter into co-operation agreements with a body established in the State.
+32.— (1) The Commission may, in the interests of the effective discharge of its functions, including its functions under the Directive and any task assigned to it by or under Chapter III of EMFA, co-operate and enter into co-operation agreements with a body established in the State.
 
-(2) The Commission may, in the interests of the effective discharge of its functions, co-operate, and enter into co-operation agreements, with a body not established in the State, if that body performs similar functions to the Commission.
+(2) The Commission may, in the interests of the effective discharge of its functions, including its functions under the Directive and any task assigned to it by or under Chapter III of EMFA, co-operate, and enter into co-operation agreements, with a body not established in the State, if that body performs similar functions to the Commission.
 
-(3) Without prejudice to the generality of subsection (2), a body which is a member of the European Regulators Group for Audiovisual Media Services established by Article 30b(1) of the Directive shall be considered to be a body which performs similar functions to the Commission.
+(3) Without prejudice to the generality of subsection (2), a body which is a member of the European Board for Media Services established under Article 8 of EMFA shall be considered to be a body which performs similar functions to the Commission.
 
 (4) If the Commission enters into an agreement under this section—
 

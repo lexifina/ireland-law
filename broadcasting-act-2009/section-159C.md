@@ -32,7 +32,7 @@ Prominence of European works.
 
 (d) developments in audiovisual on-demand media service markets, and
 
-(e) any relevant reports produced by the European Regulators Group for Audiovisual Media Services established by Article 30b of the Directive.
+(e) any relevant reports produced by the European Board for Media Services established under Article 8 of EMFA.
 
 (6) The Commission may make rules prescribing records a provider must keep and any other action a provider must take to enable compliance with the requirement in subsection (1) to be assessed.
 

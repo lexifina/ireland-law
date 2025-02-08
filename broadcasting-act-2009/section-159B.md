@@ -18,7 +18,7 @@ Share of European works.
 
 (a) any guidelines issued by the European Commission in accordance with Article 13(7) of the Directive, and
 
-(b) any relevant reports produced by the European Regulators Group for Audiovisual Media Services established by Article 30b of the Directive.
+(b) any relevant reports produced by the European Board for Media Services established under Article 8 of EMFA.
 
 (5) In making rules under subsection (3)(b), the Commission shall have regard to any relevant characteristics of the market in which a media service provider under the jurisdiction of the State provides an audiovisual on-demand media service, including—
 
