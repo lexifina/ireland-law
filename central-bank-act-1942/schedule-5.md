@@ -42,9 +42,7 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (j) is removed from office by a resolution passed in accordance with subparagraph (2).
 
-(2) The Chairperson and Deputy Chairperson can be removed from office only by the President on a resolution passed by both Houses of the Oireachtas in the same session seeking removal on the ground of proven misbehaviour or incapacity.
-
-7.—(1) A person who is a lay member ceases to be such a member if the person—
+(2) The Chairperson and Deputy Chairperson can be removed from office only by the President on a resolution passed by both Houses of the Oireachtas in the same session seeking removal on the ground of proven misbehaviour or incapacity. 7.—(1) A person who is a lay member ceases to be such a member if the person—
 
 (a) dies, or
 
@@ -120,9 +118,7 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (b) the function or power is to be performed or exercised by the person for the time being occupying or acting in the office concerned.
 
-(8) The Chairperson may, despite the delegation, perform a function that has been delegated under this paragraph.
-
-11.—(1) If a person is, or is to be, a member of the Appeals Tribunal as constituted for the purposes of proceedings and the person has or acquires an interest (pecuniary or otherwise) that could conflict with the proper performance of the person’s functions in relation to the proceedings, the person—
+(8) The Chairperson may, despite the delegation, perform a function that has been delegated under this paragraph. 11.—(1) If a person is, or is to be, a member of the Appeals Tribunal as constituted for the purposes of proceedings and the person has or acquires an interest (pecuniary or otherwise) that could conflict with the proper performance of the person’s functions in relation to the proceedings, the person—
 
 (a) shall disclose the nature of the interest to the parties to the proceedings, and
 

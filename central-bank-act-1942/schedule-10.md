@@ -70,6 +70,8 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (34) Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014;
 
+34 OJ No. L 78, 24.03.2015, p. 1
+
 (35) Commission Implementing Regulation (EU) No 1030/2014 of 29 September 2014;
 
 (36) Commission Delegated Regulation (EU) No 1187/2014 of 2 October 2014;
@@ -92,8 +94,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (45) Commission Implementing Regulation (EU) 2015/233 of 13 February 2015;
 
-34 OJ No. L 78, 24.03.2015, p. 1
-
 (46) Commission Delegated Regulation (EU) 2015/942 of 4 March 2015;
 
 (47) Commission Delegated Regulation (EU) 2015/923 of 11 March 2015;
@@ -113,6 +113,8 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 (54) Commission Implementing Regulation (EU) 2015/2012 of 11 November 2015;
 
 (55) Commission Implementing Regulation (EU) 2015/2013 of 11 November 2015;
+
+51 OJ No. L 205, 31.07.2015, p. 1
 
 (56) Commission Implementing Regulation (EU) 2015/2015 of 11 November 2015;
 
@@ -135,8 +137,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 (65) Commission Delegated Regulation (EU) 2016/709 of 26 January 2016;
 
 (66) Commission Implementing Regulation (EU) 2016/165 of 5 February 2016;
-
-51 OJ No. L 205, 31.07.2015, p. 1
 
 (67) Commission Implementing Regulation (EU) 2016/322 of 10 February 2016;
 
@@ -200,6 +200,8 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (97) Commission Delegated Regulation (EU) 2017/104 of 19 October 2016;
 
+5 OJ No. L 237, 03.09.2016, p. 1
+
 (98) Commission Implementing Regulation (EU) 2017/105 of 19 October 2016;
 
 (99) Commission Delegated Regulation (EU) 2017/180 of 24 October 2016;
@@ -222,10 +224,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (108) Commission Delegated Regulation (EU) 2017/323 of 20 January 2017;
 
-5 OJ No. L 237, 03.09.2016, p. 1
-
-23 OJ No. L 65, 10.03.2017, p. 116
-
 (109) Commission Implementing Regulation (EU) 2017/309 of 23 February 2017;
 
 (110) Commission Delegated Regulation (EU) 2017/979 of 2 March 2017;
@@ -245,6 +243,8 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 (117) Commission Implementing Regulation (EU) 2017/1486 of 10 July 2017;
 
 (118) Commission Implementing Regulation (EU) 2017/1421 of 2 August 2017;
+
+23 OJ No. L 65, 10.03.2017, p. 116
 
 (119) Commission Delegated Regulation (EU) 2017/2194 of 14 August 2017;
 

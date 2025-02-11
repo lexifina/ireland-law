@@ -8,8 +8,6 @@ Application of Part under Investment Firms Directive.
 
 (ii) any direction given to an investment holding company, a mixed financial holding company or a mixed activity holding company under a relevant provision,
 
-OJ No. L. 198, 25.7.2019, p.1.
-
 (iii) any direction given under financial services legislation to the investment holding company, mixed financial holding company or mixed activity holding company pursuant to a relevant provision,
 
 (iv) any requirement imposed on an investment holding company, a mixed financial holding company or a mixed activity holding company under—
@@ -20,7 +18,11 @@ OJ No. L. 198, 25.7.2019, p.1.
 
 (III) any direction given under financial services legislation to the investment holding company, mixed financial holding company or mixed activity holding company pursuant to a relevant provision, or
 
-(v) any obligation imposed on an investment holding company, a mixed financial holding company or a mixed activity holding company by this Part or imposed by the Bank pursuant to a power exercised under this Part, and
+(v) any obligation imposed on an investment holding company, a mixed financial holding company or a mixed activity holding company by this
+
+OJ No. L. 198, 25.7.2019, p.1.
+
+Part or imposed by the Bank pursuant to a power exercised under this Part, and
 
 (b) participation by a person, while concerned in the management of an investment holding company, a mixed financial holding company or a mixed activity holding company, in the commission of such a contravention.
 

@@ -30,8 +30,6 @@ Application of Part to holding companies under Part 3 of Central Bank Reform Act
 
 "insurance holding company" has the same meaning as in section 33ANF;
 
-"investment holding company" has the same meaning as in section 33ANG.
-
-Chapter 2
+"investment holding company" has the same meaning as in section 33ANG. Chapter 2
 
 Power of Bank to hold inquiries
