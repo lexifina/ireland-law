@@ -32,7 +32,7 @@ Interpretation.
 
 ...
 
-"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
+"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, as amended by –
 
 (a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
 
@@ -48,19 +48,35 @@ Interpretation.
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
 
-(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large
 
-OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1.
+OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
 
-(i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014, and
+(i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
 
-(j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic;
+(j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic,
+
+(k) Commission Delegated Regulation (EU) 2021/424 of 17 December 2019 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the alternative standardised approach for market risk,
+
+(l) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID-19 crisis,
+
+(m) Commission Implementing Regulation (EU) 2021/1043 of 24 June 2021 on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 of the European Parliament and of the Council,
+
+(n) Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No. 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities,
+
+(o) Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point,
+
+(p) Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024 amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor, and
+
+(q) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk;
 
 "Central Bank Acts" means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
 
 "Commission" means the Central Bank Commission;
 
 "consolidated bank note" has the same meaning as in the Currency Act 1927;
+
+OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024. OJ L, 2024/2795, 31.10.2024.
 
 ...
 
@@ -99,8 +115,6 @@ OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310,
 "Financial Services and Pensions Ombudsman" means a person appointed under section 8(1)(a) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
 
 ...
-
-OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4.
 
 "financial service provider" means a person who carries on a business of providing one or more financial services;
 
@@ -196,6 +210,8 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4.
 
 (f) the Capital Requirements Regulation;
 
+OJ NO. L 83, 22.03.2013, P. 1
+
 (g) Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012;
 
 (h) Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012;
@@ -218,9 +234,7 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4.
 
 (q) Commission Implementing Regulation (EU) 2015/461 of 19 March 2015 laying down implementing technical standards with regard to the process to reach a joint decision on the application to use a group internal model in accordance with Directive 2009/138/EC of the European Parliament and of the Council;
 
-(r) Commission Implementing Regulation (EU) 2015/462 of 19 March 2015 laying down implementing technical standards with regard to the procedures for supervisory approval to establish special purpose vehicles, for the co-operation and exchange of information between supervisory authorities regarding special purpose vehicles as well as to set out formats and templates
-
-OJ NO. L 83, 22.03.2013, P. 1 for information to be reported by special purpose vehicles in accordance with Directive 2009/138/EC of the European Parliament and of the Council;
+(r) Commission Implementing Regulation (EU) 2015/462 of 19 March 2015 laying down implementing technical standards with regard to the procedures for supervisory approval to establish special purpose vehicles, for the co-operation and exchange of information between supervisory authorities regarding special purpose vehicles as well as to set out formats and templates for information to be reported by special purpose vehicles in accordance with Directive 2009/138/EC of the European Parliament and of the Council;
 
 (s) Commission Implementing Regulation (EU) 2015/498 of 24 March 2015 laying down implementing technical standards with regard to the supervisory approval procedure to use undertaking-specific parameters in accordance with Directive 2009/138/EC of the European Parliament and of the Council;
 
@@ -284,13 +298,13 @@ OJ NO. L 83, 22.03.2013, P. 1 for information to be reported by special purpose 
 
 (av) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
 
-OJ, No L171, 29.6.2016, p. 1
-
 (aw) Commission Delegated Regulation (EU) 2018/389 of of 27 November 2017;
 
 (ax) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017;
 
 (ay) Commission Delegated Regulation (EU) 2019/979 of 14 March 2019;
+
+OJ, No L171, 29.6.2016, p. 1
 
 (az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019;
 
@@ -306,9 +320,13 @@ OJ, No L171, 29.6.2016, p. 1
 
 (bf) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020;
 
-(bg) Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019.
+(bg) Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019;
 
-(bg) Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020.
+(bh) Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020;
+
+(bi) Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023.
+
+(bj) Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022;
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
@@ -316,12 +334,8 @@ OJ, No L171, 29.6.2016, p. 1
 
 (5) In this Act, a reference to the directors of a company, in relation to a company that does not have a board of directors, is a reference to the persons responsible for directing the operations of the company.
 
-OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1. OJ No. L. 198, 25.7.2019, p.1
-
 (6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
 
-Administrative penalties and other administrative measures for breaches of authorisation requirements and requirements for acquisitions of qualifying holdings
+OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25.7.2019, p.1
 
-54.— ...
-
-(4) Notwithstanding the definition of regulated financial service provider as provided for in the Act of 1942, a person that engages in conduct listed in paragraph (2) shall be treated as a regulated financial services provider for the purposes of Part IIIC of the Act of 1942.
+4 OJ No. L 333, 27.12.2022, p.1
