@@ -305,3 +305,9 @@ Transfers and Direct Debits in Euro) Regulations 2013
 82 S.I. No. 547 of 2022 European Union (Recovery The whole instrument and Resolution of Central Counterparties) Regulations 2022
 
 83 S.I. No. 644 of 2023 European Union (Credit The whole instrument Servicers and Credit Purchasers) Regulations 2023
+
+84 S.I. No. 607 of 2024 European Union (Markets in The whole instrument Crypto-Assets) Regulations 2024
+
+85 S.I. No. 159 of 2014 European Union (Capital The whole instrument Requirements) (No. 2) Regulations 2014
+
+85 S.I. No. 20 of 2025 European Union (Digital The whole instrument Operational Resilience) (No. 2) Regulations 2025
