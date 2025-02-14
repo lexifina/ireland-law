@@ -32,7 +32,9 @@ Protection of disclosures of information.
 
 (g) a body established under the Health (Corporate Bodies) Act 1961; or
 
-(h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g); ‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
+(h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g);
+
+‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
 
 ‘Health Information and Quality Authority’ means the body established in accordance with section 6 of the Health Act 2007;
 
@@ -74,7 +76,9 @@ Protection of disclosures of information.
 
 (d) that the conduct of the relevant body or of a person employed by or acting on behalf of the relevant body has led, is leading or is likely to lead to a misuse or substantial waste of public funds;
 
-(e) that evidence of any matter falling within any of paragraphs (a) to (d) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act. 55C.— Where an employee of a person carrying on the business of a designated centre other than a centre operated by a relevant body makes, in good faith, a disclosure to the chief inspector and the employee has reasonable grounds for believing that the disclosure will show one or more of the following:
+(e) that evidence of any matter falling within any of paragraphs (a) to (d) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act.
+
+55C.— Where an employee of a person carrying on the business of a designated centre other than a centre operated by a relevant body makes, in good faith, a disclosure to the chief inspector and the employee has reasonable grounds for believing that the disclosure will show one or more of the following:
 
 (a) that the actions of any person employed by or acting on behalf of a person carrying on the business of a designated centre has posed, is posing or is likely to pose a risk to the health or welfare of a resident of the centre;
 
