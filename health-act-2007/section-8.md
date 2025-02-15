@@ -6,7 +6,7 @@ Functions of Authority.
 
 (b) to set standards on safety and quality in relation to—
 
-(i) services provided by the Executive, the Agency or a a service provider to which paragraph (a), (b) or (c) of the definition of service provider applies in accordance with— ...
+(i) services provided by the Executive, the Agency or a service provider to which paragraph (a), (b) or (c) of the definition of service provider applies in accordance with— ...
 
 (I) the Health Acts 1947 to 2011, except for services under the Mental Health Acts 1945 to 2009 that, under the Health Act 2004, are provided by the Executive,
 
