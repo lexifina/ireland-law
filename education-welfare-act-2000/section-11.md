@@ -1,6 +1,6 @@
 Educational welfare officers.
 
-11.—(1) Subject to section 37, the Child and Family Agency may appoint such persons or classes of persons as it considers appropriate to be educational welfare officers for the purposes of this Act.
+11.—(1) Subject to section 37 , the Child and Family Agency may appoint such persons or classes of persons as it considers appropriate to be educational welfare officers for the purposes of this Act.
 
 (2) A person appointed under subsection (1) shall, on his or her appointment, be furnished by the Child and Family Agency with a warrant of his or her appointment and when exercising a power conferred by this Act shall, if requested by any person thereby affected, produce such warrant to that person for inspection.
 

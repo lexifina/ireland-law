@@ -27,5 +27,3 @@ Supply of personal data etc. to prescribed bodies.
 (ii) the extent to which persons who have received a certain minimum education participate further in programmes of education, training or instruction, or
 
 (iii) the general effectiveness of educational or training programmes.
-
-OJ No. L 119, 4.5.2016, p.1

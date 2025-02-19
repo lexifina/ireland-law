@@ -8,6 +8,6 @@ Amendment of Act of 1996.
 
 (b) the deletión of the definition of “school leaving age”, and
 
-(c) the substitution of the following definition for the definition of “young person”:
+(c) the substitution of the following definition for the definition of “young person” :
 
 “‘young person’ means a person who has reached the age of 16 years but has not reached the age of 18 years.”.

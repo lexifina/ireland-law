@@ -8,7 +8,7 @@ Interpretation.
 
 “the Act of 1998” means the Education Act, 1998;
 
-“authorised person” has the meaning assigned to it by section 14;
+“authorised person” has the meaning assigned to it by section 14 ;
 
 ...
 
@@ -22,7 +22,7 @@ Interpretation.
 
 (b) has not completed 3 years of post-primary education, whichever occurs later, but shall not include a person who has reached the age of 18 years;
 
-“educational welfare officer” shall be construed in accordance with section 11;
+“educational welfare officer” shall be construed in accordance with section 11 ;
 
 “functions” includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
