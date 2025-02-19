@@ -24,7 +24,7 @@ School attendance notice.
 
 (a) the person to whom the prosecution relates is not a child,
 
-(b) under section 7(2)(d) or (g) the child to whom the prosecution relates is not required to attend a recognised school, or
+(b) under section 7 (2)(d) or (g) the child to whom the prosecution relates is not required to attend a recognised school, or
 
 (c) the child to whom the prosecution relates is being educated outside the State, shall be on the defendant.
 

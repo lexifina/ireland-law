@@ -1,6 +1,6 @@
 Right of Child and Family Agency to appeal etc. decision of board of management under section 29 of Act of 1998.
 
-26.—(1) (a) The Child and Family Agency may appoint a person to appeal a decision to which paragraph (a) or (c) of subsection (1) of section 29 of the Act of 1998 applies and accordingly a reference in the said subsection (1) to "parent of the student" or "student" shall be construed as including a reference to the person appointed by the Child and Family Agency in accordance with this paragraph.
+26.— (1) (a) The Child and Family Agency may appoint a person to appeal a decision to which paragraph (a) or (c) of subsection (1) of section 29 of the Act of 1998 applies and accordingly a reference in the said subsection (1) to "parent of the student" or "student" shall be construed as including a reference to the person appointed by the Child and Family Agency in accordance with this paragraph.
 
 (b) A person appointed under paragraph (a) shall—
 

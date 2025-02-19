@@ -18,7 +18,7 @@ Appeal against decision of Child and Family Agency.
 
 (4) An appeal committee shall consist of such judge of the District Court as shall be nominated by the President of the District Court, such inspector and such other person (other than an officer of the Minister or of the Child and Family Agency) as may be appointed thereto by the Minister.
 
-(5) An appeal committee shall invite the parent of the child concerned and the authorised person who prepared and submitted the report under subsection (8) of section 14, to make submissions to it concerning the matters to which the appeal relates.
+(5) An appeal committee shall invite the parent of the child concerned and the authorised person who prepared and submitted the report under subsection (8) of section 14 , to make submissions to it concerning the matters to which the appeal relates.
 
 (6) The appeal committee shall, having considered any submissions made to it pursuant to subsection (5) and the report referred to in that subsection—
 

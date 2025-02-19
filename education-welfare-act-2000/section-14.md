@@ -28,7 +28,7 @@ Register of children receiving education in a place other than a school.
 
 (ii) inspect such premises, equipment and materials as are used in the provision of education to the child, and
 
-(iii) carry out an assessment of the child, in the said place or such other place as the Child and Family Agency considers appropriate, as to his or her intellectual, emotional and physical development, which shall include an assessment of his or her knowledge and understanding of such subjects, and proficiency in such exercises and disciplines, as the authorised person considers appropriate. and the performance of any or all of the functions referred to in this subsection by an authorised person is hereafter referred to in this section as an “assessment”.
+(iii) carry out an assessment of the child, in the said place or such other place as the Child and Family Agency considers appropriate, as to his or her intellectual, emotional and physical development, which shall include an assessment of his or her knowledge and understanding of such subjects, and proficiency in such exercises and disciplines, as the authorised person considers appropriate. and the performance of any or all of the functions referred to in this subsection by an authorised person is hereafter referred to in this section as an “assessment” .
 
 (6) Where the Child and Family Agency, having received a report submitted under this section in respect of a child who is a student at a school other than a recognised school, is satisfied that the school is providing a certain minimum education to children who are students at that school it may, without carrying out any further assessments, register any or all of such children in the register, provided that the school concerned notifies the Child and Family Agency in writing that the children concerned are students at that school.
 
@@ -58,7 +58,7 @@ Register of children receiving education in a place other than a school.
 
 (ii) require the parent of the child to undertake in writing to comply with such conditions as, in the opinion of the Child and Family Agency, will ensure that the child receives a certain minimum education, or
 
-(b) if not satisfied that the parent of the child is abiding by an undertaking given pursuant to paragraph (b)(i) of subsection (10), or paragraph (a)(ii) or complying with a requirement under section 15(6)(c), remove the child's name from the register.
+(b) if not satisfied that the parent of the child is abiding by an undertaking given pursuant to paragraph (b)(i) of subsection (10), or paragraph (a)(ii) or complying with a requirement under section 15 (6)(c), remove the child's name from the register.
 
 (13) Where the parent of a child fails or refuses—
 
