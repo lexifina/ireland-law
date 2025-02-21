@@ -1,0 +1,3 @@
+Power to Minister to function through agency of another Minister. (Repealed)
+
+11.—...

@@ -1,0 +1,3 @@
+References to Ministers in existing Acts.
+
+18.—Every mention or reference contained in any Act of the Oireachtas passed before this Act or which shall be passed in the present Session of the Oireachtas or in any Order, rule, or regulation made or to be made under any such Act, of or to any of the Ministers mentioned in the first column of the Tenth Part of the Schedule to this Act shall be construed and take effect as a mention of or reference to the Minister, head of a Department of State established under this Act, mentioned in the second column of the said Tenth Part of the said Schedule opposite the Minister mentioned in the said first column.
