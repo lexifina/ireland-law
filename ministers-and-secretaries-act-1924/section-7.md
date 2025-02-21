@@ -1,0 +1,3 @@
+Power to Executive Council to appoint Parliamentary Secretaries.
+
+7.—...

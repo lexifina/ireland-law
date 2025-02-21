@@ -1,0 +1,11 @@
+AN ACT FOR CONSTITUTING AND DEFINING THE MINISTERS AND DEPARTMENTS OF STATE IN SAORSTAT EIREANN PURSUANT TO THE CONSTITUTION AND DECLARING THE FUNCTIONS AND POWERS OF THE AT TORNEY-GENERAL AND ENABLING THE APPOINTMENT OF PARLIAMENTARY SECRETARIES AND FOR PURPOSES INCIDENTAL THERETO. [21st April, 1924.]
+
+WHEREAS it is enacted by the Constitution of Saorstát Eireann that there shall be a Council responsible to Dáil Eireann to aid and advise in the Government of Saorstát Eireann, and that the said Council shall be styled the Executive Council and shall consist of not more than seven nor less than five Ministers, all being members of Dáil Eireann and appointed by the Representative of the Crown on the nomination of the President of the Executive Council with the assent of Dáil Eireann, who shall be collectively responsible for all matters concerning the Departments of State administered by Members of the Executive Council, and shall meet and act as a collective authority:
+
+AND WHEREAS it is by the said Constitution provided that the Ministers who form the Executive Council shall include the President of the Council, the Vice-President of the Council and the Minister in charge of the Department of Finance:
+
+AND WHEREAS it is also by the said Constitution enacted that Ministers other than those who shall be members of the Executive Council may be appointed by the Representative of the Crown, and that every such Minister shall be nominated by Dáil Eireann on the recommendation of a Committee of Dáil Eireann constituted for that purpose, and it is thereby further provided that every such Minister shall be the responsible head of the Department or Departments under his charge and shall be individually responsible to Dáil Eireann alone for the administration of the Department or Departments of which he is the head:
+
+AND WHEREAS it is also by the said Constitution enacted that the total number of Ministers, including the Ministers who are members of the Executive Council, shall not exceed twelve, and that Ministers shall receive such remuneration as may from time to time be prescribed by law but that the remuneration of any Minister shall not be diminished during his term of office:
+
+BE IT THEREFORE ENACTED BY THE OIREACHTAS OF SAORSTAT EIREANN AS FOLLOWS:—

@@ -1,0 +1,3 @@
+Power to Executive Council to redistribute public services amongst Ministers.
+
+12.—...
