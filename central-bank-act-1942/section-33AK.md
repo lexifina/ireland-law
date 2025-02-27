@@ -474,4 +474,6 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 1.
 
 (ap) Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022;
 
+(aq) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023;
+
 "supervised entity" means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
