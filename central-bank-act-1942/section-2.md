@@ -328,14 +328,20 @@ OJ, No L171, 29.6.2016, p. 1
 
 (bj) Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022;
 
+(bk) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023.
+
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
 (4) ...
 
 (5) In this Act, a reference to the directors of a company, in relation to a company that does not have a board of directors, is a reference to the persons responsible for directing the operations of the company.
 
-(6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
-
 OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25.7.2019, p.1
 
-4 OJ No. L 333, 27.12.2022, p.1
+(6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
+
+Administrative penalties and other administrative measures for breaches of authorisation requirements and requirements for acquisitions of qualifying holdings
+
+54.— ...
+
+(4) Notwithstanding the definition of regulated financial service provider as provided for in the Act of 1942, a person that engages in conduct listed in paragraph (2) shall be treated as a regulated financial services provider for the purposes of Part IIIC of the Act of 1942.

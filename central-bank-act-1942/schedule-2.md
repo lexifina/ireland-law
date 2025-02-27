@@ -311,3 +311,5 @@ Transfers and Direct Debits in Euro) Regulations 2013
 85 S.I. No. 159 of 2014 European Union (Capital The whole instrument Requirements) (No. 2) Regulations 2014
 
 85 S.I. No. 20 of 2025 European Union (Digital The whole instrument Operational Resilience) (No. 2) Regulations 2025
+
+86 S.I. No. 41 of 2025 European Union (European The whole instrument Green Bonds Standards and Disclosures) Regulations 2025
