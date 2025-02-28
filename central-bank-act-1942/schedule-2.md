@@ -116,6 +116,8 @@ No. 13 of 2009 Financial Services (Deposit The whole Act Guarantee Scheme) Act 2
 
 50 Consumer Rights Act 2022 Parts 4 and 6
 
+51 Finance (Provision of Access Parts 1 and 2 save in so far to Cash Infrastructure) Act as those Parts apply to ATM 2025 deployers and cash-in-transit providers (both within the meaning of that Act)
+
 PART 2
 
 STATUTORY INSTRUMENTS
@@ -132,9 +134,9 @@ Item Number and Year Citation Provisions
 
 5 S.R.&O. No. 81 of 1940 Industrial Assurance (Fees The whole instrument for Determination of Disputes) Regulations 1940
 
-6 S.I. No. 64 of 1971 Decimal Currency (Friendly The whole instrument Society and Industrial Assurance Contracts) Regulations 1971
+6 S.I. No. 64 of 1971 Decimal Currency (Friendly The whole instrument Society and Industrial Assurance Contracts) Regulations 1971 Item Number and Year Citation Provisions
 
-7 S.I. No. 115 of 1976 EuropeanCommunities(Non- The whole instrument Life Insurance) Regulations 1976 Item Number and Year Citation Provisions
+7 S.I. No. 115 of 1976 EuropeanCommunities(Non- The whole instrument Life Insurance) Regulations 1976
 
 8 S.I. No. 178 of 1978 European Communities The whole instrument (Insurance Agents and Brokers) Regulations 1978
 
@@ -168,9 +170,9 @@ Item Number and Year Citation Provisions
 
 23 S.I. No. 202 of 1995 EuropeanCommunities(Non- The whole instrument Life Insurance Accounts) Regulations 1995
 
-24 S.I. No. 23 of 1996 European Communities The whole instrument (Insurance Undertakings Accounts) Regulations 1995
+24 S.I. No. 23 of 1996 European Communities The whole instrument (Insurance Undertakings Accounts) Regulations 1995 Item Number and Year Citation Provisions
 
-25 S.I. No. 25 of 1996 European Communities The whole instrument (Swiss Confederation Agreement) Regulations 1996 Item Number and Year Citation Provisions
+25 S.I. No. 25 of 1996 European Communities The whole instrument (Swiss Confederation Agreement) Regulations 1996
 
 26 S.I. No. 267 of 1996 Supervision of Credit The whole instrument Institutions Stock Exchange Member Firms and Investment Business Firms Regulations 1996
 
@@ -198,11 +200,11 @@ Item Number and Year Citation Provisions
 
 38 S.I. No. 853 of 2004 European Communities The whole instrument (Distance Marketing of Consumer Financial Services) Regulations 2004
 
-39 S.I. No. 13 of 2005 European Communities The whole instrument (Insurance Mediation) Regulations 2005
+39 S.I. No. 13 of 2005 European Communities The whole instrument (Insurance Mediation) Regulations 2005 Item Number and Year Citation Provisions
 
 40 S.I. No. 380 of 2019 European Union (Prospectus) The whole instrument Regulations 2019
 
-41 S.I. No. 349 of 2016 European Union (Market The whole instrument Abuse) Regulations 2016 Item Number and Year Citation Provisions
+41 S.I. No. 349 of 2016 European Union (Market The whole instrument Abuse) Regulations 2016
 
 42 S.I. No. 380 of 2006 European Communities The whole instrument (Reinsurance) Regulations 2006
 
@@ -226,11 +228,11 @@ S.I. No. 247 of 2010 European Communities The whole instrument (Credit Rating Ag
 
 50 S.I. No. 281 of 2010 European Communities The whole instrument (Consumer Credit Agreements) Regulations 2010
 
-51. S.I. No. 183 of 2011 European Communities The whole instrument (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011)
+51. S.I. No. 183 of 2011 European Communities The whole instrument (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011) Item Number and Year Citation Provisions
 
 S.I. No. 352 of 2011 European Communities The whole instrument (Undertakings for Collective Investment in Transferable Securities) Regulations 2011
 
-S.I. No. 340 of 2012 European Union (Short The whole instrument Selling) Regulations 2012 Item Number and Year Citation Provisions
+S.I. No. 340 of 2012 European Union (Short The whole instrument Selling) Regulations 2012
 
 52 S.I. No. 132 of 2013 European Union The whole instrument (Requirements for Credit
 
@@ -260,11 +262,11 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 63 S.I. No. 554 of 2015 European Union (European The whole instrument Long-term investment funds) Regulations 2015
 
-64 S.I. No. 142 of 2016 European Union (Consumer The whole instrument Mortgage Credit Agreements) Regulations 2016
+64 S.I. No. 142 of 2016 European Union (Consumer The whole instrument Mortgage Credit Agreements) Regulations 2016 Item Number and Year Citation Provisions
 
 65 S.I. No. 481 of 2016 European Union (Central The whole instrument Securities Depositories) Regulations 2016
 
-66 S.I. No. 482 of 2016 European Union (Payment The whole instrument Accounts) Regulations 2016 Item Number and Year Citation Provisions
+66 S.I. No. 482 of 2016 European Union (Payment The whole instrument Accounts) Regulations 2016
 
 67 S.I. No. 375 of 2017 European Union (Markets in The whole instrument Financial Instruments) Regulations 2017
 
@@ -284,9 +286,9 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 74 S.I. No. 656 of 2018 European Union (General The whole instrument Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018
 
-75 S.I. No. 21 of 2020 European Union The whole instrument (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020
+75 S.I. No. 21 of 2020 European Union The whole instrument (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020 Item Number and Year Citation Provisions
 
-76 S.I. No. …... of 2020 European Union The whole instrument (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles) Regulations 2020 Item Number and Year Citation Provisions
+76 S.I. No. …... of 2020 European Union The whole instrument (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles) Regulations 2020
 
 77 S.I. No. 146 of 2021 European Union The whole instrument (Sustainability-related Disclosures in the Financial Services Sector) Regulations 2021
 
@@ -310,6 +312,6 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 85 S.I. No. 159 of 2014 European Union (Capital The whole instrument Requirements) (No. 2) Regulations 2014
 
-85 S.I. No. 20 of 2025 European Union (Digital The whole instrument Operational Resilience) (No. 2) Regulations 2025
+85 S.I. No. 20 of 2025 European Union (Digital The whole instrument Operational Resilience) (No. 2) Regulations 2025 Item Number and Year Citation Provisions
 
 86 S.I. No. 41 of 2025 European Union (European The whole instrument Green Bonds Standards and Disclosures) Regulations 2025
