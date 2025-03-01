@@ -4,7 +4,7 @@ MINOR AND CONSEQUENTIAL AMENDMENTS OF PRINCIPAL ACT
 
 MINOR AND CONSEQUENTIAL AMENDMENTS OF PRINCIPAL ACT
 
-Provision Nature of Amendment amended
+Provision amended Nature of Amendment
 
 (1) (2)
 
@@ -24,11 +24,7 @@ Section 15. The insertion after “road authority” where that secondly occurs 
 
 Section 16. The insertion after “an officer” in subsection (7) (a) (ii) of “or a servant”.
 
-The insertion after subsection (7) (a) (ii) of:— Provision Nature of Amendment amended
-
-(1) (2)
-
-Section 17. The insertion after subsection (2) of the following subsection:
+The insertion after subsection (7) (a) (ii) of:— Section 17. The insertion after subsection (2) of the following subsection:
 
 Section 18. The deletion in subsections (1), (7), (10) (a) and (10) (l) of “mechanically propelled”.
 
@@ -44,11 +40,7 @@ The substitution for subsection (3) (b) of:
 
 The insertion after “section 49 of this Act” in subsection (5) (a) (i) of “or section 30 (3) of the Road Traffic Act, 1968”.
 
-The substitution for subsection (5) (b) of: Provision Nature of Amendment amended
-
-(1) (2)
-
-Section 36. The insertion after “5,” in subsection (1) of “5A, 5B,”.
+The substitution for subsection (5) (b) of: Section 36. The insertion after “5,” in subsection (1) of “5A, 5B,”.
 
 The deletion from subsections (3) (b) and (4) (b) of “or postponed” and “or postponement” in each place where they occur.
 
@@ -74,17 +66,13 @@ The insertion after subsection (3) of the following subsection:
 
 Section 65. The substitution for subsection (1) (a) of the following:
 
-“(a) any person claiming in respect of injury to person to himself sustained while he was in or on a mechanically propelled vehicle (or a vehicle drawn thereby) to which the relevant document relates, other than a mechanically propelled vehicle, or a drawn vehicle, or vehicles forming a combination of vehicles, of a class specified for the purposes of this paragraph by regulations made by the Minister,”. Provision Nature of Amendment amended
-
-(1) (2)
+“(a) any person claiming in respect of injury to person to himself sustained while he was in or on a mechanically propelled vehicle (or a vehicle drawn thereby) to which the relevant document relates, other than a mechanically propelled vehicle, or a drawn vehicle, or vehicles forming a combination of vehicles, of a class specified for the purposes of this paragraph by regulations made by the Minister,”.
 
 The insertion after “mechanically propelled vehicle” in subsection (1) (c) of “(or a vehicle drawn thereby)”.
 
 The deletion of subsections (1) (e) to (1) (g).
 
-Section 76. The substitution for “a misdemeanour” in subsection (1) (e) of “an offence”.
-
-Section 77. The substitution in subsection (5) of “the Minister” for “the Minister for Industry and Commerce”.
+Section 76. The substitution for “a misdemeanour” in subsection (1) (e) of “an offence”. Section 77. The substitution in subsection (5) of “the Minister” for “the Minister for Industry and Commerce”.
 
 Section 84. The deletion of “in public roads” in subsections (1) (a) and (1) (c).
 
@@ -106,13 +94,9 @@ The insertion of the following after subsection (2) (i):
 
 The deletion of “at parking places” in subsection (6) (a).
 
-The substitution of the following subsection for subsection (9): Provision Nature of Amendment amended
+The substitution of the following subsection for subsection (9):
 
-(1) (2)
-
-The deletion from the definition of “licensed parking attendant” in subsection (15) (a) of “at a parking place”.
-
-Section 91. The insertion after “manual direction” in subsection (2) of “or by the use of portable signs of such size, form and colour and having such significance as may be prescribed”.
+The deletion from the definition of “licensed parking attendant” in subsection (15) (a) of “at a parking place”. Section 91. The insertion after “manual direction” in subsection (2) of “or by the use of portable signs of such size, form and colour and having such significance as may be prescribed”.
 
 The insertion after “this section” in subsection (3) of “or who contravenes a prohibition, restriction or requirement indicated by a sign referred to in subsection (2) of this section”.
 
@@ -142,15 +126,11 @@ The substitution for “Sections 219 to 223” in subsection (8) of “Section 2
 
 The insertion after “any part thereof” in subsection (10) of “or any facilities provided for the car park under subsection (6) of this section”.
 
-The insertion after subsection (11) of the following: Provision Nature of Amendment amended
-
-(1) (2)
+The insertion after subsection (11) of the following:
 
 Section 103. The insertion after subsection (6) of the following:
 
-Section 104. The substitution for “section 47, 52 or 53” of “section 47, 51A, 52 or 53”.
-
-The insertion of the following subparagraph after paragraph (i) (I) of the proviso:
+Section 104. The substitution for “section 47, 52 or 53” of “section 47, 51A, 52 or 53”. The insertion of the following subparagraph after paragraph (i) (I) of the proviso:
 
 Section 106. The substitution for subsection (1) (d) of the following:
 
@@ -164,16 +144,12 @@ Section 114. The insertion after subsection (4) (b) (v) of the following:
 
 Section 115. The insertion after “licence” in each place where it occurs in subsections (1) and (3) of “, plate”.
 
-The insertion after “thereunder” in subsection (4) of “or a special permit under regulations under section 13 of this Act”. Provision Nature of Amendment amended
-
-(1) (2)
+The insertion after “thereunder” in subsection (4) of “or a special permit under regulations under section 13 of this Act”.
 
 Section 123. The substitution for “an exempted person” in paragraph (a) (ii) of “a vehicle insurer or an exempted person within the meaning of Part VI of this Act”.
 
 Second The insertion after paragraph 4 of the following: Schedule.
 
-The substitution for paragraph 5 of the following paragraphs:
-
-Refusal or 5A. An offence under section 33 (3) of the Road Traffic failure to Act, 1968, being a second or any subsequent offence provide, or to within any period of 3 years: permit taking provided that, where a person who has previously been of, specimen at convicted of an offence under section 49 or 50 of this Garda station Act or section 30 (3) of the Road Traffic Act, 1968, is (section 50). convicted of an offence under section 33 (3) of the Road Traffic Act, 1968, the first-mentioned conviction shall, for the purposes of this paragraph, be regarded as a conviction under section 33 (3) of the Road Traffic Act, 1968.”
+The substitution for paragraph 5 of the following paragraphs: Refusal or 5A. An offence under section 33 (3) of the Road Traffic failure to Act, 1968, being a second or any subsequent offence provide, or to within any period of 3 years: permit taking provided that, where a person who has previously been of, specimen at convicted of an offence under section 49 or 50 of this Garda station Act or section 30 (3) of the Road Traffic Act, 1968, is (section 50). convicted of an offence under section 33 (3) of the Road Traffic Act, 1968, the first-mentioned conviction shall, for the purposes of this paragraph, be regarded as a conviction under section 33 (3) of the Road Traffic Act, 1968.”
 
 The insertion after paragraph 5 of the following:
