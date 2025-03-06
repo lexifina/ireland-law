@@ -12,6 +12,8 @@ Interpretation — general.
 
 “ancillary supply” means a supply, forming part of a composite supply, which is not physically and economically dissociable from a principal supply and is capable of being supplied only in the context of the better enjoyment of that principal supply;
 
+"annual turnover" has the meaning assigned to it by section 92B;
+
 “antiques” has the meaning assigned to it by section 87(1);
 
 “Appeal Commissioner” has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;
@@ -304,8 +306,10 @@ Interpretation — general.
 
 (b) Member State, shall apply as if the reference included a reference to Northern Ireland, save—
 
-(i) where the reference occurs in a provision specified in Part 1 of Schedule 9, and
+(i) where the reference occurs in a provision specified in Part 1 of Schedule 9,
 
-(ii) in the case of a provision specified in Part 2 of Schedule 9, in so far as the provision applies to services.
+(ii) in the case of a provision specified in Part 2 of Schedule 9, in so far as the provision applies to services, and
+
+(iii) where the reference occurs in a provision specified in Part 3 of Schedule 9.
 
 (5) References in any other enactment to the “Value-Added Tax Acts” mean this Act and every enactment which is to be read together with this Act.
