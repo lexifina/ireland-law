@@ -4,9 +4,9 @@ Tax due on moneys received basis.
 
 80.—(1) A person who satisfies the Revenue Commissioners that—
 
-(a) taking one period with another, at least 90 per cent of the person’s turnover is derived from taxable supplies to persons who are not registered persons, or
+(a) taking one period with another, at least 90 per cent of the person’s annual turnover is derived from supplies to persons who are not registered persons, or
 
-(b) the total consideration which the person is entitled to receive in respect of the person’s taxable supplies has not exceeded and is not likely to exceed €2,000,000 in any continuous period of 12 months, may, in accordance with regulations, be authorised to determine the amount of tax which becomes due by the person during any taxable period (or part thereof) during which the authorisation has effect by reference to the amount of the moneys which the person receives during that taxable period (or part thereof) in respect of taxable supplies.
+(b) the total annual turnover which the person is entitled to receive has not exceeded and is not likely to exceed €2,000,000 in any continuous period of 12 months, may, in accordance with regulations, be authorised to determine the amount of tax which becomes due by the person during any taxable period (or part thereof) during which the authorisation has effect by reference to the amount of the moneys which the person receives during that taxable period (or part thereof) in respect of taxable supplies.
 
 (2) Where an authorisation to which subsection (1) relates has not been cancelled under subsection (4), then—
 

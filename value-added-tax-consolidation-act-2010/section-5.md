@@ -12,4 +12,4 @@ Persons who are, or who may become, accountable persons.
 
 (c) A person not established in the State who supplies goods in the State only in the circumstances set out in section 10, or supplies a service in the State only in the circumstances set out in section 16(3), shall not be an accountable person.
 
-(2) Where, by virtue of section 6(1) or 7, a person has not been an accountable person and a change of circumstances occurs from which it becomes clear that the person is likely to become an accountable person, he or she shall be deemed, for the purposes of this Act, to be an accountable person from the beginning of the taxable period commencing next after such change.
+(2) ...

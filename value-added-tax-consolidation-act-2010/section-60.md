@@ -39,3 +39,5 @@ General limits on deductibility.
 (ii) In subparagraph (iii) of paragraph (a), entertainment expenses includes expenditure on a building or facility, including the fitting out of such building or facility, to provide such entertainment.
 
 (3) Notwithstanding anything in this Chapter, where section 87(3) or (8) or 89(3) has been applied to a supply of goods to an accountable person, that accountable person shall not deduct, in accordance with section 59(2), any tax in relation to the supply to him or her.
+
+(4) Notwithstanding anything in this Chapter, a person shall not deduct any tax on expenditure incurred for the purpose of supplies made in accordance with Chapter 5 of Part 10.

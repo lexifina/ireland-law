@@ -24,11 +24,13 @@ Persons not accountable persons unless they so elect.
 
 (II) supplies of other goods and services the total consideration for which is such that such person would not, because of paragraph (c) or (d), be an accountable person if such supplies were the only supplies made by him or her;
 
-(c)(i) subject to subparagraph (ii), a person for whose supply of taxable goods (other than supplies of the kind specified in section 30(a) and (b) and services, the total consideration has not exceeded and is not likely to exceed the goods threshold in any continuous period of 12 months,
+(c)(i) subject to subparagraph (ii), a person for whose supply of goods (other than supplies of the kind specified in section 30(a) and (b) made by a person established in the State) and services the total annual turnover has not exceeded, in the current calendar year or the previous calendar year, the goods threshold,
 
-(ii) subparagraph (i) shall apply only if at least 90 per cent of the total consideration referred to therein is derived from the supply of taxable goods (other than goods chargeable at any of the rates specified in section 46(1)(a) and (c) which were produced or manufactured by the person referred to in subparagraph (i) wholly or mainly from materials chargeable at the rate specified in section 46(1)(b));
+(ii) subparagraph (i) shall apply only if at least 90 per cent of the total annual turnover referred to therein is derived from the supply of taxable goods (other than goods chargeable at any of the rates specified in section 46(1)(a) and (c) which were produced or manufactured by the person referred to in subparagraph (i) wholly or mainly from materials chargeable at the rate specified in section 46(1)(b));
 
-(d) a person (other than a person to whom paragraph (a), (b) or (c) applies) for whose supply of taxable goods and services the total consideration has not exceeded, and is not likely to exceed, the services threshold in any continuous period of 12 months.
+(d) a person (other than a person to whom paragraph (a), (b) or (c) applies) for whose supply of goods and services the total annual turnover has not exceeded, in the current calendar year or the previous calendar year, the services threshold;
+
+(e) a person who is an accountable person solely by virtue of making exempt supplies of immovable goods, supplies specified in paragraphs 6 and 7 of Schedule 1 or insurance and reinsurance services.
 
 (2)(a) Supplies of bovine semen—
 
@@ -36,10 +38,12 @@ Persons not accountable persons unless they so elect.
 
 (ii) by a farmer to an accountable person over whom that farmer exercises control, shall be disregarded in calculating the total consideration referred to in subsection (1)(a)(ii).
 
-(b) Where in the case of 2 or more persons one of whom exercises control over one or more of the other persons, supplies of goods of the same class or of services of the same nature are made by 2 or more of those persons, the total of the consideration relating to such supplies shall, for the purposes of the application of paragraphs (c) and (d) of subsection (1) in relation to each of those persons who made such supplies, be treated as if all of the supplies in question had been made by each of the last-mentioned persons.
+(b) Where in the case of 2 or more persons one of whom exercises control over one or more of the other persons, supplies of goods of the same class or of services of the same nature are made by 2 or more of those persons, the total annual turnover relating to such supplies shall, for the purposes of the application of paragraphs (c) and (d) of subsection (1) in relation to each of those persons who made such supplies, be treated as if all of the supplies in question had been made by each of the last-mentioned persons.
 
 (c) Where a farmer supplies services or goods of the kind specified in subsection (1)(a)(i), (ii) or (iii), then paragraph (b) shall be deemed to apply to such supplies, notwithstanding that that paragraph does not otherwise apply to supplies by a farmer.
 
 (d) Subsection (1) shall not apply to a supply of the kind referred to in section 12(3) or (5) or 17(1).
 
-(3) Subsection (1)(b) to (d) shall not apply to a person who is not established in the State.
+(3)(a) Subsection (1)(b) shall not apply to a person who is not established in the State.
+
+(b) Subject to section 92D(1), paragraphs (c)and (d) of subsection (1) shall not apply to a person who is not established in the State.

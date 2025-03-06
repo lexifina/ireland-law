@@ -49,3 +49,11 @@ Section 102(3)
 Paragraph 5(1A) of Schedule 2
 
 Paragraph 6(1)(c) of Schedule 2
+
+PART 3
+
+Section 92B
+
+Section 92C
+
+Section 92D
