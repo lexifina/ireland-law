@@ -10,6 +10,8 @@ Meaning of ‘cross-border payment’.
 
 (a) the IBAN of the payer’s payment account or any other identifier which unambiguously identifies, and gives the location of, the payer, or
 
+OJ No. L. 337, 23.12.2015, p.35.
+
 (b) in the absence of an identifier referred to in paragraph (a), the BIC or any other business identifier code that unambiguously identifies, and gives the location of, the payment service provider acting on behalf of the payer.
 
 (3) For the purposes of subsection (1)(b), the location of a payee shall be considered to be in the Member State corresponding to—

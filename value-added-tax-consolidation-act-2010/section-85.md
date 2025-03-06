@@ -36,8 +36,6 @@ Supplementary provisions on records.
 
 “Payment Services Directive”means Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC;
 
-OJ No. L. 337, 23.12.2015, p.35.
-
 “payment service provider” means any of the categories of payment service providers listed in points (a) to (d) of Article 1(1) of the Payment Services Directive or a natural or legal person benefiting from an exemption in accordance with Article 32 of that Directive;
 
 “payment service” means any of the business activities set out in points (3) to (6) of Annex I to the Payment Services Directive;
