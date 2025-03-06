@@ -14,9 +14,9 @@ Joint and several liability for tax.
 
 (b) in respect of a taxable period, some or all of the tax due and payable in relation to the supply or intra-Community acquisition has not been remitted to the Collector-General by the first accountable person, the second accountable person is jointly and severally liable with the first accountable person for the tax due and payable on that supply or intra- Community acquisition in accordance with subsection (3) and shall be liable to pay that tax as if it were tax due and payable by the second accountable person in accordance with Chapter 3 of Part 9.
 
-(3) The amount of tax for which the second accountable person is held, as referred to in subsection (2), jointly and severally liable shall, for each taxable supply of goods or services or intra-Community acquisition, be calculated in accordance with the following formula— A - B where—
+(3) The amount of tax for which the second accountable person is held, as referred to in subsection (2), jointly and severally liable shall, for each taxable supply of goods or services or intra-Community acquisition, be calculated in accordance with the following formula—
 
-A is the tax payable by the first accountable person on that taxable supply of goods or services, or intra-Community acquisition under section 3(a), (c), (d) or (e), and
+A - B where— A is the tax payable by the first accountable person on that taxable supply of goods or services, or intra-Community acquisition under section 3(a), (c), (d) or (e), and
 
 B is the amount of tax, if any, which may be deductible in accordance with section
 
