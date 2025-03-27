@@ -38,6 +38,18 @@ Regulations.
 
 (iv) the surrender and production of any registration certificate so issued.
 
+(1B) Without prejudice to the generality of subsection (1A), the particulars that the Minister may prescribe under that subsection may include—
+
+(a) in the case that the person making the application holds an Irish driving licence or a learner permit, the driver number,
+
+(b) in the case that the person holds a foreign driving licence, the driver number, licence number, permit number or unique identifier of the person to whom the licence is issued and the country of issue of the licence, or
+
+(c) in the case that the person does not hold a driving licence, a learner permit or a foreign driving licence, the person’s personal public service number.
+
+(1C) Where particulars referred to in subsection (1B)(c) are furnished to the Minister, they may, subject to subsection (1D), be used only for the purposes of the performance of functions under the Road Traffic Acts 1961 to 2023 and this Act in relation to the collection of duty owing on vehicle licences, the maintenance of licence records, the endorsement of penalty points and the disqualification of persons for holding a learner permit or driving licence.
+
+(1D) The Minister may prescribe additional functions under the Road Traffic Acts 1961 to 2023 and this Act in relation to which the particulars specified in subsection (1B)(c) may be used where the Minister is satisfied that such use is necessary in order to enable the Minister to properly carry out those functions.
+
 (2) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within 21 days of the day on which that House has sat after the regulation is laid before it, the regulations shall be annulled accordingly, but without prejudice to the validity of anything previously done under them.
 
 (3) County councils shall comply with any regulations so made ... under this Act.
