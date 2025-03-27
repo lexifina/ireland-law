@@ -89,3 +89,9 @@ Regulations for general control of traffic and pedestrians.
 (7) Where regulations under this section provide for permits to be issued as provided for under subsection (2)(t), the regulations may specify the manner of displaying on the vehicle concerned, or any trailer or container attached to it, the permit or an abstract of it or an indication of its issue.
 
 (8) ...
+
+(8) A person who, in purported compliance with regulations providing for the matters in paragraph (m), (s) or (t) of subsection (2), supplies information that is false or misleading in a material respect knowing it to be so false or misleading or being reckless as to whether it is so false or misleading, commits an offence.
+
+(9) A person who commits an offence under subsection (8) shall be liable on summary conviction to a class C fine or imprisonment for a term not exceeding six months, or both such fine and imprisonment.
+
+(10) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under subsection (8) may be instituted within 2 years from the date on which the offence was committed.
