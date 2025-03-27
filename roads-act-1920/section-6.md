@@ -8,8 +8,4 @@ Registration and identification marks.
 
 (a) the licensing authority shall issue a temporary licence which shall be valid for a period of one month;
 
-(b) the licensing authority shall not issue any further licence required by this Act, unless the vehicle owner produces to the authority, within the period of one month referred to in
-
-## sub-paragraph
-
-(a), a current certificate of roadworthiness for the vehicle issued in accordance with the provisions of the European Communities (Vehicle Testing) Regulations, 1991.
+(b) the licensing authority shall not issue any further licence required by this Act, unless the vehicle owner produces to the authority, within the period of one month referred to in sub-paragraph (a), a current certificate of roadworthiness for the vehicle issued in accordance with the provisions of the European Communities (Vehicle Testing) Regulations, 1991.

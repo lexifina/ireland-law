@@ -6,6 +6,4 @@ Local licensing fees to cease to be chargeable.
 
 (3) Where, upon application for a licence to ply for hire with an omnibus, the licensing authority either refuses to grant a licence or grants a licence subject to conditions, in either case the applicant shall have a right of appeal to the Minister of Transport from the decision of the licensing authority, and the Minister shall have power to make such order thereon as he thinks fit, and such order shall be binding upon the licensing authority.
 
-An order made by the Minister under this subsection shall be final and not subject to appeal to any court, and shall, on the application of the Minister, be enforceable by writ of mandamus.
-
-For the purpose of this subsection, the expression “omnibus” includes every omnibus, char-a-banc, waggonette, brake, stage coach, or other carriage plying for hire or used to carry passengers at separate fares.
+An order made by the Minister under this subsection shall be final and not subject to appeal to any court, and shall, on the application of the Minister, be enforceable by writ of mandamus. For the purpose of this subsection, the expression “omnibus” includes every omnibus, char-a-banc, waggonette, brake, stage coach, or other carriage plying for hire or used to carry passengers at separate fares.
