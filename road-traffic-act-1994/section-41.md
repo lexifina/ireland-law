@@ -8,9 +8,11 @@ Detention of vehicles.
 
 (ii) has had a driving licence or learner permit seized from him or her under section 60 of the Road Traffic Act 2010, ...
 
-(iii) is, in the opinion of a member of the Garda Síochána, disqualified for holding a driving licence or learner permit, or
+(iii) is, in the opinion of a member of the Garda Síochána, disqualified for holding a driving licence or learner permit,
 
-(iv) is, in the opinion of a member of the Garda Síochána, the holder of a learner permit and is, in the opinion of that member, not driving in accordance with clause (iv) of Regulation 17(6)(b) of the Road Traffic (Licensing of Drivers) Regulations 2006 (S.I. No. 537 of 2006).
+(iv) is, in the opinion of a member of the Garda Síochána, the holder of a learner permit and is, in the opinion of that member, not driving in accordance with clause (iv) of Regulation 17(6)(b) of the Road Traffic (Licensing of Drivers) Regulations 2006 (S.I. No. 537 of 2006, or
+
+(v) is, in the opinion of a member of the Garda Síochána, not the holder of a driving licence or learner permit.
 
 (b) the vehicle is, or a member of the Garda Síochána reasonably believes it to be in the State and the member is of the opinion that the vehicle is, being so used in contravention of section 56(1) of the Principal Act,
 
@@ -18,9 +20,9 @@ Detention of vehicles.
 
 (d) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of section 18(1) of the Principal Act,
 
-(e) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of Regulation 19(1) of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004) or section 6 (1) of the Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012, ...
+(e) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of section 6(1) of the Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012, or
 
-(f) in the case of a vehicle registered in another Member State, the vehicle is, or a member of the Garda Síochána is of the opinion that it is, being so used without a proof of passing a roadworthiness test in accordance with Council Directive 96/96/EC of 20 December 1996 which is for the time being in force in respect of the vehicle, or
+(f) in the case of a vehicle registered in another Member State, the vehicle is, or a member of the Garda Síochána is of the opinion that it is, being so used without a proof of passing a roadworthiness test in accordance with Directive 2014/45/EU of 3 April 2014 which is for the time being in force in respect of the vehicle, or
 
 (g) the powered personal transporter is, or a member of the Garda Síochána is of the opinion that the powered personal transporter is, being so used in contravention of—
 
