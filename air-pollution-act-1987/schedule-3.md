@@ -10,13 +10,13 @@ Process
 
 2. The generation of electricity in plants with a nominal heat output exceeding 50 MW, other than hydro and nuclear plants.
 
-3. The raising of steam in plants with a nominal heat output exceeding 50 MW. No.
-
-Process
+3. The raising of steam in plants with a nominal heat output exceeding 50 MW.
 
 4. The roasting and sintering of metal ores in plants with a capacity of more than 1,000 tonnes per year.
 
-5. The production of pig iron and crude steel in integrated plants.
+5. The production of pig iron and crude steel in integrated plants. No.
+
+Process
 
 6. The production of ferrous metals in foundries having melting installations with a capacity greater than 5 tonnes.
 
