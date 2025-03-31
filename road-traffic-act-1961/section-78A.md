@@ -14,7 +14,17 @@ Vehicle insurers to provide details of motor insurance policies.
 
 (e) the registration number or, in the event that the registration number is not available, the Vehicle Identification Number (VIN) or any other unique identifying number given by the manufacturer, if available;
 
-(f) ...
+(f) in respect of each person named in particular 6 of the certificate of insurance—
+
+(i) the country of issue of the licence or permit, and
+
+(ii) in the case the person concerned holds—
+
+(I) an Irish driving licence, the number given at item 4d and described as "Uimhir tiomána" or "Driver number" on the licence,
+
+(II) a learner permit, the number given at item 4d and described as "Uimhir tiomána2 or "Driver number" on the licence, or
+
+(III) a foreign driving licence, the driver number, licence number or unique identifier of any person to whom the licence is issued.
 
 (3) Where a vehicle insurer or intermediary with specific sanction from a vehicle insurer to conclude insurance contracts on its behalf becomes aware of any error in or change to information provided to the insurer under section 56A(1), the insurer or intermediary, as the case may be, shall, within 5 working days of being made aware of the change or error, notify MIBI of such change or error.
 
