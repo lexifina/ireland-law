@@ -1,8 +1,8 @@
 Persons regarded as genuinely seeking employment.
 
-16. (1) Subject to sub-article (1A), for the purposes of Chapters 12 , 12A and 12B of Part 2 and Chapter 2 of Part 3, a person shall be regarded as genuinely seeking employment if he or she can show, to the satisfaction of the Minister, that he or she has, in the relevant period, taken reasonable steps which offer him or her the best prospects of obtaining employment.
+16. (1) Subject to sub-article (1A), for the purposes of Chapters 12 , 12A , 12AA and 12B of Part 2 and Chapter 2 of Part 3, a person shall be regarded as genuinely seeking employment if he or she can show, to the satisfaction of the Minister, that he or she has, in the relevant period, taken reasonable steps which offer him or her the best prospects of obtaining employment.
 
-(1A) This article shall not apply to a person who, but for sections 62(7) and 68C(2) would otherwise qualify for jobseeker’s benefit or jobseeker’s benefit (self-employed), where that person is a person who has attained the age of 65 years.
+(1A) This article shall not apply to a person who, but for sections 62(7) and 68C(2) would otherwise qualify for jobseeker’s benefit or jobseeker’s benefit (self-employed), where that person is a person who has attained years and has not yet attained the age of 66 years.
 
 (2) For the purpose of sub-article (1) “steps” shall include—
 
@@ -52,4 +52,4 @@ Persons regarded as genuinely seeking employment.
 
 (2) Where the circumstances specified in paragraph (b) of sub-article (4A) apply, a person shall not be required to seek employment where he or she has a reasonable expectation of returning to their previous employment.
 
-(5) For the purposes of this article, “relevant period” means the period in respect of which the person concerned has made a declaration in accordance with articles 52 , 52G and 118, or as the case may be, the period in which Covid-19 pandemic unemployment payment is claimed in accordance with section 68L of the Act.
+(5) For the purposes of this article, “relevant period” means the period in respect of which the person concerned has made a declaration in accordance with articles 52 , 52G, 52HG and 118, or as the case may be, the period in which Covid- 19 pandemic unemployment payment is claimed in accordance with section 68L of the Act.

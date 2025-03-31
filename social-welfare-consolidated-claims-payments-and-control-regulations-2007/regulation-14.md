@@ -1,6 +1,6 @@
 Persons regarded as receiving full-time education.
 
-14. (1) Subject to sub-articles (2), (3) (4) and (5), for the purposes of sections 2(3) and 178B(3), and for the purposes of Chapters 12 and 12A of Part 2, a person shall be regarded as receiving full-time education while he or she is attending on a full-time basis a course of full-time instruction by day at an institution of education.
+14. (1) Subject to sub-articles (2), (3) (4) and (5), for the purposes of sections 2(3) and 178B(3), and for the purposes of Chapters 12, 12A and 12AA of Part 2, a person shall be regarded as receiving full-time education while he or she is attending on a full-time basis a course of full-time instruction by day at an institution of education.
 
 (2) For the purposes of sub-article (1), a course of full-time instruction at an institution of education shall not be regarded as including a course of training or instruction—
 
@@ -30,7 +30,7 @@ Persons regarded as receiving full-time education.
 
 (8) For the purposes of sub-article (7) “cycle of second level education” means a cycle of education approved by the Minister for Education and Science for the Leaving Certificate Examination of the State Examinations Commission.
 
-(9) This article shall not apply to a person who, but for sections 68A or 68K(2) would otherwise qualify for jobseeker’s benefit or jobseeker’s benefit (self-employed) from the date that person attains the age of 65 years where that person is a person—
+(9) This article shall not apply to a person who, but for sections 68A or 68K(2) would otherwise qualify for jobseeker’s benefit or jobseeker’s benefit (self-employed) where the person has attained the age of 65 years and has not yet attained the age of 66 years and where that person is a person—
 
 (a) who, prior to that that date had commenced in full-time education or a course of study within the meaning of section 148(2), or
 
