@@ -32,9 +32,7 @@ Protection of disclosures of information.
 
 (g) a body established under the Health (Corporate Bodies) Act 1961; or
 
-(h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g);
-
-‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
+(h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g); ‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
 
 ‘Health Information and Quality Authority’ means the body established in accordance with section 6 of the Health Act 2007;
 
@@ -176,7 +174,9 @@ Protection of disclosures of information.
 
 (5) The person in charge of the body to whom the disclosure relates may, with the consent of the authorised person, appoint another person to investigate the subject matter.
 
-(6) If, at any time during an investigation, the authorised person believes the disclosure is false, misleading, frivolous or vexatious, he or she may cease the investigation. 55K.— (1) An employee of a relevant body may make a protected disclosure only in accordance with—
+(6) If, at any time during an investigation, the authorised person believes the disclosure is false, misleading, frivolous or vexatious, he or she may cease the investigation.
+
+55K.— (1) An employee of a relevant body may make a protected disclosure only in accordance with—
 
 (a) sections 55E, 55F or 55G, or
 

@@ -6,9 +6,11 @@ PART 1
 
 ACTS REPEALED
 
-Number and Short Title Extent of Repeal Year (1) (2) (3)
+Number and Year Short Title Extent of Repeal
 
-No. 21 of 1961 Hospitals Federation and The whole Act. Amalgamation Act 1961
+(1) (2) (3)
+
+No. 21 of 1961 Hospitals Federation and Amalgamation The whole Act. Act 1961
 
 No. 23 of 1990 Health (Nursing Homes) Act 1990 Sections 3, 4, 5, 6 and 9.
 
@@ -18,8 +20,10 @@ PART 2
 
 ORDERS REVOKED
 
-Number and Short Title Extent of Revocation Year (1) (2) (3)
+Number and Year Short Title Extent of Revocation
 
-No. 160 of 2002 Irish Health Services Accreditation The whole order. Board (Establishment) Order 2002
+(1) (2) (3)
 
-No. 132 of 2005 Interim Health Information and The whole order. Quality Authority (Establishment) Order 2005
+No. 160 of 2002 Irish Health Services Accreditation Board The whole order. (Establishment) Order 2002
+
+No. 132 of 2005 Interim Health Information and Quality The whole order. Authority (Establishment) Order 2005
