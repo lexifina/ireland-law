@@ -190,7 +190,21 @@ Section 6 does not include a reference to—
 
 (III) an asset securing a loan, held or managed by Home Building Finance Ireland or any HBFI group entity,
 
-(an) the Office of the Protected Disclosures Commissioner, in the performance of the functions conferred on it by or under the Protected Disclosures Act 2014, other than insofar as it relates to records concerning the general administration of those functions.
+(an) the Gambling Regulatory Authority of Ireland, a member, a member of staff or an authorised officer, of that Authority, the Appeals Panel, an Appeals Board, an appeals officer and an adjudication officer (all within the meaning of the Gambling Regulation Act 2024), in relation to the performance of their respective functions under that Act, save as regards records concerning their respective functions relating to general administration.
+
+(an) the Office of the Protected Disclosures Commissioner, in the performance of the functions conferred on it by or under the Protected Disclosures Act 2014, other than insofar as it relates to records concerning the general administration of those functions;
+
+(ao) the Personal Injuries Resolution Board, insofar as it relates to records concerning mediation carried out by the Personal Injuries Resolution Board under Chapter 1A of Part 2 of the Personal Injuries Assessment Board Act 2003;
+
+(ap) An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir, in the performance of its functions under the Automatic Enrolment Retirement Savings System Act 2024, in so far as it relates to records—
+
+(i) containing confidential personal information relating to the financial or business affairs of any individual or company,
+
+(ii) relating to or received for the purposes of performing, or in the discharging of, any of its statutory functions (other than when that information is contained in records in summary or aggregate form, such that persons cannot be identified from the record),
+
+(iii) concerning companies, firms, funds or any other entities with or in which it has invested or could potentially make an investment, or
+
+(iv) concerning the terms and conditions on which a person holds a position as a member of staff of An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir, other than when that information is contained in records in summary or collective form such that individuals cannot be identified from the record.
 
 Part 2
 
@@ -232,7 +246,9 @@ Electricity Supply Board
 
 Food Safety Promotion Board (Safefood)
 
-Galway Harbour Company Irish Aviation Authority
+Galway Harbour Company
+
+Irish Aviation Authority
 
 Irish Bank Resolution Corporation Limited (in Special Liquidation)
 
