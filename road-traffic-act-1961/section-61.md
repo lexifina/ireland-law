@@ -1,4 +1,4 @@
-F197[Deposits by exempted persons.
+F196[Deposits by exempted persons.
 
 61.—(1) The Minister may from time to time require the deposit with the Accountant of the Courts of Justice by a person desiring to become an exempted person of such sum as the Minister shall specify in such requirement.
 
