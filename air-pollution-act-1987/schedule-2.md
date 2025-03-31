@@ -10,9 +10,7 @@ Session and Chapter, Number Short Title Extent of Repeal and Year (1) (2) (3)
 
 6 Edw. 7. c. 14 Alkali, etc. Works Regulation The whole Act. Act. 1906.
 
-No. 26 of 1962 Local Government (Sanitary Section 10. Services) Act, 1962. Session and Chapter, Number Short Title Extent of Repeal and Year (1) (2) (3)
-
-No. 28 of 1963 Local Government (Planning Section 56 (1) (c) (iva) (inserted by the and Development) Act, Local Government (Planning and 1963. Development) Act, 1976), and section 61 (1) (as amended by the Local Government (Planning and Development) Act, 1976), to the extent that those provisions relate to air pollution.
+No. 26 of 1962 Local Government (Sanitary Section 10. Services) Act, 1962. No. 28 of 1963 Local Government (Planning Section 56 (1) (c) (iva) (inserted by the and Development) Act, Local Government (Planning and 1963. Development) Act, 1976), and section 61 (1) (as amended by the Local Government (Planning and Development) Act, 1976), to the extent that those provisions relate to air pollution.
 
 PART II
 
