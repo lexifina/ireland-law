@@ -14,6 +14,8 @@ Information to be supplied by claimants and beneficiaries for profiling and acti
 
 (ba) jobseeker’s benefit (self-employed),
 
+(bb) jobseeker’s pay-related benefit,
+
 (c) invalidity pension,
 
 (d) jobseeker’s allowance,

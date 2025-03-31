@@ -23,3 +23,5 @@ Qualifying conditions — jobseeker’s benefit.
 (2) In the case of a claimant whose reckonable weekly earnings or reckonable weekly income, as the case may be, if any, are less than €32.00, as calculated in accordance with sub-article (1)(b), he or she shall be deemed to have reckonable weekly earnings or reckonable weekly income of €32.00.
 
 (3) In the case of a claimant whose claim, by virtue of having been entitled to or in receipt of jobseeker’s benefit or illness benefit in respect of any day in the 13 week period preceding 4 January 1993, forms part of a period of interruption of employment which commenced prior to that date, the provisions of this article shall not have the effect of reducing the rate of jobseeker’s benefit payable below that to which he or she was previously entitled.
+
+(4) In the case of a claimant who, immediately before claiming jobseeker’s benefit, was in receipt of jobseeker’s pay-related benefit, reckonable weekly earnings means the reckonable weekly earnings that were used to calculate the rate of jobseeker’s pay-related benefit payable to that claimant.

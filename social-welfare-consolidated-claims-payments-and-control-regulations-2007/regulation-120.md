@@ -14,7 +14,7 @@ Persons deemed to be available for employment.
 
 (c) is aged 21 or over, and
 
-(d) has been in receipt of jobseeker’s allowance, jobseeker’s benefit, jobseeker’s benefit (self-employed), or jobseeker’s allowance and jobseeker’s benefit, or jobseeker’s allowance and jobseeker’s benefit (self-employed), for a period of not less than 156 days or 26 weeks.
+(d) has been in receipt of jobseeker’s allowance, jobseeker’s benefit, jobseeker’s benefit (self-employed) or jobseeker’s pay-related benefit, or jobseeker’s allowance and either jobseeker’s benefit, jobseeker’s benefit (self-employed) or jobseeker’s pay-related benefit, for a period of not less than 156 days or 26 weeks.
 
 (3) In the case of a person who is undergoing a course of rehabilitation training provided by an organisation (being an organisation approved of by the Minister for Health and Children for the purposes of the provision of such training) he or she shall be deemed to be available for employment on any day on which he or she is undergoing such training.
 

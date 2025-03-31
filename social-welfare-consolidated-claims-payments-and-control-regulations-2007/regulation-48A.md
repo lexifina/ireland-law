@@ -12,6 +12,8 @@ Contribution conditions — jobseeker’s benefit.
 
 (ii) invalidity pension, or
 
+(iii) jobseeker’s pay-related benefit, or
+
 (d) was, immediately before claiming joseeker’s benefit—
 
 (i) in receipt of carer’s benefit or carer’s allowance,

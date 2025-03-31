@@ -10,7 +10,7 @@ Extinguishment of right to payment.
 
 (3) For the purposes of sub-article (2) “benefit” means—
 
-(a) any benefit specified in section 39(1) (other than jobseeker’s benefit under Chapter 12 of Part 2 and jobseeker’s benefit (self-employed) under Chapter 12A of Part 2),
+(a) any benefit specified in section 39(1) (other than jobseeker’s benefit under Chapter 12 of Part 2, jobseeker’s benefit (self-employed) under Chapter 12A of Part 2 and jobseeker’s pay-related benefit under Chapter 12AA of Part 2),
 
 (b) any assistance specified in section 139(1) (other than jobseeker’s allowance under Chapter 2 and supplementary welfare allowance under Chapter 9 of Part 3),
 
