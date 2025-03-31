@@ -8,7 +8,17 @@ Obligation to supply vehicle insurer or certain intermediaries with certain info
 
 (c) the registration number or, in the event that the registration number is not available, the vehicle identification number (VIN) or any other unique identifying number given by the manufacturer, if available;
 
-(d) ...
+(d) in respect of each person who is to be named in particular 6 of the certificate of insurance—
+
+(i) the country of issue of the licence or permit, and
+
+(ii) in the case the person concerned holds—
+
+(I) an Irish driving licence, the number given at item 4d and described as "Uimhir tiomána" or "Driver number" on the licence,
+
+(II) a learner permit, the number given at item 4d and described as ‘Uimhir tiomána’ or ‘Driver number’ on the permit, or
+
+(III) a foreign driving licence, the driver number, licence number or unique identifier of any person to whom the licence is issued.
 
 (2) Any change or error in respect of the information which has been provided pursuant to subsection (1) shall be notified by the person to whom the approved policy of insurance is issued or to be issued to the vehicle insurer or intermediary referred to in that subsection as soon as is practicable.
 
@@ -24,7 +34,19 @@ Obligation to supply vehicle insurer or certain intermediaries with certain info
 
 (6) A person who contravenes subsection (5) commits an offence and is liable on summary conviction to a class E fine.
 
-(7) ...
+(7) A fleet owner or motor trader, as the case may be, shall, in respect of an approved policy of insurance to which subsection (4) refers, supply to MIBI within 14 days—
+
+(a) of the issuing of an approved policy of insurance, in respect of a person named in particular 6 of the certificate of insurance—
+
+(i) his or her date of birth, and
+
+(ii) the information specified in paragraph (d)(i) or (ii), as the case may be, of subsection (1),
+
+(b) of a person’s name being added to particular 6 of the certificate of insurance—
+
+(i) his or her name and date of birth, and
+
+(ii) such of the information specified in paragraph (d)(i) or (ii) of subsection (1) as is relevant to him or her, and
 
 (c) of a vehicle being in the possession of the fleet owner or motor trader, as the case may be, the registration number or, in the event that the registration number is not available, the Vehicle Identification Number (VIN) or any other unique identifying number given by the manufacturer, if available.
 
