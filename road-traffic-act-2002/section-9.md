@@ -1,3 +1,3 @@
-Disqualification pursuant to European Convention on Driving Disqualifications.
+Disqualification pursuant to European Convention on Driving Disqualifications. (Repealed)
 
 9.—...

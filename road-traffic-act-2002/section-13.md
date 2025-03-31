@@ -1,3 +1,3 @@
-Protection of environment.
+Protection of environment. (Repealed)
 
 13.—...

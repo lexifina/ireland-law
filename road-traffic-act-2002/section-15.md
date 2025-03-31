@@ -1,3 +1,3 @@
-Bye-laws in relation to stands for taxis.
+Bye-laws in relation to stands for taxis. (Repealed)
 
 15.—...
