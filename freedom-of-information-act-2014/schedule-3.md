@@ -46,9 +46,7 @@ No. 19 of 1990 Industrial Relations Act 1990 Section 25(6).
 
 No. 25 of 1990 Pensions Act 1990 Section 24.
 
-No. 25 of 1990 Pensions Act 1990 Section 145 (inserted by the Pensions (Amendment) Act 2002).
-
-No. 2 of 1991 Marine Institute Act 1991 Section 15.
+No. 25 of 1990 Pensions Act 1990 Section 145 (inserted by the Pensions (Amendment) Act 2002). No. 2 of 1991 Marine Institute Act 1991 Section 15.
 
 No. 9 of 1991 Radiological Protection Act 1991 Section 36(1) (d).
 
@@ -58,7 +56,9 @@ No. 14 of 1993 Roads Act 1993 Section 38.
 
 No. 19 of 1993 Industrial Development Act 1993 Paragraph 4 of Second Schedule.
 
-No. 29 of 1993 Irish Aviation Authority Act 1993 Section 35. No. 16 of 1994 Health Insurance Act 1994 Section 34(1).
+No. 29 of 1993 Irish Aviation Authority Act 1993 Section 35.
+
+No. 16 of 1994 Health Insurance Act 1994 Section 34(1).
 
 No. 18 of 1994 Irish Horseracing Industry Act 1994 Section 17.
 
@@ -110,9 +110,7 @@ No. 42 of 2004 Health Act 2004 Section 26.
 
 No. 22 of 2005 Veterinary Practice Act 2005 Section 25.
 
-No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005
-
-No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
+No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005 No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
 
 No. 8 of 2006 Sea-Fisheries and Maritime Section 58. Jurisdiction Act 2006
 
@@ -120,7 +118,9 @@ No. 14 of 2006 Road Safety Authority Act 2006 Section 26.
 
 No. 17 of 2006 Health (Repayment Scheme) Act Section 12(4). 2006
 
-No. 19 of 2006 National Sports Campus Section 17. Development Authority Act 2006 No. 21 of 2006 National Economic and Social Section 23. Development Office Act 2006
+No. 19 of 2006 National Sports Campus Section 17. Development Authority Act 2006
+
+No. 21 of 2006 National Economic and Social Section 23. Development Office Act 2006
 
 No. 23 of 2007 Health Act 2007 Section 84.
 
@@ -148,13 +148,13 @@ No. 105 of 1971 Health Services Regulations 1971. Article 5.
 
 No. 187 of 1971 St. James’s Hospital Board (Establishment) Article 29. Order 1971.
 
-No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983.
-
-No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
+No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983. No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
 
 No. 279 of 1986 The Health Research Board Article 23. (Establishment) Order 1986.
 
-No. 252 of 1994 The European Communities (Medical Articles 24(A) and Devices) Regulations 1994. 26(1) (c). No. 253 of 1994 The European Communities (Active Article 20(1) (c). Implantable Medical Devices) Regulations 1994.
+No. 252 of 1994 The European Communities (Medical Articles 24(A) and Devices) Regulations 1994. 26(1) (c).
+
+No. 253 of 1994 The European Communities (Active Article 20(1) (c). Implantable Medical Devices) Regulations 1994.
 
 No. 376 of 1999 The National Council for the Professional Article 25. Development of Nursing and Midwifery (Establishment) Order 1999.
 
