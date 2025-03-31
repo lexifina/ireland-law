@@ -1,4 +1,4 @@
-F220[Insurance of certain vehicles entering the State.
+F219[Insurance of certain vehicles entering the State.
 
 69A.—(1) In this section—
 
@@ -21,8 +21,6 @@ F220[Insurance of certain vehicles entering the State.
 (b) based in any of the designated territories, or
 
 (c) having entered the State from the territory of another Member State, when entering the State with the vehicle or having so entered, to produce evidence that the use of the vehicle in the State and in the designated territory is covered by insurance in accordance with the requirements of the laws of the State and of the designated territories relating to compulsory insurance against civil liability in respect of the use of vehicles and if on such demand having been made such evidence is not produced the vehicle shall not be used in the State.
-
-(2) An authorised official may demand of a person having charge of a vehicle, being a vehicle which is not normally based in the State or in any of the designated territories, when entering the State with the vehicle or having so entered, to produce evidence that the use of the vehicle in the State and in the designated territories is covered by insurance in accordance with the requirements of the laws of the State and of the designated territories relating to compulsory insurance against civil liability in respect of the use of vehicles and if on such demand having been made such evidence is not produced the vehicle shall not be used in the State.
 
 (3) Where the use of the vehicle in the State is prohibited under subsection (2) of this section an authorised official may remove and retain the vehicle or he may direct the driver to remove the vehicle to such place and subject to such conditions as may be specified in the direction, and, notwithstanding the provisions of subsection (2) of this section, it shall be lawful to move the vehicle to the extent necessary to comply with such direction.
 
