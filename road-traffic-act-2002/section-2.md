@@ -32,7 +32,9 @@ Endorsement of penalty points.
 
 (7) If an entry in relation to a person cannot be identified or does not exist at a time when, if there were such an entry, penalty points would fall to be endorsed on it pursuant to subsection (5) or (6) (c), and subsequently such an entry is identified or made, thereupon, the points shall be so endorsed.
 
-(8) Where, upon conviction of a person of a penalty point offence, an ancillary disqualification order is made in respect of the person, penalty points in respect of the offence shall not be endorsed on the entry of the person.
+(8) Subject to subsection (8A), where, upon conviction of a person of a penalty point offence, an ancillary disqualification order is made in respect of the person, penalty points in respect of the offence shall not be endorsed on the entry of the person.
+
+(8A) Penalty points in respect of a penalty point offence shall be endorsed on the entry of a person where, upon conviction of the person of the penalty point offence, an ancillary disqualification order is made in respect of the person for a period of 6 months or less.
 
 (9) The particulars stated in column (3) of the First Schedule are inserted solely to facilitate reference to and identification of the provisions specified in column (2) of that Schedule and, accordingly, nothing contained in the said column (3) shall affect the construction or limit or control the operation of this section or that Schedule.
 
