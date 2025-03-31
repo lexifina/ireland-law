@@ -1,3 +1,3 @@
-F3[ Records — foreign driving licence holders and unlicensed drivers.
+F3[Records — foreign driving licence holders and unlicensed drivers.
 
 1A.— ...
