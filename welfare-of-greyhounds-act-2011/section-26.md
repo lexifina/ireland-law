@@ -12,7 +12,7 @@ Penalties and proceedings, etc.
 
 (c) the local authority in whose functional area the offence is alleged to have been committed, or
 
-(d) a member of the Garda Síochána in accordance with section 8 of the Garda Síochána Act 2005.
+(d) a member of the Garda Síochána in accordance with section 10 of the Policing, Security and Community Safety Act 2024.
 
 (4) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for an offence referred to in subsection (1) may be instituted within 12 months of the commission of the offence.
 

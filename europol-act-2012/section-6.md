@@ -10,4 +10,4 @@ Liaison officers.
 
 (3) Without prejudice to the functions of the national unit under section 5, a liaison officer shall provide liaison between Europol and the national unit in the transmission of information, and otherwise cooperate with Europol and Europol staff.
 
-(4) A liaison officer who is not a member of the Garda Síochána has the same immunities and privileges as if he or she were a person appointed to the rank of garda under section 14 of the Garda Síochána Act 2005.
+(4) A liaison officer who is not a member of the Garda Síochána has the same immunities and privileges as if he or she were a person appointed to the rank of garda under section 50 of the Policing, Security and Community Safety Act 2024.

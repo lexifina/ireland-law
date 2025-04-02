@@ -1,6 +1,6 @@
 Nomination of family members
 
-3. Where the death of a victim is caused directly by an offence and more than one family member of the victim seeks to avail himself or herself of a right under this Act in respect of the offence, the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be, may—
+3. Where the death of a victim is caused directly by an offence and more than one family member of the victim seeks to avail himself or herself of a right under this Act in respect of the offence, the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be, may—
 
 (a) request that the family members concerned nominate a family member to avail himself or herself of the right, or
 

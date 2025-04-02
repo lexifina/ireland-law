@@ -8,11 +8,13 @@ Interpretation
 
 “Act of 2001” means the Children Act 2001;
 
-“Act of 2005” means the Garda Síochána Act 2005;
+...
 
 “Act of 2006” means the Criminal Law (Insanity) Act 2006;
 
 “Act of 2010” means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+"Act of 2024" means the Policing, Security and Community Safety Act 2024;
 
 “assessment” has the meaning assigned to it by section 15;
 
@@ -26,7 +28,7 @@ Interpretation
 
 “cohabitant” means a cohabitant within the meaning of section 172(1) of the Act of 2010;
 
-“complaint”, other than in section 7(1)(l), means a statement made by a person orally or in writing, including by electronic means, to a member of the Garda Síochána or an officer of the Ombudsman Commission alleging that the person, or another person, has been the victim of an offence;
+“complaint”, other than in section 7(1)(l), means a statement made by a person orally or in writing, including by electronic means, to a member of the Garda Síochána or an officer of the Police Ombudsman alleging that the person, or another person, has been the victim of an offence;
 
 “designated centre” shall be construed in accordance with section 3 of the Act of 2006;
 
@@ -52,7 +54,7 @@ Interpretation
 
 (i) who is or, where the victim is deceased, was dependent on the victim, or
 
-(ii) who a court, a member of the Garda Síochána, an officer of the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, a director of a children detention school or a clinical director of a designated centre, as the case may be, considers has or, where the victim is deceased, had a sufficiently close connection with the victim as to warrant his or her being treated as a family member;
+(ii) who a court, a member of the Garda Síochána, an officer of the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, a director of a children detention school or a clinical director of a designated centre, as the case may be, considers has or, where the victim is deceased, had a sufficiently close connection with the victim as to warrant his or her being treated as a family member;
 
 “Irish Prison Service” means the prison service of the Department of Justice and Equality, which is charged with the management of prisons within the meaning of section 2 of the Prisons Act 2007;
 
@@ -62,19 +64,21 @@ Interpretation
 
 (b) a person who became such a member of staff pursuant to section 182 of that Act;
 
-“member of the Garda Síochána” has the same meaning as it has in section 3 of the Act of 2005;
+“member of the Garda Síochána” has the same meaning as it has in the Act of 2024;
 
 “Minister” means the Minister for Justice and Equality;
 
-“officer of the Ombudsman Commission” means—
-
-(a) a person who is appointed, or becomes an officer of the Ombudsman Commission, under section 71 of the Act of 2005, and
-
-(b) a person who is engaged by the Ombudsman Commission pursuant to an arrangement under section 74 of that Act;
+...
 
 “officer of the Director of Public Prosecutions” means a person who is appointed to be an officer or servant of the Director of Public Prosecutions under section 2(11) of the Prosecution of Offences Act 1974;
 
-“Ombudsman Commission” means the Garda Síochána Ombudsman Commission established under section 64 of the Act of 2005;
+"officer of the Police Ombudsman" means—
+
+(a) an officer of the Police Ombudsman within the meaning of the Act of 2024, or
+
+(b) a person who is engaged by the Police Ombudsman pursuant to an arrangement under section 181 of that Act;
+
+...
 
 “protection measure” means a measure which is intended to safeguard the safety and welfare of a victim by limiting or preventing contact with, or repeat victimisation, retaliation or intimidation of, the victim by an alleged offender or any other person on his or her behalf and includes:
 

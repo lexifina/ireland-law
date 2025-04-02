@@ -24,11 +24,11 @@ Codes of practice for Parts 2 to 6
 
 (i) the Minister;
 
-(ii) the Policing Authority;
+(ii) An tÚdarás Póilíneachta agus Sábháilteachta Pobail;
 
-(iii) the Garda Síochána Ombudsman Commission;
+(iii) the Police Ombudsman;
 
-(iv) the Garda Síochána Inspectorate;
+(iv) ...
 
 (v) the Data Protection Commission;
 

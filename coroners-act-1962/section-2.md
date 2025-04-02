@@ -4,19 +4,19 @@ Definitions.
 
 "Act of 2004" means the Civil Registration Act 2004;
 
+"Act of 2024" means the Policing, Security and Community Safety Act 2024;
+
 "body", in relation to a deceased person, means the body or a part of the body of the person and includes the cremated remains of the person;
 
 "child in care" means a child who was in the care of the Child and Family Agency under section 4 or Part III, IV or IVA of the Child Care Act 1991;
 
 “coroner”, except in sections 6, 6A, 7, 8, 11, 11A and 16, includes a person appointed under subsection (2) of section 5 of the Local Authorities (Officers and Employees) Act, 1926, as applied by section 8 of this Act, to fill the office of coroner temporarily;
 
+"designated officer of the Police Ombudsman" means a designated officer within the meaning of the Act of 2024;
+
 “deputy coroner” has the meaning given to it by section 13 of this Act;
 
-"designated officer of the Ombudsman Commission" means—
-
-(a) an officer of the Ombudsman Commission, or
-
-(b) a person engaged by the Ombudsman Commission under section 74 of the Garda Síochána Act 2005, who is designated by the Ombudsman Commission under section 73 of that Act for the purpose of performing functions under Part 4 of that Act relating to a relevant Ombudsman Commission investigation;
+...
 
 "direct maternal death" means the death of a woman resulting from obstetric complications of the pregnant state whether arising during pregnancy, labour or puerperium and whether from obstetric interventions, omissions, or incorrect treatment or from a chain of events resulting from any of them;
 
@@ -60,7 +60,7 @@ Definitions.
 
 “the Minister” means the Minister for Justice;
 
-"Ombudsman Commission" means the Garda Síochána Ombudsman Commission;
+...
 
 "post-mortem examination" includes an examination of marks or injuries on a body, a full three cavity examination, and any ancillary examination by way of analysis, test or otherwise of the body or of material (whether of tissue, organs, biological fluids or other parts or contents of the body or of any other substance or thing relevant to such examination) carried out by an appropriately qualified registered medical practitioner or under his or her direction;
 
@@ -72,9 +72,13 @@ Definitions.
 
 "registered medical practitioner" means a person who is a registered medical practitioner within the meaning of section 2 of the Medical Practitioners Act 2007;
 
-"relevant Ombudsman Commission investigation" means an investigation of a complaint or matter by the Ombudsman Commission under Part 4 of the Garda Síochána Act 2005 concerning the death of the person in relation to whose death a coroner is performing functions under this Act;
+...
+
+"relevant Police Ombudsman investigation" means an investigation of a complaint or matter by the Police Ombudsman under Part 6 of the Act of 2024 concerning the death of the person in relation to whose death a coroner is performing functions under this Act;
 
 "reportable death" shall be construed in accordance with section 16A;
+
+"senior designated officer of the Police Ombudsman" means a senior designated officer within the meaning of the Act of 2024;
 
 "service custody" means the holding under arrest or in confinement of a person by the Defence Forces under the Defence Acts 1954 to 2015 and any Act that is to be construed as one with those Acts, including confinement in a military prison, or a detention barrack, within the meaning of those Acts;
 

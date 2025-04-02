@@ -2,7 +2,7 @@ Functions of Bureau in relation to database, etc.
 
 7.— (1) The Bureau shall operate and maintain the database in accordance with this Act.
 
-(2) Without prejudice to the generality of section 7 of the Garda Síochána Act 2005, the Bureau shall, in accordance with this Act, provide vetting services to relevant organisations in respect of relevant work or activities and, without prejudice to the generality of the foregoing, the Bureau shall perform the following functions in relation to the provision of vetting services, namely:
+(2) Without prejudice to the generality of section 9 of the Policing, Security and Community Safety Act 2024, the Bureau shall, in accordance with this Act, provide vetting services to relevant organisations in respect of relevant work or activities and, without prejudice to the generality of the foregoing, the Bureau shall perform the following functions in relation to the provision of vetting services, namely:
 
 (a) the consideration and processing of applications for vetting disclosure received by it from relevant organisations registered in the register of relevant organisations;
 

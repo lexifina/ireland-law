@@ -30,7 +30,7 @@ Authorisation.
 
 (e) the date of expiry of the authorisation.
 
-(7) An authorisation may authorise the superior officer named in it, or any member of the Garda Síochána, any designated officer of the Ombudsman Commission, any member of the Defence Forces, any authorised officer of the Competition and Consumer Protection Commission or any officer of the Revenue Commissioners designated by that superior officer, accompanied by any other person whom he or she considers necessary, to enter, if necessary by the use of reasonable force, any place for the purposes of initiating or carrying out the authorised surveillance, and withdrawing the authorised surveillance device, without the consent of a person who owns or is in charge of the place.
+(7) An authorisation may authorise the superior officer named in it, or any member of the Garda Síochána, any designated officer of the Police Ombudsman, any member of the Defence Forces, any authorised officer of the Competition and Consumer Protection Commission or any officer of the Revenue Commissioners designated by that superior officer, accompanied by any other person whom he or she considers necessary, to enter, if necessary by the use of reasonable force, any place for the purposes of initiating or carrying out the authorised surveillance, and withdrawing the authorised surveillance device, without the consent of a person who owns or is in charge of the place.
 
 (8) An authorisation shall expire on the day fixed by the judge that he or she considers reasonable in the circumstances and that is not later than 3 months from the day on which it is issued.
 

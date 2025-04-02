@@ -62,6 +62,30 @@ Restriction of Act
 
 (v) the Independent Reporting Commission established by the Agreement (within the meaning of the Independent Reporting Commission Act 2017),
 
+(d) a record relating to—
+
+(i) an inquiry within the meaning of section 42 of the Garda Síochána Act 2005 prior to the repeal of that section by section 5 of the Policing, Security and Community Safety Act 2024, whether the record concerned is held by—
+
+(I) persons conducting the inquiry, or
+
+(II) on the dissolution of the inquiry, any other body having custody of such a record, other than—
+
+(A) a record relating to the appointment of a person to conduct an inquiry under section 42 of the Garda Síochána Act 2005, or
+
+(B) a record relating to the expenses or other matters concerning the general administration of an inquiry under that section,
+
+(da) a record relating to an inquiry within the meaning of Chapter 8 of Part 2 of the Policing, Security and Community Safety Act 2024, whether the record concerned is held by—
+
+(i) an appointed person (within the meaning of that Chapter), or
+
+(ii) on the dissolution of the inquiry, any other body having custody of such a record, other than—
+
+(I) a record relating to the appointment of an appointed person (within the meaning of that Chapter), or
+
+(II) a record relating to the expenses or other matters concerning the general administration of an inquiry under that Chapter,
+
+(db) a record held or created by the Independent Examiner of Security Legislation,
+
 (e) a record relating to—
 
 (i) an inquiry into any matter by a tribunal to which the Tribunals of Inquiry (Evidence) Act 1921, is applied, whether the record concerned—

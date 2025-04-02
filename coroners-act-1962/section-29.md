@@ -14,7 +14,7 @@ Preservation of certain documents.
 
 (d) the Defence Forces,
 
-(e) the Garda Síochána Ombudsman Commission, or
+(e) the Police Ombudsman, or
 
 (f) an applicant within the meaning of section 60, shall charge for the copy such fee as may be prescribed.
 
@@ -28,7 +28,7 @@ Preservation of certain documents.
 
 (d) the Defence Forces,
 
-(e) the Garda Síochána Ombudsman Commission, or
+(e) the Police Ombudsman, or
 
 (f) an applicant within the meaning of section 60, shall charge for the copy such fee as may be prescribed.
 

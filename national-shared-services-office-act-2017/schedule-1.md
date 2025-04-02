@@ -16,7 +16,7 @@ Section 3
 
 6. An Garda Síochána.
 
-7. The Garda Síochána Ombudsman Commission.
+7. Fiosrú - Oifig an Ombudsman Póilíneachta.
 
 8. The Health Information and Quality Authority.
 

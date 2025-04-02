@@ -26,7 +26,7 @@ Confidentiality of information.
 
 “authorised person” means—
 
-(a) a person referred to in section 62(4)(a) of the Garda Síochána Act 2005,
+(a) a person referred to in section 80 (4)(a) of the Act of 2024,
 
 (b) the Minister for Defence,
 
@@ -36,22 +36,22 @@ Confidentiality of information.
 
 (d) a person the disclosure to whom is—
 
-(i) authorised by the Commissioner of the Garda Síochána, the chairperson of the Ombudsman Commission, the Chief of Staff of the Defence Forces, a Revenue Commissioner or the chairperson of the Competition and Consumer Protection Commission, or
+(i) authorised by the Commissioner of the Garda Síochána, the Police Ombudsman, the Chief of Staff of the Defence Forces, a Revenue Commissioner or the chairperson of the Competition and Consumer Protection Commission, or
 
 (ii) otherwise authorised by law;
 
 “relevant person” means a person who is or was—
 
-(a) a member of the Garda Síochána, a designated officer of the Ombudsman Commission, a member of the Defence Forces or an officer of the Revenue Commissioners,
+(a) a member of the Garda Síochána, a designated officer of the Police Ombudsman, a member of the Defence Forces or an officer of the Revenue Commissioners,
 
-(b) a reserve member of the Garda Síochána within the meaning of the Garda Síochána Act 2005,
+(b) a member of the Garda Síochána who holds the rank of reserve garda,
 
-(ba) an officer of the Ombudsman Commission other than a designated officer of the Ombudsman Commission,
+(ba) an officer of the Police Ombudsman other than a designated officer of the Police Ombudsman,
 
 (bb) a member of, a member of the staff of, or an authorised officer of the Competition and Consumer Protection Commission,
 
 (c) a member of the Reserve Defence Force within the meaning of the Defence Act 1954,
 
-(d) a member of the civilian staff of the Garda Síochána or of the Defence Forces, or
+(d) a member of garda staff (within the meaning of the Act of 2024) or a member of the civilian staff of the Defence Forces, or
 
-(e) engaged under a contract or other arrangement to work with or for the Garda Síochána, the Ombudsman Commission, the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission.
+(e) engaged under a contract or other arrangement to work with or for the Garda Síochána, the Police Ombudsman, the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission.

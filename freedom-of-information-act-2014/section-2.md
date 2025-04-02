@@ -88,7 +88,7 @@ Interpretation
 
 (n) in relation to the Garda Síochána, the Garda Commissioner,
 
-(o) in relation to the Garda Síochána Ombudsman Commission, its chairperson, and
+(o) in relation to Fiosrú - Oifig an Ombudsman Póilíneachta, the Police Ombudsman, and
 
 (p) in relation to any other FOI body, the person who holds, or performs the functions of, the office of chief executive officer (by whatever name called) of the body;
 

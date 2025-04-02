@@ -30,11 +30,11 @@ Section 2
 
 (l) the Garda Síochána;
 
-(m) the Garda Síochána Inspectorate;
+(m) ...
 
-(n) the Garda Síochána Ombudsman Commission;
+(n) Fiosrú - Oifig an Ombudsman Póilíneachta;
 
-(o) the Policing Authority;
+(o) An tÚdarás Póilíneachta agus Sábháilteachta Pobail;
 
 (p) the Criminal Assets Bureau;
 

@@ -102,9 +102,9 @@ Penalties
 
 (f) the Judge Advocate-General appointed under section 15 of the Defence Act 1954,
 
-(g) a member of the Garda Síochána Ombudsman Commission,
+(g) the Police Ombudsman and the Deputy Police Ombudsman,
 
-(h) a member of the Policing Authority,
+(h) a member of An tÚdarás Póilíneachta agus Sábháilteachta Pobail,,
 
 (i) the chairperson of the Standards in Public Office Commission,
 

@@ -6,6 +6,6 @@ Summary proceedings.
 
 (b) the local authority in whose functional area the offence is alleged to have been committed, or
 
-(c) a member of the Garda Síochána, in accordance with section 8 of the Garda Síochána Act 2005.
+(c) a member of the Garda Síochána, in accordance with section 10 of the Policing, Security and Community Safety Act 2024.
 
 (2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this Act may be instituted within 12 months of the commission of the offence.
