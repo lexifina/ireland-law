@@ -28,9 +28,7 @@ No. 36 of 1980 Irish Film Board Act 1980 Section 18.
 
 No. 24 of 1983 Postal and Telecommunications Section 37. Services Act 1983
 
-No. 9 of 1986 Industrial Development Act 1986 Sections 42 and 43.
-
-No. 31 of 1986 Transport (Re-organisation of Córas Section 22. Iompair Éireann) Act 1986
+No. 9 of 1986 Industrial Development Act 1986 Sections 42 and 43. No. 31 of 1986 Transport (Re-organisation of Córas Section 22. Iompair Éireann) Act 1986
 
 No. 6 of 1987 Air Pollution Act 1987 Section 16(4).
 
@@ -46,7 +44,9 @@ No. 19 of 1990 Industrial Relations Act 1990 Section 25(6).
 
 No. 25 of 1990 Pensions Act 1990 Section 24.
 
-No. 25 of 1990 Pensions Act 1990 Section 145 (inserted by the Pensions (Amendment) Act 2002). No. 2 of 1991 Marine Institute Act 1991 Section 15.
+No. 25 of 1990 Pensions Act 1990 Section 145 (inserted by the Pensions (Amendment) Act 2002).
+
+No. 2 of 1991 Marine Institute Act 1991 Section 15.
 
 No. 9 of 1991 Radiological Protection Act 1991 Section 36(1) (d).
 
@@ -90,9 +90,7 @@ No. 1 of 2001 Aviation Regulation Act 2001 Section 19.
 
 No. 43 of 2001 Ordnance Survey Ireland Act 2001 Section 23.
 
-No. 54 of 2001 Family Support Agency Act 2001 Section 21.
-
-No. 55 of 2001 Transport (Railway Infrastructure) Section 30. Act 2001
+No. 54 of 2001 Family Support Agency Act 2001 Section 21. No. 55 of 2001 Transport (Railway Infrastructure) Section 30. Act 2001
 
 No. 9 of 2002 Housing (Miscellaneous Provisions) Section 13. Act 2002
 
@@ -110,7 +108,9 @@ No. 42 of 2004 Health Act 2004 Section 26.
 
 No. 22 of 2005 Veterinary Practice Act 2005 Section 25.
 
-No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005 No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
+No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005
+
+No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
 
 No. 8 of 2006 Sea-Fisheries and Maritime Section 58. Jurisdiction Act 2006
 
@@ -148,7 +148,9 @@ No. 105 of 1971 Health Services Regulations 1971. Article 5.
 
 No. 187 of 1971 St. James’s Hospital Board (Establishment) Article 29. Order 1971.
 
-No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983. No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
+No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983.
+
+No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
 
 No. 279 of 1986 The Health Research Board Article 23. (Establishment) Order 1986.
 
