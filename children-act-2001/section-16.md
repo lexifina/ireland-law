@@ -80,7 +80,7 @@ Interim
 
 Duty of
 
-23D.—...
+23D.—
 
 Garda Síochána where child needs special care or protection.
 
