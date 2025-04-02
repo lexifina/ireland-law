@@ -324,7 +324,9 @@ Content of the Europol Information System
 
 These data may also be input when they do not yet contain any references to persons. Where Europol inputs the data itself, as well as when it gives its filing reference, it shall also indicate the source of the data.
 
-4. Additional information held by Europol or national units concerning the persons referred to in paragraph 1 may be communicated to any national unit or Europol should either so request. National units shall do so in compliance with their national law. Where the additional information concerns one or more related criminal offences as defined in Article 4(3), the data stored in the Europol Information System shall be marked accordingly to enable national units and Europol to exchange information concerning the related criminal offences.
+4. Additional information held by Europol or national units concerning the persons referred to in paragraph 1 may be communicated to any national unit or Europol should either so request. National units shall do so in compliance with their national law.
+
+Where the additional information concerns one or more related criminal offences as defined in Article 4(3), the data stored in the Europol Information System shall be marked accordingly to enable national units and Europol to exchange information concerning the related criminal offences.
 
 5. If proceedings against the person concerned are definitively dropped or if that person is definitively acquitted, the data relating to the case in respect of which either decision has been taken shall be deleted.
 
@@ -376,7 +378,9 @@ Only analysts shall be authorised to input data into the file concerned and modi
 
 3. At the request of Europol or on their own initiative, national units shall, subject to Article 8(5), communicate to Europol all the information which it may require for the purpose of a particular analysis work file. Member States shall communicate such data only where processing thereof for the purposes of preventing, analysing or combating offences is also authorised by their national law. Depending on their degree of urgency, data from designated competent authorities may be routed directly to the analysis work file in accordance with Article 8(2).
 
-4. If an analysis is of a general nature and of a strategic type, all Member States, through liaison officers and/or experts, shall be fully associated in the findings thereof, in particular through the communication of reports drawn up by Europol. If the analysis bears on specific cases not concerning all Member States and has a direct operational aim, representatives of the following Member States shall participate therein:
+4. If an analysis is of a general nature and of a strategic type, all Member States, through liaison officers and/or experts, shall be fully associated in the findings thereof, in particular through the communication of reports drawn up by Europol.
+
+If the analysis bears on specific cases not concerning all Member States and has a direct operational aim, representatives of the following Member States shall participate therein:
 
 (a) Member States which were the source of the information giving rise to the decision to open the analysis work file, or those which are directly concerned by that information, and Member States subsequently invited by the analysis group to take part in the analysis because they are also becoming concerned;
 
@@ -772,7 +776,9 @@ Joint Supervisory Body
 
 1. An independent Joint Supervisory Body shall be set up to review, in accordance with this Decision, the activities of Europol in order to ensure that the rights of the individual are not violated by the storage, processing and use of the data held by Europol. In addition, the Joint Supervisory Body shall monitor the permissibility of the transmission of data originating from Europol. The Joint Supervisory Body shall be composed of a maximum of two members or representatives, where appropriate assisted by alternates, of each of the independent national supervisory bodies, having the necessary abilities and appointed for five years by each Member State. Each delegation shall be entitled to one vote.
 
-The Joint Supervisory Body shall choose a chairman from among its members. In the performance of their duties, the members of the Joint Supervisory Body shall not receive instructions from any other body.
+The Joint Supervisory Body shall choose a chairman from among its members.
+
+In the performance of their duties, the members of the Joint Supervisory Body shall not receive instructions from any other body.
 
 2. Europol shall assist the Joint Supervisory Body in the performance of the latter’s tasks. In doing so, it shall in particular:
 
@@ -1068,7 +1074,9 @@ MISCELLANEOUS PROVISIONS
 
 Article 45
 
-Rules concerning access to Europol documents On the basis of a proposal by the Director, and not later than six months after the date of application of this Decision, the Management Board shall adopt rules concerning access to Europol documents, taking into account the principles and limits set out in Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents .
+Rules concerning access to Europol documents
+
+On the basis of a proposal by the Director, and not later than six months after the date of application of this Decision, the Management Board shall adopt rules concerning access to Europol documents, taking into account the principles and limits set out in Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents .
 
 Article 46
 
@@ -1256,9 +1264,7 @@ FINAL PROVISIONS
 
 Article 61
 
-Transposition
-
-The Member States shall ensure that their national law conforms to this Decision by the date of application of this Decision.
+Transposition The Member States shall ensure that their national law conforms to this Decision by the date of application of this Decision.
 
 Article 62
 
@@ -1312,9 +1318,9 @@ List of other forms of serious crime which Europol is competent to deal with in 
 
 — kidnapping, illegal restraint and hostage taking,
 
-— racism and xenophobia, — organised robbery,
+— racism and xenophobia,
 
-— illicit trafficking in cultural goods, including antiquities and works of art,
+— organised robbery, — illicit trafficking in cultural goods, including antiquities and works of art,
 
 — swindling and fraud,
 
