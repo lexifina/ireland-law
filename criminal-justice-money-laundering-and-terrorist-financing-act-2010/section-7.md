@@ -22,7 +22,7 @@ Money laundering occurring in State.
 
 (4) A reference in this section to knowing or believing that property is the proceeds of criminal conduct includes a reference to knowing or believing that the property probably comprises the proceeds of criminal conduct.
 
-(5) For the purposes of subsections (1) and (2), a person is reckless as to whether or not property is the proceeds of criminal conduct if the person disregards, in relation to property, a risk of such anature and degree that, considering the circumstances in which the person carries out any act referred to in subsection (1) or (2), the disregard of that risk involves culpability of a high degree.
+(5) For the purposes of subsections (1) and (2), a person is reckless as to whether or not property is the proceeds of criminal conduct if the person disregards, in relation to property, a risk of such a nature and degree that, considering the circumstances in which the person carries out any act referred to in subsection (1) or (2), the disregard of that risk involves culpability of a high degree.
 
 (6) For the purposes of subsections (1) and (2), a person handles property if the person—
 
