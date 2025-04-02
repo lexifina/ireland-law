@@ -8,7 +8,9 @@ Direction from Commissioner for sample to be taken for elimination purposes
 
 (b) a person who is in accordance with the Act of 2005 admitted to training for membership (including as a reserve member within the meaning of section 3 of that Act) of the Garda Síochána;
 
-(c) a member of the civilian staff of the Garda Síochána.
+(ba) a person who is in accordance with the Policing, Security and Community Safety Act 2024 admitted to training for membership (including as a member of the rank of reserve garda) of An Garda Síochána;
+
+(c) a member of garda staff.
 
 (3) A direction under subsection (1) shall be given in writing and the Commissioner shall give, or cause to be given, a copy of it to the person to whom it relates.
 

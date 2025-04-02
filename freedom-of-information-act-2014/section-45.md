@@ -30,13 +30,15 @@ Powers of Commissioner
 
 (9) This section does not apply to a record in respect of which a certificate under section 34 is in force.
 
+(10) ...
+
 (10) Subsection (2) shall not apply to—
 
-(a) information, documents or things designated by regulations made under section 126(1)(a) of the Garda Síochána Act 2005, or
+(a) information, documents or things, or classes thereof prescribed by regulations under paragraph (a) of section 260 of the Policing, Security and Community Safety Act 2024, or
 
-(b) Garda Síochána stations designated by regulations made under section 126(1)(b) of the Garda Síochána Act 2005, except to the extent specified in a direction of the Minister for Justice and Equality.
+(b) Garda Síochána premises prescribed by regulations under paragraph (b) of that section, except to the extent specified in a direction of the Minister for Justice.
 
-(11) In deciding where to issue a direction under subsection (10) the Minister shall take into account the public interest.
+(11) ...
 
 (12) The Commissioner shall comply with the provisions on professional secrecy in—
 

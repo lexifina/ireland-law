@@ -10,6 +10,6 @@ Authorisation to install or operate CCTV in Garda Síochána premises
 
 (2) In this section, “Garda Síochána premises” shall include—
 
-(a) a Garda Síochána station within the meaning of section 99 of the Act of 2005, and
+(a) a Garda Síochána premises within the meaning of Part 6 of the Act of 2024, and
 
 (b) a premises or structure, including a temporary structure, used by the Garda Síochána, whether on a temporary basis or otherwise, for the purpose of performing its functions, or any part thereof.

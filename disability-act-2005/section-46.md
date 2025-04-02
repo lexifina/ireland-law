@@ -30,4 +30,4 @@ Interpretation (Part 5).
 
 (d) a person, body, organisation or group established under the Companies Acts 1963 to 2003 in pursuance of powers conferred by or under another enactment, and financed wholly or partly, whether directly or indirectly, by means of moneys provided, or loans made or guaranteed, by a Minister of the Government, or shares held by or on behalf of a Minister of the Government, that Minister of the Government.
 
-(3) This Part does not apply to the Defence Forces, members, within the meaning of section 3(1) of the Garda Síochána Act 2005, of the Garda Síochána or prison officers of a prison.
+(3) This Part does not apply to the Defence Forces, members of An Garda Síochána within the meaning of the Policing, Security and Community Safety Act 2024 or prison officers of a prison.

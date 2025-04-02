@@ -4,7 +4,7 @@ Delegation of certain functions of Head of Technical Bureau of Garda Síochána
 
 (a) members of the Garda Síochána who are assigned to duties in the Technical Bureau of the Garda Síochána specified by rank or name, or
 
-(b) members of the civilian staff of the Garda Síochána who are assigned to duties in the Technical Bureau of the Garda Síochána specified by grade, position, name or otherwise.
+(b) members of garda staff who are assigned to duties in the Technical Bureau of the Garda Síochána specified by grade, position, name or otherwise.
 
 (2) A delegation under this section may—
 

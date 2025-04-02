@@ -12,7 +12,7 @@ Functions of Director of FSI in relation to DNA Database System
 
 (c) the searching of the System in accordance with section 68 to ascertain whether there is a match between two DNA profiles in the System;
 
-(d) the reporting to the Garda Síochána, the Ombudsman Commission or a coroner, as may be appropriate, the results of searches of the System;
+(d) the reporting to the Garda Síochána, the Police Ombudsman or a coroner, as may be appropriate, the results of searches of the System;
 
 (e) the automated searching for, or automated comparison of certain DNA profiles in the System with other DNA profiles in accordance with Chapter 2 of Part 12;
 

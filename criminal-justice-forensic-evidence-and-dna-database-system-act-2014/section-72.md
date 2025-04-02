@@ -10,7 +10,7 @@ Functions of Committee
 
 (c) the measures employed by the Director of FSI to ensure that the DNA Database System is not improperly accessed by any person, that the DNA profiles and information entered in the System are used only for the purposes permitted by this Act and that they are not improperly disclosed to any person,
 
-(d) the means by which the results of searches of the DNA Database System are reported by the Director of FSI to the Garda Síochána, the Ombudsman Commission or a coroner, as may be appropriate,
+(d) the means by which the results of searches of the DNA Database System are reported by the Director of FSI to the Garda Síochána, the Police Ombudsman or a coroner, as may be appropriate,
 
 (e) the practices and procedures employed by the Director of FSI to ensure that samples taken under this Act for the purpose of generating DNA profiles for entry in the DNA Database System are destroyed, and the DNA profiles generated from those samples are removed from that System, in accordance with Part 10,
 

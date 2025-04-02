@@ -20,7 +20,7 @@ Regulations regarding taking of samples
 
 (c) the persons (including members of the Garda Síochána, prison officers, authorised members of the staff of a children detention school or authorised persons), and the number of such persons, who may be present when samples are taken, or to be taken, under this Act;
 
-(d) the manner in which, and by whom, the following shall be recorded in the records of a Garda Síochána station or, in the case of the Ombudsman Commission, the records of the Ombudsman Commission:
+(d) the manner in which, and by whom, the following shall be recorded in the records of a Garda Síochána station or, in the case of the Police Ombudsman, the records of the Police Ombudsman:
 
 (i) an authorisation given by a member of the Garda Síochána under this Act;
 

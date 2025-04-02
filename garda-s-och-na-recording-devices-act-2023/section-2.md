@@ -8,6 +8,8 @@ Interpretation
 
 “Act of 2018” means the Data Protection Act 2018;
 
+“Act of 2024” means the Policing, Security and Community Safety Act 2024;
+
 “ANPR” means the system or technology commonly known as automatic number plate recognition;
 
 “body-worn camera” means a recording device affixed to or contained in—
@@ -38,9 +40,9 @@ Interpretation
 
 (a) a member of the Garda Síochána, or
 
-(b) a member of the civilian staff of the Garda Síochána who was appointed under, or designated by order under, section 19 of the Act of 2005;
+(b) a member of garda staff within the meaning of the Act of 2024;
 
-“member of the Garda Síochána” means a member within the meaning of section 3(1) of the Act of 2005;
+“member of the Garda Síochána” means a member within the meaning of the Act of 2024;
 
 “Minister” means the Minister for Justice;
 

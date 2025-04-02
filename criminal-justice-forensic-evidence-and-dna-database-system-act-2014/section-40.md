@@ -12,4 +12,4 @@ Definitions (Part 5)
 
 (c) the examination or analysis of that sample;
 
-“member of the Garda Síochána” has the meaning it has in section 3 of the Act of 2005.
+"member of An Garda Síochána" has the same meaning as it has in the Policing, Security and Community Safety Act 2024.

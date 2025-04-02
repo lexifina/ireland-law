@@ -2,21 +2,25 @@ Taking of samples from Garda Síochána personnel for elimination (crime scene i
 
 42. (1) A sample taken under this section from a person shall be used to generate a DNA profile in respect of the person to be entered in the elimination (crime scene investigators) index of the DNA Database System for the purpose, in relation to the investigation of offences, of ascertaining whether that person has contaminated a crime scene sample.
 
-(2) A sample shall be taken under this section from any of the following who is assigned to duties relating to the investigation or technical examination of crime scenes or anything found at or recovered from crime scenes:
+(2) A sample shall be taken under this section from any of the following who is assigned to duties relating to the investigation or technical examination of crime scenes or anything found at or recovered from crime scenes: ...
 
-(a) a member of the Garda Síochána who is appointed as such a member after the commencement of this section;
+(b) a person who is admitted in accordance with the Policing, Security and Community Safety Act 2024 to training for membership (including as a member of the rank of reserve garda) of An Garda Síochána;
 
-(b) a person who is, after the commencement of this section, admitted in accordance with the Act of 2005 to training for membership (including as a reserve member within the meaning of section 3 of that Act) of the Garda Síochána;
+(c) a member of garda staff who—
 
-(c) a member of the civilian staff of the Garda Síochána who is appointed as such a member of staff after the commencement of this section.
+(i) is appointed under section 54(1) or (2) of the Policing, Security and Community Safety Act 2024 as such a member of staff,
+
+(ii) is designated by order of the Minister under section 54(5) of that Act, and who was appointed as such a member of staff after the commencement of this section, or
+
+(iii) immediately prior to the coming into operation of an order by the Minister under section 54(5) of the Policing, Security and Community Safety Act 2024, was a member of the civilian staff of An Garda Síochána who was appointed as such a member after the commencement of this section.
 
 (3) A sample may be taken under this section from any of the following who is assigned to duties relating to the investigation or technical examination of crime scenes or anything found at or recovered from crime scenes only if he or she consents in writing to having such a sample taken from him or her:
 
-(a) a member of the Garda Síochána who is such a member upon the commencement of this section;
+(a) a member of An Garda Síochána who is such a member upon the commencement of this section;
 
 (b) a person who is, on the commencement of this section, admitted in accordance with the Act of 2005 to training for membership (including as a reserve member within the meaning of section 3 of that Act) of the Garda Síochána;
 
-(c) a member of the civilian staff of the Garda Síochána who is such a member of staff upon the commencement of this section.
+(c) a member of garda staff of the Garda Síochána who is such a member of staff upon the commencement of this section.
 
 (4) A member of the Garda Síochána or an authorised person shall inform a person to whom this section applies of the following before taking, or causing to be taken, a sample under this section from him or her:
 

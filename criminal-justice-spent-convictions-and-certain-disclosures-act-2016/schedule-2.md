@@ -12,9 +12,9 @@ Section 5
 
 (c) the Garda Síochána,
 
-(d) the Garda Síochána Ombudsman Commission,
+(d) Fiosrú - Oifig an Ombudsman Póilíneachta,
 
-(e) the Garda Inspectorate,
+(e) ...
 
 (f) the Office of the Chief State Solicitor,
 
@@ -34,7 +34,11 @@ Section 5
 
 (n) the Central Bank of Ireland,
 
-(o) the National Treasury Management Agency.
+(o) the National Treasury Management Agency,
+
+(p) An tÚdarás Póilíneachta agus Sábháilteachta Pobail,
+
+(q) oifig an Scrúdaitheora Neamhspleáchum Reachtaíocht Slándála.
 
 2. Any activity, service or employment which involves the performance of a controlled function under Part 3 of the Central Bank Reform Act 2010.
 
@@ -42,4 +46,4 @@ Section 5
 
 (a) a member of the Reserve Defence Force within the meaning of section 2 of the Defence Act 1954,
 
-(b) a reserve member of the Garda Síochána within the meaning of section 3 of the Garda Síochána Act 2005.
+(b) a member of An Garda Síochána who holds the rank of reserve garda.

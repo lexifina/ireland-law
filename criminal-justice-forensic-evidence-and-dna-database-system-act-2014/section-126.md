@@ -2,7 +2,7 @@ Authorised officers
 
 126. (1) The national contact point in relation to DNA data may appoint in writing a member of the staff of FSI to be an authorised officer for DNA data for the purposes of sections 115 and 116and this Chapter.
 
-(2) The national contact point in relation to dactyloscopic data may appoint in writing a member of the Garda Síochána, or a member of the civilian staff of the Garda Síochána, who is assigned to duties in the Technical Bureau of the Garda Síochána to be an authorised officer for dactyloscopic data for the purposes of section 120 and this Chapter.
+(2) The national contact point in relation to dactyloscopic data may appoint in writing a member of the Garda Síochána, or a member of garda staff, who is assigned to duties in the Technical Bureau of the Garda Síochána to be an authorised officer for dactyloscopic data for the purposes of section 120 and this Chapter.
 
 (3) An appointment to be an authorised officer for DNA data may be revoked in writing by the national contact point in relation to DNA data and, in any event, such an appointment shall cease upon the person ceasing to be a member of the staff of FSI.
 

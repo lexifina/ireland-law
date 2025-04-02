@@ -10,6 +10,8 @@ Codes of practice
 
 (2) The Ombudsman Commission shall, as soon as practicable after the commencement of this section and following consultation with the Director of FSI, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the procedures regarding the taking by designated officers of the Ombudsman Commission within the meaning of Part 4 of the Act of 2005 of samples from persons under this Act or causing such samples to be taken.
 
+(2A) Where, immediately before the coming into operation of section 170 of the Policing, Security and Community Safety Act 2024, a code of practice prepared under subsection (2) has been approved under this section, the code of practice shall be deemed to have been prepared by the Police Ombudsman.
+
 (3) The Director General of the Irish Prison Service of the Department of Justice and Equality shall, as soon as practicable after the commencement of this section and following consultation with the Director of FSI, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the procedures regarding the taking by prison officers of samples from persons under this Act or causing such samples to be taken.
 
 (4) The Director of FSI shall, as soon as practicable after the commencement of this section, prepare for submission to the Minister a draft code of practice for the purpose of providing practical guidance as to the procedures regarding the taking by persons who are authorised in writing by the Director of FSI of samples from persons under this Act or causing such samples to be taken.

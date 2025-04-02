@@ -1,6 +1,6 @@
 Limitation on provision of information
 
-11. (1) Nothing in this Act shall be construed as requiring the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or a clinical director of a designated centre to disclose any information the disclosure of which could—
+11. (1) Nothing in this Act shall be construed as requiring the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or a clinical director of a designated centre to disclose any information the disclosure of which could—
 
 (a) interfere with the investigation of an alleged offence,
 
@@ -14,7 +14,7 @@ Limitation on provision of information
 
 (a) a member of the Garda Síochána not below the rank of superintendent,
 
-(b) an officer of the Ombudsman Commission authorised for that purpose,
+(b) an officer of the Police Ombudsman authorised for that purpose,
 
 (c) an officer of the Director of Public Prosecutions authorised for that purpose,
 
@@ -24,4 +24,4 @@ Limitation on provision of information
 
 (f) the clinical director of the designated centre to which an alleged offender has been committed under the Act of 2006, as the case may be.
 
-(3) Where information is not provided to a victim pursuant to subsection (1), a record of the reasons for not providing the information shall be kept by the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of the children detention school or the clinical director of the designated centre concerned, as the case may be.
+(3) Where information is not provided to a victim pursuant to subsection (1), a record of the reasons for not providing the information shall be kept by the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of the children detention school or the clinical director of the designated centre concerned, as the case may be.

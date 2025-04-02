@@ -24,7 +24,7 @@ Meeting to discuss anti-social behaviour by child.
 
 (d) if the child is already participating in the Programme, a juvenile liaison officer.
 
-(5) The superintendent may request the attendance at the meeting of such other person or persons as he or she considers would be of assistance to the child or the parents or guardian, including a member of the local policing forum (within the meaning of the Garda Síochána Act 2005).
+(5) The superintendent may request the attendance at the meeting of such other person or persons as he or she considers would be of assistance to the child or the parents or guardian, including a member of the area-based neighbourhood community safety forum (within the meaning of Part 3 of the Policing, Security and Community Safety Act 2024).
 
 (6) The meeting shall discuss the child’s behaviour.
 

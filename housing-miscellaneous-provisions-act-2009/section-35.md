@@ -36,7 +36,7 @@ Anti-social behaviour strategy.
 
 (5) When drawing up a strategy, or before amending a strategy, a housing authority shall consult with—
 
-(a) any joint policing committee established under section 36 of the Garda Síochána Act 2005 in respect of its administrative area,
+(a) any local community safety partnership established under regulations made under section 114 (1) of the Policing, Security and Community Safety Act 2024 in respect of its administrative area,
 
 (b) the Garda Síochána,
 
@@ -47,3 +47,7 @@ Anti-social behaviour strategy.
 (6) The drawing up and adoption of, and the amendment of, an anti-social behaviour strategy shall be a reserved function.
 
 (7) The drawing up and adoption of, and amendment of, an anti-social behaviour strategy is not to be taken to confer on any person a right in law that the person would not otherwise have to require a housing authority in a particular case to exercise any function conferred on it under the Act of 1997 or this Act or to seek damages for a housing authority’s failure to perform any such function.
+
+(8) Where, immediately before the coming into operation of section 282 of the Policing, Security and Community Safety Act 2024, a consultation by a housing authority in accordance with subsection (5)(a) is ongoing and one or more steps in the consultation was taken in accordance with that subsection before that coming into operation, other steps in the consultation may be taken on or after that coming into operation in accordance with that subsection as amended by that section.
+
+(9) Where, after the repeal of section 36 of the Garda Síochána Act 2005 by section 5 of the Policing, Security and Community Safety Act 2024, a joint policing committee has not been dissolved pursuant to regulations made under section 114 (1) of that second-mentioned Act, a reference in subsection (5)(a) to a local community safety partnership in respect of an administrative area shall, for so long as the joint policing committee has not been dissolved, be construed as including a reference to that joint policing committee in respect of the administrative area concerned.

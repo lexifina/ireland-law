@@ -4,7 +4,7 @@ Delegation of functions of Commissioner under certain sections.
 
 (a) members of the Garda Síochána specified by rank or name, or
 
-(b) members of the civilian staff of the Garda Síochána by grade, position, name or otherwise.
+(b) members of garda staff (within the meaning of the Policing, Security and Community Safety Act 2024) by grade, position, name or otherwise.
 
 (2) A delegation under this section may—
 

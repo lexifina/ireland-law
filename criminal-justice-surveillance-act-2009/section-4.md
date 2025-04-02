@@ -8,7 +8,7 @@ Application for authorisation.
 
 (c) the surveillance being sought to be authorised is necessary for the purpose of maintaining the security of the State.
 
-(1A) A superior officer of the Ombudsman Commission may apply to a judge for an authorisation where he or she has reasonable grounds for believing that as part of an investigation being conducted by the Ombudsman Commission concerning an arrestable offence, the surveillance being sought to be authorised is necessary for the purposes of obtaining information as to whether the offence has been committed or as to the circumstances relating to the commission of the offence, or obtaining evidence for the purposes of proceedings in relation to the offence.
+(1A) A superior officer of the Police Ombudsman may apply to a judge for an authorisation where he or she has reasonable grounds for believing that as part of an investigation being conducted by the Police Ombudsman concerning an arrestable offence, the surveillance being sought to be authorised is necessary for the purposes of obtaining information as to whether the offence has been committed or as to the circumstances relating to the commission of the offence, or obtaining evidence for the purposes of proceedings in relation to the offence.
 
 (2) A superior officer of the Defence Forces may apply to a judge for an authorisation where he or she has reasonable grounds for believing that the surveillance being sought to be authorised is necessary for the purpose of maintaining the security of the State.
 

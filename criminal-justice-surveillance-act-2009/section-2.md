@@ -1,6 +1,6 @@
 Application of Act.
 
-2.— (1) This Act applies to surveillance carried out by members of the Garda Síochána, designated officers of the Ombudsman Commission, members of the Defence Forces, officers of the Revenue Commissioners and authorised officers of the Competition and Consumer Protection Commission.
+2.— (1) This Act applies to surveillance carried out by members of the Garda Síochána, designated officers of the Police Ombudsman, members of the Defence Forces, officers of the Revenue Commissioners and authorised officers of the Competition and Consumer Protection Commission.
 
 (2) Nothing in this Act shall render unlawful any activity that would otherwise be lawful.
 
@@ -10,7 +10,7 @@ Application of Act.
 
 (a) the use of a closed circuit television system in a Garda Síochána station;
 
-(b) the recording by electronic or other similar means under section 27 of the Criminal Justice Act 1984 of the questioning of a person by members of the Garda Síochána or designated officers of the Ombudsman Commission at Garda Síochána stations or elsewhere in connection with the investigation of offences;
+(b) the recording by electronic or other similar means under section 27 of the Criminal Justice Act 1984 of the questioning of a person by members of the Garda Síochána or designated officers of the Police Ombudsman at Garda Síochána stations or elsewhere in connection with the investigation of offences;
 
 (c) the recording by electronic or other similar means of any evidence given, or statement made, by a person for the purposes of any court proceedings.
 

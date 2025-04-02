@@ -4,7 +4,7 @@ Delegation of functions of Commissioner under this Act
 
 (a) members of the Garda Síochána specified by rank or name, or
 
-(b) members of the civilian staff of the Garda Síochána by grade, position, name or otherwise.
+(b) members of garda staff by grade, position, name or otherwise.
 
 (2) A delegation under this section may—
 

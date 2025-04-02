@@ -12,9 +12,9 @@
 
 (ca) a teacher employed by an education and training board,
 
-(d) ......
+(d) ... ...
 
-(e)...
+(e) ...
 
 (f) ...
 
@@ -34,13 +34,13 @@
 
 (iv) any similar term, shall be read as a reference to any enactment, Garda code, instrument, decision, circular, instruction, any other document or any combination thereof that provides for or specifies the terms and conditions on which that member of the Garda Síochána serves;
 
-(c) a reference to a trade union shall be read as a reference to an association established under and in accordance with section 18 of the Act of 2005;
+(c) a reference to a trade union shall be read as a reference to an association established under and in accordance with section 59 of the Act of 2024;
 
 (d) a reference to an employer organisation, a trade union of employers or an employer association shall be read as a reference to the Garda Commissioner;
 
 (e) without prejudice to section 3 of the Industrial Relations Act 1946, a reference to a trade dispute shall be read as a reference to any dispute or difference between members of the Garda Síochána and the Garda Commissioner that is connected with the appointment or non-appointment of any such member, or with the terms and conditions on which such members serve, and includes any such dispute or difference between retired members and the Garda Commissioner.
 
-(1C) (a) Nothing in subsections (1), (1A) or (1B) shall affect the operation of section 18(3) of the Act of 2005.
+(1C) (a) Nothing in subsections (1), (1A) or (1B) shall affect the operation of section 59 (3) of the Act of 2024.
 
 (b) Nothing in subsections (1), (1A) or (1B) shall operate to apply the Trade Union Acts 1871 to 1990 to the Garda Síochána and those subsections shall not apply to the interpretation of any terms used in those Acts.
 

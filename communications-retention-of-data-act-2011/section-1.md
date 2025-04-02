@@ -12,7 +12,7 @@ Interpretation.
 
 “data” means traffic data or location data and the related data necessary to identify the subscriber or user;
 
-“designated judge” means the judge of the High Court designated by the President of the High Court under section 8 of the Act of 1993;
+...
 
 "disclosure requirement" means a requirement made of a service provider under section 6, 6F, 7C or 7D;
 

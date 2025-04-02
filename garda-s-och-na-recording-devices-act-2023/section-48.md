@@ -2,7 +2,7 @@
 
 Admissibility of evidence
 
-48. (1) Documents obtained in accordance with this Act may, subject to this section and any applicable rules of evidence, be admitted as evidence in criminal and civil proceedings and in disciplinary actions.
+48. (1) Documents obtained in accordance with this Act may, subject to this section and any applicable rules of evidence, be admitted as evidence in criminal, civil and relevant proceedings.
 
 (2) Nothing in this Act is to be construed as prejudicing the admissibility of documents obtained otherwise than as a result of the use, in accordance with this Act, of a recording device.
 
@@ -18,8 +18,4 @@ Admissibility of evidence
 
 (5) In any proceedings (including proceedings for an offence), the production of an approval, authorisation or designation under this Act that is purported to be signed by a member of Garda personnel shall, until the contrary is proved, be evidence of the making of the approval, authorisation or designation, as the case may be, without proof of the signature of such member or of his or her official capacity.
 
-(6) In this section, “disciplinary action” means—
-
-(a) any proceedings conducted in accordance with regulations made under section 123 of the Act of 2005, or
-
-(b) disciplinary measures within the meaning of section 15 of the Civil Service Regulation Act 1956.
+(6) In this section, “relevant proceedings” means conduct proceedings within the meaning of the Act of 2024 or performance proceedings within the meaning of Part 6 of that Act.

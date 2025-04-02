@@ -110,6 +110,8 @@ Interpretation
 
 “member in charge” of a Garda Síochána station has the meaning assigned to it by Regulation 4 of the Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations 1987 (S.I. No. 119 of 1987) subject to the modification that the reference in paragraph (1) of that Regulation to the member who is in charge of a Garda Síochána station at a time when the member in charge of the station is required to do anything or cause anything to be done pursuant to those Regulations shall be construed as a reference to the member who is in charge of the Garda Síochána station at a time when the member in charge is required to do anything or cause anything to be done under this Act;
 
+"member of garda staff", other than in section 42(2), shall be construed in accordance with the Policing, Security and Community Safety Act 2024;
+
 “member of the staff of FSI” means an officer of the Minister who is assigned to perform duties in FSI;
 
 “Minister” means Minister for Justice and Equality;
@@ -138,7 +140,7 @@ Interpretation
 
 “offender” shall be construed in accordance with section 31(1);
 
-“Ombudsman Commission” means the Garda Síochána Ombudsman Commission;
+...
 
 “parent”, in relation to a protected person or child, means—
 

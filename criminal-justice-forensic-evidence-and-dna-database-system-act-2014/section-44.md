@@ -6,7 +6,7 @@ Taking of samples from other persons for elimination purposes
 
 (a) such officers of the Minister who are assigned to perform duties in the State Pathologist’s Office of the Department of Justice and Equality as the Minister considers appropriate to prescribe;
 
-(b) such members of the staff of the Ombudsman Commission as the Minister considers appropriate to prescribe;
+(b) such members of the staff of the Police Ombudsman as the Minister considers appropriate to prescribe;
 
 (c) such other persons, or class of persons, as the Minister considers appropriate to prescribe who, by reason of the functions or tasks performed or carried out by them, may inadvertently contaminate crime scene samples.
 

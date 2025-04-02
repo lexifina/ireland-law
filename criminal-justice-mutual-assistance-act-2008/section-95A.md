@@ -20,13 +20,13 @@ Eurojust national member.
 
 (h) the Central Authority in the State (within the meaning of section 3(1C) of the Extradition Act 1965), in respect of the case management system of the Authority;
 
-(i) the Garda Síochána Ombudsman Commission, in respect of the case management system of the Commission;
+(i) Fiosrú — Oifig an Ombudsman Póilíneachta, in respect of the case management system of the Police Ombudsman;
 
 (j) the Director of Corporate Enforcement, in respect of the case management system of the Office of the Director of Corporate Enforcement;
 
 (k) any other public authority, in respect of a register held by the authority.
 
-(3) Section 31 of the Garda Síochána Act 2005 shall apply to the function of the Commissioner of the Garda Síochána under subsection (2)(a) and a reference in that section to a function under that Act or under a provision of that Act shall be construed as including a reference to the function of the Commissioner under subsection (2)(a).
+(3) Section 39 of the Policing, Security and Community Safety Act 2024 shall apply to the function of the Commissioner of the Garda Síochána under subsection (2)(a) and a reference in that section to a function under that Act or under a provision of that Act shall be construed as including a reference to the function of the Commissioner under subsection (2)(a).
 
 (4) Subsection (2) is without prejudice to an obligation or power to provide or request information under any other enactment or rule of law.
 

@@ -6,7 +6,9 @@ Taking of samples from Garda Síochána personnel for elimination (Garda Síoch�
 
 (a) a member of the Garda Síochána, other than a member of the Garda Síochána to whom section 42(2)(a) applies, who is appointed as such a member after the commencement of this section;
 
-(b) a person who is, after the commencement of this section, admitted in accordance with the Act of 2005 to training for membership (including as a reserve member within the meaning of section 3 of that Act) of the Garda Síochána, other than such a person to whom section 42(2)(b) applies.
+(b) a person who is, after the commencement of this section, admitted in accordance with the Act of 2005 to training for membership (including as a reserve member within the meaning of section 3 of that Act) of the Garda Síochána, other than such a person to whom section 42(2)(b) applies;
+
+(c) a person who is admitted in accordance with the Policing, Security and Community Safety Act 2024 to training for membership (including as a member of the rank of reserve garda) of An Garda Síochána.
 
 (3) A sample may be taken under this section from—
 

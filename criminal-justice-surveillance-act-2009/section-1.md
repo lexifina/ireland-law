@@ -4,19 +4,19 @@ Interpretation.
 
 “Act of 1993” means the Interception of Postal Packets and Telecommunications Messages (Regulation) Act 1993;
 
+“Act of 2024“means the Policing, Security and Community Safety Act 2024;
+
 “arrestable offence” has the meaning it has in section 2 (as amended by section 8 of the Criminal Justice Act 2006) of the Criminal Law Act 1997;
 
 “authorisation” means an authorisation for the carrying out of surveillance issued under section 5 or varied or renewed under section 6;
 
 “authorised officer" has the meaning it has in the Competition and Consumer Protection Act 2014;
 
-"chairperson", in relation to the Ombudsman Commission, means the member of the Ombudsman Commission who is appointed or acting as its chairperson under section 65 of the Garda Síochána Act 2005;
+...
 
-"designated officer of the Ombudsman Commission" means—
+...
 
-(a) an officer of the Ombudsman Commission, or
-
-(b) a person engaged by the Ombudsman Commission under section 74 of the Garda Síochána Act 2005, who is designated by the Ombudsman Commission under section 73 of that Act for the purpose of performing functions under any provisions of Part 4 of that Act;
+“designated officer of the Police Ombudsman“means a designated officer within the meaning of the Act of 2024;
 
 “document” includes—
 
@@ -24,17 +24,19 @@ Interpretation.
 
 (b) any recording, including any data or information stored, maintained or preserved electronically or otherwise than in legible form;
 
+“Independent Examiner“has the same meaning as it has in the Act of 2024;
+
 “judge” means a judge of the District Court;
 
 “member of the Defence Forces” means a member of the Defence Forces within the meaning of section 1 of the Defence (Amendment) Act 1990, other than a member of the Reserve Defence Force within the meaning of the Defence Act 1954;
 
-“member of the Garda Síochána” means a member of the Garda Síochána within the meaning of section 3 of the Act of 2005, other than a person referred to in paragraph (b) of that definition;
+“member of the Garda Síochána”means a member of An Garda Síochána within the meaning of the Act of 2024, other than a member of the rank of reserve garda;
 
-"member of the Ombudsman Commission" means a member of the Ombudsman Commission appointed under section 65 of the Garda Síochána Act 2005;
+...
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
-"Ombudsman Commission" means the Garda Síochána Ombudsman Commission;
+...
 
 “place” includes—
 
@@ -56,7 +58,7 @@ Interpretation.
 
 (i) in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Garda Síochána, and
 
-(ii) in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Ombudsman Commission,
+(ii) in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Police Ombudsman,
 
 (aa) the Minister for Enterprise, Trade and Employment, in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Competition and Consumer Protection Commission,
 
@@ -78,11 +80,13 @@ Interpretation.
 
 (f) section 78 of the Finance Act 2005;
 
+“senior designated officer of the Police Ombudsman“means a senior designated officer within the meaning of the Act of 2024;
+
 “superior officer” means—
 
 (a) in the case of the Garda Síochána, a member of the Garda Síochána not below the rank of superintendent;
 
-(aa) in the case of the Ombudsman Commission, a member of the Ombudsman Commission other than its chairperson;
+(aa) in the case of the Police Ombudsman, a senior designated officer of the Police Ombudsman;
 
 (b) in the case of the Defence Forces, a member of the Defence Forces not below the rank of colonel;
 

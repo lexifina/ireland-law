@@ -1,6 +1,6 @@
 Information regarding investigations and criminal proceedings
 
-8. (1) Where the Garda Síochána or the Ombudsman Commission is investigating an alleged offence, a member of the Garda Síochána or an officer of the Ombudsman Commission, as the case may be, shall, where a victim of the alleged offence is identified—
+8. (1) Where the Garda Síochána or the Police Ombudsman is investigating an alleged offence, a member of the Garda Síochána or an officer of the Police Ombudsman, as the case may be, shall, where a victim of the alleged offence is identified—
 
 (a) inform the victim of his or her right to—
 
@@ -10,7 +10,7 @@ Information regarding investigations and criminal proceedings
 
 (b) inform the victim of the relevant procedures for making a request or an amended request under this section.
 
-(2) A victim of an alleged offence may, during the course, or at the conclusion, of an investigation of the alleged offence or following any subsequent criminal proceedings relating to the offence concerned, request the following information from the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be:
+(2) A victim of an alleged offence may, during the course, or at the conclusion, of an investigation of the alleged offence or following any subsequent criminal proceedings relating to the offence concerned, request the following information from the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be:
 
 (a) information relating to any significant developments in the investigation of the alleged offence, including:
 
@@ -124,28 +124,32 @@ Information regarding investigations and criminal proceedings
 
 (viii) the death of the person concerned during the period of his or her detention.
 
-(3) A victim may submit an amended request in relation to information referred to in subsection (2) to the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be.
+(3) A victim may submit an amended request in relation to information referred to in subsection (2) to the Garda Síochána, thePolice Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be.
 
-(4) Subject to section 11, where the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre receives a request or an amended request for information referred to in subsection (2), the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be, shall—
+(4) Subject to section
+
+11, where the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre receives a request or an amended request for information referred to in subsection
+
+(2), the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre, as the case may be, shall—
 
 (a) make a record of the information requested, and
 
 (b) provide the information, or arrange for the information concerned to be provided, to the victim as soon as practicable.
 
-(5) Subject to section 23, the Garda Síochána, the Ombudsman Commission or the Director of Public Prosecutions, as the case may be, shall—
+(5) Subject to section 23, the Garda Síochána, the Police Ombudsman or the Director of Public Prosecutions, as the case may be, shall—
 
 (a) where a request or an amended request referred to in subsection (4) relates to information referred to in paragraph (g) (ii) or paragraph (j) of subsection (2), and
 
-(b) a victim requests, or it appears to the Garda Síochána, the Ombudsman Commission or the Director of Public Prosecutions, as the case may be, that the victim requires assistance to understand or be understood, arrange for a translation of the information concerned to be provided, as soon as practicable and free of charge, to the victim either orally or in writing, including by electronic means.
+(b) a victim requests, or it appears to the Garda Síochána, the Police Ombudsman or the Director of Public Prosecutions, as the case may be, that the victim requires assistance to understand or be understood, arrange for a translation of the information concerned to be provided, as soon as practicable and free of charge, to the victim either orally or in writing, including by electronic means.
 
-(6) Subject to subsection (7) and section 11, the following may be transferred between the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, a children detention school or a designated centre, as the case may be:
+(6) Subject to subsection (7) and section 11, the following may be transferred between the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, a children detention school or a designated centre, as the case may be:
 
 (a) details of any request or amended request received from a victim;
 
 (b) information which is the subject of a request or an amended request.
 
-(7) Details of a request or an amended request and information which is the subject of the request or the amended request may only be transferred between the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, a children detention school or a designated centre, as the case may be, for the purposes of providing information which is the subject of the request concerned to the victim and shall not be used for any other purpose.
+(7) Details of a request or an amended request and information which is the subject of the request or the amended request may only be transferred between the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, a children detention school or a designated centre, as the case may be, for the purposes of providing information which is the subject of the request concerned to the victim and shall not be used for any other purpose.
 
-(8) Subsections (6) and (7) are without prejudice to any power or duty which the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre may have to provide information to each other under any other enactment or rule of law.
+(8) Subsections (6) and (7) are without prejudice to any power or duty which the Garda Síochána, the Police Ombudsman, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre may have to provide information to each other under any other enactment or rule of law.
 
 (9) In this section, "application for parole" and "parole" have the meanings they have in the Parole Act 2019.

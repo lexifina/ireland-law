@@ -10,7 +10,7 @@ Compulsory retirement age for new entrants to Garda Síochána.
 
 (3) For the purposes of subsections (1) and (2), where the member concerned is the Commissioner of the Garda Síochána, then references to the Commissioner of the Garda Síochána or to the Commissioner in those subsections shall be read as references to the Minister for Justice, Equality and Law Reform.
 
-(4) Nothing in this section shall prevent the appointment, in accordance with the Garda Síochána Act 2005, of a person as a new entrant to the Garda Síochána to the rank of Commissioner of the Garda Síochána or of Deputy Garda Commissioner who has attained the age of 55 years but is under the age of 60 years or such higher age as may be specified by the Minister for Justice, in regulations made under the relevant provision, as the retirement age for the rank concerned.
+(4) Nothing in this section shall prevent the appointment, in accordance with the Policing, Security and Community Safety Act 2024, as a new entrant to the Garda Síochána to the rank of Commissioner of the Garda Síochána or of Deputy Garda Commissioner who has attained the age of 55 years but is under the age of 60 years or such higher age as may be specified by the Minister for Justice, in regulations made under the relevant provision, as the retirement age for the rank concerned.
 
 (5) Where an appointment of a person mentioned in subsection (4) is made, then—
 

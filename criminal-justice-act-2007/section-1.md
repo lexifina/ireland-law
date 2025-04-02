@@ -12,6 +12,6 @@ Short title, collective citations, construction and commencement.
 
 (5) The Firearms Acts 1925 to 2006 and Part 6 may be cited together as the Firearms Acts 1925 to 2007 and shall be construed together as one.
 
-(6) The Garda Síochána Act 2005 and Part 7 may be cited together as the Garda Síochána Acts 2005 to 2007.
+(6) ...
 
 (7) The Sea-Fisheries Acts 2003 and 2006 and Part 8 may be cited together as the Sea-Fisheries Acts 2003 to 2007.

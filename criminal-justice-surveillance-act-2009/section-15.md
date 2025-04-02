@@ -24,7 +24,7 @@ Disclosure of information.
 
 (b) the ability of the State to protect persons from terrorist activity, terrorist-linked activity, organised crime and other serious crime,
 
-(c) the maintenance of the integrity, effectiveness and security of the operations of the Garda Síochána, the Ombudsman Commission, Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission, or
+(c) the maintenance of the integrity, effectiveness and security of the operations of the Garda Síochána, the Police Ombudsman, Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission, or
 
 (d) the ability of the State to protect witnesses, including their identities.
 

@@ -26,7 +26,7 @@ Disclosure of information
 
 (l) the purposes of Chapter 7 of Part 12;
 
-(m) the purposes of an investigation of a complaint concerning the conduct of a member of the Garda Síochána by the Ombudsman Commission;
+(m) the purposes of an investigation of a complaint concerning the conduct of a member of the Garda Síochána by the Police Ombudsman;
 
 (n) the purposes of the performance by the Committee of its functions under this Act;
 
