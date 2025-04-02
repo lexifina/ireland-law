@@ -62,11 +62,11 @@ Section 6 does not include a reference to—
 
 (ii) distribution system operator licence granted under section 16(1)(f), of the Gas (Interim) (Regulation) Act 2002 (amended by Regulation 41(b) of the European Communities (Internal Market in Natural Gas and Electricity) Regulations 2011 (S.I. No. 630 of 2011));
 
-(m) the Forensic Science Laboratory of the Department of Justice and Equality, insofar as it relates to records concerning, or arising from, the forensic criminal investigation functions performed by that Laboratory, including the analysis of specimens or in connection with an investigation being undertaken by the Garda Síochána or the Garda Síochána Ombudsman Commission and the approval, supply, testing and maintenance of apparatus and of equipment;
+(m) the Forensic Science Laboratory of the Department of Justice and Equality, insofar as it relates to records concerning, or arising from, the forensic criminal investigation functions performed by that Laboratory, including the analysis of specimens or in connection with an investigation being undertaken by the Police Ombudsman and the approval, supply, testing and maintenance of apparatus and of equipment;
 
-(n) the Garda Síochána, other than insofar as it relates to administrative records relating to human resources, or finance or procurement matters;
+(n) the Garda Síochána, other than insofar as it relates to administrative records relating to human resources, or finance or procurement matters, or records transferred to the Garda Síochána under section 159 (2) of the Policing, Security and Community Safety Act 2024;
 
-(o) the Garda Síochána Inspectorate, insofar as it relates to records concerning an inspection or inquiry carried out by that Inspectorate under section 117(2) of the Garda Síochána Act 2005;
+(o) An tÚdarás Póilíneachta agus Sábháilteachta Pobail, insofar as it relates to records concerning an inspection (within the meaning of Part 4 of the Policing, Security and Community Safety Act 2024);
 
 (p) Iarnród Éireann, insofar as it relates to the operation of Rosslare Europort and its freight operations in the State;
 
@@ -114,7 +114,7 @@ Section 6 does not include a reference to—
 
 (v) sellers of assets acquired or which may be potentially acquired by any of these bodies or by any company, firm, fund or other entity in which any of these bodies is an investor;
 
-(y) the Garda Síochána Ombudsman Commission, insofar as it relates to records concerning an examination or investigation carried out by the Garda Síochána Ombudsman Commission under Part 4 of the Garda Síochána Act 2005;
+(y) the Police Ombudsman, insofar as it relates to records concerning an investigation carried out by the Police Ombudsman under Part 6 of the Policing, Security and Community Safety Act 2024;
 
 (z) the Ombudsman, insofar as it relates to records concerning an examination or investigation carried out by the Ombudsman under the Ombudsman Acts 1980 to 2012;
 
@@ -194,7 +194,11 @@ Section 6 does not include a reference to—
 
 (an) the Office of the Protected Disclosures Commissioner, in the performance of the functions conferred on it by or under the Protected Disclosures Act 2014, other than insofar as it relates to records concerning the general administration of those functions;
 
+(ao) Bord an Gharda Síochána, other than insofar as it relates to administrative records relating to human resources, finance or procurement matters;
+
 (ao) the Personal Injuries Resolution Board, insofar as it relates to records concerning mediation carried out by the Personal Injuries Resolution Board under Chapter 1A of Part 2 of the Personal Injuries Assessment Board Act 2003;
+
+(ap) the Independent Examiner of Security Legislation in the performance of his or her functions under the Policing, Security and Community Safety Act 2024 or any other enactment, other than insofar as it relates to records concerning the general administration of those functions.
 
 (ap) An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir, in the performance of its functions under the Automatic Enrolment Retirement Savings System Act 2024, in so far as it relates to records—
 
@@ -212,9 +216,7 @@ Exempt Agencies
 
 A board of management established under section 14 of the Education Act 1998, other than a board of management of a school established or maintained by an education and training board
 
-A bridge bank within the meaning of section 17 of the Central Bank and Credit Institutions (Resolution) Act 2011
-
-Allied Irish Banks p.l.c.
+A bridge bank within the meaning of section 17 of the Central Bank and Credit Institutions (Resolution) Act 2011 Allied Irish Banks p.l.c.
 
 An Post
 
@@ -276,9 +278,7 @@ Shannon Airport Authority plc.
 
 Shannon Foynes Port Company
 
-Special European Union Programmes Body
-
-Tourism Ireland
+Special European Union Programmes Body Tourism Ireland
 
 Trade and Business Development Body (InterTradeIreland)
 
