@@ -8,6 +8,4 @@ Notice of intention to exercise powers under Part 6 relating to compellability.
 
 (2) A person who has been given a notice under subsection (1) shall be entitled to give oral submissions or submissions in writing, or both, to the committee, within 14 days after being given the notice (or within such longer period (if any) as may be specified by the committee), as to whether the powers under Part 6 relating to compellability should be exercised by the committee against him or her and, if so, to what extent.
 
-(3) The committee shall not exercise against a person powers under Part 6 relating to compellability until the expiration of the period concerned referred to in subsection
-
-(2) and after taking into account the submissions (if any) referred to in that subsection given by the person.
+(3) The committee shall not exercise against a person powers under Part 6 relating to compellability until the expiration of the period concerned referred to in subsection (2) and after taking into account the submissions (if any) referred to in that subsection given by the person.
