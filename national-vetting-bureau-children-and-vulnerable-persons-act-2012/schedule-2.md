@@ -24,6 +24,8 @@ ORGANISATIONS REQUIRED TO NOTIFY SPECIFIED INFORMATION TO BUREAU
 
 11. The National Transport Authority.
 
-12. The Garda Síochána Ombudsman Commission.
+12. ...
 
 12. The Child and Family Agency.
+
+13. Fiosrú - Oifig an Ombudsman Póilíneachta.
