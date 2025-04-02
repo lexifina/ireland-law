@@ -44,8 +44,8 @@ Power of committee to conduct inquiry into removal, etc., of certain officeholde
 
 (h) paragraph 2(b) of the Second Schedule to the Official Languages Act 2003,
 
-(i) section 68(2) of the Garda Síochána Act 2005,
+(i) section 174 (9) of the Policing, Security and Community Safety Act 2024,
 
-(j) section 10(5) or 84(5) of the Broadcasting Act 2009, or
+(j) section 12(5) or 84 (5) of the Broadcasting Act 2009, or
 
 (k) any other enactment relating to the removal of an officeholder and which requires a resolution of either House or both Houses for such removal, whether or not the officeholder concerned may also be removed from office by virtue of a provision referred to in any of paragraphs (a) to (j).
