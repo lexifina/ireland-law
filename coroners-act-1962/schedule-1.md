@@ -36,11 +36,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 44 & 45 Vic., c. 35. Coroners (Ireland) Act, The whole Act. 1881.
 
-55 & 56 Vic., c. 56. Coroners Act, 1892. Subsections (1), (2), (3), (4), (5) and (8) of section 1. Session and Chapter or Short Title Extent of Repeal Number and Year
-
-(1) (2) (3)
-
-61 & 62 Vic., c. 37. Local Government Subsections (1), (2) and (5) of (Ireland) Act, 1898. section 14; subsection (3) of section 40; in subsection (1) of section 69, the word “coroner”.
+55 & 56 Vic., c. 56. Coroners Act, 1892. Subsections (1), (2), (3), (4), (5) and (8) of section 1. 61 & 62 Vic., c. 37. Local Government Subsections (1), (2) and (5) of (Ireland) Act, 1898. section 14; subsection (3) of section 40; in subsection (1) of section 69, the word “coroner”.
 
 8 Edw. VII, c. 37. Coroners (Ireland) Act, The whole Act. 1908.
 
