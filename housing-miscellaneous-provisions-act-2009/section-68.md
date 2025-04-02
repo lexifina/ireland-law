@@ -1,6 +1,8 @@
 Sinking fund.
 
-68.— (1) Before the end of the period specified in section 63 (1), the management company shall establish a building investment fund (in this Part referred to as a “sinking fund”) for the purpose of discharging expenditure reasonably incurred, in respect of the designated apartment complex concerned on—
+68.— (1) Before the end of the period specified in section 63 (1), the management company shall establish a building investment fund (in this Part referred to as a
+
+“sinking fund”) for the purpose of discharging expenditure reasonably incurred, in respect of the designated apartment complex concerned on—
 
 (a) refurbishment,
 
