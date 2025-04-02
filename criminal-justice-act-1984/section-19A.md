@@ -1,4 +1,4 @@
-F53[Inferences from failure of accused to mention particular facts.
+F54[Inferences from failure of accused to mention particular facts.
 
 19A.— (1) Where in any proceedings against a person for an arrestable offence evidence is given that the accused—
 
