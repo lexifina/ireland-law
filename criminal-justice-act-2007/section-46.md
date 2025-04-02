@@ -34,7 +34,9 @@ Amendment of Act of 2006.
 
 ‘information in non-legible form’ includes information on microfilm, magnetic tape or disk.
 
-183A.— (1) A person is guilty of an offence if he or she possesses or controls monies of a value of not less than €5,000 in circumstances giving rise to a reasonable inference that he or she possesses or controls the assets concerned for a purpose connected with the commission, preparation, facilitation or instigation of—
+Possession of
+
+183A.— (1) A person is guilty of an offence if he or she possesses or controls monies monies of a value of not less than €5,000 in circumstances giving rise to a intended for reasonable inference that he or she possesses or controls the assets concerned use in for a purpose connected with the commission, preparation, facilitation or connection with certain instigation of— offences.
 
 (a) an offence under section 14 of the Criminal Justice (Theft and Fraud Offences) Act 2001,
 

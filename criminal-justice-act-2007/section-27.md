@@ -24,9 +24,13 @@ Amendment of Criminal Justice (Legal Aid) Act 1962.
 
 (3) In this section ‘monitoring order’ has the meaning it has in section 26 of the Criminal Justice Act 2007.
 
+Legal aid
+
 6B.— (1) Where—
 
-(a) a protection of persons order has been made in relation to a person, and
+(protection of persons
+
+(a) a protection of persons order has been made in relation to a person, order) and certificate.
 
 (b) a certificate for free legal aid (in this Act referred to as a ‘legal aid (protection of persons order) certificate’) is granted in respect of him or her by the court to which an application is made to vary or revoke the order, the person shall be entitled to free legal aid in the preparation and conduct of an application under section 26(8) of the Criminal Justice Act 2007 to vary or revoke the order and to have a solicitor and, if the court considers it appropriate, counsel assigned to him or her for that purpose in such manner as may be prescribed by regulations under section 10 of this Act.
 
