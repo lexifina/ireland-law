@@ -48,13 +48,15 @@ It is not necessary to prove that the apparatus is of a type so approved.
 
 (c) Section 14(2), (3) and (4) of the Act of 2002 applies to any agreement entered into by the Minister for Justice and Law Reform under this subsection.
 
-(8) A member of the civilian staff of the Garda Síochána may perform the functions relating to the establishing of prima facie proof of a constituent of an offence including the development, production and viewing of records produced by that equipment and the production of measurements or other indications from which a constituent of an offence can be inferred.
+(8) A member of garda staff may perform the functions relating to the establishing of prima facie proof of a constituent of an offence including the development, production and viewing of records produced by that equipment and the production of measurements or other indications from which a constituent of an offence can be inferred.
 
 (9) In this section—
 
-“member of the civilian staff of the Garda Síochána” means a person appointed or designated as being transferred under section 19 of the Garda Síochána Act 2005;
+...
 
-“member of the Garda Síochána” other than in subsections (4) and (7), includes a member of the civilian staff of the Garda Síochána”;
+"member of An Garda Síochána", other than in subsections (4) and (7), includes a member of garda staff;
+
+"member of garda staff" shall be construed in accordance with the Policing, Security and Community Safety Act 2024;
 
 “permanent visual record” includes a photograph;
 
@@ -68,7 +70,7 @@ It is not necessary to prove that the apparatus is of a type so approved.
 
 (10) The following are repealed:
 
-(a)section 21 of the Act of 2002,
+(a) section 21 of the Act of 2002,
 
 (b) section 15 of the Act of 2004, and
 
