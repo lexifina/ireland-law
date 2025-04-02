@@ -28,9 +28,9 @@ Complaints procedure.
 
 (c) report the matter and any recommendation under paragraph (b) to—
 
-(i) the the Ombudsman Commission, in the case of a contravention by the Garda Síochána,
+(i) the Police Ombudsman, in the case of a contravention by the Garda Síochána,
 
-(ia) the Minister, in the case of a contravention by the Ombudsman Commission,
+(ia) the Minister, in the case of a contravention by the Police Ombudsman,
 
 (ib) the Minister for Enterprise, Trade and Employment, in the case of a contravention by the Competition and Consumer Protection Commission,
 
@@ -38,7 +38,7 @@ Complaints procedure.
 
 (iii) the Minister for Finance, in the case of a contravention by the Revenue Commissioners;
 
-(d) report the matter and any recommendation under paragraph (b) to the judge designated under section 12.
+(d) report the matter and any recommendation under paragraph (b) to the Independent Examiner.
 
 (6) If the Referee is of opinion that, in all the circumstances, it would not be in the public interest to—
 
@@ -54,13 +54,13 @@ Complaints procedure.
 
 (9) A relevant contravention that is not material does not of itself constitute a cause of action at the suit of a person who was the subject of the authorisation or approval concerned.
 
-(10) A person in charge of a Garda Síochána station within the meaning of section 99 (10) of the Garda Síochána Act 2005, a place under the control of the Ombudsman Commission, the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission or any other place in which documents relevant to an investigation under this section are kept shall ensure that the Referee has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the Referee may request.
+(10) A person in charge of a Garda Síochána premises within the meaning of Part 6 of the Act of 2024, a place under the control of the Police Ombudsman the Defence Forces, the Revenue Commissioners or the Competition and Consumer Protection Commission or any other place in which documents relevant to an investigation under this section are kept shall ensure that the Referee has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the Referee may request.
 
 (11) The Referee—
 
 (a) may, on his or her own initiative, and
 
-(b) shall, where a case has been referred to him or her by the designated judge under section 12 (8), investigate whether there has been a relevant contravention and this section (other than subsection (7)) shall apply to such an investigation as if the references to “the applicant” in subsections (4) and (6) were to “the person who was the subject of the authorisation or approval”.
+(b) shall, where a case has been referred to him or her by the Independent Examiner under section 12(4), investigate whether there has been a relevant contravention and this section (other than subsection (7)) shall apply to such an investigation as if the references to “the applicant” in subsections (4) and (6) were to “the person who was the subject of the authorisation or approval”.
 
 (12) In this section—
 
