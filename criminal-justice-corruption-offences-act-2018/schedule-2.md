@@ -20,8 +20,6 @@ No. 27 of 2001 Prevention of Corruption The whole Act (Amendment) Act 2001
 
 No. 50 of 2001 Criminal Justice (Theft and Fraud Definitions of “active Offences) Act 2001 corruption” and “passive corruption” in section 40(1)
 
-Sections 43, 44 and 45(2)
-
-No. 1 of 2005 Proceeds of Crime (Amendment) Section 23 Act 2005
+Sections 43, 44 and 45(2) No. 1 of 2005 Proceeds of Crime (Amendment) Section 23 Act 2005
 
 No. 33 of 2010 Prevention of Corruption The whole Act (Amendment) Act 2010
