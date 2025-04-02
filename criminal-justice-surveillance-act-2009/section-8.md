@@ -1,6 +1,6 @@
 Tracking devices.
 
-8.— (1) Notwithstanding sections 4 to 7, a member of the Garda Síochána, a designated officer of the Ombudsman Commission, a member of the Defence Forces, an officer of the Revenue Commissioners or an authorised officer of the Competition and Consumer Protection Commission may, for a period of not more than 4 months or such shorter period as the Minister may prescribe by regulations, monitor the movements of persons, vehicles or things using a tracking device if that use has been approved by a superior officer in accordance with this section.
+8.— (1) Notwithstanding sections 4 to 7, a member of the Garda Síochána, a designated officer of the Police Ombudsman, a member of the Defence Forces, an officer of the Revenue Commissioners or an authorised officer of the Competition and Consumer Protection Commission may, for a period of not more than 4 months or such shorter period as the Minister may prescribe by regulations, monitor the movements of persons, vehicles or things using a tracking device if that use has been approved by a superior officer in accordance with this section.
 
 (2) A member or officer referred to in subsection (1) may apply to a superior officer for the grant of an approval to use a tracking device if he or she believes on reasonable grounds that—
 
@@ -22,7 +22,7 @@ Tracking devices.
 
 (b) the person who, or the vehicle or thing that, is to be monitored,
 
-(c) the name of the member of the Garda Síochána, designated officer of the Ombudsman Commission, member of the Defence Forces, officer of the Revenue Commissioners or authorised officer of the Competition and Consumer Protection Commission to whom the approval is granted,
+(c) the name of the member of the Garda Síochána, designated officer of the Police Ombudsman, member of the Defence Forces, officer of the Revenue Commissioners or authorised officer of the Competition and Consumer Protection Commission to whom the approval is granted,
 
 (d) the conditions (if any) subject to which the approval is granted,
 
@@ -38,7 +38,7 @@ Tracking devices.
 
 (a) in the case of a member of the Garda Síochána, a member of the Garda Síochána of the rank of Assistant Commissioner,
 
-(aa) in the case of a designated officer of the Ombudsman Commission, the chairperson of the Ombudsman Commission,
+(aa) in the case of a designated officer of the Police Ombudsman, the Police Ombudsman,
 
 (ab) in the case of an authorised officer of the Competition and Consumer Protection Commission, a member of the Competition and Consumer Protection Commission within the meaning of section 12 of the Competition and Consumer Protection Act 2014,
 
