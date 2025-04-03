@@ -30,7 +30,7 @@ Obligation to provide preliminary breath specimen.
 
 (2C) Where a member of the Garda Síochána, under subsection (2A), requires a person to provide a specimen of oral fluid from his or her mouth, the member shall require the person to remain at a place (including a vehicle) at or in the vicinity of the public place concerned (for a period that does not exceed 30 minutes after the provision of the specimen) until the apparatus referred to in subsection (2A) indicates the presence or absence of drugs in the specimen.
 
-(3) A person who refuses or fails to comply immediately with a requirement of a member of the Garda Síochána under this section commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+(3) Subject to section 22(1A), a person who refuses or fails to comply immediately with a requirement of a member of the Garda Síochána under this section commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
 
 (4) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section.
 
