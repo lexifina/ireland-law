@@ -1,6 +1,6 @@
 Behaviour order for children over 12.
 
-257D.—(1) The Children Court may, on the application of a member of the Garda Síochána not below the rank of superintendent, make an order (in this Part referred to as a “behaviour order”) prohibiting a child of or above the age of 12 years from doing anything specified in the order if the court is satisfied that—
+257D.—(1) The Children Court may, on the application of a member of the Garda Síochána not below the rank of inspector, make an order (in this Part referred to as a “behaviour order”) prohibiting a child of or above the age of 12 years from doing anything specified in the order if the court is satisfied that—
 
 (a) the child, notwithstanding his or her participation in the procedures provided for in section 257C, has continued and is likely to continue to behave in an anti-social manner,
 
@@ -32,7 +32,7 @@ Behaviour order for children over 12.
 
 (b) the period specified in the order.
 
-(7) The Court may vary or discharge a behaviour order on the application of the child concerned or his or her parents or guardian or of a member of the Garda Síochána not below the rank of superintendent.
+(7) The Court may vary or discharge a behaviour order on the application of the child concerned or his or her parents or guardian or of a member of the Garda Síochána not below the rank of inspector.
 
 (8) An applicant under subsection (1) or (7) shall give notice of the application—
 
