@@ -1,4 +1,4 @@
-F35[Naturalisation of spouses of Irish citizens.
+F37[Naturalisation of spouses of Irish citizens.
 
 15A.— (1) Notwithstanding the provisions of section 15, the Minister may, in his or her absolute discretion, grant an application for a certificate of naturalisation to the non-national spouse or civil partner of an Irish citizen if satisfied that the applicant—
 

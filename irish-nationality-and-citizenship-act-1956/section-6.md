@@ -1,6 +1,6 @@
 ## PART II. CITIZENSHIP.
 
-F9[Citizenship by birth in the island of Ireland.
+F10[Citizenship by birth in the island of Ireland.
 
 6.—(1) Subject to section 6A (inserted by section 4 of the Irish Nationality and Citizenship Act 2004), every person born in the island of Ireland is entitled to be an Irish citizen.
 

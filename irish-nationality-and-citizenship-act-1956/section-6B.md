@@ -1,4 +1,4 @@
-F16[Residence in the island of Ireland for the purposes of section 6A.
+F17[Residence in the island of Ireland for the purposes of section 6A.
 
 6B.—(1) Where a parent of a person to whom section 6A (inserted by section 4 of the Irish Nationality and Citizenship Act 2004) applies dies before the person's birth, the period commencing on the date of the parent's death and expiring on the date of the person's birth shall be reckonable for the purposes of calculating a period of residence in the island of Ireland under that section, if—
 

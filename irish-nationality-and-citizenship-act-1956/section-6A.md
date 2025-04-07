@@ -1,4 +1,4 @@
-F14[Entitlement to Irish citizenship of persons born to certain nonnationals.
+F15[Entitlement to Irish citizenship of persons born to certain nonnationals.
 
 6A.—(1) A person born in the island of Ireland shall not be entitled to be an Irish citizen unless a parent of that person has, during the period of 4 years immediately preceding the person's birth, been resident in the island of Ireland for a period of not less than 3 years or periods the aggregate of which is not less than 3 years.
 

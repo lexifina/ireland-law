@@ -1,4 +1,4 @@
-F18[Citizenship by descent.
+F19[Citizenship by descent.
 
 7.—(1) A person is an Irish citizen from birth if at the time of his or her birth either parent was an Irish citizen or would if alive have been an Irish citizen.
 

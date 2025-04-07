@@ -1,4 +1,4 @@
-F42[Transitional provisions relating to applications for certificates of naturalisation
+F44[Transitional provisions relating to applications for certificates of naturalisation
 
 15E.— (1) Where, before the date on which this subsection comes into operation, an application for a certificate of naturalisation has been made—
 

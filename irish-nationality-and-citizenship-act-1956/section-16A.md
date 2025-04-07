@@ -1,4 +1,4 @@
-F47[Calculation of period of residence in relation to application for naturalisation.
+F49[Calculation of period of residence in relation to application for naturalisation.
 
 16A.—(1) A period of residence in the State shall not be reckoned when calculating a period of residence for the purposes of granting a certificate of naturalisation if—
 
