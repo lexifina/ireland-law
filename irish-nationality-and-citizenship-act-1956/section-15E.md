@@ -1,6 +1,6 @@
 F44[Transitional provisions relating to applications for certificates of naturalisation
 
-15E.— (1) Where, before the date on which this subsection comes into operation, an application for a certificate of naturalisation has been made—
+15E. —(1) Where, before the date on which this subsection comes into operation, an application for a certificate of naturalisation has been made—
 
 (a) under section 15 in respect of a person who is of full age, or
 
