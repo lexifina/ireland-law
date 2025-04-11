@@ -1,6 +1,6 @@
 Calculation of continuous residence for purposes of sections 15, 15A and 15B.
 
-15C.— (1) When calculating a period of one year’s continuous residence in the State for the purposes of section 15 or 15B, the periods specified in subsection (3) during which—
+15C. —(1) When calculating a period of one year’s continuous residence in the State for the purposes of section 15 or 15B, the periods specified in subsection (3) during which—
 
 (a) an applicant for a certificate of naturalisation under section 15, or
 

@@ -1,6 +1,6 @@
 Calculation of period of residence in relation to application for naturalisation.
 
-16A.—(1) A period of residence in the State shall not be reckoned when calculating a period of residence for the purposes of granting a certificate of naturalisation if—
+16A. —(1) A period of residence in the State shall not be reckoned when calculating a period of residence for the purposes of granting a certificate of naturalisation if—
 
 (a) it is in contravention of section 5(1) of the Act of 2004,
 

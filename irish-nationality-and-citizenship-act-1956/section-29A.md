@@ -1,6 +1,6 @@
 Offences.
 
-29A.—A person who knowingly or recklessly makes (whether in the State or outside the State)—
+29A. —A person who knowingly or recklessly makes (whether in the State or outside the State)—
 
 (a) a declaration under this Act, or
 
