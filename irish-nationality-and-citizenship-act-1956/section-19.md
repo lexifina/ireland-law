@@ -12,7 +12,7 @@ Revocation of certificates of naturalisation.
 
 (e) that the person to whom it is granted has by any voluntary act, other than marriage or entry into a civil partnership, acquired another citizenship.
 
-(1A) Where the Minister is satisfied that one or more of the grounds specified in subsection (1) exists, the Minister shall, prior to revoking a certificate of naturalisation under this section, give the person to whom the certificate of naturalisation was granted such notice as may be prescribed of the Minister’s intention to revoke the certificate of naturalisation (in this section referred to as a ‘notice of intention to revoke’).
+(1A) Where the Minister is satisfied that one or more of the grounds specified in subsection (1) exists, the Minister shall, prior to revoking a certificate of naturalisation under this section, give the person to whom the certificate of naturalisation was granted such notice as may be prescribed of the Minister’s intention to revoke the certificate of naturalisation (in this section referred to as a "notice of intention to revoke").
 
 (1B) A notice of intention to revoke shall—
 
@@ -40,7 +40,9 @@ Revocation of certificates of naturalisation.
 
 (ii) subject to subsection (1O), the reasons for the decision, and
 
-(iii) the right of the person under subsection (1F) to request that an inquiry be held into the decision,and(b) include a statement of the effect of subsection (1J).
+(iii) the right of the person under subsection (1F) to request that an inquiry be held into the decision,and(b) include a statement of the effect of subsection (1J), and
+
+(b) include a statement of the effect of subsection (1J).
 
 (1F) A person who is the subject of a notification to which subsection (1E) applies may, in the prescribed manner and within the period of 14 days beginning on the date on which the notice is given to the person, request that an inquiry be held into the Minister’s decision to revoke his or her certificate of naturalisation.
 
