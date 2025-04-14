@@ -1,0 +1,5 @@
+Admissibility in evidence of documents.
+
+43. (1) All records directed or authorised by or under any enactment to be kept by the MCIB and which, immediately before the appointed day, would be receivable in evidence shall, notwithstanding the dissolution of the MCIB, be admitted in evidence on or after the appointed day as fully as if this Act had not been enacted.
+
+(2) Whenever an extract from or certificate of the contents of any record directed or authorised by or under any enactment to be kept by the MCIB would, if verified in a particular manner by a particular officer of the MCIB, have been admissible immediately before the appointed day as evidence of such contents, an extract from or certificate of the contents of such record shall, if verified in such particular manner by an investigator (whose official position it shall not be necessary to prove) authorised by the Chief Investigator in that behalf, be admitted, on or after the appointed day, as evidence of such contents to the same extent as such first-mentioned extract or certificate would have been so admitted if this Act had not been enacted.
