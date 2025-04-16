@@ -1,0 +1,3 @@
+Restriction on carriage of devices for obstructing meshes of net. (Repealed)
+
+227.—...

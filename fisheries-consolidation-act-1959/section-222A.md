@@ -1,0 +1,3 @@
+Fishing while on board foreign sea-fishing boat within exclusive fishery limits of State. (Repealed)
+
+222A.—...

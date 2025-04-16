@@ -1,0 +1,3 @@
+Use of beaches, etc., by fishermen for purposes of sea fishing. (Repealed)
+
+240.—...

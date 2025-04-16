@@ -1,0 +1,5 @@
+Grants to certain boards of conservators.
+
+62.—(1) In every fishery year, the Minister shall, out of moneys provided by the Oireachtas, pay to Inland Fisheries Ireland in respect of any special tidal waters there are during that year or part thereof an amount equal to such percentage of the sum which was on the 1st day of January, 1933, the total rateable valuation of the fisheries in such tidal waters as was fixed for the purpose of the rate leviable for such year on the other fisheries in such district under section 55.
+
+(2) If the Minister is satisfied that in any fishery year the receipts (including the moneys payable in such year under subsection (1) of this section) of Inland Fisheries Ireland where there are during that year or part thereof any special tidal waters will be insufficient to defray the expenditure to be incurred by such board in such year, he may, with the consent of the Minister for Finance, pay to such board out of moneys provided by the Oireachtas a grant not exceeding the estimated deficit.

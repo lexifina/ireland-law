@@ -1,0 +1,3 @@
+Inquiry into proposed oyster fishery (1959 Act) order.
+
+259.—After the expiration of one month after the publication of the notices mentioned in section 257, in relation to an application for an oyster fishery (1959 Act) order, the Minister shall appoint an officer of the Minister to hold an inquiry (of which due notice shall be given) into the subject matter of the proposed order and for that purpose to hold a sitting or sittings in the neighbourhood of the portion of the seashore to which the proposed order relates and thereat to take and receive any evidence and information offered and inquire into any objections or representations made respecting the proposed order, with power from time to time to adjourn any sitting.

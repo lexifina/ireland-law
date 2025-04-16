@@ -1,0 +1,3 @@
+Amendment of certain bye-laws made under repealed enactments providing for forfeiture.
+
+335.—Where any bye-law (being a bye-law creating an offence) made under any repealed enactment and continued in force by section 334 provides as part of the punishment for the offence and as a statutory consequence of conviction thereof that the person convicted of that offence shall forfeit a particular thing or that a particular thing shall be forfeited, the said bye-law shall be construed as if in lieu of that provision, it provided that, where a person is convicted of that offence, the thing specified in the said bye-law as the thing to be forfeited shall as a statutory consequence of conviction stand forfeited.

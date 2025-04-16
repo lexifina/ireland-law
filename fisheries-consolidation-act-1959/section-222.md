@@ -1,0 +1,3 @@
+Provisions in relation to foreign sea-fishing boats lawfully entering the exclusive fishery limits of the State. (Repealed)
+
+222.—...

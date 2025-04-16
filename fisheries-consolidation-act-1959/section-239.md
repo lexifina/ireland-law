@@ -1,0 +1,3 @@
+Penalty for use of trawl or trammel nets in contravention of bye-laws. (Repealed)
+
+239.—...

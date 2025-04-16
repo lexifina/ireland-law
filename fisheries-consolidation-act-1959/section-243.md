@@ -1,0 +1,3 @@
+Fishing boats and gear, etc. picked up at sea to be delivered at nearest Garda Síochána station. (Repealed)
+
+243.—...

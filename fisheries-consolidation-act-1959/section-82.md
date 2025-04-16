@@ -1,0 +1,3 @@
+Area of validity of trout rod licences. (Repealed)
+
+82.—...

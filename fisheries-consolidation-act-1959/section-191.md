@@ -1,0 +1,3 @@
+Reservation of angling rights in transferable fisheries. (Repealed)
+
+191.—...

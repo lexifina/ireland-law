@@ -1,0 +1,3 @@
+Compensation to employees on transferable fisheries. (Repealed)
+
+195.—...

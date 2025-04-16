@@ -1,0 +1,3 @@
+Restrictions on issue of licences for nets for fishing in certain fisheries. (Repealed)
+
+89.—...

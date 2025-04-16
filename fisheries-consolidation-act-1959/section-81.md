@@ -1,0 +1,3 @@
+Kinds of trout rod licences and licence duties thereon. (Repealed)
+
+81.—...

@@ -1,0 +1,3 @@
+Effect of oyster fishery (1959 Act) order.
+
+262.—When an oyster fishery (1959 Act) order has been made, the grantee shall, by virtue of the order, have, within the limits of the oyster fishery named therein, the exclusive right of depositing, propagating, dredging and fishing for and taking oysters, and in exercise of that right, may, within the limits of the fishery, make and maintain oyster beds, and at any season collect oysters and remove them from place to place and deposit them as and where he thinks fit, and do all other things which he thinks proper for obtaining, storing and disposing of the produce of the fishery or for the regulation of the fishery.

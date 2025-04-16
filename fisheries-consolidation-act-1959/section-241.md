@@ -1,0 +1,3 @@
+Use by fishermen of land adjoining fishing places. (Repealed)
+
+241.—...

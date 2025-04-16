@@ -1,0 +1,3 @@
+Penalty for obstructing or disturbing salmon or trout during the annual close season for salmon and trout.
+
+131.—Every person who, during the annual close season for salmon and trout wilfully obstructs the passage of salmon or trout or the smolts or fry thereof or injures or disturbs any salmon or trout, or any spawn, fry or smolts thereof or injures or disturbs any spawning bed, bank or shallow where such spawn, fry or smolts may be, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine of not less than two pounds and not more than twenty-five pounds, or, at the discretion of the Court, to imprisonment for any period not less than one month and not more than twelve months.

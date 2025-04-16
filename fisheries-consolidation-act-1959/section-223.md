@@ -1,0 +1,3 @@
+Prohibition of certain methods of trawling within the exclusive fishery limits of the State. (Repealed)
+
+223.—...

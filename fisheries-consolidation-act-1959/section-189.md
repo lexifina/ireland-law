@@ -1,0 +1,3 @@
+Obligation of occupiers of transferable fisheries to furnish accounts to the Minister. (Repealed)
+
+189.—...

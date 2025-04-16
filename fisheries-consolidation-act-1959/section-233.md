@@ -1,0 +1,3 @@
+Special powers of sea fisheries protection officers for enforcing Chapters II and III of Part XIII. (Repealed)
+
+233.—...

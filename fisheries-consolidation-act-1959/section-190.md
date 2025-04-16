@@ -1,0 +1,3 @@
+Acquisition of portions of rivers or lakes contiguous to certain weir (fresh water) fisheries. (Repealed)
+
+190.—...

@@ -1,0 +1,13 @@
+Alteration or removal of natural obstructions in rivers to allow free migration of fish.
+
+118.—(1) If in any river, reefs or ledges of rocks, shoals or other natural obstructions prevent or impede the free passage and migration of fish, and hinder the approach of fish to the upper parts of the said river or any lakes communicating therewith and depositing their spawn therein, the Minister, if he so thinks fit, may, upon the application of any person who is interested in the fishery of such river or lake and who deposits or secures a sum of money sufficient for the purpose, construct, authorise or contract with any person interested in the fisheries in the said river to construct such works and make such alterations in the bed of such river as shall effectually secure a free and uninterrupted passage at all seasons of the year for fish.
+
+(2) The plans, sections, specifications and contracts for all works or alterations authorised under this section shall be subject to the previous sanction of the Minister.
+
+(3) For the purpose of executing any work under this section and ascertaining all compensation for damage and other matters in relation thereto, the Minister and his officers and servants shall have the powers and authorities vested in the Commissioners of Public Works in Ireland under and by virtue of the statutes in that behalf made and provided.
+
+(4) No work or alteration under this section in the bed of any river shall be made in such a manner as to injure the effective power of any mill or factory or in any way to impede or interrupt the drainage of lands adjoining such river.
+
+(5) Reasonable compensation shall be made by the parties on whose application any works are authorised under this section for any damage or injury done or to be done or suffered consequently or otherwise in the execution of such works.
+
+(6) Inland Fisheries Ireland may from time to time apply any portion of its funds which it thinks fit for the purpose of removing or making passes in or over natural obstructions in any river ..., subject to the sanction of the Minister, under the preceding subsections of this section, and upon obtaining the sanction of the Minister Inland Fisheries Ireland may place to the credit of the Minister such sum of money as has been for that purpose approved and sanctioned by him and thereupon it shall be lawful for the Minister to construct such works and make such alterations in the bed of any river as shall effectually secure a free and uninterrupted passage for fish, pursuant to the powers and provisions of the preceding subsections of this section.

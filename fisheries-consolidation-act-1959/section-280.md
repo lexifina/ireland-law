@@ -1,0 +1,3 @@
+Right to issue of oyster fishing licences. (Repealed)
+
+280.—...

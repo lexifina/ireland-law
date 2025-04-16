@@ -1,0 +1,3 @@
+Right to issue of trout rod licences. (Repealed)
+
+83.—...

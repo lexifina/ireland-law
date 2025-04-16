@@ -1,0 +1,11 @@
+## CHAPTER V. Dams and Natural Obstructions.
+
+Construction of fish passages in dams for sustaining water for mill power, navigation, etc. in salmon rivers.
+
+115.—(1) In this section, the word “dam” means any dam, weir, dyke or other erection placed in or across a salmon river for sustaining the water of such river for mill power, navigation, irrigation or other purposes.
+
+(2) Every dam constructed on or after the 10th day of August, 1842, in or across any salmon river shall be so built or constructed as to permit and allow, in one or more parts thereof, the free run or migration of all fish at all periods of the year and such provision for the free passage of fish through such dam shall be made at the expense of the person constructing such dam and in such manner as the Minister may approve.
+
+(3) With respect to any dam erected before the 10th day of August, 1842, in or across any salmon river, the Minister, if he thinks it necessary for the benefit of the fisheries thereof, on the application of one or more of the persons interested in the fishery of such river and at the proper costs and charges of the persons interested in such fishery, may cause a survey of the said dam to be made and direct such alterations to be made therein or such additional work to be added thereto as shall in the opinion of the Minister be necessary and desirable for the purpose of affording a free and uninterrupted passage to the fish frequenting such river, without impairing the navigation or lessening or impairing the effective working power of the mill or factory to which such dam belongs.
+
+(4) Inland Fisheries Ireland may from time to time apply any portion of its funds which it thinks fit for the purpose of making passes in or over dams in any river ... subject to the sanction of the Minister, under subsection (3) of this section, and upon obtaining such sanction Inland Fisheries Ireland may place to the credit of the Minister such sum of money as has been for that purpose approved and sanctioned by him and thereupon it shall be lawful for the Minister to direct and cause such alterations to be made in any dam erected in or across any salmon river for affording a free and uninterrupted passage for fish, pursuant to powers and provisions of subsection (3) of this section.

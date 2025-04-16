@@ -1,0 +1,3 @@
+Publication of notices of application.
+
+257.—If, on consideration of an application for an oyster fishery (1959 Act) order, the Minister thinks fit to proceed with the case the Minister shall cause notices to that effect to be published and circulated in the district to be affected by the order and shall give notice of the application in such manner as he thinks proper for giving information to all parties interested and to the owners or reputed owners, lessees or reputed lessees and occupiers or reputed occupiers, so far as they may be known or ascertained, of the portion of the seashore to which the proposed order relates or of the lands adjoining thereto.

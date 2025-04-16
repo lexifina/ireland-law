@@ -1,0 +1,3 @@
+Powers of inspection, examination and detention of sea-fish, etc. (Repealed)
+
+231.—...

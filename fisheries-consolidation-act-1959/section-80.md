@@ -1,0 +1,3 @@
+Penalty for fishing in scheduled trout waters for trout with rod and line by unlicensed person. (Repealed)
+
+80.—...

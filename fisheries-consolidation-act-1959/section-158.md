@@ -1,0 +1,5 @@
+Certificate of fitness to hold a Part X licence.
+
+158.— (1) Where a person who carries on or proposes to carry on the business of selling salmon, trout, eels or molluscan shellfish, or of exporting for sale salmon, trout, eels or molluscan shellfish in a particular Court District applies to a judge of the District Court for the time being assigned to that Court District for a certificate under this section, such judge shall, if satisfied that such person is a fit and proper person to hold a Part X licence, grant him a certificate in writing to that effect.
+
+(2) A person making an application to a judge of the District Court for the grant by the District Court of a certificate under this section in relation to a salmon dealer's licence, eel dealer's licence or molluscan shellfish dealer's licence shall give notice in writing of the application to Inland Fisheries Ireland, not less than fourteen days before the date of the hearing of the application and Inland Fisheries Ireland shall, through such of its officers as it shall nominate for the purpose, be entitled to appear in court and be heard on the hearing of the application.

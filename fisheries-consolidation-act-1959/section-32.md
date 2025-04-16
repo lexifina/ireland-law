@@ -1,0 +1,3 @@
+Resignation of conservator for an electoral division. (Repealed)
+
+32.—...

@@ -1,0 +1,3 @@
+Right to issue of ordinary fishing licences. (Repealed)
+
+71.—...

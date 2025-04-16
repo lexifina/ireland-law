@@ -1,0 +1,3 @@
+Transfer of fisheries to the Minister by the Irish Land Commission. (Repealed)
+
+199.—...

@@ -1,0 +1,3 @@
+Penalty for using boat for capture of salmon or trout during the annual close season for salmon and trout. (Repealed)
+
+133.—...

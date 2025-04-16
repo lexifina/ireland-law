@@ -1,0 +1,3 @@
+Penalty for using boat for capture of salmon or trout during the weekly close time. (Repealed)
+
+147.—...

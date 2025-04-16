@@ -1,0 +1,3 @@
+Restriction on expenditure by boards of conservators. (Repealed)
+
+47.—...
