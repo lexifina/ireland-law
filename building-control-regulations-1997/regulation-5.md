@@ -38,6 +38,8 @@ Interpretation.
 
 “Building Regulations” means the Building Regulations, 1997;
 
+“care facility building” includes a hospital, nursing home, home for older people or for children, school, or other similar establishment used as living accommodation, or for the treatment, care or support of people with illness, mental health difficulties, or disabilities, where such people sleep on the premises;
+
 “commencement notice” means a notice referred to in section 6(2)(k) of the Act;
 
 “company” means a company to which the provisions of the Companies Act 2014 apply, or a company or a body corporate incorporated in another state;
@@ -72,7 +74,17 @@ Interpretation.
 
 “industrial building” includes a factory or other premises used for manufacturing, altering, repairing, cleaning, washing, breaking-up, adapting or processing any article, generating power or slaughtering livestock;
 
-“institutional building” includes a hospital, nursing home, home for old people or for children, school or other similar establishment used as living accommodation or for the treatment, care or maintenance of persons suffering from illness or mental or physical disability or handicap, where such persons sleep on the premises;
+“industrial building – high hazard” means an industrial building—
+
+(a) the contents of which, when ignited, are likely to cause the rapid spread of fire, smoke or fumes and which contents may be solid, liquid, or gaseous and may also be present as dust, spray, mist or vapour,
+
+(b) that contains highly flammable or explosive materials,
+
+(c) that contains areas which, due to their function, may present a greater risk of fire occurring and developing than elsewhere such as manufacturing processes handling highly flammable liquids, or (d) used for manufacturing, processing, repairing, cleaning, washing, breaking up or otherwise treating any hazardous substance;
+
+“industrial building – normal hazard” means an industrial building other than an industrial building – high hazard;
+
+...
 
 “material alteration” means an alteration (other than a repair or renewal), where the work, or any part of the work, carried out by itself would be subject to a requirement of Part A or B of the Second Schedule to the Building Regulations;
 
@@ -86,9 +98,9 @@ Interpretation.
 
 (ii) a hotel, hostel or guest building, becomes so used, or
 
-(iii) an industrial building, becomes so used, or
+(iii) an industrial building – normal hazard, becomes so used, or
 
-(iv) an institutional building, becomes so used, or
+(iv) a care facility building, becomes so used, or
 
 (v) an office (which is not ancillary to the primary use of the building), becomes so used, or
 
@@ -96,7 +108,13 @@ Interpretation.
 
 (vii) a shop (which is not ancillary to the primary use of the building), becomes so used, or
 
-(viii) a shopping centre, becomes so used;
+(viii) a shopping centre, becomes so used, or
+
+(ix) an industrial building – high hazard, becomes so used, or
+
+(x) a storage building – high hazard, becomes so used, or
+
+(xi) a storage building – normal hazard, becomes so used;
 
 “minor works” means works consisting of the installation, alteration or removal of a fixture or fitting, or works of a decorative nature;
 
@@ -118,11 +136,17 @@ Interpretation.
 
 (c) a place of public worship,
 
-(d) a public house, restaurant or similar premises used for the sale to members of the public of food or drink for consumption on the premises, but no building shall be treated as a place of assembly solely because it is a building to which members of the public are occasionally admitted;
+(d) a public house, restaurant or similar premises used for the sale to members of the public of food or drink for consumption on the premises,
+
+(e) a sports pavilion, stadium, grandstand, or other audience or spectator facilities, and
+
+(f) a terminus, station or other facility for air, rail, road or sea travel, but no building shall be treated as a place of assembly solely because it is a building to which members of the public are occasionally admitted;
 
 “register” means a register pursuant to article 21 of these Regulations;
 
 “regularisation certificate” means a certificate referred to in section 6(2)(a)(vii) of the Act;
+
+“relevant building” means a building containing a flat, to which the Code of Practice for the Remediation of Fire Safety Defects, published under Section 18(A) of the Fire Services Acts 1981 and 2003 applies;
 
 “repair or renewal” means works of maintenance or restoration of a routine nature relating to—
 
@@ -145,6 +169,24 @@ Interpretation.
 (b) the Commissioners of Public Works in Ireland;
 
 “statutory declaration” means a statutory declaration referred to in section 6 (2)(a)(vii) of the Act;
+
+“storage building – high hazard” means a building—
+
+(a) used for the storage of goods that, when ignited, are likely to cause the rapid spread of fire, smoke or fumes and which goods may be solid, liquid, or gaseous and may also be present as dust, spray, mist or vapour,
+
+(b) used for the storage of highly flammable or explosive materials,
+
+(c) used for the storage of hazardous goods or materials,
+
+(d) used for the storage of vehicles containing hazardous goods or materials, or
+
+(e) that contains high-rack storage of significant height;
+
+“storage building – normal hazard” means any storage building other than a storage building – high hazard, and includes a building used for parking vehicles, designed to admit or accommodate only passenger vehicles or other light goods vehicles, not more than 2,500 kilograms vehicle weight;
+
+“Tier 1 building” means a relevant building, for which Tier 1 fire safety remediation option works are deemed appropriate, in accordance with the Code of Practice for the Remediation of Fire Safety Defects, published under Section 18(A) of the Fire Services Acts 1981 and 2003;
+
+“Tier 2 building” means a relevant building, for which Tier 2 fire safety remediation option works are deemed appropriate, in accordance with the Code of Practice for the Remediation of Fire Safety Defects, published under Section 18(A) of the Fire Services Acts 1981 and 2003;
 
 “total floor area” as referred to under Articles 9(2)(b), 20A(2)(b)(ii) and 20F(2)(b) in the context of an extension to a dwelling refers only to the total floor area of the proposed extension as described in the commencement notice;
 
