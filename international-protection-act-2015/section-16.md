@@ -8,7 +8,7 @@ Permission to enter and remain in the State
 
 (a) not leave or attempt to leave the State without the consent of the Minister,
 
-(b) not seek, enter or be in employment or engage for gain in any business, trade or profession,
+(b) … [declared unconstitutional, see E-note below]
 
 (c) inform the Minister of his or her address and any change of address as soon as possible, and
 
