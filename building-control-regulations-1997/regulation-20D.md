@@ -12,13 +12,13 @@ Disability Access Certificate.
 
 (ii) a hotel, hostel or guest building, or
 
-(iii) an institutional building, or
+(iii) a care facility building, or
 
 (iv) a place of assembly, or
 
 (v) a shopping centre, but excluding works to such buildings, consisting solely of minor works,
 
-(c) works in connection with the material alteration of a shop, office or industrial building where—
+(c) works in connection with the material alteration of a shop, office , industrial building – normal hazard, industrial building – high hazard, storage building – normal hazard or storage building – high hazard where—
 
 (i) additional floor area is being provided within the existing building, or
 
@@ -32,7 +32,7 @@ Disability Access Certificate.
 
 (ii) a hotel, hostel or guest building, becomes so used, or
 
-(iii) an institutional building, becomes so used, or
+(iii) a care facility building, becomes so used, or
 
 (iv) a place of assembly, becomes so used, or
 
