@@ -52,8 +52,6 @@ Functions of Commission
 
 (q) to participate in the Joint Committee with the Northern Ireland Human Rights Commission in accordance with the Multi-Party Agreement annexed to the British-Irish Agreement (within the meaning of the British- Irish Agreement Act 1999);
 
-OJL 128/8, 30.4.2014
-
 (r) to perform such other functions transferred to it under section 44.
 
 (3) Without prejudice to the generality of section 9(2), the Commission shall exercise its functions under this Act with a view to encouraging and supporting the development of a society in which—
@@ -69,6 +67,8 @@ OJL 128/8, 30.4.2014
 (e) there is mutual respect between persons, including classes of persons, based on a shared understanding of the value of diversity within society and on a shared respect for equality and human rights.
 
 (4) The Commission shall, in the exercise of its functions under Part 3, exercise those functions in a manner which it considers to be most appropriate and proportionate in the circumstances.
+
+OJL 128/8, 30.4.2014
 
 (5) The Commission shall have all such powers as are necessary or expedient for the performance of its functions.
 
