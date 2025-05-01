@@ -14,13 +14,13 @@ Application of Part III.
 
 (iii) a hotel, hostel or guest building, or
 
-(iv) an institutional building, or
+(iv) a care facility building, or
 
 (v) a place of assembly, or
 
 (vi) a shopping centre, but excluding works to such buildings, consisting solely of minor works,
 
-(c) works in connection with the material alteration of a shop, office or industrial building where—
+(c) works in connection with the material alteration of a shop, office , industrial building – normal hazard, industrial building – high hazard, storage building – normal hazard or storage building – high hazard where—
 
 (i) additional floor area is being provided within the existing building, or
 
@@ -47,3 +47,5 @@ Application of Part III.
 (d) a single storey building (other than one described in (c)) ancillary to a dwelling (such as a summer house, poultry-house, aviary, conservatory, coal shed, garden tool shed or bicycle shed) which is used exclusively for recreational or storage purposes or the keeping of plants, birds or animal for domestic purpose's and is not used for the purposes of any trade or business or for human habitation, or to works in connection with such a building provided that, after the works are carried out, the building is or continues to be a building referred to in paragraphs (a) to (d).
 
 (3) This Part shall not apply in relation to works carried out in compliance with a notice served under Section 20 of the Fire Services Act 1981 (No. 30 of 1981).
+
+(4) This Part shall not apply to works to a Tier 1 building or a Tier 2 building provided that the works are carried out in accordance with the Code of Practice for the Remediation of Fire Safety Defects, published under Section 18(A) of the Fire Services Acts 1981 and 2003.
