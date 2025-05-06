@@ -1,6 +1,6 @@
 Modification of operation of section 105(1)(a).
 
-111. (1) Subject to subsection (2), a relevant individual is not, for the purposes of section 105(1)(a), practising medicine in contravention of a provision of this Act if he or she is acting—
+111.— (1) Subject to subsection (2), a relevant individual is not, for the purposes of section 105(1)(a), practising medicine in contravention of a provision of this Act if he or she is acting—
 
 (a) under the direction and control of a registered medical practitioner, or
 

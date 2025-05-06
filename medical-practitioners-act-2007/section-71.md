@@ -1,6 +1,6 @@
 Duty of Council to decide on appropriate sanction.
 
-71. (1) Subject to sections 57(6)(a) and 72 and subsection (2), the Council shall, as soon as is practicable after receiving and considering the report referred to in section 69(1) of the Fitness to Practise Committee in relation to a complaint concerning a registered medical practitioner where section 70(b)(ii) is applicable, decide that one or more than one of the following sanctions be imposed on the practitioner:
+71.— (1) Subject to sections 57(6)(a) and 72 and subsection (2), the Council shall, as soon as is practicable after receiving and considering the report referred to in section 69(1) of the Fitness to Practise Committee in relation to a complaint concerning a registered medical practitioner where section 70(b)(ii) is applicable, decide that one or more than one of the following sanctions be imposed on the practitioner:
 
 (a) an advice or admonishment, or a censure, in writing;
 

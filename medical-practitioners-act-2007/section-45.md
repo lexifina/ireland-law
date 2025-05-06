@@ -1,6 +1,6 @@
 Registration of medical practitioners — general.
 
-45. (1) A person may make an application to the Council, accompanied by the appropriate fee, to be registered in a division of the register other than the Supervised Division.
+45.— (1) A person may make an application to the Council, accompanied by the appropriate fee, to be registered in a division of the register other than the Supervised Division.
 
 (2) An application under subsection (1) by a person shall be accompanied by—
 
