@@ -6,9 +6,15 @@ Inquiry by Fitness to Practise Committee into conduct of a registered dentist.
 
 (a) his alleged professional misconduct,
 
-(b) his alleged unfitness to engage in such practice by reason of physical or mental disability, or
+(b) his alleged unfitness to engage in such practice by reason of physical or mental disability,
 
-(c) his alleged failure to comply with regulations made under section 13(2) of the Health (Pricing and Supply of Medical Goods) Act 2013, and the application shall, subject to the provisions of this Act, be considered by the committee established by the Council under section 13(2)(b) of this Act (in this Act referred to as the “Fitness to Practise Committee”).
+(c) his alleged failure to comply with regulations made under section 13(2) of the Health (Pricing and Supply of Medical Goods) Act 2013,
+
+(d) his or her alleged failure to comply with section 32A,
+
+(e) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(f) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction, and the application shall, subject to the provisions of this Act, be considered by the committee established by the Council under section 13(2)(b) of this Act (in this Act referred to as the “Fitness to Practise Committee”).
 
 (2) Where an application is made under this section and the Fitness to Practise Committee, after consideration of the application, is of opinion that there is not sufficient cause to warrant the holding of an inquiry, it shall so inform the Council and the Council, having considered the matter, may decide that no further action shall be taken in relation to the matter and shall so inform the Fitness to Practise Committee and the applicant, or it may direct the Committee to hold an inquiry into the matter in accordance with the provisions of this section.
 
@@ -20,27 +26,45 @@ Inquiry by Fitness to Practise Committee into conduct of a registered dentist.
 
 (i) the alleged professional misconduct,
 
-(ii) the alleged unfitness to practise by reason of physical or mental disability, or
+(ii) the alleged unfitness to practise by reason of physical or mental disability,
 
-(iii) the alleged failure to comply with regulations referred to in subsection (1)(c), as the case may be,
+(iii) the alleged failure to comply with regulations referred to in subsection (1)(c),
+
+(iv) the alleged failure to comply with section 32A,
+
+(v) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(vi) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction, as the case may be,
 
 (c) on completion of the inquiry, the Fitness to Practise Committee shall embody its findings in a report to the Council specifying therein the nature of the application and the evidence laid before it and any other matters in relation to the registered dentist which it may think fit to report including its opinion, having regard to the contents of the report, as to—
 
 (i) the alleged professional misconduct of the registered dentist,
 
-(ii) the fitness or otherwise of that dentist to engage in the practice of dentistry by reason of his or her alleged physical or mental disability, or
+(ii) the fitness or otherwise of that dentist to engage in the practice of dentistry by reason of his or her alleged physical or mental disability,
 
-(iii) the alleged failure to comply with regulations referred to in subsection (1)(c), as the case may be.
+(iii) the alleged failure to comply with regulations referred to in subsection (1)(c),
 
-(4) When it is proposed to hold an inquiry under subsection (3) of this section, the person who is the subject of the inquiry shall be given notice in writing by the Registrar sent by pre-paid post to the address of that person as stated in the register of the nature of the evidence proposed to be considered at the inquiry and that the person and any person representing him shall be given the opportunity of being present at the hearing.
+(iv) the alleged failure to comply with section 32A,
 
-(5) The findings of the Fitness to Practise Committee on any matter referred to it, and the decision of the Council on any report made to it by that Committee shall not be made public without the consent of the person who has been the subject of the inquiry before the Fitness to Practise Committee unless such person has been found, as a result of such inquiry, to be—
+(v) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction,
 
-(a) guilty of professional misconduct,
+(vi) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction, as the case may be.
 
-(b) unfit to engage in the practice of dentistry because of physical or mental disability, or
+(4) When it is proposed to hold an inquiry under subsection (3) of this section, the person who is the subject of the inquiry shall be given notice in writing by the Registrar ... of the nature of the evidence proposed to be considered at the inquiry and that the person and any person representing him shall be given the opportunity of being present at the hearing.
 
-(c) guilty of a failure to comply with regulations referred to in subsection (1)(c), as the case may be.
+(5) Subject to sections 47(4) and 47A, the findings of the Fitness to Practise Committee on any matter referred to it, and the decision of the Council on any report made to it by that Committee shall not be made public without the consent of the person who has been the subject of the inquiry before the Fitness to Practise Committee unless such person has been found, as a result of such inquiry, ...—
+
+(a) to be guilty of professional misconduct,
+
+(b) to be unfit to engage in the practice of dentistry because of physical or mental disability,
+
+(c) to be guilty of a failure to comply with regulations referred to in subsection (1)(c),
+
+(d) to have failed to comply with section 32A,
+
+(e) to have a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(f) to have a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction, as the case may be.
 
 (6) The Fitness to Practise Committee shall, for the purposes of an inquiry held under subsection (3) of this section, have the powers, rights and privileges vested in the High Court or a judge thereof on the hearing of an action in respect of—
 

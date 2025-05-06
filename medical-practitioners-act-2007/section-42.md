@@ -6,4 +6,4 @@ Recovery of fees, etc.
 
 (a) medical services provided by an unregistered medical practitioner at a time when the practitioner was a registered medical practitioner, or
 
-(b) medical services provided by an unregistered medical practitioner to the extent that they were provided in any of the circumstances specified in any of paragraphs (a) to (g) of section 38.
+(b) medical services provided by an unregistered medical practitioner to the extent that they were provided in any of the circumstances specified in any of paragraphs (a) to (g) of section 38 or in section 38B.

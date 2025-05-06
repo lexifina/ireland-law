@@ -1,6 +1,6 @@
 Interpretation.
 
-2.— In this Act, except where the context otherwise requires—
+2.—(1) In this Act, except where the context otherwise requires—
 
 “Act of 1978” means the Medical Practitioners Act 1978;
 
@@ -15,6 +15,8 @@ Interpretation.
 (b) which falls within one or more than one of the grounds specified in section 57(1);
 
 “appropriate fee”, in relation to a provision of this Act, means the fee determined under section 36(1) that is appropriate for that provision;
+
+“authorised officer” means a member of the staff of the Council appointed under section 58(1) to be an authorised officer to perform the functions specified under section 58(2);
 
 “basic medical qualification” means—
 
@@ -66,6 +68,8 @@ Interpretation.
 
 “give” includes send, whether by post or electronic or other means, and cognate words shall be construed accordingly;
 
+“health or social care”, in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity as a member or former member of a relevant profession;
+
 “Health Service Executive” means the Health Service Executive established under section 6 of the Health Act 2004;
 
 “Higher Education Authority” means An tÚdarás um Ard-Oideachas established by section 2 of the Higher Education Authority Act 1971;
@@ -73,6 +77,10 @@ Interpretation.
 “indemnity“means a policy of medical indemnity insurance, or other indemnity arrangement, against losses arising from claims in respect of civil liability incurred by a medical practitioner in respect of any act or omission of that medical practitioner arising from his or her practice as a medical practitioner;
 
 “inquiry” means an inquiry into a complaint by the Fitness to Practise Committee pursuant to a referral under section 63;
+
+“investigation”, in relation to a complaint, means an investigation referred to in section 58A(1);
+
+“investigation report”, in relation to a complaint, means a report referred to in section 58A(3) prepared following the investigation of the complaint;
 
 “local authority” has the same meaning as it has in the Local Government Act 2001;
 
@@ -136,9 +144,25 @@ Interpretation.
 
 “relevant medical disability”, in relation to a medical practitioner, means a physical or mental disability of the practitioner (including addiction to alcohol or drugs) which may impair the practitioner’s ability to practise medicine or a particular aspect thereof;
 
+“relevant profession” means any of the following professions:
+
+(a) dentist;
+
+(b) a designated profession within the meaning of section 3 of the Health and Social Care Professionals Act 2005 ;
+
+(c) medical practitioner;
+
+(d) midwife;
+
+(e) nurse;
+
+(f) pharmacist;
+
 “remove”, in relation to the registration of a medical practitioner, means to delete the practitioner’s name from the register pursuant to section 52(2) or (6), 55(1) or 79(1);
 
 “restore”, in relation to the registration of a medical practitioner, means to re-enter the practitioner’s name in the register pursuant to section 52(5), 80 or 81(2) or a decision confirmed or given under section 54(4) or 83(3);
+
+“restriction” includes a condition;
 
 “committee” means a committee established under section 20(2)(a) or (b);
 

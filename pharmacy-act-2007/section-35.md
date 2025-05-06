@@ -32,6 +32,16 @@ Complaints about registered pharmacists.
 
 (3) A complaint may be made by or on behalf of any person or by the registrar.
 
+(3B) (a) The registrar may, in relation to a complaint heard, being heard or to be heard by a committee of inquiry, whenever he or she considers it necessary to do so, request in writing the Garda Síochána to give to him or her information concerning the criminal record of the registered pharmacist the subject of the complaint that the committee may reasonably require for the performance of its functions.
+
+(b) The Garda Síochána shall, subject to section 55 of the Data Protection Act 2018 , comply with a request under paragraph (a) as soon as is practicable after receiving the request.
+
+(c) The registrar may, whenever he or she considers it necessary to do so, request in writing that the registrar or clerk of a court which has convicted a registered pharmacist of an offence in the State to give to him or her a certificate of conviction (or, in the case of the District Court, a certified copy of the order concerned made by the Court), or a certified copy of the judgment, or both, in respect of the offence that the registrar or Council (including any committee thereof), or both, may reasonably require for the performance of his or her or its functions under this Act in relation to that pharmacist.
+
+(d) The registrar or clerk of the court concerned the subject of a request under paragraph (c) shall comply with the request as soon as is practicable after receiving the request.
+
+(e) In this subsection, "criminal record", in relation to a registered pharmacist, means a record of the previous convictions (other than spent convictions within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 ) of the pharmacist for offences (if any).
+
 (4) The Council shall inform the registered pharmacist about whom a complaint has been made of that fact and give the registered pharmacist a copy of the complaint.
 
 (5) The Council shall take all reasonable steps to ensure that the complainant and the registered pharmacist are kept informed of the making of all decisions by it in relation to a complaint.

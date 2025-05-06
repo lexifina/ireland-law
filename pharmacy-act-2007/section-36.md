@@ -27,3 +27,5 @@ Complaints about registered retail pharmacy businesses.
 (2) Subsections (2) to (6) of section 35 shall apply to a complaint about a registered retail pharmacy business as they apply to a complaint about a registered pharmacist but with the substitution for references to the registered pharmacist of references to the pharmacy owner or, as the case may be, the representative of that owner.
 
 (3) In subsection (1), the references to a pharmacy owner include references to a director of a corporate body which owns the retail pharmacy business.
+
+(4) Section 35(3B) shall, with all necessary modifications, apply to a pharmacy owner as that section applies to a registered pharmacist within the meaning of that section.

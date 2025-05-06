@@ -10,4 +10,6 @@ If registered medical practitioner consents to censure or remedial action, etc.
 
 (d) consent to being censured by the Council.
 
+(1A) Where a registered medical practitioner gives an undertaking or consent the subject of a request under subsection (1) by the Fitness to Practise Committee, the inquiry into the complaint shall be considered to be completed.
+
 (2) Where a registered medical practitioner refuses to give an undertaking or consent the subject of a request under subsection (1) by the Fitness to Practise Committee, the Committee may proceed as if the request had not been made.

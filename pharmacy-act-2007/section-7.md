@@ -8,7 +8,7 @@ Functions of the Society.
 
 (c) to ensure that those persons and pharmacists obtain appropriate experience,
 
-(d) to ensure that pharmacists undertake appropriate continuing professional development, including in relation to prescribing and the acquisition of specialisation, and
+(d) to ensure that pharmacists and pharmaceutical assistants undertake appropriate continuing professional development, including in relation to prescribing and the acquisition of specialisation, and
 
 (e) to—
 

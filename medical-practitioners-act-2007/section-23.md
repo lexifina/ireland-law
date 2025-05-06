@@ -1,12 +1,12 @@
 Removal of members of Council from office.
 
-23.— (1) The Minister may at any time remove a member of the Council from office if—
+23.— (1) The Minister may at any time remove a member of the Council from office if , in the Minister’s opinion—
 
 (a) the member has become incapable through illness of performing the functions of the office,
 
 (b) the member has committed stated misbehaviour,
 
-(c) whether or not following a review under subsection (9), the Minister is satisfied that the member’s behaviour prevents the Council from, or unnecessarily hinders the Council in, performing its functions in an effective manner,
+(c) whether or not following a review under subsection (9), ... the member’s behaviour prevents the Council from, or unnecessarily hinders the Council in, performing its functions in an effective manner,
 
 (d) the member has contravened—
 

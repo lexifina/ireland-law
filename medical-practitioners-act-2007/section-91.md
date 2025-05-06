@@ -30,7 +30,7 @@ Duty of Council in relation to maintenance of professional competence of registe
 
 (d) may have committed a serious breach of its guidance on ethical standards and behaviour, then the Council shall forthwith make a complaint.
 
-(7) Where, arising from the performance of its duty under subsection (1), the Council considers that a medical practitioner registered in the Specialist Division or the Trainee Specialist Division has been given every reasonable opportunity by the Council to improve the practitioner’s professional performance but whose professional competence is found by the Council to continue to be below the standards of competence that can reasonably be expected for continued registration in the Specialist Division, or the Trainee Specialist Division, as the case may be then the Council may make a complaint.
+(7) Where, arising from the performance of its duty under subsection (1), the Council considers that a medical practitioner registered in the General Division, the Specialist Division, the Trainee Specialist Division or the Supervised Division has been given every reasonable opportunity by the Council to improve the practitioner’s professional performance but whose professional competence is found by the Council to continue to be below the standards of competence that can reasonably be expected for continued registration in the General Division, the Specialist Division, the Trainee Specialist Division or the Supervised Division, as the case may be, then the Council may make a complaint.
 
 (8) Where the Council makes a decision under subsection (4)(a) or (b), it shall give notice in writing (accompanied by a copy of section 92), as soon as is practicable after making the decision, to the body the subject of the decision of—
 
