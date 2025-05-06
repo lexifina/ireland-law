@@ -8,7 +8,9 @@ Admissibility of certain documents relating to proceedings in other jurisdiction
 
 (3) Where a document is admissible in evidence under this section, any document which purports to be a translation of that document shall be admissible as evidence of the translation if it is certified as correct by a person competent to do so and a document purporting to be a certificate under this subsection shall be deemed to be such a certificate, and to be signed by the person purporting to have signed it, unless the contrary is proved.
 
-(4) In this section— ‘final determination’, in relation to any relevant proceedings and a nurse or midwife, means—
+(4) In this section—
+
+‘final determination’, in relation to any relevant proceedings and a nurse or midwife, means—
 
 (a) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the nurse or midwife, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
 

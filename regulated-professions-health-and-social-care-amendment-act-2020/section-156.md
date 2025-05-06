@@ -36,9 +36,7 @@ Declarations by registered nurses, etc., in relation to certain matters in State
 
 (i) the abandonment or withdrawal of the appeal, or
 
-(ii) the determination of the appeal, whichever first occurs;
-
-‘relevant proceedings’, in relation to a registered nurse or registered midwife, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the nurse or midwife is the subject—
+(ii) the determination of the appeal, whichever first occurs; ‘relevant proceedings’, in relation to a registered nurse or registered midwife, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the nurse or midwife is the subject—
 
 (a) in the State or another jurisdiction which may directly or indirectly result in the nurse or midwife—
 
