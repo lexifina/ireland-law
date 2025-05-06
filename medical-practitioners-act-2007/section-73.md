@@ -1,6 +1,6 @@
 Duty to notify registered medical practitioner of Council’s sanction.
 
-73.— (1) Subject to subsection (2), the Council shall, as soon as is practicable after deciding under [section 71 or section 71A, as the case may be,] to impose a sanction on a registered medical practitioner, give notice in writing to the practitioner and, in any case where the Council is not the complainant, the complainant, of—
+73.— (1) Subject to subsection (2), the Council shall, as soon as is practicable after deciding under section 71 or section 71A, as the case may be, to impose a sanction on a registered medical practitioner, give notice in writing to the practitioner and, in any case where the Council is not the complainant, the complainant, of—
 
 (a) the nature of the sanction that the Council has decided to impose,
 

@@ -1,6 +1,6 @@
 Steps to be taken by Council after receiving report.
 
-70. The Council shall, on receiving the report referred to in section 69(1) of the Fitness to Practise Committee in relation to a complaint—
+70.— The Council shall, on receiving the report referred to in section 69(1) of the Fitness to Practise Committee in relation to a complaint—
 
 (a) if there is an undertaking or consent under section 67(1), comply with section 71(2) in respect of the measures concerned, and
 
