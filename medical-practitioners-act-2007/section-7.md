@@ -60,7 +60,7 @@ Functions of Council.
 
 (f) the need to secure the most beneficial, effective and efficient use of those resources.
 
-(5) The Council has power to do anything that appears to it to be requisite, advantageous or incidental to, or to facilitate, the performance of its functions.
+(5) The Council has power to do anything that appears to it to be requisite, advantageous or incidental to, or to facilitate, the performance of its functions , including the making of arrangements with any person to assist the Council or a committee in the proper discharge of any of the Council’s or committee’s (as the case may be) functions.
 
 (6) The Minister, or a person authorised by the Minister to give a notice under this subsection, may by notice in writing given to the Council require the Council to provide the Minister or that person, as the case may be, with such information in relation to the performance of the Council’s functions as is specified in the notice and within the period specified in the notice (being a period reasonable in the circumstances).
 
