@@ -12,7 +12,7 @@ Application by registered dentist to have name removed from register.
 
 (4) Nothing in this section shall operate to prevent the Council from refusing to restore the name of any person, who is otherwise entitled to be registered, on the grounds of the unfitness of that person to engage in the practice of dentistry.
 
-(5) On making a decision under subsection (4) of this section, the Council shall forthwith send by pre-paid post to the person to whom the decision relates a notice in writing stating the decision, the date thereof and the reasons therefor.
+(5) On making a decision under subsection (4) of this section, the Council shall forthwith send ... to the person to whom the decision relates a notice in writing stating the decision, the date thereof and the reasons therefor.
 
 (6) A person to whom a decision under subsection (4) of this section relates may, within the period of two months, beginning on the date of the decision, apply to the High Court for cancellation of the decision and, if he so applies, the High Court, on the hearing of the application, may—
 

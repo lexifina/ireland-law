@@ -4,6 +4,10 @@ Fees.
 
 (a) the registration of a person in any register maintained by the Council,
 
+(aa) the recognition of a qualification (other than a professional qualification referred to in paragraph (ab)) held by a person,
+
+(ab) subject to Regulation 90(2) of the Regulations of 2017, the recognition under those Regulations of a professional qualification (within the meaning of Regulation 3 of those Regulations) as a dental practitioner or dental specialist,
+
 (b) the retention of the name of a person in any register maintained by the Council,
 
 (c) the restoration in any register maintained by the Council of the name of any person whose name has been erased or removed pursuant to the provisions of this Act from such register,

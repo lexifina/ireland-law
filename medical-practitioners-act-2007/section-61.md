@@ -4,7 +4,9 @@ No further action or referral of complaint to another body or authority or to pr
 
 (a) there is not sufficient cause to warrant further action being taken in relation to the complaint,
 
-(b) the complaint should be referred to another body or authority or to a professional competence scheme, or
+(b) the complaint should be referred to another body or authority,
+
+(ba) the medical practitioner the subject of the complaint should be referred to a professional competence scheme, or
 
 (c) the complaint is one that could be resolved by mediation or other informal means pursuant to guidelines prepared under section 62(1), it shall inform the Council of that opinion.
 
@@ -12,9 +14,9 @@ No further action or referral of complaint to another body or authority or to pr
 
 (a) decide that no further action is to be taken in relation to the complaint,
 
-(b) direct the Preliminary Proceedings Committee to refer the complainant to another body or authority,
+(b) direct the Preliminary Proceedings Committee to refer the complaint to another body or authority,
 
-(c) refer the complaint to a professional competence scheme,
+(c) refer the medical practitioner the subject of the complaint to a professional competence scheme,
 
 (d) refer the complaint for resolution by mediation or other informal means, or
 

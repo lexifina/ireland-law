@@ -16,7 +16,11 @@ Offences and penalties.
 
 (b) if made by the other person would be an offence by the other person under subsection (1).
 
-(4) A person is guilty of an offence if the person makes or causes to be made any false declaration or misrepresentation for the purpose of obtaining registration.
+(4) A person is guilty of an offence if the person makes or causes to be made—
+
+(a) any false declaration or misrepresentation for the purpose of obtaining registration, or
+
+(b) any false declaration under section 52B.
 
 (5) A person is guilty of an offence if the person, with intent to deceive, makes use of any certificate issued to him or her or any other person under this Act.
 

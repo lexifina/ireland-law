@@ -22,7 +22,7 @@ Creation of classes of auxiliary dental workers.
 
 (5) Where any person has failed to pay any retention fee determined by the Council under subsection (2) (e) of this section, the Council may decide that the registration of the name of such person in the register shall not have effect until the fee has been paid.
 
-(6) The Council shall not make a decision under subsection (5) of this section unless the Council has not less than two months previously by notice in writing sent by pre-paid post to the person, at his address as stated in any register maintained by the Council under this section, requested payment of the fee on more than one occasion.
+(6) The Council shall not make a decision under subsection (5) of this section unless the Council has not less than two months previously by notice in writing sent to the person requested payment of the fee on more than one occasion.
 
 (7) Any member of a class of auxiliary dental workers established under a scheme made under this section who—
 

@@ -22,7 +22,11 @@ Council’s power to make rules.
 
 (f) the receiving of submissions by section 20(2) committees,
 
-(g) the establishment, membership, functions and procedures of subcommittees of committees including, in the case of the Fitness to Practise Committee, subcommittees inquiring, on behalf of that Committee, into different grounds founding a complaint,
+(g) subject to subsection (3A), the establishment, membership, functions and procedures of subcommittees of committees, including—
+
+(i) in the case of the Pre liminary Proceedings Committee, subcommittees to give initial consideration to complaints on behalf of that Committee, and
+
+(ii) in the case of the Fitness to Practise Committee, subcommittees inquiring, on behalf of that Committee, into complaints referred to that Committee,
 
 (h) the setting of criteria for assessing applications for registration in the Specialist Division,
 
@@ -75,6 +79,12 @@ Council’s power to make rules.
 (a) the form in which and the means by which evidence or submissions may be received by section 20(2) committees, and
 
 (b) the conditions subject to which evidence or submissions may be received by section 20(2) committees by means of a live video link, a video recording, a sound recording or any other mode of transmission.
+
+(3A) Without prejudice to the generality of subsection (2)(g), rules made under that subsection may provide that—
+
+(a) the chairperson of the Preliminary Proceedings Committee, or such other member of that Committee who is authorised by the rules to do so, may establish, in accordance with the rules, a subcommittee referred to in subsection (2)(g)(i), or
+
+(b) the chairperson of the Fitness to Practise Committee, or such other member of that Committee who is authorised by the rules to do so, may establish, in accordance with the rules, a subcommittee referred to in subsection (2)(g)(ii).
 
 (4) Without prejudice to the generality of subsection (2)(x), rules made under this section may specify—
 
