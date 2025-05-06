@@ -1,3 +1,3 @@
-F10[Recognition of qualification for register
+F12[Recognition of qualification for register
 
 26B.—...

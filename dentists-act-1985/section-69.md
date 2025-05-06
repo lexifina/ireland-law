@@ -1,4 +1,4 @@
-F46[Special measures registration having regard to Covid-19
+F49[Special measures registration having regard to Covid-19
 
 69.—(1) A previous registrant may make an application to the Council to be registered in the register pursuant to this section.
 
