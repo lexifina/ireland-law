@@ -164,9 +164,7 @@ Amendment of section 2 of Act of 2007
 
 (b) a certificate of experience;
 
-‘investigation’, in relation to a complaint, means an investigation referred to in section 58A(1);
-
-‘investigation report’, in relation to a complaint, means a report referred to in section 58A(3) prepared following the investigation of the complaint;
+‘investigation’, in relation to a complaint, means an investigation referred to in section 58A(1); ‘investigation report’, in relation to a complaint, means a report referred to in section 58A(3) prepared following the investigation of the complaint;
 
 ‘intern’ means a person whose name is entered in the register of interns;
 

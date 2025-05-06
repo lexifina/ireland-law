@@ -28,7 +28,9 @@ Amendment of section 55 of Act of 2011
 
 (e) In this subsection, ‘criminal record’, in relation to a nurse or midwife, means a record of the previous convictions (other than spent convictions within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016) of the nurse or midwife for offences (if any).
 
-(2B) Subject to subsection (2C), where the chief executive officer receives a complaint, he or she shall comply with section 56A in respect of the complaint unless— (a) he or she is satisfied that the complaint is not made in good faith, or
+(2B) Subject to subsection (2C), where the chief executive officer receives a complaint, he or she shall comply with section 56A in respect of the complaint unless—
+
+(a) he or she is satisfied that the complaint is not made in good faith, or
 
 (b) he or she is satisfied that the complaint is frivolous or vexatious.
 
