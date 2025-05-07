@@ -1,6 +1,10 @@
 Persons to assist Preliminary Proceedings Committee.
 
-58.— (1) The chief executive officer may appoint such and so many members of staff as he or she deems appropriate to be authorised officers to investigate complaints and to assist the chief executive officer and the Preliminary Proceedings Committee in relation to complaints for such period and subject to such terms as the chief executive officer may determine.
+58.— (1) The chief executive officer may appoint—
+
+(a) such and so many persons (including any members of the staff of the Council) as he or she deems appropriate to be authorised officers to investigate complaints and to assist the chief executive officer and the Preliminary Proceedings Committee in relation to complaints for such period and subject to such terms as the chief executive officer may determine, and
+
+(b) such other persons as he or she deems appropriate to provide the chief executive officer, the authorised officers or the Preliminary Proceedings Committee with such advice, assistance or expertise as may be required in relation to the consideration or investigation of complaints for such period and subject to such terms as the chief executive officer may determine.
 
 (2) Subject to subsection (4), the chief executive officer shall specify the functions to be performed by authorised officers.
 
@@ -18,7 +22,9 @@ Persons to assist Preliminary Proceedings Committee.
 
 (e) requesting persons to provide the chief executive officer with statements in writing concerning any matter relevant to the chief executive officer’s or Preliminary Proceedings Committee’s functions and examining statements given in response to the requests;
 
-(f) providing the chief executive officer or Preliminary Proceedings Committee with any other advice or assistance required in relation to the preparation of the chief executive officer’s or Preliminary Proceedings Committee’s reports.
+(f) requesting suitably qualified experts to provide an authorised officer, the chief executive officer or the Preliminary Proceedings Committee with advice and assistance required to assist in the performance of their functions; and
+
+(g) providing the chief executive officer or Preliminary Proceedings Committee with any other advice or assistance required in relation to the preparation of the chief executive officer’s or Preliminary Proceedings Committee’s reports.
 
 (4) An authorised officer—
 
