@@ -10,7 +10,9 @@ Conduct of investigation
 
 (b) comment on any allegations contained in the complaint or reference.
 
-(4) The Ombudsman shall, without prejudice to the form of investigation, ensure investigations are conducted otherwise than in public.
+(4) Subject to subsection (4A), the Ombudsman shall, without prejudice to the form of investigation, ensure investigations are conducted otherwise than in public.
+
+(4A) Where an investigation into a complaint made under this Part includes an oral hearing, the Ombudsman shall, on his or her own motion or upon the application by or on behalf of a party to the complaint, having consulted with the parties to the complaint and having considered the nature or circumstances of the complaint and whether it is in the interests of justice to do so, decide whether the oral hearing shall be conducted in public.
 
 (5) The Ombudsman may, in the course of investigating a complaint, periodically report to the complainant on the progress of the investigation and, in so doing, may make such comments to the complainant on the investigation and its consequences and implications as the Ombudsman thinks fit.
 

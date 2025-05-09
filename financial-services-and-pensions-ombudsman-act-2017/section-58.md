@@ -6,6 +6,8 @@ Mediation
 
 (3) Participation in mediation by the parties to a complaint is voluntary, and a party may withdraw at any time.
 
+(3A) The Ombudsman shall conduct a mediation under this section in private.
+
 (4) The Ombudsman may, on reasonable grounds, abandon an attempt to resolve a complaint by mediation as he or she considers appropriate.
 
 (5) Evidence of anything said or admitted during a mediation, or an attempted mediation, of a complaint, and any document prepared for the purposes of the mediation, are not admissible—

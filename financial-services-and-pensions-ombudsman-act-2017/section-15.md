@@ -38,6 +38,6 @@ Staff of Ombudsman
 
 (11) A member of the staff of the Ombudsman may perform functions authorised under subsection (7) free from interference from any other person, except that the staff member shall—
 
-(a) comply with directions given by the Ombudsman or the Deputy Ombudsman under section 12(9) or subsection (6), and
+(a) comply with directions given by the Ombudsman or a Deputy Ombudsman under section 12(9) or subsection (6), and
 
-(b) keep the Ombudsman or the Deputy Ombudsman informed about the performance of his or her functions generally.
+(b) keep the Ombudsman or a Deputy Ombudsman informed about the performance of his or her functions generally.

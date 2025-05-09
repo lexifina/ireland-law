@@ -4,7 +4,7 @@ Confidential information
 
 (2) A person shall not, unless authorised by the Ombudsman or required by law, disclose any confidential information obtained by him or her while performing, or as a result of having performed, duties as any of the following:
 
-(a) the Deputy Ombudsman;
+(a) a Deputy Ombudsman;
 
 (b) a member of the Council;
 
@@ -24,7 +24,7 @@ Confidential information
 
 (a) the Ombudsman,
 
-(b) the Deputy Ombudsman,
+(b) a Deputy Ombudsman,
 
 (c) a member of the Council,
 

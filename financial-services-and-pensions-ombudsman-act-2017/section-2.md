@@ -66,6 +66,8 @@ Interpretation
 
 “credit agreement” has the meaning given to it in section 28 of the Central Bank Act 1997;
 
+“Credit Reviewer“has the meaning given to it by the Guidelines issued under section 210 (1) of the National Asset Management Agency Act 2009 (S.I. No. 127 of 2010);
+
 “credit servicing” has the meaning given to it in section 28 of the Central Bank Act 1997;
 
 “credit servicing firm” has the meaning given to it in section 28 of the Central Bank Act 1997;
@@ -123,6 +125,10 @@ Interpretation
 (ii) under any contract of guarantee relating to the consumer-hire agreement or any right to recover the goods from the hirer under the consumer-hire agreement;
 
 (g) a mortgage lender within the meaning of section 2 of the Act of 1995;
+
+(ga) a person who, before the commencement of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2015, engaged in any of the activities referred to in subparagraphs (i) to (iii) of paragraph (a) of the definition of "credit servicing" in section 28 (1) of the Central Bank Act 1997 and does not otherwise fall within paragraph (gb);
+
+(gb) a person who, before the commencement of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2018, engaged in any of the activities referred to in subparagraphs (i) to (iii) of paragraph (a) of the definition of “credit servicing“in section 28 (1) of the Central Bank Act 1997 and does not otherwise fall within paragraph (ga);
 
 (h) any other person of a class specified in regulations made by the Minister under section 4;
 
@@ -221,3 +227,5 @@ Interpretation
 (i) a current account with a financial institution, or
 
 (ii) any other financial service of an indefinite duration that is widely available and does not possess specialised characteristics.
+
+(4) For the purposes of the application of this Act to a complaint, a reference in this Act to a financial service provider or a pension provider, as the case may be, shall, unless the context otherwise requires, be construed as including a person who was a financial service provider or a pension provider, as the case may be, at the time of the conduct complained of.

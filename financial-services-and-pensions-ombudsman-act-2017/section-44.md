@@ -32,7 +32,7 @@ Making of complaints
 
 (c) the conduct complained of relates to a matter that—
 
-(i) is within the jurisdiction of the Workplace Relations Commission or the Pensions Authority, or an alternative suitable forum or tribunal,
+(i) is within the jurisdiction of the Workplace Relations Commission, the Credit Reviewer or the Pensions Authority, or an alternative suitable forum or tribunal,
 
 (ii) is of a class prescribed by regulations made by the Minister under section 4, or
 

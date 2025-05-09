@@ -8,10 +8,10 @@ Expenses
 
 (b) in so far as they relate to the investigation of complaints regarding pension providers shall, to such extent as may be sanctioned by the Minister, be paid out of moneys provided by the Oireachtas.
 
-(3) The calculation of expenses to be charged to the levy, under subsection (2)(a), and to the Oireachtas, under subsection (2)(b), shall be based on the percentage division of the workload of the office of the Ombudsman between—
+(3) The calculation of expenses to be charged to the levy, under subsection (2)(a), and to the Oireachtas, under subsection (2)(b), shall be based on the percentage division of the complaints received by the Ombudsman in the 3 immediately preceding financial years between—
 
 (a) complaints relating to financial service providers, and
 
-(b) complaints relating to pension providers, dealt with by the Ombudsman in the previous financial year.
+(b) complaints relating to pension providers.
 
 (4) If any issue arises as to whether any expenses fall within paragraph (a) or (b) of subsection (2), it shall be referred to the Minister whose decision on the matter shall be final.

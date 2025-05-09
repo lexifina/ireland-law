@@ -2,9 +2,9 @@ Salary and superannuation
 
 14. (1) In this section, “superannuation benefit” means any pension, gratuity or other allowance payable to or in respect of a person ceasing to be Ombudsman, Deputy Ombudsman or a member of the staff of the Office.
 
-(2) The Ombudsman and the Deputy Ombudsman shall be paid such remuneration and allowances (including travel and subsistence allowances) as the Minister, with the consent of the Minister for Public Expenditure and Reform, determines.
+(2) The Ombudsman and any Deputy Ombudsman shall be paid such remuneration and allowances (including travel and subsistence allowances) as the Minister, with the consent of the Minister for Public Expenditure and Reform, determines.
 
-(3) The Minister may, with the consent of the Minister for Public Expenditure and Reform, make and carry out such scheme or schemes for the granting of superannuation benefits to or in respect of any person (including the Ombudsman and Deputy Ombudsman) who, on becoming a member of the staff of the Ombudsman, does not become a member of the Single Public Service Pension Scheme.
+(3) The Minister may, with the consent of the Minister for Public Expenditure and Reform, make and carry out such scheme or schemes for the granting of superannuation benefits to or in respect of any person (including the Ombudsman and any Deputy Ombudsman) who, on becoming a member of the staff of the Ombudsman, does not become a member of the Single Public Service Pension Scheme.
 
 (4) A scheme under this section shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
 

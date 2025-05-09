@@ -8,9 +8,11 @@ Obstruction of work of Ombudsman
 
 (c) without reasonable excuse, fails to comply with a requirement or request made by the Ombudsman under this Act,
 
-(d) in purported compliance with a requirement or request referred to in paragraph (c), gives information that the person knows to be false or misleading, or
+(d) in purported compliance with a requirement or request referred to in paragraph (c), gives information that the person knows to be false or misleading,
 
-(e) refuses to comply with a summons to attend before, or to be examined on oath by, the Ombudsman, commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 3 months, or both.
+(e) refuses to comply with a summons to attend before, or to be examined and cross-examined on oath or affirmation by, the Ombudsman, or
+
+(f) gives evidence on oath or affirmation that is false and that he or she knows to be false, commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 3 months, or both.
 
 (2) The Ombudsman may apply to the Circuit Court for an order against a person where it appears to the Ombudsman that the person—
 

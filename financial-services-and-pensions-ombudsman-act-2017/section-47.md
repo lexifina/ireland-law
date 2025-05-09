@@ -12,7 +12,7 @@ Powers of Ombudsman in relation to investigation of complaint
 
 (ii) produce to him or her that document or a copy of the document, and
 
-(b) require any person to attend before him or her, either voluntarily or by way of summons, and be examined on oath in relation to any matter, including to produce a document or copy of a document referred to in paragraph (a)(ii), that appears to the Ombudsman to be relevant to the investigation.
+(b) require any person to attend before him or her, either voluntarily or by way of summons, and be examined and cross-examined on oath or affirmation in relation to any matter, including to produce a document or copy of a document referred to in paragraph (a)(ii), that appears to the Ombudsman to be relevant to the investigation.
 
 (4) The Ombudsman shall give notice of a requirement under subsection (3) either orally or in writing and shall specify in the notice—
 

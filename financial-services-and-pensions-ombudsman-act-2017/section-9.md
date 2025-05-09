@@ -1,6 +1,6 @@
 Membership of either House of Oireachtas or European Parliament
 
-9. (1) Where the Ombudsman or Deputy Ombudsman is—
+9. (1) Where the Ombudsman or a Deputy Ombudsman is—
 
 (a) nominated to be a member of Seanad Éireann,
 

@@ -1,6 +1,6 @@
 Requirement for internal dispute resolution procedures
 
-55. (1) The Minister may by regulation require financial service providers and pension providers to establish procedures for dealing with complaints.
+55. (1) The Minister may by regulation require financial service providers, or certain classes of financial service providers, and pension providers, or certain classes of pension providers, to establish procedures for dealing with complaints.
 
 (2) Regulations under this section may—
 
@@ -18,6 +18,6 @@ Requirement for internal dispute resolution procedures
 
 (d) prescribe such other requirements as the Minister considers necessary or expedient for the purpose of enabling complaints referred to in this subsection to be dealt with or resolved,
 
-(e) require financial service providers and pension providers to publish their internal dispute resolution procedures, and
+(e) require financial service providers, or certain classes of financial service providers, and pension providers, or certain classes of pension providers, to publish their internal dispute resolution procedures, and
 
 (f) as respects schemes, specify different requirements by reference to the class of scheme concerned (being a class defined in the regulations by reference to the number of members of the scheme or such other matters as the Minister considers appropriate).
