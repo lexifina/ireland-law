@@ -83,3 +83,5 @@ Grounds for termination
 (i) the dwelling becomes available for reletting within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
 (ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2 or 3 of this Table.
+
+Table to section 34:
