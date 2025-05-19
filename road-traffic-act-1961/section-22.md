@@ -12,13 +12,21 @@ F57[Application for Irish driving licence.
 
 (b) shall be accompanied by—
 
-(i) any certificate of competency or fitness required under regulations under this Act, and
+(i) evidence, in accordance with regulations made under section 42(2)(ca), that the person has a legal right to reside in the State,
 
-(ii) the fee payable on the taking out of such a licence, and
+(ii) any—
+
+(I) certificate of competency,
+
+(II) certificate of fitness, or
+
+(III) medical report, required under regulations under this Act, and
+
+(iii) the fee payable on the taking out of such a licence,
 
 (c) shall contain—
 
-(i) a recent photograph of the applicant, and
+(i) where required under regulations under this Act, a recent photograph of the applicant, and
 
 (ii) the applicant’s personal public service number allocated and issued to him or her under section 262(2) of the Social Welfare Consolidation Act 2005.
 
