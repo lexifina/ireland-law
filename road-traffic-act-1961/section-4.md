@@ -6,6 +6,6 @@ Application to persons and vehicles in the service of the State.
 
 (a) a vehicle owned by the State or a person using such vehicle in the course of his employment,
 
-(b) a vehicle under seizure by a person in the service of the State in the course of his duty or a person using such vehicle in the course of his employment, or
+(b) a vehicle under seizure by a person in the service of the State in the course of his duty or a person Road Traffic and Roausing such vehicle in the course of his employment, or
 
 (c) a member of the Garda Síochána or an officer of any Minister using a vehicle for the purpose of a test, removal or disposition of the vehicle pursuant to this Act or any regulation thereunder.
