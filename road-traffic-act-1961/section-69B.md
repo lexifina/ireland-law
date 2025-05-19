@@ -1,4 +1,4 @@
-F222[Insurance of certain trailers towed by a vehicle
+F223[Insurance of certain trailers towed by a vehicle
 
 69B.—(1) In the case of an accident caused by a set of vehicles consisting of a vehicle towing a trailer, which is not normally based in the State, where the trailer has separate third-party liability insurance, the injured party may bring their claim directly against the insurance undertaking that insured the trailer where the trailer can be identified, but the vehicle towing it cannot be identified and the national law of another Member State provides for the insurer of the trailer to provide compensation.
 

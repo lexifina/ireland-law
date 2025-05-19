@@ -1,4 +1,4 @@
-F168[Driving of dangerously defective vehicle.
+F169[Driving of dangerously defective vehicle.
 
 54.—(1) A person who drives a mechanically propelled vehicle , a powered personal transporter, or a combination of vehicles in a public place while there is a defect affecting the vehicle , transporter, or a combination of vehicles which he or she knows of or could have discovered by the exercise of ordinary care and which is such that the vehicle , transporter, or a combination of vehicles is, when in motion, a danger to the public, commits an offence.
 

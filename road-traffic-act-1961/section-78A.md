@@ -1,4 +1,4 @@
-F235[Vehicle insurers to provide details of motor insurance policies.
+F236[Vehicle insurers to provide details of motor insurance policies.
 
 78A.—(1) MIBI shall maintain a database of information specified in subsections (2), (3), (4), (5) and (7), and of information submitted to it under section 56A(7) and (9), and is designated as a data controller in relation to personal data processed for the purposes of this section and section 56A.
 
