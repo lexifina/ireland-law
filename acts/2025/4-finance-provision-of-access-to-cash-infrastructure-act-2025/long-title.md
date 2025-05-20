@@ -1,0 +1,9 @@
+Number 4 of 2025
+
+FINANCE (PROVISION OF ACCESS TO CASH INFRASTRUCTURE) ACT 2025
+
+An Act to provide for the continued provision of sufficient and effective access to cash infrastructure for individuals and SMEs; to provide for access to cash criteria; to provide for a framework to manage future changes to access to cash infrastructure in a fair, equitable and transparent manner and for that purpose to provide for review and amendment of the access to cash criteria and for the identification of, and measures to be taken to remedy, local deficiencies in access to cash infrastructure and to ensure compliance with the access to cash criteria; to provide for the designation of entities on whom certain obligations are imposed to remedy local deficiencies and ensure compliance with the access to cash criteria; to provide for the monitoring and enforcement of obligations imposed on designated entities; to provide for the collection and publication of certain information by the Central Bank of Ireland; to provide for regulation by the Central Bank of Ireland of ATM deployers and cash-in-transit providers and for that purpose to provide for the registration of ATM deployers and cash-in-transit providers; to provide for the oversight of ATM operators and cash in transit providers and enforcement by the Central Bank of Ireland of compliance by ATM operators and cash-in-transit providers with their obligations under this Act; to provide for the sharing of information and cooperation between the Central Bank of Ireland and the Private Security Authority; for those and other purposes to amend the Central Bank Act 1942, the Central Bank Reform Act 2010, the Central Bank (Supervision and Enforcement) Act 2013 and the Companies Act 2014; and to provide for related matters.
+
+[20th May, 2025]
+
+Be it enacted by the Oireachtas as follows:
