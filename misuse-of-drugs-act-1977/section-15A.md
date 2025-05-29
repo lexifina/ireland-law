@@ -1,4 +1,4 @@
-F27[Offence relating to possession of drugs with value of F28[€13,000]
+F27[Offence relating to possession of drugs with value of F28[€13,000] or more.
 
 15A.—(1) A person shall be guilty of an offence under this section where—
 
