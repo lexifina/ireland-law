@@ -1,3 +1,5 @@
+## Certificates.
+
 Issue for passengers steamers of safety certificates and exemption certificates.
 
 20. — (1) If the Minister, on receipt of declarations of survey in respect of a passenger steamer registered in the State, is satisfied that the steamer complies with the construction rules, rules for life-saving appliances, fire protection rules, radio rules and navigation and tracking rules applicable to the steamer and to such international voyages as she is to be engaged on, and that she is properly provided with the lights, shapes and means of making fog-signals required by the collision regulations, he shall, on the application of the owner, issue in respect of the steamer a certificate (in this Act referred to as a general safety certificate) showing that the steamer complies with the requirements of the Safety Convention applicable as aforesaid.
