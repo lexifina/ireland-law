@@ -1,3 +1,3 @@
-Non-repayable grant to the Board.
+Non-repayable grant to the Board. (Repealed)
 
 15.—...

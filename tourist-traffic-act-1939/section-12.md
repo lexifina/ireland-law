@@ -1,3 +1,3 @@
-Exercise of functions of Board through its officers.
+Exercise of functions of Board through its officers. (Repealed)
 
 12.—...

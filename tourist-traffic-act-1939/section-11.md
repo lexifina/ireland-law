@@ -1,3 +1,3 @@
-Officers and servants of the Board.
+Officers and servants of the Board. (Repealed)
 
 11.—...

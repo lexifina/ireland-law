@@ -1,3 +1,3 @@
-Disclosure of interest in contract.
+Disclosure of interest in contract. (Repealed)
 
 13.—...

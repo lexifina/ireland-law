@@ -1,6 +1,6 @@
 Registration certificates.
 
-31. (1) Whenever the Board registers any premises, the Board shall give, free of charge, a certificate (in this Act referred to as a registration certificate) of such registration to the registered proprietor.
+31.—(1) Whenever the Board registers any premises, the Board shall give, free of charge, a certificate (in this Act referred to as a registration certificate) of such registration to the registered proprietor.
 
 (2) Where the registered proprietor of any registered premises satisfies the Board that the registration certificate for the time being in force in respect of such premises has been accidentally destroyed, the Board may issue to such registered proprietor a new registration certificate in lieu of that so destroyed.
 

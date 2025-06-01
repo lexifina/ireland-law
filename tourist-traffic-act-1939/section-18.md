@@ -1,3 +1,3 @@
-Repayment of repayable advances.
+Repayment of repayable advances. (Repealed)
 
 18.—...

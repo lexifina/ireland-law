@@ -1,3 +1,3 @@
-Resignation and disqualification of members of the Board.
+Resignation
 
 8.—...

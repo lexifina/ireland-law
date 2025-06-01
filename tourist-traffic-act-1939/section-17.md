@@ -1,3 +1,3 @@
-Payment of interest on repayable advances.
+Payment of interest on repayable advances. (Repealed)
 
 17.—...

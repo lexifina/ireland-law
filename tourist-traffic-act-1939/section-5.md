@@ -1,3 +1,3 @@
-Disqualification of members of Board from being members of the Oireachtas.
+Disqualification of members of Board from being members of the Oireachtas. (Repealed)
 
 5.—...

@@ -1,3 +1,3 @@
-Repayable advances to the Board.
+Repayable advances to the Board. (Repealed)
 
 16.—...

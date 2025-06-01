@@ -1,3 +1,3 @@
-Removal of members of the Board.
+Removal of members of the Board. (Repealed)
 
 7.—...

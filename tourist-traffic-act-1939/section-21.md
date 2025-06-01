@@ -1,3 +1,3 @@
-Furnishing of information by the Board to the Minister.
+Furnishing of information by the Board to the Minister. (Repealed)
 
 21.—...

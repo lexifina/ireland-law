@@ -1,3 +1,3 @@
-General powers of the Board.
+General powers of the Board. (Repealed)
 
 14.—...

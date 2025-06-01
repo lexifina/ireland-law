@@ -1,3 +1,3 @@
-Common seal of the Board.
+Common seal of the Board. (Repealed)
 
 6.—...
