@@ -4,4 +4,4 @@ F71[Guidelines on "ordinarily resident in the State".
 
 (a) the Health Service Executive, and
 
-(b) persons appointed or designated by him or her under section 47(1), to assist those persons in making decisions or determining appeals as to whether a person is ordinarily resident in the State for the purposes of section 45, 45A, 46, 53C(9)(bb), 58, 58A, 58B, 58D, 62A or 67E.
+(b) persons appointed or designated by him or her under section 47(1), to assist those persons in making decisions or determining appeals as to whether a person is ordinarily resident in the State for the purposes of section 45, 45A, 46, 53C(9)(bb), 58, 58A, 58B, 58D, 62A, 67E or 67F.
