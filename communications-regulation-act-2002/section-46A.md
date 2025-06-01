@@ -1,4 +1,4 @@
-Special powers enabling Minister to make regulations to give effect to
+Special powers enabling Minister to make regulations to give effect to European Communities instruments relating to communications matters.
 
 46A.— (1) If regulations specified in Part 2 of Schedule 1 (inserted by section 18 of the Communications Regulation (Amendment) Act 2007) that give effect to a provision of the treaties governing the European Communities, or an act, or provision of an act, adopted by an institution of those Communities, create an offence that is triable summarily, and the Minister considers it is necessary to do so for the purpose of giving effect to the provision or act, the Minister may, by regulations, amend the regulations—
 

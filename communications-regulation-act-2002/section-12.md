@@ -36,7 +36,7 @@ Objectives of Commission.
 
 (b) in so far as contributing to the development of the internal market is concerned—
 
-(i) removing remaining obstacles to the provision of electronic communications networks, electronic communications services and associated facilities at Community level,
+(i) removing remaining obstacles to the provision of electronic communications networks,electroniccommunicationsservicesandassociatedfacilitiesatCommunity level,
 
 (ii) encouraging the establishment and development of trans-European networks and the interoperability of transnational services and end-to-end connectivity,
 
