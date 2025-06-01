@@ -52,9 +52,11 @@ Interpretation and construction accepted Safety Convention certificate.
 
 “rules for live-saving appliances” means rules made under section 427 of the Principal Act as amended by section 11 of this Act;
 
-" Safety Convention " means the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 1 November 1974 together with the Protocol to the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 17 February 1978 and the Protocol to the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 11 November 1988 and any amendments made to it up to and including those adopted by the 99th session of the Maritime Safety Committee of the International Maritime Organisation held between 16 and 25 May 2018 and which have entered into force in respect of the State pursuant to Article VIII prior to the passing of the Merchant Shipping (Investigation of Marine Casualties) (Amendment) Act 2022;
+"Safety Convention" means the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 1 November 1974, together with the Protocol to the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 17 February 1978 and the Protocol to the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 11 November 1988 and any amendments made to it up to and including those adopted by the 106th session of the Maritime Safety Committee of the International Maritime Organisation held between 2 and 11 November 2022 and which have entered into force in respect of the State pursuant to Article VIII of the Convention prior to the enactment of the Merchant Shipping (Investigation of Marine Accidents) Act 2025;
 
 “Safety Convention ship” means a ship registered in a country to which the Safety Convention applies and the expression “Safety Convention passenger steamer” shall be construed accordingly.
+
+"surveyor of ships" means a person appointed under section 724 of the Principal Act to be a surveyor of ships for the purposes of that Act;
 
 (2) Except so far as the context otherwise requires, any reference in this Act to any other enactment shall be construed as a reference to that enactment as amended, extended or applied by or under any other enactment including this Act.
 
