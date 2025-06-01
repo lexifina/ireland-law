@@ -2,7 +2,7 @@
 
 Supply of items not on Reimbursement List.
 
-23.— The Executive may, at its discretion and subject to such conditions as it considers appropriate, make arrangements to supply an item, pursuant to section 59, 62A or 67E of the Act of 1970, to a patient notwithstanding that the item is not a listed item if the Executive is satisfied that—
+23.— The Executive may, at its discretion and subject to such conditions as it considers appropriate, make arrangements to supply an item, pursuant to section 59, 62A, 67E or 67F of the Act of 1970, to a patient notwithstanding that the item is not a listed item if the Executive is satisfied that—
 
 (a) the patient requires that item for clinical reasons, and
 
