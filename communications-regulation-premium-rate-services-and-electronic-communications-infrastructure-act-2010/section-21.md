@@ -192,9 +192,7 @@ Amendment of Part 5 of Principal Act — electronic communications infrastructur
 
 (3) The following are substituted for sections 55 and 56 of the Principal Act:
 
-“Cost apportionment for electronic communications infrastructure relocation due to road improvements.
-
-55.— (1) Notwithstanding section 254(4) of the Act of 2000 and subject to this section, where an authority undertakes work for the purposes of improving a public road, it shall pay to a network operator all reasonable costs incurred by the operator in the relocation (except in relation to the relocation of ducts as referred to in subsection (2)) of its electronic communications infrastructure and any associated physical infrastructure necessitated by and directly attributable to that work.
+“Cost apportionment for electronic communications infrastructure relocation due to road improvements. 55.— (1) Notwithstanding section 254(4) of the Act of 2000 and subject to this section, where an authority undertakes work for the purposes of improving a public road, it shall pay to a network operator all reasonable costs incurred by the operator in the relocation (except in relation to the relocation of ducts as referred to in subsection (2)) of its electronic communications infrastructure and any associated physical infrastructure necessitated by and directly attributable to that work.
 
 (2) Where ducts, which are provided and made available on a national road by an authority for use by network operators, are required to be moved arising from any works undertaken by an authority to improve the road, then—
 
