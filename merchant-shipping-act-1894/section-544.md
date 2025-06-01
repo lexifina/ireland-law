@@ -1,5 +1,3 @@
-## Salvage.
-
 Salvage payable for saving life (Repealed)
 
 544.—...

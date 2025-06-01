@@ -1,3 +1,5 @@
+## Dangerous Goods.
+
 Restrictions on carnage of dangerous goods
 
 446.—(1) A person shall not send or attempt to send by any vessel, British or foreign, and a person not being the master or owner of the vessel shall not carry or attempt to carry in any such vessel, any dangerous goods, without distinctly marking their nature on the outside of the package containing the same, and giving written notice of the nature of those goods and of the name and address of the sender or carrier thereof to the master or owner of the vessel at or before the time of sending the same to be shipped or taking the same on board the vessel.

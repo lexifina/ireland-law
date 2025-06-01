@@ -1,5 +1,3 @@
-## Marine Store Dealers.
-
 Marine store dealer to have his name and trade painted on his shop (Repealed)
 
 538.—...
