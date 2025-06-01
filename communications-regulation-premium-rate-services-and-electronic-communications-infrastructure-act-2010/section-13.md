@@ -1,6 +1,6 @@
 Premium rate service provider not to overcharge or charge for services not supplied.
 
-13.— (1) A premium rate service provider shall not impose, or purport to impose, in respect of a specified premium rate service, a charge—
+13.— (1) A pemium rate service provider shall not impose, or purport to impose, in respect of a specified premium rate service, a charge—
 
 (a) for supplying the premium rate service to an end user that exceeds the amount for the service specified—
 
