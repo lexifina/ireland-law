@@ -1,4 +1,4 @@
-F18[Exemptions from licensing requirements
+F20[Exemptions from licensing requirements
 
 14A. (1) The Minister may by regulations—
 
