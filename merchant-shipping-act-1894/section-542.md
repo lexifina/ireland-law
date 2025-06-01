@@ -1,3 +1,3 @@
 Permit to be advertised before dealer proceeds to act thereon (Repealed)
 
-542.—... Marking of Anchors.
+542.—...
