@@ -16,9 +16,7 @@ Insertion into Principal Act of new Part 2A.
 
 (b) the date, time and place at which the person is required to appear before the Commission.
 
-(3) The notice may require the person concerned to appear before a specified Commissioner or a specified member of the Commission’s staff and, if it does so, a reference in this Part to the Commission is to be read as a reference to the Commissioner or staff member concerned.
-
-38B.— (1) A person who appears before the Commission in compliance with a requirement made under section 38A may be required to swear an oath or make an affirmation.
+(3) The notice may require the person concerned to appear before a specified Commissioner or a specified member of the Commission’s staff and, if it does so, a reference in this Part to the Commission is to be read as a reference to the Commissioner or staff member concerned. 38B.— (1) A person who appears before the Commission in compliance with a requirement made under section 38A may be required to swear an oath or make an affirmation.
 
 (2) An oath or affirmation must be administered by the Commission.
 
@@ -44,7 +42,9 @@ Insertion into Principal Act of new Part 2A.
 
 (6) If the evidence is to be given, or the document is to be produced, in private, a person (other than the person required to appear before the Commission, that person’s barrister, solicitor or other representative, a Commissioner or a member of the Commission’s staff) may be present only if entitled to be present because of a direction given under subsection (4)(a).
 
-(7) A person who contravenes subsection (6) commits an offence. 38D.— (1) A person commits an offence if, having been required to appear before the Commission in compliance with a requirement made under section 38A, the person fails to comply with the requirement, and has not been excused, or released from further attendance, by the Commission.
+(7) A person who contravenes subsection (6) commits an offence.
+
+38D.— (1) A person commits an offence if, having been required to appear before the Commission in compliance with a requirement made under section 38A, the person fails to comply with the requirement, and has not been excused, or released from further attendance, by the Commission.
 
 (2) Subsection (1) does not apply if the person has a reasonable excuse.
 

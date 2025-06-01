@@ -14,9 +14,7 @@ Insertion into Principal Act of new Part 6.
 
 ‘emergency call’ means an electronic communication (such as a telephone call) that is forwarded from an undertaking to the ECAS operator for onward transmission to an emergency service, and includes a call that may not be a genuine one;
 
-‘emergency service’ means the Garda Síochána, a fire brigade, ambulance service, the Irish Coast Guard or a civil emergency service.
-
-58B.— (1) The Minister may enter into a contract with a person under which the person undertakes to operate an emergency call answering service for a specified period. The contract shall specify terms and conditions for the effective operation of the service and, in particular, shall—
+‘emergency service’ means the Garda Síochána, a fire brigade, ambulance service, the Irish Coast Guard or a civil emergency service. 58B.— (1) The Minister may enter into a contract with a person under which the person undertakes to operate an emergency call answering service for a specified period. The contract shall specify terms and conditions for the effective operation of the service and, in particular, shall—
 
 (a) specify the maximum call handling fee that the operator is permitted to charge during the first 2 years of the operation of the contract, and
 
@@ -40,7 +38,9 @@ Insertion into Principal Act of new Part 6.
 
 (3) If a call handling fee is not paid by the deadline fixed for payment, the ECAS operator may, by proceedings brought in a court of competent jurisdiction, recover the amount of the fee as a debt due to that operator.
 
-(4) A call handling fee is payable in respect of an emergency call even if the call is not forwarded to the emergency service concerned. 58D.— (1) Not later than 2 months before the second anniversary of the date on which an ECAS contract was entered into, and not later than 2 months before each subsequent anniversary of that date while the contract remains in force, the Commission shall conduct a review of the maximum permitted call handling fee that the ECAS operator can charge for handling emergency calls.
+(4) A call handling fee is payable in respect of an emergency call even if the call is not forwarded to the emergency service concerned.
+
+58D.— (1) Not later than 2 months before the second anniversary of the date on which an ECAS contract was entered into, and not later than 2 months before each subsequent anniversary of that date while the contract remains in force, the Commission shall conduct a review of the maximum permitted call handling fee that the ECAS operator can charge for handling emergency calls.
 
 (2) As soon as practicable after conducting a review in accordance with subsection (1), the Commission shall determine the maximum call handling fee that the ECAS operator can charge for handling emergency calls during the period of 12 months beginning with the date of the relevant anniversary of the date on which the ECAS contract was entered into. In determining that fee, the Commission may either confirm the existing maximum call handling fee or, after consulting the ECAS operator, determine a higher or lower maximum fee.
 

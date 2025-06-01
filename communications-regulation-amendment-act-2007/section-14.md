@@ -92,7 +92,9 @@ However, if the regulations concerned provide for a person to be tried summarily
 
 46B.— (1) In civil or criminal proceedings under this Act or a related enactment, the opinion of any witness who appears to the court to possess the appropriate qualifications or experience about the matter to which the witness’s evidence relates is admissible in evidence of matters that call for expertise or special knowledge relevant to the proceedings.
 
-(2) A court that admits evidence under subsection (1) may, if it is of the opinion that it is in the interests of justice to do so, direct that the use of the evidence is to be limited to specified purposes only. 46C.— In a trial on indictment of an offence under this Act or a related enactment, the trial judge may order copies of any of the following documents to be given to the jury in such form as the judge considers appropriate:
+(2) A court that admits evidence under subsection (1) may, if it is of the opinion that it is in the interests of justice to do so, direct that the use of the evidence is to be limited to specified purposes only.
+
+46C.— In a trial on indictment of an offence under this Act or a related enactment, the trial judge may order copies of any of the following documents to be given to the jury in such form as the judge considers appropriate:
 
 (a) any document admitted in evidence at the trial;
 
@@ -104,9 +106,7 @@ However, if the regulations concerned provide for a person to be tried summarily
 
 (e) the transcript of the closing speeches of counsel;
 
-(f) the transcript of the trial judge’s charge to the jury.
-
-46D.— (1) The presumptions specified in this section apply in civil and criminal proceedings under this Act and under the related enactments.
+(f) the transcript of the trial judge’s charge to the jury. 46D.— (1) The presumptions specified in this section apply in civil and criminal proceedings under this Act and under the related enactments.
 
 (2) A document purporting to have been created by a person is presumed, unless the contrary is shown, to have been created by the person. Any statement contained in the document is, unless the document expressly attributes the statement to some other person, presumed to have been made by that person.
 

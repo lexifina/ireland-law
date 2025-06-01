@@ -14,9 +14,7 @@ Insertion into Competition Act of new Part 4A.
 
 (b) the power to prosecute an offence under section 6 or 7, or for relief under section 14.
 
-47C.— Before performing any of its functions under this Act, the Commission shall notify the Authority in writing of its intention to perform that function.
-
-47D.— (1) If—
+47C.— Before performing any of its functions under this Act, the Commission shall notify the Authority in writing of its intention to perform that function. 47D.— (1) If—
 
 (a) at any time the Authority suspects on reasonable grounds that there exists or has existed an agreement, decision or practice of a kind specified in section 4, or there is occurring or has occurred an abuse of the kind specified in section 5, and
 

@@ -24,9 +24,7 @@ Substitution of sections 45 and 46 of Principal Act.
 
 ‘consumer’ means a person to whom an electronic communications service or electronic communications product is supplied, otherwise than for the purpose of resupply;
 
-‘tariff of charges’, in relation to an undertaking, includes any list setting out the prices charged by the undertaking for providing electronic communications services or electronic communications products to consumers.
-
-46.— (1) If it appears to the Commission that an undertaking—
+‘tariff of charges’, in relation to an undertaking, includes any list setting out the prices charged by the undertaking for providing electronic communications services or electronic communications products to consumers. 46.— (1) If it appears to the Commission that an undertaking—
 
 (a) is contravening subsection (1) of section 45, or
 

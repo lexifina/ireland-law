@@ -20,9 +20,7 @@ Insertion into Principal Act of new sections 24A to 24C.
 
 (4) If a person has made an appropriate disclosure to the Commission, the Commission shall, so far as practicable and in accordance with the law, notify the person of the outcome of any investigation into the matters to which the disclosure relates.
 
-(5) The Commission may decline to accept or deal with a disclosure of information made to it by a person about the conduct of an undertaking, an associate of an undertaking or an association of undertakings if it is satisfied on reasonable grounds that the information is false or misleading or that the disclosure is frivolous or vexatious.
-
-24B.— (1) If an undertaking, an associate of an undertaking or an association of undertakings causes detriment to a person because the person or a third person has made, or threatened to make, an appropriate disclosure of information to the Commission or a law enforcement authority (such as the Garda Síochána) either about the conduct of the undertaking or about the conduct of the associate or association, the person has a right of action in tort against the undertaking, associate or association.
+(5) The Commission may decline to accept or deal with a disclosure of information made to it by a person about the conduct of an undertaking, an associate of an undertaking or an association of undertakings if it is satisfied on reasonable grounds that the information is false or misleading or that the disclosure is frivolous or vexatious. 24B.— (1) If an undertaking, an associate of an undertaking or an association of undertakings causes detriment to a person because the person or a third person has made, or threatened to make, an appropriate disclosure of information to the Commission or a law enforcement authority (such as the Garda Síochána) either about the conduct of the undertaking or about the conduct of the associate or association, the person has a right of action in tort against the undertaking, associate or association.
 
 (2) In this section, ‘detriment’ includes—
 
