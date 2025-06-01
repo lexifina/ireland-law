@@ -1,6 +1,12 @@
 Signals of distress.
 
-36. — (1) The Minister may make rules prescribing what signals shall be used by ships as signals of distress and the circumstances in which, and the purposes for which, any such signal is to be used and the circumstances in which it is to be revoked.
+36. — (1) The Minister may make rules prescribing requirements for—
+
+(a) what signals shall be used by ships as signals of distress and the circumstances in which, and the purposes for which, any such signal is to be used and the circumstances in which it is to be revoked,
+
+(b) the survey of vessels for compliance with rules made under this section, including the extent, manner and intervals of such surveys, and
+
+(c) the inspection of vessels for compliance with rules made under this section.
 
 (2) If the master of a ship uses or displays or causes or permits any person under his authority to use or display—
 
