@@ -1,17 +1,19 @@
 Inspection as to lights and fog signals
 
-420.—(1) A surveyor of ships may inspect any ship, British or foreign, for the purpose of seeing that the ship is properly provided with lights and the means of making fog signals, in conformity with the collision regulations, and if the surveyor finds that the ship is not so provided, he shall give to the master or owner notice in writing, pointing out the deficiency, and also what is, in his opinion, requisite in order to remedy the same.
+420.—(1) A surveyor of ships may—
 
-(2) Every notice so given shall be communicated in the manner directed by the Board of Trade to the chief officer of customs at any port at which the ship may seek to obtain a clearance or transire; and the ship shall be detained, until a certificate under the hand of a surveyor of ships is produced to the effect that the ship is properly provided with lights and with the means of making fog signals, in conformity with the collision regulations.
+(a) survey any ship for compliance with regulations made under section 418,
 
-(3) For the purpose of an inspection under this section a surveyor shall have all the powers of a Board of Trade inspector under this Act.
+(b) inspect any ship for the purpose of ensuring that the ship is properly provided with lights and means of making fog signals in conformity with regulations made under section 418 and, if the surveyor finds that the ship is not so provided, he or she shall give to the master or owner notice in writing indicating the deficiencies and what is required to rectify them,
 
-(4) Where the certificate as to lights and fog signals is refused, an owner may appeal to the court of survey for the port or district where the ship for the time being is in manner directed by the rules of that court.
+(c) board and inspect any ship for the purposes of ensuring that a deficiency is remedied in accordance with a notice under paragraph (b), and
 
-(5) On any such appeal the judge of the court of survey shall report to the Board of Trade on the question raised by the appeal, and the Board of Trade, when satisfied that the requirements of the report and of this Act as to lights and fog signals have been complied with, may grant, or direct a surveyor of ships or other person appointed by them to grant, the certificate.
+(d) for the purposes of a survey under paragraph (a) or inspection under paragraph (b) or (c), carry out such tests (either on the ship, ashore or at dock), ask such questions, inspect such documents and records and have access to such systems or equipment as he or she considers appropriate for that purpose.
 
-(6) Subject to any order made by the judge of court of survey the costs of and incidental to the appeal shall follow the event.
+(2) Where a ship, in respect of which a notice has been given to its owner or master under subsection (1)(b), proceeds or attempts to proceed to sea before the deficiencies specified in the notice, which deficiencies are required to be remedied before proceeding to sea, have been addressed, then the person to whom the notice is addressed commits an offence and is liable—
 
-(7) A surveyor in making an inspection under this section shall, if the owner of the ship so require, be accompanied on the inspection by some person appointed by the owner, and, if in that case the surveyor and the person so appointed agree, there shall be no appeal under this section to the court of survey.
+(a) on summary conviction to a class A fine, or
 
-(8) Such fees as the Board of Trade may determine shall be paid in respect of an inspection of lights and fog signals under this section not exceeding those specified in the Sixteenth Schedule to this Act.
+(b) on conviction on indictment, to a fine not exceeding €100,000.
+
+(3) The Minister may, with the consent of the Minister for Public Expenditure, National Development Plan Delivery and Reform, prescribe fees for any surveys, inspections or tests referred to in subsection (1) and different amounts may be prescribed in respect of different classes of surveys, inspections or tests.

@@ -1,6 +1,6 @@
 Power to stop, board and inspect vessels, etc.
 
-40.—(1) An authorised person or a member of the Garda Síochána for the purpose of enforcing this Part may stop, board and inspect a vessel in or on Irish waters or on land, within the State, adjacent to those waters.
+40.—(1) An authorised person or a member of the Garda Síochána for the purpose of enforcing this Part may stop, board, survey and inspect a vessel in or on Irish waters or on land, within the State, adjacent to those waters.
 
 (2) An authorised person or a member of the Garda Síochána may request of a person on a vessel stopped and boarded under subsection (1) and whom the authorised person or member suspects is committing or has committed an offence under this Part to give his or her name and address.
 
