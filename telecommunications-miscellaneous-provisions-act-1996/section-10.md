@@ -1,3 +1,3 @@
-Employee directors.
+Employee directors. (Repealed)
 
 10.—...

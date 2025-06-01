@@ -1,3 +1,3 @@
-Transfer of functions from Minister to Director.
+Transfer of functions from Minister to Director. (Repealed)
 
 4.—...

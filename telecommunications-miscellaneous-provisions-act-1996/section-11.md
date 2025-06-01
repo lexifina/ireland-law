@@ -1,3 +1,3 @@
-Amendment of Principal Act.
+Amendment of Principal Act. (Repealed)
 
 11.—...

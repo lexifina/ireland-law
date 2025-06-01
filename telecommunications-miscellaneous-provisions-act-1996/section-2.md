@@ -1,3 +1,3 @@
-Director of Telecommunications Regulation.
+Director of Telecommunications Regulation. (Repealed)
 
 2.—...

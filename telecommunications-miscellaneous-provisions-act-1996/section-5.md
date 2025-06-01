@@ -1,3 +1,3 @@
-Staff and other resources.
+Staff and other resources. (Repealed)
 
 5.—...
