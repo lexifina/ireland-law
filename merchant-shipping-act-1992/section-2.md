@@ -24,6 +24,8 @@ Interpretation.
 
 “certificate” means a passenger ship's certificate issued under section 8 and in force and cognate words shall be construed accordingly;
 
+"dangerous goods" means those goods referred to in the International Maritime Dangerous Goods (IMDG) Code adopted by the Maritime Safety Committee of the IMO by Resolution MSC.122(75) on 24 May 2002, and any amendments made to it up to and including those adopted by the 105th session of the Maritime Safety Committee by Resolution MSC.501(105) of 28 April 2022;
+
 “fishing vessel” means a vessel designed, equipped or used commercially for catching or taking fish or other living resources of the sea (including the sea bed) or freshwater;
 
 “licence” means a passenger boat licence granted under section 15 and in force and cognate words shall be construed accordingly;
@@ -31,6 +33,12 @@ Interpretation.
 “master”, in relation to a vessel, means the person having, for the time being, the command or charge of the vessel;
 
 “the Minister” means the Minister for Transport;
+
+"offshore facility" means a structure, floating or fixed, used to support offshore industrial activities;
+
+"offshore industrial activities" mean the construction, maintenance, decommissioning, operation or servicing of offshore facilities including those related to exploration and exploitation of resources by the renewable or hydrocarbon energy sector, aquaculture, ocean mining or similar activities;
+
+"offshore service vessel" means a vessel carrying or accommodating more than 12 industrial personnel in relation to which an industrial personnel safety certificate has been issued under section 48 of the Merchant Shipping (Investigation of Marine Accidents) Act 2025 (No. 2 of 2025), which certificate remains valid under Part 5 of the Act;
 
 “owner”, in relation to a vessel, means the person registered under the Mercantile Marine Act, 1955, as its owner or, if no person is so registered, the person who owns the vessel, and includes any part owner, charterer, manager or operator of the vessel;
 
@@ -44,17 +52,19 @@ Interpretation.
 
 (a) a vessel carrying not more than 12 passengers for reward or having on board for the purposes of carriage for reward not more than 12 passengers, or
 
-(b) a vessel that is carrying not more than 12 passengers, or has on board for the purposes of carriage not more than 12 passengers, and is on hire pursuant to a contract or other arrangement under which a crew or part of a crew is provided for the vessel by its owner, and includes a vessel carrying not more than 12 persons to or from their place of work, or having on board not more than 12 persons for the purposes of such carriage, and owned by or on hire to their employer and a vessel registered outside the State and carrying not more than 12 passengers between places in the State, or having on board not more than 12 passengers for the purposes of such carriage, but does not include such a vessel carrying passengers to or from theState or having on board passengers for the purposes of such carriage, ... ... or a vessel in respect of which a certificate is in force;
+(b) a vessel that is carrying not more than 12 passengers, or has on board for the purposes of carriage not more than 12 passengers, and is on hire pursuant to a contract or other arrangement under which a crew or part of a crew is provided for the vessel by its owner, and includes a vessel carrying not more than 12 persons to or from their place of work, or having on board not more than 12 persons for the purposes of such carriage, and owned by or on hire to their employer and a vessel registered outside the State and carrying not more than 12 passengers between places in the State, or having on board not more than 12 passengers for the purposes of such carriage, but does not include such a vessel carrying passengers to or from the State or having on board passengers for the purposes of such carriage, ... ... a vessel in respect of which a certificate is in force or an offshore service vessel;
 
-“passenger ship” means a vessel carrying more than 12 passengers or having on board more than 12 passengers for the purposes of carriage and includes a vessel carrying more than 12 persons to or from their place of work, or having on board more than 12 persons for the purposes of such carriage, and owned by or on hire to their employer and a vessel registered outside the State and carrying more than 12 passengers between places in the State, or having on board more than 12 passengers for the purposes of such carriage, but does not include such a vessel carrying passengers to or from the State or having passengers on board for the purposes of such carriage ... ...;
+“passenger ship” means a vessel carrying more than 12 passengers or having on board more than 12 passengers for the purposes of carriage and includes a vessel carrying more than 12 persons to or from their place of work, or having on board more than 12 persons for the purposes of such carriage, and owned by or on hire to their employer and a vessel registered outside the State and carrying more than 12 passengers between places in the State, or having on board more than 12 passengers for the purposes of such carriage, but does not include such a vessel carrying passengers to or from the State or having passengers on board for the purposes of such carriage or an offshore service vessel ... ...;
 
-‘personal watercraft’ means a craft of less than 4 metres in length which uses an internal combustion engine having a water jet pump as its primary source of propulsion and which is designed to be operated by a person or persons sitting, standing or kneeling on, rather than within the confines of, a hull;
+"personal watercraft" means a craft of less than 4 metres in length which uses an internal combustion engine having a water jet pump as its primary source of propulsion and which is designed to be operated by a person or persons sitting, standing or kneeling on, rather than within the confines of, a hull;
 
 “prescribed” means prescribed by regulations made by the Minister;
 
 “the Principal Act” means the Merchant Shipping Act, 1894;
 
 “radio surveyor” means a radio surveyor within the meaning of section 16 of the Merchant Shipping (Safety Convention) Act, 1952;
+
+"recognised organisation" means an organisation recognised in accordance with Regulation (EC) No. 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspections and survey organisations (Recast);
 
 “registered” means registered under the Merchant Shipping Acts, 1894 to 1983;
 
