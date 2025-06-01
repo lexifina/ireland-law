@@ -10,7 +10,7 @@ Inspection.
 
 (c) wilfully gives to a registration officer information which is false or misleading in a material particular, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding £50.
 
-(3) In this section ‘registration officer’ means—
+(3) In this section "registration officer" means—
 
 (a) an officer of the Board appointed in writing by the Board, or
 
