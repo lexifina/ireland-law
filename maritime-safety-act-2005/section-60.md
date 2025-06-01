@@ -50,9 +50,11 @@ Provisions
 
 3C.—(1) Where a foreshore licence was deemed by— relating to
 
-(a) section 75 of the Fisheries (Amendment) Act 1997, or certain aquaculture licences.
+(a) section 75 of the Fisheries (Amendment) Act 1997, or certain aquaculture
 
-(b) section 3 of the Fisheries and Foreshore (Amendment) Act 1998, to be an aquaculture licence and that foreshore licence relates to or includes an area that, but for section 1A(1) of this Act, would not be foreshore, then the aquaculture licence shall have effect, and be deemed always to have had effect, by reference to the definition of ‘foreshore’ (as amended by Part 6 of the Act of 2005) in section 1 of this Act.
+(b) section 3 of the Fisheries and Foreshore (Amendment) Act licences.
+
+1998, to be an aquaculture licence and that foreshore licence relates to or includes an area that, but for section 1A(1) of this Act, would not be foreshore, then the aquaculture licence shall have effect, and be deemed always to have had effect, by reference to the definition of ‘foreshore’ (as amended by Part 6 of the Act of 2005) in section 1 of this Act.
 
 (2) Where before the passing of Part 6 of the Act of 2005—
 
