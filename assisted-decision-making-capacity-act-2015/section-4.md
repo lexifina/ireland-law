@@ -30,7 +30,7 @@ Circuit Court to have exclusive jurisdiction under this Act except for certain m
 
 (3) Notwithstanding any other provision of this Act—
 
-(a) any decision regarding the donation of an organ from a living donor shall, where the donor is a person who lacks capacity, be determined by the High Court, and
+(a) any decision regarding the donation of an organ from a living donor shall, where the donor is a person who lacks capacity, be determined in accordance with the Human Tissue (Transplantation, Post-Mortem, Anatomical Examination and Public Display) Act 2024, and
 
 (b) where an application in connection with the withdrawal of life-sustaining treatment from a person who lacks capacity comes before the courts for adjudication, that application shall be heard by the High Court.
 
