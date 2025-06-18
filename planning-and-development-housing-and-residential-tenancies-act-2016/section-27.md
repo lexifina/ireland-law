@@ -28,6 +28,4 @@ Consequential amendments (Chapter 2) to Act of 2000
 
 Chapter 3
 
-Miscellaneous constructions and amendments to Planning and Development Act
-
-2000
+Miscellaneous constructions and amendments to Planning and Development Act 2000

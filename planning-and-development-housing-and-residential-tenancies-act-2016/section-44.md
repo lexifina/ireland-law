@@ -34,4 +34,6 @@ Amendment of section 103 (membership of Tribunal, etc.) of Act of 2004
 
 (b) Where the Board is requested under paragraph (a) to refer a matter, that consists of or includes a dispute, to a Tribunal, it may refer the matter to a Tribunal composed of 3 members.
 
-(1C) Where the Tribunal is composed of one member, then subsections (4) and (7) do not apply to that Tribunal. (1D) Where, in the same reference to a Tribunal, there is included disputes or complaints, in respect of 2 or more matters, and one or more of those disputes or complaints is not prescribed for the purposes of this subsection, the Board shall refer the matter to a Tribunal composed of 3 members.”.
+(1C) Where the Tribunal is composed of one member, then subsections (4) and (7) do not apply to that Tribunal.
+
+(1D) Where, in the same reference to a Tribunal, there is included disputes or complaints, in respect of 2 or more matters, and one or more of those disputes or complaints is not prescribed for the purposes of this subsection, the Board shall refer the matter to a Tribunal composed of 3 members.”.

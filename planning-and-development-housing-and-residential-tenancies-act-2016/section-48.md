@@ -14,7 +14,9 @@ Amendment of section 121 (determination orders) of Act of 2004 and consequential
 
 (a) the Director under this section, or
 
-(b) a member of the staff of the Board, pursuant to the function of the Director under this section being delegated to the member under section 161(2), shall, unless the contrary is proved, be deemed to be a determination duly made and shall be received in any proceedings in any court without further proof of— (i) the determination,
+(b) a member of the staff of the Board, pursuant to the function of the Director under this section being delegated to the member under section 161(2), shall, unless the contrary is proved, be deemed to be a determination duly made and shall be received in any proceedings in any court without further proof of—
+
+(i) the determination,
 
 (ii) the signature of the Director or the person to whom paragraph (b) relates, as the case may be, or
 

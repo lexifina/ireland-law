@@ -8,11 +8,7 @@ Construction of section 2 (interpretation) of Act of 2000 during specified perio
 
 (c) as if the following were inserted after subparagraph (a) in the definition of “strategic infrastructure development”:
 
-“(aa) any proposed development referred to in section 4 (other than development in respect of which an election has been exercised under subsection (4) of that section) of the Planning
-
-## and Development (Housing) and Residential Tenancies Act
-
-2016,”,
+“(aa) any proposed development referred to in section 4 (other than development in respect of which an election has been exercised under subsection (4) of that section) of the Planning and Development (Housing) and Residential Tenancies Act 2016,”,
 
 (d) ...
 

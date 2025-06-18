@@ -8,9 +8,7 @@ Construction of section 144 (fees payable to Board) of Act of 2000 during specif
 
 (c) as if there were inserted the following after paragraph (d):
 
-“(da) a request for a determination under section 7(1)(a) of the
-
-## Planning and Development (Housing) and Residential Tenancies Act 2016;”,
+“(da) a request for a determination under section 7(1)(a) of the Planning and Development (Housing) and Residential Tenancies Act 2016;”,
 
 (d) as if in paragraph (e) “or under section 7(1)(b) of the Planning and Development (Housing) and Residential Tenancies Act 2016,” were inserted after “section 173(3),”,
 
