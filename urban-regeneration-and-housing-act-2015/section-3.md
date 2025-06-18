@@ -4,7 +4,11 @@ Definitions (Part 2)
 
 3. In this Part—
 
+“Board” means An Coimisiún Pleanála;
+
 “housing” includes social and affordable housing;
+
+...
 
 “market value”, in relation to a site, shall, other than in section 21, be construed in accordance with section 12;
 
