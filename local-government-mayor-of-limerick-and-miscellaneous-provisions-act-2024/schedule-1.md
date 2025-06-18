@@ -1,0 +1,329 @@
+SCHEDULE 1
+
+Sections 10, 23 and 26
+
+PART 1
+
+ENACTMENTS FOR PURPOSES OF SECTIONS 10 AND 23
+
+Number and Short Title Provision Year (2) (3) (1)
+
+No. 37 of Local Sections 11(5)(b), 11(8), 31(4)(a), 31(5), 31(7), 31(9), 2001 Government 31(11), 33, 34(2)(e), 36, 37, 38, 104(7)(a), 133(6)(a), Act 2001 134(4)(b), 140(8), 141(1)(b), 141(4), 142(2)(a), 142(5)(f), 143(1), 147, 148, 158(3), 174(8), 178(2)(b), 178(5), 180(3)(a), 189(9), 190(9), 216(2)(a), 219(1) and 220(1); paragraphs 3(4), 4(2), 4(3), 6(1), 6(2), 6(3), 7(9), 10, 13(5)(e), 13(6) and 16(4)(c) of Schedule 10; paragraph 3 of Schedule 14.
+
+PART 2
+
+ENACTMENTS FOR PURPOSES OF SECTIONS 10 AND 26
+
+Acts
+
+Number and Year Short Title Provision
+
+(1) (2) (3)
+
+1 & 2 Vict., c. 56 Poor Relief (Ireland) Act 1838 Section 73.
+
+38 & 39 Vict., c. 17 Explosives Act 1875 The whole Act.
+
+41 & 42 Vict., c. 52 Public Health (Ireland) Act 1878 Sections 178, 180, 185, 186, 187, 189, 190, 191 and 196.
+
+No. 34 of 1926 Local Authorities (Mutual Section 3. Assurance) Act 1926
+
+No. 39 of 1926 Local Authorities (Officers and Sections 5 and 6. Employees) Act 1926
+
+No. 23 of 1941 Local Government Act 1941 Sections 60, 61 and 62.
+
+No. 3 of 1948 Local Government (Sanitary Sections 45 and 46. Services) Act 1948
+
+No. 17 of 1949 Local Authorities (Works) Act The whole Act. 1949
+
+No. 30 of 1953 Intoxicating Liquor Act 1953 Section 6.
+
+No. 37 of 1954 National Monuments Section 17. (Amendment) Act 1954
+
+No. 18 of 1960 Intoxicating Liquor Act 1960 Section 41.
+
+No. 9 of 1962 Coroners Act 1962 The whole Act. No. 29 of 1964 Local Government (Sanitary The whole Act. Services) Act 1964
+
+No. 21 of 1966 Housing Act 1966 Sections 4, 34, 35, 49, 58, 61, 64, 65, 66, 67, 69, 71, 76, 77, 78, 79, 80, 81, 82, 83, 90, 91, 98, 107, 112, 116 and 117.
+
+No. 10 of 1972 Dangerous Substances Act 1972 The whole Act.
+
+No. 8 of 1974 Local Elections (Petitions and The whole Act. Disqualifications) Act 1974
+
+No. 14 of 1975 Local Authorities (Traffic The whole Act. Wardens) Act 1975
+
+No. 39 of 1976 Wildlife Act 1976 The whole Act.
+
+No. 1 of 1977 Local Government (Water Section 28. Pollution) Act 1977
+
+No. 27 of 1979 Housing (Miscellaneous Sections 6 and 11. Provisions) Act 1979
+
+No. 8 of 1980 Local Government Section 2. (Superannuation) Act 1980
+
+No. 30 of 1981 Fire Services Act 1981 The whole Act.
+
+No. 21 of 1983 Local Government (Financial Sections 2, 3, 5, 6 and 7. Provisions) (No. 2) Act 1983
+
+No. 32 of 1986 Control of Dogs Act 1986 The whole Act.
+
+No. 6 of 1987 Air Pollution Act 1987 Sections 7, 12A, 12B, 12C, 13, 14(3), 16, 17, 18, 22, 26, 27, 28, 28A, 32, 33, 34, 35, 36, 37, 38, 41, 42, 43, 44, 45, 51(4), 54 and 57.
+
+No. 8 of 1988 Abattoirs Act 1988 The whole Act.
+
+No. 28 of 1988 Housing Act 1988 Sections 2, 4, 10, 13, 16, 17, 18 and 29.
+
+No. 29 of 1988 Local Government (Multi-Storey The whole Act. Buildings) Act 1988
+
+No. 3 of 1990 Building Control Act 1990 The whole Act.
+
+No. 14 of 1990 Derelict Sites Act 1990 The whole Act.
+
+No. 11 of 1991 Local Government Act 1991 Section 28(6).
+
+No. 7 of 1992 Environmental Protection The whole Act. Agency Act 1992
+
+No. 18 of 1992 Housing (Miscellaneous Sections 4, 5, 10, 11, 12, 18A, Provisions) Act 1992 18B, 34 and 37.
+
+No. 23 of 1992 Electoral Act 1992 The whole Act.
+
+No. 28 of 1992 Finance (No. 2) Act 1992 Sections 20A, 20B and 21.
+
+No. 13 of 1993 Finance Act 1993 Sections 59, 60 and 61.
+
+No. 14 of 1993 Roads Act 1993 Sections 13(10), 46, 69, 70, 71, 73, 74(5), 75(3), 76(6), (12), (14), (15) and (16).
+
+No. 28 of 1993 Presidential Elections Act 1993 The whole Act.
+
+No. 12 of 1994 Referendum Act 1994 The whole Act.
+
+No. 10 of 1996 Waste Management Act 1996 The whole Act. No. 37 of 1996 Control of Horses Act 1996 The whole Act.
+
+No. 2 of 1997 European Parliament Elections The whole Act. Act 1997
+
+No. 12 of 1997 Litter Pollution Act 1997 The whole Act.
+
+No. 21 of 1997 Housing (Miscellaneous Sections 3, 3A, 6(2), 9, 14, 14A, Provisions) Act 1997 15 and 20.
+
+No. 25 of 1997 Electoral Act 1997 The whole Act.
+
+No. 29 of 1997 Local Government (Financial Section 14(5). Provisions) Act 1997
+
+No. 31 of 1997 Prompt Payment of Accounts The whole Act. Act 1997
+
+No. 16 of 1998 Local Government Act 1998 Sections 5, 6(2), 7 and 12.
+
+No. 29 of 1998 Food Safety Authority of Ireland The whole Act. Act 1998
+
+No. 33 of 1998 Housing (Traveller Section 25. Accommodation) Act 1998
+
+No. 7 of 1999 Local Elections (Disclosure of The whole Act. Donations and Expenditure) Act 1999
+
+No. 30 of 2000 Planning and Development Act Sections 5, 7, 8, 18(3), 22, 2000 31I(3), 31AI(4), 31AW(2), 57, 59, 60, 61, 69, 70, 71 to 79, 82, 83, 87, 88, 89, 90, 96, 96B, 97, 101, 147, 148, 170, 178, 178A, 179A, 180, 182, 206, 208, 209, 216, 217, 217B, 219, 247, 248, 249, 252, 254, 261 and 261A; Part III; Chapters III and IV of Part VI; Parts VIII, X, XA, XII, XVI, XVII and XXI.
+
+No. 38 of 2000 Wildlife (Amendment) Act 2000 The whole Act, other than Part VA.
+
+No. 37 of 2001 Local Government Act 2001 Sections 11(8), 28, 46, 52(5)(d) and (9), 81, 86, 97, 98, 99, 104, 107, 108, 109(5) and (6), 110(6), (9) and (10), 112, 120, 121, 122, 126D(7), 126E(1), 128A, 128D, 128E(2), 129I(5), 129M, 129N, 129O, 129P, 129Q , 129R, 129T, 132, 138, 140, 144(3)(a) and (8), 145, 146, 147, 148, 149, 149A, 151, 152, 153, 158, 160(3) and (4), 166, 167(1)(c), 173(1), 174(8), 178(1), (2), (4) and (5), 179, 180(4)(b) and (c), 211B, 211C, 211D, 211E and 211F, 214(3), (4) and (5), 229; paragraphs 13(6) and 15(4) of Schedule 10.
+
+No. 32 of 2003 Official Languages Act 2003 Section 4B(a).
+
+No. 27 of 2004 Residential Tenancies Act 2004 The whole Act.
+
+No. 11 of 2005 Maritime Safety Act 2005 Section 17. No. 26 of 2005 Social Welfare Consolidation Sections 261(2), 269, 290A(5); Act 2005 Part 12.
+
+No. 33 of 2006 Electoral (Amendment) Act The whole Act. 2006
+
+No. 30 of 2007 Water Services Act 2007 The whole Act.
+
+No. 22 of 2009 Housing (Miscellaneous Sections 10, 20, 22, 24, 25, 28, Provisions) Act 2009 29, 31, 32, 34, 43, 45, 46, 47, 48, 56, 60, 61, 64, 74, 75, 76, 98 and 99.
+
+No. 29 of 2010 Dog Breeding Establishments The whole Act. Act 2010
+
+No. 29 of 2011 Welfare of Greyhounds Act Sections 17, 26 and 27. 2011
+
+No. 15 of 2013 Animal Health and Welfare Act The whole Act. 2013
+
+No. 4 of 2014 County Enterprise Boards Section 6(3). (Dissolution) Act 2014
+
+No. 14 of 2014 Protected Disclosures Act 2014 The whole Act.
+
+No. 21 of 2014 Housing (Miscellaneous Sections 7, 8, 9, 10, 12, 13, 14, Provisions) Act 2014 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 53 and 55; Part 4.
+
+No. 30 of 2014 Freedom of Information Act The whole Act. 2014
+
+No. 43 of 2014 MerchantShipping(Registration Sections 42 and 63. of Ships) Act 2014
+
+No. 33 of 2015 Urban Regeneration and Part 2. Housing Act 2015
+
+No. 24 of 2019 Local Government Rates and Sections 4, 5, 7, 8, 9, 10, 12, Other Matters Act 2019 13 and 16.
+
+No. 25 of 2021 Affordable Housing Act 2021 The whole Act.
+
+No. 28 of 2022 Remediation of Dwellings The whole Act. Damaged by the use of Defective Concrete Blocks Act 2022
+
+No. 48 of 2022 Water Environment Sections 90, 91, 97, 101 and (Abstractions and Associated 108. Impoundments) Act 2022
+
+No. 17 of 2023 Civil Defence Act 2023 Sections 4, 5, 6, 7 and 9.
+
+No. 26 of 2023 Historic and Archaeological Sections 87, 88 and 223; Parts Heritage and Miscellaneous 7 and 10. Provisions Act 2023
+
+No. 1 of 2024 Policing, Security and Sections 117 and 118(4). Community Safety Act 2024
+
+Statutory Instruments
+
+Number and Year Title Provision
+
+(1) (2) (3) S.I. No. 15 of 1958 Road Vehicles (Registration and The whole Licensing) Order 1958 instrument.
+
+S.I. No. 266 of 1988 Air Pollution Act 1987 (Licensing of The whole Industrial Plant) Regulations 1988 instrument.
+
+S.I. No. 385 of 1992 Road Vehicles (Registration and The whole Licensing) (Amendment) Regulations instrument. 1992
+
+S.I. No. 409 of 1992 Road Vehicles (Registration and The whole Licensing) (Amendment) (No. 2) instrument. Regulations 1992
+
+S.I. No. 179 of 1994 Environmental Protection Agency Act The whole 1992 (Noise) Regulations 1994 instrument.
+
+S.I. No. 297 of 1995 Local Elections Regulations 1995 The whole instrument.
+
+S.I. No. 171 of 1997 Control of Horses Regulations 1997 The whole instrument.
+
+S.I. No. 374 of 1997 Environmental Protection Agency Act Regulations 25 and 1992 (Control of volatile organic 26. compound emissions resulting from petrol storage and distribution) Regulations 1997
+
+S.I. No. 375 of 1997 Air Pollution Act 1987 (Petroleum Vapour The whole Emissions) Regulations 1997 instrument.
+
+S.I. No. 496 of 1997 Building Control Regulations 1997 The whole instrument.
+
+S.I. No. 455 of 1998 Local Government (Superannuation) The whole (Consolidation) Scheme 1998 instrument.
+
+S.I. No. 341 of 2001 Waste Management (Farm Plastics) The whole Regulations 2001 instrument.
+
+S.I. No. 590 of 2001 Local Government Act 2001 The whole (Supplementary Provisions) Regulations instrument. 2001
+
+S.I. No. 600 of 2001 Planning and Development Regulations Articles 6, 10, 81A, 2001 82A, 83A and 202; Parts 4, 7, 10, 11, 12, 13, 16, 19, 20, 21 and 22.
+
+S.I. No. 66 of 2002 Local Government Act 2001 (Meetings) The whole Regulations 2002 instrument.
+
+S.I. No. 281 of 2002 Local Authority Members (Gratuity) The whole Regulations 2002 instrument.
+
+S.I. No. 362 of 2006 Local Government Act 2001 (Bye-Laws) The whole Regulations 2006 instrument.
+
+S.I. No. 166 of 2007 Local Government (Business Regulation 4. Improvement Districts Ratepayer Plebiscite) Regulations 2007
+
+S.I. No. 684 of 2007 Waste Water Discharge (Authorisation) Regulations 34, 41, Regulations 2007 42, 43 and 44.
+
+S.I. No. 804 of 2007 Stores for Explosives Order 2007 The whole instrument. S.I. No. 79 of 2008 Bathing Water Quality Regulations 2008 The whole instrument.
+
+S.I. No. 58 of 2009 Arsenic, Cadmium, Mercury, Nickel and The whole Polycyclic Aromatic Hydrocarbons in instrument. Ambient Air Regulations 2009
+
+S.I. No. 272 of 2009 European Communities Environmental The whole Objectives (Surface Waters) Regulations instrument. 2009
+
+S.I. No. 296 of 2009 European Communities Environmental The whole Objectives (Freshwater Pearl Mussel) instrument. Regulations 2009
+
+S.I. No. 9 of 2010 European Communities Environmental The whole Objectives (Groundwater) Regulations instrument. 2010
+
+S.I. No. 84 of 2011 Social Housing Assessment Regulations The whole 2011 instrument.
+
+S.I. No. 155 of 2011 European Communities Act 1972 The whole (Environmental Specifications for Petrol, instrument. Diesel Fuels and Gas Oils for use by non-road mobile machinery, including inland waterway vessels, agricultural and forestry tractors, and recreational craft) Regulations 2011
+
+S.I. No. 477 of 2011 European Communities (Birds and The whole Natural Habitats) Regulations 2011 instrument.
+
+S.I. No. 687 of 2011 European Union (Stage II Petrol Vapour The whole Recovery during Refuelling of Motor instrument. Vehicles at Service Stations) Regulations 2011
+
+S.I. No. 243 of 2012 European Union (Energy Performance of The whole Buildings) Regulations 2012 instrument.
+
+S.I. No. 564 of 2012 European Union (Paints, Varnishes, The whole Vehicle Refinishing Products and instrument. Activities) Regulations 2012
+
+S.I. No. 565 of 2012 European Union (Installations and The whole Activities Using Organic Solvents) instrument. Regulations 2012
+
+S.I. No. 580 of 2012 European Communities (Late Payment The whole in Commercial Transactions) Regulations instrument. 2012
+
+S.I. No. 225 of 2013 European Union (Construction Products) The whole Regulations 2013 instrument.
+
+S.I. No. 149 of 2014 European Union (Waste Electrical and The whole Electronic Equipment) Regulations 2014 instrument, other than Regulations 20(1) and (4) and 44.
+
+S.I. No. 226 of 2014 Local Government (Financial and Audit Articles 8 to 12; Part Procedures) Regulations 2014 3.
+
+S.I. No. 231 of 2014 Local Government (Performance of The whole Reserved Functions in Respect of instrument. Municipal District Members) Regulations 2014 S.I. No. 281 of 2014 European Union (End-of-Life Vehicles) The whole Regulations 2014 instrument.
+
+S.I. No. 282 of 2014 European Union (Packaging) Regulations The whole 2014 instrument.
+
+S.I. No. 283 of 2014 European Union (Batteries and The whole Accumulators) Regulations 2014 instrument.
+
+S.I. No. 573 of 2014 Local Government Act 1991 (Regional Articles 23 and 54(1). Assemblies) (Establishment) Order 2014
+
+S.I. No. 430 of 2015 European Union (Household Food Waste The whole and Bio-waste) Regulations 2015 instrument.
+
+S.I. No. 297 of 2016 European Union Habitats (Tory Hill The whole Special Area of Conservation 000439) instrument. Regulations 2016
+
+S.I. No. 298 of 2016 European Union Habitats (Clare Glen The whole Special Area of Conservation 000930) instrument. Regulations 2016
+
+S.I. No. 299 of 2016 European Union Habitats (Glen Bog The whole Special Area of Conservation 001430) instrument. Regulations 2016
+
+S.I. No. 221 of 2017 European Union Habitats The whole (Carrigeenamronety Hill Special Area of instrument. Conservation 002037) Regulations 2017
+
+S.I. No. 400 of 2017 Waste Management (Tyres and Waste The whole Tyres) Regulations 2017 instrument.
+
+S.I. No. 617 of 2017 European Union Habitats (Askeaton Fen The whole Complex Special Area of Conservation instrument. 002279) Regulations 2017
+
+S.I. No. 25 of 2018 Housing (Rebuilding Ireland Home Loans) The whole Regulations 2018 instrument.
+
+S.I. No. 354 of 2018 European Union (Invasive Alien Species) The whole (Freshwater Crayfish) Regulations 2018 instrument.
+
+S.I. No. 419 of 2018 European Union Habitats (Glenstal Wood The whole Special Area of Conservation 001432) instrument. Regulations 2018
+
+S.I. No. 533 of 2018 European Union (Mercury) Regulations The whole 2018 instrument.
+
+S.I. No. 209 of 2019 European Union Habitats (Curraghchase The whole Woods Special Area of Conservation instrument. 000174) Regulations 2019
+
+S.I. No. 329 of 2019 European Union Conservation of Wild The whole Birds (River Shannon and River Fergus instrument. Estuaries Special Protection Area 004077) Regulations 2019
+
+S.I. No. 630 of 2019 Dangerous Substances (Flammable The whole Liquids and Fuels Retail Stores) instrument. Regulations 2019
+
+S.I. No. 631 of 2019 Dangerous Substances (Flammable The whole Liquids and Fuels Distribution and instrument. Commercial Supply Stores) Regulations 2019 S.I. No. 683 of 2019 Control of Dogs (Dog Licensing Database) The whole Regulations 2019 instrument.
+
+S.I. No. 22 of 2020 European Union (Food and Feed Hygiene) The whole Regulations 2020 instrument.
+
+S.I. No. 116 of 2020 European Union Habitats (Galtee The whole Mountains Special Area of Conservation instrument. 000646) Regulations 2020
+
+S.I. No. 146 of 2020 European Union (Persistent Organic The whole Pollutants) Regulations 2020 instrument.
+
+S.I. No. 367 of 2020 Protected Disclosures Act 2014 The whole (Disclosure to Prescribed Persons) Order instrument. 2020
+
+S.I. No. 312 of 2021 Local Government (Remuneration of The whole Local Authority Members) Regulations instrument. 2021
+
+S.I. No. 313 of 2021 Local Government (Expenses of Local The whole Authority Members) Regulations 2021 instrument.
+
+S.I. No. 344 of 2021 European Union Habitats (Ballyhoura The whole Mountains Special Area of Conservation instrument. 002036) Regulations 2021
+
+S.I. No. 425 of 2021 Affordable Housing Act 2021 (Cost Rental The whole Designation) Regulations 2021 instrument.
+
+S.I. No. 701 of 2021 Housing Loans Regulations 2021 The whole instrument.
+
+S.I. No. 755 of 2021 Affordable Housing Act 2021 (Cost Rental The whole Letting and Eligibility) Regulations 2021 instrument.
+
+S.I. No. 756 of 2021 Affordable Housing Act 2021 (Cost Rental The whole Rent Setting) Regulations 2021 instrument.
+
+S.I. No. 113 of 2022 European Union (Good Agricultural Regulations 17, 26, 27 Practice for Protection of Waters) and 30. Regulations 2022
+
+S.I. No. 519 of 2022 Housing (Domestic Lead Remediation The whole Grant) Regulations 2022 instrument.
+
+S.I. No. 529 of 2022 Air Pollution Act 1987 (Solid Fuels) Regulations 12 and Regulations 2022 13.
+
+S.I. No. 561 of 2022 European Union Habitats (Barrigone The whole Special Area of Conservation 000432) instrument. Regulations 2022
+
+S.I. No. 21 of 2023 Affordable Housing (No. 2) Regulations The whole 2023 instrument.
+
+S.I. No. 99 of 2023 European Union (Drinking Water) Regulations 13, 14, Regulations 2023 15, 17, 22, 24, 25, 29 and 30.
+
+S.I. No. 328 of 2023 European Union Habitats (Lower River The whole Shannon Special Area of Conservation instrument. 002165) Regulations 2023
+
+S.I. No. 347 of 2023 Remediation of Dwellings Damaged by The whole the Use of Defective Concrete Blocks instrument. Regulations 2023 S.I. No. 404 of 2023 Local Government Act 2001 (Section 142) The whole (Allowance for Maternity Related instrument. Administrative Support) Regulations 2023
+
+S.I. No. 449 of 2023 Local Government Act 2001 (Section 142) The whole (Security Allowance for Local Authority instrument. Members) Regulations 2023
+
+S.I. No. 562 of 2023 Housing (Domestic Waste Water The whole Treatment Systems Grant under the instrument. National Inspection Plan) Regulations 2023
+
+S.I. No. 563 of 2023 Housing (Domestic Waste Water The whole Treatment Systems Grant for Prioritised instrument. Areas for Action) Regulations 2023
+
+S.I. No. 564 of 2023 Housing (Domestic Waste Water The whole Treatment Systems Grant for High Status instrument. Objective Catchment Areas) Regulations 2023
+
+S.I. No. 696 of 2023 Local Government Rates (Financial The whole Procedures) Regulations 2023 instrument.
