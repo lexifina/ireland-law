@@ -6,9 +6,11 @@ Definitions (Chapter 1)
 
 3. In this Chapter—
 
+"Board" means An Coimisiún Pleanála;
+
 “consultation meeting” means a meeting to which section 6(5) relates;
 
-‘gross floor space’ means the area ascertained by the internal measurement of the floor space on each floor of a building (including internal walls and partitions), disregarding any floor space provided for the parking of vehicles by persons occupying or using the building or buildings where such floor space is incidental to the primary purpose of the building;
+"gross floor space" means the area ascertained by the internal measurement of the floor space on each floor of a building (including internal walls and partitions), disregarding any floor space provided for the parking of vehicles by persons occupying or using the building or buildings where such floor space is incidental to the primary purpose of the building;
 
 “prospective applicant” means a person who—
 
@@ -16,7 +18,7 @@ Definitions (Chapter 1)
 
 (b) has the written consent of the owner to make an application under section 4 in respect of that land, and who intends to apply for permission under that section in respect of that land;
 
-‘shared accommodation’ means a building or part thereof used for the provision of residential accommodation consisting of—
+"shared accommodation" means a building or part thereof used for the provision of residential accommodation consisting of—
 
 (a) communal living and kitchen facilities and amenities shared by the residents, and
 
@@ -56,7 +58,7 @@ Definitions (Chapter 1)
 
 “student accommodation” has the meaning provided for by section 13.
 
-‘student accommodation’—
+"student accommodation"—
 
 (a) means a building or part thereof used or to be used to accommodate students whether or not provided by a relevant provider (within the meaning of the Qualifications and Quality Assurance (Education and Training) Act 2012), and that is not for use—
 

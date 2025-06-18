@@ -1,14 +1,6 @@
 Requirements
 
-148.—(1) Where a member of the Board has a pecuniary or other beneficial interest in, or which is material to, any appeal, contribution, question, determination or dispute which falls to be decided or determined by the Board under any enactment, he or she shall comply with the following requirements:
-
-(a) he or she shall disclose to the Board the nature of his or her interest;
-
-(b) he or she shall take no part in the discussion or consideration of the matter;
-
-(c) he or she shall not vote or otherwise act as a member of the Board in relation to the matter;
-
-(d) he or she shall neither influence nor seek to influence a decision of the Board as regards the matter.
+148.—(1) ...
 
 (2) Where, at a meeting of a planning authority or of any committee of a planning authority, a resolution, motion, question or other matter is proposed or otherwise arises either pursuant to, or as regards the performance by the authority of a function under this Act or in relation to the acquisition or disposal by the authority of land under or for the purposes of this Act or any other enactment, a member of the authority or committee present at the meeting shall, if he or she has a pecuniary or other beneficial interest in, or which is material to, the matter—
 
@@ -20,11 +12,7 @@ Requirements
 
 (4) Where the chief executive of a planning authority has a pecuniary or other beneficial interest in, or which is material to, any matter which arises or comes before the authority either pursuant to, or as regards the performance by the authority of a function under this Act, or in relation to the acquisition or disposal by the authority of land under or for the purposes of this Act or any other enactment, he or she shall, as soon as may be, disclose to the members of the planning authority the nature of his or her interest.
 
-(5) (a) Where an employee of the Board, a consultant or adviser engaged by the Board, or any other person whose services are availed of by the Board has a pecuniary or other beneficial interest in, or which is material to, any appeal, contribution, question or dispute which falls to be decided or determined by the Board, he or she shall comply with the following requirements:
-
-(i) he or she shall neither influence nor seek to influence a decision of the Board as regards the matter;
-
-(ii) in case, as such employee, consultant, adviser or other person, he or she is concerned with the matter, he or she shall disclose to the Board the nature of his or her interest and comply with any directions the Board may give him or her in relation to the matter.
+(5) (a) ...
 
 (b) Where an officer of a planning authority, not being the chief executive, has a pecuniary or other beneficial interest in, or which is material to, any matter which arises or comes before the authority, either pursuant to, or as regards the performance by the authority of a function under this Act, or in relation to the acquisition or disposal of land by the authority under or for the purposes of this Act or any other enactment, he or she shall comply with the following requirements:
 

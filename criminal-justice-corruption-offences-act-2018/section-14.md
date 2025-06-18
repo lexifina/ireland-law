@@ -60,6 +60,8 @@ Presumption of corrupt gift, consideration or advantage
 
 (h) the Planning and Development Acts 2000 to 2016 and any Act which is to be construed together as one with those Acts;
 
+(ha) the Planning and Development Act 2024;
+
 (i) the performance by Coimisiún na Meán of its functions.
 
 (4) The Minister may prescribe a class of persons for the purposes of paragraph (i) of the definition of “connected person” of an official in subsection (5) only if the Minister is satisfied that it would be appropriate for the provisions of this section to be applied in relation to members of the class, having regard to any heightened risk, arising from their close family relationship with the official, that such persons may be involved in offences under sections 5, 6, 7 and 8.

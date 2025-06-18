@@ -4,7 +4,9 @@ Interpretation - Part 9
 
 74. In this Part—
 
-“Board”, “permission”, and “planning authority” each has the same meaning as it has in the Act of 2000;
+“Board” means An Coimisiún Pleanála;
+
+“permission”, and “planning authority” each has the same meaning as it has in the Act of 2000;
 
 “cost rental dwelling” has the meaning assigned to it by Part 3 of the Affordable Housing Act 2021;
 

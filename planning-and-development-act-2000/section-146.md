@@ -1,8 +1,8 @@
 Reports and documents of the Board.
 
-146.—(1) The Board or an employee of the Board duly authorised by the Board may in connection with the performance of any of the Board’s functions under this Act, assign a person to report on any matter on behalf of the Board.
+146.—(1) ...
 
-(2) A person assigned in accordance with subsection (1) shall make a written report on the matter to the Board, which shall include a recommendation, and the Board shall consider the report and recommendation before determining the matter.
+(2) ...
 
 (3) Where, during the consideration by it of any matter falling to be decided by it in performance of a function under or transferred by this Act or any other enactment, the Board either—
 

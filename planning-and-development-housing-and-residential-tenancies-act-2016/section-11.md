@@ -2,9 +2,9 @@ Strategic Housing Division
 
 11. (1) A division of the Board, to be known as the Strategic Housing Division, is established on the commencement of this section.
 
-(2) The Strategic Housing Division is in addition to any division for the time being constituted under section 112 of the Act of 2000 and to the Strategic Infrastructure Division.
+(2) The Strategic Housing Division is in addition to any division for the time being constituted under section 112 of the Act of 2000 or section 514 of the Act of 2024 and to the Strategic Infrastructure Division.
 
-(3) The Strategic Housing Division shall, subject to subsections (8), (9) and (10), determine any matter falling to be determined by the Board under the Planning and Development Acts 2000 to 2016 in relation to strategic housing development other than development to which section 4(4) relates.
+(3) The Strategic Housing Division shall, subject to subsections (8), (9) and (10), determine any matter falling to be determined by the Board under the Planning and Development Acts 2000 to 2016 or the Act of 2024 in relation to strategic housing development other than development to which section 4(4) relates.
 
 (4) For the purpose of subsection (3), the Strategic Housing Division has all the functions of the Board.
 
@@ -32,6 +32,6 @@ Strategic Housing Division
 
 (i) by the Board, or
 
-(ii) to the extent that it may be assigned to the Strategic Infrastructure Division or to that Division or to one or more than one division under section 112(1) of the Act of 2000, by each such division so assigned, as if the Board or each such division, as the case may be, were the Strategic Housing Division for the purposes of section 4(3) and, where appropriate, section 7(2)(a) shall be read accordingly.
+(ii) to the extent that it may be assigned to the Strategic Infrastructure Division or to that Division or to one or more than one division under section 112(1) of the Act of 2000 or section 514 of the Act of 2024, by each such division so assigned, as if the Board or each such division, as the case may be, were the Strategic Housing Division for the purposes of section 4(3) and, where appropriate, section 7(2)(a) shall be read accordingly.
 
 (c) The Minister shall cause notice of the making of the direction under paragraph (b) to be published in Iris Oifigiúil and such notice shall include the date of dissolution.
