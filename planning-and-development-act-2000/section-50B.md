@@ -10,13 +10,13 @@ Costs in environmental matters.
 
 (iii) any failure to take any action, pursuant to a statutory provision that gives effect to—
 
-(I) a provision of Council Directive 85/337/EEC of 27 June 1985 to which Article 10a (inserted by Directive 2003/35/EC of the European Parliament and of the Council of 26 May 2003 providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment and amending with regard to public participation and access to justice Council Directive 85/337/EEC and 96/61/EC) of that Council Directive applies,
+(I) a provision of the Environmental Impact Assessment Directive (within the meaning of the Planning and Development Act 2024) to which, by virtue of paragraph 1 of Article 11 of that Directive, the said Article 11 is subject,
 
-(II) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment, or
+(II) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on theenvironment,
 
-(III) a provision of Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control to which Article 16 of that Directive applies, or
+(III) a provision of Directive 2010/75/EU of the European Parliament and of the Council of 24 November 201020 on industrial emissions (integrated pollution prevention and control) to which, by virtue of paragraph 1 of Article 25 of that Directive, Article 24 of that Directive is subject, or
 
-(IV) paragraph 3 or 4 of Article 6 of the Habitats Directive; or
+(IV) paragraph 3 or 4 of Article 6 of the Habitats Directive (within the meaning of the Planning and Development Act 2024);
 
 (b) an appeal (including an appeal by way of case stated) to the Supreme Court from a decision of the High Court in a proceeding referred to in paragraph (a);
 
