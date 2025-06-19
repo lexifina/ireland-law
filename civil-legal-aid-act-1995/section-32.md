@@ -1,0 +1,5 @@
+Relationship between lawyer and person in receipt of legal aid or advice.
+
+32.—(1) Save as is otherwise specifically provided for by this Act, the relationship between a solicitor or barrister and an applicant for, or a person in receipt of, legal aid or advice and the rights and privileges arising out of such relationship shall be the same as the relationship between, and the rights and privileges arising out of the relationship between, a solicitor or barrister and his or her client not being an applicant for, or a person in receipt of, legal aid or advice.
+
+(2) Notwithstanding the relationship between, or rights and privileges of, a solicitor or barrister and an applicant for, or person in receipt of, legal aid or advice, a solicitor or barrister providing legal aid or advice shall, if so requested by a person authorised in that behalf by the Board, provide the person with any information, in such form as the person may specify, relating to legal aid or advice provided to or by an applicant or person in receipt of legal aid or advice, which is required by the Board for the purpose of enabling the Board to discharge its functions under this Act.
