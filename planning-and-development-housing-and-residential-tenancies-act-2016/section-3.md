@@ -10,7 +10,11 @@ Definitions (Chapter 1)
 
 “consultation meeting” means a meeting to which section 6(5) relates;
 
+"development plan" has the same meaning as it has in section 2 of the Act of 2024;
+
 "gross floor space" means the area ascertained by the internal measurement of the floor space on each floor of a building (including internal walls and partitions), disregarding any floor space provided for the parking of vehicles by persons occupying or using the building or buildings where such floor space is incidental to the primary purpose of the building;
+
+"local area plan" means a plan continued in force by section 81 of the Act of 2024;
 
 “prospective applicant” means a person who—
 
