@@ -1,0 +1,5 @@
+Accounts and audits of Board.
+
+20.—(1) The Board shall keep in such form as may be approved by the Minister, with the consent of the Minister for Finance, all proper and usual accounts of the resources of the Board (including contributions the payment of which has been waived under section 29 (2)) and all moneys received into the Fund and expended out of it, which accounts shall include an income and expenditure account and balance sheet and, in particular, shall keep such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted, as soon as may be after the end of each financial year to which they relate by the Board to the Comptroller and Auditor General for audit and a copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Minister as soon as may be and the Minister shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
