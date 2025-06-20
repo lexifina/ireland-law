@@ -1,4 +1,4 @@
-Provision
+Provision of information in relation to service charges by management companies.
 
 188.—(1) A tenant of a dwelling which is one of a number of dwellings comprising an apartment complex may request the management company (if any) of the complex (“the company”) to furnish to him or her particulars in writing of the service charges made by the company in respect of the dwelling in a specified period and how those charges have been calculated.
 

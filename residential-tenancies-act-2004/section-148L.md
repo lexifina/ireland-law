@@ -1,3 +1,3 @@
-Return
+Return of deposit where no notification of agreement or disagreement made.
 
 148L.— ...

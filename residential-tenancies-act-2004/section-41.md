@@ -1,3 +1,3 @@
-Further Part 4 tenancy on expiry of 6 year period. (Repealed)
+Further Part 4 tenancy on expiry of 4 year period. (Repealed)
 
 41.—...

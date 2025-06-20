@@ -26,9 +26,7 @@ ORAL HEARING CONDUCTED BY AUTHORISED OFFICER PURSUANT TO SECTION 148S(15)
 
 PART 2
 
-ORAL HEARING CONDUCTED BY DECISION MAKER PURSUANT TO SECTION 148X(6) OR
-
-(7)
+ORAL HEARING CONDUCTED BY DECISION MAKER PURSUANT TO SECTION 148X(6) OR (7)
 
 1. The decision maker, in conducting the oral hearing for the purposes of assisting him or her to make a decision under section 148X(4) or 148X(5) or for the purposes of observing fair procedures, may take evidence on oath, and the administration of such an oath by the decision maker is hereby authorised.
 

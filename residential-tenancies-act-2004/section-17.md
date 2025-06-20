@@ -12,7 +12,7 @@ Section 16: interpretation and supplemental.
 
 (a) engage in behaviour that constitutes the commission of an offence, being an offence the commission of which is reasonably likely to affect directly the well-being or welfare of others,
 
-(b) engage in behaviour that causes or could cause fear, danger, injury, damage or loss to any person living, working or otherwise lawfully in the dwelling concerned or its vicinity and, without prejudice to the generality of the foregoing , includes violence, intimidation, coercion, harassment or obstruction of, or threats to, any such person, or
+(b) engage in behaviour that causes or could cause fear, danger, injury, damage or loss to any person living, working or otherwise lawfully in the dwelling concerned or its vicinity and, without prejudice to the generality of the foregoing, includes violence, intimidation, coercion, harassment or obstruction of, or threats to, any such person, or
 
 (c) engage, persistently, in behaviour that prevents or interferes with the peaceful occupation—
 

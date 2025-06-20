@@ -74,7 +74,7 @@ Amendment of Housing (Miscellaneous Provisions) Act 1997.
 
 “Excluding
 
-4.—(1) If, on the making of an application for an excluding order or orders. between the making of the application and its determination, the court is of the opinion that there are reasonable grounds for believing that there is an immediate risk of significant harm to the tenant, relevant purchaser or other occupant of the house if the order is not made immediately, the court may by order (to be known and referred to in this Act as an ‘interim excluding order’)—
+4.—(1) If, on the making of an application for an excluding order or between orders. the making of the application and its determination, the court is of the opinion that there are reasonable grounds for believing that there is an immediate risk of significant harm to the tenant, relevant purchaser or other occupant of the house if the order is not made immediately, the court may by order (to be known and referred to in this Act as an ‘interim excluding order’)—
 
 (a) direct the respondent, if residing at the house in respect of which the application was made, to leave that house, and
 
@@ -114,7 +114,7 @@ Provision
 
 4A.—For the avoidance of doubt— for
 
-(a) no order may be made under section 3 or 4 directing anything to avoidance be done, or prohibiting anything from being done, in a housing of doubt estate none of the houses in which is under the control and management of a housing authority,
+(a) no order may be made under section 3 or 4 directing anything to be done, avoidance or prohibiting anything from being done, in a housing estate none of the of doubt houses in which is under the control and management of a housing authority,
 
 (b) a house shall, for the purposes of those sections and paragraph (a), be regarded as being under the control and management of a housing authority despite the fact that the authority has, under section 9 of the Housing (Miscellaneous Provisions) Act 1992, delegated all or one or more of its functions in respect of that house to a designated body.”,
 
