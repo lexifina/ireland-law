@@ -30,6 +30,8 @@ Disregard of certain income.
 
 ...
 
+(bba) any ex gratia payments made under the Stardust Redress Scheme (2024),
+
 (bc) any ex gratia payments made by the Minister for Health in accordance with recommendations proposed by the Scoping Inquiry into the CervicalCheck Screening Programme,
 
 (bca) any income derived from the scheme to compensate persons who suffered harm or injury while in the care of Kerry CAMHS in the period 1st July 2016 to 19th April 2021, as identified through the Maskey Report and who have been notified by the Child and Adolescent Mental Health Services,
@@ -50,6 +52,12 @@ Disregard of certain income.
 
 (dab) any payments made from the KickStart Scholarship Fund administered by the Probation Service,
 
+(dac) any amount to a maximum of €7,000.00 per annum from payments made by UCD’s Cothrom na Féine Scholarship Programme,
+
+(dad) an amount up to a maximum of €7,000.00 per annum from payments made by the Department of Further and Higher Education, Research, Innovation and Science’s Student Accommodation Assistance Fund,
+
+(dae) an amount up to a maximum of €7,000.00 per annum from payments made by Co-operative Housing Ireland’s Scholarship Programme,
+
 (db) in so far as it relates to a claim for disability allowance or blind pension, any amount awarded as bursaries, stipends or scholarships to a maximum of €20,000 per annum (and for not more than four years) by an approved institution as listed in Schedule 1 and Schedule 2 of Student Support Regulations 2020 (S.I. 77 of 2020) for the purpose of completing a Level 10 postgraduate course (Doctoral Degree) within the national framework of qualifications,
 
 (e) any payments made directly or indirectly by or on behalf of the Minister for Health under the package of support measures established in 2018 for women diagnosed with cervical cancer since 2008,
@@ -62,16 +70,24 @@ Disregard of certain income.
 
 (ga) any income derived from the Troubles Permanent Disablement Payment Scheme in accordance with the Victims’ Payments Regulations 2020 (2020 No. 103) (Northern Ireland), ...
 
+(gb) any payments made by the Historical Institutional Abuse Redress Board (HIARB) in accordance with the Historical Institutional Abuse (Northern Ireland) Act 2019,
+
 (h) any payments made by the Minister for Education and Skills as part of the School Transport Scheme for Children with Special Educational Needs in the form of the Special Transport Grant,
 
 ...
 
-(i) Subject to the cessation of this disregard on 17 March 2025, and the conditions specified in subparagraphs (i), (ii) and (iii), any income arising to a person in respect of the lawful rental of living accommodation of a room, or rooms, in his or her home to another person or persons, where that other person, or persons have the use of the room or rooms for a period of not less than 28 consecutive days.
+(i) Subject to the cessation of this disregard on 17 March 2027, and the conditions specified in subparagraphs (i), (ii) and (iii), any income arising to a person in respect of the lawful rental of living accommodation of a room, or rooms, in his or her home to another person or persons, where that other person, or persons have the use of the room or rooms for a period of not less than 28 consecutive days.
 
 (i) The income disregard in this paragraph shall be subject to a maximum of €269.23 per week.
 
 (ii) The income disregard in this paragraph shall apply only as long as the person or persons to whom the use of living accommodation of a room, or rooms have been made available, continue to use the room or rooms.
 
-(iii) The income disregard in this paragraph shall not apply where the income arising to the person is received from an employee or an immediate family member of that person, or
+(iii) The income disregard in this paragraph shall not apply where the income arising to the person is received from an employee or an immediate family member of that person,
 
-(j) any financial contribution paid by the Minister in accordance with section 8(1) of theCivil Law (Miscellaneous Provisions) Act 2022.
+...
+
+(j) any financial contribution paid by the Minister in accordance with section 8(1) of theCivil Law (Miscellaneous Provisions) Act 2022,
+
+(k) any payment made under the Mother and Baby Institutions Payment Scheme, established under section 5 of the Mother and Baby Institutions Payment Scheme Act 2023 (No. 20 of 2023), or
+
+(l) any payment made under the scheme operated by the State Claims Agency, known as the ‘Ex gratia scheme – Implementation of the ECtHR (European Court of Human Rights) Judgement in O’Keeffe v Ireland’.

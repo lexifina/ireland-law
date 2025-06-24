@@ -30,6 +30,8 @@ Sums disregarded in determining weekly family income.
 
 (fc) any ex gratia payments made under the Scheme of Compensation for Personal Injuries suffered at the Stardust, Artane on 14 February 1981, ...
 
+(fca) any ex gratia payments made under the Stardust Redress Scheme (2024),
+
 (fd) any ex gratia payments made by the Minister for Health in accordance with recommendations proposed by the Scoping Inquiry into the CervicalCheck Screening Programme,
 
 (fe) any income derived from the scheme to compensate persons who suffered harm or injury while in the care of Kerry CAMHS in the period 1st July 2016 to 19th April 2021, as identified through the Maskey Report and who have been notified by the Child and Adolescent Mental Health Services,
@@ -50,6 +52,12 @@ Sums disregarded in determining weekly family income.
 
 (ic) any payments made from the KickStart Scholarship Fund administered by the Probation Service,
 
+(id) any amount to a maximum of €7,000.00 per annum from payments made by UCD’s Cothrom na Féine Scholarship Programme,
+
+(ie) an amount up to a maximum of €7,000.00 per annum from payments made by the Department of Further and Higher Education, Research, Innovation and Science’s Student Accommodation Assistance Fund,
+
+(if) an amount up to a maximum of €7,000.00 per annum from payments made by Co-operative Housing Ireland’s Scholarship Programme,
+
 (j) any payments made directly or indirectly by or on behalf of the Minister for Health under the package of support measures established in 2018 for women diagnosed with cervical cancer since 2008,
 
 (k) any payments made by Sport Ireland under the International Carding Scheme,
@@ -62,20 +70,30 @@ Sums disregarded in determining weekly family income.
 
 (la) any income derived from the Troubles Permanent Disablement Payment Scheme in accordance with the Victims’ Payments Regulations 2020 (2020 No. 103) (Northern Ireland),
 
+(lb) any payments made by the Historical Institutional Abuse Redress Board (HIARB) in accordance with the Historical Institutional Abuse (Northern Ireland) Act 2019,
+
 (n) any payments made by the Minister for Education and Skills as part of the School Transport Scheme for Children with Special Educational Needs in the form of the Special Transport Grant,
 
 ...
 
-(o) Subject to the cessation of this disregard on 17 March 2025, and the conditions specified in subparagraphs (i), (ii) and (iii), any income arising to a person in respect of the lawful rental of living accommodation of a room, or rooms, in his or her home to another person or persons, where that other person, or persons have the use of the room or rooms for a period of not less than 28 consecutive days.
+(o) Subject to the cessation of this disregard on 17 March 2027, and the conditions specified in subparagraphs (i), (ii) and (iii), any income arising to a person in respect of the lawful rental of living accommodation of a room, or rooms, in his or her home to another person or persons, where that other person, or persons have the use of the room or rooms for a period of not less than 28 consecutive days.
 
 (i) The income disregard in this paragraph shall be subject to a maximum of €269.23 per week.
 
 (ii) The income disregard in this paragraph shall apply only as long as the person or persons to whom the use of living accommodation of a room, or rooms have been made available, continue to use the room or rooms.
 
-(iii) The income disregard in this paragraph shall not apply where the income arising to the person is received from an employee or an immediate family member of that person, or
+(iii) The income disregard in this paragraph shall not apply where the income arising to the person is received from an employee or an immediate family member of that person,
 
-(p) any financial contribution paid by the Minister in accordance with section 8(1) of the Civil Law (Miscellaneous Provisions) Act 2022. or
+...
 
-(m) (i) any moneys received by way of maintenance payments (including maintenance payments made to or in respect of a qualified child) in so far as they do not exceed the weekly housing costs actually incurred by the person subject to a maximum amount of €95.23, together with one-half of any amount of maintenance payment in excess of that amount disregarded in respect of housing costs actually incurred, and the maintenance arrangements for the purposes of this sub-article shall be all forms of formal and informal arrangements whether procured by way of Court Order or otherwise, and
+(p) any financial contribution paid by the Minister in accordance with section 8(1) of the Civil Law (Miscellaneous Provisions) Act 2022,
+
+(q) any payment made under the Mother and Baby Institutions Payment Scheme, established under section 5 of the Mother and Baby Institutions Payment Scheme Act 2023 (No. 20 of 2023), or
+
+(r) any payment made under the scheme operated by the State Claims Agency, known as the ‘Ex gratia scheme – Implementation of the ECtHR (European Court of Human Rights) Judgement in O’Keeffe v Ireland’. or
+
+(m) (i) (I) any maintenance payment made to or in respect of a qualified child,
+
+(II) any moneys received by way of maintenance payments, other than those referred to in subclause (I), in so far as they do not exceed the weekly housing costs actually incurred by the person subject to a maximum amount of €95.23, together with one-half of any amount of maintenance payment in excess of that amount disregarded in respect of housing costs actually incurred, and the maintenance arrangements for the purposes of this sub-article shall be all forms of formal and informal arrangements whether procured by way of Court Order or otherwise, and
 
 (ii) notwithstanding subparagraph (i), where working family payment and one-parent family payment would be payable to or in respect of a person in respect of the same period, only one maintenance disregard shall apply,
