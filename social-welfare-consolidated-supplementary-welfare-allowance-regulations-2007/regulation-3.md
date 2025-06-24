@@ -26,7 +26,13 @@ Definitions.
 
 “Executive” means the Health Service Executive;
 
-"home" means a residential premises situated in the State which is owned and personally used and enjoyed by the person as his or her sole or main residence;
+‘home’ means a residential premises situated in the State which—
+
+(a) is owned and personally used and enjoyed by the person as his or her sole or main residence, or
+
+(b) is owned and was personally used and enjoyed by the person as his or her sole or main residence immediately prior to moving out of their home under the Nursing Homes Support Scheme, and for the purposes of article 36 of these Regulations, this paragraph shall come into operation on 1 February 2024, or
+
+(c) is held under a Local Authority tenancy agreement and is personally used and enjoyed by the tenant as his or her sole or main residence, while he or she is a participant in a scheme administered by the Minister for Housing, Local Government and Heritage known as the Room for a Student – Local Authority Scheme, and for the purposes of article 36 of these Regulations this paragraph shall come into operation on 1 December 2023.
 
 “hospital consultant” means a registered medical practitioner in hospital practice who, by reason of his or her training, skill and experience in a designated speciality, is consulted by other registered medical practitioners and undertakes full clinical responsibility for patients in his or her care on which he or she has been consulted, without supervision in professional matters by any other person;
 

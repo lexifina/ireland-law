@@ -16,11 +16,9 @@ S.I. No. 334 of 1997 Social Welfare (Consolidated Supplementary Welfare The whol
 
 S.I. No. 107 of 1998 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) (Determinations and Appeals) Regulations 1998
 
-S.I. No. 183 of 1998 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) (No. 2) Regulations 1998 S.I. Number Regulations Extent of Repeal (1) (2) (3)
+S.I. No. 183 of 1998 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) (No. 2) Regulations 1998
 
-S.I. No. 102 of 2000 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) Regulations 2000
-
-S.I. No. 101 of 2001 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) Regulations 2001
+S.I. No. 102 of 2000 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) Regulations 2000 S.I. No. 101 of 2001 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) Regulations 2001
 
 S.I. No. 653 of 2001 Social Welfare (Consolidated Supplementary Welfare The whole Regulations Allowance) (Amendment) (No. 1) (Income Disregards) Regulations 2001
 
@@ -62,9 +60,7 @@ GIVEN under the Official Seal of the Minister for Social and Family Affairs this
 
 MARTIN CULLEN,
 
-Minister for Social and Family Affairs.
-
-The Minister for Finance hereby consents to the making of the foregoing Regulations.
+Minister for Social and Family Affairs. The Minister for Finance hereby consents to the making of the foregoing Regulations.
 
 GIVEN under the Official Seal of the Minister for Finance this 29 day of June 2007.
 
