@@ -1,6 +1,6 @@
 How the Bank may give or serve notices or other documents.
 
-61G.—(1) If a provision of this Act or the regulations, or a provision of a designated enactment or designated statutory instrument, requires or authorises the Bank ... to give or serve a notice or other document, the notice or other document may be given or served—
+61G.—(1) If a provision of this Act or the regulations, or a provision of a designated enactment, a designated statutory instrument or the Finance (Provision of Access to Cash Infrastructure) Act 2025 (in so far as that Act is not a designated enactment), requires or authorises the Bank ... to give or serve a notice or other document, the notice or other document may be given or served—
 
 (a) in the case of a natural person—
 

@@ -47,3 +47,5 @@ Section 142.
 17. A company that is an insurance intermediary within the meaning of the Insurance Act 1989.
 
 18. A company that is an excepted body within the meaning of the Trade Union Acts 1871 to 1990.
+
+19. A company that is a cash-in-transit provider (within the meaning of the Finance (Provision of Access to Cash Infrastructure) Act 2025) that is registered on the Register of CIT Providers.

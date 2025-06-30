@@ -68,7 +68,7 @@ Annual estimates in relation to financial regulation functions.
 
 (a) its income from levies and fees imposed by regulations under sections 32D and 32E,
 
-(b) any other source of funds for the purposes of its powers and functions under the designated enactments and designated statutory instruments, and
+(b) any other source of funds for the purposes of its powers and functions under the designated enactments, designated statutory instruments and the Finance (Provision of Access to Cash Infrastructure) Act 2025 (in so far as that Act is not a designated enactment), and
 
 (c) its expenditure in relation to the exercise of those powers and functions, during the next financial year.
 
@@ -226,7 +226,7 @@ Chapter 3A
 
 Annual performance statements.
 
-32L.—(1) No later than 30 April in each year, the Bank shall prepare a statement relating to the Bank’s performance in regulating financial services (in this section called a "performance statement").
+32L.—(1) No later than 30 April in each year, the Bank shall prepare a statement relating to the Bank’s performance in regulating financial services and with regard to its functions under the Finance (Provision of Access to Cash Infrastructure) Act 2025 (in this section called a "performance statement").
 
 (2) A performance statement is to be in 3 parts—
 
