@@ -38,6 +38,12 @@ Business standards
 
 (6) When making regulations under this section, the Bank shall have regard to the need to ensure that the business standards are effective and proportionate having regard to the nature, scale and complexity of the activities of regulated financial service providers or the class or classes of regulated financial service providers to whom the regulations apply.
 
+(6A) (a) Before making regulations under this section, the Bank shall carry out an assessment of the costs and benefits of the business standards it proposes to prescribe.
+
+(b) An assessment referred to in paragraph (a) shall include an assessment of the potential impacts of the proposed regulations on customers and fair competition in the financial markets in the State.
+
+(c) The Bank shall, not later than the date of the making of any regulations under this section, publish any assessment carried out under paragraph (a) on a website maintained by it or on its behalf.
+
 (7) Regulations made under this section may—
 
 (a) apply either generally or to a specified class or classes of regulated financial service providers, customers or financial services, and
