@@ -10,7 +10,7 @@ Interpretation: Part VIIA and Schedule 5.
 
 "appeal" means an appeal under this Part;
 
-"appealable decision" means a decision of the Bank that is declared by a provision of this Act, or of a designated enactment or designated statutory instrument, to be an appealable decision for the purposes of this Part;
+"appealable decision" means a decision of the Bank that is declared by a provision of this Act, a designated enactment, a designated statutory instrument or the Finance (Provision of Access to Cash Infrastructure) Act 2025 (in so far as that Act is not a designated enactment), to be an appealable decision for the purposes of this Part;
 
 "appellant" means a person who has lodged an appeal;
 
