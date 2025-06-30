@@ -86,8 +86,6 @@ Disclosure of information.
 
 (4) (a) In relation to a supervised entity, where the Bank identifies information—
 
-O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
-
 (i) which it believes is or is likely to be material to an authority concerned with the enforcement of any law, and
 
 (ii) which it believes it is unable, due to the provisions of subsection (1A) or (5B), to disclose to that authority, and
@@ -113,6 +111,8 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 (d) to an authority in a jurisdiction other than that of the State duly authorised to exercise functions similar to any one or more of the statutory functions of the Bank and which has obligations in respect of nondisclosure of information similar to the obligations imposed on the Bank under this section, or
 
 (e) to any institution of the European Community because of the State’s membership of the Community, or to the European Central Bank for the purpose of complying with the Rome Treaty or the ESCB Statute, or
+
+O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
 
 (f) to an approved stock exchange, within the meaning of the Stock Exchange Act 1995—
 
@@ -268,9 +268,9 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 
 (ba) to the Data Protection Commission that is required for the performance of that Commission’s functions under the Data Protection Regulation or the Data Protection Acts 1988 to 2018, or
 
-(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system
+(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU), or
 
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU).
+(bc) to the Private Security Authority that is required for the performance of its functions under the Private Security Services Acts 2004 to 2021 in so far as those functions relate to the regulation of cash-in-transit providers (within the meaning of the Finance (Provision of Access to Cash Infrastructure) Act 2025).
 
 (5A) Subsection (5) shall not apply to confidential information received by the Bank in the performance of its functions as a competent authority designated as such for the purposes of the Payment Services Directive.
 
@@ -288,7 +288,9 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purpose
 
 (c) to the European Banking Authority, in its capacity of contributing to the consistent and coherent functioning of supervising mechanisms (as referred to in point (a) of Article 1(5) of Regulation (EU) No 1093/2010 of 24 November 2010),
 
-(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
+(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of
+
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 28.2.2014, p. 34. the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
 
 (e) to authorities entrusted with the public duty of supervising other financial sector entities and the authorities responsible for the supervision of financial markets,
 
@@ -299,8 +301,6 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purpose
 (h) to bodies involved in the liquidation and bankruptcy of institutions and in other similar procedures,
 
 (i) to the persons responsible for carrying out statutory audits of the accounts of institutions, insurance undertakings and financial institutions,
-
-OJ No. L. 60, 28.2.2014, p. 34.
 
 (j) to the ESCB central banks and other bodies with a similar function in their capacity as monetary authorities when the information is relevant for the exercise of their respective statutory tasks,
 
@@ -418,7 +418,9 @@ OJ No. L. 60, 28.2.2014, p. 34.
 
 (iv) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU, and
 
-(v) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures;
+(v) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted
+
+OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253. entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures;
 
 (s) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories,
 
@@ -429,8 +431,6 @@ OJ No. L. 60, 28.2.2014, p. 34.
 (v) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of insurance and reinsurance (Solvency II);
 
 (x) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012,
-
-OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
 
 (y) Directive 2014/92/EU of the European Parliament and of the Council of 23 July 20141 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features, and
 
@@ -454,6 +454,8 @@ OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173
 
 (ah) Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017,
 
+OJ, No L171, 29.6.2016, p. 1
+
 (ai) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
 
 (aj) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
@@ -461,10 +463,6 @@ OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173
 (ak) Regulation (EU) 2019/2033 of the European Parliament and Council of 27 November 2019,
 
 (al) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020,
-
-OJ, No L171, 29.6.2016, p. 1
-
-OJ No. L. 314, 5.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 1.
 
 (am) Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020;
 
