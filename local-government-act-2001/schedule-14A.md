@@ -170,13 +170,13 @@ Local Government
 
 Reform Act 2014).
 
-5 Deciding to fix the day or days for the first meetings of the Paragraph 4 Schedule 10 municipal district members for each of the municipal districts (as amended by section within the functional area of the local authority. 57 of the Local Government Reform Act 2014).
+5 Deciding to fix the day or days for the first meetings of the Paragraph 4 Schedule 10 municipal district members for each of the municipal districts (as amended by section within the functional area of the local authority. 57 of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 6 Deciding to hold special meetings; appointing days and times Section 44 and of meetings; appointing a regular schedule for the holding of paragraphs 1, 2, 3, 8, 13, ordinary meetings; appointing different days, times and places 16 and 19 of Schedule for different meetings; appointing the day for holding the annual 10. meeting other than in a year in which a local election is held; making additional arrangements for the giving of public notice of meetings; resolving that a member leave a meeting; making, amending or revoking standing orders; and making rules for the purpose of ensuring that appointments to bodies are made fairly and equitably.
 
 7 Deciding to meet in committee for whole or part of a meeting Section 45. where the authority considers that such action is not contrary to the overall public interest.
 
-8 Establishing a committee to consider matters connected with Section 51. the functions of the local authority and to assist and advise the authority on those matters or to perform functions of the authority; appointing the members of a committee; and dissolving a committee. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+8 Establishing a committee to consider matters connected with Section 51. the functions of the local authority and to assist and advise the authority on those matters or to perform functions of the authority; appointing the members of a committee; and dissolving a committee.
 
 9 Establishing a joint committee of 2 or more local authorities to Section 52. consider and advise on specified matters, or to perform functions delegated to it, delegating reserved functions to a joint committee and dissolving such a committee.
 
@@ -192,7 +192,7 @@ Local Government
 
 Reform Act 2014).
 
-14 Determining the annual rate on valuation to be levied. Section 103 (substituted by section 58 of the Local Government Reform Act 2014).
+14 Determining the annual rate on valuation to be levied. Section 103 (substituted by section 58 of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 15 Specifying a local electoral area or local electoral areas within Section 14 (as amended the administrative area of the local authority where owners of by section 31 of the vacant premises shall be entitled to claim and receive a refund
 
@@ -204,7 +204,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 18 Requiring the preparation and submission to the local authority Section 105. members of financial statements.
 
-19 A decision to borrow money or to lend money to another local Section 106. authority. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+19 A decision to borrow money or to lend money to another local Section 106. authority.
 
 20 Delegation of additional functions to municipal district members Section 131A (inserted or revocation of such delegation. by section 21 of the Local Government Reform Act 2014).
 
@@ -220,7 +220,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 26 Requiring a particular act, matter or thing to be done or effected Section 140. in the performance of executive functions of the local authority, other than certain prescribed matters.
 
-27 Authorisation by an elected council of one or more of its Subsection (5A) members to avail of training or attend training events. (inserted by section 53 of the Local Government Reform Act 2014) of section 141.
+27 Authorisation by an elected council of one or more of its Subsection (5A) members to avail of training or attend training events. (inserted by section 53 of the Local Government Reform Act 2014) of section 141. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 28 Authorising representation of the authority by councillors at a Section 142. conference, seminar or other meeting or event, or to avail of training or attend training events.
 
@@ -238,7 +238,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 35 Deciding to hold or to cease to hold membership of an Section 225. association of local authorities.
 
-36 Declaring that another local authority shall be the successor of Section 230. a specified joint burial board or cemetery joint committee which is to be dissolved. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+36 Declaring that another local authority shall be the successor of Section 230. a specified joint burial board or cemetery joint committee which is to be dissolved.
 
 37 Deciding that a named member leave a meeting of a local Paragraph 13 of authority. Schedule 10 (as amended by section 57 of the Local Government Reform Act 2014).
 
@@ -248,7 +248,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 40 Deciding to pay certain expenses to non-members of a local Article 9 of the Local authority for attendance at committees or joint committees. Government (Expenses of Local Authority Members) Regulations 1993 (S.I. No. 391 of 1993).
 
-41 Applying to the Minister to make an order under subsection (8) Section 29(8) of the of section 29 of the Local Government Reform Act 2014 that the Local Government adjustment period, referred to in that section and applicable to Reform Act 2014. a specified area within the administrative area of the local authority, may be extended by a period not greater than 10 years and stating the length of extension being sought.
+41 Applying to the Minister to make an order under subsection (8) Section 29(8) of the of section 29 of the Local Government Reform Act 2014 that the Local Government adjustment period, referred to in that section and applicable to Reform Act 2014. a specified area within the administrative area of the local authority, may be extended by a period not greater than 10 years and stating the length of extension being sought. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 42 Making or amendment of a scheme for the waiver of rates and Sections 2 and 4 of the determination of classes of property in respect of which rates Local Government may be paid by instalments. (Rates) Act 1970.
 
@@ -260,7 +260,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 46 The making of an agreement between authorities to enable a Section 109 of the housing authority to perform any of its housing functions outside Housing Act 1966. its functional area.
 
-47 The determination of the terms and conditions under which Section 6 of the Housing assistance is provided to another housing authority or an (Miscellaneous approved body. Provisions) Act 1992. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+47 The determination of the terms and conditions under which Section 6 of the Housing assistance is provided to another housing authority or an (Miscellaneous approved body. Provisions) Act 1992.
 
 48 Adoption of a policy for the effective performance of functions Section 9 of the Housing under section 58(1) of the Housing Act 1966 or an amendment (Miscellaneous to such a policy. Provisions) Act 1992.
 
@@ -276,7 +276,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 54 The making or amendment of an allocation scheme determining Section 22 of the the order of priority to be accorded in the allocation of Housing (Miscellaneous dwellings. Provisions) Act 2009.
 
-55 The making and revocation of a rent scheme providing for the Section 31 of the manner in which rents and other charges in respect of dwellings Housing (Miscellaneous shall be determined. Provisions) Act 2009.
+55 The making and revocation of a rent scheme providing for the Section 31 of the manner in which rents and other charges in respect of dwellings Housing (Miscellaneous shall be determined. Provisions) Act 2009. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 56 The drawing up and adoption of, and the amendment of, an anti- Section 35 of the social behaviour strategy. Housing (Miscellaneous Provisions) Act 2009.
 
@@ -290,7 +290,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 61 Functions of a road authority in relation to abandonment of a Section 21 of the railway line. Transport Act 1950.
 
-62 The making of representations by a road authority to the Section 22 of the Roads National Roads Authority and to the Minister for Transport Act 1993. regarding a proposed national road alignment. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+62 The making of representations by a road authority to the Section 22 of the Roads National Roads Authority and to the Minister for Transport Act 1993. regarding a proposed national road alignment.
 
 63 The making of a scheme for the establishment of a system of Sections 57 and 60 (as tolls in relation to a regional road or a local road, the making amended by sections of representations to the National Roads Authority in relation 271 and 273 of the Act to a toll scheme in relation to a national road and the making of 2000) of the Roads of an order revoking a toll scheme in relation to a regional road Act 1993. or a local road.
 
@@ -308,7 +308,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 70 The revocation or modification of a permission to develop land Section 44 of the Act of if the development to which the permission relates no longer 2000. conforms with the provisions of the development plan.
 
-71 Making a development contribution scheme. Section 48 of the Act of 2000.
+71 Making a development contribution scheme. Section 48 of the Act of 2000. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 72 Making or amending a supplementary development contribution Section 49 of the Act of scheme. 2000.
 
@@ -318,7 +318,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 75 Adoption by a planning authority of a code of conduct for dealing Section 150 of the Act of with conflicts of interest and promoting public confidence in 2000. the integrity of the conduct of its business.
 
-76 Making or terminating of an agreement by two or more planning Section 244 of the Act of authorities for sharing the cost of performing functions under 2000. the Planning and Development Act 2000. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+76 Making or terminating of an agreement by two or more planning Section 244 of the Act of authorities for sharing the cost of performing functions under 2000. the Planning and Development Act 2000.
 
 77 Directing the manner in which a list of the planning applications Article 27 (inserted by received shall be made available to the members of a planning the Planning and authority. Development Regulations 2006 (S.I. No. 685 of 2006)) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001).
 
@@ -330,7 +330,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 81 The making of an agreement by a fire authority to provide Section 10 of the Fire services for, or avail of the services of, any body or person other Services Act 1981. than a fire authority and the making of an agreement between fire authorities for the purpose of any of their functions.
 
-82 The making and revision by a fire authority of a plan for fire and Section 26 of the Fire emergency operations. Services Act 1981.
+82 The making and revision by a fire authority of a plan for fire and Section 26 of the Fire emergency operations. Services Act 1981. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 83 The making of a financial contribution by a local authority to Section 18 of the Air support or assist any person, or body of persons, engaged, or Pollution Act 1987. proposing to engage, in any research, survey or investigation into the nature and extent, the cause and effect, and the prevention or limitation, of air pollution or in any educational programme relating to such matters.
 
@@ -338,7 +338,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 85 Entry into an agreement with the Environmental Protection Section 45 of the Agency to exercise or perform any function or service on behalf Environmental of the Agency. Protection Agency Act 1992.
 
-86 The making, review, variation or replacement by a local authority Section 46 of the Air of an air quality management plan. Pollution Act 1987. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+86 The making, review, variation or replacement by a local authority Section 46 of the Air of an air quality management plan. Pollution Act 1987.
 
 87 The making, revision or replacement by a local authority of a Section 15 of the Local water quality management plan. Government (Water Pollution) Act 1977.
 
@@ -356,7 +356,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 94 The making of bye-laws, for the purpose of preventing or Section 21 of the Local eliminating the entry of polluting matter to waters, prohibiting Government (Water the carrying on of a specified activity. Pollution) (Amendment) Act 1990.
 
-95 The establishment of environmental objectives and the Article 12 of the establishment of a programme of measures in order to achieve European Communities those objectives in relation to each river basin district. (Water Policy) Regulations 2003 (S.I. No. 722 of 2003).
+95 The establishment of environmental objectives and the Article 12 of the establishment of a programme of measures in order to achieve European Communities those objectives in relation to each river basin district. (Water Policy) Regulations 2003 (S.I. No. 722 of 2003). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 96 The making and updating of a river basin management plan. Article 13 of the European Communities (Water Policy) Regulations 2003.
 
@@ -368,7 +368,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 100 The making or revoking of a determination for the provision of Section 274 of the Social meals for children attending a national school situated outside Welfare (Consolidation) the authority’s functional area. Act 1981.
 
-101 The making by a city council of a scheme in relation to the Section 279 of the Social provision of meals (other than meals in national schools). Welfare (Consolidation) Act 1981. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+101 The making by a city council of a scheme in relation to the Section 279 of the Social provision of meals (other than meals in national schools). Welfare (Consolidation) Act 1981.
 
 102 The making of a decision to provide a public abattoir. Section 19 of the Abattoirs Act 1988.
 
@@ -384,7 +384,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 108 Establishing, dissolving or replacing a local community Section 49A (inserted by development committee. section 36(1) of the Local Government Reform Act 2014).
 
-109 Appointment of members of a local community development Section 128D (inserted committee. by section 36(2) of the Local Government Reform Act 2014).
+109 Appointment of members of a local community development Section 128D (inserted committee. by section 36(2) of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 110 Approving a local and community development programme. Section 128B (inserted by section 36(2) of the Local Government Reform Act 2014).
 
