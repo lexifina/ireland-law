@@ -10,9 +10,9 @@ Conditions and circumstances under which a carer may engage in employment, self-
 
 (2) The aggregate duration of the activities ... referred to in paragraphs (a), (b) and (c) of sub-article (1) shall not exceed 18.5 hours per week.
 
-(3) The earnings derived from employment ... under paragraph (a) of sub-article (1) and calculated in accordance with sub-article (5) shall not exceed €350.00 per week.
+(3) The earnings derived from employment ... under paragraph (a) of sub-article (1) and calculated in accordance with sub-article (5) shall not exceed €625.00 per week.
 
-(4) The conditions for the purposes of paragraph (b) of sub-article (1) are that the amount of gross income derived from such self-employment, ..., reduced by any expenses necessarily incurred, does not exceed €350.00 per week.
+(4) The conditions for the purposes of paragraph (b) of sub-article (1) are that the amount of gross income derived from such self-employment, ..., reduced by any expenses necessarily incurred, does not exceed €625.00 per week.
 
 (5) For the purposes of sub-article (3) the earnings shall be calculated as the gross earnings reduced by the aggregate of—
 
