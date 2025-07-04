@@ -20,7 +20,7 @@ Regulations and general policy guidelines.
 
 (h) the procedures and processes to ensure consistency with the core strategy and objectives of the development plan of a local authority,
 
-(i) the procedures and processes to ensure consistency with the regional spatial and economic strategy and any regional planning guidelines referred to in subsections (2)(c)(ii), (3)(c)(ii) and (4)(a)(ii) of section 66C for the purposes of Chapter III of Part II of the Act of 2000,
+(i) the procedures and processes to ensure consistency with the regional spatial and economic strategy referred to in subsections (2)(c)(ii), (3)(c)(ii) and (4)(a)(ii) of section 66C for the purposes of Chapter 4 of Part 3 of the Act of 2024,
 
 (j) engagement and consultation with the local community in the preparation of a Plan,
 
