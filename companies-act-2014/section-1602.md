@@ -10,14 +10,16 @@ Interpretation – Chapter 3
 
 (c) the third-country undertaking –
 
-(i) is either not part of a group or is a subsidiary of another third-country undertaking, and
+(i) is either not part of a group or is a subsidiary whose ultimate parent undertaking is a third-country undertaking, and
 
 (ii) does not have an applicable subsidiary;
 
-"applicable subsidiary" means a subsidiary undertaking that, in relation to a financial year –
+“applicable subsidiary” means a subsidiary undertaking–
 
-(a) is an applicable company, and
+(a) that, in relation to a financial year, is an applicable company, and
 
-(b) is a subsidiary of a third-country undertaking which, at its group level or, if not applicable, the individual level, generated a net turnover of more than €150 million in the European Union for each of the preceding two consecutive financial years.
+(b) whose ultimate parent undertaking is a third-country undertaking which, at its group level, generated a net turnover of more than €150 million in the European Union for each of the preceding two consecutive financial years;
+
+“ultimate parent undertaking”, in relation to a subsidiary, means the holding undertaking or holding company of the subsidiary that itself is not a subsidiary of a holding company or holding undertaking.
 
 (2) For the purpose of this Chapter, a reference to a branch or an undertaking shall include a branch or an undertaking, as the case may be, whose legal form is comparable with the types of undertakings listed in Annex I of the Accounting Directive.

@@ -54,7 +54,13 @@ Interpretation – Part 28
 
 "net turnover", in relation to a company –
 
-(a) subject to paragraphs (b), (c) and (d), has the same meaning as "turnover" within the meaning of Part 6,
+(a) subject to paragraphs (b), (c) and (d), means the amounts of revenue derived from the provision of goods and services falling within the company’s ordinary activities, after deduction of—
+
+(i) trade discounts,
+
+(ii) value-added tax, and
+
+(iii) any other taxes based on the amounts so derived,
 
 (b) in the case of undertakings falling within the scope of Chapter 3, means the revenue as defined by or within the meaning of the financial reporting framework on the basis of which the financial statements of the undertaking are prepared,
 

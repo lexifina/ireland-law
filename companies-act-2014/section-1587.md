@@ -8,9 +8,9 @@ Application of Part
 
 (ii) in the case of a holding company, the company is the holding company of a group, the aggregate average number of employees of which exceeds 500, and is a public-interest entity,
 
-(b) subject to paragraph (a) and (c)(ii), for financial years commencing on or after 1 January 2025, to an applicable company falling within paragraph (a) of the definition of "applicable company", and
+(b) subject to paragraph (a) and (c)(ii), for financial years commencing on or after 1 January 2027, to an applicable company falling within paragraph (a) of the definition of "applicable company", and
 
-(c) for financial years commencing on or after 1 January 2026, to –
+(c) for financial years commencing on or after 1 January 2028, to –
 
 (i) an applicable company falling within paragraph (b) of the definition of "applicable company", and
 

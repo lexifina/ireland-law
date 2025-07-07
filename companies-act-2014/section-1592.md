@@ -14,6 +14,4 @@ Derogation from section 1590 for certain applicable companies
 
 (2) The directors of an applicable company that limits the company’s sustainability reporting in accordance with subsection (1) shall report in accordance with the sustainability reporting standards for small and medium-sized undertakings adopted by the Commission pursuant to Article 29c of the Accounting Directive.
 
-(3) (a) For financial years commencing before 1 January 2028, the directors of an applicable company falling within paragraph (b) of the definition of "applicable company" may decide not to include in the company’s directors’ report the sustainability reporting required under section 1590.
-
-(b) In such cases, the directors of the applicable company concerned shall briefly state in the directors’ report why the sustainability reporting was not provided.
+(3) ...

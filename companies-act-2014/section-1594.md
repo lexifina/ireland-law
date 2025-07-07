@@ -2,7 +2,11 @@ Exemption from section 1590 for certain subsidiaries
 
 1594. (1) Subject to subsection (4), an applicable company that is a subsidiary shall be exempted from the obligations set out in sections 1590 and 1592, as applicable, if –
 
-(a) the applicable company and its subsidiary undertakings (if any) are included in the group directors’ report of a holding company, drawn up in accordance with section 325 and section 1596, and
+(a) the applicable company and its subsidiary undertakings (if any) are included in—
+
+(i) the group directors’ report of a holding company drawn up in accordance with Part 6 and this Part, or
+
+(ii) where the applicable company is a subsidiary of a holding undertaking that is subject to the provisions implementing the Accounting Directive in a Member State other than the State, the consolidated management report of the holding undertaking drawn up in accordance with Articles 29 and 29a of the Accounting Directive, and
 
 (b) the conditions set out in section 1595 are met.
 

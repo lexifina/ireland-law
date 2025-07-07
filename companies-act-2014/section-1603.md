@@ -1,6 +1,6 @@
 Sustainability reporting for applicable subsidiaries and applicable branches
 
-1603. (1) An applicable subsidiary of a third-country undertaking shall publish and make accessible, in accordance with section 1604, a sustainability report for each financial year covering the information specified in paragraphs (a)(iii) to (v), (b) to (f) and, where appropriate, paragraph (h) of section 1596(2) at the group level of the third-country undertaking.
+1603. (1) An applicable subsidiary whose ultimate parent undertaking is a third-country undertaking shall publish and make accessible, in accordance with section 1604, a sustainability report for each financial year covering the information specified in paragraphs (a)(iii) to (v), (b) to (f) and, where appropriate, paragraph (h) of section 1596(2) at the group level of the third-country undertaking.
 
 (2) An applicable branch of a third-country undertaking shall publish and make accessible, in accordance with section 1605, a sustainability report for each financial year covering the information specified in paragraphs (a)(iii) to (v), (b) to (f) and, where appropriate, paragraph (h) of section 1596(2) at the group level, or, if not applicable, the individual level, of the third-country undertaking.
 
