@@ -2,7 +2,11 @@ Exemption from section 1596 for certain subsidiaries
 
 1598. (1) Subject to subsection (4), an applicable holding company that is a subsidiary of another undertaking shall be exempted from the obligations set out in section 1596 if –
 
-(a) the applicable holding company and its subsidiaries are included in the group directors’ report of that other undertaking drawn up in accordance with Part 6 and this Part, and
+(a) the applicable holding company and its subsidiaries are included in—
+
+(i) the group directors’ report of that other undertaking drawn up in accordance with Part 6 and this Part, or
+
+(ii) where the applicable holding company is a subsidiary of another undertaking that is subject to the provisions implementing the Accounting Directive in a Member State other than the State, the consolidated management report of that other undertaking drawn up in accordance with Articles 29 and 29a of the Accounting Directive, and
 
 (b) the conditions set out in section 1599 are met.
 
