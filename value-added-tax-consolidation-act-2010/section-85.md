@@ -45,3 +45,5 @@ Supplementary provisions on records.
 “SEPA Regulation” means Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009, as amended by Regulation (EU) No 248/2014 of the European Parliament and of the Council of 26 February 2014 .
 
 (2) Other than a word or expression defined in subsection (1), a word or expression which is used in this Part and is also used in Section 2a of Chapter 4 of Title XI of the VAT Directive, has unless the context otherwise requires, the same meaning in this Part as it has in that Section of the VAT Directive.
+
+OJ No. L. 337, 23.12.2015, p.35.
