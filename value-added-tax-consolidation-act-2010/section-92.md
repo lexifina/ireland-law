@@ -1,4 +1,4 @@
-## Suspension arrangements for alcohol products
+## CHAPTER 3 Suspension arrangements for alcohol products
 
 Suspension arrangements for alcohol products.
 

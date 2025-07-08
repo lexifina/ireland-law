@@ -54,9 +54,7 @@ Waiver of exemption under old rules.
 
 A — B 12 — Y where—
 
-A is the amount of tax that would be taken into account for the purposes of subsection (3) in respect of the acquisition or development of the immovable goods, if the waiver were being cancelled at the time referred to in subsection (9),
-
-B is the amount of tax chargeable on the consideration by the landlord in respect of the letting of those immovable goods and paid in accordance with Chapter 3 of Part 9 that would be taken into account for the purposes of subsection (3) if the waiver were being cancelled at that time and that letting were the only one to which that waiver applied, and
+A is the amount of tax that would be taken into account for the purposes of subsection (3) in respect of the acquisition or development of the immovable goods, if the waiver were being cancelled at the time referred to in subsection (9), B is the amount of tax chargeable on the consideration by the landlord in respect of the letting of those immovable goods and paid in accordance with Chapter 3 of Part 9 that would be taken into account for the purposes of subsection (3) if the waiver were being cancelled at that time and that letting were the only one to which that waiver applied, and
 
 Y is 11, or the number of full years since the later of—
 

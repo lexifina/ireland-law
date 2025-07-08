@@ -30,9 +30,7 @@ Special scheme for small enterprises where the State is the Member State of esta
 
 (b) The Revenue Commissioners shall assign to each SME identified person an SME exemption scheme number ending with the suffix 'EX’.
 
-(4) (a) Where a taxable person notifies the Revenue Commissioners of the person’s intention to avail of the SME exemption scheme in accordance with subsection
-
-(2), and the Revenue Commissioners are satisfied that the person meets the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption, the Revenue Commissioners shall, within the period referred to in paragraph (b)—
+(4) (a) Where a taxable person notifies the Revenue Commissioners of the person’s intention to avail of the SME exemption scheme in accordance with subsection (2), and the Revenue Commissioners are satisfied that the person meets the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption, the Revenue Commissioners shall, within the period referred to in paragraph (b)—
 
 (i) register the person in the SME exemption scheme register under subsection (3)(a), and
 
