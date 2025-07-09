@@ -34,9 +34,7 @@ Medical and related services.
 
 (6) The collection, storage, supply, intra-Community acquisition or importation of human organs, human blood and human milk.
 
-(7) Other professional medical care services that, on 1 January 2010, were recognised by the Revenue Commissioners as exempt activities.
-
-Certain independent groups, non-profit making organisations and other bodies.
+(7) Other professional medical care services that, on 1 January 2010, were recognised by the Revenue Commissioners as exempt activities. Certain independent groups, non-profit making organisations and other bodies.
 
 3. (1) The supply of services by an independent group of persons, being a group that is an independent entity established for administrative convenience by persons each of whom carries on an activity which is exempt from, or is not subject to, tax, for the purpose of rendering to its members the services directly necessary to enable them to carry on that activity, but only if the group recovers from its members the exact amount of each member’s share of the joint expenses.
 
@@ -174,6 +172,8 @@ Financial services.
 
 (ed) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by or registered with the competent authority (as defined in point (f) of Article 4(1) of that Directive) of a Member State;
 
+(ee) the automatic enrolment retirement savings system established, maintained and controlled by An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir as provided for in the Automatic Enrolment Retirement Savings System Act 2024;
+
 (f) any other undertaking that is determined by the Minister to be a collective investment undertaking for the purposes of this subparagraph.
 
 (3) A determination referred to in subparagraph (2)(f) takes effect on the date when it is notified to the undertaking concerned or on such later date as is specified in the determination.
@@ -268,7 +268,7 @@ Imports by certain international bodies
 
 (b) the bodies set up by either or both the Union and the Community to which the Protocol of 8 April 1965 on the privileges and immunities of the European Communities applies, within the limits and under the conditions of that Protocol and the agreements for its implementation or the agreements between the headquarters of those bodies and the host Member State of the headquarters, in so far as it does not lead to distortion of competition.
 
-(1A) (a) The importation of goods by the European Commission or by an agency or body established under European Union law where the European Commission or such agency or body imports those goods in the execution of tasks conferred on it by European Union law in order to respond to the Covid- 19 pandemic, except where the goods imported are supplied for consideration by the European Commission or an agency or body established under European Union law.
+(1A) (a) The importation of goods by the European Commission or by an agency or body established under European Union law where the European Commission or such agency or body imports those goods in the execution of tasks conferred on it by European Union law in order to respond to the Covid-19 pandemic, except where the goods imported are supplied for consideration by the European Commission or an agency or body established under European Union law.
 
 (b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
 
