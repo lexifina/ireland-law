@@ -18,7 +18,9 @@ Application of Parts 1 to 14 to DACs
 
 Table
 
-Provisions disapplied to DACs Subject matter Provision disapplied
+Provisions disapplied to DACs
+
+Subject matter Provision disapplied
 
 Way of forming a private company limited by
 

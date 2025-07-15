@@ -32,4 +32,6 @@ Special provisions applying where default in delivery of documents to Registrar
 
 (5) All payments made to the Registrar in pursuance of this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure and Reform may direct.
 
-(6) If the person mentioned in subsection (1) is a company, then that subsection authorises the delivery of the notice mentioned in it to an officer of the company but, where the notice is delivered to that officer, the second reference in that subsection to person, and each reference in subsections (2) and (3) to the person to whom the notice is delivered or otherwise to person, is to be read as a reference to the company.
+(6) If the person mentioned in subsection (1) is a company, then that subsection authorises the delivery of the notice mentioned in it to an officer of the company but, where the notice is delivered to that officer, the second reference in that subsection to person, and each reference in subsections
+
+(2) and (3) to the person to whom the notice is delivered or otherwise to person, is to be read as a reference to the company.

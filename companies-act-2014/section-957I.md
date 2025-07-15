@@ -1,4 +1,4 @@
-Appeals to and orders of court, including orders confirming decisions of Director (Repealed
+Appeals to and orders of court, including orders confirming decisions of Director (Repealed)
 
 957I. ...
 

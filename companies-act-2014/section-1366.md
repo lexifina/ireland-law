@@ -1,3 +1,3 @@
-Regulations (Chapter 2) (repealed)
+Regulations (Chapter 2) (Repealed)
 
 1366. ...

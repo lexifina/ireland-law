@@ -26,9 +26,7 @@ Section 336 (form of statutory auditors’ report);
 
 Section 337 (signature of statutory auditor’s report);
 
-Section 338 (circulation of statutory financial statements);
-
-Section 339 (right of members to demand copies of financial statements and reports);
+Section 338 (circulation of statutory financial statements); Section 339 (right of members to demand copies of financial statements and reports);
 
 Section
 
