@@ -1,0 +1,3 @@
+Consent of Government in certain cases to appointment of Irish citizens to international organisations.
+
+49.—...

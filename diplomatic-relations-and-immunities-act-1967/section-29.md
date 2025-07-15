@@ -1,0 +1,3 @@
+General immunities under Agreement in relation to Organisation.
+
+29.—The Organisation and its property and a person who is a representative of a member of the Organisation or is a member of or attached to a delegation to the principal or a subsidiary organ of the Organisation or an official of the Organisation and any person, being a spouse of such person or a member of his family dependent on him, and the property of such persons shall have and enjoy inviolability and exemptions, immunities, facilities, privileges and rights corresponding to those provided for in Parts II, III, IV and VI (as may be appropriate in each case) of the Agreement set out in the Fifth Schedule to this Act.

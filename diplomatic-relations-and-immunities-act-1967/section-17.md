@@ -1,0 +1,3 @@
+Designation of organisations to which this Part applies.
+
+17.—The Government may from time to time by order designate an international organisation to be an organisation to which this Part applies if the organisation is in relationship with the United Nations Organisation in accordance with Articles 57 and 63 of the Charter of the United Nations Organisation and shall provide in the order that the annex to the Convention that relates to the organisation and is specified in the order shall have effect in relation thereto, subject, if the organisation has approved of the annex subject to amendments, to those amendments.

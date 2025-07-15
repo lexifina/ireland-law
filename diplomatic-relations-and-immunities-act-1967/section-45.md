@@ -1,0 +1,3 @@
+General immunities of persons attending international conferences in the State.
+
+45.—A person attending on behalf of a government or state a conference in the State in respect of which a notice has been published pursuant to section 44 of this Act shall, during the conference and on the day immediately preceding and the day immediately succeeding the conference, have and enjoy inviolability and exemptions, facilities, immunities, privileges and rights in such manner, to such extent and subject to such limitations (including the waiver thereof) as a member of a diplomatic mission under the convention set out in the First Schedule to this Act.
