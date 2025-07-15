@@ -28,7 +28,7 @@ Meeting of creditors
 
 (5) That copy may be delivered by the company to the requesting person by post or, with the consent of the requesting person, in any other manner.
 
-(6) The company shall cause notice of the creditors’ meeting to be advertised, at least 10 days before the date of the meeting, once at least in 2 daily newspapers circulating in the district where the registered office or principal place of business of the company is situate; such notice is not required to include ..., pursuant to subsection (3)(c)(i), to the notice required by subsection (2).
+(6) The company shall cause notice of the creditors’ meeting to be advertised, at least 10 days before the date of the meeting, once at least in 2 daily newspapers circulating in the district where the registered office or principal place of business of the company is situate; such notice is not required to include ... the list of creditors attached, pursuant to subsection (3)(c)(i), to the notice required by subsection (2).
 
 (7) The directors of the company shall—
 

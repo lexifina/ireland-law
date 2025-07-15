@@ -1,6 +1,6 @@
 Reporting to Director of Corporate Enforcement of misconduct by process advisers
 
-558ZO. (1) Wh5ere a disciplinary committee or tribunal (however called) of a prescribed professional body—
+558ZO. (1) Where a disciplinary committee or tribunal (however called) of a prescribed professional body—
 
 (a) finds that a member of that body who is or has acted as a process adviser in respect of an eligible company under this Part has not maintained appropriate records as required by this Part,
 

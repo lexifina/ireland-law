@@ -196,7 +196,7 @@ Joint ventures
 
 Associated undertakings
 
-21. (1) In paragraph 22, 2associated undertaking" means an undertaking in which an undertaking consolidated in the group financial statements has a participating interest and over whose operating and financial policy it exercises a significant influence and which is not—
+21. (1) In paragraph 22, "associated undertaking" means an undertaking in which an undertaking consolidated in the group financial statements has a participating interest and over whose operating and financial policy it exercises a significant influence and which is not—
 
 (a) a subsidiary undertaking of the holding company, or
 

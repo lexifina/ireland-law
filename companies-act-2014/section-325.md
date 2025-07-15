@@ -20,17 +20,13 @@ Obligation to prepare directors' report for every financial year
 
 (b) qualifies for the micro companies regime shall be exempt from the requirement to prepare a directors’ report under subsection (1) provided that the information required under section 328 is included as a note or a footnote to the balance sheet.
 
-(2) Subsection (1) is in addition to the other requirements of this Act that apply in certain cases with regard to the inclusion of matters in a directors’ report, namely the requirements of –
+(2) Subsection (1) is in addition to the other requirements of this Act that apply in certain cases with regard to the inclusion of matters in a directors’ report, namely the requirements of—
 
 (a) section 167(3) (statement as to establishment or otherwise of an audit committee in the case of a relevant private company),
 
 (b) section 225(2) (directors’ compliance statement in case of a company to which that section applies), and
 
 (c) sections 1589, 1590 and 1596 (information on key intangible resources and sustainability reporting in the case of a company to which those sections apply).
-
-(a) section 167(3) (statement as to establishment or otherwise of an audit committee in the case of [a relevant private company]), and
-
-(b) section 225(2) (directors’ compliance statement in case of a company to which that section applies).
 
 (3) For a financial year in which—
 

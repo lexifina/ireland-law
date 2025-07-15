@@ -26,7 +26,7 @@ Definition of “subsidiary”
 
 (ii) by virtue of a control contract; or
 
-(c) the superior company has the power to exercise, or actually exercises, dominant influence or control over it; or
+(c) the superior company has the power to exercise, or actually exercises, dominant influence or 12.control over it; or
 
 (d) the superior company and the lower company are managed by the superior company on a unified basis; or
 
