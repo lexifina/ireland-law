@@ -24,6 +24,8 @@ Application of Part under Investment Firms Directive.
 
 (2) For the purpose of subsection (1)—
 
+OJ No. L. 198, 25.7.2019, p.1.
+
 (a) a reference in this Part to a regulated financial service provider or a financial service provider includes a reference to an investment holding company, a mixed financial holding company or a mixed activity holding company,
 
 (b) a reference in this Part to a prescribed contravention includes a reference to a contravention, by an investment holding company, a mixed financial holding company or a mixed activity holding company, of a provision, direction, requirement or obligation referred to in subsection (1), and
