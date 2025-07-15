@@ -34,8 +34,6 @@ Interpretation (Part IIIC).
 
 "inquiry" means an inquiry held under section 33AO or section 33AR, and includes such an inquiry begun by the former Regulatory Authority and continued by the Bank;
 
-OJ L, 2023/2631, 30.11.2023
-
 "notify" means notify in writing.
 
 "prescribed contravention" means, other than in respect of the CSD Regulation or as otherwise provided by this section, a contravention of—
@@ -56,7 +54,9 @@ OJ L, 2023/2631, 30.11.2023
 
 “SFT Regulation” means Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
 
-(1A) Where, under a provision of a designated enactment other than section 24 of the Central Bank (Supervision and Enforcement) Act 2013, or under a designated statutory instrument, the Bank has power to appoint authorised officers with powers exercisable in relation to a prescribed contravention, references in this Part to an authorised officer include, in relation to that prescribed contravention, references to an authorised officer so appointed.
+(1A) Where, under a provision of a designated enactment other than section 24 of the Central Bank (Supervision and Enforcement) Act 2013, or under a designated
+
+OJ L, 2023/2631, 30.11.2023 statutory instrument, the Bank has power to appoint authorised officers with powers exercisable in relation to a prescribed contravention, references in this Part to an authorised officer include, in relation to that prescribed contravention, references to an authorised officer so appointed.
 
 (1B) For the purposes of this Part, a person is concerned in the management of a body corporate or other entity if the person is in any way involved in directing, managing or administering the affairs of the body or other entity.
 
