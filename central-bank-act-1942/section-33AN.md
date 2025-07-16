@@ -1,3 +1,7 @@
+## PART IIIC ENFORCEMENT OF DESIGNATED ENACTMENTS AND DESIGNATED STATUTORY INSTRUMENTS
+
+## Chapter 1 Interpretation
+
 Interpretation (Part IIIC).
 
 33AN.— (1) In this Part—
@@ -38,6 +42,8 @@ Interpretation (Part IIIC).
 
 "prescribed contravention" means, other than in respect of the CSD Regulation or as otherwise provided by this section, a contravention of—
 
+OJ L, 2023/2631, 30.11.2023
+
 (a) a provision of a designated enactment or designated statutory instrument, or
 
 (b) a code made, or a direction given, under such a provision, or
@@ -54,9 +60,7 @@ Interpretation (Part IIIC).
 
 “SFT Regulation” means Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
 
-(1A) Where, under a provision of a designated enactment other than section 24 of the Central Bank (Supervision and Enforcement) Act 2013, or under a designated
-
-OJ L, 2023/2631, 30.11.2023 statutory instrument, the Bank has power to appoint authorised officers with powers exercisable in relation to a prescribed contravention, references in this Part to an authorised officer include, in relation to that prescribed contravention, references to an authorised officer so appointed.
+(1A) Where, under a provision of a designated enactment other than section 24 of the Central Bank (Supervision and Enforcement) Act 2013, or under a designated statutory instrument, the Bank has power to appoint authorised officers with powers exercisable in relation to a prescribed contravention, references in this Part to an authorised officer include, in relation to that prescribed contravention, references to an authorised officer so appointed.
 
 (1B) For the purposes of this Part, a person is concerned in the management of a body corporate or other entity if the person is in any way involved in directing, managing or administering the affairs of the body or other entity.
 
