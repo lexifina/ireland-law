@@ -1,0 +1,3 @@
+Representations under National Beef Assurance Scheme Act, 2000. (Repealed)
+
+12.—...
