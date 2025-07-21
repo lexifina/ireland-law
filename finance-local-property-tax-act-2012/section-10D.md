@@ -8,7 +8,7 @@ Properties constructed using defective concrete blocks.
 
 (c) the person who constructed the property, or who caused the property to be constructed (in this section referred to as the "builder"), remediates the property or puts the liable person in relation to that property in sufficient funds to remediate the property, and, in the case of a property referred to in paragraph (b) or (c), the Revenue Commissioners confirm, under subsection (2), that the residential property shall not be so regarded.
 
-(2) (a) A liable person may, in relation to a property referred to in subsection (1)(b) or (c), make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of section 16(1), be regarded as a relevant residential property.
+(2) (a) A liable person may, in relation to a property referred to in subsection (1) (b) or (c), make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of section 16(1), be regarded as a relevant residential property.
 
 (b) For the purposes of an application under paragraph (a), the Revenue Commissioners may specify the form of an application and may require that the following information is provided to them:
 
@@ -16,7 +16,7 @@ Properties constructed using defective concrete blocks.
 
 (ii) the nature and extent of the damage caused by the use of defective concrete blocks in the construction of the property;
 
-(iii) any documentation provided by a competent engineer;
+(iii) any documentation provided by a competent building professional;
 
 (iv) the results of any testing carried out at the property to establish the damage caused by the use of defective concrete blocks;
 
@@ -38,7 +38,7 @@ Properties constructed using defective concrete blocks.
 
 (c) any other information or documentation that the Revenue Commissioners consider to be relevant for the purpose of considering an application.
 
-(4) Notwithstanding subsection (1), a residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to in subsection (1)(a), a confirmation of eligibility has been issued, where that first liability date falls on or after 1 November 2021.
+(4) Notwithstanding subsection (1), a residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to in subsection (1) (a), a confirmation of eligibility has been issued, where that first liability date falls on or after 1 November 2021.
 
 (5) (a) Where paragraph (b) or (c) of subsection (1) applies in relation to a residential property, the confirmation in writing given by the Revenue Commissioners under subsection (2) shall specify a date (in this subsection referred to as the ‘effective date’), for the purposes of this subsection.
 
@@ -52,4 +52,14 @@ Properties constructed using defective concrete blocks.
 
 (c) Notwithstanding subsection (1), a residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date after the effective date.
 
-(6) In this section, "certificate of remediation", "competent engineer", "confirmation of eligibility" and "defective concrete blocks" have the meanings assigned to them, respectively, by the Dwellings Damaged by the Use of Defective Concrete Blocks in Construction (Remediation) (Financial Assistance) Regulations 2020 (S.I. No. 25 of 2020).
+(6) In this section—
+
+"Act of 2022" means the Remediation of Dwellings Damaged by the Use of Defective Concrete Blocks Act 2022;
+
+"certificate of remediation" has the meaning assigned to it by the Act of 2022;
+
+"competent building professional" has the meaning assigned to it by Part 2 of the Act of 2022;
+
+"confirmation of eligibility" has the meaning assigned to it by the Dwellings Damaged by the Use of Defective Concrete Blocks in Construction (Remediation) (Financial Assistance) Regulations 2020 (S.I. No. 25 of 2020) as those Regulations stood before the coming into operation of section 55 of the Act of 2022;
+
+"defective concrete blocks" has the meaning assigned to it by the Act of 2022.
