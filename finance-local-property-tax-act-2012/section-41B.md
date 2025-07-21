@@ -2,7 +2,7 @@ Appeal against determination in respect of exemptions.
 
 41B.—(1) Where—
 
-(a) in accordance with section 41A, a liable person specifies one or more of sections 4, 5, 7, 7A, 10A, 10B, 10C and 10D in a return, and
+(a) in accordance with section 41A, a liable person specifies one or more of sections 4, 5, 7, 7A, 10A, 10B, 10C, 10D and 10E in a return, and
 
 (b) the Revenue Commissioners make a determination that the relevant residential property concerned does not meet the conditions in the section or sections specified, the Revenue Commissioners shall notify the liable person in writing of their determination.
 

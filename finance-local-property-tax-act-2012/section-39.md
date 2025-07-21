@@ -2,7 +2,7 @@ Particulars to be included in a return.
 
 39.— The following particulars in relation to a relevant residential property at a liability date may be required to be included in a return—
 
-(a) the address,
+(a) the address (including the Eircode),
 
 (b) the chargeable value,
 
