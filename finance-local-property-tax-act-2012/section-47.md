@@ -10,7 +10,7 @@ Making of Revenue estimate.
 
 (b) that the Revenue estimate shall become due and payable in the circumstances specified in section 49.
 
-(2A) Where the person whom the Revenue Commissioners are required to notify under subsection (2) is a person to whom section 44(1) applies, it shall be sufficient compliance with subsection (2)(a) for the Revenue Commissioners to notify that person—
+(2A) Where the person whom the Revenue Commissioners are required to notify under subsection (2) is a person to whom section 44(1) applies, it shall be sufficient compliance with subsection (2) (a) for the Revenue Commissioners to notify that person—
 
 (a) that the Revenue estimate or estimates, as the case may be, will be made available by electronic means, and
 

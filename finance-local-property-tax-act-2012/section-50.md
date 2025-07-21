@@ -4,7 +4,7 @@ Displacement of Revenue estimate by self-assessment.
 
 (a) a self-assessment, and
 
-(b) an election, as mentioned in section 41(1)(a), for a specified method of payment, is delivered after a Revenue estimate has become due and payable in accordance with section 49, the Revenue estimate shall be discharged and section 53 shall apply accordingly.
+(b) an election, as mentioned in section 41(1) (a), for a specified method of payment, is delivered after a Revenue estimate has become due and payable in accordance with section 49, the Revenue estimate shall be discharged and section 53 shall apply accordingly.
 
 (2) Where subsection (1) applies—
 

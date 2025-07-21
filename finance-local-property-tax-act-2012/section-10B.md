@@ -18,7 +18,7 @@ Permanently and totally incapacitated individuals.
 
 (ii) adapted to render it more suitable for occupation by such an incapacitated individual and the cost of the adaptation, on completion of that adaptation, exceeds an amount that is equivalent to one-quarter of the chargeable value of that property before it was adapted.
 
-(1A) (a) Where subparagraph (ii) of subsection (1)(a) applies, a liable person in relation to a residential property may make an application in writing to the Revenue Commissioners for confirmation, in relation to the property that it shall not, for the purposes of this Act, be regarded as a relevant residential property.
+(1A) (a) Where subparagraph (ii) of subsection (1) (a) applies, a liable person in relation to a residential property may make an application in writing to the Revenue Commissioners for confirmation, in relation to the property that it shall not, for the purposes of this Act, be regarded as a relevant residential property.
 
 (b) For the purpose of an application under paragraph (a), the Revenue Commissioners may specify the form of an application, and may require that the following information is provided to them:
 
@@ -48,9 +48,9 @@ Permanently and totally incapacitated individuals.
 
 (i) the residential property was acquired because of its suitability for, or adapted to make it more suitable for, occupation by the incapacitated individual,
 
-(ii) subparagraph (i) of subsection (1)(a) does not apply to him or her, and
+(ii) subparagraph (i) of subsection (1) (a) does not apply to him or her, and
 
-(iii) where the property was adapted the cost of adaptation exceeds the cost referred to in subparagraph (ii) of subsection (1)(b).
+(iii) where the property was adapted the cost of adaptation exceeds the cost referred to in subparagraph (ii) of subsection (1) (b).
 
 (1B) For the purposes of subsection (1A), the Revenue Commissioners shall publish guidelines in relation to—
 
