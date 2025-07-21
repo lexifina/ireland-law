@@ -14,13 +14,13 @@ Obligation on liable person to prepare and deliver a return.
 
 (3) Subject to subsections (6) and (7) and section 55, where subsection (2) applies—
 
-(a) the amount of local property tax referred to in subsection (2)(b) shall be due and payable in relation to the subsequent liability dates concerned, and
+(a) the amount of local property tax referred to in subsection (2) (b) shall be due and payable in relation to the subsequent liability dates concerned, and
 
-(b) the method of payment specified in the return referred to in subsection (2)(b)(i) shall apply in relation to each of the subsequent liability dates concerned, unless a different method of payment has been agreed with the Revenue Commissioners.
+(b) the method of payment specified in the return referred to in subsection (2) (b) (i) shall apply in relation to each of the subsequent liability dates concerned, unless a different method of payment has been agreed with the Revenue Commissioners.
 
 (4) For the purposes of subsection (2), where a building becomes a residential property in the period between two consecutive valuation dates, references to the first liability date in a valuation period shall be read as the first liability date falling after the building becomes a residential property.
 
-(5) Notwithstanding subsection (2), a liable person who has acquired a relevant residential property from a person referred to in section 8(1)(b) who acquired the property before 1 May 2013 shall be obliged to prepare and deliver a return in respect of any liability date occurring after the acquisition and before [1 November 2021].
+(5) Notwithstanding subsection (2), a liable person who has acquired a relevant residential property from a person referred to in section 8(1) (b) who acquired the property before 1 May 2013 shall be obliged to prepare and deliver a return in respect of any liability date occurring after the acquisition and before 1 November 2021.
 
 (5A) Notwithstanding subsection (2) and section 14(1), the person who is the liable person following the change referred to in section 14(1) shall prepare and deliver a return in relation to the first liability date following that change falling before the next valuation date where—
 
@@ -34,9 +34,9 @@ Obligation on liable person to prepare and deliver a return.
 
 (a) subsection (2) shall apply subject to the modification that the reference in paragraph (b) of that subsection to ‘the amount of the local property tax contained in the self-assessment in the return referred to in paragraph (a)’ shall be construed as a reference to that amount less the amount in respect of which a deferral has been claimed, and
 
-(b) subsection (3)(a) shall apply such that the reference therein to "the amount of local property tax referred to in subsection (2)(b)" shall be construed as a reference to the amount of the local property tax contained in the self-assessment in the return referred to in subsection (2)(a).
+(b) subsection (3) (a) shall apply such that the reference therein to "the amount of local property tax referred to in subsection (2) (b)" shall be construed as a reference to the amount of the local property tax contained in the self-assessment in the return referred to in subsection (2) (a).
 
-(7) Where section 4, 5, 7, 7A, 10A, 10B, 10C or 10D applies to a relevant residential property on a liability date—
+(7) Where section 4, 5, 7, 7A, 10A, 10B, 10C, 10D or 10E applies to a relevant residential property on a liability date—
 
 (a) subsection (2) shall apply in respect of the relevant residential property in relation to the liability date, subject to the following modifications:
 
