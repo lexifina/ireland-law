@@ -20,9 +20,7 @@ A=(B*C)+[(D-B)*E] where
 
 B is €1,050,000,
 
-C is 0.001029,
-
-D is the mid-point, specified in column (3) of the Table to this section opposite the valuation band specified in column (2) of that Table into which the chargeable value (rounded down to the nearest euro) of the property falls, and
+C is 0.001029, D is the mid-point, specified in column (3) of the Table to this section opposite the valuation band specified in column (2) of that Table into which the chargeable value (rounded down to the nearest euro) of the property falls, and
 
 E is 0.0025.
 
@@ -82,7 +80,7 @@ Band number Valuation band Mid-point of valuation band (1) (2) (3)
 
 14 1,225,001-1,312,500 1,268,750
 
-15 1,312,501-1,400,000 1,356,250
+15 1,312,501-1,400,000 1,356,250 Band number Valuation band Mid-point of valuation band (1) (2) (3)
 
 16 1,400,001-1,487,500 1,443,750
 
