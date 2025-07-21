@@ -10,9 +10,7 @@ Deduction by employer.
 
 A/B, where—
 
-A is the amount of local property tax contained in the direction given under section 65, and
-
-B is the number of paydays between the date on which the direction under section 65 is given and the end of the period for which that direction is given.
+A is the amount of local property tax contained in the direction given under section 65, and B is the number of paydays between the date on which the direction under section 65 is given and the end of the period for which that direction is given.
 
 (5) Where an employer is unable to deduct the amount of local property tax determined by the formula in subsection (4) because of an insufficiency of net emoluments made to a liable person on a particular payday, the employer shall—
 

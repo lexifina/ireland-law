@@ -16,17 +16,17 @@ Liable persons.
 
 (2) If—
 
-(a) 2 or more persons each have an equal estate, interest or right in a relevant residential property that entitles each of them to the possession or receipt referred to in subsection (1)(a) or (b), all of those persons shall, for the purposes of this Act, be liable persons in relation to that property, or
+(a) 2 or more persons each have an equal estate, interest or right in a relevant residential property that entitles each of them to the possession or receipt referred to in subsection (1) (a) or (b), all of those persons shall, for the purposes of this Act, be liable persons in relation to that property, or
 
-(b) 2 or more persons have unequal estates, interests or rights in a relevant residential property, such or so many of those persons as have an estate, interest or right in the property that, as against the estate, interest or right of the other or others, is the minimum estate, interest or right giving rise, in the circumstances, to an entitlement to the possession or receipt referred to in subsection (1)(a) or (b) shall, for the purposes of this Act, be the liable person or persons in relation to that property.
+(b) 2 or more persons have unequal estates, interests or rights in a relevant residential property, such or so many of those persons as have an estate, interest or right in the property that, as against the estate, interest or right of the other or others, is the minimum estate, interest or right giving rise, in the circumstances, to an entitlement to the possession or receipt referred to in subsection (1) (a) or (b) shall, for the purposes of this Act, be the liable person or persons in relation to that property.
 
 (3) Without prejudice to subsections (1) and (2), the following persons shall, for the purposes of this Act, be liable persons in relation to a relevant residential property (the “property”)—
 
-(a) a person having an equitable or beneficial estate, interest or right in the property that entitles the person to the possession or receipt referred to in subsection (1)(a) or (b),
+(a) a person having an equitable or beneficial estate, interest or right in the property that entitles the person to the possession or receipt referred to in subsection (1) (a) or (b),
 
-(b) a trustee that holds the property by an estate, interest or right in the property that entitles the trustee or a beneficiary to the possession or receipt referred to in subsection (1)(a) or (b),
+(b) a trustee that holds the property by an estate, interest or right in the property that entitles the trustee or a beneficiary to the possession or receipt referred to in subsection (1) (a) or (b),
 
-(c) a trustee or other person having a power to appoint in the property, an estate, interest or right that entitles a person to the possession or receipt referred to in subsection (1)(a) or (b),
+(c) a trustee or other person having a power to appoint in the property, an estate, interest or right that entitles a person to the possession or receipt referred to in subsection (1) (a) or (b),
 
 (d) a person having an exclusive right of residence in the property for—
 
@@ -36,11 +36,11 @@ Liable persons.
 
 (e) the personal representative of the estate of a person who was a liable person by virtue of any of the preceding provisions of this section,
 
-(f) a person occupying the property with a prima facie right to apply to be registered, pursuant to the Registration of Title Act 1964, in respect of any estate, interest or right that would entitle the person to the possession or receipt referred to in subsection (1)(a) or (b).
+(f) a person occupying the property with a prima facie right to apply to be registered, pursuant to the Registration of Title Act 1964, in respect of any estate, interest or right that would entitle the person to the possession or receipt referred to in subsection (1) (a) or (b).
 
 (4) For the avoidance of doubt—
 
-(a) in a case where a person is a trustee as referred to in subsection (3)(b), that person shall, for the purposes of this Act, be a liable person in relation to the relevant residential property concerned notwithstanding that the one or more beneficiaries under the trust is or are, for the purposes of this Act, also a liable person or persons in relation to that property, and
+(a) in a case where a person is a trustee as referred to in subsection (3) (b), that person shall, for the purposes of this Act, be a liable person in relation to the relevant residential property concerned notwithstanding that the one or more beneficiaries under the trust is or are, for the purposes of this Act, also a liable person or persons in relation to that property, and
 
 (b) a mortgagee not in possession of the relevant residential property concerned shall not, for the purposes of this Act, be a liable person in relation to that property.
 

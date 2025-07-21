@@ -1,6 +1,6 @@
 Particulars in relation to use of dwelling.
 
-39A.— (1) In addition to the particulars referred to in section 39, the following particulars, in relation to the use of a residential property on a valuation date, may be required to be included in a return:
+39A.—(1) In addition to the particulars referred to in section 39, the following particulars, in relation to the use of a residential property on a valuation date, may be required to be included in a return:
 
 (a) whether the residential property concerned is in use as the liable person’s sole or main dwelling;
 

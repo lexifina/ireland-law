@@ -8,7 +8,7 @@ Power of elected members of local authority to vary basic rates.
 
 (2) Where the passing of such a resolution is a reserved function (within the meaning of the Local Government Act 2001, as amended by the Local Government Reform Act 2014) of a local authority, a local authority may pass a resolution that the basic rate should , for a period specified in the resolution and with effect from the date specified in section 21(2) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), stand varied (either upwards or downwards) by a specified percentage in respect of relevant residential properties situated in the local authority’s functional area.
 
-(2A) In making a decision as to whether to pass such a resolution as is referred to in subsection (2) or as to the percentage that should be specified in it, a local authority shall, in addition to the matters (if any) specified under subsection (6)(a) have regard to—
+(2A) In making a decision as to whether to pass such a resolution as is referred to in subsection (2) or as to the percentage that should be specified in it, a local authority shall, in addition to the matters (if any) specified under subsection (6) (a) have regard to—
 
 (a) the local authority’s estimation of the income it will receive and the expenditure it will incur in the period for which the varied rate is to have effect,
 

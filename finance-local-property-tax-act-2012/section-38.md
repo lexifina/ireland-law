@@ -18,7 +18,7 @@ Surcharge for late submission of income tax and corporation tax returns.
 
 (a) the liable person shall be deemed not to have delivered the return required under section 959I(1) of the Act of 1997 for the chargeable period concerned, and
 
-(b) subject to subsections (4) and (5), the liable person shall be treated as if that person had failed to deliver the return referred to in paragraph (a) before the expiry of 2 months from the specified return date for the chargeable period concerned and a surcharge as referred to in section 1084(2)(a)(ii) of the Act of 1997 shall apply.
+(b) subject to subsections (4) and (5), the liable person shall be treated as if that person had failed to deliver the return referred to in paragraph (a) before the expiry of 2 months from the specified return date for the chargeable period concerned and a surcharge as referred to in section 1084(2) (a) (ii) of the Act of 1997 shall apply.
 
 (4) Subject to subsection (5), where subsequent to the specified return date for the chargeable period, the liable person—
 

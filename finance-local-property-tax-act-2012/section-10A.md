@@ -22,7 +22,7 @@ Pyrite-induced damage.
 
 (d) the person who constructed the property, or who caused the property to be constructed (in this section referred to as the ‘builder’) remediates the property or puts the liable person in relation to that property in sufficient funds to remediate the property, and, in the case of a property referred to in paragraph (c) or (d), the Revenue Commissioners confirm, under subsection (3A), that the residential property shall not be so regarded.
 
-(3A) (a) A liable person may, in relation to a property referred to in subsection (3)(c) or (d), make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of section 16(1), be regarded as a relevant residential property.
+(3A) (a) A liable person may, in relation to a property referred to in subsection (3) (c) or (d), make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of section 16(1), be regarded as a relevant residential property.
 
 (b) For the purpose of an application under paragraph (a), the Revenue Commissioners may specify the form of an application and may require that the following information is provided to them:
 
@@ -54,11 +54,11 @@ Pyrite-induced damage.
 
 (4) Notwithstanding subsection (3) and subject to subsections (5) and (6A), a residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to—
 
-(a) in subsection (3)(a), a certificate under and in accordance with regulations made under subsection (1) has been issued in relation to the property, or
+(a) in subsection (3) (a), a certificate under and in accordance with regulations made under subsection (1) has been issued in relation to the property, or
 
-(b) in subsection (3)(b), the liable person was notified under the Pyrite Resolution Act 2013 that the residential property has been included in the pyrite remediation scheme.
+(b) in subsection (3) (b), the liable person was notified under the Pyrite Resolution Act 2013 that the residential property has been included in the pyrite remediation scheme.
 
-(4A) Where subsection (3)(b) applies in relation to a residential property and the liable person in relation to that property was notified under the Pyrite Resolution Act 2013, before the coming into operation of this section, that the property is included in the pyrite remediation scheme the Revenue Commissioners shall, subject to subsection (4) and on receipt of a claim for repayment by the liable person, repay to that person any local property tax that was paid in respect of any liability date falling between the date of the notice and that coming into operation.
+(4A) Where subsection (3) (b) applies in relation to a residential property and the liable person in relation to that property was notified under the Pyrite Resolution Act 2013, before the coming into operation of this section, that the property is included in the pyrite remediation scheme the Revenue Commissioners shall, subject to subsection (4) and on receipt of a claim for repayment by the liable person, repay to that person any local property tax that was paid in respect of any liability date falling between the date of the notice and that coming into operation.
 
 (4B) (a) Where paragraph (c) or (d) of subsection (3) applies, the confirmation in writing given by the Revenue Commissioners under subsection (3A) shall specify a date (in this subsection referred to as the ‘effective date’), for the purposes of this subsection.
 
@@ -78,7 +78,7 @@ Pyrite-induced damage.
 
 (b) a liable person makes an election in writing to the Revenue Commissioners on or before 31 January 2014 specifying one or other of those dates as that first liability date.
 
-(6) Where a liable person makes an election in accordance with subsection (5)(b), the Revenue Commissioners shall repay to the liable person any local property tax that was paid in respect of the liability date 1 May 2013 or 1 November 2013, as the case may be.
+(6) Where a liable person makes an election in accordance with subsection (5) (b), the Revenue Commissioners shall repay to the liable person any local property tax that was paid in respect of the liability date 1 May 2013 or 1 November 2013, as the case may be.
 
 (6A) Notwithstanding subsections (3) and (4), a residential property shall be regarded as a relevant residential property where—
 

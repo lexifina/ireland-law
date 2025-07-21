@@ -8,7 +8,7 @@ Appeal against a Revenue officer’s enquiries.
 
 (2) Where subsection (1) applies, the liable person may appeal to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date on which the officer makes that enquiry or takes that action.
 
-(2A) Where subsection (1)(a) applies and an assessment has been made or amended, as the case may be, on foot of a Revenue officer’s enquiry or action, a chargeable person may appeal to the Appeal Commissioners under and in accordance with section 59(1).
+(2A) Where subsection (1) (a) applies and an assessment has been made or amended, as the case may be, on foot of a Revenue officer’s enquiry or action, a chargeable person may appeal to the Appeal Commissioners under and in accordance with section 59(1).
 
 (3) Any action required to be taken by the liable person and any further action proposed to be taken by the Revenue officer pursuant to the officer’s enquiry or action shall be suspended pending the determination of the appeal under this section.
 

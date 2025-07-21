@@ -1,6 +1,6 @@
 Property adapted for use by disabled persons.
 
-15A.— (1) Subject to subsections (2) to (5), where a relevant residential property has been adapted for the purposes of rendering it more suitable for the accommodation of a person who has a disability (within the meaning of section 2 of the Disability Act 2005), section 16(1) shall apply as if the reference in that provision to the chargeable value of a property were a reference to the chargeable value of the property as reduced by €50,000.
+15A.—(1) Subject to subsections (2) to (5), where a relevant residential property has been adapted for the purposes of rendering it more suitable for the accommodation of a person who has a disability (within the meaning of section 2 of the Disability Act 2005), section 16(1) shall apply as if the reference in that provision to the chargeable value of a property were a reference to the chargeable value of the property as reduced by €50,000.
 
 (2) Subsection (1) shall not apply unless—
 
@@ -24,7 +24,7 @@ Property adapted for use by disabled persons.
 
 (4) The increase in the chargeable value of the relevant residential property as a result of the adaptation referred to in subsection (1) shall be established on completion of that adaptation.
 
-(4A) (a) Where subparagraph (ii) of subsection (2)(a) applies, a liable person may make an application to the Revenue Commissioners for confirmation in writing, in relation to a relevant residential property referred to in subsection (1), of the reduction in the chargeable value of the property.
+(4A) (a) Where subparagraph (ii) of subsection (2) (a) applies, a liable person may make an application to the Revenue Commissioners for confirmation in writing, in relation to a relevant residential property referred to in subsection (1), of the reduction in the chargeable value of the property.
 
 (b) For the purpose of an application under paragraph (a), the Revenue Commissioners may specify the form of an application, and may require that the following information is provided to them:
 
@@ -54,7 +54,7 @@ Property adapted for use by disabled persons.
 
 (i) a relevant residential property has been adapted for the purposes specified in subsection (1), and
 
-(ii) subparagraph (i) of subsection (2)(a) does not apply.
+(ii) subparagraph (i) of subsection (2) (a) does not apply.
 
 (e) In this subsection “general practitioner”, in relation to a person who has a disability, means the medical practitioner, for the time being registered in the register of medical practitioners established under section 43 of the Medical Practitioners Act 2007, who provides a general practitioner medical service to the person who has a disability.
 
