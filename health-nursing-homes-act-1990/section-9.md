@@ -1,0 +1,3 @@
+Temporary management of nursing homes by health boards.
+
+9.—...

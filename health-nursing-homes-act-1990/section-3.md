@@ -1,0 +1,3 @@
+Prohibition of unregistered nursing homes.
+
+3.—...
