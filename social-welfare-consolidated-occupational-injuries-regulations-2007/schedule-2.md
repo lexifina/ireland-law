@@ -58,7 +58,7 @@ Amputation Cases — Lower Limbs
 
 24. Amputation below hip with stump not exceeding 5 inches in length 80 measured from tip of great trochanter
 
-25. Amputation below hip and above knee with stump exceeding 5 inches in 70 length measured from tip of great trochanter, or at knee not resulting in end-bearing stump Description of Injury Degree of Disablement Per cent. (1) (2)
+25. Amputation below hip and above knee with stump exceeding 5 inches in 70 length measured from tip of great trochanter, or at knee not resulting in end-bearing stump
 
 26. Amputation at knee resulting in end-bearing stump or below knee with 60 stump not exceeding 3 inches
 
@@ -132,7 +132,7 @@ Two Toes of One Foot, excluding Great Toe
 
 Three toes of One Foot, excluding Great Toe
 
-52. Through metatarso-phalangeal joint 6 Description of Injury Degree of Disablement Per cent. (1) (2)
+52. Through metatarso-phalangeal joint 6
 
 53. Part, with some loss of bone 3
 
