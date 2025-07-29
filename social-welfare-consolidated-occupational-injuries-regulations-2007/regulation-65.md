@@ -20,7 +20,9 @@ Definitions.
 
 (b) for the purposes of article 68, means the last available consumer price index on the date on which the payment in respect of the loss of purchasing power is paid;
 
-“the inflation factor” means a figure calculated in accordance with the following formula: (present index / previous index) – 1;
+“the inflation factor” means a figure calculated in accordance with the following formula:
+
+(present index / previous index) – 1;
 
 “the previous index”—
 
