@@ -4,7 +4,7 @@ Exception from disqualification for periods of absence from the State.
 
 217. Notwithstanding section 249, a person who is absent from the State shall not be disqualified for receiving—
 
-(a) State pension (contributory), widow’s (contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension, guardian’s payment (contributory) or bereavement grant, (including any increase thereof), by reason only of the person being absent from the State,
+(a) State pension (contributory), bereaved partner’s (contributory) pension, guardian’s payment (contributory) or bereavement grant, (including any increase thereof), by reason only of the person being absent from the State,
 
 (b) illness benefit (including any increase thereof)—
 
@@ -20,7 +20,7 @@ Exception from disqualification for periods of absence from the State.
 
 (iii) while that person is on holiday for a period or periods not exceeding six weeks in total during the period of entitlement to the benefit,
 
-(d) subject to paragraph (da), jobseeker’s benefit or jobseeker’s benefit (self-employed), (including any increase thereof) for any period during which that person, or his or her qualified adult, is absent from the State—
+(d) subject to paragraph (da), jobseeker’s benefit, jobseeker’s benefit (self-employed) or jobseeker’s pay-related benefit, (including any increase thereof) for any period during which that person, or his or her qualified adult, is absent from the State—
 
 (i) in respect of the first two weeks of any such absence in a calendar year, provided that during the period of his or her absence from the State the person does not engage in gainful employment of any nature and he or she submits such evidence to that effect as the Minister may require, or
 
@@ -28,7 +28,7 @@ Exception from disqualification for periods of absence from the State.
 
 (iii) during such period as the Minister may allow, having regard to the circumstances of the case, if the absence is temporary and due to force majeure,
 
-(da) jobseeker’s benefit or jobseeker’s benefit (self-employed), (including any increase thereof) by reason only of the person being temporarily absent from the State, where that person is a person has attained the age of 65 years, provided that during the period of his or her absence from the State the person does not engage in gainful employment of any nature and he or she submits such evidence to that effect as the Minister may require,
+(da) jobseeker’s benefit or jobseeker’s benefit (self-employed), (including any increase thereof) by reason only of the person being temporarily absent from the State, where that person is a person has attained the age of 65 years and has not yet attained the age of 66 years, provided that during the period of his or her absence from the State the person does not engage in gainful employment of any nature and he or she submits such evidence to that effect as the Minister may require,
 
 (e) carer’s benefit (including any increase thereof) for any period during which the carer is absent from the State—
 
