@@ -20,7 +20,7 @@ Definition.
 
 (e) invalidity pension,
 
-(f) widow’s (contributory) pension, widower’s (contributory) pension and surviving civil partner’s (contributory) pension,
+(f) bereaved partner’s (contributory) pension,
 
 (g) jobseeker’s allowance,
 
@@ -30,7 +30,7 @@ Definition.
 
 (j) blind pension,
 
-(k) widow’s (non-contributory) pension, widower’s (non-contributory) pension and surviving civil partner’s (non-contributory) pension,
+(k) bereaved partner’s (non-contributory) pension,
 
 (l) one-parent family payment,
 

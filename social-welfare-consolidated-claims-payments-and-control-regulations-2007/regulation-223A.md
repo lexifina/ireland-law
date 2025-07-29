@@ -10,9 +10,9 @@ Payment of maternity, health and safety, adoptive or paternity benefit at reduce
 
 (3) Where in respect of any period a person is in receipt of—
 
-(a) widow’s (contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension or a payment referred to in paragraph (a) of the definition of "relevant payment" in section 178(1) at a rate less than that specified in Part 1 of Schedule 2 to the Principal Act, or
+(a) bereaved partner’s (contributory) pension or a payment referred to in paragraph (a) of the definition of "relevant payment" in section 178(1) at a rate less than that specified in Part 1 of Schedule 2 to the Principal Act, or
 
-(b) widow’s (non-contributory) pension, widower’s (non-contributory) pension, surviving civil partner’s (non-contributory) pension, one-parent family payment or a payment referred to in paragraph (b) or (c) of the definition of ‘relevant payment’ in section 178(1) at a rate less than that specified in Part 1 of Schedule 4 to the Principal Act by reason of means, and during that period that person is also entitled to maternity benefit, health and safety benefit, adoptive benefit, paternity benefit or parent’s benefit, the amount payable to that person by way of such maternity benefit, health and safety benefit, adoptive benefit, paternity benefit or parent’s benefit shall be calculated in accordance with sub-articles (4) and (5).
+(b) bereaved partner’s (non-contributory) pension, one-parent family payment or a payment referred to in paragraph (b) or (c) of the definition of ‘relevant payment’ in section 178(1) at a rate less than that specified in Part 1 of Schedule 4 to the Principal Act by reason of means, and during that period that person is also entitled to maternity benefit, health and safety benefit, adoptive benefit, paternity benefit or parent’s benefit, the amount payable to that person by way of such maternity benefit, health and safety benefit, adoptive benefit, paternity benefit or parent’s benefit shall be calculated in accordance with sub-articles (4) and (5).
 
 (4) The amount of maternity benefit, health and safety benefit, adoptive benefit or paternity benefit payable to or in respect of a person to whom sub-article (3) applies shall be the aggregate of—
 
@@ -32,20 +32,20 @@ Payment of maternity, health and safety, adoptive or paternity benefit at reduce
 
 (5) In sub-article (4) "scheduled rate" means—
 
-(a) the rate of widow’s (contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension or a payment referred to in paragraph (a) of the definition of ‘relevant payment’ in section 178(1), appropriate to the person’s circumstances, as set out in Part 1 of Schedule 2 to the Principal Act, or
+(a) the rate of bereaved partner’s (contributory) pension or a payment referred to in paragraph (a) of the definition of ‘relevant payment’ in section 178(1), appropriate to the person’s circumstances, as set out in Part 1 of Schedule 2 to the Principal Act, or
 
-(b) the rate of widow’s (non-contributory) pension, widower’s (non-contributory) pension, surviving civil partner’s (non-contributory) pension, one-parent family payment or a payment referred to in paragraph (b) or (c) of the definition of ‘relevant payment’ in section 178(1), appropriate to the person’s circumstances, as set out in Part 1 of Schedule 4 to the Principal Act, as the case may be.
+(b) the rate of bereaved partner’s (non-contributory) pension, one-parent family payment or a payment referred to in paragraph (b) or (c) of the definition of ‘relevant payment’ in section 178(1), appropriate to the person’s circumstances, as set out in Part 1 of Schedule 4 to the Principal Act, as the case may be.
 
 (6) Notwithstanding sub-articles (1) to (5), maternity benefit, health and safety benefit, adoptive benefit, paternity benefit or parent’s benefit shall not be payable to or in respect of a person in respect of any period during which that person is in receipt of a payment specified in sub-article (7) and is also in receipt of a blind pension payable in accordance with article 224.
 
 (7) The following payments are specified for the purposes of sub-articles (1) and (6)—
 
-(a) death benefit by way of widow’s pension, widower’s pension or surviving civil partner’s pension,
+(a) death benefit by way of bereaved partner’s pension, (b) bereaved partner’s (contributory) pension,
 
 (b) widow’s (contributory) pension, widower’s (contributory) pension or surviving civil partner’s (contributory) pension,
 
 (c) a payment referred to in paragraphs (a) to (c) of the definition of ‘relevant payment’ in section 178(1),
 
-(d) widow’s (non-contributory) pension, widower’s (non-contributory) pension or surviving civil partner’s (non-contributory) pension, or
+(d) bereaved partner’s (non-contributory) pension, or
 
 (e) one-parent family payment.

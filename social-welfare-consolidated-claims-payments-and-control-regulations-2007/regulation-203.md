@@ -14,7 +14,7 @@ Payment to appointed persons.
 
 (e) invalidity pension, by virtue of sections 122(1) and 122(2),
 
-(f) widow’s (contributory) pension, widower’s (contributory) pension or surviving civil partner’s (contributory) pension, by virtue of section 127(1),
+(f) bereaved partner’s (contributory) pension by virtue of section 127(1),
 
 (g) in respect of jobseeker’s allowance—
 

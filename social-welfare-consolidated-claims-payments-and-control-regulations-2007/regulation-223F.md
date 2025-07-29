@@ -12,11 +12,11 @@ Payment of Covid-19 pandemic unemployment payment with other social welfare paym
 
 (d) carer’s benefit;
 
-(e) widow’s (contributory) pension;
+(e) bereaved partner’s (contributory) pension;
 
-(f) widower’s (contributory) pension;
+(f) ...
 
-(g) surviving civil partner’s (contributory) pension;
+(g) ...
 
 (h) guardian’s payment (contributory);
 
@@ -24,11 +24,11 @@ Payment of Covid-19 pandemic unemployment payment with other social welfare paym
 
 (j) blind pension;
 
-(k) widow’s (non-contributory) pension;
+(k) bereaved partner’s (non-contributory) pension;
 
-(l) widower’s (non-contributory) pension;
+(l) ...
 
-(m) surviving civil partner’s (non-contributory) pension;
+(m) ...
 
 (n) guardian’s payment (non-contributory);
 
