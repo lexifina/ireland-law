@@ -1,4 +1,4 @@
-F9[Nomination of employer to receive payment of injury benefit
+F11[Nomination of employer to receive payment of injury benefit
 
 56A. (1) Where injury benefit is payable to a person, that person may, subject to the consent of the Minister, nominate his or her employer to receive payment of that benefit on his or her behalf.
 

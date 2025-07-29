@@ -1,6 +1,6 @@
 ## Payments
 
-F7[Manner of payment
+F9[Manner of payment
 
 51. (1) Where, in accordance with a decision under the Principal Act or regulations made under that Act, benefit, including a medical care payment, is payable to a claimant or beneficiary or to any other person authorised to receive payment of the said benefit under the said Act or regulations (in this article referred to as the ‘authorised person’), that benefit shall be paid—
 

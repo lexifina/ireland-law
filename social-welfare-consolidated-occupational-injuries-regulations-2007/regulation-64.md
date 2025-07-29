@@ -10,6 +10,4 @@ Distribution of sum payable on death
 
 (3) Where the Minister is satisfied that any sum or part thereof payable under this article is needed for the benefit of any person under the age of 16 years, he or she may obtain a good discharge therefor by paying the sum or part thereof to a person over that age who satisfies the Minister that he or she will apply the sum so paid for the benefit of the person under the age of 16 years.
 
-(4) The Minister upon making any payment in accordance with this article shall be discharged from all liability in respect of any sum or sums so paid.
-
-CHAPTER 8
+(4) The Minister upon making any payment in accordance with this article shall be discharged from all liability in respect of any sum or sums so paid. CHAPTER 8

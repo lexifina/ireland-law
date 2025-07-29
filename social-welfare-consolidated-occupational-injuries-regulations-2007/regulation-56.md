@@ -1,6 +1,6 @@
 ## Payment to persons other than the claimant or beneficiary
 
-F8[Nomination of persons to receive payment of benefit
+F10[Nomination of persons to receive payment of benefit
 
 56. (1) Subject to article 56A, a person to whom benefit is payable may nominate a person who is over the age of 18 years to receive payment of benefit on his or her behalf and, subject to the consent of the Minister, such benefit may be payable to the person so nominated.
 
