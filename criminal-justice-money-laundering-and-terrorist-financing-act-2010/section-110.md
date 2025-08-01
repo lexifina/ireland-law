@@ -1,4 +1,4 @@
-## PART 5 MISCELLANEOUS
+## MISCELLANEOUS
 
 Service of documents.
 
