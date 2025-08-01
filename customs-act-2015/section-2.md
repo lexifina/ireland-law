@@ -20,7 +20,7 @@ Interpretation
 
 "Customs Code Regulation" means Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013;
 
-2 OJ No. L69, 15.3.2016, p. 1. 3 OJ No. L343, 29.12.2015, p. 558. 4 OJ No. L269, 10.10.2013, p. 1.
+3 OJ No. L343, 29.12.2015, p. 558.
 
 “conveyance” means any vessel, aircraft, vehicle or other means of transport used in the transportation of goods or passengers;
 

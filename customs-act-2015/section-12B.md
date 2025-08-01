@@ -2,29 +2,27 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 12B. (1) In this section—
 
-‘carrier’ means a person who has assumed responsibility for carriage of a relevant shipment or an empty vehicle, or the effecting of a relevant movement in relation to goods, into or out of the State by ferry and includes a person who provides haulage services or logistical services in relation to any of the foregoing matters;
+"carrier" means a person who has assumed responsibility for carriage of a relevant shipment or an empty vehicle, or the effecting of a relevant movement in relation to goods, into or out of the State by ferry and includes a person who provides haulage services or logistical services in relation to any of the foregoing matters;
 
-‘Council Regulation’ means Council Regulation (EC) No. 1186/2009 of 16 November 2009 setting up a Community system of reliefs from customs duty;
+"Council Regulation" means Council Regulation (EC) No. 1186/2009 of 16 November 2009 setting up a Community system of reliefs from customs duty;
 
-‘Delegated Regulation’ means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code;
+"Delegated Regulation" means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code;
 
-‘electronic data processing technique’ means such electronic data processing technique as stands specified by the Commissioners for the purposes of this section;
+"electronic data processing technique" means such electronic data processing technique as stands specified by the Commissioners for the purposes of this section;
 
-‘export’ means the exportation or removal from the State of any goods to a place outside the customs territory of the Union;
+"export" means the exportation or removal from the State of any goods to a place outside the customs territory of the Union;
 
-‘ferry’ means a vessel with facilities that enable vehicles to be driven on board the vessel and to be driven off it;
+"ferry" means a vessel with facilities that enable vehicles to be driven on board the vessel and to be driven off it;
 
-‘ferry operator’ means a person engaged in the provision of ferry services between a port outside the customs territory of the Union and the State;
+"ferry operator" means a person engaged in the provision of ferry services between a port outside the customs territory of the Union and the State;
 
-‘import’ means the importation or bringing into the State of any goods from outside the customs territory of the Union;
+"import" means the importation or bringing into the State of any goods from outside the customs territory of the Union;
 
-‘master reference number’ has the same meaning as it has in the Delegated Regulation;
+"master reference number" has the same meaning as it has in the Delegated Regulation;
 
-‘pre-boarding notification’ shall be construed in accordance with subsection (6);
+"pre-boarding notification" shall be construed in accordance with subsection (6);
 
-13 OJ No. L 324, 10.12.2009, p.23 14 OJ No. L 343, 29.12.2015, p.1
-
-‘relevant movement’ means each of the following cases where goods are to be imported or exported by ferry in accordance with the Customs Acts and for which a master reference number has not been allocated by the Commissioners, that is to say, a case where:
+"relevant movement" means each of the following cases where goods are to be imported or exported by ferry in accordance with the Customs Acts and for which a master reference number has not been allocated by the Commissioners, that is to say, a case where:
 
 (a) a customs declaration for goods being imported through postal consignment is to be lodged in accordance with Article 144 of the Delegated Regulation;
 
@@ -44,13 +42,13 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 (i) relief applies in the case of the importation of a coffin containing a deceased person or an urn containing ashes of a deceased person as provided for in Chapter XXX of Title II of the Council Regulation;
 
-(j) a declaration commonly referred to as a ‘Dip 1 paper declaration’ is intended to be made upon entry into the State in respect of goods being imported by an Embassy or other recognised international institution under section 5 of the Diplomatic Relations and Immunities Act 1967;
+(j) a declaration commonly referred to as a "Dip 1 paper declaration" is intended to be made upon entry into the State in respect of goods being imported by an Embassy or other recognised international institution under section 5 of the Diplomatic Relations and Immunities Act 1967;
 
 (k) any other circumstance arises in which the Customs Acts permits the making of a paper or oral customs declaration in respect of goods contained in the vehicle concerned, and subsection (2) supplements this definition;
 
-‘relevant shipment’ means all of the particular goods which are to be imported or exported by ferry in accordance with the Customs Acts, or all of the particular goods moved under the customs transit procedure into or out of the State, for which a master reference number has been allocated by the Commissioners.
+"relevant shipment" means all of the particular goods which are to be imported or exported by ferry in accordance with the Customs Acts, or all of the particular goods moved under the customs transit procedure into or out of the State, for which a master reference number has been allocated by the Commissioners.
 
-(2) For the purposes of this section, in addition to what is provided in subsection (1) respecting the expression ‘relevant movement’, a reference in any subsequent provision of this section to a ‘relevant movement’ shall be deemed to include, where the context admits and notwithstanding that there are no goods in the vehicle, a reference to a case of the carriage of an empty vehicle on a ferry.
+(2) For the purposes of this section, in addition to what is provided in subsection (1) respecting the expression "relevant movement", a reference in any subsequent provision of this section to a "relevant movement" shall be deemed to include, where the context admits and notwithstanding that there are no goods in the vehicle, a reference to a case of the carriage of an empty vehicle on a ferry.
 
 (3) The following provisions shall have effect in relation to a relevant shipment, or the effecting of a relevant movement in relation to goods, entering or departing the State.
 
@@ -68,7 +66,7 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 (b) in the case of that paragraph (b), the information referred to in that paragraph becomes available to the first-mentioned person in that subsection, and, in any event, in advance of the check in of the vehicle concerned by the ferry operator at the ferry port of departure.
 
-(6) A carrier shall, in accordance with subsection (7), provide to the Commissioners a statement (in this section referred to as a ‘pre-boarding notification’), that complies with subsection (8), in relation to, as appropriate—
+(6) A carrier shall, in accordance with subsection (7), provide to the Commissioners a statement (in this section referred to as a "pre-boarding notification"), that complies with subsection (8), in relation to, as appropriate—
 
 (a) the relevant shipment or relevant shipments of goods contained in a vehicle, or
 

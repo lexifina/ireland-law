@@ -6,7 +6,7 @@ Available to the EU Budget
 
 Section 43 THE CONTRACTING PARTIES, Member States of the European Union:
 
-HAVING REGARD to Council Decision No 2007/436/EC, Euratom of 7 June 2007 on the system of the European Communities’ own resources (hereinafter referred to as the Decision),
+HAVING REGARD to Council Decision No 2007/436/EC, Euratom of 7 June on the system of the European Communities’ own resources 2007 (hereinafter referred to as the Decision),
 
 CONSIDERING Council Regulation (EC, Euratom) No 1150/2000 of 22 May 2000 implementing the abovementioned Decision on own resources (hereinafter referred to as the Regulation),
 
@@ -137,3 +137,7 @@ Article 10
 In witness whereof, the undersigned Plenipotentiaries have hereunto set their hands.
 
 Done at Brussels on the tenth day of March in the year two thousand and nine in a single original in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish and Swedish languages, each text being equally authentic, the original being deposited in the archives of the General Secretariat of the Council of the European Union.
+
+CUSTOMS ACT 2015
+
+Updated 1 August 2025
