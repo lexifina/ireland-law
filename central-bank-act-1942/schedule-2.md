@@ -270,7 +270,7 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 67 S.I. No. 375 of 2017 European Union (Markets in The whole instrument Financial Instruments) Regulations 2017
 
-68 S.I. No. 608 of 2017 European Union (Information The whole instrument Accompanying Transfers of Funds) Regulations 2017
+68 S.I. No. 310 of 2025 European Union (Information The whole instrument. Accompanying Transfers of Funds) Regulations 2025
 
 [number S.I. No. 631 of 2017 European Union (Securities The whole instrument] to be Financing Transactions) inserted Regulations 2017
 

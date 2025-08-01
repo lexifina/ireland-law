@@ -280,7 +280,7 @@ OJ NO. L 83, 22.03.2013, P. 1
 
 (am) each of the acts adopted by an institution of the European Union specified in Schedule 9 (inserted by the European Union (Markets in Financial Instruments) (Amendment) Regulations 2017);
 
-(an) Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015;
+(an) Regulation (EU) 2023/1113 of the European Parliament and of the Council of 31 May 2023;
 
 (ao) Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
 
