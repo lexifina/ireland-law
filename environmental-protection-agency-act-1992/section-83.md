@@ -154,6 +154,8 @@ Determination of applications for licences.
 
 (3) In considering an application for a licence or a revised licence, or the review of a licence or a revised licence under this Part, the Agency shall have regard to—
 
+## 7 OJ No. L 206, 22.7.1992, p. 7
+
 (a) any relevant air quality management plan under section 46 of the Air Pollution Act 1987, or water quality management plan under section 15 of the Local Government (Water Pollution) Act 1977, or waste management plan,
 
 (b) any relevant noise regulations under section 106,

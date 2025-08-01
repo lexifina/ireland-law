@@ -1,6 +1,6 @@
 Notice of non-compliance with licence or revised licence relating to industrial emissions directive activity.
 
-97B. (1) In relation to an industrial emissions directive activity, where the Agency has been informed by the licensee under section 86(1)(a)(x) that, or the Agency considers that, a failure to comply with any condition attached to a licence or revised licence has occurred that poses an immediate threat to human health or threatens to cause an immediate adverse effect on the environment, the Agency shall give a notice to the licensee concerned.
+97B.—(1) In relation to an industrial emissions directive activity, where the Agency has been informed by the licensee under section 86(1)(a)(x) that, or the Agency considers that, a failure to comply with any condition attached to a licence or revised licence has occurred that poses an immediate threat to human health or threatens to cause an immediate adverse effect on the environment, the Agency shall give a notice to the licensee concerned.
 
 (2) A notice under subsection (1) shall inform the licensee of the failure to comply with a specified condition of the licence, and of the nature of the failure and shall direct the licensee—
 

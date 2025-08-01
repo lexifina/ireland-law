@@ -2,7 +2,7 @@
 
 Environmental Inspection Plan.
 
-99J. (1) This section applies to an installation where an industrial emissions directive activity is or will be carried on.
+99J.—(1) This section applies to an installation where an industrial emissions directive activity is or will be carried on.
 
 (2) The Agency, as soon as may be after the commencement of this Part, shall make a national plan (in this Part called “the environmental inspection plan”) with regard to the inspection of installations.
 

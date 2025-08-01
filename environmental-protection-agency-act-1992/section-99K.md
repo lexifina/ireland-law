@@ -2,7 +2,7 @@
 
 Titanium Dioxide.
 
-99K. (1) This Part applies in relation to an installation where an industrial emissions directive activity that produces titanium dioxide is carried on.
+99K.—(1) This Part applies in relation to an installation where an industrial emissions directive activity that produces titanium dioxide is carried on.
 
 (2) In granting a licence or revised licence in relation to an industrial emissions directive activity that produces titanium dioxide, the Agency shall attach one or more conditions that, in the opinion of the Agency, are necessary to give effect to Chapter VI of the Industrial Emissions Directive.
 

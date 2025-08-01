@@ -1,6 +1,6 @@
 Transitional matters for activities licensed under this Act consequent upon Industrial Emissions Directive.
 
-82A. (1) In this section “earlier Part IV” means this Part as it had effect before the amendment of it by the European Union (Industrial Emissions) Regulations 2013.
+82A.—(1) In this section “earlier Part IV” means this Part as it had effect before the amendment of it by the European Union (Industrial Emissions) Regulations 2013.
 
 (2) On or after 7 January 2014 a person shall not carry on an activity to which subsection (3) applies unless—
 
