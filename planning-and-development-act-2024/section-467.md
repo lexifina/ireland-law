@@ -1,0 +1,3 @@
+Compensation regarding entry on maritime site
+
+467. If, on a claim made to the planning authority, the Maritime Area Regulatory Authority or the Commission, as appropriate, it is shown that, as a result of anything done under section 394 or 395 by virtue of the lawful entry onto a maritime site by an authorised person of a local authority, Maritime Area Regulatory Authority or the Commission, any person having an interest in the maritime site has suffered damage, the person shall, subject to the other provisions of this Part, in so far as this Part relates to the maritime area, be entitled to be paid by the planning authority, the Maritime Area Regulatory Authority or the Commission, as the case may be, by way of compensation the amount of the damage.

@@ -1,0 +1,3 @@
+Public inspection
+
+18. Where this Part requires publication by the Minister, the Office of the Planning Regulator, a regional assembly or a planning authority of a notice stating that any matter or thing is or will be made available for inspection by the public, the Minister, the Office of the Planning Regulator, regional assembly or planning authority, as the case may be, shall ensure that the matter or thing is made available for inspection as stated in the notice for such period as may be provided for in or under this Part or stated in the notice or, where no such period is so provided or stated, for such period as the Minister, the Office of the Planning Regulator, regional assembly or planning authority, as the case may be, considers reasonable.

@@ -1,0 +1,5 @@
+Certain procedures to run in parallel
+
+431. (1) The person holding an oral hearing in relation to the compulsory acquisition of a maritime site, which relates wholly or in part to proposed development by a local authority which is required to comply with section 213, 214 or 230 or any other statutory provision to comply with procedures for giving effect to the Environmental Impact Assessment Directive, shall be entitled to hear evidence in relation to the likely effects on the environment of such development.
+
+(2) Where an application for the approval of a proposed development which is required to comply with section 213, 214 or 230 is made to the Commission and a compulsory purchase order or provisional order has been submitted to the Commission for confirmation and the proposed development relates wholly or in part to the same proposed development, the Commission shall, if objections have been received in relation to the compulsory purchase order, make a decision on the confirmation of the compulsory purchase order at the same time.

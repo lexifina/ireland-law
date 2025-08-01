@@ -1,0 +1,99 @@
+Declarations relevant to works relating to protected structures or proposed protected structures
+
+310. (1) An owner or occupier of a protected structure or proposed protected structure, or a relevant person in relation to such structure, may make a written request to the planning authority within whose functional area the structure is situated for one or more of the following declarations (each of which is referred to in this section as a “declaration”):
+
+(a) a declaration as to whether the authority considers that specified works identified in detail in the request would materially affect the character of the structure or of any element of that structure;
+
+(b) a declaration setting out—
+
+(i) features within the attendant grounds of the structure that are to be protected, and
+
+(ii) the extent of the curtilage of the structure.
+
+(2) (a) A request under subsection (1) shall be accompanied by all such information and documentation as is necessary to enable the planning authority to perform its functions under this section in relation to the request.
+
+(b) For the purposes of the performance of its functions under this section, a planning authority may, by notice in writing, require a person who makes a request under subsection (1) to provide the planning authority with such further information and documentation as it specifies in the notice not later than 12 weeks (or such longer period as may be prescribed) from the date of the notice.
+
+(c) A planning authority may, for the purpose of the performance of its functions under this section, request a person (other than the person who made the request under subsection (1)) by notice in writing to provide the planning authority with such information and documentation as is specified in the notice not later than 12 weeks (or such longer period as may be prescribed) from the date of the notice.
+
+(3) Subject to subsections (5) and (6), a planning authority shall, not later than—
+
+(a) 8 weeks from its receiving a request under subsection (1), or
+
+(b) 3 weeks from the expiration of the period or periods specified in a notice or notices under paragraph (b) or (c) of subsection (2), whichever occurs later, decide whether or not it has sufficient information to enable it to make a declaration under this section and, if it decides that it does have such sufficient information, it shall, within that period, make a declaration in relation to the request concerned and forward the declaration and the main reasons and considerations on which it is based—
+
+(i) to the person who made that request, and
+
+(ii) where that person is not the owner or occupier of land to which the request relates, to such owner or occupier.
+
+(4) Where a planning authority decides under subsection (3) that it does not have sufficient information to make a declaration under this section—
+
+(a) it shall, by notice in writing, inform the person who made the request under subsection (1) of the decision, and
+
+(b) the request shall be deemed to have been withdrawn on the date specified in that notice.
+
+(5) Before issuing a declaration, a planning authority shall have regard to—
+
+(a) any national planning statement relevant to the declaration sought, and
+
+(b) any recommendation made to the authority relating to the protected structure, or proposed protected structure, under section 308.
+
+(6) Where the planning authority decides, under subsection (3), that it has sufficient information to make a declaration under this section and the proposed works to which the declaration relate—
+
+(a) are reasonably necessary for, and proportionate and appropriate to, the objective of enabling a residential use of a protected structure, or proposed protected structure, while protecting the structure, and
+
+(b) do not—
+
+(i) materially affect the character of the exterior of the structure, or
+
+(ii) divide the structure into more than one dwelling, it shall make a declaration to the effect that the works do not materially affect the character of the structure or of any element of that structure, as the case may be.
+
+(7) A planning authority may at any time after issuing a declaration revise the declaration, but the revision shall not affect any works carried out in reliance on the declaration prior to the revision.
+
+(8) (a) A person (in this subsection referred to as the “appellant”) to whom a declaration has been forwarded in accordance with subsection (3) may, not later than 4 weeks from the date of the declaration and on payment to the Commission of such fee as may be determined under section 381, appeal the declaration to the Commission (in this subsection referred to as an “appeal”).
+
+(b) An appellant may withdraw an appeal under this subsection before the appeal is determined by the Commission.
+
+(c) Subject to paragraphs (d), (e), (f), (g) and (h), this section shall apply to the Commission in relation to an appeal as it applies to a planning authority in relation to a request under subsection (1), and for the purposes of such appeal—
+
+(i) references in that subsection to a request under that subsection shall be construed as references to an appeal,
+
+(ii) references in this section to a person who made such a request shall be construed as references to the appellant, and
+
+(iii) references in this section to the planning authority shall be construed as references to the Commission, and a declaration of the Commission, or a decision of the Commission under subsection (3) that it does not have sufficient information to make a declaration under this section, in relation to an appeal shall operate to annul the declaration of the planning authority from which the appeal was brought.
+
+(d) For the purposes of the performance of its functions under this section in relation to an appeal, the Commission may, by notice in writing, require the appellant to provide it with such information and documentation as is specified in the notice within such period (which shall not be later than 2 weeks from the date of the service of the notice) as is so specified.
+
+(e) Notwithstanding the failure of the appellant to comply with a requirement in a notice under paragraph (d), the Commission may make a declaration in relation to an appeal where it is satisfied that it has sufficient information in relation to the matter to enable it to do so.
+
+(f) For the purposes of the performance of its functions under this section in relation to an appeal, the Commission may, by notice in writing, request a person (other than the person who made the request under subsection (1)) to provide it with such information and documentation as is specified in the notice not later than 2 weeks from the date of the notice.
+
+(g) Notwithstanding the failure of a person to whom a notice has been given under paragraph (f) to accede to the request in the notice, the Commission may determine an appeal where it is satisfied that it has sufficient information in relation to the matter to enable it to do so.
+
+(h) The Commission shall determine an appeal under this subsection within the period specified under section 361.
+
+(9) Such particulars as the Minister may prescribe, in relation to each declaration made by a planning authority under this section, including a declaration as revised under subsection (7), and each decision by the Commission on appeal, shall be entered in the register.
+
+(10) A planning authority shall make available a copy of the request made under subsection (1) and the particulars of any declaration issued by the authority and by the Commission on appeal in electronic form, including by placing a copy on the planning authority’s website.
+
+(11) The Commission shall keep a record of any decision it makes under subsection (8), and the reasons for its decision, and shall make the record available in electronic form, including by placing a copy on the Commission’s website.
+
+(12) A declaration under this section is without prejudice to the application of section 10.
+
+(13) For the purposes of this section, the Minister may prescribe any one or more of the following:
+
+(a) the form of a declaration;
+
+(b) the form of request for a declaration;
+
+(c) the manner in which a declaration shall be requested, including the information or matters that shall accompany such a request.
+
+(14) A declaration under section 57 of the Act of 2000 made before its repeal by section 6 shall have effect on and after such repeal as if made under this section.
+
+(15) Notwithstanding the repeal of section 57 of the Act of 2000 effected by section 6, the Act of 2000 shall, subject to Part 17, continue to apply and have effect in relation to a request or appeal under that section made before that repeal.
+
+(16) In this section “relevant person”, in relation to a protected structure or proposed protected structure, means a person other than an owner or occupier of the structure who—
+
+(a) carries out or proposes to carry out an act or operation on the structure, or
+
+(b) makes or proposes to make a change in use of the structure, with the consent of the owner of the structure.

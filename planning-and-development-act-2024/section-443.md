@@ -1,0 +1,3 @@
+Compensation regarding cables, wires and pipelines
+
+443. If, on a claim made to the planning authority, it is shown that, as a result of a planning authority exercising its powers pursuant to section 275 and the rights and obligations arising therefrom, the value of an interest of any person in the land existing at the time of the action of the planning authority is reduced, or that any person having an interest in the land at that time has suffered damage by being disturbed in his or her enjoyment of the land or structure, that person shall, subject to the other provisions of this Part, in so far as this Part relates to land, be entitled to be paid by the planning authority by way of compensation the amount of the reduction in value or the amount of the damage.

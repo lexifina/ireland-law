@@ -1,0 +1,3 @@
+Compensation regarding creation of public rights of way
+
+466. If, on a claim made to the planning authority, it is shown that the value of an interest of any person in a maritime site, being a maritime site over which a public right of way has been created by an order under section 269 made by that authority, is reduced, or that any person having an interest in the maritime site has suffered damage by being disturbed in his or her enjoyment of the maritime site in consequence of the creation of the public right of way, that person shall, subject to the other provisions of this Part, in so far as this Part relates to the maritime area, be entitled to be paid by the planning authority by way of compensation the amount of the reduction in value or the amount of the damage.
