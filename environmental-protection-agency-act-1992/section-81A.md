@@ -1,4 +1,4 @@
-F85[Regulations in relation to environmental inspections.
+F88[Regulations in relation to environmental inspections.
 
 81A.—(1) The Minister may, for the purposes of environmental protection, make regulations providing for the carrying out by the Agency or a local authority of environmental inspections in connection with the performance of a statutory function of the Agency or a local authority in relation to environmental protection.
 
@@ -21,5 +21,3 @@ F85[Regulations in relation to environmental inspections.
 "local authority" has the meaning assigned to it by the Local Government Act 2001;
 
 "site visit" means a visit to a site at which there is being, or has been, carried on any activity (whether an activity within the meaning of this Act or not), being a visit which the Agency or the local authority, as the case may be, may make in exercise of the powers conferred on it by any enactment (other than this section).
-
-(1) O.J. No. L118, 27.04.2001, p.41.

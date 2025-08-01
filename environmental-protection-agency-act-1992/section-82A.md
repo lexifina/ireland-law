@@ -1,6 +1,6 @@
-F89[Transitional matters for activities licensed under this Act consequent upon Industrial Emissions Directive.
+F92[Transitional matters for activities licensed under this Act consequent upon Industrial Emissions Directive.
 
-82A. (1) In this section “earlier Part IV” means this Part as it had effect before the amendment of it by the European Union (Industrial Emissions) Regulations 2013.
+82A.—(1) In this section “earlier Part IV” means this Part as it had effect before the amendment of it by the European Union (Industrial Emissions) Regulations 2013.
 
 (2) On or after 7 January 2014 a person shall not carry on an activity to which subsection (3) applies unless—
 
@@ -36,8 +36,6 @@ F89[Transitional matters for activities licensed under this Act consequent upon 
 
 (b) in respect of the activity—
 
-O.J. No. L24, 29.1.2008, p, 8.
-
 (i) on the coming into operation of this section an application has been made to the Agency under the earlier Part IV for a licence or revised licence and the requirements of regulations under section 89 in relation to the application for the licence or revised licence have been complied with by the applicant, and
 
 (ii) on or before 7 July 2015—
@@ -61,6 +59,8 @@ O.J. No. L24, 29.1.2008, p, 8.
 (6)(a) Where an application to which subsection (2)(b) refers is determined or completed by the Agency before 30 September 2013 it shall be dealt with by the Agency, and be determined or completed by it under the earlier Part IV.
 
 (b) Where an application to which subsection (2)(b) refers is determined or completed by the Agency on or after 30 September 2013, it shall, subject to this section, be dealt with by the Agency, and be determined or completed by it, under this Part.
+
+O.J. No. L24, 29.1.2008, p, 8.
 
 (7)(a) Where an application to which subsection (4)(b) refers is determined or completed by the Agency before 28 February 2014 it shall be dealt with by the Agency, and be determined or completed by it under the earlier Part IV.
 

@@ -1,4 +1,4 @@
-F94[Determination of applications for licences.
+F97[Determination of applications for licences.
 
 83.—(1) Where an application is made to the Agency in the prescribed manner for a licence under this Part it may, subject to section 99A and to compliance with any regulations under section 89, grant the licence subject to such conditions as it considers appropriate or refuse the application.
 
@@ -44,11 +44,7 @@ F94[Determination of applications for licences.
 
 (I) population and human health,
 
-(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive
-
-OJ No. L 206, 22.7.1992, p. 7
-
-2009/147/EC of the European Parliament and of the Council of 30 November 2009,
+(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009,
 
 (III) land, soil, water, air and climate,
 
@@ -77,8 +73,6 @@ OJ No. L 206, 22.7.1992, p. 7
 (i) where the Agency determines that the activity should be subject to environmental impact assessment, specify with reference to the relevant criteria listed in Annex III to the EIA Directive, the main reasons for that determination, and
 
 (ii) where the Agency determines that the activity should not be subject to environmental impact assessment, specify—
-
-OJ No. L 20, 26.1.2010, p. 7
 
 (I) with reference to the relevant criteria listed in Annex III to the EIA Directive, the main reasons for that determination, and
 
@@ -160,6 +154,8 @@ OJ No. L 20, 26.1.2010, p. 7
 
 (3) In considering an application for a licence or a revised licence, or the review of a licence or a revised licence under this Part, the Agency shall have regard to—
 
+## 7 OJ No. L 206, 22.7.1992, p. 7
+
 (a) any relevant air quality management plan under section 46 of the Air Pollution Act 1987, or water quality management plan under section 15 of the Local Government (Water Pollution) Act 1977, or waste management plan,
 
 (b) any relevant noise regulations under section 106,
@@ -173,8 +169,6 @@ OJ No. L 20, 26.1.2010, p. 7
 (ii) any submissions or observations made to the Agency in relation to the environmental impact assessment report, or the environmental report
 
 (iii) any further information or particulars submitted in relation to the environmental impact assessment report or the environmental report in compliance with a notice given under regulations under section 89,
-
-OJ No. L 206, 22.7.1992, p. 7 OJ No. L 20, 26.1.2010, p. 7
 
 (iv) where appropriate, the comments of other Member States of the European Communities in relation to the effects on the environment of the proposed activity, and
 

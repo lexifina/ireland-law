@@ -1,4 +1,4 @@
-F169[Regulations regarding licences.
+F183[Regulations regarding licences.
 
 89.—(1) The Minister may make regulations in relation to—
 
@@ -73,7 +73,5 @@ F169[Regulations regarding licences.
 (a) such incidental, supplementary, consequential and transitional provisions as appear to the Minister to be necessary for the purposes or in consequence of, or to give full effect to, the regulations,
 
 (b) such provisions as appear to the Minister to be necessary for the purposes or in consequence of the requirements of Council Directive 85/337/EC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment.
-
-O.J. No. L206, 22.7.1992, p.7. O.J. No. L305, 8.11.1997, p.42. O.J. No. L284, 31.10.2003, p.1. O.J. No. L363, 20.12.2006, p.368. O.J. No. L158, 10.6.2013, p.193. O.J. No. L175, 05.07.1985, p.40.
 
 (5) A defrayment or contribution the payment of which is required under regulations made under this section shall be payable on demand and, in default of being so paid, shall be recoverable as a simple contract debt in any court of competent jurisdiction.

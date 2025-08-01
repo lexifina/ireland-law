@@ -46,8 +46,6 @@ Interpretation.
 
 (c) a discharge of polluting matter, sewage effluent or trade effluent within the meaning of the Local Government (Water Pollution) Act 1977, to waters or sewers within the meaning of that Act, or
 
-OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
-
 (d) waste, but does not include a radioactive substance within the meaning of Council Directive 96/29/Euratom, a genetically modified micro-organism within the meaning of Council Directive 90/219/EEC or a genetically modified organism within the meaning of Directive 2001/18/EC of the European Parliament and of the Council;
 
 "emission levels associated with the best available techniques" means the range of emission levels obtained under normal operating conditions using a best available technique or a combination of best available techniques, as described in BAT conclusions, expressed as an average over a given period of time, under specified reference conditions;
@@ -81,8 +79,6 @@ OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
 (I) was being carried on, and
 
 (II) did not involve or have an association with unauthorised development within the meaning of the Act of 2000;
-
-O.J. No. L159, 29.06.1996, p.1. O.J. No. L117, 08.05.1990, p.1. O.J. No. L106, 17.04.2001, p.1. OJ No. L 26, 28.1.2012 p.1
 
 "functions" includes powers and duties;
 

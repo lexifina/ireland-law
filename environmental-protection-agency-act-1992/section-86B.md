@@ -1,6 +1,6 @@
-F141[Baseline report and permanent cessation of activity.
+F146[Baseline report and permanent cessation of activity.
 
-86B. (1) Where an industrial emissions directive activity involves the use, production or release of relevant hazardous substances, and having regard to the possibility of soil and groundwater contamination at the site of an installation concerned, the Agency shall require an applicant under this Part for a licence or review of a licence or revised licence relating to the activity, including such a review by the Agency of its own volition, to furnish to the Agency a baseline report in accordance with regulations under section 89.
+86B.—(1) Where an industrial emissions directive activity involves the use, production or release of relevant hazardous substances, and having regard to the possibility of soil and groundwater contamination at the site of an installation concerned, the Agency shall require an applicant under this Part for a licence or review of a licence or revised licence relating to the activity, including such a review by the Agency of its own volition, to furnish to the Agency a baseline report in accordance with regulations under section 89.
 
 (2) In relation to an installation, a baseline report shall contain the information necessary to determine the state of contamination of soil and groundwater at the time that the report is drawn up in order that a quantified comparison may be made to the state of the site upon the permanent cessation (including cessation by abandonment) of the industrial emissions directive activity concerned and the applicant in preparing the baseline report shall include any information prescribed in regulations under section 89.
 

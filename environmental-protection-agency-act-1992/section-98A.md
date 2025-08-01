@@ -1,6 +1,6 @@
-F194[Alterations of industrial emissions directive activity.
+F209[Alterations of industrial emissions directive activity.
 
-98A. (1) The person in charge of an industrial emissions directive activity shall give notice in writing to the Agency of any proposal to effect any alteration in the nature or functioning, or a reconstruction or extension of the installation if such alteration, reconstruction or extension would, or is likely to, change or increase emissions from the activity or cause new emissions therefrom in a manner which would have consequences for the environment.
+98A.—(1) The person in charge of an industrial emissions directive activity shall give notice in writing to the Agency of any proposal to effect any alteration in the nature or functioning, or a reconstruction or extension of the installation if such alteration, reconstruction or extension would, or is likely to, change or increase emissions from the activity or cause new emissions therefrom in a manner which would have consequences for the environment.
 
 (2) Whenever the Agency receives a notice under this section or otherwise becomes aware of an alteration, reconstruction or extension referred to in subsection (1) which would not, in the opinion of the Agency, increase or change emissions from the industrial emissions directive activity, cause significant new emissions therefrom, or otherwise constitute a substantial change, the Agency, notwithstanding any other provision of this Act, may—
 
@@ -12,9 +12,7 @@ F194[Alterations of industrial emissions directive activity.
 
 (3) Whenever the Agency receives a notice under this section or otherwise becomes aware of an alteration, reconstruction or extension referred to in subsection (1) which would, in the opinion of the Agency, increase or change emissions from the industrial emissions directive activity or cause significant new emissions therefrom or otherwise constitute a substantial change, the Agency, notwithstanding any other provision of this Act, shall—
 
-(a) if there is a licence or revised licence in force in respect of the industrial emissions directive activity concerned, either review that licence under section 90 and exercise the powers under paragraph (a) or (b) of subsection
-
-(2) of that section in relation to it or direct the person in charge to apply for a new licence in substitution for that licence, or
+(a) if there is a licence or revised licence in force in respect of the industrial emissions directive activity concerned, either review that licence under section 90 and exercise the powers under paragraph (a) or (b) of subsection (2) of that section in relation to it or direct the person in charge to apply for a new licence in substitution for that licence, or
 
 (b) if there is no such licence in force, direct, by notice served on the person, the person in charge to apply for a licence, and the person in charge shall not effect the alteration, reconstruction or extension unless and until the powers under paragraph (a) or (b) of that subsection (2) have been exercised in a way that allows or, as the case may be, a new licence or licence has been granted that allows, the alteration, reconstruction or extension to be effected.
 

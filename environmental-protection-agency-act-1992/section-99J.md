@@ -1,8 +1,8 @@
 ## Part IVB ENVIRONMENTAL INSPECTION PLAN
 
-F223[Environmental Inspection Plan
+F239[Environmental Inspection Plan
 
-99J. (1) This section applies to an installation where an industrial emissions directive activity is or will be carried on.
+99J.—(1) This section applies to an installation where an industrial emissions directive activity is or will be carried on.
 
 (2) The Agency, as soon as may be after the commencement of this Part, shall make a national plan (in this Part called “the environmental inspection plan”) with regard to the inspection of installations.
 
@@ -55,8 +55,6 @@ F223[Environmental Inspection Plan
 (a) the occurrences of non-compliance and the measures that the person in charge is required to take to restore compliance within a period specified by the Agency in the notification,
 
 (b) where relevant, the order in which such measures are to be taken, and
-
-O.J. No. L342, 22.12.2009, p. 1.
 
 (c) where relevant, the monitoring and inspection that the Agency proposes to undertake in relation to the remedial measures until the Agency is satisfied that compliance has been restored.
 

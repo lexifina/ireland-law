@@ -18,8 +18,6 @@ Sewage or other effluents.
 
 (e) monitoring of sewage or other effluents and of waters to which sewage or other effluents are discharged,
 
-O.J. No. L135/40 of 30 May, 1991.
-
 (f) re-use and disposal of effluents.
 
 (3) Standards or other requirements prescribed under subsection (2) may relate to—
