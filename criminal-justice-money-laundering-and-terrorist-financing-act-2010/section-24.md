@@ -68,7 +68,7 @@ Definitions.
 
 (a) the provision of banking services by one bank as the correspondent to another bank as the respondent, including providing a current or other liability account and related services, such as cash management, international funds transfers, cheque clearing, payable-through accounts and foreign exchange services, or
 
-(b) the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or funds transfers;
+(b) the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or funds transfers or relationships established for transactions in crypto-assets or transfers of crypto-assets;
 
 “credit institution” means—
 
@@ -76,7 +76,11 @@ Definitions.
 
 (b) An Post in respect of any activity that it carries out, whether as principal or agent, that would render it, or a principal for whom it is an agent, a credit institution as a result of the application of paragraph (a);
 
-"custodian wallet provider" means an entity that provides services to safeguard private cryptographic keys on behalf of its customers, to hold, store and transfer virtual currencies;
+...
+
+“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114, except where falling within the categories listed in Article 2(2), (3) and (4) of that Regulation or otherwise qualifying as funds;
+
+“crypto-asset service provider” means a crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114, where performing one or more crypto-asset services as defined in Article 3(1), point (16), of that Regulation, with the exception of providing advice on crypto-assets as referred to in Article 3(1), point (16)(h), of that Regulation;
 
 “customer”—
 
@@ -158,7 +162,9 @@ Definitions.
 
 (iii) that would render it, or a principal for whom it is an agent, an investment business firm within the meaning of the Investment Intermediaries Act 1995 (other than a non-life insurance intermediary within the meaning of that Act) if section 2(6) of that Act did not apply,
 
-(h) a virtual asset service provider;
+(gi) a crypto-asset service provider;
+
+(h) ...
 
 "FIU Ireland" has the meaning assigned to it by section 40A(2);
 
@@ -216,10 +222,6 @@ Definitions.
 
 "property service provider" means a person who provides a property service within the meaning of the Property Services (Regulation) Act 2011;
 
-(a) the auction of property other than land;
-
-(b) the purchase or sale, by whatever means, of land; but does not include a service provided by a local authority in the course of the performance of its statutory functions under any statutory provision;
-
 "public body" means an FOI body within the meaning of the Freedom of Information Act 2014;
 
 ...
@@ -239,6 +241,8 @@ Definitions.
 (iv) disclosure requirements consistent with EU legislation made under the provisions mentioned in subparagraphs (i) to (iii);
 
 "Regulation (EU) 2016/794" means Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA;
+
+“Regulation (EU) 2023/1114” means Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937;
 
 “relevant independent legal professional” means a barrister, solicitor or notary who carries out any of the following services:
 
@@ -296,18 +300,8 @@ Definitions.
 
 (g) acting, or arranging for another person to act, as a nominee shareholder for a person other than a company whose securities are listed on a regulated market.
 
-"virtual asset" means a digital representation of value that can be digitally traded or transferred and can be used for payment or investment purposes but does not include digital representations of fiat currencies, securities or other financial assets;
+...
 
-"virtual asset service provider" means a person who by way of business carries out one or more of the following activities for, or on behalf of, another person:
-
-(a) exchange between virtual assets and fiat currencies;
-
-(b) exchange between one or more forms of virtual assets;
-
-(c) transfer of virtual assets, that is to say, conduct a transaction on behalf of another person that moves a virtual asset from one virtual asset address or account to another;
-
-(d) custodian wallet provider;
-
-(e) participation in, and provision of, financial services related to an issuer’s offer or sale of a virtual asset or both; but does not include a designated person that is not a financial or credit institution and that provides virtual asset services in an incidental manner and is subject to supervision by a national competent authority, other than the Bank;
+...
 
 (2) The Minister may prescribe a regulated financial market for the purposes of the definition of “regulated market” in subsection (1) only if the Minister is satisfied that the market is in a place other than an EEA State that imposes, on companies whose securities are admitted to trading on the market, disclosure requirements consistent with legislation of the European Communities.

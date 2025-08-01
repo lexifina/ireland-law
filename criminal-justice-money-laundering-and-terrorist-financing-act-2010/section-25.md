@@ -20,7 +20,7 @@ Meaning of “designated person”.
 
 (i) any person trading in goods, but only in respect of transactions involving payments, to the person or by the person in cash, of a total of at least €10,000 (whether in one transaction or in a series of transactions that are or appear to be linked to each other), ...
 
-(ia) a virtual asset service provider,
+(ia) ...
 
 (ib) a person trading or acting as an intermediary in the trade of works of art (including when carried out by an art gallery or an auction house) but only in respect of transactions of a total value of at least €10,000 (whether in one transaction or in a series of transactions that are or appear to be linked to each other),
 
@@ -28,7 +28,7 @@ Meaning of “designated person”.
 
 (j) any other person of a prescribed class.
 
-(1A) A relevant independent legal professional shall be a designated person only as respects the carrying out of the services specified in the definition of ‘relevant independent legal professional’ in section 24(1).
+(1A) A relevant independent legal professional shall be a designated person only as respects the carrying out of the services specified in the definition of "relevant independent legal professional" in section 24(1).
 
 (2) For the purposes of this Part, a person is to be treated as a designated person only in respect of those activities or services that render the person a designated person.
 
