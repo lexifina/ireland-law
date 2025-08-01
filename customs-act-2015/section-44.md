@@ -4,7 +4,7 @@ Definitions
 
 44. In this Part—
 
-‘Appeal Commissioner’ has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;
+"Appeal Commissioner" has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;
 
 “appellant” means a person who appeals to the Commissioners or to the Appeal Commissioners, as the case may be, under section 45 or 47;
 
