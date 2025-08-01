@@ -1,4 +1,4 @@
-F182[Limit on duration of licence.
+F197[Limit on duration of licence.
 
 92.—(1) Where, in the opinion of the Agency, the carrying on of the activity to which a licence or revised licence relates has not been substantially commenced within the period of 3 years beginning on the date on which the licence was granted or, as may be appropriate, the period referred to in paragraph (a) or (b) of subsection (2), and the Agency notifies the licensee of that opinion, then that licence shall cease to have effect on the giving of that notice.
 

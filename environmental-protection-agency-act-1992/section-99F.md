@@ -1,4 +1,4 @@
-F207[Application of other Acts.
+F222[Application of other Acts.
 
 99F.—(1) Notwithstanding section 34 of the Act of 2000, or any other provision of that Act, where a licence or revised licence under this Part has been granted or is or will be required in relation to an activity, a planning authority or An Bord Pleanála shall not, where it decides to grant a permission under section 34 or substitute consent, within the meaning of section 177A, of that Act in respect of any development comprising or for the purposes of the activity, subject the permission to conditions which are for the purposes of—
 

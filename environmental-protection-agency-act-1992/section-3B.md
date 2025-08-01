@@ -1,4 +1,4 @@
-F19[Power to amend First Schedule in certain circumstances.
+F21[Power to amend First Schedule in certain circumstances.
 
 3B.—The Minister may by regulations amend the First Schedule if either or both of the following conditions is or are satisfied—
 
