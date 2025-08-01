@@ -66,17 +66,25 @@ Controls of cash entering or leaving European Union through the State
 
 (11) At any time while cash is detained pursuant to subsection (8) or (9), a judge of the District Court may direct its release if satisfied, on an application made by the person from whom it was detained or a person on whose behalf it was being imported or exported, that there are no, or are no longer, any such grounds for its detention in accordance with this section.
 
-(12) A person who fails to –
+(12) A person who fails to—
 
-(a) make a correct and complete declaration as required by subsection 2(a), or
+(a) make a correct and complete declaration as required by subsection (2)(a), or
 
-(b) make cash available for control as required by subsection (2)(b), commits an offence and is liable, on summary conviction, to a fine of €5,000.
+(b) make cash available for control as required by subsection (2)(b), commits an offence and is liable—
 
-(13) A person who fails to –
+(i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €500,000, or imprisonment for a term not exceeding 3 years, or both.
+
+(13) A person who fails to—
 
 (a) make a correct and complete disclosure declaration within 30 days in accordance with a notice under subsection (3)(a), or
 
-(b) make unaccompanied cash available for control as required by subsection (3)(c), commits an offence and is liable, on summary conviction, to a fine of €5,000.
+(b) make unaccompanied cash available for control as required by subsection (3)(c), commits an offence and is liable—
+
+(i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months, or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €500,000 or imprisonment for a term not exceeding 3 years, or both.
 
 (14) Where a person is charged for an offence under subsection (12) or (13), cash detained from the person by virtue of this section may continue to be detained until the prosecution is finally determined.
 
