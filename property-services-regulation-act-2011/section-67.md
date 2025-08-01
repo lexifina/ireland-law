@@ -62,7 +62,7 @@ Protection for persons reporting improper conduct, etc.
 
 (a) a dismissal within the meaning of the Unfair Dismissals Acts 1977 to 2007, and
 
-(b) a dismissal wholly or partly for or connected with the purpose of the avoidance of a fixed-term contract being deemed to be a contract of indefinite duration under section 9(3) of the Protection of Employees (Fixed-Term Work) Act 2003.
+(b) a dismissal wholly or partly for or connected with the purpose of the avoidance of a fixed-term contract being deemed to be a contract of indefinite duration under section 9(3) of the Protection of Employees (Fixed- Term Work) Act 2003.
 
 (13) Paragraphs (a), (c), (d), (e) and (f) of the definition of “penalisation” in subsection (14) shall not be construed in a manner which prevents an employer from—
 

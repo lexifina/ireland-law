@@ -218,7 +218,7 @@ Interpretation.
 
 (b) any combination of any of the sanctions specified in paragraph (a);
 
-“multi-unit development” means an apartment complex, housing estate, or any other complex or estate containing residential units within the meaning of the Multi- Unit Developments Act 2011;
+“multi-unit development” means an apartment complex, housing estate, or any other complex or estate containing residential units within the meaning of the Multi-Unit Developments Act 2011;
 
 “Official Assignee” has the meaning assigned to it by section 3 of the Bankruptcy Act 1988;
 
