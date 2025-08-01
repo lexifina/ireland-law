@@ -14,4 +14,4 @@ Customs control at customs ports
 
 (3) A person who commits an offence under subsection (2) is liable, on summary conviction, to a fine of €5,000 or imprisonment for a term not exceeding 12 months or both.
 
-(4) In this section, ‘ferry’ means a vessel with facilities that enable vehicles to be driven on board the vessel and to be driven off it.
+(4) In this section, "ferry" means a vessel with facilities that enable vehicles to be driven on board the vessel and to be driven off it.

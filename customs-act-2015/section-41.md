@@ -40,10 +40,10 @@ Naples II Convention and CIS Decision
 
 (15) In this section—
 
-“Act of 2001” means Customs and Excise (Mutual Assistance) Act 2001;
+"Act of 2001" means Customs and Excise (Mutual Assistance) Act 2001;
 
-‘CIS Decision’ means Council Decision 2009/917/JHA of 30 November 2009 on the use of information technology for customs purposes;
+"CIS Decision" means Council Decision 2009/917/JHA of 30 November 2009 on the use of information technology for customs purposes;
 
-‘Customs Information System (CIS)’ means the joint automated system for customs purposes established by Article 1 of the CIS Decision;
+"Customs Information System (CIS)" means the joint automated system for customs purposes established by Article 1 of the CIS Decision;
 
-‘Naples II Convention” means the Customs Co-operation Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on mutual assistance and co-operation between customs administrations, done at Brussels on 18 December 1997.
+"Naples II Convention" means the Customs Co-operation Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on mutual assistance and co-operation between customs administrations, done at Brussels on 18 December 1997.
