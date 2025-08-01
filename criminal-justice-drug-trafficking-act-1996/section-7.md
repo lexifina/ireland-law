@@ -1,0 +1,3 @@
+Inferences from failure of accused to mention particular facts. (Repealed)
+
+7.—...
