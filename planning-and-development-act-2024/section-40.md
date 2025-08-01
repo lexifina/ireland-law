@@ -1,0 +1,89 @@
+Power of Minister to issue direction
+
+40. (1) The Minister may, subject to this section, issue a direction to a regional assembly requiring—
+
+(a) a regional spatial and economic strategy to be amended in the manner specified in the direction, and
+
+(b) the regional assembly to implement the amendment referred to in paragraph (a) and publish the regional spatial and economic strategy as so amended.
+
+(2) The Minister may only issue a direction under subsection (1) where the Office of the Planning Regulator has issued a draft direction under subsection (1) of section 39 and made a recommendation under subsection (8) of that section.
+
+(3) The Minister may only issue a direction under subsection (1) where he or she is satisfied that one or more of the criteria in paragraphs (a) to (d) of subsection (8) of section 38 is met.
+
+(4) Within 8 weeks of receipt of the recommendation and report of the Office of the Planning Regulator in accordance with subsections (8) and (11) of section 39, the Minister shall—
+
+(a) consider the recommendation and report,
+
+(b) consider any summary of submissions received by the Office of the Planning Regulator in relation to the draft direction issued under subsection (1) of section 39,
+
+(c) make a decision, for stated reasons, as to whether to accept the recommendation of the Office of the Planning Regulator, and
+
+(d) where the decision is to issue a direction under subsection (1)—
+
+(i) identify in the stated reasons provided under paragraph (c) which of the criteria in paragraphs (a) to (d) of subsection (8) of section 38 the Minister considers to be met, and
+
+(ii) issue the direction in accordance with subsection (5).
+
+(5) The Minister may issue the direction under subsection (1) to the regional assembly—
+
+(a) in the terms of the draft direction recommended by the Office of the Planning Regulator under subsection (8) of section 39,
+
+(b) in the terms referred to in paragraph (a) with such minor modifications as the Minister considers appropriate, or
+
+(c) subject to subsection (8), in the terms referred to in paragraph (a) with such other modifications as the Minister considers appropriate.
+
+(6) For the purposes of paragraph (b) of subsection (5), a modification shall be deemed to be minor where it is not likely to have significant effects on the environment or on any European site.
+
+(7) Prior to issuing a direction under subsection (1), the Minister shall consider any strategic environmental assessment or appropriate assessment included in the Office of the Planning Regulator’s report to the Minister in accordance with paragraph (g) of subsection (11) of section 39 and may adopt such assessment or make his or her own assessment and determination in respect of the direction.
+
+(8) Before issuing a direction under paragraph (c) of subsection (5), the Minister shall request the Office of the Planning Regulator to—
+
+(a) conduct a screening assessment in accordance with the Strategic Environmental Assessment Regulations to determine whether the modifications, if incorporated into the direction and issued and complied with, would be likely to have significant effects on the environment, and
+
+(b) conduct a screening assessment in accordance with Part 6 to determine whether the modifications, if incorporated into the direction and issued and complied with, would be likely to have significant effects on any European site.
+
+(9) (a) Where it is determined under paragraph (a) of subsection (8) that a strategic environmental assessment is required, the Office of the Planning Regulator shall prepare an environmental report and proceed to conduct an assessment in accordance with the Strategic Environmental Assessment Regulations.
+
+(b) Where it is determined under paragraph (b) of subsection (8) that an appropriate assessment is required, the Office of the Planning Regulator shall prepare a Natura impact report and proceed to conduct an assessment in accordance with Part 6.
+
+(c) The Office of the Planning Regulator shall report the outcome of any assessment carried out under paragraph (a) or (b) to the Minister.
+
+(10) Where the Minister decides, whether or not in accordance with a recommendation made by the Office of the Planning Regulator under subsection (8) of section 39, not to issue a direction under subsection (1), the Minister may request the Office of the Planning Regulator to carry out a further assessment under subsection (2) of section 38.
+
+(11) A copy of a direction issued under subsection (1), together with a statement of reasons for making the direction, shall, within 5 working days beginning on the date on which the direction is issued—
+
+(a) be provided to the regional assembly concerned and the Office of the Planning Regulator,
+
+(b) be provided to all planning authorities within the region of the regional assembly concerned,
+
+(c) be provided to the Commission,
+
+(d) be published on a website maintained by or on behalf of the Department of Housing, Local Government and Heritage, and
+
+(e) be laid before each House of the Oireachtas by the Minister.
+
+(12) Within 5 working days of receipt of a direction in accordance with subsection (11), the Office of the Planning Regulator and the regional assembly concerned shall each publish the direction on a website maintained by or on behalf of the Office of the Planning Regulator and the regional assembly.
+
+(13) Where the Minister decides not to issue a direction under subsection (1), he or she shall—
+
+(a) provide a statement of reasons for deciding not to issue a direction to the regional assembly concerned and the Office of the Planning Regulator,
+
+(b) give notice to the Commission of the decision not to issue a direction,
+
+(c) cause a copy of the statement referred to in paragraph (a) to be laid before each House of the Oireachtas, and
+
+(d) as soon as practicable, make the statement referred to in paragraph (a) available on a website maintained by or on behalf of the Department of Housing, Local Government and Heritage.
+
+(14) Where the Minister issues a direction under subsection (1), the regional assembly shall, within 10 working days, comply with that direction and the director of the regional assembly or the members of the regional assembly shall not exercise any function conferred on them by or under this Act in a manner that contravenes the direction.
+
+(15) A direction issued by the Minister under subsection (1) shall have immediate effect and its terms shall be deemed to be incorporated into the regional spatial and economic strategy, or, if appropriate, to constitute the regional spatial and economic strategy, pending the implementation and publication by the regional assembly, in accordance with the direction, of the regional spatial and economic strategy as amended by that direction.
+
+(16) Where, in any application for judicial review of a direction made pursuant to this section in accordance with the Rules of the Superior Courts (S.I. No. 15 of 1986) and Part 9, the Court concludes that the Minister was not entitled to form the opinion that one or more of the criteria in paragraphs (a) to (d) of subsection (8) of section 38 is met, this shall not warrant the quashing of the direction where—
+
+(a) the Minister was also of the opinion that one or more of the other criteria in paragraphs (a) to (d) of subsection (8) of section 38 is met, and
+
+(b) the Court finds that the Minister was entitled to form such an opinion.
+
+(17) Where two or more regional assemblies jointly make a regional spatial and economic strategy for the combined regions of those regional assemblies or part of the combined regions, or a revision of such a strategy, a reference in sections 38 and 39 and this section to the regional assembly shall be construed as referring to each such regional assembly.
+
+(18) The Minister may prescribe a period or periods that shall be disregarded for the purposes of reckoning any period referenced in this section.

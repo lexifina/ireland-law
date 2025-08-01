@@ -1,0 +1,11 @@
+Obligation to give information to planning authority, Commission or Maritime Area Regulatory Authority
+
+392. (1) A planning authority, the Commission or the Maritime Area Regulatory Authority may, for any purpose arising in relation to its functions under this Act or any other enactment, serve notice in writing on—
+
+(a) in the case of the planning authority or the Commission, any person the planning authority or the Commission reasonably believes to have any legal or beneficial estate, right or interest in, or to be occupying, any land or structure on the land, or
+
+(b) in the case of the Maritime Area Regulatory Authority, any person the Maritime Area Regulatory Authority reasonably believes to have any legal or beneficial estate, right or interest in, or to be occupying, any maritime site or structure in the maritime site, requiring him or her to state in writing to the planning authority, the Commission or the Maritime Area Regulatory Authority, as the case may be, (other than in so far as it would tend to incriminate him or her), within a specified period (which shall be not less than 2 weeks from the date of the notice), whether he or she holds any legal or beneficial estate, right or interest in, or occupies, the land, maritime site or structure, and where he or she does so, particulars of the estate, right, interest, or occupancy and the name and address (so far as they are known to him or her) of every other person who to his or her knowledge has any legal or beneficial estate, right or interest in, or in respect of, or occupies, the land, maritime site or structure.
+
+(2) A person who is required under this section to state in writing any matter to a planning authority, the Commission or the Maritime Area Regulatory Authority, and fails so to state the matter within the time specified under this section or, when so stating any such matter, makes any statement in writing which is to his or her knowledge false or misleading in a material respect, shall be guilty of an offence.
+
+(3) A notice issued under section 8 of the Act of 2000 and not complied with before the repeal of that section by section 6, shall be treated as if it were a notice under this section except where proceedings for an offence under subsection (2) of the said section 8 in relation to the notice were initiated before such repeal.

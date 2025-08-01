@@ -1,0 +1,3 @@
+Chief executive report on adjustment of housing development strategy and housing strategy
+
+57. The chief executive of a planning authority shall, where he or she considers that there has been a change in the housing market or housing need, or both, as the case may be, that significantly affects the housing development strategy or housing strategy, or both, as the case may be, give a report on the matter to the members of the planning authority and, where he or she considers it necessary, the chief executive may recommend that the housing development strategy or housing strategy, or both, as the case may be, be adjusted, and that the development plan be varied accordingly.

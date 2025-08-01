@@ -1,0 +1,3 @@
+Draft development scheme which includes residential development
+
+608. Where a draft development scheme includes residential development the planning authority shall ensure that it is consistent with the housing strategy ....
