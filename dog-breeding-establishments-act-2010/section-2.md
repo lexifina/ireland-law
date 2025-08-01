@@ -48,7 +48,7 @@ Definitions.
 
 “improvement notice” has the meaning assigned to it by section 20;
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+"local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
 “Minister” means the Minister for the Environment, Heritage and Local Government;
 
