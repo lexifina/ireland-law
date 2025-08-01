@@ -46,7 +46,7 @@ Bank may publish its decisions.
 
 (9) This section does not apply where Regulation 126 of the European Union (Markets in Financial Instruments) Regulations 2017 applies.
 
-(10) This section does not apply where Regulation 13 of the European Union (Information Accompanying Transfers of Funds) Regulations 2017 applies.
+(10) This section does not apply where Regulation 13 of the European Union (Information Accompanying Transfers of Funds) Regulations 2025 (S.I. No. 310 of 2025) applies.
 
 (11) This section does not apply where Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 applies.
 
@@ -73,3 +73,5 @@ Bank may publish its decisions.
 (22) This section does not apply where Article 54 of Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 applies.
 
 (23) This section does not apply where Article 52 of Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 applies.
+
+OJ No. L. 347, 20.10.2020, p. 1. OJ No. L. 198, 25.7.2019, p.1.
