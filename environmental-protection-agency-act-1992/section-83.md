@@ -1,4 +1,4 @@
-F97[Determination of applications for licences.
+F106[Determination of applications for licences.
 
 83.—(1) Where an application is made to the Agency in the prescribed manner for a licence under this Part it may, subject to section 99A and to compliance with any regulations under section 89, grant the licence subject to such conditions as it considers appropriate or refuse the application.
 
@@ -154,8 +154,6 @@ F97[Determination of applications for licences.
 
 (3) In considering an application for a licence or a revised licence, or the review of a licence or a revised licence under this Part, the Agency shall have regard to—
 
-## 7 OJ No. L 206, 22.7.1992, p. 7
-
 (a) any relevant air quality management plan under section 46 of the Air Pollution Act 1987, or water quality management plan under section 15 of the Local Government (Water Pollution) Act 1977, or waste management plan,
 
 (b) any relevant noise regulations under section 106,
@@ -171,6 +169,8 @@ F97[Determination of applications for licences.
 (iii) any further information or particulars submitted in relation to the environmental impact assessment report or the environmental report in compliance with a notice given under regulations under section 89,
 
 (iv) where appropriate, the comments of other Member States of the European Communities in relation to the effects on the environment of the proposed activity, and
+
+## 7 OJ No. L 206, 22.7.1992, p. 7
 
 (v) where appropriate, in the case of an industrial emissions directive activity, in accordance with Article 26 of the Industrial Emissions Directive, any submissions or observations made to the Agency resulting from bilateral consultations with another Member State of the European Union, insofar as the report, submissions, comments, observations, information or particulars relate to the effects on the environment of emissions from the activity,
 
@@ -218,11 +218,7 @@ F97[Determination of applications for licences.
 
 (x) necessary measures will be taken upon the permanent cessation of the activity (including such a cessation resulting from the abandonment of the activity) to avoid any risk of environmental pollution and return the site of the activity to a satisfactory state, and
 
-(xa) in the case of an industrial emissions directive activity, necessary measures referred to in
-
-## subparagraph (x)
-
-including measures of appropriate duration shall be taken in accordance with section 86B,
+(xa) in the case of an industrial emissions directive activity, necessary measures referred to in subparagraph (x) including measures of appropriate duration shall be taken in accordance with section 86B,
 
 (xi) the applicant or licensee or transferee, as the case may be, is a fit and proper person to hold a licence, and, where appropriate, the Agency shall attach conditions relating to the matters specified in the foregoing subparagraphs to the licence or revised licence, and
 
