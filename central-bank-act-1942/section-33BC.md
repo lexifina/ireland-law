@@ -73,5 +73,3 @@ Bank may publish its decisions.
 (22) This section does not apply where Article 54 of Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 applies.
 
 (23) This section does not apply where Article 52 of Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 applies.
-
-OJ No. L. 347, 20.10.2020, p. 1. OJ No. L. 198, 25.7.2019, p.1.
