@@ -90,6 +90,8 @@ Disclosure of information.
 
 (ii) which it believes it is unable, due to the provisions of subsection (1A) or (5B), to disclose to that authority, and
 
+O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
+
 (iii) in respect of which it is not satisfied that the information has been disclosed to that authority by the directors, or those charged with the direction, of the supervised entity, then, the Bank shall issue to the directors or others duly charged with the direction of the supervised entity a document, to be known as a Disclosure Issue Notice, and the notice shall—
 
 (I) specify the name of the authority concerned, and
@@ -111,8 +113,6 @@ Disclosure of information.
 (d) to an authority in a jurisdiction other than that of the State duly authorised to exercise functions similar to any one or more of the statutory functions of the Bank and which has obligations in respect of nondisclosure of information similar to the obligations imposed on the Bank under this section, or
 
 (e) to any institution of the European Community because of the State’s membership of the Community, or to the European Central Bank for the purpose of complying with the Rome Treaty or the ESCB Statute, or
-
-O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
 
 (f) to an approved stock exchange, within the meaning of the Stock Exchange Act 1995—
 
@@ -288,9 +288,9 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 
 (c) to the European Banking Authority, in its capacity of contributing to the consistent and coherent functioning of supervising mechanisms (as referred to in point (a) of Article 1(5) of Regulation (EU) No 1093/2010 of 24 November 2010),
 
-(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of
+(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection
 
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 28.2.2014, p. 34. the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 28.2.2014, p. 34. of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
 
 (e) to authorities entrusted with the public duty of supervising other financial sector entities and the authorities responsible for the supervision of financial markets,
 
@@ -408,7 +408,9 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 2
 
 (q) ...
 
-(r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
+(r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision
+
+OJ No. L. 176, 27.06.2013, p. 338. of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
 
 (i) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010,
 
@@ -418,9 +420,7 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 2
 
 (iv) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU, and
 
-(v) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted
-
-OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253. entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures;
+(v) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures;
 
 (s) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories,
 
@@ -442,6 +442,8 @@ OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173
 
 (ab) Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
 
+OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
+
 (ac) Regulation (EU) No. 2016/1011 of the European Parliament and of the Council of 8 June 2016;
 
 (ad) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution.
@@ -453,8 +455,6 @@ OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173
 (ag) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017,
 
 (ah) Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017,
-
-OJ, No L171, 29.6.2016, p. 1
 
 (ai) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
 
@@ -475,3 +475,7 @@ OJ, No L171, 29.6.2016, p. 1
 (aq) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023;
 
 "supervised entity" means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
+
+OJ, No L171, 29.6.2016, p. 1
+
+OJ No. L. 314, 5.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 1.
