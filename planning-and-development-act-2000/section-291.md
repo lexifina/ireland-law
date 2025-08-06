@@ -50,7 +50,9 @@ Application to Board
 
 (B) a copy of any such environmental impact assessment report, and
 
-(C) a copy of any such Natura impact statement, has been published on the internet website created by him or her for the purpose of the application, and may be inspected free of charge or purchased on payment of such fee (which shall not be more than the reasonable cost of making such copy or copies) as may be specified in the notice at such times and places and during such period (which shall not be less than eight weeks) as is specified in the notice,
+(C) a copy of any such Natura impact statement, has been published on the internet website created by him or her for the purpose of the application, and may be inspected free of charge or purchased on payment of such fee (which shall not be more than the reasonable cost of making such copy or copies) as may be specified in the notice at such times and places and during such period (which shall not be less than eight weeks) as is specified in thenotice, and
+
+(VII) where applicable, that the application is subject to section 295A,
 
 (ii) inviting the making, during the period referred to in clause (VI) of subparagraph (i), of submissions and observations to the Board relating to—
 

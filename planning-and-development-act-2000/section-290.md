@@ -1,6 +1,6 @@
 Opinion
 
-290.—(1) A prospective applicant may, in relation to proposed development to which this Chapter applies, request the Board to give to him or her an opinion in writing on the scope of the information and the extent of detail that should be set out in an environmental impact assessment report.
+290.—(1) A prospective applicant may, or, in the case of an application for renewable energy development or repowering development, shall in relation to proposed development to which this Chapter applies, request the Board to give to him or her an opinion in writing on the scope of the information and the extent of detail that should be set out in an environmental impact assessment report.
 
 (2) Upon receipt by the Board of a request referred to in subsection (1), the Board shall—
 
@@ -19,6 +19,8 @@ Opinion
 (a) take account of an opinion provided to the applicant concerned in accordance with this section, and
 
 (b) contain such information (including such information as is specified in the said opinion) as is reasonably necessary to enable the Board to come to a reasoned conclusion with regard to the likely effects of the proposed development concerned on the environment.
+
+(4A) Where the proposed development referred to in subsection (1) is renewable energy development or repowering development, and an opinion is given under this section, An Coimisiún Pleanála shall not subsequently extend the scope of the information and the extent of the detail that should be set out in the environmental impact assessment report.
 
 (5) The provision of an opinion under this section shall not prejudice the performance by the Board of any of its functions under this Act.
 

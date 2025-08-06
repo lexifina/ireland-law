@@ -1,6 +1,6 @@
 Period within which decision under section 293 to be made
 
-295.—(1) Subject to this section, a decision under section 293 in relation to an application under section 291 shall be made not later than—
+295.—(1) Subject to this section and sections 295A and 295B, a decision under section 293 in relation to an application under section 291 shall be made not later than—
 
 (a) 18 weeks from—
 
@@ -12,7 +12,7 @@ Period within which decision under section 293 to be made
 
 (b) the expiration of such other period as the Minister may prescribe either generally or with respect to any particular class of application.
 
-(2) Where the Board is of the opinion that it would not be possible or appropriate, by reason of the existence of special circumstances in relation to the application concerned, for the Board to comply with subsection (1), the Board shall, by notice in writing served on—
+(2) Subject to sections 295A and 295B, where the Board is of the opinion that it would not be possible or appropriate, by reason of the existence of special circumstances in relation to the application concerned, for the Board to comply with subsection (1), the Board shall, by notice in writing served on—
 
 (a) the applicant for permission,
 

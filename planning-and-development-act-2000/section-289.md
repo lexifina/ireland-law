@@ -1,6 +1,6 @@
 Screening for environmental impact assessment in respect of proposed development
 
-289.—(1) Section 176A shall apply to proposed development to which this Chapter applies as if—
+289.—(1)Section 176A shall apply to proposed development to which this Chapter applies as if—
 
 (a) references to a planning authority, the planning authority (other than in subparagraph (i) of paragraph (b) of subsection (4)) or the authority were construed as references to the Board,
 
@@ -32,6 +32,10 @@ Screening for environmental impact assessment in respect of proposed development
 
 (a) references to a planning authority, the planning authority or the authority were construed as references to the Board,
 
+(aa) the following subsection were inserted after subsection (2A) of section 176B:
+
+“(2B) Where the proposed development is to reinforce grid infrastructure referred to in Article 15e(5) of the Renewable Energy Directive, or is repowering development, to which Chapter III of Part XXI applies, screening for environmental impact assessment in relation to the proposed development shall be limited to the potential impact of the proposed development arising from the change or extension compared to the original development.”.
+
 (b) paragraph (ii) of subsection (4) was deleted, and
 
 (c) in subsection (5)—
@@ -42,4 +46,6 @@ Screening for environmental impact assessment in respect of proposed development
 
 (ii) paragraph (i) was deleted.
 
-(3) Section 176C shall not apply to proposed development to which this Chapter applies.
+(3) Section
+
+176C shall not apply to proposed development to which this Chapter applies.
