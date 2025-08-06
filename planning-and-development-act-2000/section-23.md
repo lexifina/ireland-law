@@ -4,7 +4,7 @@ Content and objectives of regional spatial and economic strategy.
 
 (b) The planning and economic framework referred to in paragraph (a) shall consider the future development of the region for which the strategy is prepared for a period of not less than 12 years and not more than 20 years.
 
-(2) The regional spatial and economic strategy shall, for the whole of the region to which the strategy relates and in accordance with the principles of proper planning and sustainable development and the economic policies and objectives of the Government, address the following matters:
+(2) The regional spatial and economic strategy shall, for the whole of the region to 2which the strategy relates and in accordance with the principles of proper planning and sustainable development and the economic policies and objectives of the Government, address the following matters:
 
 (a) any policies or objectives for the time being of the Government or any Minister of the Government, or any policies contained in the National Planning Framework in relation to national and regional population targets;
 
