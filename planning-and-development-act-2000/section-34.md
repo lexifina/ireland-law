@@ -6,7 +6,7 @@ Permission for development.
 
 (b) all requirements of the regulations are complied with, the authority may decide to grant the permission subject to or without conditions, or to refuse it.
 
-(1A) Where an application to a planning authority is required to have been accompanied by an environmental impact assessment report:
+(1A) Where an application to a planning authority is required to have been accompanied by anenvironmental impact assessment report:
 
 (a) The planning authority shall cause to be published in one or more newspapers circulated in the area and/or by electronic means, a notice informing the public of such a decision of the planning authority.
 
@@ -32,7 +32,7 @@ Permission for development.
 
 (iv) where relevant, the policy of the Government, the Minister or any other Minister of the Government,
 
-(v) the matters referred to in subsection (4), ...
+(v) the matters referred to in subsection (4),...
 
 (va) previous developments by the applicant which have not been satisfactorily completed,
 
@@ -42,7 +42,9 @@ Permission for development.
 
 (aa) When making its decision in relation to an application under this section, the planning authority shall apply, where relevant, specific planning policy requirements of guidelines issued by the Minister under section 28.
 
-(b) In considering its decision in accordance with paragraph (a), a planning authority shall consult with any other planning authority where it considers that a particular decision by it may have a significant effect on the area of that authority, and the authority shall have regard to the views of that other authority and, without prejudice to the foregoing, it shall have regard to the effect a particular decision by it may have on any area outside its area (including areas outside the State).
+(b) In considering its decision in accordance with paragraph
+
+(a), a planning authority shall consult with any other planning authority where it considers that a particular decision by it may have a significant effect on the area of that authority, and the authority shall have regard to the views of that other authority and, without prejudice to the foregoing, it shall have regard to the effect a particular decision by it may have on any area outside its area (including areas outside the State).
 
 (ba) Where specific planning policy requirements of guidelines referred to in subsection (2)(aa) differ from the provisions of the development plan of a planning authority, then those requirements shall, to the extent that they so differ, apply instead of the provisions of the development plan.
 
@@ -128,7 +130,7 @@ Permission for development.
 
 (b) the applicant to notify the planning authority in writing, by such date prior to the commencement of the development, or prior to the commencement of the part of the development to which the detail relates, as the Minister may prescribe, of the actual detail of the development.
 
-(5) The conditions under subsection (1) may provide that points of detail relating to a grant of permission be agreed between the planning authority and the person carrying out the development and, accordingly—
+(5) The conditions undersubsection (1) may provide that points of detail relating to a grant of permission be agreed between the planning authority and the person carrying out the development and, accordingly—
 
 (a) where for that purpose that person has submitted to the planning authority concerned such points of detail, then that authority shall, within 8 weeks of those points being so submitted, or such longer period as may be agreed between them in writing, either—
 
@@ -144,7 +146,7 @@ Permission for development.
 
 (6) (a) In a case in which the development concerned would contravene materially the development plan or local area plan, a planning authority may, notwithstanding any other provision of this Act, decide to grant permission under this section, provided that the following requirements are complied with before the decision is made, namely—
 
-(i) notice in the prescribed form of the intention of the planning authority to consider deciding to grant the permission shall be published in at least one daily newspaper circulating in its area and the notice shall specifically state which objective of the development plan or local area plan, as the case may be, would be materially contravened by granting this permission,
+(i) notice in the prescribed form of the intention of the planning authority to consider deciding to grant the permission shall be published in at least one daily newspaper circulating in its area and the notice shall specifically state which objective of the development planor local area plan, as the case may be, would be materially contravened by granting this permission,
 
 (ii) copies of the notice shall be given to each of the following—
 
@@ -156,7 +158,7 @@ Permission for development.
 
 (III) any person who has made a submission or observation in writing in relation to the development to which the application relates,
 
-(iii) any submission or observation as regards the making of a decision to grant permission and which is received by the planning authority not later than 4 weeks after the first publication of the notice shall be duly considered by the authority
+(iii) any submission or observation as regards the making of a decision to grant permission and which is received by the planning authority not later than 4 weeks after the first publication of the notice shall be duly considered by theauthority
 
 (iiia) not later than 6 weeks from the publication of the notice under subparagraph (i), the chief executive shall prepare a report for the members of the planning authority—
 
@@ -170,17 +172,19 @@ Permission for development.
 
 (b) It shall be necessary for the passing of a resolution referred to in paragraph (a) that the number of the members of the planning authority voting in favour of the resolution is not less than three-quarters of the total number of the members of the planning authority or where the number so obtained is not a whole number, the whole number next below the number so obtained shall be sufficient, and the requirement of this paragraph is in addition to and not in substitution for any other requirement applying in relation to such a resolution.
 
-(ba) Where a resolution referred to in paragraph (a) has been passed by a planning authority in accordance with paragraph (b), the planning authority shall—
+(ba) Where a resolution referred to in paragraph (a) has been passed by a planning authority in accordance with paragraph
+
+(b), the planning authority shall—
 
 (i) send to the regional assembly for the area and the Office of the Planning Regulator a copy of the notice under paragraph (a) that relates to the resolution, and
 
 (ii) at the same time, inform the regional assembly for the area and the Office of the Planning Regulator in writing that the resolution was passed.
 
-(c) ...
+(c)...
 
-(d) ...
+(d)...
 
-(7) ...
+(7)...
 
 (8) (a) Subject to paragraphs (b), (c), (d) and (e), where—
 
@@ -210,11 +214,11 @@ Permission for development.
 
 (ca) Where an environmental impact assessment report is submitted to a planning authority under section 172(1C), or where a Natura impact statement is submitted to a planning authority under section 177T (5), the planning authority shall make its decision on the application as follows—
 
-(i) within 8 weeks commencing on the date on which the environmental impact assessment report or Natura impact statement, as the case may be, and a copy of the relevant public notice required in accordance with regulations under this Act, is received by the planning authority, or
+(i) within 8 weeks commencing on the date on which theenvironmental impact assessment report or Natura impact statement, as the case may be, and a copy of the relevant public notice required in accordance with regulations under this Act, is received by the planning authority, or
 
 (ii) where a planning authority, within 8 weeks of the receipt of an environmental impact assessment report submitted under section 172(1C) or a Natura impact statement under section 177T(5), serves notice in accordance with regulations under this Act requiring the applicant to give to the authority further information in relation to the environmental impact assessment report or Natura impact statement, as the case may be—
 
-(I) within 8 weeks, in the case of further information in relation to the environmental impact assessment report, and within 4 weeks, in the case of further information in relation to the Natura impact statement, of the notice being complied with, or
+(I)within 8 weeks, in the case of further information in relation to the environmental impact assessment report, and within 4 weeks, in the case of further information in relation to the Natura impact statement, of the notice being complied with, or
 
 (II) if, within the period specified in clause (I), in relation to further information given, the planning authority considers that it contains significant additional data which requires the publication of a notice by the applicant in accordance with regulations under this Act, and gives notice accordingly to the applicant, within 8 weeks, in the case of such further information given in relation to the environmental impact assessment report, and within 4 weeks, in the case of such further information given in relation to the Natura impact statement, beginning on the day on which notice of that publication is given by the applicant to the planning authority.
 
@@ -234,7 +238,11 @@ Permission for development.
 
 (iv) Any person, who has made submissions or observations in writing in relation to the planning application to the planning authority, may at any time within the period of 4 weeks after the expiry of the period of 12 weeks referred to in subparagraph (iii), appeal the deemed decision.
 
-(v) Subparagraphs (i) to (iv) shall not apply where there is a requirement under Part X or Part XAB to carry out an environmental impact assessment, a determination whether an environmental impact assessment is required, or an appropriate assessment, in respect of the development relating to which the authority has failed to make a decision.
+(v) Subparagraphs (i) to (iv) shall not apply where there is a requirement under Part
+
+X or
+
+Part XAB to carry out an environmental impact assessment, a determination whether an environmental impact assessment is required, or an appropriate assessment, in respect of the development relating to which the authority has failed to make a decision.
 
 (vi) Where the planning authority has failed to make a decision in relation to development where an environmental impact assessment, a determination whether an environmental impact assessment is required, or an appropriate assessment is required within the first period and becomes aware, whether through notification by the applicant or otherwise, that it has so failed—
 
@@ -260,7 +268,9 @@ Permission for development.
 
 (viii) In this paragraph, "appropriate sum" means a sum which is equal to the lesser amount of 3 times the prescribed fee paid by the applicant to the planning authority in respect of his or her application for permission or €10,000.
 
-(9) Where, within the period of 8 weeks beginning on the date of receipt by the planning authority of the application, the applicant for a permission under this section gives to the planning authority in writing his or her consent to the extension of the period for making a decision under subsection (8), the period for making the decision shall be extended for the period consented to by the applicant.
+(g) This subsection is subject to sections 34D, 34E, 34F, 34G and 34H.
+
+(9) Subject to sections 34E(2), 34F(2), 34G(3) and 34H(7) where, within the period of 8 weeks beginning on the date of receipt by the planning authority of the application, the applicant for a permission under this section gives to the planning authority in writing his or her consent to the extension of the period for making a decision under subsection (8), the period for making the decision shall be extended for the period consented to by the applicant.
 
 (10) (a) Subject to paragraph (c) and without prejudice to section 172(1I), a decision given under this section or section 37 and the notification of the decision shall state the main reasons and considerations on which the decision is based, and where conditions are imposed in relation to the grant of any permission the decision shall state the main reasons for the imposition of any such conditions, provided that where a condition imposed is a condition described in subsection (4), a reference to the paragraph of subsection (4) in which the condition is described shall be sufficient to meet the requirements of this subsection.
 
