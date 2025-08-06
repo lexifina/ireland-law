@@ -10,7 +10,7 @@ Application to Board
 
 (i) stating that—
 
-(I) the person proposes to make an application to the Board for permission for the proposed development,
+(I) the person proposes to make an application to the Board for permission for the proposed development and, where applicable, that the application is subject to section 37JA,
 
 (II) an environmental impact assessment report has been prepared in respect of the proposed development, and
 

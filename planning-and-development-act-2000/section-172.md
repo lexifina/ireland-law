@@ -38,7 +38,11 @@ Requirement for environmental impact statement.
 
 (i) a proposal to carry out one of the following:
 
-(I) development to which Part III applies;
+(I) development to which Part III applies, other than —
+
+(A) repowering development in respect of a solar installation that does not entail the use of additional space and that complies with the conditions relating to environmental mitigation measures to which permission for the original development is subject, and
+
+(B) relevant solar energy development;
 
 (II) development that may be carried out under Part IX;
 
@@ -50,7 +54,7 @@ Requirement for environmental impact statement.
 
 (VI) development under section 51 of the Roads Act 1993; ...
 
-(VII) development to which Chapter III of Part XXI applies; and
+(VII) development to which Chapter III of Part XXI applies, other than repowering development in respect of a solar installation that does not entail the use of additional space and that complies with the conditions relating to environmental mitigation measures to which permission for the original development is subject; and
 
 (ii) notwithstanding that development has been carried out, development in relation to which an application for substitute consent is required under Part XA;
 
@@ -99,6 +103,8 @@ Requirement for environmental impact statement.
 (b) The planning authority or the Board, as the case may be, shall coordinate the 2 assessments.
 
 (1H) In carrying out an environmental impact assessment under this section the planning authority or the Board, as the case may be, shall ensure it has, or has access as necessary to, sufficient expertise to examine the environmental impact assessment report to ensure its completeness and quality and may have regard to and adopt in whole or in part any reports prepared by its officials or by consultants, experts or other advisers.
+
+(1HA) Where the proposed development is to reinforce grid infrastructure referred to in Article 15e(5) of the Renewable Energy Directive or is repowering development, an environmental impact assessment carried out under this section shall be limited to the potential impact of the proposed development arising from the change or extension compared to the original development.
 
 (1I)(a) Where the planning authority or the Board, as the case may be, decides to grant consent for the proposed development, it shall—
 

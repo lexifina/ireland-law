@@ -76,6 +76,8 @@ Interpretation.
 
 “chairperson” means the chairperson of the Board,
 
+O.J.No. 20, 26.1.2010 p 7-25
+
 "chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
 
 "coastal planning authority" has the meaning assigned to it by the Maritime Area Planning Act 2021;
@@ -84,9 +86,9 @@ Interpretation.
 
 “company”, except in section 149(5), means a company within the meaning of section 2 of the Companies Act, 1963, or a company incorporated outside the State;
 
-"confirmation notice" means the confirmation notice sent pursuant to article 97B(2) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001) following the entering onto the EIA portal of the information referred to in article 97A of those Regulations to which that notice relates;
+“co-located energy storage” means an energy storage facility combined with a facility producing renewable energy and connected to the same grid access point;
 
-O.J.No. 20, 26.1.2010 p 7-25
+"confirmation notice" means the confirmation notice sent pursuant to article 97B(2) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001) following the entering onto the EIA portal of the information referred to in article 97A of those Regulations to which that notice relates;
 
 "core strategy" shall be construed in accordance with section 10 (inserted by section 7 of the Planning and Development (Amendment) Act 2010);
 
@@ -146,6 +148,10 @@ O.J.No. 20, 26.1.2010 p 7-25
 
 "Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
 
+O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
+
+O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
+
 “house” means a building or part of a building which is being or has been occupied as a dwelling or was provided for use as a dwelling but has not been occupied, and where appropriate, includes a building which was designed for use as 2 or more dwellings or a flat, an apartment or other dwelling within such a building;
 
 "housing strategy" means a strategy included in a development plan under section 94;
@@ -159,10 +165,6 @@ O.J.No. 20, 26.1.2010 p 7-25
 "large-scale residential development" means a development that includes—
 
 (a) the development of 100 or more houses,
-
-O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
-
-O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
 
 (b) the development of student accommodation that includes 200 or more bed spaces,
 
@@ -208,8 +210,6 @@ O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.
 
 "maritime area consent" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
-O.J.No. L345, 31.12.2003 p.97-105
-
 "maritime site" means a part of the maritime area, and includes—
 
 (a) the waters of that part of the maritime area,
@@ -241,6 +241,8 @@ O.J.No. L345, 31.12.2003 p.97-105
 "Natura 2000 network" has the meaning assigned to it by Article 3, paragraph 1 of the Habitats Directive;
 
 "Natura impact statement" shall be construed in accordance with section 177T;
+
+O.J.No. L345, 31.12.2003 p.97-105
 
 "Natura impact report" shall be construed in accordance with section 177T;
 
@@ -348,6 +350,16 @@ O.J.No. L345, 31.12.2003 p.97-105
 
 “registering authority” means a registering authority within the meaning of the Registration of Title Act, 1964;
 
+“relevant solar energy development” means development that is the installation of solar energy equipment (other than small-scale solar equipment) and any co-located energy storage, including building-integrated solar installations, in existing or future artificial surfaces (other than artificial water surfaces), provided that the primary aim of the artificial surfaces is not solar energy production or energy storage;&nbsp;
+
+“renewable energy” means energy from a renewable non-fossil source, namely wind energy, solar energy (including solar thermal and solar photovoltaic energy), geothermal energy, osmotic energy, ambient energy, tide, wave and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas or biogas;
+
+“renewable energy development” means development the purpose of which is to generate renewable energy from one or more than one renewable non-fossil resource, and includes the building of renewable energy plants and any co-located energy storage, and any works necessary for the connection of such plants or storage to the grid, but does not include relevant solar energy development, small-scale solar energy equipment development and small-scale non-ground source heat pumps;
+
+“Renewable Energy Directive” means Directive (EU) 2018/2001 of the European Parliament and ofthe Council of 11 December 2018 as amended by Directive (EU) 2023/2413 of the European Parliament and ofthe Council of 18 October 2023
+
+“repowering development” means development the purpose of which is to renew a power plant that produces renewable energy, including the full or partial replacement of installations or operation systems and equipment for the purposes of replacing capacity or increasing the efficiency or capacity of the installation;
+
 "reserved function", in relation to a local authority, shall be construed in accordance with section 131 (as amended by the Local Government Reform Act 2014) of the Local Government Act 2001;
 
 “risk” has the meaning assigned to it by the Major Accidents Directive;
@@ -364,6 +376,14 @@ O.J.No. L345, 31.12.2003 p.97-105
 
 “special amenity area order” means an order confirmed under section 203;
 
+“small-scale non-ground source heat pump” means a heat pump that has an electrical capacity below 50MW and that is not a ground source heat pump;
+
+“small-scale solar energy equipment” means solar energy equipment with a capacity to generate electricity of 11kW or less, including for renewables self-consumers and renewable energy communities;
+
+“small-scale solar energy equipment development” means development that is the installation of small-scale solar energy equipment;
+
+“solar energy equipment” means equipment that converts energy from the sun into thermal or electrical energy, including solar thermal and solar photovoltaic equipment.
+
 “State authority” means—
 
 (a) a Minister of the Government, or
@@ -379,6 +399,8 @@ O.J.No. L345, 31.12.2003 p.97-105
 (c) provide services connected with, or carry out works for the purposes of the carrying on of the activities of, any public undertaking;
 
 "strategic development zone" has the meaning given to it by section 165;
+
+OJ L No. 328, 21.12.2018, p. 82 OJ L, 2023/2413, 31.10.2023
 
 "strategic downstream gas pipeline" means any proposed gas pipeline, other than an upstream gas pipeline, which is designed to operate at 16 bar or greater, and is longer than 20 kilometres in length;
 
@@ -493,3 +515,5 @@ O.J.No. L345, 31.12.2003 p.97-105
 (7) The doing of anything that is required under this Act to be done by resolution shall be a reserved function.
 
 (8) Subject to this Act, a word or expression that is used in this Act and that is also used in the Environmental Impact Assessment Directive has, unless the context otherwise requires, the same meaning in this Act as it has in that Directive.
+
+(9) Subject to this Act, a word or expression that is used in an amendment made to this Act by the European Union (Planning and Development) (Renewable Energy) Regulations 2025 (S.I. No. 274 of 2025) and that is also used in the Renewable Energy Directive has, unless the context otherwise requires, the same meaning in the amendment as it has in that Directive.

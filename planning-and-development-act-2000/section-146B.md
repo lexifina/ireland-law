@@ -1,6 +1,6 @@
 Alteration by Board of strategic infrastructure development on request made of it.
 
-146B.—(1) Subject to subsections (2) to (8) and section 146C, the Board may, on the request of any person who is carrying out or intending to carry out a strategic infrastructure development, alter the terms of the development the subject of a planning permission other than a development for which permission was granted under section 9 of the Planning and Development (Housing) and Residential Tenancies Act 2016, approval or other consent granted under this Act.
+146B.—(1) Subject to subsections (2) to (8) and sections 146BA, 146BB and 146C, the Board may, on the request of any person who is carrying out or intending to carry out a strategic infrastructure development, alter the terms of the development the subject of a planning permission other than a development for which permission was granted under section 9 of the Planning and Development (Housing) and Residential Tenancies Act 2016, approval or other consent granted under this Act.
 
 (2) (a) As soon as practicable after the making of such a request, the Board shall make a decision as to whether the making of the alteration to which the request relates would constitute the making of a material alteration of the terms of the development concerned.
 

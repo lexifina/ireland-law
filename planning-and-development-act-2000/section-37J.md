@@ -21,3 +21,5 @@ Objective of the Board in relation to applications under section 37E.
 (6) Where the Minister considers it to be necessary or expedient that a certain class or classes of application under section 37E that are of special strategic, economic or social importance to the State be determined as expeditiously as is consistent with proper planning and sustainable development, he or she may give a direction to the Board that priority be given to the determination of applications of the class or classes concerned, and the Board shall comply with such a direction.
 
 (7) The Board shall include in each report made under section 118 a statement of the number of matters which the Board has determined within a period referred to in paragraph (a) or (b) of subsection (2) and such other information as to the time taken to determine such matters as the Minister may direct.
+
+(8) This section is subject to sections 37JA and 37B.
