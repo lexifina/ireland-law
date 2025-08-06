@@ -38,6 +38,6 @@ Modification to operation of section 42 of Act of 2000 having regard to Covid-19
 
 (c) as if in subsection (4)—
 
-(i) during the period beginning on the date on which section 7 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on the date on which the amendments to section 42 effected by section 28 (2) of the Planning and Development (Housing) and Residential Tenancies Act 2016 cease to have effect, there were substituted "Except where subsection (1A) or (1B) applies, a decision" for "Except where subsection (1A) applies, a decision", and
+(i) during the period beginning on the date on which section 7 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on the date on which the amendments tosection 42 effected by section 28 (2) of the Planning and Development (Housing) and Residential Tenancies Act 2016 cease to have effect, there were substituted "Except where subsection (1A) or (1B) applies, a decision" for "Except where subsection (1A) applies, a decision", and
 
 (ii) during the period beginning on the date that is the day after the date on which the amendments to section 42 effected by section 28 (2) of the Planning and Development (Housing) and Residential Tenancies Act 2016 cease to have effect, there were substituted "Except where subsection (1B) applies, a decision" for "A decision".

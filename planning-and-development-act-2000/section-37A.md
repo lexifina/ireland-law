@@ -1,6 +1,10 @@
 Board’s jurisdiction in relation to certain planning applications.
 
-37A.—(1) Subject to Part XXI, an application for permission for any development specified in the Seventh Schedule (inserted by the Planning and Development (Strategic Infrastructure) Act 2006) shall, if the following condition is satisfied, be made to the Board under section 37E and not to a planning authority.
+37A.—(1) Subject to
+
+Part
+
+XXI, an application for permission for any development specified in the Seventh Schedule (inserted by the Planning and Development (Strategic Infrastructure) Act 2006) shall, if the following condition is satisfied, be made to the Board under section 37E and not to a planning authority.
 
 (2) That condition is that, following consultations under section 37B, the Board serves on the prospective applicant a notice in writing under that section stating that, in the opinion of the Board, the proposed development would, if carried out, fall within one or more of the following paragraphs, namely—
 

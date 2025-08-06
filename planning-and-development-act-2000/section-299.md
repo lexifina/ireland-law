@@ -40,7 +40,7 @@ Material alteration of terms of permission
 
 (i) any social or economic benefit that would likely accrue to the State or a part of the State by virtue of the requested alteration,
 
-(j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 ,
+(j) land-sea interactions within the meaning of Directive 2014/89/EU of the EuropeanParliament and of the Council of 23 July 2014 ,
 
 (k) objectives of maritime spatial planning,
 

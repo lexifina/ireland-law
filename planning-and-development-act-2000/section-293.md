@@ -82,9 +82,9 @@ Decision by Board in respect of application under section 291
 
 (l) any recommendation or record referred to in subsection (7) of section 291 in relation to the application for permission,
 
-(m) Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 , and any enactment or instrument under an enactment that gives effect thereto,
+(m) Directive2008/56/EC of the European Parliament and of the Council of 17 June 2008 , and any enactment or instrument under an enactment that gives effect thereto,
 
-(n) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 ,
+(n) land-sea interactions within the meaning of Directive 2014/89/EU of the EuropeanParliament and of the Council of 23 July 2014 ,
 
 (o) objectives of maritime spatial planning, and
 

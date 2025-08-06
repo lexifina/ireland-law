@@ -22,7 +22,7 @@ Application of Chapter
 
 (b) development situated—
 
-(i) wholly in the nearshore areas of more than one coastal planning authority, ...
+(i) wholly in the nearshore areas of more than one coastal planning authority,...
 
 (ii) partly on land and partly in the nearshore areas of more than one coastal planning authority, and
 

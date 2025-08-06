@@ -24,7 +24,7 @@ Application for opinion under section 32I.
 
 (ii) parameters within which each detail referred to in paragraph (e)(i) will fall and on the basis of which the proposed application may be made and decided, or
 
-(iii) a combination of subparagraphs (i) and (ii),
+(iii) a combination ofsubparagraphs (i) and (ii),
 
 (g) such other information, drawings or representations as the prospective applicant may wish to provide or make available, and
 

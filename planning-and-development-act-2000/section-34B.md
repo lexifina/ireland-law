@@ -40,7 +40,9 @@ Supplementary provisions relating to proposed development at Dublin Airport.
 
 (4) Notwithstanding any other provision of this Act, the planning authority shall neither decide to refuse permission for the development nor decide to grant such permission subject to or without conditions until it receives a notice under subsection (5) or (14)(a)(ii) from the competent authority in respect of the application.
 
-(5) (a) Paragraph (b) applies where the competent authority is satisfied that permission should not be granted for the development for the reason that inadequate provision has been made in the application (or in any plans or further information, or both, subsequently given by the applicant to the planning authority and the competent authority) to deal with the noise problem that would arise from the carrying out of the development as proposed.
+(5) (a) Paragraph
+
+(b) applies where the competent authority is satisfied that permission should not be granted for the development for the reason that inadequate provision has been made in the application (or in any plans or further information, or both, subsequently given by the applicant to the planning authority and the competent authority) to deal with the noise problem that would arise from the carrying out of the development as proposed.
 
 (b) The competent authority shall, as soon as is practicable after it is so satisfied, give a notice in writing to the planning authority, stating the competent authority’s reasons why it is so satisfied, and directing the planning authority to refuse permission for the development.
 
@@ -132,7 +134,9 @@ Supplementary provisions relating to proposed development at Dublin Airport.
 
 (iv) that a right of appeal to the Board against the regulatory decision exists under section 37 as read with section 37R.
 
-(15) (a) The planning authority shall incorporate the competent authority’s regulatory decision under subsection (13)(a), the subject of the notice given to the planning authority under subsection (14)(a)(ii), and the competent authority’s reasons for such decision in the planning authority’s decision on the application and shall do so regardless of whether the planning authority’s decision is to refuse permission for the development or to grant permission for the development.
+(15) (a) The planning authority shall incorporate the competent authority’s regulatory decision under subsection (13)(a), the subject of the notice given to the planning authority under subsection
+
+(14)(a)(ii), and the competent authority’s reasons for such decision in the planning authority’s decision on the application and shall do so regardless of whether the planning authority’s decision is to refuse permission for the development or to grant permission for the development.
 
 (b) Notwithstanding that a regulatory decision referred to in paragraph (a) is made by the competent authority, such decision and the reasons for it shall, for the purposes of section 37 as read with section 37R, be treated as the decision, or part of the decision, as appropriate, of the planning authority on the application, and the other provisions of this Act shall be construed accordingly.
 
@@ -140,7 +144,9 @@ Supplementary provisions relating to proposed development at Dublin Airport.
 
 (16) Subject to subsection (17), a noise mitigation measure to be introduced by virtue of a regulatory decision adopted under subsection (13)(a) shall—
 
-(a) if no appeal under section 37 as read with section 37R is made, within the appropriate period referred to in section 37(1), against the planning authority’s decision on the application, come into effect on the expiration of such appropriate period, and
+(a) if no appeal under section 37 as read with section 37R is made, within the appropriate period referred to in section
+
+37(1), against the planning authority’s decision on the application, come into effect on the expiration of such appropriate period, and
 
 (b) after so coming into effect, remain in effect until revoked, or revoked and replaced, by the competent authority or the appeal body.
 

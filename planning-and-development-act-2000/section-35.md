@@ -64,7 +64,9 @@ Refusal of planning permission for past failures to comply.
 
 (i) the company concerned is related to a company (within the meaning of section 140(5) of the Companies Act, 1990) which carried out a development pursuant to a previous permission, carried out a substantial unauthorised development or has been convicted of an offence under this Act, or
 
-(ii) the company concerned is under the same control as a company which carried out a development referred to in subsection (1)(b), where “control” has the same meaning as in section 26(3) of the Companies Act, 1990, or
+(ii) the company concerned is under the same control as a company which carried out a development referred to in subsection (1)(b), where
+
+“control” has the same meaning as in section 26(3) of the Companies Act, 1990, or
 
 (d) a company which carried out a development pursuant to a previous permission, carried out a substantial unauthorised development or has been convicted of an offence under this Act, which company is controlled by the applicant—
 

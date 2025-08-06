@@ -20,7 +20,7 @@ Section 37N: supplemental provisions
 
 (a) the main reasons and considerations on which the decision is based,
 
-(b) where conditions are imposed in relation to the grant of any permission, the main reasons for the imposition of any such conditions, ...
+(b) where conditions are imposed in relation to the grant of any permission, the main reasons for the imposition of any such conditions,...
 
 (ba) where a decision to impose a condition (being an environmental condition which arises from the consideration of an environmental impact assessment report) is materially different, in relation to the terms of the condition, from a recommendation in a report of a person assigned to report on the application for permission on behalf of the Board, the main reasons for not accepting or for varying the recommendation in relation to such condition,
 

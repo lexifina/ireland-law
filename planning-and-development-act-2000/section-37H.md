@@ -12,7 +12,7 @@ Section 37G: supplemental provisions.
 
 (a) subject to paragraph (ba), the main reasons and considerations on which the decision is based,
 
-(b) subject to paragraph (bb), where conditions are imposed in relation to the grant of any permission, the main reasons for the imposition of any such conditions, ...
+(b) subject to paragraph (bb), where conditions are imposed in relation to the grant of any permission, the main reasons for the imposition of any such conditions,...
 
 (ba) in relation to the granting or refusal of any permission, where a decision (being a decision which arises from the consideration of the environmental impact assessment report concerned) by the Board to grant or refuse permission is different from the recommendation in a report of a person assigned to report on the application on behalf of the Board, the main reasons for not accepting the recommendation in the last-mentioned report to grant or refuse permission,
 

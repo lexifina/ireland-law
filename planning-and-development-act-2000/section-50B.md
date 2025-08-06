@@ -8,7 +8,7 @@ Costs in environmental matters.
 
 (ii) any action taken or purportedly taken, ...
 
-(iii) any failure to take any action, pursuant to a statutory provision that gives effect to—
+(iii) any failure to take any action, pursuant to astatutory provision that gives effect to—
 
 (I) a provision of the Environmental Impact Assessment Directive (within the meaning of the Planning and Development Act 2024) to which, by virtue of paragraph 1 of Article 11 of that Directive, the said Article 11 is subject,
 

@@ -6,7 +6,9 @@ Regulations.
 
 (b) the giving of an opinion under section 37D,
 
-(c) applications for permission under section 37E including applications accompanied by an opinion under section 37CD(2), and
+(c) applications for permission under section
+
+37E including applications accompanied by an opinion under section 37CD(2), and
 
 (d) decisions under section 37G.
 

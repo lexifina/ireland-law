@@ -8,7 +8,9 @@ Regulations
 
 (b) the giving of an opinion under section 290;
 
-(c) the making of an application under section 291 (including applications accompanied by an opinion under section 287B(2));
+(c) the making of an application under section
+
+291 (including applications accompanied by an opinion under section 287B(2));
 
 (d) the making of a decision under section 293;
 

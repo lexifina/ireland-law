@@ -42,7 +42,9 @@ Request for alteration of terms of permission to which this
 
 (b) Where the Board—
 
-(i) determines under subparagraph (i) of paragraph (a) that the requested alteration is not likely to have significant effects on the environment, and
+(i) determines under subparagraph
+
+(i) of paragraph (a) that the requested alteration is not likely to have significant effects on the environment, and
 
 (ii) makes a determination under subsection (5) of section 177U in relation to the requested alteration, it shall forthwith determine whether or not the requested alteration would otherwise constitute a material alteration of the terms of the permission concerned.
 
@@ -58,7 +60,11 @@ Request for alteration of terms of permission to which this
 
 (iv) any information referred to in clause (III) of that subparagraph,
 
-(v) any information, report or statement that was the subject of a requirement referred to in subparagraph (ii), (iii) or (iv) of the said paragraph (a),
+(v) any information, report or statement that was the subject of a requirement referred to in subparagraph (ii),
+
+(iii) or
+
+(iv) of the said paragraph (a),
 
 (vi) any document submitted in accordance with paragraph (b) of subsection (2), and
 

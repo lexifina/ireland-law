@@ -10,7 +10,7 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 (b) any alternative alteration under subsection (3)(b)(ii)(II) of that section the making of which the Board is considering (and particulars of any such alternative alteration the making of which is being so considered shall be furnished, for the purposes of this subsection, by the Board to the requester).
 
-(3) An environmental impact assessment report under this section shall contain—
+(3)An environmental impact assessment report under this section shall contain—
 
 (a) any information that any regulations made under section 177 require to be contained in environmental impact assessment reports generally under this Act, and
 
@@ -24,11 +24,11 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 ...
 
-(ii) ... and
+(ii)... and
 
 (c) a summary, in non-technical language, of the information referred to in paragraphs (a) and (b).
 
-(4) When an environmental impact assessment report under this section is prepared, the requester shall as soon as may be—
+(4)When an environmental impact assessment report under this section is prepared, the requester shall as soon as may be—
 
 (a) submit a copy of the report and one electronic copy of the report (which shall be searchable by electronic means as far as practicable) to the Board, together with either—
 
@@ -40,23 +40,23 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 (b) publish a notice, in the prescribed form, in one or more newspapers circulating in the area in which the development concerned is proposed to be, or is being, carried out—
 
-(i) stating that an environmental impact assessment report has been submitted to the Board in relation to the proposed alteration of the terms of the development concerned,
+(i) stating that anenvironmental impact assessment report has been submitted to the Board in relation to the proposed alteration of the terms of the development concerned,
 
-(ii) indicating the times at which, the period (which shall not be less than 4 weeks) during which and the place or places where a copy of the environmental impact assessment report may be inspected,
+(ii) indicating the times at which, the period (which shall not be less than 4 weeks) during which and the place or places where a copy of theenvironmental impact assessment report may be inspected,
 
 (iii) stating that a copy of the environmental impact assessment report may be purchased on payment of a specified fee (which fee shall not exceed the reasonable cost of making such copy), and
 
-(iv) stating that submissions or observations may be made in writing to the Board before a specified date (which date shall not be less than 30 days after the notice was first published) in relation to the likely effects on the environment of the proposed alteration of the foregoing terms,
+(iv) stating that submissions or observations may be made in writing to the Board before a specified date (which date shall not be less than30 days after the notice was first published) in relation to the likely effects on the environment of the proposed alteration of the foregoing terms,
 
 (c) send a copy of the environmental impact assessment report together with a notice in the prescribed form to the local authority or each local authority in whose functional area the proposed development would be situate and to any prescribed body or person stating that—
 
-(i) the report has been submitted to the Board in relation to the proposed alteration of the terms of the development concerned,
+(i) thereporthas been submitted to the Board in relation to the proposed alteration of the terms of the development concerned,
 
 (ii) before a specified date (which date shall be the same as provided or proposed to be provided for by the notice under paragraph (b)) submissions or observations may be made in writing to the Board in relation to the likely effects on the environment of the proposed alteration of the foregoing terms,
 
 (d) send a copy of the environmental impact assessment report, together with a notice in the prescribed form, to a Member State of the European Communities or a state which is a party to the Transboundary Convention where, in the Board’s opinion, the proposed alteration of the terms of the development concerned is likely to have significant effects on the environment in that state, together with a notice (in the prescribed form, if any) stating that—
 
-(i) the report has been submitted to the Board in relation to the likely effects on the environment of the proposed alteration of the foregoing terms,
+(i) thereporthas been submitted to the Board in relation to the likely effects on the environment of the proposed alteration of the foregoing terms,
 
 (ii) before a specified date (which date shall be the same as provided or proposed to be provided for by the notice under paragraph (b)) submissions or observations may be made in writing to the Board in relation to the likely effects on the environment in that state of the proposed alteration of those terms, and the Board may, at its discretion and from time to time, extend any time limits provided for by this subsection.
 
