@@ -83,3 +83,7 @@ Aviation Security
 32. Commission Regulation (EU) No 1254/2009 of 18 December 2009 setting criteria to allow Member States to derogate from the common basic standards on civil aviation security and to adopt alternative security measures, as amended by Commission Regulation (EU) 2016/2096
 
 33. Commission Regulation (EC) 748/2009 of 5 August 2009 on the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC on or after 1 January 2006 specifying the administering Member State for each aircraft operator, as amended by Commission Regulation (EU) No 82/2010, Commission Regulation (EU) No 115/2011, Commission Regulation (EU) No. 394/2011, Commission Regulation (EU) No 100/2012, Commission Regulation (EU) No 109/2013, Commission Regulation (EU) No 815/2013, Commission Regulation (EU) No 100/2014, Commission Regulation (EU) 2015/180, Commission Regulation (EU) 2016/282, Commission Regulation (EU) 2017/294, Commission Regulation (EU) 2018/336, Commission Regulation (EU) 2019/225, Commission Regulation (EU) 2019/226, Commission Regulation (EU) 2020/535 and Commission Regulation (EU) 2021/66
+
+Sustainable Air Transport
+
+34. Regulation (EU) 2023/2405 of the European Parliament and of the Council of 18October 2023 on ensuring a level playing field for sustainable air transport (ReFuelEU Aviation) in so far as it relates to enforcement of the application of the Regulation in respect of aircraft operators and Union airport managing bodies (within the meaning of those terms in that Regulation)
