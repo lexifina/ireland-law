@@ -30,4 +30,4 @@ Transfer of renewable transport fuel obligation certificates.
 
 (b) which is the subject of a notice of revocation under section 44M which has not yet taken effect under that section.
 
-(6) This Part applies to a renewable transport fuel obligation certificate transferred under this section in all respects as it applies to a renewable transport fuel obligation certificate issued under section 44G and a renewable transport fuel obligation certificate so transferred may be counted by the transferee towards the discharge of the renewable transport fuel obligation notified to the transferee under section 44I(1).
+(6) This Part applies to a renewable transport fuel obligation certificate transferred under this section in all respects as it applies to a renewable transport fuel obligation certificate issued under section 44G and a renewable transport fuel obligation certificate so transferred may be counted by the transferee towards the discharge of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation, as may be the case, notified to the transferee under section 44I(1).
