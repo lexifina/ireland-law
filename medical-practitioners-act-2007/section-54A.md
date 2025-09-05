@@ -8,11 +8,7 @@ Declarations by registered medical practitioners, etc. in relation to certain ma
 
 (4) A registered medical practitioner, intern or adapter shall, in each year, comply with subsection (1), (2) or (3) —
 
-(a) not earlier than 6 weeks before he or she is required to pay, in that year, the appropriate fee determined under section
-
-36(1)(b),
-
-(cb) or (ce), as appropriate, and
+(a) not earlier than 6 weeks before he or she is required to pay, in that year, the appropriate fee determined under section 36(1)(b), (cb) or (ce), as appropriate, and
 
 (b) not later than the last day of that 6 weeks.
 

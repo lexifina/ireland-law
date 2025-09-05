@@ -46,7 +46,7 @@ Members of Council.
 
 (2) Members of the Council shall perform their functions as such in the public interest.
 
-(3) Only registered medical practitioners are eligible for election as the President or Vice-President of the Council in accordance with Schedule 2.
+(3) Only registered medical practitioners are eligible for election as the President or Vice- President of the Council in accordance with Schedule 2.
 
 (4) The persons appointed under subsection (1)(n) may include members of advocacy groups and users of services provided by registered medical practitioners.
 

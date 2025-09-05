@@ -98,6 +98,6 @@ Duties of Council in relation to medical education and training.
 
 (7) The Council may recognise a degree, diploma or other qualification awarded in a third country to be at least the equivalent of a qualification awarded following the satisfactory completion of a programme of basic medical education and training approved under subsection (2)(a)(i)(I).
 
-(8) The Council shall prepare and publish in the prescribed manner guidelines on ethical considerations to be taken into account in respect of the acceptance or otherwise of any non-Exchequer funding offered or provided in relation to medical education and training for basic and specialist medical qualifications.
+(8) The Council shall prepare and publish in the prescribed manner guidelines on ethical considerations to be taken into account in respect of the acceptance or otherwise of any non- Exchequer funding offered or provided in relation to medical education and training for basic and specialist medical qualifications.
 
 (9) The Council shall, in consultation with the Dental Council, the Health Service Executive and such other appropriate bodies as the Council thinks fit, arrange for the provision of career information to registered medical practitioners and registered dentists.

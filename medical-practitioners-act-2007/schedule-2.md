@@ -66,7 +66,7 @@ President and Vice-President
 
 (b) the President or Vice-President, as the case may be, resigns that office and the resignation becomes effective under this paragraph, or
 
-(c) the Council by a resolution, for which not less than two-thirds of the members of the Council vote, and of the intention to propose which not less than 7 days notice is given to every member of the Council, terminates the appointment of the President or Vice-President.
+(c) the Council by a resolution, for which not less than two-thirds of the members of the Council vote, and of the intention to propose which not less than 7 days notice is given to every member of the Council, terminates the appointment of the President or Vice- President.
 
 (3) The President or Vice-President of the Council may at any time resign from that office by giving notice in writing signed by the President or Vice-President, as the case may be, to the Council, but the resignation shall not become effective until the meeting of the Council next held after the receipt by the Council of the notice of resignation.
 
@@ -94,7 +94,7 @@ Proceedings at Meetings
 
 (b) if and so long as the President of the Council is not present, or if the office of President is vacant, the Vice-President of the Council shall, if present, be the chairperson,
 
-(c) if and so long as the President of the Council is not present or the office of President is vacant and the Vice-President is not present or the office of Vice- President is vacant, the members of the Council who are present shall elect one of their number to be chairperson of that meeting.
+(c) if and so long as the President of the Council is not present or the office of President is vacant and the Vice-President is not present or the office of Vice-President is vacant, the members of the Council who are present shall elect one of their number to be chairperson of that meeting.
 
 19. (1) The Council shall ensure that minutes of each meeting of the Council are prepared.
 
