@@ -28,9 +28,7 @@ Amendment of Act of 2007 - insertion of sections 21B and 21C
 
 (b) Where the Council considers that a registered pharmacist has contravened paragraph (a), the Council shall forthwith make a complaint under section 35.
 
-(8) In this section—
-
-‘final determination’, in relation to any relevant proceedings and a registered pharmacist, means—
+(8) In this section— ‘final determination’, in relation to any relevant proceedings and a registered pharmacist, means—
 
 (a) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the pharmacist, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
 
