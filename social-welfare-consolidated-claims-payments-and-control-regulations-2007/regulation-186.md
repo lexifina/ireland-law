@@ -36,6 +36,6 @@ Payment of certain claims made after due date.
 
 (8) For the purposes of this article “benefit” means—
 
-(a) any benefit specified in section 39(1) (other than jobseeker’s benefit under Chapter 12 of Part 2 and jobseeker’s benefit (self-employed) under Chapter 12A of Part 2), covid-19 pandemic unemployment payment,and
+(a) any benefit specified in section 39(1) (other than jobseeker’s benefit under Chapter 12 of Part 2 and jobseeker’s benefit (self-employed) under Chapter 12A of Part 2), and
 
 (b) any assistance specified in section 139(1) (other than jobseeker’s allowance under Chapter 2 and supplementary welfare allowance under Chapter 9 of Part 3).
