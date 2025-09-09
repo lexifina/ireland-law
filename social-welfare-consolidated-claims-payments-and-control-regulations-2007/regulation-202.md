@@ -1,22 +1,22 @@
 Persons unable to manage financial affairs.
 
-202. (1) Subject to sub-article (6) this article applies to a claimant or beneficiary who—
+202. (1) Subject to sub-articles (6) and (6A) this article applies to a claimant or beneficiary who—
 
 (a) is under 16 years of age, or
 
 (b) subject to sub-article (2) is certified by a registered medical practitioner in the prescribed form, to be a person who is unable for the time being to manage his or her own financial affairs.
 
-(2) For the purpose of this article, the circumstances in which a person is deemed to be unable to manage his or her own financial affairs may include one or more of the following:
+(2) For the purpose of this article, the circumstances in which a person shall be considered to be unable to manage his or her own financial affairs may include one or more of the following:
 
-(a) an inability to understand the basis of possible entitlements to benefit;
+(a) an inability to understand the information relevant to possible entitlements to benefit;
 
-(b) an inability to understand and complete the claim form;
+(b) an inability to retain information long enough to make voluntary choices relevant to possible entitlements to benefit;
 
-(c) an inability to understand and deal with correspondence and enquiries concerning the claim;
+(c) an inability to use or weigh relevant information as part of the process of making any decision necessary to manage any benefit payments received;
 
-(d) an inability to manage benefit payments received.
+(d) an inability to communicate any decision or respond to correspondence or enquiries concerning the claim or benefit (whether by talking, writing, using sign language, assistive technology, or any other means) or, if the communication of the decision or response requires the act of a third party, to communicate by any means with that third party.
 
-(3) In the case of a claimant or beneficiary to whom sub-article (1) applies the Minister may subject to sub-article (6) appoint a person over the age of 18 years belonging to one of the following classes of persons to exercise on behalf of the claimant or beneficiary any right or power otherwise exercisable under the Principal Act by the claimant or beneficiary—
+(3) In the case of a claimant or beneficiary to whom sub-article (1) applies the Minister may subject to sub-articles (6) and (6A) appoint a person over the age of 18 years belonging to one of the following classes of persons to exercise on behalf of the claimant or beneficiary any right or power otherwise exercisable under the Principal Act by the claimant or beneficiary—
 
 (a) the spouse or civil partner (within the meaning of section 3(10) of the Principal Act) of the claimant or beneficiary;
 
@@ -58,13 +58,29 @@ Persons unable to manage financial affairs.
 
 (a) is a ward of court, or
 
-(b) has appointed a person to be his or her attorney under an enduring power of attorney and—
+(b) has appointed a person to be his or her attorney under an enduring power of attorney, appointed in accordance with the Powers of Attorney Act 1996 (No. 12 of 1996), or as the case may be, the Assisted Decision-Making (Capacity) Act 2015 (No. 64 of 2015), and—
 
 (i) the attorney is not prohibited or restricted by the terms of the power from performing any matter to which this article applies, and
 
 (ii) the enduring power of attorney has been registered and the registration has not been cancelled.
 
-(7) An appointment made under sub-article (3) or (4) shall terminate on the day on which the Minister receives notice that a Committee of the estate of the claimant or beneficiary has been appointed.
+(6A) This article does not apply to a claimant or beneficiary within the meaning of sub-article (1)(b) in respect of whom notice of any of the following has been made to the Minister:
+
+(a) a decision-making representative has been appointed under the Assisted Decision-Making (Capacity) Act 2015 in respect of the claimant or beneficiary and in respect of the management of social welfare matters concerning him or her within the meaning of paragraph (k) of the definition of “property and affairs” in section 2(1) of the aforementioned Act of 2015;
+
+(b) a decision-making assistant has been appointed by the claimant or beneficiary under a decision-making assistance agreement in accordance with the Assisted Decision-Making (Capacity) Act 2015;
+
+(c) a co-decision-maker has been appointed by the claimant or beneficiary under a co-decision-making agreement in accordance with the Assisted Decision- Making (Capacity) Act 2015 .
+
+(7) An appointment made under sub-article (3) or (4) shall terminate on the day on which the Minister receives notice that—
+
+(a) a Committee of the estate of the claimant or beneficiary has been appointed,
+
+(b) a decision-making representative has been appointed under the Assisted Decision-Making (Capacity) Act 2015 in respect of the claimant or beneficiary and in respect of the management of social welfare matters concerning him or her within the meaning of paragraph (k) of the definition of “property and affairs” in section 2(1) of the aforementioned Act of 2015,
+
+(c) a decision-making assistant has been appointed by the claimant or beneficiary under a decision-making assistance agreement in accordance with the Assisted Decision-Making (Capacity) Act 2015, or
+
+(d) a co-decision-maker has been appointed by the claimant or beneficiary under a co-decision-making agreement in accordance with the Assisted Decision- Making (Capacity) Act 2015.
 
 (8) Anything required to be done by a claimant or beneficiary in relation to benefit may be done as respects a claimant or beneficiary, who is unable to act, by the person appointed under this article to act on his or her behalf.
 

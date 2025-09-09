@@ -1,6 +1,6 @@
 Obligations of appointed person.
 
-202A. (1) Where a person is appointed under article 202(3) or (4) he or she shall have a duty to act in the best interests of the claimant or beneficiary and shall—
+202A. (1) Where a person is appointed under article 202(3) or (4) he or she shall act at all times in good faith and for the benefit of the claimant or beneficiary and shall—
 
 (a) act in a personal capacity and shall not delegate responsibility to any other person,
 
