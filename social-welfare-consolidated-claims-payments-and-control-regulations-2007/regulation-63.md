@@ -6,11 +6,9 @@ Entitlement to pro-rata State pension (contributory).
 
 (b) is not entitled to pension under article 62, 62A or 62B,
 
-(c) is not in receipt of an State pension (contributory) by virtue of article 65, 65A or 65B, Regulation (EEC) 1408/71 of the Council of the European
+(c) is not in receipt of an State pension (contributory) by virtue of article 65, 65A or 65B, Regulation (EEC) 1408/71 of the Council of the European Communities or by virtue of a reciprocal agreement under the provisions of section 287, and
 
 1 OJ No. L 149, 5.7.1971, p. 2
-
-Communities or by virtue of a reciprocal agreement under the provisions of section 287, and
 
 (d) had periods in which he or she had been—
 

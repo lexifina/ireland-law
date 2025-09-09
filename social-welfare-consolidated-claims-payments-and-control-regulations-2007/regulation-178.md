@@ -30,4 +30,6 @@ Interpretation.
 
 "public service identity" has the meaning assigned to it by section 262(1);
 
-“qualified person” means the person with whom a qualified child normally resides for the purposes of child benefit. CHAPTER 1
+“qualified person” means the person with whom a qualified child normally resides for the purposes of child benefit.
+
+CHAPTER 1

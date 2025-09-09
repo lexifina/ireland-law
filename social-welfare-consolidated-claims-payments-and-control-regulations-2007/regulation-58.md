@@ -6,4 +6,6 @@ Medical examination and disqualification.
 
 (3) Subject to sub-article (4), a carer shall be disqualified for receiving carer’s benefit if and for so long as the person in respect of whose full-time care and attention the benefit is payable, fails without good cause to attend for or submit to the medical examination in accordance with this article.
 
-(4) A disqualification referred to in sub-article (3) shall not commence earlier than the day on which the failure to attend for or submit to the medical examination occurs. CHAPTER 7
+(4) A disqualification referred to in sub-article (3) shall not commence earlier than the day on which the failure to attend for or submit to the medical examination occurs.
+
+CHAPTER 7

@@ -6,4 +6,6 @@ Covid-19 pandemic unemployment payment.
 
 (a) the decision, and
 
-(b) the reasons for the said decision, to issue to the claimant. CHAPTER 2
+(b) the reasons for the said decision, to issue to the claimant.
+
+CHAPTER 2
