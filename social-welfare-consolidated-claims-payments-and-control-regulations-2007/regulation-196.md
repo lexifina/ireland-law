@@ -4,9 +4,9 @@ Time of payment.
 
 (a) in the case of jobseeker’s benefit, illness benefit, disability allowance, jobseeker’s allowance (other than jobseeker’s allowance payable to a person to whom section 148A applies), pre-retirement allowance, farm assist, continued payment for qualified children and back to work family dividend on such days and at such intervals as the Minister may determine in any particular class of case,
 
-(b) in the case of carer’s benefit, State pension (transition), invalidity pension, deserted wife’s benefit, deserted wife’s allowance or prisoner’s wife’s allowance by virtue of section 178, jobseeker’s allowance payable to a person to whom section 148A applies, one-parent family payment (other than one-parent family payment payable in respect of a widow, a widower or a surviving civil partner) and carer’s allowance, weekly in advance on the Thursday of each week,
+(b) in the case of carer’s benefit, State pension (transition), invalidity pension, deserted wife’s benefit, deserted wife’s allowance or prisoner’s wife’s allowance by virtue of section 178, jobseeker’s allowance payable to a person to whom section 148A applies, one-parent family payment (other than one-parent family payment payable in respect of a bereaved partner) and carer’s allowance, weekly in advance on the Thursday of each week,
 
-(c) in the case of State pension (contributory), widow’s (contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension, guardian’spayment (contributory), State pension (non-contributory), blind pension, widow’s (non-contributory) pension, widower’s (non-contributory) pension, surviving civil partner’s (non-contributory) pension, guardian’s payment (non-contributory) and one-parent family payment payable in respect of a widow, a widower or a surviving civil partner, weekly in advance on the Friday of each week,
+(c) in the case of State pension (contributory), bereaved partner’s (contributory) pension, guardian’spayment (contributory), State pension (non-contributory), blind pension, bereaved partner’s (non-contributory) pension, guardian’s payment (non-contributory) and one-parent family payment payable in respect of a bereaved partner, weekly in advance on the Friday of each week,
 
 (d) in the case of child benefit, in advance on the 1st Tuesday of each month,
 

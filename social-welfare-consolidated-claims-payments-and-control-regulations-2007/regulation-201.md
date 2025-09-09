@@ -14,17 +14,17 @@ Nominated persons.
 
 (f) disablement benefit,
 
-(g) widow’s (contributory) pension,
+(g) bereaved partner’s (contributory) pension,
 
-(h) widower’s (contributory) pension,
+(h) ...
 
-(i) surviving civil partner’s (contributory) pension,
+(i) ...
 
-(j) widow’s (non-contributory) pension,
+(j) bereaved partner’s (non-contributory) pension,
 
-(k) widower’s (non-contributory) pension,
+(k) ...
 
-(l) surviving civil partner’s (non-contributory) pension,
+(l) ...
 
 (m) death benefit payable in accordance with Chapter 13 of the Principal Act,
 
