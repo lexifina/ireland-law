@@ -4,7 +4,7 @@ Duration.
 
 (a) the number of weeks prescribed for the purposes of section 68KF(3) shall be 13, and this may include weeks where the person is in receipt of jobseeker’s benefit, jobseeker’s benefit (self-employed) or jobseeker’s allowance.
 
-(b) in relation to a person entitled to payment of jobseeker’s pay-related benefit, any 2 or more consecutive applicable weeks separated by such number of weeks that they are—
+(b) in relation to a person entitled to payment of jobseeker’s pay-related benefit, any 2 or more consecutive applicable weeks separated by such number of weeks that they are —
 
 (i) in receipt of maternity benefit,
 
@@ -24,9 +24,7 @@ Duration.
 
 (ix) taking additional maternity leave in accordance with the Maternity Protection Act 2024,
 
-(x) taking such other statutory entitlement to leave or benefit as may be approved by or on behalf of the Minister from time to time,
-
-(xi) shall be treated as the same claim.
+(x) taking such other statutory entitlement to leave or benefit as may be approved by or on behalf of the Minister from time to time, shall be treated as the same claim.
 
 (2) The prescribed period for the purposes of section 68KF(4)(b)(i) shall be 52 weeks.
 
