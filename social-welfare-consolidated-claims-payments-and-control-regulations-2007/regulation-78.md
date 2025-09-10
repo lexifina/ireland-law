@@ -23,15 +23,3 @@ Disqualification.
 (b) is in receipt of invalidity pension immediately before 13 February 2012 while also engaged in work in the nature of rehabilitation or occupational therapy, that person may continue to receive invalidity pension for the unexpired portion of the period of time specified in that written permission which occurs on or after 13 February 2012, if that person continues, during the unexpired portion of such specified period, to satisfy the conditions for entitlement to invalidity pension.
 
 CHAPTER 10
-
-## Bereaved Partner’s (Contributory) Pension
-
-‘existing pensions contributor’ means any person who at any time was, or was deemed to be or treated as, an insured person under the Widows’ and Orphans’ Pensions Acts;
-
-‘pension’ means a bereaved partner’s (contributory) pension payable in accordance with Chapter 18 of Part 2 of the Social Welfare Consolidation Act 2005;
-
-‘relevant contribution condition’ means the contribution condition set out in section 125(1)(b)(ii);
-
-‘relevant period’ means the period over which the yearly average of contributions per contribution year is calculated for pension purposes in accordance with section 125(1)(b)(ii);
-
-‘yearly average’ has the meaning assigned to it by section 123.
