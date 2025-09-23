@@ -60,37 +60,29 @@ Consequential disqualification orders.
 
 TABLE
 
-Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
+Reference Concentration of alcohol First offence Second or any subsequent Number under the section offence under the same section concerned or first offence where previously convicted under the other section (1) (2) (3) (4) 1. (a) Not exceeding 80 milligrammes
 
-1. (a)
+(b) Not exceeding 107 milligrammes 6 months 1 year
 
-(b)
+(c) Not exceeding 35 microgrammes
 
-6 months 1 year
+2. (a) Exceeding 80 milligrammes but
 
-(c) Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
+1 year 2 years Reference Concentration of alcohol First offence Second or any subsequent Number under the section offence under the same section concerned or first offence where previously convicted under the other section (1) (2) (3) (4) (b) Exceeding 107 milligrammes but
 
-2. (a) Exceeding 80 milligrammes
+(c) Exceeding 35 microgrammes but
 
-(b) Exceeding 107 milligrammes
+3. (a) Exceeding 100 milligrammes but
 
-1 year 2 years
+(b) Exceeding 135 milligrammes but 2 years 4 years
 
-(c) Exceeding 35 microgrammes
+(c) Exceeding 44 microgrammes but
 
-3. (a) Exceeding 100 milligrammes
+4. (a) Exceeding 150 milligrammes of
 
-(b) Exceeding 135 milligrammes
+(b) Exceeding 200 milligrammes of 3 years 6 years
 
-2 years 4 years
-
-(c) Exceeding 44 microgrammes
-
-4. (a) Exceeding 150 milligrammes
-
-(b) Exceeding 200 milligrammes 3 years 6 years
-
-(c) Exceeding 66 microgrammes
+(c) Exceeding 66 microgrammes of
 
 (5) (a) Subject to paragraph (b), the period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under section 52 or 53 tried summarily or under section 56, be not less than 2 years in the case of a first offence under the section concerned and not less than 4 years in the case of a second or any subsequent offence under the same section committed within the period of 3 years from the date of the commission of the previous offence or, in the case of more than one such offence, the last such offence.
 
