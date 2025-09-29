@@ -174,6 +174,18 @@ OJ L, 2024/2795, 31.10.2024.
 
 (h) Directive (EU) 2021/338 of the European Parliament and of the Council of 16 February 2021;
 
+(i) Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022;
+
+(j) Directive (EU) 2022/2556 of the European Parliament and of the Council of 14 December 2022;
+
+(k) Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December 2023;
+
+OJ No. L. 173, 12.6.2014, p. 349. OJ No. L. 257, 28.8.2014, p. 1. OJ No. L. 26, 2.2.2016, p. 19. OJ No. L. 175, 30.6.2016, p. 8. OJ No. L. 314, 5.12.2019, p. 64. OJ No. L. 320, 11.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 68, 26.2.2021, p. 14.
+
+OJ L, 2023/2864, 20.12.2023.
+
+(l) Directive (EU) 2024/790 of the European Parliament and of the Council of 28 February 2024;
+
 “the Minister” means the Minister for Finance;
 
 “Pensions Acts” means the Pensions Act 1990 as amended from time to time, and includes all Acts that are to be construed together with that Act as one Act;
@@ -184,9 +196,7 @@ OJ L, 2024/2795, 31.10.2024.
 
 (b) any disc, tape or other article from which information is capable of being produced in any form capable of being reproduced visually or aurally;
 
-OJ No. L. 173, 12.6.2014, p. 349. OJ No. L. 257, 28.8.2014, p. 1. OJ No. L. 26, 2.2.2016, p. 19. OJ No. L. 175, 30.6.2016, p. 8. OJ No. L. 314, 5.12.2019, p. 64. OJ No. L. 320, 11.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 68, 26.2.2021, p. 14.
-
-“Regulations of 2017” means the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017 )
+“Regulations of 2017” means the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017 );
 
 ...
 
@@ -215,6 +225,8 @@ OJ No. L. 173, 12.6.2014, p. 349. OJ No. L. 257, 28.8.2014, p. 1. OJ No. L. 26, 
 (b) securities of the Government or the government of any country or territory outside the State, or
 
 (c) rights (whether actual or contingent) in respect of money lent to, or deposited with, any industrial and provident society, friendly society or building society, and includes rights or interests (described whether as units or otherwise) which may be acquired under any unit trust scheme under which all property for the time being subject to any trust or other arrangement created or made in pursuance of the scheme consists of such securities as are mentioned in paragraph (a), (b) or (c) of this definition;
+
+OJ L, 2024/790, 08.03.2024.
 
 “SSM Regulation” means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
 
