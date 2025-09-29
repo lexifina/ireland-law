@@ -160,6 +160,14 @@ Definitions.
 
 (h) Directive (EU) 2021/338 of the European Parliament and of the Council of 16 February 2021;
 
+(i) Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022;
+
+(j) Directive (EU) 2022/2556 of the European Parliament and of the Council of 14 December 2022;
+
+(k) Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December 2023;
+
+(l) Directive (EU) 2024/790 of the European Parliament and of the Council of 28 February 2024;
+
 “the Minister” means the Minister for Finance;
 
 “Pensions Acts” means the Pensions Act 1990 as amended from time to time, and includes all Acts that are to be construed together with that Act as one Act;
@@ -170,7 +178,7 @@ Definitions.
 
 (b) any disc, tape or other article from which information is capable of being produced in any form capable of being reproduced visually or aurally;
 
-“Regulations of 2017” means the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017 )
+“Regulations of 2017” means the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017 );
 
 ...
 
