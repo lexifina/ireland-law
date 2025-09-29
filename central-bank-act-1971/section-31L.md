@@ -1,4 +1,4 @@
-F136[Conditions of authorisation (Class 1 firms)
+F137[Conditions of authorisation (Class 1 firms)
 
 31L.—(1) The Bank may propose to the ECB that the conditions of a Class 1 authorisation be amended, revoked or added to and it may propose to the ECB that conditions be imposed by the ECB in relation to a Class 1 authorisation from time to time if in the opinion of the Bank the amendment, revocation, addition or imposition is calculated to promote the orderly and proper regulation of credit institutions.
 

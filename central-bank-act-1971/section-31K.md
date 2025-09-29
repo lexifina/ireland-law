@@ -1,4 +1,4 @@
-F135[Prior consultation of competent authorities (Class 1 firms)
+F136[Prior consultation of competent authorities (Class 1 firms)
 
 31K.—(1) The Bank shall consult the competent authorities of another Member State before taking a draft decision to propose to the ECB to grant a Class 1 authorisation where the applicant is—
 

@@ -1,4 +1,4 @@
-F57[Shareholders and members.
+F58[Shareholders and members.
 
 9G.—(1) The Bank shall not take a draft decision to propose to the ECB to grant a licence unless the application for the licence includes the names of—
 

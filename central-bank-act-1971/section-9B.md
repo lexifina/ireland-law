@@ -1,4 +1,4 @@
-F45[Refusal to grant an authorisation under section 9A.
+F46[Refusal to grant an authorisation under section 9A.
 
 9B.—(1) The Bank shall not refuse to grant an authorisation under section 9A(2) unless it is satisfied that the grant of the authorisation would not be in the interest of the orderly and proper regulation of banking.
 

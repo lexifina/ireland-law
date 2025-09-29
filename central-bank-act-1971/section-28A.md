@@ -1,4 +1,4 @@
-F118[Power of Court to prohibit certain contraventions of, or failure to comply with, Act of 1971.
+F119[Power of Court to prohibit certain contraventions of, or failure to comply with, Act of 1971.
 
 28A.—(1) Where, on an application made in a summary manner by the Bank, the Court is of the opinion that there has occurred or is occurring—
 

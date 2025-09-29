@@ -1,4 +1,4 @@
-F56[Precondition for draft decision to propose licence.
+F57[Precondition for draft decision to propose licence.
 
 9FA. (1) Where an applicant intends to provide investment services or perform investment activities, the Bank shall not take a draft decision to propose to the ECB to grant a licence unless it is satisfied that the applicant will comply with the relevant provisions.
 

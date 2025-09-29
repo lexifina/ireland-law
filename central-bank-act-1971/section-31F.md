@@ -1,4 +1,4 @@
-F129[Effective direction of business and place of head office (Class 1 firms).
+F130[Effective direction of business and place of head office (Class 1 firms).
 
 31F.—The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the applicant satisfies the Bank that—
 

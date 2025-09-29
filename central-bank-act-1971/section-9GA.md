@@ -1,4 +1,4 @@
-F60[Assessment of suitability of shareholders or members.
+F61[Assessment of suitability of shareholders or members.
 
 9GA.—(1) The criteria referred to in section 9G(4) are as follows:
 

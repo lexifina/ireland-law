@@ -1,4 +1,4 @@
-F138[Publication of names of holders of authorisations and notices of revocation of authorisations (Class 1 firms)
+F139[Publication of names of holders of authorisations and notices of revocation of authorisations (Class 1 firms)
 
 31N.—(1) The Bank shall publish from time to time, but not less frequently than once a year, in such manner as it thinks fit, the names of the holders of Class 1 authorisations.
 

@@ -1,4 +1,4 @@
-F128[Initial Capital (Class 1 firms).
+F129[Initial Capital (Class 1 firms).
 
 31E.—(1) Subject to subsection (3), the Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the applicant holds separate own funds, or has an initial capital, of at least €5,000,000.
 

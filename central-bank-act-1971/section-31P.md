@@ -1,4 +1,4 @@
-F140[Holders of Class 1 authorisations and others to provide Bank with required information and returns
+F141[Holders of Class 1 authorisations and others to provide Bank with required information and returns
 
 31P.—(1) The holder of a Class 1 authorisation shall provide the Bank, at such times, or within such periods, as the Bank specifies from time to time, with such information and returns concerning the relevant business carried on by the holder as the Bank specifies from time to time.
 

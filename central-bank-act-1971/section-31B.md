@@ -1,4 +1,4 @@
-F125[Requirement for a Class 1 authorisation (Class 1 firms).
+F126[Requirement for a Class 1 authorisation (Class 1 firms).
 
 31B.—(1) Subject to—
 

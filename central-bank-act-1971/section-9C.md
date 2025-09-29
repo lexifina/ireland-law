@@ -1,4 +1,4 @@
-F46[Revocation of authorisations granted under section 9A.
+F47[Revocation of authorisations granted under section 9A.
 
 9C.— (1) The Bank may revoke an authorisation granted under section 9A(2)—
 

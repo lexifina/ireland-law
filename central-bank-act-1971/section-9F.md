@@ -1,4 +1,4 @@
-F54[Effective direction of business and place of head office.
+F55[Effective direction of business and place of head office.
 
 9F.—The Bank shall not take a draft decision to propose to the ECB to grant a licence unless the applicant satisfies the Bank that—
 

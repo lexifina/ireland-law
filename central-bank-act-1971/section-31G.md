@@ -1,4 +1,4 @@
-F131[Shareholders and members (Class 1 firms).
+F132[Shareholders and members (Class 1 firms).
 
 31G.—(1) The Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless the application for the authorisation includes the names of—
 

@@ -1,4 +1,4 @@
-F151[Minister’s power to modify application of section 33A.
+F152[Minister’s power to modify application of section 33A.
 
 33B.—(1) In this section “relevant agreement” has the same meaning as in section 33A.
 

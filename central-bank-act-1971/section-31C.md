@@ -1,4 +1,4 @@
-F126[Application for authorisation (Class 1 firms).
+F127[Application for authorisation (Class 1 firms).
 
 31C.—(1) An application for a Class 1 authorisation shall be in such form and contain such particulars as the Bank may from time to time determine.
 

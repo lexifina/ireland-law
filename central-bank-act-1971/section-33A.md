@@ -1,4 +1,4 @@
-F149[Effect of order under section 33(1) on certain other rights.
+F150[Effect of order under section 33(1) on certain other rights.
 
 33A.—(1) This section and section 33B apply only where an order under section 33(1) provides that they shall have effect.
 

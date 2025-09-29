@@ -1,4 +1,4 @@
-F61[Waiver for credit institutions permanently affiliated to central body.
+F62[Waiver for credit institutions permanently affiliated to central body.
 
 9H.—(1) The Bank may waive the requirements set out in sections 9D, 9E and 9F(c) and (d) with regard to a credit institution referred to in Article 10 of the Capital Requirements Regulation in accordance with the conditions set out therein.
 

@@ -1,4 +1,4 @@
-F130[Precondition for draft decision to propose Class 1 authorisation
+F131[Precondition for draft decision to propose Class 1 authorisation
 
 31FA.—(1) Where an applicant intends to provide investment services or perform investment activities, the Bank shall not take a draft decision to propose to the ECB to grant a Class 1 authorisation unless it is satisfied that the applicant will comply with the relevant provisions.
 

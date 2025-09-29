@@ -1,4 +1,4 @@
-F142[Requirement for holders of MiFID authorisation to re-authorise
+F143[Requirement for holders of MiFID authorisation to re-authorise
 
 31R.—(1) Subject to subsection (2), an undertaking referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation which has been authorised under Part 2 of the Regulations of 2017 shall apply for a Class 1 authorisation or a licence, at the latest on the day when the undertaking satisfies either of the following conditions:
 

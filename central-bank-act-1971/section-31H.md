@@ -1,4 +1,4 @@
-F132[Waiver for credit institutions permanently affiliated to central body (Class 1 firms).
+F133[Waiver for credit institutions permanently affiliated to central body (Class 1 firms).
 
 31H.—(1) The criteria referred to in section 31G(4) are as follows:
 
