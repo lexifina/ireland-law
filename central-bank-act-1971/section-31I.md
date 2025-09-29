@@ -8,6 +8,8 @@ Waiver for credit institutions permanently affiliated to central body (Class 1 f
 
 (b) Regulations 32 and 33,
 
+OJ No. L. 302, 17.11.2009, p. 32.
+
 (c) Regulation 35(1) to (3),
 
 (d) Regulations 38 to 44,

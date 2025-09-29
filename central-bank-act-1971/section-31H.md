@@ -8,17 +8,15 @@ Assessment of suitability of shareholders and members (Class 1 firms).
 
 (c) the financial soundness of the applicant, in particular in relation to the type of business pursued and envisaged by the credit institution;
 
-(d) whether the applicant will be able to comply and continue to comply with the prudential requirements of the European Union (Capital Requirements) Regulations 2014 and the Capital Requirements Regulation, and where applicable, other European Union law, in particular Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 and Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009, including, where applicable, whether the group of which it is a part has a structure that makes it possible to exercise effective supervision, effectively exchange information among the competent authorities of relevant Member States and determine the allocation of responsibilities among the competent authorities of relevant Member States;
+(d) whether the applicant will be able to comply and continue to comply with the prudential requirements of the European Union (Capital Requirements) Regulations 2014 and the Capital Requirements Regulation, and where applicable, other European Union law, in particular Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 and Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009, including, where applicable, whether the group of which it is a part has a structure that makes it possible to exercise effective
+
+OJ No. L. 173, 12.6.2014, p. 349. OJ No. L. 35, 11.2.2003, p. 1. OJ No. L. 267, 10.10.2009, p.7. supervision, effectively exchange information among the competent authorities of relevant Member States and determine the allocation of responsibilities among the competent authorities of relevant Member States;
 
 (e) whether there are reasonable grounds to suspect that, in connection with the proposed authorisation, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC of the European Parliament and of the Council of 26 October 200515 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing is being or has been committed or attempted, or that the proposed authorisation could increase the risk thereof.
 
 (2) In carrying out its assessment of the suitability of the shareholders or members, the Bank shall consult with the competent authorities of other relevant Member States if one or more of the shareholders or members is—
 
-(a) a credit institution, insurance undertaking, reinsurance undertaking, investment firm, or a management company within the meaning of Article 2(1)(b) of Directive 2009/65/EC of the European Parliament and of the Council of 13
-
-OJ No. L. 35, 11.2.2003, p. 1. OJ No. L. 267, 10.10.2009, p.7.
-
-July 2009 (in this subsection referred to as a “UCITS management company”) authorised in another Member State,
+(a) a credit institution, insurance undertaking, reinsurance undertaking, investment firm, or a management company within the meaning of Article 2(1)(b) of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 (in this subsection referred to as a “UCITS management company”) authorised in another Member State,
 
 (b) the parent undertaking of a credit institution, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State, or
 
