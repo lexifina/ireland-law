@@ -100,6 +100,8 @@ Provisions of Acts of Oireachtas
 
 20. Section 6(3) of the Protected Disclosures Act 2014
 
+21. Sections 127 and 128 of the Automatic Enrolment Retirement Savings System Act 2024
+
 Part 3
 
 Statutory Instruments
