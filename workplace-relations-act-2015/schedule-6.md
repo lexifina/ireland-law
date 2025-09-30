@@ -90,6 +90,8 @@ Acts of Oireachtas
 
 40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
 
+41. Section 129 of the Automatic Enrolment Retirement Savings System Act 2024
+
 Statutory Instruments
 
 1. Regulation 10 of the European Communities (Protection of Employees on Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
@@ -193,6 +195,8 @@ Acts of Oireachtas
 39. Section 21A of the Parental Leave Act 1998
 
 40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
+
+41. Section 129 of the Automatic Enrolment Retirement Savings System Act 2024
 
 Statutory Instruments
 
