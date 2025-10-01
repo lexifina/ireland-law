@@ -18,8 +18,6 @@ Persons in insurable (occupational injuries) employment.
 
 (a) (i) the employment contribution payable under section 13(2)(b) of the Act of 2005 shall not be payable in the case of the employed contributor, and
 
-(ii) the employment contribution payable by the employer of that employed contributor under section 13(2)(d) of the Act of 2005 shall comprise a contribution at the rate of 0.6 percent of reckonable earnings,
+(ii) the employment contribution payable by the employer of that employed contributor under section 13(2)(d) of the Act of 2005 shall comprise a contribution at the rate of 0.7 percent of reckonable earnings,
 
 (b) an employment contribution payable by virtue of paragraph (a) shall not be reckoned for the purposes of qualifying or requalifying any person for any of the benefits described in section 39 of the Act of 2005. CHAPTER 2
-
-Subsidiary Employments and Employment of Inconsiderable Extent

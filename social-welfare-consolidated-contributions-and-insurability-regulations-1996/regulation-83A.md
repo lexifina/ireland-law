@@ -24,10 +24,10 @@ Certain former employees of An Post.
 
 (a) where in any contribution week a payment of more than €352 is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, there shall be payable a contribution by that employed contributor under section 13(2)(b) of the Act of 2005 at the rate of—
 
-(i) 1 percent of the amount of reckonable earnings up to €1,443, and
+(i) 1.1 percent of the amount of reckonable earnings up to €1,443, and
 
-(ii) 4.1 percent of the amount of reckonable earnings in excess of €1,443, in that week in respect of each employment (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis) to which that payment relates,
+(ii) 4.2 percent of the amount of reckonable earnings in excess of €1,443, in that week in respect of each employment (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis) to which that payment relates,
 
-(b) subject to section 13(2)(da) of the Act of 2005, where in any contribution week a payment is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, a contribution shall be payable by the employed contributor’s employer under section 13(2)(d) of the Act of 2005 at the rate of 2.45 percent of those reckonable earnings, and
+(b) subject to section 13(2)(da) of the Act of 2005, where in any contribution week a payment is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, a contribution shall be payable by the employed contributor’s employer under section 13(2)(d) of the Act of 2005 at the rate of 2.55 percent of those reckonable earnings, and
 
 (c) employment contributions paid under this subarticle in respect of a person shall be disregarded in determining whether the contribution conditions for any benefit other than carer’s benefit, parent’s benefit, widow’s (contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension, guardians payment (contributory) or occupational injuries benefits are satisfied.
