@@ -1,0 +1,3 @@
+Copies of Bill to be made available at post offices.
+
+22.— ...
