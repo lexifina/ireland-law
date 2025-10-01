@@ -40,7 +40,9 @@ Interpretation
 
 “clamp release charge” means a charge for the removal of a clamp fixed to an unlawfully or a wrongfully parked vehicle;
 
-“code of practice” means a code of practice established under section 12(1);
+“code of practice” means a code of practice established under section
+
+12(1);
 
 “enactment” includes an instrument made under an enactment;
 
