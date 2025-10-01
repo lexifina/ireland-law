@@ -1,0 +1,7 @@
+Charge before Special Criminal Court in lieu of District Court.
+
+47.—(1) Whenever it is intended to charge a person with a scheduled offence, the Attorney-General may, if he so thinks proper, direct that such person shall, in lieu of being charged with such offence before a justice of the District Court, be brought before a Special Criminal Court and there charged with such offence and, upon such direction being so given, such person shall be brought before a Special Criminal Court and shall be charged before that Court with such offence and shall be tried by such Court on such charge.
+
+(2) Whenever it is intended to charge a person with an offence which is not a scheduled offence and the Attorney-General certifies that the ordinary Courts are, in his opinion, inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to the trial of such person on such charge, the foregoing sub-section of this section shall apply and have effect as if the offence with which such person is so intended to be charged were a scheduled offence.
+
+(3) Whenever a person is required by this section to be brought before a Special Criminal Court and charged before that Court with such offence, it shall be lawful for such Special Criminal Court to issue a warrant for the arrest of such person and the bringing of him before such Court and, upon the issue of such warrant, it shall be lawful for such person to be arrested thereunder and brought in custody before such Court.

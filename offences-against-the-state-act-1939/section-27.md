@@ -1,0 +1,11 @@
+Prohibition of certain public meetings.
+
+27.—(1) It shall not be lawful to hold a public meeting which is held or purports to be held by or on behalf of or by arrangement or in concert with an unlawful organisation or which is held or purports to be held for the purpose of supporting, aiding, abetting, or encouraging an unlawful organisation or of advocating the support of an unlawful organisation.
+
+(2) Whenever an officer of the Gárda Síochána not below the rank of chief superintendent is of opinion that the holding of a particular public meeting about to be or proposed to be held would be a contravention of the next preceding sub-section of this section, it shall be lawful for such officer by notice given to a person concerned in the holding or organisation of such meeting or published in a manner reasonably calculated to come to the knowledge of the persons so concerned, to prohibit the holding of such meeting, and thereupon the holding of such meeting shall become and be unlawful.
+
+(3) Whenever an officer of the Gárda Síochána gives any such notice as is mentioned in the next preceding sub-section of this section, any person claiming to be aggrieved by such notice may apply to the High Court in a summary manner on notice to the Attorney-General for such order as is hereinafter mentioned and, upon the hearing of such application, the High Court if it so thinks proper, may make an order annulling such notice.
+
+(4) Every person who organises or holds or attempts to organise or hold a public meeting the holding of which is a contravention of this section or who takes part or is concerned in the organising or the holding of any such meeting shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding £500 or, at the discretion of the court, to imprisonment for a term not exceeding 12 months or to both such fine and such imprisonment.
+
+(5) In this section the expression “public meeting” includes a procession and also includes (in addition to a meeting held in a public place or on unenclosed land) a meeting held in a building or on enclosed land to which the public are admitted, whether with or without payment.

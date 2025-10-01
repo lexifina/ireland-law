@@ -1,0 +1,3 @@
+Offences by bodies corporate.
+
+31.—Where an offence under any section or sub-section of this Act is committed by a body corporate and is proved to have been so committed with the consent or approval of, or to have been facilitated by any neglect on the part of, any director, manager, secretary, or other officer of such body corporate, such director, manager, secretary, or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly, whether such body corporate has or has not been proceeded against in respect of the said offence.

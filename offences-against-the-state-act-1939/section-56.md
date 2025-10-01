@@ -1,0 +1,3 @@
+Powers of search, etc., of detained persons. (Repealed)
+
+56.—...

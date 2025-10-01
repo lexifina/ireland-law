@@ -1,0 +1,5 @@
+Examination of detained persons.
+
+52.—(1) Whenever a person is detained in custody under the provisions in that behalf contained in Part IV of this Act, any member of the Gárda Síochána may demand of such person, at any time while he is so detained, a full account of such person's movements and actions during any specified period and all information in his possession in relation to the commission or intended commission by another person of any offence under any section or sub-section of this Act or any scheduled offence.
+
+(2) If any person, of whom any such account or information as is mentioned in the foregoing sub-section of this section is demanded under that sub-section by a member of the Gárda Síoehána, fails or refuses to give to such member such account or any such information or gives to such member any account or information which is false or misleading, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to imprisonment for a term not exceeding six months.

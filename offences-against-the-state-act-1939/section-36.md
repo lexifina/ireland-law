@@ -1,0 +1,7 @@
+Schedule offences.
+
+36.—(1) Whenever while this Part of this Act is in force the Government is satisfied that the ordinary courts are inadequate to secure the effective administration of justice and the preservation of public peace and order in relation to offences of any particular class or kind or under any particular enactment, the Government may by order declare that offences of that particular class or kind or under that particular enactment shall be scheduled offences for the purposes of this Part of this Act.
+
+(2) Whenever the Government has made under the foregoing sub-section of this section any such declaration as is authorised by that sub-section, every offence of the particular class or kind or under the particular enactment to which such declaration relates shall, until otherwise provided by an order under the next following sub-section of this section, be a scheduled offence for the purposes of this Part of this Act.
+
+(3) Whenever the Government is satisfied that the effective administration of justice and the preservation of public peace and order in relation to offences of any particular class or kind or under any particular enactment which are for the time being scheduled offences for the purposes of this Part of this Act can be secured through the medium of the ordinary courts, the Government may by order declare that offences of that particular class or kindor under that particular enactment shall, upon the making of such order, cease to be scheduled offences for the purposes of this Part of this Act.
