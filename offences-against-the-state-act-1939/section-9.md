@@ -1,0 +1,7 @@
+Interference with military or other employees of the State.
+
+9.—(1) Every person who shall with intent to undermine public order or the authority of the State commit any act of violence against or of interference with a member of a lawfully established military or police force (whether such member is or is not on duty) or shall take away, injure, or otherwise interfere with the arms or equipment, or any part of the arms or equipment, of any such member shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+(2) Every person who shall incite or encourage any person employed in any capacity by the State to refuse, neglect, or omit (in a manner or to an extent calculated to dislocate the public service or a branch thereof) to perform his duty or shall incite or encourage any person so employed to be negligent or insubordinate (in such manner or to such extent as aforesaid) in the performance of his duty shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding two years.
+
+(3) Every person who attempts to do any thing the doing of which is a misdemeanour under either of the foregoing sub-sections of this section or who aids or abets or conspires with another person to do or attempt to do any such thing or advocates or encourages the doing of any such thing shall be guilty of a misdemeanour and shall be liable on conviction thereof to imprisonment for a term not exceeding twelve months.
