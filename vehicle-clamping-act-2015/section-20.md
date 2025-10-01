@@ -16,7 +16,11 @@ Appeal procedures - parking controller
 
 (3) An appeal shall be considered by a parking controller within 21 days of the date on which the appeal is lodged.
 
-(4) A parking controller shall make available in printed form on request and free of charge to a person referred to in section 19 the procedures in place for the purposes of making an appeal.
+(4) A parking controller shall make available in printed form on request and free of charge to a person referred to in
+
+## section 19
+
+the procedures in place for the purposes of making an appeal.
 
 (5) The determination of an appeal shall be given in writing.
 

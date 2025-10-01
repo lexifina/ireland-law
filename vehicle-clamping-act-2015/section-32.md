@@ -76,11 +76,7 @@ Amendment of section 101B of Act of 1961 - immobilisation of unlawfully parked v
 
 (ii) where no such period is prescribed, not later than 2 hours after payment of the prescribed charge or its waiver.
 
-(d) Where an immobilisation device is removed from a vehicle otherwise than in accordance with paragraph (c), the clamping operator concerned (within the meaning of
-
-## section 2
-
-of the Vehicle Clamping Act 2015) shall ensure that the prescribed charge (if paid) and any additional charges are refunded without delay to the person who paid the charge or charges.
+(d) Where an immobilisation device is removed from a vehicle otherwise than in accordance with paragraph (c), the clamping operator concerned (within the meaning of section 2 of the Vehicle Clamping Act 2015) shall ensure that the prescribed charge (if paid) and any additional charges are refunded without delay to the person who paid the charge or charges.
 
 (9) A notice affixed to a vehicle under this section shall not be removed or interfered with by a person other than the owner of the vehicle or a person authorised by such owner to use the vehicle and a person who contravenes this subsection commits an offence.
 
