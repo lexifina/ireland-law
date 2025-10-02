@@ -26,6 +26,8 @@ Provision relating to first marine planning policy statement
 
 "specified Act" means—
 
-(a) this Act, or
+(a) this Act,
 
-(b) the Act of 2000.
+(b) the Act of 2000, or
+
+(c) the Act of 2024.

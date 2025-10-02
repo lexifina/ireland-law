@@ -16,6 +16,8 @@ Interpretation - general
 
 “Act of 2021” means the Maritime Jurisdiction Act 2021;
 
+"Act of 2024’" means the Planning and Development Act 2024;
+
 “applicant”, in relation to an application under this Act, means the person who made the application;
 
 “appropriate assessment” shall be construed in accordance with, as appropriate—
@@ -26,11 +28,11 @@ Interpretation - general
 
 “authorised officer” means a person appointed under section 137(1) to be an authorised officer;
 
-“Birds Directive” has the meaning assigned to it by the Act of 2000;
+“Birds Directive” has the meaning assigned to it by the Act of 2024;
 
 “Board (P)” means An Bord Pleanála;
 
-“coastal planning authority” means the planning authority (within the meaning of section 2 of the Act of 2000) for any of the following:
+“coastal planning authority” means the planning authority (within the meaning of section 2 of the Act of 2024) for any of the following:
 
 (a) the county of Louth, Meath, Fingal, Dun Laoghaire-Rathdown, Wicklow, Wexford, Carlow, Kilkenny, Tipperary, Cork, Kerry, Clare, Galway, Mayo, Sligo, Leitrim or Donegal;
 
@@ -78,7 +80,7 @@ Interpretation - general
 
 “General Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC2;
 
-“Habitats Directive” has the meaning assigned to it by the Act of 2000;
+“Habitats Directive” has the meaning assigned to it by the Act of 2024;
 
 “indemnity” includes, in addition to a contract of indemnity—
 
@@ -148,9 +150,9 @@ Interpretation - general
 
 “national newspaper” means a newspaper published and circulating generally in the State, whether in hard copy or electronic copy, or both;
 
-“National Planning Framework” means the National Planning Framework referred to in Chapter IIA of Part II of the Act of 2000;
+“National Planning Framework” means the National Planning Framework referred to in Chapter 2 of Part 3 of the Act of 2024;
 
-“nearshore area”, in relation to a CPA, shall be construed in accordance with section 5 ;
+“nearshore area”, in relation to a CPA, shall be construed in accordance with section 5;
 
 “obligations” includes liabilities;
 
@@ -210,7 +212,7 @@ Interpretation - general
 
 (b) in relation to a fee, means specified in regulations made under section 78 or 116, as appropriate;
 
-“strategic environmental assessment” has the meaning assigned to it by section 2 of the Act of 2000;
+“strategic environmental assessment” has the meaning assigned to it by section 2 of the Act of 2024;
 
 “submissions” include observations;
 

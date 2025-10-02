@@ -36,7 +36,7 @@ Marine planning policy statement
 
 (b) otherwise publish or cause to be published, in such manner as he or she considers appropriate, that statement.
 
-(8) A public body shall have regard to the marine planning policy statement when performing a function under this Act , or the Act of 2000, to which information, setting out the principles and priorities of the Government referred to in subsection (1), contained in the statement is relevant.
+(8) A public body shall have regard to the marine planning policy statement when performing a function under this Act , the Act of 2000, or the Act of 2024, to which information, setting out the principles and priorities of the Government referred to in subsection (1), contained in the statement is relevant.
 
 (9) The Minister may amend or revoke the marine planning policy statement prepared under this section.
 

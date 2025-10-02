@@ -10,6 +10,8 @@ Interpretation
 
 “Act of 2015” means the Valuation (Amendment) Act 2015;
 
+"Act of 2024" means the Planning and Development Act 2024
+
 “annual rate on valuation” means the rate determined by the local authority concerned as the rating authority pursuant to section 3;
 
 “enactment” has the same meaning as it has in the Interpretation Act 2005;
