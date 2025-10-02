@@ -106,9 +106,7 @@ Procedure for preparing and making coordinated area plans
 
 (18) Subsequent to receipt of the written submissions under subparagraph (iv) of paragraph (a) of subsection (14) and before finalisation of his or her report in accordance with subsection (19), the chief executive of the principal planning authority shall carry out in respect of the material alteration any assessment which is required in accordance with subsection (15) or (16).
 
-(19) Not later than 8 weeks after the publication of a notice under subsection (14), the chief executive of the principal planning authority shall prepare a report on any submissions received under subparagraph (iv) of paragraph
-
-(a) of that subsection and submit the report to the members of the coordinated area plan committee for their consideration.
+(19) Not later than 8 weeks after the publication of a notice under subsection (14), the chief executive of the principal planning authority shall prepare a report on any submissions received under subparagraph (iv) of paragraph (a) of that subsection and submit the report to the members of the coordinated area plan committee for their consideration.
 
 (20) A report prepared for the purposes of subsection (19) shall be published on a website maintained by or on behalf of the principal planning authority as soon as practicable following submission to the members of the coordinated area plan committee.
 
