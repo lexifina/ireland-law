@@ -76,7 +76,7 @@ Consultation and adoption of local area plans.
 
 (II) does not apply where the planning authority has sought and receives, either before or after the period of 10 working days referred to in subparagraph (i), legal advice to the effect that it should not publish under that subparagraph or should cease to so publish, as the case may be, the submission or observation concerned,
 
-(III) does not apply to the extent that the local authority has sought and received, either before or after the period of 10 working days referred to in subparagraph (i), legal advice that part of the submission or observation concerned should not be published on the website of the planning authority or should cease to be so published, as the case may be, or
+(III) does not apply to the extent that the local authority has sought and r2eceived, either before or after the period of 10 working days referred to in subparagraph (i), legal advice that part of the submission or observation concerned should not be published on the website of the planning authority or should cease to be so published, as the case may be, or
 
 (IV) does not apply where the submission or observation relates to matters prescribed by the Minister for the purpose of this provision or does not apply to the extent that so much of the submission or observation relates to matters prescribed by the Minister.
 
@@ -141,3 +141,5 @@ Consultation and adoption of local area plans.
 (c) specific planning policy requirements specified in guidelines under subsection (1) of section 28.
 
 Chapter IIA
+
+National Planning Framework
