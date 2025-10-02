@@ -14,9 +14,7 @@ Supplementary provisions relating to decisions on certain applications referred 
 
 (i) the relevant regulatory decision the subject of the appeal, or
 
-(ii) the report prepared under subsection (10) of section 191 and revised under paragraph (b) of subsection (14) of section 191, or prepared under subsection (11) of section 192 and revised under paragraph
-
-(b) of subsection (15) of section 192, as appropriate, which relates to such relevant regulatory decision.
+(ii) the report prepared under subsection (10) of section 191 and revised under paragraph (b) of subsection (14) of section 191, or prepared under subsection (11) of section 192 and revised under paragraph (b) of subsection (15) of section 192, as appropriate, which relates to such relevant regulatory decision.
 
 (4) (a) Paragraphs (b) and (c) shall apply where the Commission is considering, in its determination of the relevant appeal in so far as the appeal relates to the relevant regulatory decision, adopting noise mitigation measures or operating restrictions (if any), or a combination thereof, which were not, during the process that gave rise to the relevant regulatory decision, the subject of previous consultation conducted by the competent authority pursuant to section 191 or 192, as the case may be.
 
