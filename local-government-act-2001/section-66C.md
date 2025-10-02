@@ -32,9 +32,9 @@ Preparation and making of local economic and community plans.
 
 (c) The consideration of the economic elements of a draft of the Plan by the regional assembly, the municipal district members, in accordance with pararaph (b), and the Committee, in accordance with section 128B(1) (h), shall relate to its consistency with—
 
-(i) the core strategy and the objectives of the development plan (being the development plan for the purposes of Chapter I of Part II of the Act of 2000) of the local authority concerned,
+(i) the integrated overall strategy and the objectives of the development plan (being the development plan for the purposes of Chapter 5 of Part 3 of the Act of 2024) of the local authority concerned,
 
-(ii) any regional spatial and economic strategy or, as appropriate, regional planning guidelines (being a strategy or guidelines for the purposes of Chapter III of Part II of the Act of 2000), that may apply, and
+(ii) any regional spatial and economic strategy (being a strategy for the purposes of Chapter 4 of Part 3 of the Act of 2024), that may apply, and
 
 (iii) the community elements of a draft of the Plan submitted by the Committee in accordance with subsection (3)(b).
 
@@ -60,9 +60,9 @@ Preparation and making of local economic and community plans.
 
 (c) The consideration of the community elements of a draft of the Plan by the regional assembly, the municipal district members, in accordance with paragraph (b), and the local authority concerned, in accordance with subsection (4)(a), shall relate to its consistency with—
 
-(i) the core strategy and the objectives of the development plan (being the development plan for the purposes of Chapter I of Part II of the Act of 2000) of the local authority concerned,
+(i) the integrated overall strategy and the objectives of the development plan (being the development plan for the purposes of Chapter 5 of Part 3 of the Act of 2024) of the local authority concerned,
 
-(ii) any regional spatial and economic strategy or, as appropriate, regional planning guidelines (being a strategy or guidelines for the purposes of Chapter III of Part II of the Act of 2000), that may apply, and
+(ii) any regional spatial and economic strategy (being a strategy for the purposes of Chapter 4 of Part 3 of the Act of 2024), that may apply, and
 
 (iii) the economic elements of a draft of the Plan prepared in accordance with subsection (2)(b).
 
@@ -70,8 +70,8 @@ Preparation and making of local economic and community plans.
 
 (4)(a) Following the adoption of statements provided for in subsections (2)(b) and (3)(b) and any statement adopted by the Committee, the Plan (including any Plan amended consequent to subparagraph (i), or new Plan made consequent to subparagraph (ii) of section 66F(b)) shall integrate the economic and community elements and that Plan shall be made by the elected council of the local authority, with or without amendment, and any amendment by it shall relate only to the consistency of the Plan with—
 
-(i) the core strategy and the objectives of the development plan (being the development plan for the purposes of Chapter I of Part II of the Act of 2000) of the local authority concerned that apply to the area of the Plan, and
+(i) the integrated overall strategy and the objectives of the development plan (being the development plan for the purposes of Chapter 5 of Part 3 of the Act of 2024) of the local authority concerned that apply to the area of the Plan, and
 
-(ii) any regional spatial and economic strategy or, as appropriate, regional planning guidelines (being a strategy or guidelines for the purposes of Chapter III of Part II of the Act of 2000) that apply to the area of the Plan.
+(ii) any regional spatial and economic strategy (being a strategy for the purposes of Chapter 4 of Part 3 of the Act of 2024), that apply to the area of the Plan.
 
 (b) The making of the Plan under paragraph (a) by the elected council of the local authority is a reserved function.

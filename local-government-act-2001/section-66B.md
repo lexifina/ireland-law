@@ -70,9 +70,9 @@ Local economic and community plan.
 
 (4) Every Plan made pursuant to subsection (1) shall be consistent with—
 
-(a) the core strategy and the objectives of the development plan (being the development plan for the purposes of Chapter I of Part II of the Act of 2000) of the local authority concerned, and
+(a) the integrated overall strategy and the objectives of the development plan (being the development plan for the purposes of Chapter 5 of Part 3 of the Act of 2024) of the local authority concerned, and
 
-(b) any regional spatial and economic strategy or, as appropriate, regional planning guidelines (being a strategy or guidelines for the purposes of Chapter III of Part II of the Act of 2000), that apply to the area of the Plan, and shall consist of a written statement which may include objectives for the sustainable development of the area of the Plan.
+(b) any regional spatial and economic strategy (being a strategy for the purposes of Chapter 4 of Part 3 of the Act of 2024) that apply to the area of the Plan, and shall consist of a written statement which may include objectives for the sustainable development of the area of the Plan.
 
 (5)(a) Without prejudice to subsections (2) and (3), the Plan to which subsection (1) relates shall include and integrate—
 
