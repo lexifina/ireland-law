@@ -1,4 +1,4 @@
-Fees payable to planning authorities.
+Fees payable 2to planning
 
 246.—(1) The Minister may make regulations providing for—
 

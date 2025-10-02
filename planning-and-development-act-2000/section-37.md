@@ -2,7 +2,9 @@ Appeal to Board.
 
 37.—(1) (a) An applicant for permission and any person who made submissions or observations in writing in relation to the planning application to the planning authority in accordance with the permission regulations and on payment of the appropriate fee, may, at any time before the expiration of the appropriate period, appeal to the Board against a decision of a planning authority under section 34.
 
-(b) Subject to paragraphs (c) and (d), where an appeal is brought against a decision of a planning authority and is not withdrawn, the Board shall determine the application as if it had been made to the Board in the first instance and the decision of the Board shall operate to annul the decision of the planning authority as from the time when it was given; and subsections (1), (2), (3), (4), and (4A) of section 34 shall apply, subject to any necessary modifications, in relation to the determination of an application by the Board on appeal under this subsection as they apply in relation to the determination under that section of an application by a planning authority.
+(b) Subject to paragraphs (c) and (d), where an appeal is brought against a decision of a planning authority and is not withdrawn, the Board shall determine the application as if it had been made to the Board in the first instance and the decision of the Board shall operate to annul the decision of the planning authority as from the time when it was given; and subsections
+
+(1), (2), (3), (4), and (4A) of section 34 shall apply, subject to any necessary modifications, in relation to the determination of an application by the Board on appeal under this subsection as they apply in relation to the determination under that section of an application by a planning authority.
 
 (c) Paragraph (b) shall be construed and have effect subject to sections 133, 138 and 139.
 
