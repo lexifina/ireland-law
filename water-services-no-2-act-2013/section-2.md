@@ -10,6 +10,8 @@ Definitions
 
 “Act of 2013” means the Water Services Act 2013;
 
+"Act of 2024" means the Planning and Development Act 2024;
+
 “Agency” means the Environmental Protection Agency;
 
 “city council” has the same meaning as it has in the Act of 2001;
