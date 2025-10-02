@@ -6,6 +6,8 @@ Interpretation generally.
 
 “Act of 2000” means the Planning and Development Act, 2000;
 
+"Act of 2024" means the Planning and Development Act 2024;
+
 "administrative area" means an area standing established under section 10 for the purposes of local government and which is—
 
 (a) a county in the case of a county council,
@@ -122,7 +124,7 @@ Interpretation generally.
 
 “meetings administrator” shall be read in accordance with section 46;
 
-“member”, in relation to a local authority, includes a Cathaoirleach and Leas- Chathaoirleach;
+“member”, in relation to a local authority, includes a Cathaoirleach and Leas-Chathaoirleach;
 
 “Minister” means the Minister for the Environment and Local Government;
 
