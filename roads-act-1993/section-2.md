@@ -20,6 +20,8 @@ Interpretation.
 
 "Act of 2000" means Planning and Development Act 2000;
 
+"Act of 2024" means the Planning and Development Act 2024;
+
 “the Authority” means the National Roads Authority established under section 16;
 
 “busway” has the meaning assigned to it by section 44;
@@ -34,7 +36,7 @@ Interpretation.
 
 “development” has the meaning assigned to it by the Act of 1963;
 
-"development plan" has the meaning assigned to it by section 9(1) of the Act of 2000;
+"development plan" has the meaning assigned to it by the Act of 2024;
 
 "EIA Directive" means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014;
 
@@ -46,7 +48,7 @@ Interpretation.
 
 (ii) the carrying out of consultation referred to in section 51(3),
 
-(iii) the examination by An Bord Pleanála of the information presented in the environmental impact assessment report, any additional information provided in accordance with section 51(4) and any relevant information received through consultation under section 51(3),
+(iii) the examination by An Bord Pleanála of the information presented in the environmental impactassessment report,any additional information providedin accordance with section 51(4) and any relevant information received through consultation under section 51(3),
 
 (iv) the reaching by An Bord Pleanála of the reasoned conclusion referred to in section 51(5) on the significant effects of the proposed road development on the environment; and
 
