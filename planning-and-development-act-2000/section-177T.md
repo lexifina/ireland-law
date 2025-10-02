@@ -10,9 +10,9 @@ Natura impact report and Natura impact statement.
 
 (3) As respects a draft National Planning Framework, the Government shall prepare a Natura impact report in relation to a draft Land use plan and the following bodies shall also prepare a Natura impact report in relation to a draft Land use plan—
 
-(a) as respects a draft regional spatial and economic strategy, the regional assembly for whose area the draft strategy is made,
+(a) ...
 
-(aa) as respects a draft National Planning Framework, the Minister.
+(aa) ...
 
 (b) as respects a draft planning scheme in respect of all or any part of a strategic development zone, the planning authority (which term shall be construed in accordance with section 168(5)) for whose area the draft scheme is made,
 
