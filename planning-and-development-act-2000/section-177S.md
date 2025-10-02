@@ -4,9 +4,9 @@ Competent Authority.
 
 (2) Subject to subsection (3), the competent authority in the State for the purposes of this Part and Articles 6 and 7 of the Habitats Directive, shall be—
 
-(a) in relation to draft regional spatial and economic strategy, the regional assembly for whose area the strategy is made,
+(a) ...
 
-(aa) in relation to a draft National Planning Framework, the Minister.
+(aa) ...
 
 (b) in relation to a draft planning scheme in respect of all or any part of a strategic development zone, the planning authority (which term shall be construed in accordance with section 168(5)) in whose area the strategic development zone is situate, or, on appeal the Board, as the case may be,
 

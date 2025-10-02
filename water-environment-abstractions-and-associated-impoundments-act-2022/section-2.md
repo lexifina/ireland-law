@@ -14,6 +14,8 @@ Interpretation
 
 “Act of 2000” means the Planning and Development Act 2000;
 
+“Act of 2024” means the Planning and Development Act 2024;
+
 “Agency” means the Environmental Protection Agency;
 
 “applicant” means a person who applies for a licence in accordance with section 21, 29 or 37;

@@ -34,7 +34,7 @@ Functions of MARA
 
 (iii) investigating instances otherwise of suspected non-compliance with the Act of 1933 or with obligations to which holders and former holders of the authorisations are subject, and
 
-(j) performing such other functions as are conferred upon it by this Act, the Act of 2000 or any other enactment.
+(j) performing such other functions as are conferred upon it by this Act, the Act of 2000 , the Act of 2024 or any other enactment.
 
 (2) Subject to this Act, the MARA shall be independent in the performance of its functions.
 

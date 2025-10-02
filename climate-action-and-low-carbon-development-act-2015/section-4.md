@@ -112,6 +112,6 @@ Climate action plan and national long term climate action strategy
 
 "carbon leakage" means the transfer, due to climate policies, of production to other countries with less restrictive policies with regard to greenhouse gas emissions;
 
-"National Planning Framework" has the meaning assigned to it in section 20A of the Planning and Development Act 2000 ;
+"National Planning Framework" has the meaning it has in the Planning and Development Act 2024;
 
-"National Spatial Strategy" means the "National Spatial Strategy: 2002- 2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy.
+"National Spatial Strategy" means the "National Spatial Strategy: 2002-2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy.

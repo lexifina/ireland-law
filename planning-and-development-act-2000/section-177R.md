@@ -50,7 +50,7 @@ Interpretation.
 
 "Land use plan" means—
 
-(a) regional spatial and economic strategy,
+(a) ...
 
 (b) a planning scheme in respect of all or any part of a strategic development zone,
 

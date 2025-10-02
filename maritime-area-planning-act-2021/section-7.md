@@ -1,10 +1,10 @@
 Ministerial guidelines
 
-7. (1) Subject to subsection (8), the Minister may, at any time, prepare and issue marine planning guidelines to public bodies regarding any of their functions under this Act and public bodies shall have regard to those guidelines in the performance of their respective functions.
+7. (1) Subject to subsection (8), the Minister may, at any time, prepare and issue marine planning guidelines to public bodies regarding any of their functions under this Act, or functions under the Act of 2024 relating to the maritime area, and public bodies shall have regard to those guidelines in the performance of their respective functions.
 
-(2) Without prejudice to the generality of subsection (1), and for the purposes of that subsection, a public body, in having regard to the guidelines issued by the Minister under that subsection, shall consider the policies and objectives of the Minister contained in the guidelines when performing a function under this Act to which the guidelines relate.
+(2) Without prejudice to the generality of subsection (1), and for the purposes of that subsection, a public body, in having regard to the guidelines issued by the Minister under that subsection, shall consider the policies and objectives of the Minister contained in the guidelines when performing a function under this Act, or functions under the Act of 2024 relating to the maritime area, to which the guidelines relate.
 
-(3) Without prejudice to the generality of subsection (1), guidelines under that subsection may contain specific marine planning policy requirements with which public bodies shall, in the performance of their respective functions under this Act, comply.
+(3) Without prejudice to the generality of subsection (1), guidelines under that subsection may contain specific marine planning policy requirements with which public bodies shall, in the performance of their respective functions under this Act, or functions under the Act of 2024 relating to the maritime area, comply.
 
 (4) The Minister may amend or revoke guidelines issued under this section.
 
