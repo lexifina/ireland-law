@@ -340,7 +340,9 @@ Consultation with Board prior to application for permission
 
 (a) having regard to subsection (3) of section 286, is eligible to apply for permission to carry out development to which this Chapter applies, and
 
-(b) proposes to make an application under section 291 for such permission, shall, before making the application, consult with the Board in relation thereto. (2) The Board may, upon being consulted by a prospective applicant in accordance with subsection (1), provide its opinion to the prospective applicant regarding the making of the application concerned and, in particular, as respects—
+(b) proposes to make an application under section 291 for such permission, shall, before making the application, consult with the Board in relation thereto.
+
+(2) The Board may, upon being consulted by a prospective applicant in accordance with subsection (1), provide its opinion to the prospective applicant regarding the making of the application concerned and, in particular, as respects—
 
 (a) the procedures to be followed by the prospective applicant when making the application and by the Board when considering the application,
 
@@ -664,9 +666,7 @@ Provision supplementing section 291
 
 (a) a notice or an invitation in a notice under section 291, or
 
-(b) an invitation under this section, whichever occurs later, make a decision under section 293 in relation to the application.
-
-(6) (a) The making of submissions or observations by the Maritime Area Regulatory Authority under this section shall not prejudice the performance by it of any of its other functions.
+(b) an invitation under this section, whichever occurs later, make a decision under section 293 in relation to the application. (6) (a) The making of submissions or observations by the Maritime Area Regulatory Authority under this section shall not prejudice the performance by it of any of its other functions.
 
 (b) The making of submissions or observations by a coastal planning authority under this section shall not prejudice the performance by it of any of its other functions.
 
@@ -922,7 +922,9 @@ Provision supplementing section 293
 
 (7) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a statement referred to in paragraph (f) of subsection (3), the Board may recover the sum as a simple contract debt in any court of competent jurisdiction.
 
-(8) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a statement referred to in paragraph (g) of subsection (3), the Maritime Area Regulatory Authority, the coastal planning authority concerned or any other person to whom the sum is owed, as the case may be, may recover the sum as a simple contract debt in any court of competent jurisdiction.
+(8) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a statement referred to in paragraph
+
+(g) of subsection (3), the Maritime Area Regulatory Authority, the coastal planning authority concerned or any other person to whom the sum is owed, as the case may be, may recover the sum as a simple contract debt in any court of competent jurisdiction.
 
 (9) A person shall not be entitled to carry out development to which this Chapter applies solely by reason of a grant of permission under section 293.
 
