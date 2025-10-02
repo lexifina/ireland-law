@@ -2,7 +2,7 @@ Matters to which MARA shall have regard in performing functions
 
 44. The MARA shall, in performing its functions, have regard to—
 
-(a) the obligation imposed on it by section 30 ,
+(a) the obligation imposed on it by section 30,
 
 (b) obligations of the State under the Convention and the Act of 2021,
 
