@@ -24,6 +24,10 @@ Prohibitions on Parking.
 
 (ia) traffic sign number RPC 001A (zebra pedestrian crossing without belisha beacons),
 
+(ib) traffic sign RPC 005 (parallel zebra crossing) or traffic sign RPC 006 (combined zebra crossing),
+
+(ic) traffic sign RPC 005A (parallel zebra crossing without belisha beacons) or traffic sign RPC 006A (combined zebra crossing without belisha beacons),
+
 (ii) traffic sign number RPC 002 (zig-zag pedestrian crossing lines) associated with RPC 001 (zebra pedestrian crossing), RPC 001A (zebra pedestrian crossing without belisha beacons), RPC 003 or RPC 004 (pedestrian crossing signals), or
 
 (iii) traffic sign numbers RTS 001, RTS 002, RTS 003, RTS 004 or RTS 013 (traffic lights),
