@@ -1,16 +1,16 @@
 Bus Lanes.
 
-32. (1)(a) A bus lane shall be indicated by means of traffic sign number RUS 028 or traffic sign number RUS 029 used in association with traffic sign number RRM 024.
+32. (1)(a)A bus lane shall be indicated by means of traffic sign number RUS 028 or traffic sign number RUS 029 used in association with traffic sign number RRM 024.
 
 (b) A contra-flow bus lane shall be indicated by means of traffic sign number RUS 030 used in association with traffic sign number RRM 024.
 
-(2) A person shall not enter a bus lane with a vehicle, other than a large public service vehicle, a pedal cycle, an L1e-A e-moped or an electric scooter, during the period of operation of the bus lane indicated on an information plate.
+(2) A person shall not enter a bus lane with a vehicle, other than a large public service vehicle, a pedal cycle, an e-moped or an electric scooter, during the period of operation of the bus lane indicated on an information plate.
 
-(3) A person shall not enter a contra-flow bus lane with a vehicle, other than a large public service vehicle, a pedal cycle, an L1e-A e-moped or an electric scooter.
+(3) A person shall not enter a contra-flow bus lane with a vehicle, other than a large public service vehicle, a pedal cycle, an e-moped or an electric scooter.
 
-(4) A person shall not enter a bus-only street with a vehicle other than a large public service vehicle, a pedal cycle, an L1e-A e-moped or an electric scooter except for the purpose of access.
+(4) A person shall not enter a bus-only street with a vehicle other than a large public service vehicle, a pedal cycle, an e-moped or an electric scooter except for the purpose of access.
 
-(5)(a) Sub-articles (2) and (3) do not apply to a vehicle crossing a with-flow bus lane or a contra-flow bus lane solely for the purpose—
+(5) (a) Sub-articles (2) and (3) do not apply to a vehicle crossing a with-flow bus lane or a contra-flow bus lane solely for the purpose—
 
 (i) of entering or leaving premises or property adjacent to such a bus lane, or
 
