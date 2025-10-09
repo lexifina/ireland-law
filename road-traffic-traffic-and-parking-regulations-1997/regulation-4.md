@@ -20,13 +20,19 @@ Interpretation.
 
 "bus lane" and "contra flow bus lane" have the meanings assigned to them in article 32;
 
-"bus-only street" means a street or a portion of a street at each entrance to which is provided traffic sign number RUS 011 (no straight ahead) accompanied by an information plate to indicate that vehicles, other than large public service vehicles, pedal cycles, L1e-A e-mopeds, electric scooters and vehicles entering for access only, are prohibited from entering that street;
+"bus-only street" means a street or a portion of a street at each entrance to which is provided traffic sign number RUS 011 (no straight ahead) accompanied by an information plate to indicate that vehicles, other than large public service vehicles, pedal cycles, e-mopeds, electric scooters and vehicles entering for access only, are prohibited from entering that street;
 
-"car club" means a car club licensed in that regard by a road authority;
+"car club vehicle permit" means a car club vehicle permit issued by a road authority for the purposes of Article 44A;
 
-"car club vehicle parking bay" means a space intended for the parking of a mechanically propelled vehicle in which is displayed a car club vehicle permit;
+"car share vehicle permit" means a car share scheme permit issued by a road authority for the purposes of Article 44A;
 
-"car club vehicle permit" means a car club permit issued by a road authority and for the purposes of Article 44A;
+"car share electrically powered vehicle recharging and parking bay" means a space intended for the recharging and parking of an electrically powered vehicle in which is displayed a car share electrically powered vehicle permit;
+
+"car share electrically powered vehicle permit" means a car share electrically powered vehicle permit issued by a road authority for the purposes of Article 44C;
+
+"car share" means a car share scheme or car club, licensed or authorised by a road authority under bye-laws made under section 199 of the Local Government Act 2001, for the purpose of the sharing of mechanically propelled vehicles by members of the scheme or club renting or using the vehicles for short periods, such as by the hour or day;
+
+"car share vehicle parking bay" means a space intended for the parking of a mechanically propelled vehicle in which is displayed a car club vehicle permit or a car share vehicle permit;
 
 "carriageway" means that part of a roadway on which traffic proceeds in a single direction;
 
@@ -56,6 +62,12 @@ Interpretation.
 
 "electrically powered vehicle recharging bay" means a space intended for the parking of an electrically powered vehicle while the vehicle’s battery is being re-charged;
 
+"e-moped" means a pedal-assisted mechanically propelled vehicle that is a bicycle or tricycle capable of propulsion solely by the physical exertions of a person or persons seated on it, and equipped with an auxiliary electric motor—
+
+(a) which has a maximum continuous rated power greater than 0.25 kilowatts but less than or equal to 1 kilowatt, and
+
+(b) the output of which cuts off when the physical exertions stop and before, or when, the bicycle or tricycle reaches the speed of 25 kilometres per hour;
+
 "footway" has the meaning assigned to it by section 2(1) of the Act of 1993;
 
 "footway build out" means part of the footway is built out to extend into the adjoining roadway;
@@ -66,12 +78,6 @@ Interpretation.
 
 "holiday" means Good Friday or a day that is a public holiday;
 
-L1e-A e-moped means a mechanically propelled vehicle that is a bicycle or tricycle capable of propulsion solely by the physical exertions of a person or persons seated on it, and equipped with an auxiliary electric motor—
-
-(a) which has a maximum continuous rated power greater than 0.25 kilowatts but less than or equal to 1 kilowatt, and
-
-(b) the output of which cuts off when the physical exertions stop and before, or when, the bicycle or tricycle reaches the speed of 25 kilometres per hour
-
 "left hand side" and "right hand side" shall be determined by facing in the direction of traffic flow;
 
 "lighting up hours" means the period commencing one half hour after sunset on any day and ending one half hour before sunrise on the next day;
@@ -80,15 +86,15 @@ L1e-A e-moped means a mechanically propelled vehicle that is a bicycle or tricyc
 
 "local authority" means county council, city council or borough or town council;
 
-"median strip" means a boundary between the two carriageways of a road other than a traffic sign to which Regulation 48 of the Regulations of 2024 refer;
+"median strip" means a boundary between the two carriageways of a road other than a traffic sign to which Regulation 58 of the Regulations of 2025 refers;
 
 "motorway" has the meaning assigned to it in section 2(1) of the Act of 1993;
 
-"parking bay" means the area contained between lines of the type referred to in Regulation 56 of the Regulations of 2024;
+"parking bay" means the area contained between lines of the type referred to in Regulation 66 of the Regulations of 2025;
 
 "public road" has the meaning assigned to it by section 2 (1) of the Act of 1993;
 
-"Regulations of 2024" mean Road Traffic (Signs) Regulations 2024 (S.I. No. 200 of 2024);
+"Regulations of 2025" means Road Traffic (Traffic Signs) Regulations 2025 (S.I. No. 433 of 2025);
 
 "road" has the meaning assigned to it by section 2 (1) of the Act of 1993;
 
@@ -112,13 +118,13 @@ L1e-A e-moped means a mechanically propelled vehicle that is a bicycle or tricyc
 
 (2) A reference in these Regulations to the loading of goods shall be taken to include the supplying of fuel for the operation of the vehicle.
 
-(3) (i) Notwithstanding paragraph (ii), a reference in these Regulations to a traffic sign prescribed in the Regulations of 2024 and any number referred to in association with a traffic sign shall be the number allocated to such sign in such Regulations.
+(3) (a) Notwithstanding paragraph (b), a reference in these Regulations to a traffic sign prescribed in the Regulations of 2025 and any number referred to in association with a traffic sign shall be the number allocated to such sign in such Regulations.
 
-(ii) Descriptions given to traffic signs in the Regulations of 2024 may be referred to in these Regulations for the purpose of identification.
+(b) Descriptions given to traffic signs in the Regulations of 2025 may be referred to in these Regulations for the purpose of identification.
 
 (4) A reference in these Regulations to an information plate accompanying a traffic sign shall, unless otherwise specified, be to a plate which shall indicate the period during which the restriction or prohibition indicated by such traffic sign applies.
 
-(5) (a) Subject to paragraph (b), a reference in these Regulations to a vehicle unless otherwise specified, means a mechanically propelled vehicle (other than a mechanically propelled wheelchair), a pedal cycle or an electric scooter.
+(5) (a) Subject to paragraph (b), a reference in these Regulations to a vehicle unless otherwise specified, means a mechanically propelled vehicle (other than a mechanically propelled wheelchair), a pedal cycle, an e-moped or an electric scooter.
 
 (b) In Articles 20 and 21 insofar as they relate to either traffic sign number RRM 017 (stop line) or traffic sign number RRM 018 (yield line), and Articles 6, 7, 8(1) and 31, of these Regulations a reference to a vehicle shall be construed as including a reference to a light rail vehicle.
 
