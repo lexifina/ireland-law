@@ -28,7 +28,7 @@ Non-application of certain Prohibitions and Restrictions.
 
 (5) A prohibition on the parking of a vehicle imposed by article 36(2)(m) shall not apply to a vehicle parked in a cycle track, on the right hand edge of which traffic sign number RRM 023 has been provided, while goods are being loaded in or on to it or unloaded from it for a period not exceeding thirty minutes from the commencement of such parking.
 
-(6) A restriction on the parking of a vehicle imposed by article 37 shall not apply to —
+(6) A restriction on the parking of a vehicle imposed by article 37 shall not apply to—
 
 (a) a vehicle to which sub-article (3) applies;
 
