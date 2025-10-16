@@ -6,8 +6,6 @@ Removal
 
 (2) (a) Subject to paragraph (b), where a registered teacher fails to apply for renewal of registration in accordance with subsection (1), the Council shall remove the teacher from the register.
 
-(b) Where a complaint has been made in relation to a registered teacher under section 42 (amended by section 20 of the Act of 2015) the Council shall not remove that registered teacher from the register under this section until that complaint has either been refused to be referred or refused to be considered, as the case may be, under subsection (3)(b), (5)(b), (8)(aa) or
-
-(9)(b), of section 42 (as so amended) or any inquiry in relation to that complaint has been completed in accordance with Part 5.
+(b) Where a complaint has been made in relation to a registered teacher under section 42 (amended by section 20 of the Act of 2015) the Council shall not remove that registered teacher from the register under this section until that complaint has either been refused to be referred or refused to be considered, as the case may be, under subsection (3)(b), (5)(b), (8)(aa) or (9)(b), of section 42 (as so amended) or any inquiry in relation to that complaint has been completed in accordance with Part 5.
 
 (3) A registered teacher who has been removed from the register in accordance with subsection (2) may apply to the Council for registration and section 31 shall apply.
