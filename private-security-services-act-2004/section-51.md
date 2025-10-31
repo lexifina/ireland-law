@@ -8,7 +8,7 @@ Regulations.
 
 (b) the procedures governing—
 
-(i) the grant and renewal of licences (including time limits in respect thereof),
+(i) the grant and renewal of licences (including time limits in respect thereof ),
 
 (ii) the surrender of licences and identity cards, and
 
