@@ -6,7 +6,7 @@ Modification of Motor Car (International Circulation) Act, 1909.
 
 Session and Chapter or Short title Extent of Repeal Number and Year.
 
-1 & 2 Geo. V., c. 45. Public Roads (Ireland) The whole Act. Act, 1911.
+1 & 2 Geo. V., c. 45. Public Roads (Ireland) Act, The whole Act. 1911.
 
 No. 11 of 1933. Road Traffic Act, 1933. The whole Act.
 
@@ -48,9 +48,7 @@ Being in charge of mechanically propelled vehicle while under the influence of i
 
 Failure to comply with requirement to perform impairment test
 
-5A. An offence under section 11 of the Road Traffic Act 2010.
-
-Refusal or failure to provide specimen or to comply with requirement of designated doctor or nurse.
+5A. An offence under section 11 of the Road Traffic Act 2010. Refusal or failure to provide specimen or to comply with requirement of designated doctor or nurse.
 
 6. (a) Subject to subparagraph (b), an offence under section 12, 13B or 14 of the Road Traffic Act 2010.
 

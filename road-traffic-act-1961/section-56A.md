@@ -1,4 +1,4 @@
-F186[Obligation to supply vehicle insurer or certain intermediaries with certain information
+F187[Obligation to supply vehicle insurer or certain intermediaries with certain information
 
 56A.—(1) For the purpose or in the course of obtaining the issue of an approved policy of insurance and to assist a vehicle insurer or intermediary with specific sanction from a vehicle insurer to conclude insurance contracts on its behalf to comply with its obligations under section 78A, a person, other than a fleet owner or motor trader, shall supply to the insurer or intermediary the following information:
 

@@ -1,4 +1,4 @@
-Patrol of places where schoolchildren cross public roads.
+Patrol of places where school-children cross public roads.
 
 96.—(1) The council of a county, the corporation of a county or other borough, the council of an urban district or the commissioners of a town may, with the consent of the Commissioner of the Garda Síochána, make arrangements for the patrolling, by persons (in this section referred to as school wardens) employed or nominated by them, of places where school-children cross public roads.
 
