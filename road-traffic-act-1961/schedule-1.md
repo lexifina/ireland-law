@@ -4,7 +4,7 @@ ENACTMENTS REPEALED.
 
 Session and Chapter or Short title Extent of Repeal Number and Year.
 
-1 & 2 Geo. V., c. 45. Public Roads (Ireland) The whole Act. Act, 1911.
+1 & 2 Geo. V., c. 45. Public Roads (Ireland) Act, The whole Act. 1911.
 
 No. 11 of 1933. Road Traffic Act, 1933. The whole Act.
 

@@ -28,9 +28,7 @@ Being in charge of mechanically propelled vehicle while under the influence of i
 
 Failure to comply with requirement to perform impairment test
 
-5A. An offence under section 11 of the Road Traffic Act 2010.
-
-Refusal or failure to provide specimen or to comply with requirement of designated doctor or nurse.
+5A. An offence under section 11 of the Road Traffic Act 2010. Refusal or failure to provide specimen or to comply with requirement of designated doctor or nurse.
 
 6. (a) Subject to subparagraph (b), an offence under section 12, 13B or 14 of the Road Traffic Act 2010.
 
