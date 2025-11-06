@@ -1,0 +1,3 @@
+Payment of allowances under Part V out of Central Fund. (Repealed)
+
+32.—...

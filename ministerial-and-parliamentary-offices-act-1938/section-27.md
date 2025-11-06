@@ -1,0 +1,3 @@
+Certain persons ineligible for severance allowance. (Repealed)
+
+27.—...

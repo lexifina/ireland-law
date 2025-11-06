@@ -1,0 +1,5 @@
+## PART V. SEVERANCE PAYMENTS TO FORMER HOLDERS OF CERTAIN MINISTERIAL AND PARLIAMENTARY OFFICES
+
+Definitions for the purposes of Part V. (Repealed)
+
+25.— ...

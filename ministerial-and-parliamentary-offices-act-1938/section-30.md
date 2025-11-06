@@ -1,0 +1,3 @@
+Recalculation or resumption of severance allowance in certain circumstances.(Repealed)
+
+30.—...

@@ -1,0 +1,3 @@
+Annual rate of severance allowance. (Repealed)
+
+29.—...

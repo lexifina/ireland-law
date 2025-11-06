@@ -1,0 +1,3 @@
+Severance allowance payable to certain former Ministers of State. (Repealed)
+
+29A.—...
