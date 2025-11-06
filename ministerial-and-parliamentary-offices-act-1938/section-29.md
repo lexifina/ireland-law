@@ -1,0 +1,3 @@
+F92[Annual rate of severance allowance.
+
+29.—...

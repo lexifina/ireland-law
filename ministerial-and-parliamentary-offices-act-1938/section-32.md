@@ -1,0 +1,3 @@
+F100[Payment of allowances under Part V out of Central Fund.
+
+32.—...
