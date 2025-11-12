@@ -124,7 +124,9 @@ Further matters in relation to control of quarries.
 
 (ii) inform that person that he or she may, not later than 21 days after the date of the notice, apply to the Board for a review of the determination under subsection (2)(a), subparagraph (i) or (ii) or both, if applicable, of subsection (2)(a) apply to the development which that the development the subject of the determination under subsection (2)(a) took place after 3 July 2008 or the decision of the planning authority under paragraph (a), and that no fee in relation to any application for a review shall be payable.
 
-(6) (a) A person to whom a notice was issued under subsection (3)(a), (4)(a) or (5)(a), or a person to whom a copy of such a notice was given under subsection (3)(d), (4)(d) or (5)(d), may not later than 21 days after the date of the notice so issued or given to him or her, apply to the Board for a review of one or more than one, of the following, referred to in the notice:
+(6) (a) A person to whom a notice was issued under subsection (3)(a), (4)(a) or (5)(a), or a person to whom a copy of such a notice was given under subsection
+
+(3)(d), (4)(d) or (5)(d), may not later than 21 days after the date of the notice so issued or given to him or her, apply to the Board for a review of one or more than one, of the following, referred to in the notice:
 
 (i) a determination under subsection (2)(a);
 
