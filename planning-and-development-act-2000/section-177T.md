@@ -16,9 +16,9 @@ Natura impact report and Natura impact statement.
 
 (b) as respects a draft planning scheme in respect of all or any part of a strategic development zone, the planning authority (which term shall be construed in accordance with section 168(5)) for whose area the draft scheme is made,
 
-(c) as respects a draft development plan or draft variation of a development plan, the planning authority for whose area the draft plan or draft variation is made, and
+(c) ...
 
-(d) as respects a draft local area plan, the planning authority in whose area the local area concerned is situate.
+(d) ...
 
 (4) The applicant for consent for proposed development may, or if directed in accordance with subsection (5) by a competent authority, shall furnish a Natura impact statement to the competent authority in relation to the proposed development.
 
