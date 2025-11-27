@@ -40,9 +40,11 @@ Beef Genomics Scheme (BGS)
 
 Beef Data and Genomics Programme (BDGP)
 
-Beef Welfare Scheme (BWS) 2024
+Beef Welfare Scheme (BWS) 2024 onwards
 
 Bio Energy Scheme
+
+Biomethane Capital Grant Scheme
 
 Burren Programme
 
@@ -56,9 +58,9 @@ Calf Investment Scheme (CIS)
 
 Climate Action Performance Payment Scheme
 
-Climate Resilient Reforestation Pilot Scheme
+Climate Resilient Reforestation Pilot Scheme CSP Dairy Beef Welfare Scheme 2024-2027
 
-CSP Dairy Beef Welfare Scheme 2024-2027 Collaborative Farming Grant Scheme
+Collaborative Farming Grant Scheme
 
 Complementary Income Support for Young Farmers (CIS-YF)
 
@@ -96,7 +98,9 @@ Forest Roads Scheme 2023 – 2027
 
 Forestry Knowledge Transfer Group Scheme 2023 onwards
 
-Grant-Aid Scheme for Marts to facilitate their operation as Central Points of Recording (CPRS)
+Grant-Aid Scheme for Marts to facilitate their operation as Central Points of
+
+Recording (CPRS)
 
 Green, Low-Carbon, Agri-Environment Scheme (GLAS)
 
@@ -118,9 +122,9 @@ Interim Afforestation Scheme (Via General De Minimis) Scheme
 
 Interim Forest Road Scheme (via General De Minimis) Scheme
 
-Interim Reconstitution Scheme for Ash-dieback (via General De Minimis)
+Interim Reconstitution Scheme for Ash-dieback (via General De Minimis) Innovative Forest Technology Scheme 2023 – 2027
 
-Innovative Forest Technology Scheme 2023 – 2027 Knowledge Transfer Programme (KT)
+Knowledge Transfer Programme (KT)
 
 Multi Species Sward Measure (MSSM) 2023 onwards
 
@@ -178,9 +182,9 @@ Reconstitution Scheme (Chalara Ash Dieback) 2014-2020
 
 Reconstitution Ash Dieback Scheme 2023 - 2027
 
-Red Clover Silage Measure (RCSM), 2023 onwards
+Red Clover Silage Measure (RCSM), 2023 onwards Registered Farm Partnership Scheme
 
-Registered Farm Partnership Scheme Results-Based Environment Agri Pilot Programme (REAP)
+Results-Based Environment Agri Pilot Programme (REAP)
 
 Rural Environment Protection Scheme (REPS)
 
@@ -220,7 +224,7 @@ Sheep Improvement Scheme
 
 Sheep Welfare Scheme
 
-Single Payment Scheme, excluding Article 37(2), 40 and 42 of Chapter 2 of Council Regulation (EC) No 1782/20031 and Land Parcel Identification System Review 2013 (LPIS Review 2013)
+Single Payment Scheme, excluding Article 37(2), 40 and 42 of Chapter 2 of Council Regulation (EC) No 1782/2003 and Land Parcel Identification System Review 2013 (LPIS Review 2013)
 
 Sow Housing (Animal Welfare) Scheme
 
@@ -228,9 +232,9 @@ Soil Sampling and Analysis Programme
 
 Straw Incorporation Measure (SIM)
 
-Succession Planning Advice Grant
+Succession Planning Advice Grant Suckler Carbon Efficiency Programme (SCEP)
 
-Suckler Carbon Efficiency Programme (SCEP) Support for Collaborative Farming Grant Scheme
+Support for Collaborative Farming Grant Scheme
 
 Targeted Agricultural Modernisation Scheme (TAMS) (RDP 2007-2013)
 
@@ -292,9 +296,9 @@ Tillage Incentive Scheme
 
 Traditional Farm Building Grant Scheme 2017 and 2018
 
-Unharvested Crop Loss Support Scheme
+Unharvested Crop Loss Support Scheme Upland Sheep Payment Scheme
 
-Upland Sheep Payment Scheme Veterinary Practice Capital Modernisation Scheme (VPCMS)
+Veterinary Practice Capital Modernisation Scheme (VPCMS)
 
 Weather Related Crop Loss Support Measure
 
@@ -302,6 +306,6 @@ Woodland Improvement Scheme 2023 - 2027
 
 Woodland Improvement Scheme including Continuous Forestry Cover
 
-Young Farmers’ Installation Scheme
+Young Farmers Installation Scheme
 
-Young Farmers Scheme
+Young Farmers Scheme.
