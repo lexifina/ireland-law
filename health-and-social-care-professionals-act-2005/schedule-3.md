@@ -66,6 +66,146 @@ Open Training College National Diploma in Applied Social Studies (Disability).
 
 PROFESSION QUALIFICATION
 
+(1) Bachelor of Arts (Honours) Applied Social Studies in Social Care, in Athlone Institute of Technology,
+
+(2) National Diploma in Applied Social Studies in Social Care, in Athlone Institute of Technology,
+
+(3) National Diploma in Applied Social Studies in Social Care, in Carlow College (awarding body National Council Education Awards),
+
+(4) Bachelor of Arts Applied Social Studies in Social Care, in Carlow College,
+
+(5) Bachelor of Arts (Honours) Applied Social Studies in Social Care, in Carlow College,
+
+(6) Bachelor of Arts Applied Social Studies Professional Social Care, in Institute of Technology Carlow,
+
+(7) Bachelor of Arts in Applied Social Studies (Social Care), in Institute of Technology Carlow,
+
+(8) Higher Diploma in Arts in Applied Social Studies, in Institute of Technology Carlow,
+
+(9) Higher Diploma in Arts in Applied Social Studies (Professional Social Care), in Institute of Technology Carlow,
+
+(10) Higher Diploma in Arts in Applied Social Studies (Professional Social Care), in South East Technological University,
+
+(11) Bachelor of Arts in Applied Social Studies, in Institute of Technology Carlow,
+
+(12) Bachelor of Arts Applied Social Studies Professional Social Care, in Institute of Technology Carlow,
+
+(13) Bachelor of Arts (Honours) Applied Social Studies (Professional Social Care), in Institute of Technology Carlow,
+
+(14) Bachelor of Arts (Honours) in Social and Community Studies, in Institute of Technology Carlow,
+
+(15) National Diploma in Applied Social Studies Social Care, in Cork Institute of Technology,
+
+(16) National Diploma in Social Care, in Cork Institute of Technology,
+
+(17) Bachelor of Arts in Social Care, in Cork Institute of Technology,
+
+(18) Bachelor of Arts (Honours) in Social Care, in Cork Institute of Technology,
+
+(19) Bachelor of Arts in Applied Social Studies, in Cork Institute of Technology,
+
+(20) National Diploma in Applied Social Studies in Social Care, in Dublin Institute of Technology,
+
+(21) Diploma in Social Care Practice, in Dublin Institute of Technology,
+
+(22) Bachelor of Arts (Honours) in Social Care, in Dublin Institute of Technology,
+
+PROFESSION QUALIFICATION
+
+(23) Bachelor of Arts (Honours) in Social Care and Social Studies, in Dublin Institute of Technology,
+
+(24) Social Care (Progression to Bachelor of Arts Honours), in Dublin Institute of Technology,
+
+(25) Bachelor of Arts in Social Care Practice, in Dublin Institute of Technology,
+
+(26) Bachelor of Arts in Social Care, in Dundalk Institute of Technology,
+
+(27) Bachelor of Arts in Social Studies, in Dundalk Institute of Technology,
+
+(28) Bachelor of Arts in Applied Social Studies in Social Care, in Dundalk Institute of Technology,
+
+(29) Bachelor of Arts in Applied Social Studies, in Galway-Mayo Institute of Technology,
+
+(30) Bachelor of Arts (Honours) in Applied Social Studies, in Galway-Mayo Institute of Technology,
+
+(31) BTEC Higher National Diploma Caring Services (Social Care), in Inchicore Vocational School,
+
+(32) BTEC Higher National Diploma Care Practice, in Inchicore College of Further Education,
+
+(33) Bachelor of Arts in Applied Social Studies in Social Care (Work Based), in Institute of Technology Blanchardstown,
+
+(34) Bachelor of Arts Applied Social Studies in Social Care, Institute of Technology Tralee,
+
+(35) Bachelor of Arts (Honours) in Social Care, in Institute of Technology Tralee,
+
+(36) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Institute of Technology Tralee,
+
+(37) Bachelor of Science in Health and Social Care, in Letterkenny Institute of Technology,
+
+(38) Bachelor of Arts in Applied Social Studies in Social Care, in Limerick Institute of Technology,
+
+(39) Social Care Work – Bachelor of Arts, in Limerick Institute of Technology,
+
+(40) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Limerick Institute of Technology,
+
+(41) Diploma in Arts Social Care, in National University of Ireland Galway,
+
+(42) Bachelor of Arts (Social Care), in National University of Ireland Galway,
+
+(43) Bachelor of Arts in Professional Social Care (Disability), in Open Training College,
+
+(44) Bachelor of Arts in Applied Social Studies (Disability), in Open Training College,
+
+(45) Bachelor of Arts (Honours) in Professional Social Care (Disability), in Open Training College,
+
+PROFESSION QUALIFICATION
+
+(46) National Diploma in Applied Social Studies in Disability, in St Michael’s House,
+
+(47) National Diploma in Applied Social Studies in Social Care, in Institute of Technology Sligo,
+
+(48) Bachelor of Arts in Social Care Practice, in Institute of Technology Sligo,
+
+(49) Bachelor of Arts in Applied Social Studies, in Institute of Technology Sligo,
+
+(50) Bachelor of Arts (Honours) in Applied Social Studies, in Institute of Technology Sligo,
+
+(51) National Diploma in Applied Social Studies in Social Care, in Waterford Institute of Technology (awarding body National Council Education Awards),
+
+(52) Bachelor of Arts in Applied Social Studies in Social Care, in Waterford Institute of Technology,
+
+(53) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Waterford Institute of Technology,
+
+(54) Bachelor of Arts in Social Studies, in Dublin Business School,
+
+(55) Bachelor of Science (Honours) in Health and Social Care, in Letterkenny Institute of Technology,
+
+(56) National Diploma in Applied Social Studies in Social Care, in Regional Technical College, Waterford (awarding body National Council for Education Awards),
+
+(57) Bachelor of Arts in Social Care Practice, in Technological University Dublin,
+
+(58) Bachelor of Arts (Honours) in Social Care Practice, in Technological University Dublin,
+
+(59) Bachelor of Arts (Honours) in Social Care and Social Studies, in Technological University Dublin,
+
+(60) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Technological University of the Shannon: Midlands Midwest,
+
+(61) Bachelor of Arts (Honours) in Social Care, in Munster Technological University,
+
+(62) National Diploma in Applied Social Studies in Social Care, in Regional Technical College Athlone (awarding body National Council Education Awards),
+
+(63) National Diploma in Applied Social Studies in Social Care, in Regional Technical College Cork (awarding body National Council Education Awards),
+
+(64) Bachelor of Arts In Applied Social Studies (Social Care), in Regional Technical College Sligo (awarding body National Council Education Awards),
+
+(65) National Diploma in Child Care, in DIT/Dublin College of Catering,
+
+(66) Diploma in Arts in Social Care, in National University of Ireland Galway,
+
+(67) Bachelor of Arts in Social Care Practice Inservice, in Dublin Institute of Technology.
+
+PROFESSION QUALIFICATION
+
 11. Social Workers National Qualification in Social Work awarded by the National Social Work Qualifications Board, or
 
 Certificate of Qualification in Social Work awarded by the Central Council for Education and Training in Social Work, U.K.
