@@ -2,69 +2,45 @@ SCHEDULE 3
 
 QUALIFICATIONS REQUIRED BY EXISTING PRACTITIONERS
 
-PROFESSION QUALIFICATION
-
-1. Clinical Degree in which biochemistry was taken as a subject in the final Biochemists examination.
-
-2. Dietitians Bachelor of Science (Honours) in Human Nutrition and Dietetics from the University of Dublin and Diploma in Human Nutrition and Dietetics from the Dublin Institute of Technology, or
+PROFESSION QUALIFICATION 1. Clinical Biochemists Degree in which biochemistry was taken as a subject in the final examination. 2. Dietitians Bachelor of Science (Honours) in Human Nutrition and Dietetics from the University of Dublin and Diploma in Human Nutrition and Dietetics from the Dublin Institute of Technology, or
 
 Diploma in Dietetics and Nutrition from the City of Dublin Vocational Education Committee awarded after 1976 and before 1987, or
 
-Diploma in Dietetics from the City of Dublin Vocational Education Committee awarded after 1951 and before 1977.
-
-3. Medical Scientists Bachelor of Science (Applied Sciences) (Honours) (Biomedical option) from the University of Dublin/the Dublin Institute of Technology Kevin Street, or
-
-PROFESSION QUALIFICATION
+Diploma in Dietetics from the City of Dublin Vocational Education Committee awarded after 1951 and before 1977. 3. Medical Scientists Bachelor of Science (Applied Sciences) (Honours) (Biomedical option) from the University of Dublin/the Dublin Institute of Technology Kevin Street, or
 
 Bachelor of Science (Honours) in Biomedical Science from the Joint University College Cork — Cork Institute of Technology course, or
 
 Diploma in Medical Laboratory Sciences awarded before 1994 by the Dublin Institute of Technology or the Cork Institute of Technology, or
 
-Certificate in Medical Laboratory Sciences awarded before 1997 by the Dublin Institute of Technology Kevin Street, the Cork Institute of Technology or the Galway/Mayo Institute of Technology.
-
-4. Occupational Bachelor of Science (Honours) in Occupational Therapy from the University Therapists of Dublin, or
+Certificate in Medical Laboratory Sciences awarded before 1997 by the Dublin Institute of Technology Kevin Street, the Cork Institute of Technology or the Galway/Mayo Institute of Technology. 4. Occupational Therap- Bachelor of Science (Honours) in Occupational Therapy from the University of Dublin, ists or
 
 Master of Science in Occupational Therapy (Professional Qualification) from the University of Limerick, or
 
-Diploma of the College of Occupational Therapy.
-
-5. Orthoptists Diploma of British Orthoptics, or
+Diploma of the College of Occupational Therapy. 5. Orthoptists Diploma of British Orthoptics, or
 
 Bachelor of Medical Science in Orthoptics, or
 
 Bachelor of Medical Science (Honours) in Orthoptics, or
 
-Bachelor of Science (Honours) in Orthoptics.
-
-6. Physiotherapists Bachelor of Science (Honours) in Physiotherapy from the University of Dublin, or
+Bachelor of Science (Honours) in Orthoptics. 6. Physiotherapists Bachelor of Science (Honours) in Physiotherapy from the University of Dublin, or
 
 Bachelor of Science in Physiotherapy from the Royal College of Surgeons in Ireland, or
 
 Bachelor in Physiotherapy (Honours) from the National University of Ireland, or
 
-Diploma in Physiotherapy of the National University of Ireland or of the University of Dublin.
-
-7. Podiatrists Bachelor of Science in Podiatry.
-
-8. Psychologists A recognised University degree or diploma obtained with first or second class honours in which psychology was taken as a major subject and honours obtained in that subject.
-
-9. Radiographers Diploma of the College of Radiographers, London, or
+Diploma in Physiotherapy of the National University of Ireland or of the University of Dublin. 7. Podiatrists Bachelor of Science in Podiatry. 8. Psychologists A recognised University degree or diploma obtained with first or second class honours in which psychology was taken as a major subject and honours obtained in that subject. 9. Radiographers Diploma of the College of Radiographers, London, or
 
 Bachelor of Science (Radiography) from the National University of Ireland, or
 
-Bachelor of Science (Therapeutic Radiography) from the University of Dublin.
-
-10. Social Care National Diploma in Child Care awarded by the Higher Education and Training Workers Awards Council/Dublin Institute of Technology, or
+Bachelor of Science (Therapeutic Radiography) from the University of Dublin. 10. Social Care Workers National Diploma in Child Care awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
 National Diploma in Applied Social Care Studies awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
 Diploma in Social Care awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
-Diploma in Applied Social Studies/Social Care from the Dublin Institute of Technology, or
+PROFESSION QUALIFICATION Diploma in Applied Social Studies/Social Care from the Dublin Institute of Technology, or
 
 Open Training College National Diploma in Applied Social Studies (Disability).
-
-PROFESSION QUALIFICATION
 
 (1) Bachelor of Arts (Honours) Applied Social Studies in Social Care, in Athlone Institute of Technology,
 
@@ -110,15 +86,13 @@ PROFESSION QUALIFICATION
 
 (22) Bachelor of Arts (Honours) in Social Care, in Dublin Institute of Technology,
 
-PROFESSION QUALIFICATION
-
 (23) Bachelor of Arts (Honours) in Social Care and Social Studies, in Dublin Institute of Technology,
 
 (24) Social Care (Progression to Bachelor of Arts Honours), in Dublin Institute of Technology,
 
 (25) Bachelor of Arts in Social Care Practice, in Dublin Institute of Technology,
 
-(26) Bachelor of Arts in Social Care, in Dundalk Institute of Technology,
+PROFESSION QUALIFICATION (26) Bachelor of Arts in Social Care, in Dundalk Institute of Technology,
 
 (27) Bachelor of Arts in Social Studies, in Dundalk Institute of Technology,
 
@@ -158,8 +132,6 @@ PROFESSION QUALIFICATION
 
 (45) Bachelor of Arts (Honours) in Professional Social Care (Disability), in Open Training College,
 
-PROFESSION QUALIFICATION
-
 (46) National Diploma in Applied Social Studies in Disability, in St Michael’s House,
 
 (47) National Diploma in Applied Social Studies in Social Care, in Institute of Technology Sligo,
@@ -172,7 +144,7 @@ PROFESSION QUALIFICATION
 
 (51) National Diploma in Applied Social Studies in Social Care, in Waterford Institute of Technology (awarding body National Council Education Awards),
 
-(52) Bachelor of Arts in Applied Social Studies in Social Care, in Waterford Institute of Technology,
+PROFESSION QUALIFICATION (52) Bachelor of Arts in Applied Social Studies in Social Care, in Waterford Institute of Technology,
 
 (53) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Waterford Institute of Technology,
 
@@ -202,15 +174,11 @@ PROFESSION QUALIFICATION
 
 (66) Diploma in Arts in Social Care, in National University of Ireland Galway,
 
-(67) Bachelor of Arts in Social Care Practice Inservice, in Dublin Institute of Technology.
+(67) Bachelor of Arts in Social Care Practice Inservice, in Dublin Institute of Technology. 11. Social Workers National Qualification in Social Work awarded by the National Social Work Qualifications Board, or
 
-PROFESSION QUALIFICATION
+Certificate of Qualification in Social Work awarded by the Central Council for Education and Training in Social Work, U.K. 12. Speech and Bachelor of Science (Clinical Speech and Language Studies) from the University of Language Therapists Dublin, or
 
-11. Social Workers National Qualification in Social Work awarded by the National Social Work Qualifications Board, or
-
-Certificate of Qualification in Social Work awarded by the Central Council for Education and Training in Social Work, U.K.
-
-12. Speech and Bachelor of Science (Clinical Speech and Language Studies) from the Language University of Dublin, or Therapists Bachelor of Arts (Moderatorship) (Remedial Linguistics) from the University of Dublin, or
+Bachelor of Arts (Moderatorship) (Remedial Linguistics) from the University of Dublin, or
 
 Bachelor of Arts (Remedial Linguistics) from the University of Dublin, or
 
