@@ -12,9 +12,7 @@ The exclusive economic zone is an area beyond and adjacent to the territorial se
 
 Article 56
 
-Rights, Jurisdiction and Duties of the Coastal State in the Exclusive Economic
-
-Zone
+Rights, Jurisdiction and Duties of the Coastal State in the Exclusive Economic Zone
 
 1. In the exclusive economic zone, the coastal State has:
 
@@ -264,9 +262,9 @@ Enforcement of Laws and Regulations of the Coastal State
 
 Article 74
 
-Delimitation of the Exclusive Economic Zone between States with opposite or
+Delimitation of the Exclusive Economic Zone between States with opposite or Adjacent
 
-Adjacent Coasts
+Coasts
 
 1. The delimitation of the exclusive economic zone between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in Article 38 of the Statute of the International Court of Justice, in order to achieve an equitable solution.
 
@@ -282,4 +280,4 @@ Charts and Lists of Geographical Coordinates
 
 1. Subject to this Part, the outer limit lines of the exclusive economic zone and the lines of delimitation drawn in accordance with article 74 shall be shown on charts of a scale or scales adequate for ascertaining their position. Where appropriate, lists of geographical coordinates of points, specifying the geodetic datum, may be substituted for such outer limit lines or lines of delimitation.
 
-2. The coastal State shall give due publicity to such charts or lists of geographical coordinates and shall deposit a copy of each such chart or list with the Secretary- General of the United Nations.
+2. The coastal State shall give due publicity to such charts or lists of geographical coordinates and shall deposit a copy of each such chart or list with the Secretary-General of the United Nations.

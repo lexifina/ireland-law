@@ -46,9 +46,7 @@ Penalties and forfeiture for certain indictable fishery offences.
 
 (6A) Where a person who is convicted of an offence to which subsection (1A), (5)(b) or (6)(b) applies demonstrates that the mandatory forfeiture required by the subsection concerned is disproportionate, the court may in those exceptional circumstances adjust, modulate or mitigate the extent of the mandatory forfeiture order. In making this assessment the court shall have regard to the requirement that the severity of the sanctions must be commensurate with the seriousness of the breaches for which they are imposed, in particular by ensuring a genuinely dissuasive effect.
 
-(6B) Where the Court decides under subsection (6A) to substitute an order of forfeiture that it deems appropriate in place of a mandatory forfeiture required by this section as a statutory consequence of conviction, it shall give reasons for doing so.
-
-Where the Court decides under paragraph (a) not to order the forfeiture of all or any of the above it shall give reasons for not doing so.
+(6B) Where the Court decides under subsection (6A) to substitute an order of forfeiture that it deems appropriate in place of a mandatory forfeiture required by this section as a statutory consequence of conviction, it shall give reasons for doing so. Where the Court decides under paragraph (a) not to order the forfeiture of all or any of the above it shall give reasons for not doing so.
 
 (7) (a) The court may, in addition to any fine and forfeiture which it may impose or is as a statutory consequence of conviction imposed under this section, revoke or suspend, for such period as it sees fit, the sea-fishing boat licence granted in relation to the boat concerned.
 
@@ -56,4 +54,6 @@ Where the Court decides under paragraph (a) not to order the forfeiture of all o
 
 (c) A person who fails to comply with paragraph (b) commits an offence and is liable on summary conviction to a fine not exceeding €500.
 
-TABLE 1 — Fines - Provisions of Chapter 2 TABLE 2 — Fines - Provisions of Act of 2003
+TABLE 1 — Fines - Provisions of Chapter 2
+
+TABLE 2 — Fines - Provisions of Act of 2003

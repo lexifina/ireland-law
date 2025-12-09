@@ -26,7 +26,7 @@ Amendment of Act of 1955.
 
 (b) in section 18(2), by inserting after paragraph (d) the following:
 
-“(e) a sea-fishing boat of less than 15 metres in length overall and required to be registered in the Register of Fishing Boats maintained under section 74 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 or exempt from such registration by regulations under section 76 of that Act.”, and
+“(e) a sea-fishing boat of less than 15 metres in length overall and required to be registered in the Register of Fishing Boats maintained under section 74 of the Sea- Fisheries and Maritime Jurisdiction Act 2006 or exempt from such registration by regulations under section 76 of that Act.”, and
 
 (c) in section 19—
 

@@ -92,7 +92,7 @@ Sea-fishing boat licences.
 
 ‘Irish sea-fishing boat’ means a sea-fishing boat which is—
 
-(a) entered in the Register of Fishing Boats maintained under section 74 of the Sea-Fisheries and Maritime Jurisdiction Act 2006,
+(a) entered in the Register of Fishing Boats maintained under section 74 of the Sea- Fisheries and Maritime Jurisdiction Act 2006,
 
 (b) required by regulations under section 76 of that Act to be so entered, or
 
