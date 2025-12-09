@@ -4,6 +4,6 @@ Part II to be subject to provisions of Part III relating to disability, acknowle
 
 10.—The subsequent provisions of this Part of this Act shall have effect subject to the provisions of Part III of this Act which provide for the extension of the periods of limitation in the case of disability, acknowledgment, part payment, fraud and mistake.
 
-## Actions of contract and tort and certain
+## Actions of contract and tort and certain other
 
-other actions.
+actions.

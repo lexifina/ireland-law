@@ -18,7 +18,7 @@ Extension of limitation period in case of disability.
 
 (2) ...
 
-(3) In the case of defamation actions within the meaning of the Defamation Act 2009, subsection (1) of this section shall have effect as if for the words ‘six years’ there were substituted the words ‘one year or such longer period as the court may direct not exceeding two years’.
+(3) In the case of defamation actions within the meaning of the Defamation Act 2009, subsection (1) of this section shall have effect as if for the words "six years" there were substituted the words "one year or such longer period as the court may direct not exceeding two years".
 
 (4) In the case of—
 
@@ -26,7 +26,7 @@ Extension of limitation period in case of disability.
 
 (b) an action to recover a penalty or forfeiture, or a sum by way of penalty or forfeiture, recoverable by virtue of any enactment where the action is brought by the party grieved, subsection (1) of this section shall have effect as if for the words “six years” there were substituted the words “two years”.
 
-(5) In the case of an action claiming damages under section 13 (7) of the Sale of Goods and Supply of Services Act, 1980, subsection (1) of this section shall have effect as if for the words ‘six years’ there were substituted the words ‘two years’.
+(5) In the case of an action claiming damages under section 13 (7) of the Sale of Goods and Supply of Services Act, 1980, subsection (1) of this section shall have effect as if for the words "six years" there were substituted the words "two years".
 
 ## CHAPTER III.
 
