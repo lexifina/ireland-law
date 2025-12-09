@@ -1,6 +1,6 @@
 Commencement of arbitration.
 
-74.— (1) For the purposes of this Act and for the purposes of any other limitation enactment, arbitral proceedings shall be deemed to be commenced on—
+74.—(1) For the purposes of this Act and for the purposes of any other limitation enactment, arbitral proceedings shall be deemed to be commenced on—
 
 (a) the date on which the parties to an arbitration agreement so provide as being the commencement date for the purposes of the commencement of arbitral proceedings under the agreement, or
 

@@ -1,6 +1,6 @@
 Limitation of actions for damages for infringements of competition law.
 
-11A. (1) An action for damages under subsection (1) of section 14 of the Act of 2002 shall not be brought after the expiration of 6 years from the latest occurring of the following dates:
+11A.—(1) An action for damages under subsection (1) of section 14 of the Act of 2002 shall not be brought after the expiration of 6 years from the latest occurring of the following dates:
 
 (a) the date on which the infringement of competition law to which the cause of action relates ceased;
 
@@ -52,14 +52,14 @@ Limitation of actions for damages for infringements of competition law.
 
 (8) In this section—
 
-‘Act of 2002’ means the Competition Act 2002;
+"Act of 2002" means the Competition Act 2002;
 
-‘Directive’ means Directive 2014/104/EU of the European Parliament and of the Council of 26 November 2014 on certain rules governing actions for damages under national law for infringements of the competition law provisions of the Member States and of the European Union;
+"Directive" means Directive 2014/104/EU of the European Parliament and of the Council of 26 November 2014 on certain rules governing actions for damages under national law for infringements of the competition law provisions of the Member States and of the European Union;
 
-‘foreign competition authority’ has the meaning assigned to it by the Regulations of 2017;
+"foreign competition authority" has the meaning assigned to it by the Regulations of 2017;
 
-‘infringement of competition law’ has the meaning assigned to it by the Regulations of 2017;
+"infringement of competition law" has the meaning assigned to it by the Regulations of 2017;
 
-‘infringer’ has the meaning assigned to it by the Regulations of 2017;
+"infringer" has the meaning assigned to it by the Regulations of 2017;
 
-‘Regulations of 2017’ means the European Union (Actions for Damages for Infringements of Competition Law) Regulations 2017 (S.I. No. 43 of 2017).
+"Regulations of 2017" means the European Union (Actions for Damages for Infringements of Competition Law) Regulations 2017 (S.I. No. 43 of 2017).
