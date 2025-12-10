@@ -22,7 +22,7 @@ Objections.
 
 (d) give the corrected marriage registration form to one of the parties to the marriage.
 
-(4) If the registrar who receives an objection under subsection (1) believes that more than a minor error or misdescription exists in the relevant notification under section 46 and that the possibility of the existence of an impediment to the intended marriage concerned needs to be investigated, he or she shall refer the objection to an tArd-Chláraitheoir for consideration and, pending the decision of an tArd- Chláraitheoir, he or she shall—
+(4) If the registrar who receives an objection under subsection (1) believes that more than a minor error or misdescription exists in the relevant notification under section 46 and that the possibility of the existence of an impediment to the intended marriage concerned needs to be investigated, he or she shall refer the objection to an tArd-Chláraitheoir for consideration and, pending the decision of an tArd-Chláraitheoir, he or she shall—
 
 (a) notify the parties to the intended marriage that—
 
@@ -116,9 +116,9 @@ Objections.
 
 (11) An objection on the ground that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to consent to the marriage shall be accompanied by—
 
-(a) a copy of a declaration by the Circuit Court under section 37(1) of the Assisted Decision-Making (Capacity) Act 2015 that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make a decision to consent to being married,
+(a) a copy of a declaration by the Circuit Court under section 37(1) of the Assisted Decision- Making (Capacity) Act 2015 that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make a decision to consent to being married,
 
-(b) a copy of a declaration by the Circuit Court under section 37(1) of the Assisted Decision-Making (Capacity) Act 2015 that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make the class of decisions specified in the declaration where the decision to consent to being married is a decision which falls within that class of decisions, or
+(b) a copy of a declaration by the Circuit Court under section 37(1) of the Assisted Decision- Making (Capacity) Act 2015 that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make the class of decisions specified in the declaration where the decision to consent to being married is a decision which falls within that class of decisions, or
 
 (c) a copy of an application made under Part 5 of the Assisted Decision-Making (Capacity) Act 2015 (accompanied by a copy of a related interim order of the Circuit Court under that Part) to the Circuit Court by the person making the objection where the application relates (whether in whole or in part) to the capacity of one of the parties, or both of the parties, to the proposed marriage to make a decision to consent to being married.
 

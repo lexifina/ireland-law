@@ -1,4 +1,4 @@
-F233[Civil partnership registration.
+F238[Civil partnership registration.
 
 59D.— (1) ...
 
@@ -16,7 +16,7 @@ F233[Civil partnership registration.
 
 (b) ...
 
-(c) As soon as practicable after the signatures and counter-signature, the registrar shall ... enter the particulars in relation to the civil partnership in the register and register the civil partnership in a manner that an tArd- Chláraitheoir may direct.
+(c) As soon as practicable after the signatures and counter-signature, the registrar shall ... enter the particulars in relation to the civil partnership in the register and register the civil partnership in a manner that an tArd-Chláraitheoir may direct.
 
 (7) Where an tArd-Chláraitheoir is satisfied that a duly signed civil partnership registration form has been lost, destroyed or damaged, he or she may direct the appropriate registrar—
 

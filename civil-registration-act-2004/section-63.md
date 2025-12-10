@@ -6,7 +6,7 @@ Correction of errors at request of persons having an interest.
 
 (a) correct in the manner specified by an tArd-Chláraitheoir a clerical error in any register maintained under section 13, or
 
-(b) correct an error of fact in a register specified in the said paragraph (a) or (d) if the person gives to the Superintendent Registrar such evidence as he or she considers to be adequate and a statutory declaration, in a form standing approved by an tArd-Chláraitheoir, of the facts concerned made by—
+(b) correct an error of fact in a register specified in the said paragraph (a) or (d) if the person gives to the Superintendent Registrar such evidence as he or she considers to be adequate and a statutory declaration, in a form standing approved by an tArd- Chláraitheoir, of the facts concerned made by—
 
 (i) a person required by this Act to give to the registrar the required particulars in relation to the birth, or death, concerned, or
 
@@ -18,4 +18,4 @@ Correction of errors at request of persons having an interest.
 
 (b) the officer shall, in such form as an tArd-Chláraitheoir may direct, correct the appropriate entry in the register of deaths and the original entry shall be retained in the register.
 
-(4) On the application in that behalf by a person having an interest in the matter to an tArd-Chláraitheoir in writing a correction or addition to an entry in the register of stillbirths may, if an tArd-Chláraitheoir so directs, be made by but only by a person authorised in that behalf by him or her.
+(4) On the application in that behalf by a person having an interest in the matter to an tArd- Chláraitheoir in writing a correction or addition to an entry in the register of stillbirths may, if an tArd-Chláraitheoir so directs, be made by but only by a person authorised in that behalf by him or her.

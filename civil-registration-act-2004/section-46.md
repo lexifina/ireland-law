@@ -24,7 +24,7 @@ Notification of marriages.
 
 (6) A notification under subsection (5) shall not be construed as indicating the approval of the registrar concerned of the proposed marriage concerned.
 
-(7) The registrar concerned may require each party to an intended marriage to provide him or her with such evidence relating to that party's forename, surname, address, civil status, age and nationality as may be specified by an tArd- Chláraitheoir.
+(7) The registrar concerned may require each party to an intended marriage to provide him or her with such evidence relating to that party's forename, surname, address, civil status, age and nationality as may be specified by an tArd-Chláraitheoir.
 
 (8) An tArd-Chláraitheoir may, if so authorised by the Minister, publish, in such form and manner as the Minister may direct, notice of notifications of intended marriages under subsection (1), but a notice under this subsection shall not contain the personal public service number of a party to the intended marriage concerned.
 

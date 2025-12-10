@@ -10,7 +10,7 @@ F49[Performance of functions of registrar and Superintendent Registrar by staff 
 
 (3) Where an tArd-Chláraitheoir issues a direction in relation to a registration area—
 
-(a) any relevant functions of a registrar or Superintendent Registrar of the registration area to which the direction relates shall be performed by such members of staff of an tArd-Chláraitheoir as an tArd-Chláraitheoir may specify, and
+(a) any relevant functions of a registrar or Superintendent Registrar of the registration area to which the direction relates shall be performed by such members of staff of an tArd- Chláraitheoir as an tArd-Chláraitheoir may specify, and
 
 (b) a reference in a relevant provision—
 

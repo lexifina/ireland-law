@@ -1,10 +1,10 @@
-Corrections or cancellations of entries at request of Ard- Chláraitheoir or a registrar.
+Corrections or cancellations of entries at request of Ard-Chláraitheoir or a registrar.
 
 64.—(1) Where a registrar is satisfied that an entry in the register of births or deaths contains an error of fact, he or she shall notify the error to—
 
 (a) the Superintendent Registrar of the registration area to which the registrar is assigned, or
 
-(b) if the entry was made pursuant to section 19(1)(ii) or section 37(1)(ii), an tArd- Chláraitheoir.
+(b) if the entry was made pursuant to section 19(1)(ii) or section 37(1)(ii), an tArd-Chláraitheoir.
 
 (2) When a Superintendent Registrar of any registration area receives a notification under subsection (1)(a), the Superintendent Registrar or a registrar in that registration area, if so directed by the Superintendent Registrar, shall by notice in writing given to a qualified informant (within the meaning of Part 3 or 5, as the case may be) in relation to the birth or death concerned (“the person”) require him or her—
 
@@ -36,13 +36,13 @@ Corrections or cancellations of entries at request of Ard- Chláraitheoir or a r
 
 (5B) Required particulars, for the purpose of subsection (5A)(a) are required particulars—
 
-(a) as respects the register of births, furnished (except under section 19(5)) to an tArd-Chláraitheoir or to the registrar by a person other than a qualified informant,
+(a) as respects the register of births, furnished (except under section 19(5)) to an tArd- Chláraitheoir or to the registrar by a person other than a qualified informant,
 
 (b) as respects the register of stillbirths, furnished (except under subsection (6) or (7) of section 28) to an tArd-Chláraitheoir or to the registrar by a person other than a person referred to in paragraph (a) or (b) of subsection (1) of section 28, or
 
 (c) as respects the register of deaths, furnished to an tArd-Chláraitheoir or to the registrar by a person other than a qualified informant.
 
-(6) Where an tArd-Chláraitheoir is satisfied that two or more entries have been made in a register maintained under section 13 in respect of the same event, he or she may direct a Superintendent Registrar, a registrar or an officer of an tArd- Chláraitheoir to cancel such of the entries as he or she may specify, and the direction shall be complied with and the cancelled entry or entries shall be retained in the register.
+(6) Where an tArd-Chláraitheoir is satisfied that two or more entries have been made in a register maintained under section 13 in respect of the same event, he or she may direct a Superintendent Registrar, a registrar or an officer of an tArd-Chláraitheoir to cancel such of the entries as he or she may specify, and the direction shall be complied with and the cancelled entry or entries shall be retained in the register.
 
 (7) Where an tArd-Chláraitheoir is satisfied that an entry in the register of marriages relates to—
 

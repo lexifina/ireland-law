@@ -1,4 +1,4 @@
-F180[Provision of information
+F182[Provision of information
 
 44C.—(1) An informant may notify a registrar of the death of a deceased person in relation to whose death this Part applies, and on furnishing the information and documents referred to in subsection (2) may request that the death is recorded on the record of deaths abroad.
 
@@ -42,6 +42,6 @@ F180[Provision of information
 
 (xiv) forename(s) and birth surname(s) of parent(s) of deceased.
 
-(3) The informant shall provide his or her signature, in such manner as an tArd- Chláraitheoir may direct, to the registrar.
+(3) The informant shall provide his or her signature, in such manner as an tArd-Chláraitheoir may direct, to the registrar.
 
-(4) In this section "informant" means a relative, civil partner or cohabitant of a deceased person in relation to whose death this Part applies, or, if all of those persons are unavailable, such other person having knowledge of the death as an tArd- Chláraitheoir may specify.
+(4) In this section "informant" means a relative, civil partner or cohabitant of a deceased person in relation to whose death this Part applies, or, if all of those persons are unavailable, such other person having knowledge of the death as an tArd-Chláraitheoir may specify.

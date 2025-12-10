@@ -12,7 +12,7 @@ Application by bodies for registration of persons.
 
 (2A) An application to which subsection (1)(c) applies shall be accompanied by a certificate—
 
-(a) in such form and containing such particulars as may be determined by an tArd- Chláraitheoir, and
+(a) in such form and containing such particulars as may be determined by an tArd-Chláraitheoir, and
 
 (b) signed by an officer of the secular body concerned stating that the member in relation to whom the application is made has been selected, trained and accredited by the secular body in accordance with the procedures referred to in section 45A(1)(e) and is, in the opinion of the said officer, a fit and proper person to solemnise a marriage.
 

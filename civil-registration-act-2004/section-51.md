@@ -8,7 +8,7 @@ Solemnisation of marriages.
 
 (b) two persons professing to be 18 years or over are present as witnesses,
 
-(c) the solemnisation takes place in a place that is open to the public, unless an tArd-Chláraitheoir or a superintendent registrar—
+(c) the solemnisation takes place in a place that is open to the public, unless an tArd- Chláraitheoir or a superintendent registrar—
 
 (i) is satisfied on the basis of a certificate of a registered medical practitioner that one or both of the persons to be married is too ill to attend at a place that is open to the public, and
 

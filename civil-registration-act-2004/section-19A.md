@@ -1,4 +1,4 @@
-F81[Special provisions in relation to registration of birth of donorconceived child
+F81[Special provisions in relation to registration of birth of donor-conceived child
 
 19A.—(1) Where a child who is a donor-conceived child is born, the person referred to in paragraph (a) or (b) of section 19(1) shall comply with that section in relation to the birth, and shall also give the following to the registrar—
 
@@ -24,7 +24,7 @@ F81[Special provisions in relation to registration of birth of donorconceived ch
 
 (a) paragraph (i) of section 19(1) and subsection (1), or
 
-(b) as the case may be, paragraphs (a) to (c) of section 19(3) and subsection (3), have been complied with in relation to a birth to which subsection (1) applies, the registrar concerned shall register the birth in accordance with this section and in such manner as an tArd-Chláraitheoir may direct.
+(b) as the case may be, paragraphs (a) to (c) of section 19(3) and subsection (3), have been complied with in relation to a birth to which subsection (1) applies, the registrar concerned shall register the birth in accordance with this section and in such manner as an tArd- Chláraitheoir may direct.
 
 (6) In registering the birth of a child under this section, the registrar shall note on the register that the child is a child to whom subsection (1) applies.
 

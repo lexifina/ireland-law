@@ -1,4 +1,4 @@
-F109[Failure to agree surname and subsequent registration of surname
+F111[Failure to agree surname and subsequent registration of surname
 
 25A.—(1) Notwithstanding the duty of a person under this Part to provide the surname of the child as a required particular of the registration of the birth, the registrar shall register the birth of a child, or an tArd Chláraitheoir shall cause the birth of a child to be registered without the surname of the child, where—
 

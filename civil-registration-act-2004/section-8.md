@@ -36,7 +36,7 @@ Functions of Ard- Chláraitheoir.
 
 (j) to perform any other functions conferred on him or her by the Minister under subsection (3).
 
-(2) For the purposes of the foregoing and notwithstanding the repeals effected by section 4, the system of registration of births, stillbirths, deaths and marriages established and maintained under the repealed enactments shall continue in existence after the commencement of that section but may, if and whenever an tArd- Chláraitheoir considers it appropriate to do so, be adapted, modified or enlarged by him or her and, accordingly, the registers, indexes and other records established and maintained under the system shall also continue in existence after such commencement.
+(2) For the purposes of the foregoing and notwithstanding the repeals effected by section 4, the system of registration of births, stillbirths, deaths and marriages established and maintained under the repealed enactments shall continue in existence after the commencement of that section but may, if and whenever an tArd-Chláraitheoir considers it appropriate to do so, be adapted, modified or enlarged by him or her and, accordingly, the registers, indexes and other records established and maintained under the system shall also continue in existence after such commencement.
 
 (3) The Minister may, by regulations, confer on an tArd-Chláraitheoir such additional functions in relation to the Civil Registration Service as he or she considers appropriate.
 

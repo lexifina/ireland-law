@@ -1,4 +1,4 @@
-F265[Search of register of stillbirths
+F271[Search of register of stillbirths
 
 62.—(1) An tArd-Chláraitheoir, a Superintendent Registrar, a registrar or an authorised officer shall, on application in writing to him or her in that behalf by a person referred to in subsection (2) and on payment of the prescribed fee—
 

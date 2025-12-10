@@ -1,6 +1,6 @@
 ## PART 7A REGISTRATION OF CIVIL PARTNERSHIPS
 
-F227[Definitions (Part 7A).
+F232[Definitions (Part 7A).
 
 59A.—In this Part—
 

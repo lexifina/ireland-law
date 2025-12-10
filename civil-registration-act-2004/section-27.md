@@ -8,7 +8,7 @@ Recording and registration of certain other births occuring outside State.
 
 (c) the birth of a child of a member of the Garda Síochána or the Permanent Defence Force outside the State while the member is serving outside the State as such member.
 
-(2) Regulations shall provide for the transmission of copies of records referred to in subsection (1), certified by specified persons to be true copies, to an tArd- Chláraitheoir, and for the making of specified returns in relation to such records to specified persons.
+(2) Regulations shall provide for the transmission of copies of records referred to in subsection (1), certified by specified persons to be true copies, to an tArd-Chláraitheoir, and for the making of specified returns in relation to such records to specified persons.
 
 (3) An tArd-Chláraitheoir shall cause to be entered in the register the required particulars relating to births referred to in subsection (1).
 

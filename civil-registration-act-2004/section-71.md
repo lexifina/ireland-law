@@ -2,7 +2,7 @@ Prosecution of offences.
 
 71.—(1) Proceedings for a summary offence under this Act or a regulation thereunder may be brought and prosecuted by an tArd-Chláraitheoir or the Executive.
 
-(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for a summary offence under this Act or a regulation thereunder may be commenced against a person at any time within 12 months from the date on which evidence that, in the opinion of an tArd-Chláraitheoir or the Executive is sufficient to justify the bringing of the proceedings comes to his, her or its notice.
+(2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for a summary offence under this Act or a regulation thereunder may be commenced against a person at any time within 12 months from the date on which evidence that, in the opinion of an tArd- Chláraitheoir or the Executive is sufficient to justify the bringing of the proceedings comes to his, her or its notice.
 
 (3) In proceedings for a summary offence under this Act, a document purporting to be signed by an tArd-Chláraitheoir or a person authorised in that behalf by him, her or the Executive and to state the date on which evidence referred to in subsection (2) came to his, her or its attention is prima facie evidence of that date and it shall be deemed to have been signed by an tArd-Chláraitheoir or the person authorised as aforesaid and, in case it purports to have been signed by a person so authorised, to have been signed in accordance with the authorisation unless the contrary is shown.
 

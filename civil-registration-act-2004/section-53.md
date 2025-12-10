@@ -20,8 +20,8 @@ Register of Solemnisers.
 
 (a) the death, resignation or retirement of the person from the office by virtue of which he or she became so registered, or
 
-(b) any change in the information provided in the application, and an tArd- Chláraitheoir shall make such amendments of the Register as he or she considers necessary.
+(b) any change in the information provided in the application, and an tArd-Chláraitheoir shall make such amendments of the Register as he or she considers necessary.
 
-(6) An entry in the Register shall be in such form and contain such particulars as an tArd-Chláraitheoir may determine.
+(6) An entry in the Register shall be in such form and contain such particulars as an tArd- Chláraitheoir may determine.
 
 (7) The Minister may provide by regulations for the correction of errors in entries in the Register by causing corrected entries to be entered in the Register and the original entries to be maintained in the Register.

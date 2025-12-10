@@ -1,4 +1,4 @@
-F136[Regulations (Part 3B)
+F138[Regulations (Part 3B)
 
 30L.—(1) The Minister, following consultation with the Minister for Children, Equality, Disability, Integration and Youth and an tArd-Chláraitheoir, may make regulations to ensure the effective operation of this Part including, but not limited to, regulations prescribing—
 

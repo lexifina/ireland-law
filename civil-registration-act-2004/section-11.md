@@ -6,4 +6,4 @@ Annual report.
 
 (3) The Minister shall cause copies of the report to be laid before each House of the Oireachtas.
 
-(4) An tArd-Chláraitheoir may prepare such other reports (if any) in writing in relation to matters concerning the Civil Registration Service as the Minister may request or an tArd-Chláraitheoir considers appropriate and furnish copies of them to the Minister.
+(4) An tArd-Chláraitheoir may prepare such other reports (if any) in writing in relation to matters concerning the Civil Registration Service as the Minister may request or an tArd- Chláraitheoir considers appropriate and furnish copies of them to the Minister.

@@ -2,7 +2,7 @@
 
 Ard-Chláraitheoir.
 
-7.—(1) The office of an tArd-Chláraitheoir provided for by section 4 of the Act of 1863 shall continue in existence after the commencement of this section notwithstanding the repeals effected by this Act, but the office shall be known as an tArd-Chláraitheoir an tSeirbhís um Chlárú Sibhialta and the person holding the office shall be known as an tArd-Chláraitheoir and is referred to in this Act as an tArd- Chláraitheoir.
+7.—(1) The office of an tArd-Chláraitheoir provided for by section 4 of the Act of 1863 shall continue in existence after the commencement of this section notwithstanding the repeals effected by this Act, but the office shall be known as an tArd-Chláraitheoir an tSeirbhís um Chlárú Sibhialta and the person holding the office shall be known as an tArd-Chláraitheoir and is referred to in this Act as an tArd-Chláraitheoir.
 
 (2) An tArd-Chláraitheoir shall be a person appointed to that office by the Minister from among his or her officers.
 
@@ -22,4 +22,4 @@ Ard-Chláraitheoir.
 
 (8) The functions of the office of an tArd-Chláraitheoir (being the office provided for by section 52 of the Act of 1844) are transferred to and shall be performed by an tArd-Chláraitheoir.
 
-(9) References in any statute or any instrument made under any statute passed or made before the commencement of this section, or in any other document in existence immediately before such commencement, to the office of an tArd-Chláraitheoir provided for by section 52 of the Act of 1844 shall, upon such commencement, be construed as references to an tArd-Chláraitheoir.
+(9) References in any statute or any instrument made under any statute passed or made before the commencement of this section, or in any other document in existence immediately before such commencement, to the office of an tArd-Chláraitheoir provided for by section 52 of the Act of 1844 shall, upon such commencement, be construed as references to an tArd- Chláraitheoir.

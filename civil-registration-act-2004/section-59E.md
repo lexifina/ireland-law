@@ -1,3 +1,3 @@
-F237[Places and times for registration of civil partnerships.
+F242[Places and times for registration of civil partnerships.
 
 59E.—...
