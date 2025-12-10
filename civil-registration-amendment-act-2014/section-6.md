@@ -1,4 +1,4 @@
-Amendment of section 22 of Principal Act
+Amendment of section 22 of
 
 6. (1) Section 22 of the Principal Act is amended by—
 
@@ -14,7 +14,9 @@ Amendment of section 22 of Principal Act
 
 (b) gives, unless subsection (1D) applies, to the registrar the required particulars of the birth, and
 
-(c) signs the register, the registrar shall— (i) register the birth of the child with required particulars, other than the surname of the child and those relating to the father of the child, and
+(c) signs the register, the registrar shall—
+
+(i) register the birth of the child with required particulars, other than the surname of the child and those relating to the father of the child, and
 
 (ii) make all reasonable efforts to give notice in writing to the person requiring him to within 28 days attend before a registrar, at the office of the registrar or such other (if any) convenient place in the registration area concerned, as may be specified by the registrar in the notice, and there to inform the registrar if he agrees that he is the father of the child.
 
@@ -64,7 +66,7 @@ Amendment of section 22 of Principal Act
 
 (c) in subsection (2) —
 
-(i) the substitution of “(in this subsection referred to as ‘the person’) for “(‘the person’)”,
+(i) the substitution of "Subject to subsection (3), any registrar shall enter in the register the name of a person (in this subsection referred to as ‘the person’) as the father of a child to whom subsection (1A) applies—" for "Subject to subsection (3), any registrar shall enter in the register the name of a person (‘the person’) as the father of a child to whom subsection (1) applies—",
 
 (ii) in paragraph (a) the deletion of “of the child (‘the mother’)”, and
 
@@ -140,6 +142,6 @@ Amendment of section 22 of Principal Act
 
 (h) the insertion of the following subsection after subsection (5):
 
-“(5A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd- Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the birth to be registered notwithstanding that a person referred to in paragraph (a), (b) or (c) of subsection (5) has not signed the register.”
+“(5A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd-Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the birth to be registered notwithstanding that a person referred to in paragraph (a), (b) or (c) of subsection (5) has not signed the register.”
 
-(2) The amendments of section 22 of the Principal Act effected by subsection (1) shall not apply in relation to the registration of a birth where that birth occurs before the commencement of that subsection.
+(2) The amendments of section 22 of the Principal Act effected by paragraphs (d), (e) and (f) of subsection (1) shall not apply in relation to the registration of a birth where that birth occurs before the commencement of that subsection.
