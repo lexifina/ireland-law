@@ -16,7 +16,7 @@ Amendment of section 19 of Principal Act
 
 (c) the insertion of the following subsection after subsection (5):
 
-“(5A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd- Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the birth to be registered notwithstanding that a person referred to in paragraph (a) or (b) of subsection (1) or a qualified informant has not signed the register.”, and
+“(5A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd-Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the birth to be registered notwithstanding that a person referred to in paragraph (a) or (b) of subsection (1) or a qualified informant has not signed the register.”, and
 
 (d) in subsection (6), by the insertion of the following paragraph after paragraph (a):
 

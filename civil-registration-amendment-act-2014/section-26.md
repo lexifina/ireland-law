@@ -1,4 +1,4 @@
-Civil Partnership ceremonies performed at certain embassies or diplomatic missions
+Civil Partnership
 
 26. The Principal Act is amended by the insertion of the following section before Part 7B:
 

@@ -1,4 +1,4 @@
-Amendment of First Schedule to Principal Act
+Amendment of First
 
 34. (1) The First Schedule to the Principal Act is amended in Part 5 by the deletion of “or age last birthday” after “Date of birth”.
 

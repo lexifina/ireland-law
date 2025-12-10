@@ -1,4 +1,4 @@
-Amendment of section 68 of Principal Act
+Amendment of section 68 of
 
 31. Section 68 of the Principal Act is amended by the insertion of the following subsection after subsection (2):
 

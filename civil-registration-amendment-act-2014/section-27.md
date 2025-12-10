@@ -1,4 +1,4 @@
-Amendment of section 61 of Principal Act
+Amendment of section 61 of
 
 27. Section 61 of the Principal Act is amended by—
 

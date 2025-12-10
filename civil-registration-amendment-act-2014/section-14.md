@@ -1,4 +1,4 @@
-Amendment of section 45 of Principal Act
+Amendment of section 45 of
 
 14. Section 45 of the Principal Act is amended by the insertion of the following definition:
 

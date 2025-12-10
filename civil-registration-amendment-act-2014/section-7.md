@@ -1,4 +1,4 @@
-Re-registration of birth
+Re-registration of
 
 7. (1) The Principal Act is amended by the substitution of the following section for section 23:
 
