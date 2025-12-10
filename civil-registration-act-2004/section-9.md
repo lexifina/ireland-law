@@ -20,4 +20,4 @@ Ard-Chláraitheoir Cúnta.
 
 (b) If an tArd-Chláraitheoir Cúnta is removed from office under this subsection, the Minister shall cause to be laid before each House of the Oireachtas a statement of the reasons for the removal.
 
-(9) If, immediately before the commencement of this section, a person stands appointed under section 10 of the Act of 1863 as assistant to an tArd-Chláraitheoir, he or she shall upon, such commencement, stand appointed to the office of an tArd- Chláraitheoir Cúnta and shall hold that office upon terms and conditions equivalent to those upon which he or she held the office of such assistant and subsections (6) and (7) shall not apply to him or her.
+(9) If, immediately before the commencement of this section, a person stands appointed under section 10 of the Act of 1863 as assistant to an tArd-Chláraitheoir, he or she shall upon, such commencement, stand appointed to the office of an tArd-Chláraitheoir Cúnta and shall hold that office upon terms and conditions equivalent to those upon which he or she held the office of such assistant and subsections (6) and (7) shall not apply to him or her.

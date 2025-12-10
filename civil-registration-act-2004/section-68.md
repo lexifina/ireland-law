@@ -20,4 +20,4 @@ Evidence of births, stillbirths and deaths.
 
 (b) an entry in the register of deaths where subsection (3A) or (3C) of section 37 applies or where subsection (2E) of section 41 applies.
 
-(3) Where a birth, stillbirth or death is registered more than 12 months from the date of its occurrence, the relevant entry in the register of births, the register of stillbirths or the register of deaths, as the case may be, shall not be evidence of the occurrence unless it purports to have been made with the authority of an tArd- Chláraitheoir or an authorised officer of the Executive.
+(3) Where a birth, stillbirth or death is registered more than 12 months from the date of its occurrence, the relevant entry in the register of births, the register of stillbirths or the register of deaths, as the case may be, shall not be evidence of the occurrence unless it purports to have been made with the authority of an tArd-Chláraitheoir or an authorised officer of the Executive.

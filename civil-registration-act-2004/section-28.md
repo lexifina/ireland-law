@@ -12,7 +12,7 @@ Registration of stillbirths.
 
 (II) after the registrar has entered the required particulars in relation to the stillbirth in the register, sign the register in the presence of the registrar, or
 
-(ii) provide to an tArd-Chláraitheoir to the best of his or her knowledge and belief the required particulars of the stillbirth and, if it has been obtained, the certificate referred to in subsection (3), by electronic means in such manner as an tArd-Chláraitheoir may specify.
+(ii) provide to an tArd-Chláraitheoir to the best of his or her knowledge and belief the required particulars of the stillbirth and, if it has been obtained, the certificate referred to in subsection (3), by electronic means in such manner as an tArd- Chláraitheoir may specify.
 
 (1A) Subsection (1)(ii) shall only apply where the person providing the particulars concerned has been issued with a public services card (within the meaning of the Act of 2005).
 

@@ -1,6 +1,6 @@
 Registers.
 
-13.—(1) There shall be established, where appropriate, and maintained by an tArd- Chláraitheoir—
+13.—(1) There shall be established, where appropriate, and maintained by an tArd-Chláraitheoir—
 
 (a) a register of all births occurring in the State or to which section 26 or 27 applies (which shall be known, and is referred to in this Act, as the register of births),
 
@@ -32,7 +32,7 @@ Registers.
 
 (3) A register may be maintained in any legible form or in any other form that is capable of being converted into a legible form and of being used to make a legible copy or reproduction of an entry in the register.
 
-(4) Evidence of an entry in a register , other than the register of gender recognition, and of the facts stated therein may be given by the production of a document purporting to be a legible copy of the entry and to be certified to be a true copy by an tArd-Chláraitheoir, a person authorised in that behalf by an tArd- Chláraitheoir, a Superintendent Registrar, an authorised officer or a registrar.
+(4) Evidence of an entry in a register , other than the register of gender recognition, and of the facts stated therein may be given by the production of a document purporting to be a legible copy of the entry and to be certified to be a true copy by an tArd-Chláraitheoir, a person authorised in that behalf by an tArd-Chláraitheoir, a Superintendent Registrar, an authorised officer or a registrar.
 
 (5) ...
 

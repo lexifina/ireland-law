@@ -178,7 +178,7 @@ Interpretation.
 
 (ii) in accordance with subsection (2) of section 45 of that Act.
 
-(d) one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity (within the meaning of the Assisted Decision-Making (Capacity) Act 2015) to consent to the marriage,
+(d) one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity (within the meaning of the Assisted Decision- Making (Capacity) Act 2015) to consent to the marriage,
 
 (e) ...
 

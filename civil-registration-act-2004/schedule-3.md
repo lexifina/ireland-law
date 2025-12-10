@@ -4,7 +4,7 @@ PROHIBITED DEGREES OF RELATIONSHIP
 
 A person may not enter a civil partnership with someone within the prohibited degrees of relationship, as set out in the table below. Relationships within that table should be construed as including relationships in the half-blood (e.g. sibling includes a sibling where there is only one parent in common, etc.), and all the relationships include relationships and former relationships by adoption.
 
-A man may not enter a civil A woman may not enter a civil partnership with her: partnership with his:
+A man may not enter a civil partnership A woman may not enter a civil partnership with her: with his:
 
 Grandfather Grandmother
 

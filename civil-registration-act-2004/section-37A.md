@@ -6,7 +6,7 @@ Alleviation of requirement on certain persons to appear in person under Part 5 o
 
 (b) attend in person before a Superintendent Registrar, or
 
-(c) sign a register in the presence of any person, shall be deemed to have done so where they have provided to the registrar, Superintendent Registrar or person in question such written particulars relating to that requirement as an tArd-Chláraitheoir may specify.
+(c) sign a register in the presence of any person, shall be deemed to have done so where they have provided to the registrar, Superintendent Registrar or person in question such written particulars relating to that requirement as an tArd- Chláraitheoir may specify.
 
 (2) Before the expiration of the emergency period, the Government may, at the request of the Minister made—
 

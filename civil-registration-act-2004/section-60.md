@@ -14,7 +14,7 @@ Appeals.
 
 (4) The Minister may by regulations make provision in relation to notices of appeal under this section and the procedure to be followed on appeals under this section.
 
-(5) In relation to an appeal under this section, the appeals officer concerned or an tArd-Chláraitheoir, as the case may be—
+(5) In relation to an appeal under this section, the appeals officer concerned or an tArd- Chláraitheoir, as the case may be—
 
 (a) shall notify the parties concerned in writing of his or her decision in relation to the appeal and of the reasons therefor, and
 
@@ -24,7 +24,7 @@ Appeals.
 
 (7) An tArd-Chláraitheoir may revise a decision (including a revised decision under this subsection) of an tArd-Chláraitheoir or an appeals officer if it appears to him or her that the decision was erroneous by reason of a mistake of law or fact.
 
-(8) A person who is dissatisfied with a decision (including a revised decision) of an tArd-Chláraitheoir may appeal against it to the High Court.
+(8) A person who is dissatisfied with a decision (including a revised decision) of an tArd- Chláraitheoir may appeal against it to the High Court.
 
 (9) A revision under subsection (6) by an appeals officer shall be deemed, for the purpose of subsections (2) to (5) and (7) of this section, to be a decision under subsection (2), and those subsections shall apply and have effect accordingly, with any necessary modifications, in relation to the revision.
 
@@ -34,4 +34,4 @@ Appeals.
 
 (b) shall, subject to any appeal under this section, have effect in accordance with its terms.
 
-(11) A document purporting to be a decision or a revision of an tArd-Chláraitheoir or an appeals officer shall be deemed to be such a decision or revision and to have been signed by the person purporting to have signed it unless the contrary is shown and shall be prima facie evidence of the decision or revision and it shall not be necessary to prove that that person was an tArd-Chláraitheoir or, as the case may be, an appeals officer.
+(11) A document purporting to be a decision or a revision of an tArd-Chláraitheoir or an appeals officer shall be deemed to be such a decision or revision and to have been signed by the person purporting to have signed it unless the contrary is shown and shall be prima facie evidence of the decision or revision and it shall not be necessary to prove that that person was an tArd- Chláraitheoir or, as the case may be, an appeals officer.

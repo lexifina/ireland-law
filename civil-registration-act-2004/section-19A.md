@@ -24,7 +24,7 @@ Special provisions in relation to registration of birth of donor-conceived child
 
 (a) paragraph (i) of section 19(1) and subsection (1), or
 
-(b) as the case may be, paragraphs (a) to (c) of section 19(3) and subsection (3), have been complied with in relation to a birth to which subsection (1) applies, the registrar concerned shall register the birth in accordance with this section and in such manner as an tArd-Chláraitheoir may direct.
+(b) as the case may be, paragraphs (a) to (c) of section 19(3) and subsection (3), have been complied with in relation to a birth to which subsection (1) applies, the registrar concerned shall register the birth in accordance with this section and in such manner as an tArd- Chláraitheoir may direct.
 
 (6) In registering the birth of a child under this section, the registrar shall note on the register that the child is a child to whom subsection (1) applies.
 

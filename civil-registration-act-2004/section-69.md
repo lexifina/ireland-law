@@ -6,7 +6,7 @@ Offences.
 
 (b) keeps, or permits or procures the keeping of, any information (other than information contained in or relating to a register or an index to a register) on a computer on which a register or an index to a register is kept, is guilty of an offence.
 
-(2) In relation to a computer on which a register or an index to a register is kept, a person (including a person entitled to access information kept on the computer but excluding an tArd-Chláraitheoir, a Superintendent Registrar or a registrar) who, without the consent of an tArd-Chláraitheoir, a Superintendent Registrar or a registrar—
+(2) In relation to a computer on which a register or an index to a register is kept, a person (including a person entitled to access information kept on the computer but excluding an tArd- Chláraitheoir, a Superintendent Registrar or a registrar) who, without the consent of an tArd- Chláraitheoir, a Superintendent Registrar or a registrar—
 
 (a) deletes or alters, or permits or procures the deletion or alteration of, information kept on the computer, or
 

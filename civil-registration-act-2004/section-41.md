@@ -6,7 +6,7 @@ Furnishing of particulars of death by a coroner to registrar.
 
 (b) adjourns an inquest at which evidence of identification and medical evidence as to the cause of death has been given, or
 
-(c) decides, as a result of a post-mortem examination, not to hold an inquest, he or she shall give the appropriate registrar a certificate containing the required particulars of the death concerned and that registrar shall register the death in such manner as an tArd-Chláraitheoir may direct.
+(c) decides, as a result of a post-mortem examination, not to hold an inquest, he or she shall give the appropriate registrar a certificate containing the required particulars of the death concerned and that registrar shall register the death in such manner as an tArd- Chláraitheoir may direct.
 
 (2) Where a coroner inquires into the circumstances of a death without holding an inquest or causing a post-mortem examination to be made, he or she shall give the appropriate registrar a certificate containing the required particulars of the death and that registrar shall register the death in such manner as an tArd-Chláraitheoir may direct.
 

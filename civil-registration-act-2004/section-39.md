@@ -8,7 +8,7 @@ Recording and registration of certain other deaths occurring outside State.
 
 (c) the death of a member of the Garda Síochána or the Permanent Defence Force or of the spouse or specified members of the family of such a member outside the State while the member is serving outside the State as such member.
 
-(2) Regulations shall provide for the transmission of copies of records referred to in subsection (1), certified by specified persons to be true copies, to an tArd- Chláraitheoir.
+(2) Regulations shall provide for the transmission of copies of records referred to in subsection (1), certified by specified persons to be true copies, to an tArd-Chláraitheoir.
 
 (3) An tArd-Chláraitheoir shall cause to be entered in the register the required particulars relating to deaths to which records referred to in subsection (1) relate.
 
