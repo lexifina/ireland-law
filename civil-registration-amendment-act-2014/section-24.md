@@ -1,4 +1,4 @@
-Amendment of section 59E of Principal Act
+Amendment of section 59E
 
 24. Section 59E of the Principal Act is amended by the insertion of the following subsection after subsection (4):
 

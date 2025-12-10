@@ -1,4 +1,4 @@
-Amendment of section 64 of Principal Act
+Amendment of section 64 of
 
 28. Section 64 of the Principal Act is amended by—
 
@@ -10,7 +10,7 @@ Amendment of section 64 of Principal Act
 
 (a) required particulars referred to in subsection (5B), or
 
-(b) false or misleading information furnished to the registrar, an tArd- Chláraitheoir—
+(b) false or misleading information furnished to the registrar, an tArd-Chláraitheoir—
 
 (i) may direct a registrar to cancel the entry and retain the entry so cancelled in the register of births, stillbirths or deaths, and
 

@@ -1,4 +1,4 @@
-Amendment of section 37 of Principal Act
+Amendment of section 37 of
 
 11. Section 37 of the Principal Act is amended by—
 
@@ -8,7 +8,9 @@ Amendment of section 37 of Principal Act
 
 (a) a relative, civil partner, cohabitant, next of kin, personal representative or religious superior of the deceased who has knowledge of the required particulars in relation to the death, and
 
-(b) if there is no such relative, civil partner, cohabitant, next of kin, personal representative or religious superior who can be found or every such person is incapable through ill health of complying with this subsection, each other qualified informant, unless he or she reasonably believes that another qualified informant has complied with it in relation to the death, within 3 months from the date of the death— (i) to attend before any registrar,
+(b) if there is no such relative, civil partner, cohabitant, next of kin, personal representative or religious superior who can be found or every such person is incapable through ill health of complying with this subsection, each other qualified informant, unless he or she reasonably believes that another qualified informant has complied with it in relation to the death, within 3 months from the date of the death—
+
+(i) to attend before any registrar,
 
 (ii) there, to give to the registrar, to the best of his or her knowledge and belief, in a form standing specified by an tArd-Chláraitheoir, the required particulars of the death, and
 
@@ -30,7 +32,7 @@ Amendment of section 37 of Principal Act
 
 (d) the insertion of the following subsection after subsection (3):
 
-(3A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd- Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the death to be registered notwithstanding that a person referred to in paragraph (a) or (b) of subsection (1) has not signed the register.”, and
+(3A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd-Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the death to be registered notwithstanding that a person referred to in paragraph (a) or (b) of subsection (1) has not signed the register.”, and
 
 (e) the substitution of the following subsection for subsection (5) —
 

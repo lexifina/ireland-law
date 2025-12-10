@@ -1,6 +1,6 @@
 ## PART 1 PRELIMINARY AND GENERAL
 
-Short title, collective citation and commencement
+Short title, collective
 
 1. (1) This Act may be cited as the Civil Registration (Amendment) Act 2014.
 

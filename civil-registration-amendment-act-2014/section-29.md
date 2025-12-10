@@ -1,4 +1,4 @@
-Amendment of section 66 of Principal Act
+Amendment of section 66 of
 
 29. Section 66 of the Principal Act is amended in subsection (1) by—
 

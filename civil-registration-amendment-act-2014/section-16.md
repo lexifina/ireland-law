@@ -1,4 +1,4 @@
-Amendment of section 51 of Principal Act
+Amendment of section 51 of
 
 16. Section 51 of the Principal Act is amended by the insertion of the following subsection after subsection (2):
 

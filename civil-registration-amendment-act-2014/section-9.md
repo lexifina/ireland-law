@@ -1,4 +1,4 @@
-Failure to agree surname and subsequent registration of surname
+Failure to agree surname and
 
 9. The Principal Act is amended by the insertion of the following section after section 25:
 

@@ -1,4 +1,4 @@
-Amendment of section 69 of Principal Act
+Amendment of section 69 of
 
 32. Section 69 of the Principal Act is amended by—
 

@@ -1,4 +1,4 @@
-Amendment of section 59A of Principal Act
+Amendment of section 59A
 
 20. Section 59A of the Principal Act is amended by the insertion of the following definition:
 

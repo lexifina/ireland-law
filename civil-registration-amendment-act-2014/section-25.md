@@ -1,4 +1,4 @@
-Amendment of section 59F of Principal Act
+Amendment of section 59F
 
 25. Section 59F of the Principal Act is amended by—
 
@@ -12,7 +12,9 @@ Amendment of section 59F of Principal Act
 
 (a) in the performance of his or her functions under this Part forms the opinion that a civil partnership would constitute a civil partnership of convenience, or
 
-(b) receives under subsection (1) an objection the stated reason for which is that the intended civil partnership would constitute a civil partnership of convenience, and forms the opinion that grounds for the objection possibly exist and need to be investigated, shall refer the matter to the Superintendent Registrar of the registration area where the registrar who formed the opinion is assigned, for a decision, and in that case and for that purpose, this section shall apply and have effect according to— (i) the modification that a reference to receipt of an objection under subsection (1) includes a reference to an opinion under paragraph (a),
+(b) receives under subsection (1) an objection the stated reason for which is that the intended civil partnership would constitute a civil partnership of convenience, and forms the opinion that grounds for the objection possibly exist and need to be investigated, shall refer the matter to the Superintendent Registrar of the registration area where the registrar who formed the opinion is assigned, for a decision, and in that case and for that purpose, this section shall apply and have effect according to—
+
+(i) the modification that a reference to receipt of an objection under subsection (1) includes a reference to an opinion under paragraph (a),
 
 (ii) the modification references in the section to an tArd-Chláraitheoir shall be construed as references to the Superintendent Registrar concerned, and
 

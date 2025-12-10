@@ -1,4 +1,4 @@
-Amendment of section 67 of Principal Act
+Amendment of section 67 of
 
 30. Section 67 of the Principal Act is amended by—
 

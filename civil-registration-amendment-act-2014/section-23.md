@@ -1,4 +1,4 @@
-Amendment of section 59D of Principal Act
+Amendment of section 59D
 
 23. Section 59D of the Principal Act is amended by—
 

@@ -1,4 +1,4 @@
-Amendment of section 52 of Principal Act
+Amendment of section 52 of
 
 17. Section 52 of the Principal Act is amended by the insertion of the following subsection after subsection (2):
 
