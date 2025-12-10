@@ -1,0 +1,3 @@
+Transfer of officers of Minister for the Environment to Office of Comptroller and Auditor General.
+
+17.—The Minister, after consultation with the Minister for the Environment, may designate for the purposes of transfer under this section such and so many officers of the Minister for the Environment whose duties, immediately before the designation, consisted of or included the audit of accounts or duties relating to such audits, as appear to him to be requisite to enable the Comptroller and Auditor General to perform the functions conferred on him by this Act, and a person so designated shall, upon such date as may be specified in the designation, become and be an officer of the Comptroller and Auditor General.
