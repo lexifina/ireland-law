@@ -1,4 +1,4 @@
-Marriage ceremonies performed at certain embassies or diplomatic missions
+Marriage ceremonies
 
 19. (1) The Principal Act is amended by the insertion of the following section after section 58:
 
@@ -58,4 +58,4 @@ Marriage ceremonies performed at certain embassies or diplomatic missions
 
 (iv) the signatures of both parties or the surviving party to the marriage.
 
-(c) Subsection (1) shall not operate to validate a marriage in relation to which the registrar, before the coming into operation of subsection (1), records, under this subsection, the intention of the parties that it shall not be so validated.
+(c) Subsection (1) shall not operate to validate a marriage in relation to which the registrar, before the coming into operation of subsection (1), records, under this subsection, the intention of the parties that it shall not be so validated.”
