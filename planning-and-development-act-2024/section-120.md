@@ -20,11 +20,7 @@ Making of application to Commission
 
 (6) Following receipt by the Commission of an application for permission for Chapter 4 development that is land-based development, the Commission shall, before the expiration of such period as may be prescribed, cause an inspection to be carried out of the land on which it is proposed to carry out the development concerned.
 
-(7) Where the Commission determines, following the carrying out of an inspection under
-
-## subsection
-
-(6), or at any other time after the acknowledgment of receipt of an application under paragraph (a) of subsection (4), that the application was not made in accordance with this section—
+(7) Where the Commission determines, following the carrying out of an inspection under subsection (6), or at any other time after the acknowledgment of receipt of an application under paragraph (a) of subsection (4), that the application was not made in accordance with this section—
 
 (a) if it is satisfied that the failure to make the application in accordance with this section—
 

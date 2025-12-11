@@ -4,7 +4,9 @@ State authority development emergency order
 
 (a) the carrying out of such development or development of such class is required by reason of an accident or emergency, and
 
-(b) such development or development of such class does not require appropriate assessment or environmental impact assessment, (and such development or development of such class is in this Part referred to as “Chapter 6 State authority emergency development”).
+(b) such development or development of such class does not require appropriate assessment or environmental impact assessment,
+
+(and such development or development of such class is in this Part referred to as “Chapter 6 State authority emergency development”).
 
 (2) An order under subsection (1) may include a provision requiring compliance with sections 158 and 160 before the carrying out of any development to which the order applies.
 

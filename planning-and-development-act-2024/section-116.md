@@ -4,11 +4,7 @@ Pre-application consultation
 
 (b) A person (in this Chapter also referred to as a “prospective applicant”) who is of a class prescribed by the Minister may request a consultation with the Commission under this section.
 
-(c) A person (in this Chapter also referred to as a “prospective applicant”) who intends, and is eligible to apply, for permission for Chapter 4 development (other than
-
-## Chapter 4
-
-State authority emergency development) shall, prior to the making of the application concerned, request a consultation with the Commission under this section.
+(c) A person (in this Chapter also referred to as a “prospective applicant”) who intends, and is eligible to apply, for permission for Chapter 4 development (other than Chapter 4 State authority emergency development) shall, prior to the making of the application concerned, request a consultation with the Commission under this section.
 
 (2) A request for a consultation under this section shall be accompanied by—
 

@@ -2,23 +2,7 @@ Duty of owners and occupiers to protect structures from endangerment
 
 311. (1) Subject to subsections (2) and (3), each owner and occupier of a protected structure or proposed protected structure shall take all reasonable steps to ensure that the structure is not endangered.
 
-(2) Subsection (1) applies to a proposed protected structure from the time the owner or occupier of the structure is notified, under paragraph (a) of subsection
-
-## (4)
-
-of
-
-## section
-
-55,
-
-## section 308
-
-or
-
-## section
-
-309, of a recommendation or proposal to add the structure to the record of protected structures.
+(2) Subsection (1) applies to a proposed protected structure from the time the owner or occupier of the structure is notified, under paragraph (a) of subsection (4) of section 55, section 308 or section 309, of a recommendation or proposal to add the structure to the record of protected structures.
 
 (3) Neither of the following shall constitute endangerment of a structure for the purposes of this section:
 

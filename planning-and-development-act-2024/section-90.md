@@ -52,7 +52,7 @@ Pre-application consultation
 
 (ii) to proper planning and sustainable development, or
 
-(iii) in the case of proposed maritime development, to maritime spatial planning , that, in the opinion of the planning authority, are likely to have a bearing on the decision of the planning authority, and
+(iii) in the case of proposed maritime development, to maritime spatial planning, that, in the opinion of the planning authority, are likely to have a bearing on the decision of the planning authority, and
 
 (d) may, on the request of the prospective applicant, advise him or her as to the type of documents that may be required to be submitted with the proposed application.
 

@@ -8,11 +8,7 @@ Amendment of sections 50 and 50B of Act of 2000
 
 (a) the substitution of the following subparagraph for subparagraph (I):
 
-“(I) a provision of the Environmental Impact Assessment Directive (within the meaning of the
-
-## Planning and
-
-Development Act 2024) to which, by virtue of paragraph 1 of Article 11 of that Directive, the said Article 11 is subject,”,
+“(I) a provision of the Environmental Impact Assessment Directive (within the meaning of the Planning and Development Act 2024) to which, by virtue of paragraph 1 of Article 11 of that Directive, the said Article 11 is subject,”,
 
 (b) the substitution, in subparagraph (II), of “environment,” for “environment, or”,
 

@@ -30,11 +30,7 @@ Notification of decision in relation to appeal under this Chapter
 
 (3) Where a decision by the Commission under section 109 does not follow a recommendation in a report of an inspector appointed to prepare a report for the purposes of the appeal, the statement under paragraph (a) of subsection (2) shall specify the main reasons for not following the recommendation.
 
-(4) Where the Commission grants permission under
-
-## section 109
-
-in circumstances to which section 110 applies, it shall notify the planning authority concerned thereof and the planning authority shall enter details thereof in the register.
+(4) Where the Commission grants permission under section 109 in circumstances to which section 110 applies, it shall notify the planning authority concerned thereof and the planning authority shall enter details thereof in the register.
 
 (5) The Commission shall, when giving notice of a decision under this section—
 

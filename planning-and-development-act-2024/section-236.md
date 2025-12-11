@@ -52,11 +52,7 @@ Environmental impact assessment of relevant development
 
 (i) exercise such of its powers under subsection (5) and (7) of section 235 as it considers necessary for the purpose of obtaining up to date information in relation to the relevant development concerned, and
 
-(ii) set aside the reasoned conclusion already reached in relation to the relevant development and reach a new reasoned conclusion in accordance with
-
-## subsection (4)
-
-in relation to the relevant development.
+(ii) set aside the reasoned conclusion already reached in relation to the relevant development and reach a new reasoned conclusion in accordance with subsection (4) in relation to the relevant development.
 
 (6) Where a competent authority decides to grant permission for a relevant development in respect of which an environmental impact assessment has been carried out under this section, it may, in addition to any other condition that may be attached to the grant of permission in accordance with Part 4, attach any of the following to the grant of permission:
 
