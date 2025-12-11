@@ -1,3 +1,3 @@
-Superannuation
+Superannuation of officers and servants of An Chomhairle. (Repealed)
 
 13.—...
