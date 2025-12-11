@@ -180,9 +180,7 @@ Conditions that may be attached to permission granted under Part
 
 (11) Where no agreement is reached under subsection (10) or the matter is not referred to the Commission within the period specified in subsection (10), or such longer period as may have been agreed, the planning authority shall be deemed not to have agreed to the points of detail as submitted.
 
-(12) Where the person carrying out the development has submitted to the Commission points of detail to be agreed with the Commission in accordance with a condition under subparagraph (iii) of paragraph (a) of subsection
-
-(9), the Commission shall, not later than 8 weeks (or such longer period as may be agreed in writing by the Commission with that person) from the submission of those points of detail, either—
+(12) Where the person carrying out the development has submitted to the Commission points of detail to be agreed with the Commission in accordance with a condition under subparagraph (iii) of paragraph (a) of subsection (9), the Commission shall, not later than 8 weeks (or such longer period as may be agreed in writing by the Commission with that person) from the submission of those points of detail, either—
 
 (a) reach agreement with that person on those points, or
 

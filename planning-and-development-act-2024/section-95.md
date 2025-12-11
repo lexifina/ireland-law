@@ -36,9 +36,7 @@ Application for permission for standard development
 
 (b) if it is not satisfied with regard to the matters referred to in subparagraphs (i) and (ii) of paragraph (a), it shall treat the application as invalid and declare it to be so.
 
-(8) (a) Notwithstanding subsection
-
-(7), where, any time after the acknowledgment of receipt of a planning application in accordance with paragraph (a) of subsection (4) but before the planning authority makes a decision in relation to the application under section 98, the planning authority determines that—
+(8) (a) Notwithstanding subsection (7), where, any time after the acknowledgment of receipt of a planning application in accordance with paragraph (a) of subsection (4) but before the planning authority makes a decision in relation to the application under section 98, the planning authority determines that—
 
 (i) the development the subject of the application is not standard development, or
 

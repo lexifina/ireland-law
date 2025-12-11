@@ -10,13 +10,9 @@ Application for permission for development in material contravention of developm
 
 (i) in the case of development or proposed development referred to in paragraph (a) or (b) of subsection (1), to proper planning and sustainable development, or
 
-(ii) in the case of development or proposed development referred to in paragraph (b) of subsection (1), to the objectives of maritime spatial planning , and
+(ii) in the case of development or proposed development referred to in paragraph (b) of subsection (1), to the objectives of maritime spatial planning, and
 
-(b) in the case of development or proposed development referred to in paragraph
-
-(a) of subsection
-
-(1), the development or proposed development is consistent with such provisions of the National Planning Framework, National Planning Policies and Measures or regional spatial and economic strategy as deal with the matters dealt with by provisions of the development plan to which the material contravention concerned applies, and any such resolution passed without prior compliance with subsection (3) shall be invalid.
+(b) in the case of development or proposed development referred to in paragraph (a) of subsection (1), the development or proposed development is consistent with such provisions of the National Planning Framework, National Planning Policies and Measures or regional spatial and economic strategy as deal with the matters dealt with by provisions of the development plan to which the material contravention concerned applies, and any such resolution passed without prior compliance with subsection (3) shall be invalid.
 
 (3) A planning authority shall give notice, in such form and manner as may be prescribed, to the public and to such persons as may be prescribed of any motion for a material contravention resolution, and any person may, upon payment of a prescribed fee, make submissions in respect of such motion in such form and manner, and within such period, as may be prescribed.
 

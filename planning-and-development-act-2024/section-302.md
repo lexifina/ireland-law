@@ -50,9 +50,7 @@ Provision for certain legal costs in relation to environmental matters
 
 (a) the Minister for the Environment, Climate and Communications, and
 
-(b) the person authorised by regulations under section 299 of the
-
-Planning and Development Act 2024 to administer the environmental legal costs financial assistance mechanism for the time being on behalf of the Minister for the Environment, Climate and Communications.”,
+(b) the person authorised by regulations under section 299 of the Planning and Development Act 2024 to administer the environmental legal costs financial assistance mechanism for the time being on behalf of the Minister for the Environment, Climate and Communications.”,
 
 (d) in section 155—
 
