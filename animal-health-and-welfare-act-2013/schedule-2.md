@@ -162,7 +162,7 @@ DISEASES TO WHICH ACT APPLIES
 
 80. Transmissible gastro-enteritis (porcine respiratory corona virus)
 
-81. Transmissible spongiform encephalopathies, including bovine spongiform encephalopathy and scrapie
+81.Transmissiblespongiformencephalopathies,includingbovinespongiformencephalopathy and scrapie
 
 82. Trichinellosis
 

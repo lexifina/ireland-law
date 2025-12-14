@@ -14,7 +14,9 @@ Orders under the Diseases of Animals Act 1966
 
 5. Rabies Order 1976 (S.I. No. 94 of 1976)
 
-6. Rabies (Importation, Landing and Movement of Animals) (Amendment) Order 1976 (S.I. No. 95 of 1976) 7. Warble Fly (Notification and Treatment) (Amendment) Order 1977 (S.I. No. 10 of 1977)
+6. Rabies (Importation, Landing and Movement of Animals) (Amendment) Order 1976 (S.I. No. 95 of 1976)
+
+7. Warble Fly (Notification and Treatment) (Amendment) Order 1977 (S.I. No. 10 of 1977)
 
 8. Warble Fly Order 1981 (S.I. No. 338 of 1981)
 
@@ -26,9 +28,7 @@ Orders under the Diseases of Animals Act 1966
 
 12. Diseases of Animals (Poultry Feed) Order 1991 (S.I. No. 364 of 1991)
 
-13. Diseases of Animals (Carriage of Cattle by Sea) Order 1996 (S.I. No. 17 of 1996)
-
-14. Bovine Tuberculosis (Attestation of the State and General Provisions) (Amendment) Order 1996 (S.I. No. 85 of 1996)
+13. Diseases of Animals (Carriage of Cattle by Sea) Order 1996 (S.I. No. 17 of 1996) 14. Bovine Tuberculosis (Attestation of the State and General Provisions) (Amendment) Order 1996 (S.I. No. 85 of 1996)
 
 15. Brucellosis in Cattle (General Provisions) (Amendment) Order 1996 (S.I. No. 86 of 1996)
 
@@ -78,15 +78,15 @@ Orders under the Diseases of Animals Act 1966
 
 38. Diseases of Animals (Animal Transport) (Roll-on Roll-off vessels) Order 2007 (S.I. No. 580 of 2007)
 
-39. Brucellosis in Cattle (General Provisions) (Amendment) Order 2007 (S.I. No. 666 of 2007) 40. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2007 (S.I. No. 765 of 2007)
+39. Brucellosis in Cattle (General Provisions) (Amendment) Order 2007 (S.I. No. 666 of 2007)
+
+40. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2007 (S.I. No. 765 of 2007)
 
 41. Diseases of Animals Act 1966 (Notification and Control of Animal Diseases) Order 2008 (S.I. No. 101 of 2008)
 
 42. Diseases of Animals Act 1966 (Transmissible Spongiform Encephalopathies) (Fertilisers and Soil Improvers) Order 2008 (S.I. No. 253 of 2008)
 
-43. Diseases of Animals Act 1966 (Prohibition on the Use of Swill) (Amendment) Order 2009 (S.I. No. 12 of 2009)
-
-44. Brucellosis in Cattle (General Provisions) (Amendment) Order 2009 (S.I. No. 357 of 2009)
+43. Diseases of Animals Act 1966 (Prohibition on the Use of Swill) (Amendment) Order 2009 (S.I. No. 12 of 2009) 44. Brucellosis in Cattle (General Provisions) (Amendment) Order 2009 (S.I. No. 357 of 2009)
 
 45. Rabies (Importation, Movement and Landing of Animals) Order 2009 (S.I. No. 261 of 2009)
 
