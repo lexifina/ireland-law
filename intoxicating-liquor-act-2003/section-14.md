@@ -4,9 +4,9 @@ Restrictions on presence in bars of persons under 18 years.
 
 “Restriction
 
-34.—(1) The holder of a licence of licensed premises shall not, subject on presence to subsections (2) to (4) of this section, allow a person under the age in bars of of 18 years to be in the bar of the licensed premises at any time. persons
+34.—(1) The holder of a licence of licensed premises shall not, subject to onpresence subsections (2) to (4) of this section, allow a person under the age of 18 years to in bars of be in the bar of the licensed premises at any time. persons
 
-(2) (a) It shall not be unlawful for such a holder to allow a child who under 18 is accompanied by his or her parent or guardian to be in the bar years. of the licensed premises between 10.30 a.m. (12.30 p.m. on a Sunday) and 9.00 p.m.
+(2) (a) It shall not be unlawful for such a holder to allow a child who is accompan- under 18 ied by his or her parent or guardian to be in the bar of the licensed years. premises between 10.30 a.m. (12.30 p.m. on a Sunday) and 9.00 p.m.
 
 (b) Paragraph (a) of this subsection does not apply in relation to a child where it appears to the holder that the child's presence in the bar could reasonably be regarded as injurious to his or her health, safety or welfare.
 

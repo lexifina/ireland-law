@@ -2,11 +2,13 @@ Production of evidence of age by persons between 18 and 21 years.
 
 15. —The Act of 1988 is amended by inserting the following section after section 34:
 
-“Production
+“Productionof
 
-34A.—(1) The holder of a licence of any licensed premises shall not of evidence allow a person who is aged at least 18 years but under the age of 21 of age by years to be in the bar of those premises between 9.00 p.m. and 10.30 persons a.m. on the following day (12.30 p.m. if the following day is a Sunday) between 18 if the person does not produce an age document to the holder. and 21
+34A.—(1) The holder of a licence of any licensed premises shall not allow a evidence of person who is aged at least 18 years but under the age of 21 years to be in the age by bar of those premises between 9.00 p.m. and 10.30 a.m. on the following day persons
 
-(2) For the purposes of subsection (1) of this section ‘age document’ years. means a document containing a photograph of the person in respect of whom it was issued and information that enables the age of the person to be determined and being one of the following documents relating to a person referred to in that subsection:
+(12.30 p.m. if the following day is a Sunday) if the person does not produce an between 18 age document to the holder. and 21 years.
+
+(2) For the purposes of subsection (1) of this section ‘age document’ means a document containing a photograph of the person in respect of whom it was issued and information that enables the age of the person to be determined and being one of the following documents relating to a person referred to in that subsection:
 
 (a) an age card referred to in section 40 of this Act,
 

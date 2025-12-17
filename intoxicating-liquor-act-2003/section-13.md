@@ -4,9 +4,9 @@ Provision of intoxicating liquor for persons under 18 years.
 
 “Provision of
 
-32.—(1) Subject to subsection (2) of this section, a person (other intoxicating than the holder of a licence of licensed premises) shall not— liquor for
+32.—(1) Subject to subsection (2) of this section, a person (other than intoxicating liquor the holder of a licence of licensed premises) shall not— for persons under
 
-(a) purchase intoxicating liquor for delivery to, or consumption persons under by, a person under the age of 18 years, or the age of 18 years.
+(a) purchase intoxicating liquor for delivery to, or consumption by, a the age of 18 person under the age of 18 years, or years.
 
 (b) deliver intoxicating liquor to such a person.
 
