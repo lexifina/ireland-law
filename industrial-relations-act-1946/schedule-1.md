@@ -2,13 +2,13 @@ FIRST SCHEDULE.
 
 ENACTMENTS REPEALED.
 
-Session and Chapter Short title Extent of Repeal or Number and Year
+Session and Chapter or Short title Extent of Repeal Number and Year
 
 59 & 60 Vic., c. 30. The Conciliation Act, 1896. The whole Act.
 
 9 Ed. VII, c. 22. The Trade Boards Act, 1909. The whole Act.
 
-3 & 4 Geo. V, c. clxii. The Trade Boards Provisional Orders Confirmation The whole Act. Act, 1913.
+3 & 4 Geo. V, c. clxii. The Trade Boards Provisional Orders Confirmation Act, 1913. The whole Act.
 
 8 & 9 Geo. V, c. 32. The Trade Boards Act, 1918. The whole Act.
 
