@@ -280,4 +280,4 @@ Charts and Lists of Geographical Coordinates
 
 1. Subject to this Part, the outer limit lines of the exclusive economic zone and the lines of delimitation drawn in accordance with article 74 shall be shown on charts of a scale or scales adequate for ascertaining their position. Where appropriate, lists of geographical coordinates of points, specifying the geodetic datum, may be substituted for such outer limit lines or lines of delimitation.
 
-2. The coastal State shall give due publicity to such charts or lists of geographical coordinates and shall deposit a copy of each such chart or list with the Secretary-General of the United Nations.
+2. The coastal State shall give due publicity to such charts or lists of geographical coordinates and shall deposit a copy of each such chart or list with the Secretary- General of the United Nations.
