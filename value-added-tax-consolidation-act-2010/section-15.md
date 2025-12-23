@@ -36,12 +36,12 @@ VAT groups.
 
 (a) a person in the group (in this section referred to as the “landlord”) having acquired an interest in, or developed, immovable goods to which section 4 of the repealed enactment applied, whether such acquisition or development occurred before or after the landlord became a person in the group, subsequently surrenders possession of those immovable goods, or any part of them, to another person in the group (in this section referred to as the “occupant”) where the surrender of possession, if it were to a person not in the group, would not constitute a supply of immovable goods in accordance with section 4 of the repealed enactment, and
 
-(b) either the landlord or the occupant subsequently ceases to be a person in the group (in this section referred to as a “cessation”), then, subject to subsection (6), if the landlord has not exercised the landlord’s option to tax in accordance with section 97 in respect of the letting of those immovable goods at the time of the cessation or does not have a waiver of his or her right to exemption from tax in accordance with section 96(2) to (5) still in effect at the time of the cessation—
+(b) either the landlord or the occupant subsequently ceases to be a person in the group (in this section referred to as a “cessation”), then, ...if the landlord has not exercised the landlord’s option to tax in accordance with section 97 in respect of the letting of those immovable goods at the time of the cessation ...—
 
 (i) the surrender of possession, or
 
 (ii) if that landlord surrendered possession of those immovable goods more than once to another person in the group, the first such surrender of possession, shall be deemed to occur when that first such cessation (in this section referred to as the “relevant cessation”) takes place.
 
-(6) For the purposes of subsection (5), where the landlord’s waiver of his or her right to exemption from tax in accordance with section 96(2) to (5) has been cancelled before a surrender of possession of immovable goods to another person in the group ends, that surrender of possession shall be deemed to take place on the date of the relevant cessation.
+(6) ...
 
 (7) The Revenue Commissioners may make regulations as seem to them to be necessary for the purposes of this section.
