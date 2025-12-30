@@ -18,6 +18,8 @@ Conditions and circumstances under which a carer may engage in employment, self-
 
 (a) any allowable contribution referred to in Regulation 31 of the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018),
 
+(aa) any participant contribution deducted from emoluments (within the meaning of Part 3 of the Automatic Enrolment Retirement Savings System Act 2024) in accordance with section 59(1)(b) of that Act,
+
 (b) any income tax payable under the provisions of the Income Tax Acts as defined in section 1 of the Taxes Consolidation Act 1997 (No. 39 of 1997),
 
 (c) any contributions payable under section 13(2)(b) and Regulations made under section 14,

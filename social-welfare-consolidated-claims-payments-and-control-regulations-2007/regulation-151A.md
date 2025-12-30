@@ -4,7 +4,9 @@ Earnings disregard — one-parent family payment.
 
 (2) For the purposes of sub-article (1), the amount shall be the aggregate of—
 
-(a) any allowable contribution referred to in Regulations 41 and 42 of the Income Tax (Employments) (Consolidated) Regulations 2001 (S.I. No. 559 of 2001),
+(a) any allowable contribution referred to in Regulation 31 of the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018),
+
+(aa) any participant contribution deducted from emoluments (within the meaning of Part 3 of the Automatic Enrolment Retirement Savings System Act 2024) in accordance with section 59(1)(b) of that Act,
 
 (b) any contributions payable under section 13(2)(b) and Regulations made under section 14, and
 

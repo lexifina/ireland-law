@@ -6,7 +6,9 @@ Assessment of claimant’s earnings — jobseeker’s allowance payable under se
 
 (3) For the purposes of sub-article (2) the amount shall be the aggregate of—
 
-(a) any allowable contributions referred to in regulations 41 and 42 of the Income Tax (Employments) (Consolidation) regulations 2001 (S.I. No. 559 of 2001),
+(a) any allowable contributions referred to in Regulation 31 of the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018),
+
+(aa) any participant contribution deducted from emoluments (within the meaning of Part 3 of the Automatic Enrolment Retirement Savings System Act 2024) in accordance with section 59(1)(b) of that Act,
 
 (b) any contributions payable under section 13(2)(b) and regulations made under section 14 or section 21,
 
