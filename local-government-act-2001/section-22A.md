@@ -30,7 +30,7 @@ Municipal districts.
 
 (b) in the English language, as "the Municipal District of..............…" followed by the name of the municipal district in English.
 
-(4) Subsection (1) does not apply in the case of the counties of Dun Laoghaire- Rathdown, Fingal and South Dublin.
+(4) Subsection (1) does not apply in the case of the counties of Dun Laoghaire-Rathdown, Fingal and South Dublin.
 
 (5) This section has effect in respect of the local elections for the year 2014 and subsequent local elections and, accordingly—
 

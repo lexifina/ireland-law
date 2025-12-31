@@ -28,9 +28,7 @@ Place, date and time of meetings.
 
 (5) Subject to this paragraph, different days, times and places (whether within or without the administrative area of the authority) may be appointed from time to time by resolution or fixed by standing orders for different meetings.
 
-Day of annual meeting.
-
-3.—(1) In every year in which a local election is held, the annual meeting of a local authority shall be held on the fourteenth day after the polling day or, where the poll is for any reason countermanded, interrupted or adjourned, after the day on which the poll is completed or the fresh poll is held.
+Day of annual meeting. 3.—(1) In every year in which a local election is held, the annual meeting of a local authority shall be held on the fourteenth day after the polling day or, where the poll is for any reason countermanded, interrupted or adjourned, after the day on which the poll is completed or the fresh poll is held.
 
 (2) Where the fourteenth day referred to in subparagraph (1) is an excluded day, the meeting shall be held on the next following day which is not an excluded day.
 
@@ -82,13 +80,13 @@ Special meetings.
 
 (a) by the Cathaoirleach,
 
-(b) if the office of Cathaoirleach is vacant, or the Cathaoirleach is unable to act, by the Leas-Chathaoirleach, or
+(b) if the office of Cathaoirleach is vacant, or the Cathaoirleach is unable to act, by the Leas- Chathaoirleach, or
 
 (c) by the Cathaoirleach on foot of a request presented to him or her by any 5 members.
 
 (2) Where the Cathaoirleach refuses or neglects to act on foot of a request referred to in subparagraph (1)(c) within 7 days of it being presented to him or her, the members making the request may convene the meeting in accordance with this paragraph.
 
-(3) A requisition shall be made in writing and be delivered by the Cathaoirleach, the Leas-Chathaoirleach or in a case where subparagraph (2) applies by the members making the requisition, as the case may be, to the meetings administrator.
+(3) A requisition shall be made in writing and be delivered by the Cathaoirleach, the Leas- Chathaoirleach or in a case where subparagraph (2) applies by the members making the requisition, as the case may be, to the meetings administrator.
 
 (4) A requisition shall be signed by the person or persons making it, as the case may be, and shall—
 
@@ -152,9 +150,7 @@ Public notice of meetings.
 
 Business of meeting.
 
-9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
-
-Chairing of meetings.
+9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting. Chairing of meetings.
 
 10.—(1) If present at a meeting, the Cathaoirleach shall chair it.
 
@@ -242,7 +238,9 @@ Disorderly conduct.
 
 (6) The chief executive, following consultation with the Cathaoirleach, may make such provision for the exclusion or, where necessary, the removal from any meeting of the local authority or any committee of the local authority, or meeting of municipal district members, of the member suspended in accordance with subparagraph (1) or (5) as appear necessary to the chief executive.
 
-Minutes. 14.—(1) Minutes of the proceedings of a meeting of a local authority shall be drawn up by the meetings administrator.
+Minutes.
+
+14.—(1) Minutes of the proceedings of a meeting of a local authority shall be drawn up by the meetings administrator.
 
 (2) The minutes shall include—
 
@@ -322,9 +320,7 @@ Standing orders.
 
 (b) Subject to clause (a), a committee may regulate its own business and proceedings by way of its own standing orders or otherwise.
 
-Committees.
-
-17.—(1) Paragraphs 12, 13, 14 and 15, and paragraph 16 in so far as it is relevant, apply in relation to a committee of a local authority or, subject to any regulations made under section 44(3), a joint committee with any necessary modifications.
+Committees. 17.—(1) Paragraphs 12, 13, 14 and 15, and paragraph 16 in so far as it is relevant, apply in relation to a committee of a local authority or, subject to any regulations made under section 44(3), a joint committee with any necessary modifications.
 
 (1A) In the application under subparagraph (1) of paragraph 13, nothing shall be read as enabling a committee of a local authority or a joint committee passing a resolution to suspend a person other than from the committee or joint committee itself.
 

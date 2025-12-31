@@ -10,7 +10,9 @@ Entry year property levy.
 
 A is the annual rate on valuation that was determined by the rating authority for the entry year pursuant to section 103(7)(b)(i),
 
-B is the rateable valuation of the property, C is the number of days remaining in the entry year, beginning with the entry date, and
+B is the rateable valuation of the property,
+
+C is the number of days remaining in the entry year, beginning with the entry date, and
 
 D is the total number of days in the entry year.
 

@@ -10,7 +10,7 @@ Local electoral areas.
 
 (c) determine the municipal districts within a county or a city and county for the purposes of section 22A, each of which shall consist of one or more than one local electoral area.
 
-(1A) Subsection (1)(c) does not apply in respect of the counties of Dun Laoghaire- Rathdown, Fingal and South Dublin.
+(1A) Subsection (1)(c) does not apply in respect of the counties of Dun Laoghaire-Rathdown, Fingal and South Dublin.
 
 (2) The number of members of a local authority to which an order under this section relates to be elected at an election of members of the local authority held after the making of the order for each local electoral area specified in the order shall, without prejudice to any subsequent order, be the number fixed by the order for the local electoral area.
 

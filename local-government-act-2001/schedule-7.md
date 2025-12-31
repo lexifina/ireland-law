@@ -48,9 +48,9 @@ Offaly 19
 
 Roscommon 18
 
-Sligo 18 South Dublin 40
+Sligo 18
 
-Tipperary 40
+South Dublin 40 Tipperary 40
 
 Westmeath 20
 

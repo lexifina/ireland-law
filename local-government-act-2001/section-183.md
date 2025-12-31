@@ -28,8 +28,6 @@ Land disposals, notification of members.
 
 (2) Section 90 (inserted by section 26 of the Housing (Miscellaneous Provisions) Act, 1992) of the Housing Act, 1966, is amended by the substitution of the following for subsection (4):
 
-“(4) (a) Subject to any regulations made under this section, section 183 of the Local Government Act, 2001, shall apply in relation to the sale of a dwelling under subparagraph (ii) or (iii) of paragraph (a), or paragraph
-
-(b), of subsection (1) of this section but shall not otherwise apply to the sale of a dwelling under this section.
+“(4) (a) Subject to any regulations made under this section, section 183 of the Local Government Act, 2001, shall apply in relation to the sale of a dwelling under subparagraph (ii) or (iii) of paragraph (a), or paragraph (b), of subsection (1) of this section but shall not otherwise apply to the sale of a dwelling under this section.
 
 (b) This subsection is without prejudice to the application of section 183 of the Local Government Act, 2001, to the disposal of land by a housing authority under section 211 of the Planning and Development Act, 2000, and for the purposes of this paragraph ‘land’ does not include a dwelling.”.

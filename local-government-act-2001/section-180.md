@@ -14,7 +14,7 @@ Application of Ethics in Public Office Act, 1995, etc.
 
 (i) a chief executive, it shall be furnished to the Cathaoirleach of the local authority concerned,
 
-(ii) the Cathaoirleach of a local authority, it shall be furnished to the Leas- Chathaoirleach of the authority and to its chief executive,
+(ii) the Cathaoirleach of a local authority, it shall be furnished to the Leas-Chathaoirleach of the authority and to its chief executive,
 
 (iii) any other member of a local authority, it shall be furnished to the Cathaoirleach of the authority and to its chief executive,
 

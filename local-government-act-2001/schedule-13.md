@@ -8,11 +8,11 @@ Artistic, linguistic and cultural activities The provision of art galleries, art
 
 Sports, games and similar activities The provision (both indoor and outdoor) of playing fields, athletic tracks, swimming pools and other bathing places, sports centres, gymnasia and other facilities and the holding of sporting events.
 
-General recreational and leisure The provision of parks, gardens, open activities spaces, playgrounds, play equipment, animals, picnic sites, viewing points, footpaths, walks, boats, piers, other landing places and marinas. Civic improvements The provision of street furniture, paving, clocks, statues, monuments and other features, illumination and decoration and other measures designed to upgrade the local environment.
+General recreational and leisure activities The provision of parks, gardens, open spaces, playgrounds, play equipment, animals, picnic sites, viewing points, footpaths, walks, boats, piers, other landing places and marinas.
 
-General environmental and heritage Landscaping, the planting of trees and protection and improvement other flora, measures for the conservation, preservation and protection of landscapes and habitats, of buildings and other sites and features of artistic, amenity, architectural, archaeological, historic, heritage or natural interest.
+Civic improvements The provision of street furniture, paving, clocks, statues, monuments and other features, illumination and decoration and other measures designed to upgrade the local environment.
 
-The public use of amenities (both natural The provision of access, signs, vehicle and made or altered by human parks, safety equipment, information intervention) and refreshment facilities, sanitary accommodation, utilities, seating, shelter and any other apparatus, equipment or anything else necessary to facilitate such use.
+General environmental and heritage protec- Landscaping, the planting of trees and other tion and improvement flora, measures for the conservation, preservation and protection of landscapes and habitats, of buildings and other sites and features of artistic, amenity, architectural, archaeological, historic, heritage or natural interest. The public use of amenities (both natural and The provision of access, signs, vehicle parks, made or altered by human intervention) safety equipment, information and refreshment facilities, sanitary accommodation, utilities, seating, shelter and any other apparatus, equipment or anything else necessary to facilitate such use.
 
 Allotments, fairs and markets The provision of land, buildings, services, related amenities and facilities and promotional activity.
 

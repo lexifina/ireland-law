@@ -2,7 +2,7 @@ Allowance for Cathaoirleach and Leas-Chathaoirleach.
 
 143.—(1) (a) A local authority may pay an allowance for reasonable expenses to its Cathaoirleach.
 
-(b) A local authority may pay an allowance for reasonable expenses to its Leas- Chathaoirleach.
+(b) A local authority may pay an allowance for reasonable expenses to its Leas-Chathaoirleach.
 
 (2) A decision to pay an allowance under subsection (1) and the determination of the amount of the allowance is a reserved function.
 

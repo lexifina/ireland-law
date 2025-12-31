@@ -4,7 +4,7 @@ Amendment of Roads Act, 1993.
 
 “Requirements as
 
-15A.—A road authority shall not construct or reconstruct a regards railways, bridge or viaduct over, or a tunnel under— canals, etc.
+15A.—A road authority shall not construct or reconstruct a bridge or regards railways, viaduct over, or a tunnel under— canals, etc.
 
 (a) a railway, save with the consent of the Minister for Public Enterprise, or
 

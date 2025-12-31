@@ -54,7 +54,7 @@ Corporate policy group.
 
 (i) procedures to be followed in respect of the manner and nature of the involvement of municipal district members with the policy group;
 
-(ii) the format, content and layout of any particular class or classes of policy papers and other documents (including the preparation of preliminary documents) prepared by or presented to the policy group;
+(ii) the format, content and layout of any particular class or classes of policy papers andotherdocuments(includingthepreparationofpreliminarydocuments)prepared by or presented to the policy group;
 
 (iii) procedures to ensure that sufficient time for input by the policy group into policy papers is provided prior to completion and subsequent presentation to the local authority concerned.
 
