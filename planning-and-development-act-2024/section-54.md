@@ -78,7 +78,9 @@ Notice of intention to review development plan and preparation of draft developm
 
 (ix) any other services, in order to ascertain any long-term plans for the provision of infrastructure and services in the functional area of the planning authority.
 
-(6) (a) Written submissions received by a planning authority pursuant to subsections (2) and (5) and a brief summary of any oral submissions received pursuant to subsection (5) shall, subject to paragraph (b), be published on a website maintained by or on behalf of the planning authority within 5 weeks from the date in each case of their receipt by that authority.
+(6) (a) Written submissions received by a planning authority pursuant to subsections (2) and (5) and a brief summary of any oral submissions received pursuant to subsection (5) shall, subject to paragraph
+
+(b), be published on a website maintained by or on behalf of the planning authority within 5 weeks from the date in each case of their receipt by that authority.
 
 (b) Paragraph (a) does not apply—
 
