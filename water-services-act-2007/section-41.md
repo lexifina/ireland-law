@@ -6,7 +6,7 @@ Installation of pipes.
 
 “pipes” includes sewers, drains, water mains, distribution systems, service connections or their accessories;
 
-‘road authority’ means—
+"road authority" means—
 
 (a) in the case of a toll road within the meaning of Part V of the Roads Act 1993, the National Roads Authority, and
 

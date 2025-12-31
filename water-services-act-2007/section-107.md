@@ -24,13 +24,11 @@ Amendment of Act of 1992.
 
 Performance
 
-58A.— (1) Notwithstanding section 30 of the Water Services Act 2007, the by water
+58A.— (1) Notwithstanding section 30 of the Water Services Act 2007, the Agency by water shall— services authorities of statutory
 
-Agency shall— services authorities
+(a) monitor compliance with prescribed water quality standards and other parametric functions in values of water supplied by or on behalf of a water services authority for human relation to drinking consumption, and water.
 
-(a) monitor compliance with prescribed water quality standards and other of parametric values of water supplied by or on behalf of a water services statutory functions authority for human consumption, and in relation to drinking
-
-(b) be responsible for enforcement of compliance with such standards. water.
+(b) be responsible for enforcement of compliance with such standards.
 
 (2) Without prejudice to subsection (1), and with a view to achieving the satisfactory compliance with relevant prescribed water quality standards and other parametric values of water intended for human consumption supplied by the water services authority concerned, the Agency may, having exercised its powers under subsection (1) or (2) of section 58 and considered any information furnished to, or otherwise coming into its possession in consequence of that exercise, do all or any of the following:
 
