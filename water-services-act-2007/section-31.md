@@ -18,7 +18,7 @@ Powers of a water services authority.
 
 (g) sustainable management of water resources;
 
-(h) relevant development plans, regional or spatial planning guidelines, housing strategies or special amenity area orders, as appropriate, made under the Act of 2000;
+(h) relevant development plans, regional spatial and economic strategies, housing strategies or special amenity area orders, as appropriate, made under the Act of 2024;
 
 (i) a water quality management plan or a programme of measures made under the Local Government (Water Pollution) Acts 1977 to 2007 for the area to be covered by the water services strategic plan;
 

@@ -18,11 +18,11 @@ Investment plans
 
 (b) any river basin management plans under regulation 13 of the European Communities (Water Policy) Regulations 2003 (S.I. No. 722 of 2003) for the time being in force,
 
-(c) any local area plans under section 18 of the Act of 2000 for the time being in force,
+(c) any local area plans continued in force under section 81 of the Act of 2024 or any urban area plan, priority area plan or coordinated area plan under Chapter 6 of Part 3 of the Act of 2024 for the time being in force,
 
-(d) any development plans within the meaning of the Act of 2000,
+(d) any development plans within the meaning of the Act of 2024,
 
-(e) any regional planning guidelines, and
+(e) any regional spatial and economic strategy, and
 
 (f) any strategic development zones within the meaning of Part IX of the Act of 2000 to which the plan relates.
 

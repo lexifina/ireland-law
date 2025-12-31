@@ -10,6 +10,8 @@ Interpretation
 
 “Act of 2011” means the Multi-Unit Developments Act 2011;
 
+"Act of 2024" means the Planning and Development Act 2024;
+
 “Agency” has the meaning assigned to it by section 12;
 
 “Board” has the meaning assigned to it by section 16;
@@ -22,6 +24,8 @@ Interpretation
 
 “company limited by guarantee” has the same meaning as it has in Part 18 of the Companies Act;
 
+“coordinated area plan” has the same meaning as it has in the Act of 2024;
+
 “DAC limited by shares” has the same meaning as it has in Part 16 of the Companies Act;
 
 “development plan” has the same meaning as it has in the Act of 2000;
@@ -32,11 +36,13 @@ Interpretation
 
 “dissolved body” has the meaning assigned to it by section 35(1);
 
+“development plan” has the same meaning as it has in the Act of 2024;
+
 “house” has the same meaning as it has in section 2 of the Act of 2000;
 
-“housing strategy” has the same meaning as it has in the Act of 2000;
+“housing strategy” has the same meaning as it has in the Act of 2024;
 
-“local area plan” has the same meaning as it has in the Act of 2000;
+“local area plan” means a plan continued in force by section 81 of the Act of 2024;
 
 “local authority” has the same meaning as it has in the Local Government Act 2001;
 
@@ -62,7 +68,9 @@ Interpretation
 
 “prescribed” means prescribed by regulations made by the Minister;
 
-“regional spatial and economic strategy” has the same meaning as it has in the Act of 2000;
+“priority area plan” has the same meaning as it has in the Act of 2024;
+
+“regional spatial and economic strategy” has the same meaning as it has in the Act of 2024;
 
 “Register” has the meaning assigned to it by section 50(1);
 
@@ -79,3 +87,5 @@ Interpretation
 “subsidiary CLG” means a subsidiary formed and registered by the Agency or a subsidiary DAC in accordance with section 33A;
 
 “subsidiary DAC” means a subsidiary, other than a subsidiary CLG, formed and registered by the Agency in accordance with Part 4.
+
+“urban area plan” has the same meaning as it has in the Act of 2024;

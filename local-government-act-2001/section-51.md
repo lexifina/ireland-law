@@ -10,7 +10,7 @@ Committees of local authorities.
 
 (i) the power to adopt the local authority budget,
 
-(ii) the power to make a development plan, or to make a variation of a development plan, under Part II of the Act of 2000,
+(ii) the power to make a development plan, or to make a variation of a development plan, under Part 3 of the Act of 2024,
 
 (iii) the power to determine an annual rate on valuation or borrow money, or
 

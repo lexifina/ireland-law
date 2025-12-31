@@ -38,7 +38,7 @@ Screening determination
 
 (v) land designated as a refuge for flora or as a refuge for fauna under section 17 of the Wildlife Act 1976,
 
-(vi) a place, site or feature of ecological interest, the preservation, conservation or protection of which is an objective of a development plan or local area plan, draft development plan or draft local area plan or proposed variation of a development plan, for the area in which the abstraction is proposed, or
+(vi) a place, site or feature of ecological interest, the preservation, conservation or protection of which is an objective of a development plan or local area plan, urban area plan, priority area plan, coordinated area plan (or a draft of any such plan), or proposed variation of a development plan, for the area in which the abstraction is proposed, or
 
 (vii) a place or site which has been included by the Minister in a list of proposed Natural Heritage Areas published on the National Parks and Wildlife Service website, the likely significant effects of the abstraction on such site, land, place or feature, as appropriate.
 

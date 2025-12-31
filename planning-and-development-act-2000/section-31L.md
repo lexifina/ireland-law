@@ -1,5 +1,5 @@
 ## Establishment, Organisation, Staffing etc.
 
-Establishment of Office of the Planning Regulator
+Establishment of Office of the Planning Regulator (Repealed)
 
-31L.—The Minister shall by order appoint a day to be the establishment day for the purposes of this Part.
+31L.—...

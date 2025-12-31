@@ -86,4 +86,4 @@ Powers of NAMA.
 
 (7) Nothing in this Act authorises NAMA, when exercising any of its powers or carrying out any of its functions in any place, to act otherwise than in compliance with the law of that place.
 
-(8) In exercise of its powers under paragraphs (s), (z), (ab) and (ac) of subsection (2), NAMA shall have regard to proper planning and sustainable development as expressed in Government policy and in any relevant regional spatial and economic strategy (within the meaning of the Planning and Development Act 2000, including any regional planning guidelines to which section 21(4) of that Act relates) and development plans (within the meaning of that Act).
+(8) In exercise of its powers under paragraphs (s), (z), (ab) and (ac) of subsection (2), NAMA shall have regard to proper planning and sustainable development as expressed in Government policy and in any relevant regional spatial and economic strategy (within the meaning of the Planning and Development Act 2024) and development plans (within the meaning of that Act).

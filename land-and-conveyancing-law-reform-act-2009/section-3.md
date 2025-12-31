@@ -26,6 +26,8 @@ Interpretation generally.
 
 “Act of 2006” means the Registration of Deeds and Title Act 2006;
 
+"Act of 2024" means the Planning and Development Act 2024;
+
 “assent” has the meaning given to it by section 53 of the Act of 1965;
 
 “consent” includes agreement, licence and permission;
@@ -44,7 +46,7 @@ Interpretation generally.
 
 “development” has the meaning given to it by section 3 of the Act of 2000;
 
-“development plan” has the meaning given to it by section 3(1) of the Act of 2000;
+“development plan” has the meaning given to it by section 2 of the Act of 2024;
 
 “disposition” includes a conveyance and a devise, bequest or appointment of property by will and “dispose” shall be read accordingly;
 

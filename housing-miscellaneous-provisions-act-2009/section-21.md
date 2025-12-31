@@ -2,7 +2,7 @@ Summary of social housing assessments.
 
 21.— A housing authority shall—
 
-(a) for the purposes of preparing an estimate under section 94(4)(a)(i) of the Planning and Development Act 2000 of the amount of housing required for households assessed under section 20 as being qualified for social housing support,
+(a) for the purposes of preparing an estimate under section 242(6)(a) of the Planning and Development Act 2024 of the amount of housing required for households assessed under section 20 as being qualified for social housing support,
 
 (b) when preparing a draft housing services plan under section 16,
 

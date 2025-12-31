@@ -8,7 +8,7 @@ Discharge and modification.
 
 (b) any change in the character of the dominant land and servient land or their neighbourhood,
 
-(c) the development plan for the area under the Act of 2000,
+(c) the development plan for the area under the Act of 2024,
 
 (d) planning permissions granted under that Act in respect of land in the vicinity of the dominant land and servient land or refusals to grant such permissions,
 

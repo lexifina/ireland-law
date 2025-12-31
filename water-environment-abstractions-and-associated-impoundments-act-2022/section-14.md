@@ -8,7 +8,9 @@ Interpretation (Part 5)
 
 “combined application for a licence” has the meaning given to it by section 37(1);
 
-“development plan” has the same meaning as it has in the Act of 2000;
+"coordinated area plan" has the same meaning as it has in the Act of 2024;
+
+“development plan” has the same meaning as it has in the Act of 2024;
 
 “EIA portal” has the same meaning as it has in the Act of 2000;
 
@@ -54,7 +56,9 @@ Interpretation (Part 5)
 
 (c) a grant of substitute consent under section 177K of the Act of 2000;
 
-“local area plan” has the same meaning as it has in the Act of 2000;
+“local area plan” means a plan continued in force by section 81 of the Act of 2024;
+
+"priority area plan" has the same meaning as it has in the Act of 2024;
 
 “retrospective EIA” means a retrospective environmental impact assessment—
 
@@ -97,6 +101,8 @@ Interpretation (Part 5)
 “revised abstraction” has the meaning given to it by section 15(5);
 
 “screening determination” has the meaning given to it by section 24(1);
+
+"urban area plan" has the same meaning as it has in the Act of 2024.
 
 (2) For the purposes of Part 5, Schedules 6, 7 and 7A to the Regulations of 2001 shall apply to an abstraction as they apply to a development, subject to the following modifications—
 

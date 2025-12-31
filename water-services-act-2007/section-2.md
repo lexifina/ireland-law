@@ -18,6 +18,8 @@ Interpretation.
 
 “Act of 2001” means Local Government Act 2001;
 
+"Act of 2024" means the Planning and Development Act 2024;
+
 “accessories”, in relation to a waterworks, waste water works, water main, sewer or other pipe, includes any manholes, ventilating shafts, inspection chambers, overflow weirs or chambers, valves, tanks, sluices, culverts, wash-out pipes or stopcocks for them, or any machinery or other apparatus which is designed or adapted for use in connection with the use or maintenance of the waterworks, waste water works, main, sewer or other pipe or of another accessory;
 
 “Agency” means the Environmental Protection Agency;
@@ -52,7 +54,7 @@ Interpretation.
 
 “development” has the meaning assigned to it by section 3 of the Act of 2000;
 
-“development plan” means a development plan adopted under section 9(1) of the Act of 2000;
+“development plan” means a development plan within the meaning of the Act of 2024;
 
 “distribution system” means a pipe and its related fittings, that is used, or to be used as the case may be, to convey water into or through one or more premises (including any related internal or external taps), other than—
 

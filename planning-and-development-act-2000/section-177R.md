@@ -56,11 +56,11 @@ Interpretation.
 
 (ba) an amendment of a planning scheme in respect of all or any part of a strategic development zone,
 
-(c) a development plan,
+(c) ...
 
-(d) a variation of a development plan, or
+(d) ...
 
-(e) a local area plan;
+(e) ...
 
 "Natura 2000 network" has the meaning assigned to it by Article 3, paragraph 1 of the Habitats Directive;
 

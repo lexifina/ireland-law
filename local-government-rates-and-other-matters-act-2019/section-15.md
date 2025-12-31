@@ -2,13 +2,15 @@ Scheme for waiver of rates
 
 15. (1) Subject to subsection (4) and in accordance with such regulations as may be made under this section, a local authority may make a scheme providing for the waiver by the authority of all or a portion of the rates due to it by ratepayers in order to support the following:
 
-(a) the implementation of the National Spatial Strategy within the meaning of the Act of 2000;
+(a) the implementation of the National Planning Framework within the meaning of the Act of 2024;
 
-(b) the implementation of a development plan within the meaning of the Act of 2000;
+(b) the implementation of a development plan within the meaning of the Act of 2024;
 
 (c) the implementation of a local area plan within the meaning of the Act of 2000;
 
-(d) the implementation of a local economic and community plan within the meaning of the Act of 2001.
+(d) the implementation of a local economic and community plan within the meaning of the Act of 2001; or
+
+(e) the implementation of an urban area plan, priority area plan, or coordinated area plan within the meaning, in each case, of the Act of 2024.
 
 (2) The making of a scheme under this section shall be a reserved function within the meaning of the Act of 2001.
 

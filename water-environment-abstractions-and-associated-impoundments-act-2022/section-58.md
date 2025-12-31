@@ -8,7 +8,7 @@ Agency guidelines
 
 (c) paragraph (a) or (b) of section 37(5).
 
-(2) Before making guidelines under subsection (1), the Agency shall have regard to the EIA Directive and may have regard to the Act of 2000 and the Regulations of 2001.
+(2) Before making guidelines under subsection (1), the Agency shall have regard to the EIA Directive and may have regard to the Act of 2000 or the Act of 2024 and the Regulations of 2001.
 
 (3) The Agency shall have regard to the EIA Directive and to the Regulations of 2001 in the preparation of guidelines under subsection (1).
 
