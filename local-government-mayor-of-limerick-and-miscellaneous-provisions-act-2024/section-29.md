@@ -8,15 +8,21 @@ Definitions (Part 4)
 
 “delivery board” has the meaning assigned to it by section 33;
 
-“Limerick City and County Development Plan” means a development plan under subsection (1) of section 9 of the Act of 2000 relating to Limerick which is, for the time being, in force;
+"Limerick City and County Development Plan" means a development plan relating to Limerick for the time being in force—
+
+(a) made under Chapter 5 of Part 3 of the Act of 2024,
+
+(b) continued in force by virtue of section 68 of the Act of 2024, or
+
+(c) prepared, or varied, in accordance with section 69 of the Act of 2024;
 
 “Limerick-Shannon metropolitan area strategic plan” means the part of the regional spatial and economic strategy for the Southern Region relating to the area referred to in that strategy as the Limerick-Shannon Metropolitan Area;
 
 “Mayoral programme” has the meaning assigned to it by section 31;
 
-“National Development Plan” means the National Development Plan 2021- 2030 published by the Government on 4 October 2021 or any document published by the Government which amends or replaces that plan;
+“National Development Plan” means the National Development Plan 2021-2030 published by the Government on 4 October 2021 or any document published by the Government which amends or replaces that plan;
 
-“National Planning Framework” has the same meaning as it has in the Act of 2000;
+“National Planning Framework” has the same meaning as it has in the Act of 2024;
 
 “ordinary meeting” has the meaning assigned to it in paragraph 1 of Schedule 10 to the Principal Act;
 
@@ -34,6 +40,6 @@ Definitions (Part 4)
 
 (ii) the issue of shares held by or on behalf of a Minister of the Government;
 
-“regional spatial and economic strategy” means a regional spatial and economic strategy made under Chapter III of Part II of the Act of 2000;
+“regional spatial and economic strategy” means a regional spatial and economic strategy made under Chapter 4 of Part 3 of the Act of 2024;
 
 “transport sub-group” has the meaning assigned to it by section 34.
