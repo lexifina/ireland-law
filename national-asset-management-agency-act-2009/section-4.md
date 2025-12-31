@@ -76,11 +76,7 @@ Interpretation.
 
 “designated bank asset” means a bank asset specified in an acquisition schedule that has been served on a participating institution in accordance with section 87 or 89 ;
 
-“development land” means land wherever situated (regardless of its zoning or its status under the Planning and Development Acts 2000 to 2007 or any other enactment or applicable law)—
-
-(a) in, on, over or under which works or structures were or are to be constructed, or
-
-(b) where it was intended to make a material change in the use of the land, that was intended to be sold or otherwise exploited;
+“development land” means land wherever situated (regardless of its zoning or its status under the Planning and Development Act 2024 or any other enactment or applicable law)—
 
 “eligible bank asset” has the meaning given by section 69 (4);
 
