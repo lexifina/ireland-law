@@ -1,4 +1,4 @@
-Responsibility
+Responsibility of road authorities for the maintenance and construction of public roads.
 
 13.—(1) Subject to Part III, the maintenance and construction of all national and regional roads in a county or city is a function of the council of that county or city.
 

@@ -22,9 +22,7 @@ THE NATIONAL ROADS AUTHORITY
 
 (2) The report made to the Minister under paragraph (1) shall contain such information as the Minister may direct regarding the functions of the Authority under this Act.
 
-(3) The Authority shall supply the Minister with such information regarding the performance of its functions as he may from time to time require.
-
-5.—(1) The Authority shall, in relation to each financial year, or such other period as the Minister may specify, prepare and send to the Minister (not later than a date specified by the Minister) an estimate of its total expenditure and receipts, and every such estimate shall be in such form and accompanied by such additional information relating to that estimate as the Minister may require.
+(3) The Authority shall supply the Minister with such information regarding the performance of its functions as he may from time to time require. 5.—(1) The Authority shall, in relation to each financial year, or such other period as the Minister may specify, prepare and send to the Minister (not later than a date specified by the Minister) an estimate of its total expenditure and receipts, and every such estimate shall be in such form and accompanied by such additional information relating to that estimate as the Minister may require.
 
 (2) The Authority shall keep, in such form as may be approved of by the Minister with the consent of the Minister for Finance, all proper and usual accounts of all moneys received or expended by it and, in particular, shall keep in such form as aforesaid all such special accounts as the Minister with the consent of the Minister for Finance may from time to time direct.
 

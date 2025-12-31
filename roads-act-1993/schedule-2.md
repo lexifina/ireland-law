@@ -16,18 +16,12 @@ In section 45 (3) for the words “by a resolution under this section” there s
 
 In section 84 (1) (a) for the words “section 24 of the Local Government Act, 1925 (No. 5 of 1925)” there shall be substituted “the Roads Act, 1993”.
 
-In section 84 (2) (b) for the words “section 24 of the Local Government Act, 1925” there shall be substituted “the
-
-Roads
-
-Act, 1993”.
+In section 84 (2) (b) for the words “section 24 of the Local Government Act, 1925” there shall be substituted “the Roads Act, 1993”.
 
 No. 9 of 1955 Local Government Act, 1955. In section 33 (2) for the words “to a road as defined in section 1 of the Act of 1925” there shall be substituted “to a public road as defined in section 2 of the Roads Act, 1993”.
 
-No. 40 of 1960 Local Government (No. 2) In section 10, inserted by Act, 1960. section 86 of the Housing Act, 1966, to delete subsection (4) (e) and substitute: “(e) Where—
+No. 40 of 1960 Local Government (No. 2) Act, In section 10, inserted by section 1960. 86 of the Housing Act, 1966, to delete subsection (4) (e) and substitute: “(e) Where—
 
 (i) an order made by virtue of this section authorises the extinguishment of a public right of way, and
 
-(ii) there is an objection to the extinguishment and the objection is not withdrawn, the Minister shall afford an opportunity to the person making the objection to state his case at a public local inquiry save where he thinks fit not to confirm the order.”.
-
-No. 28 of 1963 Local Government (Planning In section 89 (10) for the and Development) Act, words “main roads” there 1963. shall be substituted “national roads or regional roads” and for the words “main road” there shall be substituted “national road or regional road”.
+(ii) there is an objection to the extinguishment and the objection is not withdrawn, the Minister shall afford an opportunity to the person making the objection to state his case at a public local inquiry save where he thinks fit not to confirm the order.”. No. 28 of 1963 Local Government (Planning and In section 89 (10) for the words Development) Act, 1963. “main roads” there shall be substituted “national roads or regional roads” and for the words “main road” there shall be substituted “national road or regional road”.

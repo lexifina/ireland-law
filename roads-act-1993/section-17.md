@@ -14,6 +14,4 @@ Functions generally of the Authority.
 
 (5) Whenever regulations under subsection (4) are in force in relation to a particular function, a reference in any enactment concerned to the Minister, to the road authority concerned or to the Commissioner shall be construed as including a reference to the Authority and the function to which the regulations relate shall be a function of the Authority.
 
-(6) Regulations under subsection (3) or
-
-(4) may contain such incidental, supplementary, consequential and transitional provisions as appear to the Minister to be necessary for the purpose or in consequence of, or to give full effect to, the regulations.
+(6) Regulations under subsection (3) or (4) may contain such incidental, supplementary, consequential and transitional provisions as appear to the Minister to be necessary for the purpose or in consequence of, or to give full effect to, the regulations.
