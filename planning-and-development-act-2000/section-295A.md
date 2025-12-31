@@ -1,4 +1,4 @@
-Acknowledgement of completeness of certain applications under section 291
+Acknowledgementofcompletenessofcertainapplicationsundersection 291
 
 295A.—Where an application for permission for renewable energy development or repowering development is made to An Coimisiún Pleanála under section 291, An Coimisiún Pleanála shall, within 45 days of the receipt of the application —
 

@@ -56,7 +56,7 @@ Application to Board
 
 (ii) inviting the making, during the period referred to in clause (VI) of subparagraph (i), of submissions and observations to the Board relating to—
 
-(I) the implications of the proposed development for maritime spatial planning ,
+(I) the implications of the proposed development for maritime spatial planning,
 
 (II) the implications of the proposed development for proper planning and sustainable development, and
 
@@ -102,7 +102,7 @@ Application to Board
 
 (iv) a notice stating that submissions or observations may, during the period referred to in clause (VI) of subparagraph (i) of paragraph (a), be made in writing to the Board in relation to—
 
-(I) the implications of the proposed development for maritime spatial planning ,
+(I) the implications of the proposed development for maritime spatial planning,
 
 (II) the implications of the proposed development for proper planning and sustainable development, and
 
@@ -116,7 +116,7 @@ Application to Board
 
 (iii) a notice stating that submissions or observations may, during the period referred to in clause (VI) of subparagraph (i) of paragraph (a), be made in writing to the Board in relation to—
 
-(I) the implications of the proposed development for maritime spatial planning ,
+(I) the implications of the proposed development for maritime spatial planning,
 
 (II) the implications of the proposed development for proper planning and sustainable development, and
 

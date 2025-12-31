@@ -1,3 +1,3 @@
-Role
+Role of regional assembly in making of development plan. (Repealed)
 
 27B.—...

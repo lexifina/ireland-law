@@ -1,4 +1,4 @@
-Quarry substitute consent applications - Board’s jurisdiction in relation
+Quarry substitute consent applications - Board’s jurisdiction in relation to simultaneous applications for further development
 
 37L.—(1) Where a person applies for substitute consent in respect of development of land under section 177E, the person may also apply for permission for the following:
 

@@ -1,6 +1,6 @@
-Periods for decision-making in relation to applications for permission
+Periods for decision-making in relation to applications for permission for renewable energy development or repowering development under section 37E.
 
-37JB.—(1) Subject to subsection (3), where an application for permission for renewable energy development or repowering development is made to An Coimisiún Pleanála under section 37E, and the period for making a decision under subsection (2) or (3) of section 37J would expire after the expiry of the relevant period referred to in subsection (2), a decision on the application under section 37G shall be made before the expiry of the relevant period.
+37JB.—(1)Subjectto subsection(3),whereanapplicationforpermissionforrenewable energy development or repowering development is made to An Coimisiún Pleanála under section 37E, and the period for making a decision under subsection (2) or (3) of section 37J would expire after the expiry of the relevant period referred to in subsection (2), a decision on the application under section 37G shall be made before the expiry of the relevant period.
 
 (2) The relevant period referred to in subsection (1) is —
 

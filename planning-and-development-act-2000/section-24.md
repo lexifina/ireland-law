@@ -1,3 +1,3 @@
-Consultation
+Consultation regarding regional spatial and economic strategy. (Repealed)
 
 24.—...

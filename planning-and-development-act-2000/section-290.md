@@ -1,4 +1,4 @@
-Opinion
+Opinion of Board on information to be contained in environmental impact assessment report
 
 290.—(1) A prospective applicant may, or, in the case of an application for renewable energy development or repowering development, shall in relation to proposed development to which this Chapter applies, request the Board to give to him or her an opinion in writing on the scope of the information and the extent of detail that should be set out in an environmental impact assessment report.
 

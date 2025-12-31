@@ -40,7 +40,7 @@ Licensing of appliances and cables, etc., on public roads.
 
 (d) the convenience and safety of road users including pedestrians.
 
-(5A)(a) Subject to this subsection, where in respect of an application for a licence to erect, construct, place or maintain overground electronic communications infrastructure and any associated physical infrastructure—
+(5A)(a) Subject to this subsection, where in respect of an application for a licence to erect,construct,placeormaintainovergroundelectroniccommunicationsinfrastructure and any associated physical infrastructure—
 
 (i) a planning authority fails to make a decision within a period of 4 months commencing on the date of receipt of an application, a decision (referred to in this subsection and in section 246(3)(c) as a "deemed decision to grant a licence") of the planning authority to grant the licence shall be deemed to have been made on the day following the expiration of that period of 4 months, and
 

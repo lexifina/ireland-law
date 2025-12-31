@@ -8,7 +8,7 @@ Section 37E: supplemental provisions.
 
 (c) request further submissions or observations from the applicant for permission, any person who made submissions or observations, or any other person who may, in the opinion of the Board, have information which is relevant to the determination of the application,
 
-(d) without prejudice to subsections (2) and (3), make any information relating to the application available for inspection, notify any person or the public that the information is so available and, if it considers appropriate, invite further submissions or observations to be made to it within such period as it may specify, or
+(d) without prejudice to subsections (2) and (3), make any information relating to the application available for inspection,notify any person or the public that theinformation is so available and, if it considers appropriate, invite further submissions or observations to be made to it within such period as it may specify, or
 
 (e) hold meetings with the applicant for permission or any other person—
 

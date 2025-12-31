@@ -14,7 +14,7 @@ Costs in environmental matters.
 
 (II) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on theenvironment,
 
-(III) a provision of Directive 2010/75/EU of the European Parliament and of the Council of 24 November 201020 on industrial emissions (integrated pollution prevention and control) to which, by virtue of paragraph 1 of Article 25 of that Directive, Article 24 of that Directive is subject, or
+(III) a provision of Directive 2010/75/EU of the European Parliament and of theCouncilof24November201020 onindustrialemissions(integratedpollution prevention and control) to which, by virtue of paragraph 1 of Article 25 of that Directive, Article 24 of that Directive is subject, or
 
 (IV) paragraph 3 or 4 of Article 6 of the Habitats Directive (within the meaning of the Planning and Development Act 2024);
 

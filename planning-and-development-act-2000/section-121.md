@@ -1,3 +1,3 @@
-Superannuation of
+Superannuation of employees of Board. (Repealed)
 
 121.—...

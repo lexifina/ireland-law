@@ -20,7 +20,7 @@ Section 182C: criteria for decision, certain exemptions, etc.
 
 (b) Subject to paragraph (c), the Board may grant in respect of the proposed development an exemption from a requirement under section 182C(1) to prepare an environmental impact assessment report.
 
-(c) No exemption may be granted in respect of proposed development under paragraph (b) where another Member State of the European Union or a state which is a party to the Transboundary Convention, having been informed about the proposed development and its likely significant effects on the environment in that State or state, as the case may be, has indicated that it wishes to furnish views on those effects.
+(c) No exemption may be granted in respect of proposed development under paragraph (b) where another Member State of the European Union or a state which is a party to the Transboundary Convention, having been informedabout the proposed development and its likely significant effects on the environment in that State or state, as the case may be, has indicated that it wishes to furnish views on those effects.
 
 (3) The Board shall, in granting an exemption under subsection (2), consider whether—
 

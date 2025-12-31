@@ -54,7 +54,7 @@ Application of Chapter
 
 (ii) the deposit of any material in accordance with a consent referred to in section 13 of the Act of 1933, or
 
-(c) subject to subsection (3), on the commencement of section 251 of the Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023—
+(c)subject tosubsection(3),onthecommencementofsection251oftheHistoric and Archaeological Heritage and Miscellaneous Provisions Act 2023—
 
 (i) that was the subject of either—
 

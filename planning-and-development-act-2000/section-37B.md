@@ -18,9 +18,7 @@ Discussions with Board before making of application.
 
 (b) not fall within any of those paragraphs, it shall serve a notice in writing on the prospective applicant stating that it is of that opinion.
 
-(5) A notice under subsection
-
-(4)(b) shall include a statement that the prospective applicant’s application for permission, if it is proceeded with, must be made to the appropriate planning authority (and such an application, if it is proceeded with, shall be made to that planning authority accordingly).
+(5) A notice under subsection (4)(b) shall include a statement that the prospective applicant’s application for permission, if it is proceeded with, must be made to the appropriate planning authority (and such an application, if it is proceeded with, shall be made to that planning authority accordingly).
 
 (6) The Board shall serve a copy of a notice under subsection (4)(a) or (b), as the case may be, on the appropriate planning authority.
 

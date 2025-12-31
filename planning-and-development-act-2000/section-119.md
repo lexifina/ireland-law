@@ -1,3 +1,3 @@
-Superannuation of members
+Superannuation of members of Board. (Repealed)
 
 119.—...

@@ -2,7 +2,7 @@ Screening for environmental impact assessment in respect of proposed development
 
 289.—(1)Section 176A shall apply to proposed development to which this Chapter applies as if—
 
-(a) references to a planning authority, the planning authority (other than in subparagraph (i) of paragraph (b) of subsection (4)) or the authority were construed as references to the Board,
+(a)referencestoa planningauthority,theplanningauthority(otherthaninsubparagraph (i) of paragraph (b) of subsection (4)) or the authority were construed as references to the Board,
 
 (b) the following subsection was inserted:
 
@@ -46,6 +46,4 @@ Screening for environmental impact assessment in respect of proposed development
 
 (ii) paragraph (i) was deleted.
 
-(3) Section
-
-176C shall not apply to proposed development to which this Chapter applies.
+(3) Section 176C shall not apply to proposed development to which this Chapter applies.

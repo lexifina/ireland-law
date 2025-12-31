@@ -2,9 +2,7 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 146C.—(1) This section applies to a case where the determination of the Board under section 146B(4) is that the making of either kind of alteration referred to in section 146B(3)(b)(ii) is likely to have significant effects on the environment.
 
-(2) In a case to which this section applies, the Board shall require the person who made the request under section 146B
-
-("the requester") to prepare an environmental impact assessment report in relation to the proposed alteration of the terms of the development concerned and, in this subsection and the following subsections of this section, "proposed alteration of the terms of the development concerned" means—
+(2) In a case to which this section applies, the Board shall require the person who made the request under section 146B ("the requester") to prepare an environmental impact assessment report in relation to the proposed alteration of the terms of the development concerned and, in this subsection and the following subsections of this section, "proposed alteration of the terms of the development concerned" means—
 
 (a) the alteration referred to in subsection (3)(b)(ii)(I) of that section, and
 

@@ -1,6 +1,6 @@
 Supplementary provisions relating to decisions on applications referred to in section 34B(1) or 34C(1) which were not refused by virtue of section 34B(5) or 34C(5)
 
-37R.—(1) (a) This section applies in addition to section 37 in the case of an appeal under section 37 against a decision of the planning authority under section 34 where, pursuant to section 34B(15) or 34C(16), that decision incorporates a regulatory decision of the competent authority under section 34B(13)(a) or 34C(14)(a), as the case may be.
+37R.—(1) (a) This section applies in addition to section 37 in the case of an appeal under section 37 against a decision of the planning authority under section 34 where, pursuanttosection34B(15)or 34C(16),thatdecisionincorporatesaregulatorydecision of the competent authority under section 34B(13)(a) or 34C(14)(a), as the case may be.
 
 (b) The competent authority shall be a party to the appeal notwithstanding section 34B(15)(b) or 34C(16)(b).
 
@@ -8,7 +8,7 @@ Supplementary provisions relating to decisions on applications referred to in se
 
 (3) (a) Subsections (1) to (3) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to the Board’s consideration of the relevant appeal as if any reference to the competent authority in those subsections were a reference to the Board.
 
-(b) Subsections (4) to (7) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to measures and restrictions forming part of the Board’s consideration of the relevant appeal as those subsections apply to measures and restrictions referred to in those subsections.
+(b) Subsections (4) to (7) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall,withallnecessarymodifications,applytomeasuresandrestrictions forming part of the Board’s consideration of the relevant appeal as those subsections apply to measures and restrictions referred to in those subsections.
 
 (c) The Board may, in its decision on the relevant appeal and its related report (subsection (7)(a)), accept or reject all or any part of either or both—
 

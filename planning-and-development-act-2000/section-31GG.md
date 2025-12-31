@@ -1,3 +1,3 @@
-NTA submission.
+NTA submission. (Repealed)
 
 31GG.—...

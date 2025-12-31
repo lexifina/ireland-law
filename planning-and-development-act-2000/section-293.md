@@ -118,7 +118,7 @@ Decision by Board in respect of application under section 291
 
 (7) Without prejudice to the generality of subsection (4), the Board may attach any one or more of the following conditions to a permission for development under this section:
 
-(a) conditions requiring the carrying out of works for the preservation of any site of archaeological interest or any wreck within the meaning of the National Monuments (Amendment) Act 1987;
+(a) conditions requiring the carrying out of works for the preservation of any site of archaeologicalinterestoranywreckwithinthemeaningoftheNational Monuments (Amendment) Act 1987;
 
 (b) conditions requiring the carrying out of such works as the Board may specify for the purposes of the development;
 
@@ -144,7 +144,7 @@ Decision by Board in respect of application under section 291
 
 (II) carrying gas, petroleum, oil or water;
 
-(h) conditions requiring the adoption of measures to reduce or prevent the emission of any noise or vibration from any structure or area comprised in the development authorised by the permission;
+(h) conditions requiring the adoption of measures to reduce or prevent the emission of any noiseorvibrationfromanystructureorareacomprisedinthedevelopment authorised by the permission;
 
 (i) conditions relating to the sequence of, and the times at which, works for the purposes of the development may be carried out;
 
@@ -172,7 +172,7 @@ Decision by Board in respect of application under section 291
 
 (ii) the provision, or the financing (in whole or in part) of the provision, of a service that, in the opinion of the Board, would provide such a gain, in the area in which it is proposed to carry out the development;
 
-(o) conditions requiring the payment of a contribution in respect of public infrastructure and facilities benefiting development in the functional area of any coastal planning authority in which the development concerned is (in whole or in part) proposed to be situated; and
+(o) conditions requiringthepaymentof a contributionin respectof publicinfrastructure and facilities benefiting development in the functional area of any coastal planning authority in which the development concerned is (in whole or in part) proposed to be situated; and
 
 (p) any condition that may be attached to a permission in accordance with subsection (4) of section 34.
 
@@ -180,4 +180,4 @@ Decision by Board in respect of application under section 291
 
 (9) (a) Without prejudice to the generality of subsection (4), the Board may, in addition to any condition attached (in accordance with subsection (7)) to a permission for development proposed to be situated in the nearshore area of a coastal planning authority, attach to that permission a condition that the person who carries out the development agree matters of detail with the coastal planning authority and the Board relating to compliance with the permission, and if agreement cannot be reached in relation to any such matter by that person with the coastal planning authority and the Board within such period as may be specified in the condition, the Board shall determine the matter.
 
-(b) Without prejudice to the generality of subsection (4), the Board may, in addition to any condition attached (in accordance with subsection (7)) to a permission for development proposed to be situated in the outer maritime area, attach to that permission a condition that the person who carries out the development agree matters of detail with the Board relating to compliance with the permission, and if agreement cannot be reached in relation to any such matter by that person with the Board within such period as may be specified in the condition, the Board shall determine the matter.
+(b) Without prejudice to the generality of subsection (4), the Board may, in addition to any conditionattached(inaccordancewithsubsection(7))toa permissionfordevelopment proposed to be situated in the outer maritime area, attach to that permission a condition that the person who carries out the development agree matters of detail with the Board relating to compliance with the permission, and if agreement cannot be reached in relation to any such matter by that person with the Board within such period as may be specified in the condition, the Board shall determine the matter.

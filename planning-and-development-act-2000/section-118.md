@@ -1,3 +1,3 @@
-Annual report and
+Annual report and information to Minister. (Repealed)
 
 118.—...

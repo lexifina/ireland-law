@@ -76,9 +76,9 @@ Interpretation.
 
 “chairperson” means the chairperson of the Board,
 
-O.J.No. 20, 26.1.2010 p 7-25
+"chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as
 
-"chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
+O.J.No. 20, 26.1.2010 p 7-25 amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
 
 "coastal planning authority" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
@@ -146,11 +146,11 @@ O.J.No. 20, 26.1.2010 p 7-25
 
 (c) was provided for use as a dwelling but has not been occupied;
 
-"Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
+"Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which
 
 O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
 
-O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
+O.J.No.L305, 8.11.1997, p 42-65 the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
 
 “house” means a building or part of a building which is being or has been occupied as a dwelling or was provided for use as a dwelling but has not been occupied, and where appropriate, includes a building which was designed for use as 2 or more dwellings or a flat, an apartment or other dwelling within such a building;
 
@@ -189,6 +189,8 @@ O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.
 "LRD meeting" means a meeting in accordance with sections 32B and 32C;
 
 "LRD opinion" has the meaning given to it by section 32D;
+
+O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
 
 "LRD floor space", in relation to a building or part of a building, means the area ascertained by the internal measurement of the floor space on each floor of a building or part of a building (including internal walls and partitions), disregarding any floor space provided for—
 
@@ -234,6 +236,8 @@ O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.
 
 "National Marine Planning Framework" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
+O.J.No. L345, 31.12.2003 p.97-105
+
 "national newspaper" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 "National Spatial Strategy" means the "National Spatial Strategy: 2002 – 2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy;
@@ -241,8 +245,6 @@ O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.
 "Natura 2000 network" has the meaning assigned to it by Article 3, paragraph 1 of the Habitats Directive;
 
 "Natura impact statement" shall be construed in accordance with section 177T;
-
-O.J.No. L345, 31.12.2003 p.97-105
 
 "Natura impact report" shall be construed in accordance with section 177T;
 
@@ -380,7 +382,9 @@ O.J.No. L345, 31.12.2003 p.97-105
 
 “small-scale solar energy equipment” means solar energy equipment with a capacity to generate electricity of 11kW or less, including for renewables self-consumers and renewable energy communities;
 
-“small-scale solar energy equipment development” means development that is the installation of small-scale solar energy equipment;
+OJ L No. 328, 21.12.2018, p. 82 OJ L, 2023/2413, 31.10.2023
+
+“small-scalesolar energyequipmentdevelopment”meansdevelopmentthatistheinstallation of small-scale solar energy equipment;
 
 “solar energy equipment” means equipment that converts energy from the sun into thermal or electrical energy, including solar thermal and solar photovoltaic equipment.
 
@@ -399,8 +403,6 @@ O.J.No. L345, 31.12.2003 p.97-105
 (c) provide services connected with, or carry out works for the purposes of the carrying on of the activities of, any public undertaking;
 
 "strategic development zone" has the meaning given to it by section 165;
-
-OJ L No. 328, 21.12.2018, p. 82 OJ L, 2023/2413, 31.10.2023
 
 "strategic downstream gas pipeline" means any proposed gas pipeline, other than an upstream gas pipeline, which is designed to operate at 16 bar or greater, and is longer than 20 kilometres in length;
 

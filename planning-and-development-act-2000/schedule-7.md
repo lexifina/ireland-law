@@ -14,7 +14,9 @@ Energy Infrastructure
 
 —An industrial installation for the production of electricity, steam or hot water with a heat output of 300 megawatts or more.
 
-—An industrial installation for carrying gas, steam or hot water with a potential heat output of 300 megawatts or more, or transmission of electrical energy by overhead cables, where the voltage would be 220 kilovolts or more, but excluding any proposed development referred to in section 182A(1). —An oil pipeline and any associated terminals, buildings and installations, where the length of the pipeline (whether as originally provided or as extended) would exceed 20 kilometres.
+—An industrial installation for carrying gas, steam or hot water with a potential heat output of 300 megawatts or more, or transmission of electrical energy by overhead cables, where the voltage would be 220 kilovolts or more, but excluding any proposed development referred to in section 182A(1).
+
+—An oil pipeline and any associated terminals, buildings and installations, where the length of the pipeline (whether as originally provided or as extended) would exceed 20 kilometres.
 
 —An installation for surface storage of natural gas, where the storage capacity would exceed 200 tonnes.
 
@@ -22,9 +24,7 @@ Energy Infrastructure
 
 —An installation for the surface storage of oil or coal, where the storage capacity would exceed 100,000 tonnes.
 
-—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel.
-
-—An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
+—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel. —An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
 
 —An onshore terminal, building or installation, whether above or below ground, associated with a natural gas storage facility, where the storage capacity would exceed 1mscm.
 
@@ -84,7 +84,9 @@ Environmental Infrastructure
 
 (b) more than 20 hectares of wetland would be affected, or
 
-(c) the length of river channel on which works are proposed would be greater than 2 kilometres. —A dam or other installation designed for the holding back or the permanent or long-term storage of water, where the new or extended area of water impounded would be 30 hectares or more or where a new or additional amount of water held back or stored would exceed 10 million cubic metres.
+(c) the length of river channel on which works are proposed would be greater than 2 kilometres.
+
+—A dam or other installation designed for the holding back or the permanent or long-term storage of water, where the new or extended area of water impounded would be 30 hectares or more or where a new or additional amount of water held back or stored would exceed 10 million cubic metres.
 
 —An installation of overground aqueducts each of which would have a diameter of 1,000 millimetres or more and a length of 500 metres or more.
 

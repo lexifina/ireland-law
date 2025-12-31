@@ -8,7 +8,7 @@ Provision supplementing section 287
 
 (2) The performance by the Board of functions under section 287 shall not—
 
-(a) prejudice the performance by it of any of its other functions in relation to the prospective applicant, proposed application or proposed development concerned, or
+(a) prejudice the performance by it of any of its other functions in relation to the prospectiveapplicant,proposedapplicationorproposeddevelopment concerned, or
 
 (b) be relied on by any person—
 

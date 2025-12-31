@@ -42,9 +42,7 @@ Permission for development.
 
 (aa) When making its decision in relation to an application under this section, the planning authority shall apply, where relevant, specific planning policy requirements of guidelines issued by the Minister under section 28.
 
-(b) In considering its decision in accordance with paragraph
-
-(a), a planning authority shall consult with any other planning authority where it considers that a particular decision by it may have a significant effect on the area of that authority, and the authority shall have regard to the views of that other authority and, without prejudice to the foregoing, it shall have regard to the effect a particular decision by it may have on any area outside its area (including areas outside the State).
+(b) In considering its decision in accordance with paragraph (a), a planning authority shall consult with any other planning authority where it considers that a particular decision by it may have a significant effect on the area of that authority, and the authority shall have regard to the views of that other authority and, without prejudice to the foregoing, it shall have regard to the effect a particular decision by it may have on any area outside its area (including areas outside the State).
 
 (ba) Where specific planning policy requirements of guidelines referred to in subsection (2)(aa) differ from the provisions of the development plan of a planning authority, then those requirements shall, to the extent that they so differ, apply instead of the provisions of the development plan.
 
@@ -58,11 +56,11 @@ Permission for development.
 
 (a) in addition to the application itself, any information relating to the application furnished to it by the applicant in accordance with the permission regulations,
 
-(b) any written submissions or observations concerning the proposed development made to it in accordance with the permission regulations by persons or bodies other than the applicant, and
+(b) anywrittensubmissionsorobservationsconcerningtheproposeddevelopmentmade to it in accordance with the permission regulations by persons or bodies other than the applicant, and
 
 (c) where an application for permission relates to a residential development comprising 10 or more houses—
 
-(i) any information available to the planning authority, or furnished to it by the applicant, concerning implementation by the applicant of any housing development in the previous 5 years, and
+(i) any information available to the planning authority, or furnished to it by the applicant, concerningimplementationbytheapplicantofanyhousingdevelopment in the previous 5 years, and
 
 (ii) an assessment by the planning authority of the likelihood of the proposed development being implemented within the appropriate period sought, being the appropriate period within the meaning provided for by section 40(3).
 
@@ -74,9 +72,9 @@ Permission for development.
 
 (a) under section 9 of the Planning and Development (Housing) and Residential Tenancies Act 2016, or
 
-(b) on foot of an application in accordance with section 32A, the planning authority concerned shall, notwithstanding section 34(2)(a), be restricted in its determination of the application, other than in respect of any assessment of the effects of the proposed development on the environment, to considering the modifications proposed by the applicant to the previously permitted development and for the purposes of determining such an application the reference in subsection (6) to "the development concerned" shall be read as a reference to "the modifications to the previously permitted development".
+(b) on foot of an application in accordance with section 32A, the planning authority concernedshall,notwithstandingsection34(2)(a),berestrictedinits determination of the application, other than in respect of any assessment of the effects of the proposeddevelopmentontheenvironment,toconsideringthe modificationsproposed by the applicant to the previously permitted development and for the purposes of determining such an application the reference in subsection (6) to "the development concerned" shall be read as a reference to "the modifications to the previously permitted development".
 
-(4) Conditions under subsection (1) may, without prejudice to the generality of that subsection, include all or any of the following—
+(4) Conditionsundersubsection(1)may,withoutprejudicetothegenerality ofthatsubsection, include all or any of the following—
 
 (a) conditions for regulating the development or use of any land which adjoins, abuts or is adjacent to the land to be developed and which is under the control of the applicant if the imposition of such conditions appears to the planning authority—
 
@@ -118,9 +116,9 @@ Permission for development.
 
 (p) conditions for requiring, in any case in which the development authorised by the permission would remove or alter any protected structure or any element of a protected structure which contributes to its special architectural, historical, archaeological, artistic, cultural, scientific, social or technical interest—
 
-(i) the preservation by a written and visual record (either measured architectural drawings or colour photographs and/or audio-visual aids as considered appropriate) of that structure or element before the development authorised by the permission takes place, and
+(i)the preservationbyawrittenandvisualrecord(eithermeasuredarchitectural drawings or colour photographs and/or audio-visual aids as considered appropriate) of that structure or element before the development authorised by the permission takes place, and
 
-(ii) where appropriate, the architectural salvaging of any element, or the re-instatement of any element in a manner specified by the authority;
+(ii)whereappropriate,thearchitecturalsalvagingofany element,orthere-instatement of any element in a manner specified by the authority;
 
 (q) conditions for regulating the hours and days during which a business premises may operate.
 
@@ -166,15 +164,13 @@ Permission for development.
 
 (II) summarising the issues raised in any submissions or observations in accordance with subparagraph (iii), and
 
-(III) advising the members of his or her opinion regarding the compliance or otherwise of the proposed development with any relevant Ministerial guidelines under section 28 or any relevant policies or objectives of the Government or Minister of the Government or with any regional spatial and economic strategy, and the report shall be considered by the members before a resolution is passed under subparagraph (iv), and
+(III) advising the members of his or her opinion regarding the compliance or otherwiseofthe proposeddevelopmentwithanyrelevantMinisterialguidelines under section 28 or any relevant policies or objectives of the Government or Minister of the Government or with any regional spatial and economic strategy, and the report shall be considered by the members before a resolution is passed under subparagraph (iv), and
 
 (iv) a resolution shall be passed by the planning authority approving the proposal of the chief executive to grant permission.
 
 (b) It shall be necessary for the passing of a resolution referred to in paragraph (a) that the number of the members of the planning authority voting in favour of the resolution is not less than three-quarters of the total number of the members of the planning authority or where the number so obtained is not a whole number, the whole number next below the number so obtained shall be sufficient, and the requirement of this paragraph is in addition to and not in substitution for any other requirement applying in relation to such a resolution.
 
-(ba) Where a resolution referred to in paragraph (a) has been passed by a planning authority in accordance with paragraph
-
-(b), the planning authority shall—
+(ba) Where a resolution referred to in paragraph (a) has been passed by a planning authority in accordance with paragraph (b), the planning authority shall—
 
 (i) send to the regional assembly for the area and the Office of the Planning Regulator a copy of the notice under paragraph (a) that relates to the resolution, and
 
@@ -190,7 +186,7 @@ Permission for development.
 
 (i) an application is made to a planning authority in accordance with the permission regulations for permission under this section, and
 
-(ii) any requirements of those regulations relating to the application are complied with, a planning authority shall make its decision on the application within the period of 8 weeks beginning on the date of receipt by the planning authority of the application.
+(ii)any requirementsofthoseregulationsrelatingtotheapplicationarecomplied with, a planning authority shall make its decision on the application within the period of 8 weeks beginning on the date of receipt by the planning authority of the application.
 
 (b) Where a planning authority, within 8 weeks of the receipt of a planning application, serves notice in accordance with the permission regulations requiring the applicant to give to the authority further information or to produce evidence in respect of the application, the authority shall make its decision on the application as follows:
 
@@ -238,11 +234,7 @@ Permission for development.
 
 (iv) Any person, who has made submissions or observations in writing in relation to the planning application to the planning authority, may at any time within the period of 4 weeks after the expiry of the period of 12 weeks referred to in subparagraph (iii), appeal the deemed decision.
 
-(v) Subparagraphs (i) to (iv) shall not apply where there is a requirement under Part
-
-X or
-
-Part XAB to carry out an environmental impact assessment, a determination whether an environmental impact assessment is required, or an appropriate assessment, in respect of the development relating to which the authority has failed to make a decision.
+(v) Subparagraphs (i) to (iv) shall not apply where there is a requirement under Part X or Part XAB to carry out an environmental impact assessment, a determination whether an environmental impact assessment is required, or an appropriate assessment, in respect of the development relating to which the authority has failed to make a decision.
 
 (vi) Where the planning authority has failed to make a decision in relation to development where an environmental impact assessment, a determination whether an environmental impact assessment is required, or an appropriate assessment is required within the first period and becomes aware, whether through notification by the applicant or otherwise, that it has so failed—
 

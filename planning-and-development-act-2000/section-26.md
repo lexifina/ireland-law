@@ -1,3 +1,3 @@
-Review of regional
+Review of regional spatial and economic strategy. (Repealed)
 
 26.—...

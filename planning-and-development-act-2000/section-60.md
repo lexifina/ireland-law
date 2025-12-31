@@ -1,4 +1,4 @@
-Notice
+Notice to require restoration of character of protected structures and other places.
 
 60.—(1) In this section, “works”, in relation to a structure or any element of a structure, includes the removal, alteration or replacement of any specified part of the structure or element, and the removal or alteration of any advertisement structure.
 

@@ -1,3 +1,3 @@
-Ministerial
+Ministerial directions regarding regional planning strategy. (Repealed)
 
 31A.—...

@@ -1,3 +1,3 @@
-Modification of role of
+Modification of role of regional assembly having regard to Covid-19. (Repealed)
 
 27D.—...

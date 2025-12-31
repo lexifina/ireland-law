@@ -1,3 +1,3 @@
-Board
+Board to consist of
 
 104.—...

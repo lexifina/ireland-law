@@ -1,4 +1,4 @@
-Opinion
+Opinion as to flexibility with regard to application for permission.
 
 32I.—(1) The planning authority shall, within the period of 4 weeks beginning on the date on which the meeting convened under section 32H(5) takes place, consider—
 

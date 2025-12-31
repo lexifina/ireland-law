@@ -12,4 +12,12 @@ TABLE
 
 A B Section
 
-196 the removal or alteration of a structure consequent upon a notice under section 46. 197 the discontinuance with, or the compliance with conditions on the continuance, of the use of land consequent upon a notice under section 46. 198 the approval of a scheme under section 85 or the compliance with a notice under section 88. 199 the action by the planning authority under section 182. 200 the making by the planning authority of an order under section 207.
+196 the removal or alteration of a structure consequent upon a notice under section 46.
+
+197 the discontinuance with, or the compliance with conditions on the continuance, of the use of land consequent upon a notice under section 46.
+
+198 the approval of a scheme under section 85 or the compliance with a notice under section 88.
+
+199 the action by the planning authority under section 182.
+
+200 the making by the planning authority of an order under section 207.

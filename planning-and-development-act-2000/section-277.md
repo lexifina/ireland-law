@@ -4,7 +4,9 @@ Further amendment of Part V of Roads Act, 1993.
 
 “Ministerial policy
 
-66A.—(1) The Minister may, from time to time, issue policy directives on road directives to road authorities regarding the exercise of any of tolling. their functions under Part V or any matter connected therewith and road authorities shall comply with any such directives.
+66A.—(1) The Minister may, from time to time, issue policy directives directives on road to road authorities regarding the exercise of any of their functions under tolling.
+
+Part V or any matter connected therewith and road authorities shall comply with any such directives.
 
 (2) The Minister may revoke or amend a policy directive issued under this section.
 
@@ -16,12 +18,8 @@ Further amendment of Part V of Roads Act, 1993.
 
 Continuance of
 
-66B.—Notwithstanding this Part, every agreement entered into existing schemes, and every toll scheme or bye-law made by a road authority and bye-laws and in force immediately before the commencement of this section agreements. shall continue in force as if made or entered into under this Part as amended by the Planning and Development Act, 2000.
+66B.—Notwithstanding this Part, every agreement entered into and existing schemes, every toll scheme or bye-law made by a road authority and in force bye-laws and immediately before the commencement of this section shall continue in agreements. force as if made or entered into under this Part as amended by the Planning and Development Act, 2000.
 
 Transitional
 
-66C.—Where, before the commencement of Part XX of the provisions
-
-Planning and Development Act, 2000, any toll scheme, proposal regarding toll to revoke a toll scheme or bye-law has been submitted to the schemes.
-
-Minister under Part V and the matter has not been determined by the Minister, the determination of the matter shall continue to rest with the Minister and Part V as amended by Part XX of the Planning and Development Act, 2000, shall not apply with respect to the matter..
+66C.—Where, before the commencement of Part XX of the Planning provisions regarding and Development Act, 2000, any toll scheme, proposal to revoke a toll toll schemes. scheme or bye-law has been submitted to the Minister under Part V and the matter has not been determined by the Minister, the determination of the matter shall continue to rest with the Minister and Part V as amended by Part XX of the Planning and Development Act, 2000, shall not apply with respect to the matter..

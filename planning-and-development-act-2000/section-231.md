@@ -28,7 +28,7 @@ Grant of licence.
 
 (ii) any consultations under subsection (2)(e),
 
-(iii) any submissions or observations made to it in accordance with subsection (2)(f ),
+(iii) any submissions or observations made to it in accordance with subsection (2)(f),
 
 (iv) whether events have previously been held on the land concerned,
 

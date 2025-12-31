@@ -16,7 +16,7 @@ Provision supplementing section 291
 
 (d) without prejudice to subsections (2) and (3)—
 
-(i) make any information relating to the application available for inspection by members of the public at its offices during normal office hours,
+(i) makeanyinformation relatingto theapplicationavailableforinspectionbymembers of the public at its offices during normal office hours,
 
 (ii) notify (in such manner as it considers appropriate) any person or the public that the information is being made so available, and
 

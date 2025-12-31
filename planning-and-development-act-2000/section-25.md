@@ -1,3 +1,3 @@
-Procedure
+Procedure for making regional spatial and economic strategy. (Repealed)
 
 25.—...

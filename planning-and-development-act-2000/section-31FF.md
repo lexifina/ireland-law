@@ -1,3 +1,3 @@
-Co-operation and further
+Co-operation and further provisions relating to regional spatial and economic strategy.
 
 31FF.—...

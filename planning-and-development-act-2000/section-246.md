@@ -44,9 +44,7 @@ Fees payable 2to planning
 
 (II) provide the consultation or advice, as may be appropriate, until the fee is paid.
 
-(b) With regard to applications under paragraph (a) of subsection
-
-(1), notwithstanding anything contained in section 34(8) or 42(2), a decision of a planning authority shall not be regarded, pursuant to any of those sections, as having been given on a day which is earlier than that which is 8 weeks after the day on which the authority is in receipt of the fee, and section 34(8) and 42(2) shall be construed subject to and in accordance with the provisions of this paragraph.
+(b) With regard to applications under paragraph (a) of subsection (1), notwithstanding anything contained in section 34(8) or 42(2), a decision of a planning authority shall not be regarded, pursuant to any of those sections, as having been given on a day which is earlier than that which is 8 weeks after the day on which the authority is in receipt of the fee, and section 34(8) and 42(2) shall be construed subject to and in accordance with the provisions of this paragraph.
 
 (c) With regard to applications under subsection (1)(e), notwithstanding anything contained in section 254(5A), a deemed decision to grant a licence shall not be regarded as having been made on a day which is earlier than the day following the expiration of 4 months commencing on the day on which the authority is in receipt of the fee and section 254(5A) shall be construed subject to and in accordance with this paragraph.
 

@@ -1,3 +1,3 @@
-Co-operation
+Co-operation of planning authorities with regional assembly. (Repealed)
 
 22.—...

@@ -1,4 +1,4 @@
-Consequential provisions
+Consequential provisions to section 31AQ (Repealed)
 
 31AR.—...
 

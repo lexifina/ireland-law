@@ -6,7 +6,7 @@ Tree preservation orders.
 
 (a) prohibit (subject to any conditions or exemptions for which provision may be made by the order) the cutting down, topping, lopping or wilful destruction of trees, and
 
-(b) require the owner and occupier of the land affected by the order to enter into an agreement with the planning authority to ensure the proper management of any trees, group of trees or woodlands (including the replanting of trees), subject to the planning authority providing assistance, including financial assistance, towards such management as may be agreed.
+(b) require the owner and occupier of the land affected by the order to enter into an agreement with the planning authority to ensure the proper management of any trees, group of trees or woodlands (including the replanting of trees), subject to the planning authorityprovidingassistance,includingfinancialassistance,towardssuchmanagement as may be agreed.
 
 (3) (a) Where a planning authority proposes to make an order under this section, it shall—
 

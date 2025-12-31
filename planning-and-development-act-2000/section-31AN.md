@@ -1,6 +1,6 @@
 Consequential provisions to section 31AM
 
-31AN.—(1) The Minister shall consider the recommendations of the Office in the notice issued under section 31AM and—
+31AN.——(1) The Minister shall consider the recommendations of the Office in the notice issued under section 31AM and—
 
 (a) where the Minister agrees with that notice, then the Minister shall proceed, pursuant to section 31, to issue a notice for the purposes of subsections (3) and (4) of that section having taken account of the proposed draft direction submitted by the Office, or
 
@@ -74,7 +74,7 @@ Consequential provisions to section 31AM
 
 (b) where subsection (7)(b) applies, the report was made available to him or her.
 
-(9) No later than 3 weeks (or as soon as may be during such period extending that 3 week period as the Office may decide) after receipt of the report of the inspector, or of any submissions made to him or her, the Office, having considered the report, recommendations or submissions, as the case may be, shall recommend to the Minister for stated reasons—
+(9) No later than 3 weeks (or as soon as may be during such period extending that 3 week period as the Office may decide) after receipt of the report of the inspector, or of any submissionsmadetohimorher,theOffice,havingconsideredthereport, recommendations or submissions, as the case may be, shall recommend to the Minister for stated reasons—
 
 (a) to issue the direction,
 
@@ -108,13 +108,13 @@ Consequential provisions to section 31AM
 
 (b) such provisions of the development plan as do not comply with a direction so issued shall be deemed not to be included in that development plan.
 
-(12) ...
+(12)...
 
-(13) ...
+(13)...
 
 (14) A copy of the direction issued by the Minister under section 31 shall be copied to the Office and made available on its website.
 
-(15) ...
+(15)...
 
 (16) (a) Where the giving of a direction by the Minister in accordance with subsection (4A) or (9) would require the making of a material alteration to a development plan, the Minister shall, not later than 3 weeks after the making of the recommendation by the Office under that subsection—
 
@@ -168,7 +168,7 @@ Consequential provisions to section 31AM
 
 (iii) the necessity of ensuring that the proposed development plan will be consistent with—
 
-(I) the national and regional development objectives set out in the National Planning Framework and the regional spatial and economic strategy,
+(I)thenationaland regionaldevelopmentobjectivessetoutin theNationalPlanning Framework and the regional spatial and economic strategy,
 
 (II) specific planning policy requirements specified in guidelines under section 28(1), and
 

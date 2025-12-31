@@ -1,3 +1,3 @@
-Content and objectives of
+Content and objectives of regional spatial and economic strategy. (Repealed)
 
 23.—...

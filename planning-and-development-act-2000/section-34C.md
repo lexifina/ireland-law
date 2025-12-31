@@ -4,11 +4,11 @@ Supplementary provisions relating to operating restriction included in planning 
 
 (b) Section 34 and the other provisions of this Act shall be read with all necessary modifications to take account of the relevant application.
 
-(c) Subsections (4) to (7) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to measures and restrictions referred to in this section as those subsections apply to measures and restrictions referred to in those subsections.
+(c) Subsections (4) to (7) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to measures and restrictions referred to in this sectionas thosesubsectionsapply to measures and restrictions referred to in those subsections.
 
 (2) The planning authority shall give the competent authority a copy of the relevant application and consult with the competent authority in relation to, as appropriate, one or more of the following matters:
 
-(a) any noise problem that would arise from taking the relevant action as proposed (including any implications that would arise therefrom in relation to appropriate assessment or environmental impact assessment matters) and any further information subsequently sought by the relevant authority from the applicant in relation to such action and given by the applicant to the planning authority and the competent authority;
+(a) any noise problem that would arise from taking the relevant action as proposed (including anyimplicationsthatwouldarisetherefrominrelationtoappropriate assessment or environmental impact assessment matters) and any further information subsequently sought by the relevant authority from the applicant in relation to such action and given by the applicant to the planning authority and the competent authority;
 
 (b) where a noise problem would arise from taking the relevant action as proposed—
 
@@ -26,9 +26,7 @@ Supplementary provisions relating to operating restriction included in planning 
 
 (4) Where this section applies and notwithstanding any other provision of this Act, the planning authority shall neither decide to refuse the relevant application nor grant the relevant application subject to or without conditions until it receives a notice under subsection (5) or (15)(a)(ii) from the competent authority in respect of the relevant application.
 
-(5) (a) Paragraph
-
-(b) applies where the competent authority is satisfied that permission should not be granted for the relevant application for the reason that inadequate provision has been made in the application (or in any plans or further information, or both, subsequently given by the applicant to the planning authority and the competent authority) to deal with the noise problem that would arise from the carrying out of the relevant action as proposed.
+(5) (a) Paragraph (b) applies where the competent authority is satisfied that permission should not be granted for the relevant application for the reason that inadequate provision has been made in the application (or in any plans or further information, or both, subsequently given by the applicant to the planning authority and the competent authority) to deal with the noise problem that would arise from the carrying out of the relevant action as proposed.
 
 (b) The competent authority shall, as soon as is practicable after it is so satisfied, give a notice in writing to the planning authority, stating the competent authority’s reasons why it is so satisfied, and directing the planning authority to refuse the relevant application.
 
@@ -36,9 +34,7 @@ Supplementary provisions relating to operating restriction included in planning 
 
 (d) Notwithstanding that a refusal referred to in paragraph (c) arises from a direction given by the competent authority to the planning authority, such refusal and the reasons for it shall, for the purposes of section 37 as read with section 37S, be treated as the decision of the planning authority on the relevant application, and the other provisions of this Act shall be construed accordingly.
 
-(6) The planning authority shall, in determining the relevant application, consider whether taking the relevant action requires the reconsideration of any other aspect of the relevant permission and, after having consulted with the competent authority, may, in accordance with regulations made under section
-
-33, request and consider further information from the applicant in that regard.
+(6) The planning authority shall, in determining the relevant application, consider whether takingthe relevantactionrequiresthereconsiderationofanyotheraspectoftherelevant permission and, after having consulted with the competent authority, may, in accordance with regulations made under section 33, request and consider further information from the applicant in that regard.
 
 (7) Subsection (8) applies where the competent authority has applied the Balanced Approach to the noise problem referred to in subsection (2) and, in accordance with the Balanced Approach, assessed the noise mitigation measures or operating restrictions (if any), or any combination thereof, that may be required to be introduced, and whether or not such measures or restrictions, or combination thereof, as the case may be, are or is in addition to, or in replacement of, one or more—
 
@@ -136,9 +132,7 @@ Supplementary provisions relating to operating restriction included in planning 
 
 (17) Subject to subsection (18), a noise mitigation measure to be introduced by virtue of a regulatory decision adopted under subsection (14)(a) shall—
 
-(a) if no appeal under section 37 as read with section 37R is made, within the appropriate period referred to in section
-
-37(1), against the planning authority’s decision on the application, come into effect on the expiration of such appropriate period, and
+(a) if no appeal under section 37 as read with section 37R is made, within the appropriate period referred to in section 37(1), against the planning authority’s decision on the application, come into effect on the expiration of such appropriate period, and
 
 (b) after so coming into effect, remain in effect until revoked, or revoked and replaced, by the competent authority or the appeal body.
 

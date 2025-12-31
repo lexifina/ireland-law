@@ -30,7 +30,7 @@ Power to extend appropriate period.
 
 (1B) A person shall not be entitled to make an application under subsection (1) if the appropriate period in respect of the permission concerned was, at any time, extended under subsection (1A).
 
-(2) In extending the appropriate period under subsection (1) or (1A) a planning authority may attach conditions requiring the giving of adequate security for the satisfactory completion of the proposed development, and/or may add to or vary any conditions to which the permission is already subject under section 34(4)(g).
+(2)Inextendingthe appropriateperiodunder subsection(1)or (1A)aplanning authority may attach conditions requiring the giving of adequate security for the satisfactory completion of the proposed development, and/or may add to or vary any conditions to which the permission is already subject under section 34(4)(g).
 
 (3) (a) Where an application is duly made under this section to a planning authority and any requirements of, or made under, regulations under section 43 are complied with as regards the application, the planning authority shall make its decision on the application as expeditiously as possible.
 
@@ -50,7 +50,7 @@ Power to extend appropriate period.
 
 (4B) A person shall not be entitled to make an application under subsection (4A) if the appropriate period in respect of the permission concerned was already extended under that subsection.
 
-(4C) The aggregate of the extensions of the appropriate period under subsections (1A) and (4A) shall not exceed 5 years.
+(4C)Theaggregateofthe extensionsoftheappropriateperiodundersubsections(1A)and (4A) shall not exceed 5 years.
 
 (5) Particulars of any application made to a planning authority under this section and of the decision of the planning authority in respect of the application shall be recorded on the relevant entry in the register.
 

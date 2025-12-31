@@ -6,15 +6,15 @@ Supplementary provisions relating to decisions on applications referred to in se
 
 (ii) pursuant to section 34B(5) or 34C(5), that decision is to refuse the application concerned.
 
-(b) The competent authority shall be a party to the appeal notwithstanding section 34B(5)(d) or 34C(5)(d).
+(b)Thecompetent authorityshallbeapartytotheappealnotwithstandingsection 34B(5)(d) or 34C(5)(d).
 
 (2) Without prejudice to the generality of the Board’s powers under section 37, or under section 37 as read with any other provision of this Act, the Board shall, in determining the appeal—
 
 (a) where subsection (1)(a)(i) applies, take into account such of the provisions of section 34B following subsection (1) of such section 34B, and of section 26 (b) (with all necessary modifications) of the Aircraft Noise (Dublin Airport) Regulation Act 2019, as are, in the Board’s opinion, relevant to the appeal,
 
-(b) where the refusal referred to in subsection (1)(a)(ii) arises from the operation of section 34B(5), take account of such of the provisions of section 34B following subsection (5) of such section 34B, and of section 26(b) (with all necessary modifications) of the Aircraft Noise (Dublin Airport) Regulation Act 2019, as are, in the Board’s opinion, relevant to the appeal, or
+(b) where the refusal referred to in subsection (1)(a)(ii) arises from the operation of section 34B(5), take account of such of the provisions of section 34B following subsection (5) of such section 34B, and of section 26(b) (with all necessary modifications) of the AircraftNoise (DublinAirport)RegulationAct2019,asare,intheBoard’sopinion, relevant to the appeal, or
 
-(c) where the refusal referred to in subsection (1)(a)(ii) arises from the operation of section 34C(5), take account of such of the provisions of section 34C following subsection (5) of such section 34C, and of section 26(b) (with all necessary modifications) of the Aircraft Noise (Dublin Airport) Regulation Act 2019, as are, in the Board’s opinion, relevant to the appeal.
+(c) where the refusal referred to in subsection (1)(a)(ii) arises from the operation of section 34C(5), take account of such of the provisions of section 34C following subsection (5) of such section 34C, and of section 26(b) (with all necessary modifications) of the AircraftNoise (DublinAirport)RegulationAct2019,asare,intheBoard’sopinion, relevant to the appeal.
 
 (3) Subsections (1) to (3) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to—
 

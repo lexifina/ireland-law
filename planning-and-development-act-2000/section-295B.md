@@ -1,6 +1,6 @@
 Supplementary provisions in relation to period within which decision under section 293 to be made
 
-295B.—(1) Subject to subsection (3), where an application for permission for renewable energy development or repowering development is made to An Coimisiún Pleanála under section 291, and the period for making a decision under subsection (1) or (2) of section 295 would expire after the expiry of the relevant period referred to in subsection (2), a decision in relation to the application shall be made before the expiry of the relevant period.
+295B.—(1) Subject to subsection (3), where an application for permission for renewable energy developmentorrepoweringdevelopmentismadetoAnCoimisiúnPleanálaunder section 291, and the period for making a decision under subsection (1) or (2) of section 295 would expire after the expiry of the relevant period referred to in subsection (2), a decision in relation to the application shall be made before the expiry of the relevant period.
 
 (2) The relevant period referred to in subsection (1) is —
 

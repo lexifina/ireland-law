@@ -1,3 +1,3 @@
-Regional spatial and
+Regional spatial and economic strategy and development plans. (Repealed)
 
 27.—...

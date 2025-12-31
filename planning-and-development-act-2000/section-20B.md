@@ -1,3 +1,3 @@
-Objective of National
+Objective of National Planning Framework (Repealed)
 
 20B.—...

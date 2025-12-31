@@ -1,3 +1,3 @@
-Provision of services by
+Provision of services by Minister to Board. (Repealed)
 
 122.—...

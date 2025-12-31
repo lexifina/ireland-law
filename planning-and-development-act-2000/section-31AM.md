@@ -10,7 +10,7 @@ Evaluation and assessment by Office of matters relating to development plans
 
 (d) a notice given to the Office by a planning authority under section 12(7)(a), together with the proposed amendment that would, if made, be a material alteration of the draft development plan concerned,
 
-(e) a notice sent together with the copy of any proposed variation of the development plan concerned sent to the Office under subsection (2)(a) of section 13 by the planning authority concerned for the purpose of that section,
+(e) a notice sent together with the copy of any proposed variation of the development plan concerned sent to the Office under subsection (2)(a) of section 13 by the planning authority concerned for the purpose of thatsection,
 
 (f) a notice given under section 13(5)(aa) by the planning authority concerned to the Office in respect of a proposed variation of a development plan, and the Office may make such observations or submissions for the purposes of the relevant provision.
 

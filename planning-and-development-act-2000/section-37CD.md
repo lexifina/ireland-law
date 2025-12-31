@@ -20,6 +20,6 @@ Section 37B: supplemental provisions.
 
 (5) A meeting held, and any opinion issued, for the purposes of this section shall be part of consultations held under section 37B.
 
-(6) An opinion issued by the Board under subsection (2) shall only be made public when a planning application in respect of the proposed development is made in accordance with section 37E.
+(6) An opinion issued by the Board under subsection (2) shall only be made public when a planning application in respectof the proposed development is made in accordance with section 37E.
 
 (7) The Minister may make regulations to provide for such matters of procedure and administration as appear to the Minister to be necessary or expedient for the purposes of the Board providing an opinion under subsection (2), including the form of the opinion.

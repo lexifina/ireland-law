@@ -1,3 +1,3 @@
-Co-operation of DTA with
+Co-operation of DTA with regional authorities. (Repealed)
 
 31F.—...

@@ -1,3 +1,3 @@
-Consultants and advisers
+Consultants and advisers to Board. (Repealed)
 
 124.—...

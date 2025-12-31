@@ -1,10 +1,8 @@
 Appeal to Board.
 
-37.—(1) (a) An applicant for permission and any person who made submissions or observations in writing in relation to the planning application to the planning authority in accordance with the permission regulations and on payment of the appropriate fee, may, at any time before the expiration of the appropriate period, appeal to the Board against a decision of a planning authority under section 34.
+37.—(1) (a) An applicant for permissionand any person who madesubmissions or observations in writing in relation to the planning application to the planning authority in accordance with the permission regulations and on payment of the appropriate fee, may, at any time before the expiration of the appropriate period, appeal to the Board against a decision of a planning authority under section 34.
 
-(b) Subject to paragraphs (c) and (d), where an appeal is brought against a decision of a planning authority and is not withdrawn, the Board shall determine the application as if it had been made to the Board in the first instance and the decision of the Board shall operate to annul the decision of the planning authority as from the time when it was given; and subsections
-
-(1), (2), (3), (4), and (4A) of section 34 shall apply, subject to any necessary modifications, in relation to the determination of an application by the Board on appeal under this subsection as they apply in relation to the determination under that section of an application by a planning authority.
+(b) Subject to paragraphs (c) and (d), where an appeal is brought against a decision of a planning authority and is not withdrawn, the Board shall determine the application as if it had been made to the Board in the first instance and the decision of the Board shall operate to annul the decision of the planning authority as from the time when it was given; and subsections (1), (2), (3), (4), and (4A) of section 34 shall apply, subject to any necessary modifications, in relation to the determination of an application by the Board on appeal under this subsection as they apply in relation to the determination under that section of an application by a planning authority.
 
 (c) Paragraph (b) shall be construed and have effect subject to sections 133, 138 and 139.
 
@@ -38,7 +36,9 @@ Appeal to Board.
 
 (ii) which has, during the period of 12 months preceding the making of the appeal, pursued those aims or objectives, and
 
-(iii) which satisfies such additional requirements (if any) as are prescribed under paragraph (e).
+(iii) which satisfies such additional requirements (if any) as are prescribed under
+
+## paragraph (e).
 
 (e) The Minister may prescribe additional requirements which a body or organisation of the foregoing kind must satisfy in order to make an appeal under paragraph (c), being requirements of a general nature and for the purposes of promoting transparency and accountability in the operation of such organisations, including requirements—
 
@@ -68,11 +68,7 @@ Appeal to Board.
 
 (b) An application under paragraph (a) shall state the name and address of the person making the application, the grounds upon which the application is made, and a description of the person’s interest in the land.
 
-(c) The Board shall, within one week from the receipt of an application under paragraph (a), require, by notice in writing, the planning authority concerned to submit to the Board copies of the materials referred to in subparagraph
-
-(i) of section
-
-128(a), the report referred to in subparagraph (ii) of that section, and the decision and notification referred to in subparagraph (iii) of that section and the planning authority shall comply with such requirement within one week from the date of receiving the notice.
+(c) The Board shall, within one week from the receipt of an application under paragraph (a), require, by notice in writing, the planning authority concerned to submit to the Board copies of the materials referred to in subparagraph (i) of section 128(a), the report referredtoinsubparagraph(ii)ofthatsection,andthedecisionand notification referred to in subparagraph (iii) of that section and the planning authority shall comply with such requirement within one week from the date of receiving the notice.
 
 (d) The Board, or any member or employee of the Board duly authorised by the Board in that behalf, shall, where an applicant under this subsection shows that—
 
@@ -84,7 +80,7 @@ Appeal to Board.
 
 (f) A person to whom leave to appeal has been granted under this subsection shall bring the appeal within 2 weeks from the receipt of the notification under paragraph (e).
 
-(g) Notwithstanding section 34(11)(a)(i), where an application is made under this subsection a planning authority shall not make a grant of permission unless the application is refused.
+(g) Notwithstandingsection34(11)(a)(i),whereanapplicationismade underthissubsection a planning authority shall not make a grant of permission unless the application is refused.
 
 (h) Where leave to appeal is granted under this subsection, subsection (2) of section 126 shall apply subject to the modification that the reference therein to 18 weeks shall be construed as a reference to 14 weeks.
 

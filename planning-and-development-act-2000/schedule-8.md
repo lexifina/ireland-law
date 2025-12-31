@@ -1,8 +1,6 @@
 EIGHTH SCHEDULE
 
-Section 285
-
-Classes of Development specified for purposes of Chapter III of Part XXI
+Section 285 Classes of Development specified for purposes of Chapter III of Part XXI
 
 1. Development referred to in the Seventh Schedule.
 

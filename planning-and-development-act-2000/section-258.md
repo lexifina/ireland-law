@@ -1,3 +1,3 @@
-Limitation
+Limitation on connection to sanitary authority sewers. (Repealed)
 
 258.—...

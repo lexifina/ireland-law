@@ -1,6 +1,6 @@
 Supplementary development contribution schemes.
 
-49.—(1) A planning authority may, when granting a permission under section 34, include conditions requiring the payment of a contribution in respect of any public infrastructure service or project—
+49.—(1) A planning authority may, when granting a permission under section 34, include conditionsrequiringthepaymentofacontributioninrespectofanypublic infrastructure service or project—
 
 (a) specified in a scheme made by the planning authority (in this section referred to as a "supplementary development contribution scheme"),
 
@@ -38,7 +38,7 @@ Supplementary development contribution schemes.
 
 (3AA) Subsections (3A), (3B) and (3C) of section 48 shall apply where the basis for the determination of a contribution under subsection (1) has changed subject to—
 
-(a) the modification that references in those subsections to a contribution shall be construed as references to a contribution to a supplementary development contribution scheme,
+(a)the modificationthatreferencesinthosesubsectionstoacontributionshallbe construed as references to a contribution to a supplementary development contribution scheme,
 
 (b) any other necessary modifications, and
 
@@ -58,7 +58,7 @@ Supplementary development contribution schemes.
 
 (5) A planning authority shall not, pursuant to a condition under subsection (1), require the payment of a contribution in respect of a public infrastructure project or service where the person concerned has made a contribution under section 48 in respect of public infrastructure and facilities of which the said public infrastructure project or service constituted a part.
 
-(6) A planning authority may, at any time, by resolution, amend a supplementary development contribution scheme for the purpose of modifying the manner of determining a contribution pursuant to a condition under subsection (1) where the cost of carrying out or providing, as the case may be, the public infrastructure project or service is less than the cost that was estimated when the planning authority first determined the amount of the contribution.
+(6)A planningauthoritymay,atanytime,byresolution,amendasupplementary development contribution scheme for the purpose of modifying the manner of determining a contribution pursuant to a condition under subsection (1) where the cost of carrying out or providing, as the case may be, the public infrastructure project or service is less than the cost that was estimated when the planning authority first determined the amount of the contribution.
 
 (7) In this section, “public infrastructure project or service” means—
 

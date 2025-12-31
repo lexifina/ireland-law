@@ -1,3 +1,3 @@
-Accounts and audits of
+Accounts and audits of Board. (Repealed)
 
 117.—...

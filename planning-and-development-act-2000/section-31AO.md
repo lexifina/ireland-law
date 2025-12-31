@@ -48,7 +48,7 @@ Evaluation and assessment by Office of matters relating to local area plans
 
 (c) as a consequence of paragraphs (a) and (b), the use by the Minister of his or her functions to issue a direction under section 31 would be merited, then the Office shall issue, no later than 4 weeks after the local area plan has been made, amended or revoked, as the case may be, a notice to the Minister containing—
 
-(i) recommendations that the Minister exercise his or her function to take such steps as to rectify the matter in a manner that, in the opinion of the Office, will ensure that the local area plan, or the local area plan as amended by the planning authority, sets out an overall strategy for proper planning and sustainable development, and
+(i) recommendations that the Minister exercise his or her function to take such steps as to rectify the matter in a manner that, in the opinion of the Office, will ensure that the local area plan, or the local area planas amended by the planning authority, sets out an overall strategy for proper planning and sustainable development, and
 
 (ii) a proposed draft of a direction to which paragraph (c) would relate.
 

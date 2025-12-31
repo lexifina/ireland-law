@@ -1,3 +1,3 @@
-Role
+Role of regional assembly in variation of development plan. (Repealed)
 
 27C.—...

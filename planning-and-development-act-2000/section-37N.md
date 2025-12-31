@@ -50,9 +50,7 @@ Decision by Board on application under section 37L
 
 (c) a condition requiring the applicant to submit further information to it or any other local or state authority, as the Board may specify before commencing development.
 
-(7) In subsection (6)(b) ‘appropriate planning authority’ means whichever planning authority would, but for the operation of section
-
-37L, be the appropriate planning authority to grant the permission referred to in this section or, where the development is situated in the functional area of more than one planning authority, the planning authority in whose functional area the largest portion of the development, as determined by the Board by reference to area, is situated.
+(7) In subsection (6)(b) ‘appropriate planning authority’ means whichever planning authority would, but for the operation of section 37L, be the appropriate planning authority to grant the permission referred to in this section or, where the development is situated in the functional area of more than one planning authority, the planning authority in whose functional area the largest portion of the development, as determined by the Board by reference to area, is situated.
 
 (8) The conditions attached under this section to a permission may provide that points of detail relating to the grant of the permission may be agreed between the planning authority or authorities in whose functional area or areas the development will be situate and the person carrying out the development; if that authority or those authorities and that person cannot agree on the point of detail, the point of detail may be referred to the Board for determination.
 

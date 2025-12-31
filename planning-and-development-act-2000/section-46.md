@@ -48,7 +48,7 @@ Requiring removal or alteration of structure or discontinuance of use.
 
 (10) Where a notice under this section is complied with, the planning authority shall pay to the person complying with the notice the expenses reasonably incurred by the person in carrying out the demolition, removal, alteration or replacement specified in the notice, less the value of any salvageable materials.
 
-(11) Where any person served with a notice under this section fails to comply with the requirements of the notice, or causes or permits the failure to comply with the requirements, he or she shall be guilty of an offence.
+(11) Where any person served with a notice under this section fails to comply with the requirementsofthenotice,orcausesorpermitsthefailuretocomplywiththe requirements, he or she shall be guilty of an offence.
 
 (12) Particulars of a notice served or confirmed under this section shall be entered in the register.
 

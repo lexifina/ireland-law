@@ -1,3 +1,3 @@
-Reports
+Reports on regional spatial and economic strategy. (Repealed)
 
 25A.—...

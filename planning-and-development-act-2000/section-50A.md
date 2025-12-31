@@ -78,4 +78,4 @@ Section 50: supplemental provisions.
 
 (14) Where the Supreme Court grants an application referred to in subsection (13), the Court of Appeal shall, in respect of the proceedings before it in relation to the appeal, provide by order for the discontinuance of those proceedings, which order of discontinuance shall be confined to the grounds upon which the Supreme Court granted leave to appeal, whether or not any application in relation to the appeal has been made to the Court of Appeal.
 
-(15) The Supreme Court shall act as expeditiously as possible consistent with the administration of justice in determining any application referred to in subsection (13) and, where the Supreme Court grants the application, any appeal.
+(15)TheSupremeCourtshallact asexpeditiouslyaspossibleconsistentwiththeadministration of justice in determining any application referred to in subsection (13) and, where the Supreme Court grants the application, any appeal.

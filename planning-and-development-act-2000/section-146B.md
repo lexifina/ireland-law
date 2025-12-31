@@ -20,7 +20,7 @@ Alteration by Board of strategic infrastructure development on request made of i
 
 (III) refuse to make the alteration.
 
-(3A) Where the requester is submitting to the Board the information referred to in subsection (3)(b)(i), that information shall be accompanied by any further relevant information on the characteristics of the alteration under consideration and its likely significant effects on the environment including, where relevant, information on how the available results of other relevant assessments of the effects on the environment carried out pursuant to European Union legislation other than the Environmental Impact Assessment Directive have been taken into account.
+(3A) Where the requester is submitting to the Board the information referred to in subsection(3)(b)(i),thatinformationshallbeaccompaniedby anyfurtherrelevantinformation on the characteristics of the alteration under consideration and its likely significant effects on the environment including, where relevant, information on how the available results of other relevant assessments of the effects on the environment carried out pursuant to European Union legislation other than the Environmental Impact Assessment Directive have been taken into account.
 
 (3B) Where the requester is submitting to the Board the information referred to in subsection (3)(b)(i), that information may be accompanied by a description of the features, if any, of the alteration under consideration and the measures, if any, envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment of the alteration.
 
@@ -32,7 +32,7 @@ Alteration by Board of strategic infrastructure development on request made of i
 
 (4A)(a) Subject to paragraph (b), within 8 weeks of receipt of the information referred to in subsection (3)(b)(i), the Board shall make its determination under subsection (4).
 
-(b) Subject to paragraph (c), the Board shall not be required to comply with paragraph (a) within the period referred to in paragraph (a) where it appears to the Board that it would not be possible or appropriate, because of the exceptional circumstances of the alteration under consideration (including in relation to the nature, complexity, location or size of such alteration) to do so.
+(b) Subject to paragraph (c), the Board shall not be required to comply with paragraph (a) within the period referred to in paragraph (a) where it appears to the Board that it would not be possible or appropriate, because of the exceptional circumstances of thealteration underconsideration(includinginrelationtothenature,complexity, location or size of such alteration) to do so.
 
 (c) Where paragraph (b) applies, the Board shall, by notice in writing served on the requester before the expiration of the period referred to in paragraph (a), inform him or her of the reasons why it would not be possible or appropriate to comply with paragraph (a) within that period and shall specify the date before which the Board intends that the determination concerned shall be made.
 

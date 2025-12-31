@@ -1,3 +1,3 @@
-Membership
+Membership of either House of the Oireachtas, etc. (Repealed)
 
 123.—...

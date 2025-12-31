@@ -1,5 +1,5 @@
 ## CHAPTER IV Guidelines and Directives
 
-Ministerial
+Ministerial guidelines. (Repealed)
 
 28.—...

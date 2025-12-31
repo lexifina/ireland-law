@@ -1,16 +1,10 @@
-Supplementary provisions relating to small-scale solar energy equipment or small-scale non-ground source heat pump.
+Supplementaryprovisionsrelatingtosmall-scalesolarenergyequipment or small-scale non-ground source heat pump.
 
 34H.—(1) A planning authority shall make its decision on an application for permission for small-scale solar energy equipment development before the expiry of the period of 4 weeks from the date of the notice referred to in section 34D(a).
 
 (2) A planning authority shall make its decision on an application for permission for development that is the installation of a small-scale non-ground source heat pump before the expiry of the period of 4 weeks from the date of the receipt of the application.
 
-(3) Paragraphs
-
-(b),
-
-(c) and
-
-(ca) of section 34(8) shall not apply to an application referred to in subsection (1) or (2).
+(3) Paragraphs (b), (c) and (ca) of section 34(8) shall not apply to an application referred to in subsection (1) or (2).
 
 (4) Where the planning authority fails to make its decision on an application referred to in subsection (1) within the period referred to in that subsection, and the conditions in subsection (5) are satisfied, a decision of the planning authority to grant the permission shall be regarded as having been given on the day following the expiry of that period.
 

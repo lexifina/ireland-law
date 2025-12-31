@@ -1,3 +1,3 @@
-Co-operation
+Co-operation of public bodies with regional assemblies. (Repealed)
 
 22A.—...

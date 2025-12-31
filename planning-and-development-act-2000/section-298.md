@@ -1,4 +1,4 @@
-Alteration,
+Alteration, other than material alteration, of terms of permission
 
 298.—Where the Board makes a determination under paragraph (b) of subsection (5) of section 297 that a requested alteration would not constitute a material alteration of the terms of a permission, it shall—
 
