@@ -14,7 +14,7 @@ NAMA, etc., not to make payments in certain circumstances.
 
 (3) Where this section applies, NAMA or the NAMA group entity concerned shall not make any payment to a relevant person until—
 
-(a) the relevant person delivers to NAMA, or to a person authorised by NAMA, a valid tax clearance certificate issued to the relevant person by the Collector- General, or
+(a) the relevant person delivers to NAMA, or to a person authorised by NAMA, a valid tax clearance certificate issued to the relevant person by the Collector-General, or
 
 (b) the Collector-General has confirmed to NAMA, following a request from NAMA, that it has no objection to the making of a payment to the relevant person.
 

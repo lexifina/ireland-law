@@ -6,9 +6,7 @@ Effect of service of acquisition schedule in relation to foreign bank assets.
 
 “foreign law”, in relation to a foreign bank asset or a transaction in relation to a foreign bank asset means the law of a state other than the State.
 
-(2) In this section, where a bank asset is to be acquired by a NAMA group entity, a reference to NAMA in this section (but not in sections 92 and
-
-93 as applied by subsection (10)) shall be construed as a reference to the NAMA group entity.
+(2) In this section, where a bank asset is to be acquired by a NAMA group entity, a reference to NAMA in this section (but not in sections 92 and 93 as applied by subsection (10)) shall be construed as a reference to the NAMA group entity.
 
 (3) To the extent that a bank asset proposed to be acquired by NAMA is or includes a foreign bank asset—
 

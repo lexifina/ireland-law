@@ -14,9 +14,7 @@ Other committees.
 
 (5) With the approval of the Minister, NAMA, from its own resources, may remunerate a member of a committee established under subsection (1) who is not a member of the Board.
 
-(6) Sections 27 and
-
-28 apply in relation to a committee established under subsection (1).
+(6) Sections 27 and 28 apply in relation to a committee established under subsection (1).
 
 (7) Section 30 applies in relation to a member of a committee established under subsection (1) who is not a member of the Board. For the purposes of that application—
 

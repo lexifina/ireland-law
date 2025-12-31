@@ -24,9 +24,7 @@ Audit committee, credit committee, finance committee and risk-management committ
 
 (8) The Board may dissolve a committee established under subsection (1). If the Board dissolves such a committee, the Board shall re-establish that committee as soon as practicable.
 
-(9) Sections 27 and
-
-28 apply in relation to a committee established under subsection (1).
+(9) Sections 27 and 28 apply in relation to a committee established under subsection (1).
 
 (10) Section 30 applies in relation to a member of a committee established under subsection (1) who is not a member of the Board. For the purposes of that application—
 
