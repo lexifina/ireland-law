@@ -6,4 +6,6 @@ Definitions
 
 “Act of 2010” means Planning and Development (Amendment) Act 2010;
 
+“Act of 2024”means the Planning and Development Act 2024;
+
 “Minister” means Minister for the Environment, Community and Local Government.

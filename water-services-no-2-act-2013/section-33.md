@@ -36,15 +36,15 @@ Water services strategic plan
 
 (i) the National Planning Framework,
 
-(ii) regional planning guidelines, and
+(ii) any regional spatial and economic strategy for the time being in force, and
 
 (iii) any river basin management plans under regulation 13 of the European Communities (Water Policy) Regulations 2003 (S.I. No. 722 of 2003) for the time being in force, and
 
 (b) have regard to—
 
-(i) proper planning and sustainable development in line with any development plans within the meaning of the Act of 2000, in particular with the core strategy under section 10 of that Act,
+(i) proper planning and sustainable development in line with any development plans within the meaning of the Act of 2024, in particular with the integrated overall strategy and the objectives of the development plan within the meaning of Chapter 5 of Part 3 of that Act,
 
-(ii) housing strategies made under section 94 of the Act of 2000,
+(ii) housing strategies within the meaning of section 94 of the Act of 2000 or Part 7 of the Act of 2024,
 
 (iii) special amenity area orders within the meaning of the Act of 2000,
 

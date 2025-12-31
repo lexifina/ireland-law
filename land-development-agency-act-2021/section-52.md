@@ -12,7 +12,7 @@ Report of Agency to Government relating to certain land
 
 (3) In providing a report under subsection (2) the Agency shall, in relation to each parcel of land referred to in the report, take account of:
 
-(a) the objectives of the development plan and local area plan in force for the area where the land is situated;
+(a) the objectives of any development plan, urban area plan, priority area plan, coordinated area plan or local area plan in force for the area where the land is situated;
 
 (b) any masterplan affecting the land;
 
