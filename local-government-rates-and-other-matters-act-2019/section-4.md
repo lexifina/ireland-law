@@ -10,9 +10,7 @@ Rate to be levied on occupiers of relevant property
 
 A x B on C where—
 
-A is the valuation of the relevant property,
-
-B is the annual rate on valuation determined by the rating authority concerned under section 3 for that year, and
+A is the valuation of the relevant property, B is the annual rate on valuation determined by the rating authority concerned under section 3 for that year, and
 
 C is the last day of the local financial year immediately preceding the local financial year to which the calculation relates.
 
