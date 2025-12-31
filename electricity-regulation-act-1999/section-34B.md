@@ -1,10 +1,10 @@
-Arrangements and agreements relating to transmission system and All-Island Transmission Networks.
+Arrangements and agreements relating to transmission system and All- Island Transmission Networks.
 
 34B.—(1) Where the Single Electricity Market is in operation the Commission may direct the transmission system operator to seek to enter into and maintain in force such arrangements as are necessary to—
 
 (a) enable the transmission system operator, subject to such terms and conditions as may be specified by the Commission in any direction, to offer any person who makes an application pursuant to section 34(1), an agreement for connection to the transmission system or use of the All-Island Transmission Networks,
 
-(b) enable the Northern Ireland System Operator to offer any person who makes an application to the Northern Ireland System Operator, an agreement for connection to the Northern Ireland Transmission System or use of the All- Island Transmission Networks.
+(b) enable the Northern Ireland System Operator to offer any person who makes an application to the Northern Ireland System Operator, an agreement for connection to the Northern Ireland Transmission System or use of the All-Island Transmission Networks.
 
 (2) The Commission may make regulations for the purposes of subsection (1).
 

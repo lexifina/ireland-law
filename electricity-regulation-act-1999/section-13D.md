@@ -1,8 +1,6 @@
 Designated petroleum activity.
 
-13D.—(1) Subject to subsection
-
-(3), the Commission shall, where safety considerations render it appropriate, by regulation, designate for the purposes of this Part any petroleum activity or a class or classes of such activity to be a designated petroleum activity.
+13D.—(1) Subject to subsection (3), the Commission shall, where safety considerations render it appropriate, by regulation, designate for the purposes of this Part any petroleum activity or a class or classes of such activity to be a designated petroleum activity.
 
 (2) For the purposes of making a designation under subsection (1), the Commission shall have regard to the following:
 

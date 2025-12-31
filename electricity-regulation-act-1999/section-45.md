@@ -4,11 +4,9 @@ Amendment of section 98 of Principal Act.
 
 “Lopping of
 
-98.—(1) The Board, an authorised undertaker or a holder of an trees by authorisation under section 16 of the Electricity Regulation Act, 1999,
+98.—(1) The Board, an authorised undertaker or a holder of an authorisation trees by under section 16 of the Electricity Regulation Act, 1999, or holder of a direct
 
-Board, an or holder of a direct line permission under section 37 of the Electricity authorised
-
-Regulation Act, 1999, as the case may be, may, taking due care and undertaker or attention to avoid unneccessary damage, lop or cut any tree, shrub holder of an or hedge which obstructs or interferes with any electrical wires of authorisation. the Board or of such authorised undertaker or holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity Regulation Act, 1999, as the case may be, or with the erection or laying of any such electrical wires or with the survey of the proposed route of any transmission or distribution lines of the Board or of such authorised undertaker or of any electric wire of a holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity
+Board, an line permission under section 37 of the Electricity Regulation Act, 1999, as the authorised case may be, may, taking due care and attention to avoid unneccessary damage, undertaker or lop or cut any tree, shrub or hedge which obstructs or interferes with any holder of an electrical wires of the Board or of such authorised undertaker or holder of an authorisation. authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity Regulation Act, 1999, as the case may be, or with the erection or laying of any such electrical wires or with the survey of the proposed route of any transmission or distribution lines of the Board or of such authorised undertaker or of any electric wire of a holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity
 
 ## Regulation Act, 1999.
 

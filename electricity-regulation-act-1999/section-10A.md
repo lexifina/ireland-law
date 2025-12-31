@@ -34,9 +34,7 @@ Policy directions to Commission.
 
 (3A) The Minister, having provided a draft of the proposed direction to the persons referred to in subsection (3)(a) and having published a draft of that direction under subsection (3)(b), shall provide a draft of the proposed direction to the Department.
 
-(4) Subject to subsection
-
-(4A), the Minister, having considered any representations made under subsection (3), may give the direction under subsection (1), with or without amendment.
+(4) Subject to subsection (4A), the Minister, having considered any representations made under subsection (3), may give the direction under subsection (1), with or without amendment.
 
 (4A) The Minister shall not give a direction under subsection (1) where the SEM Committee has informed the Minister that the proposed direction would materially affect, or would be likely to materially affect, the Single Electricity Market.
 

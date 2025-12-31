@@ -1,4 +1,4 @@
-Orders
+Orders specifying criteria for considering applications for authorisations.
 
 18.—(1) The Minister shall specify by order the criteria in accordance with which an application for an authorisation to construct or reconstruct a generating station may be determined by the Commission.
 

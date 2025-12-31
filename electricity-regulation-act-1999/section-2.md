@@ -72,7 +72,7 @@ Interpretation.
 
 “electricity supply contract” means a contract for the supply of electricity, but does not include an electricity derivative;
 
-"electricity undertaking" means any person engaged in generation, transmission, distribution, aggregation, demand response, energy storage, supply or purchase of electricity, and who is responsible for the commercial, technical or maintenance tasks related to those functions, including a holder of a licence or authorisation under this Act or a person who has been granted a permit under section 37 of the Principal Act, but does not include final customers;
+"electricityundertaking"means any person engaged in generation, transmission, distribution, aggregation, demand response, energy storage, supply or purchase of electricity, and who is responsible for the commercial, technical or maintenance tasks related to those functions, including a holder of a licence or authorisation under this Act or a person who has been granted a permit under section 37 of the Principal Act, but does not include final customers;
 
 “electric line“has the meaning assigned to it by section 4(1) of the ESB (Electronic Communications Networks) Act 2014;
 

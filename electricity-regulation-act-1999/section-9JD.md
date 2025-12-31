@@ -1,4 +1,4 @@
-Restricting
+Restricting or prohibiting LPG or natural gas activities in emergencies.
 
 9JD.—(1) Where the Commission considers that the risk to the safety of—
 

@@ -1,4 +1,4 @@
-Procedures
+Procedures to be followed before modifying licences or authorisations.
 
 20.—(1) Subsections (2) to (6) shall apply to all modifications of a licence or an authorisation other than a modification made to give effect to an order under section 39 or 40.
 

@@ -46,9 +46,9 @@ Regulation of electrical contractors.
 
 (ix) the method by which the accounts kept under subparagraph (viii) should be published; and
 
-(x) the procedures to be followed, and the records to be maintained, by a designated body or its members (where appropriate), in connection with
+(x) the procedures to be followed, and the records to be maintained, by a designated body or its members (where appropriate), in connection with subparagraphs (i) to
 
-## subparagraphs (i) to (ix).
+## (ix).
 
 (c) The Commission may review or amend the criteria as often as it considers necessary.
 

@@ -20,7 +20,9 @@ H CHP is the amount of useful heat from combined heat and power (calculated as t
 
 2. If a share of the energy content of the fuel input to the combined heat and power process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in paragraph 1.
 
-3. The relative amount of primary energy savings provided by combined heat and power production shall be calculated as follows: Where:
+3. The relative amount of primary energy savings provided by combined heat and power production shall be calculated as follows:
+
+Where:
 
 PES is primary energy savings.
 

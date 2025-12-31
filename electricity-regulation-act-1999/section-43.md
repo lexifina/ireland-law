@@ -4,4 +4,4 @@ Amendment of section 45 of Principal Act.
 
 TABLE
 
-(5) A special (a) the Acquisition of Land (Assessment of Compensation) Act, 1919, with the modification order made that the expression “public authority” shall include the Board or a holder of an under this section authorisation under section 16 of the Electricity Regulation Act, 1999, as the case may may be. incorporate—
+(5) A special (a) the Acquisition of Land (Assessment of Compensation) Act, 1919, with the modification that the order made under expression “public authority” shall include the Board or a holder of an authorisation under section this section may incorporate— 16 of the Electricity Regulation Act, 1999, as the case may be.
