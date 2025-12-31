@@ -40,9 +40,7 @@ Covenants implied in a conveyance (other than a mortgage) for valuable considera
 
 Paragraph 2
 
-Class 2 Conveyances
-
-Covenants implied in a conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”.
+Class 2 Conveyances Covenants implied in a conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”.
 
 (1) to (4) Covenants (1) to (4) in paragraph 1.
 
@@ -68,7 +66,9 @@ Those covenants are subject to the following variations, that is to say—
 
 (a) liability in respect of any breach of the covenants extends to the acts or omissions of any person whether or not that person is within the classes of person set out in paragraph 1 of Part 1;
 
-(b) covenant (2) (for quiet enjoyment) is not implied against any mortgagor until the mortgagee has lawfully entered into possession of the land conveyed. Paragraph 4
+(b) covenant (2) (for quiet enjoyment) is not implied against any mortgagor until the mortgagee has lawfully entered into possession of the land conveyed.
+
+Paragraph 4
 
 Class 4 Conveyances
 
@@ -106,9 +106,7 @@ Additional covenants implied in a conveyance (other than a mortgage) for valuabl
 
 (2) That the assignee will at all times, from that date, indemnify the assignor and the assignor’s estate and their estates from and against all claims, costs and proceedings on account of any omission to pay the rent, or the part of the rent so apportioned, or any breach of any of the covenants, so far as they relate to the land conveyed.
 
-Paragraph 2
-
-Class 7 Conveyances
+Paragraph 2 Class 7 Conveyances
 
 Additional covenants implied in a conveyance (other than a mortgage) for valuable consideration of part of the land comprised in a lease, for the residue of the term or interest created by the lease, subject to a part of the rent reserved by the lease which has been, or is by the conveyance, apportioned without the consent of the lessor.
 

@@ -16,9 +16,7 @@ Abandoned property.
 
 (i) protecting the mortgaged property, or
 
-(ii) preparing it for sale in exercise of the mortgagee’s power under section
-
-100,
+(ii) preparing it for sale in exercise of the mortgagee’s power under section 100,
 
 (c) costs and expenses incurred by the mortgagee which may be added to the mortgage debt.
 
