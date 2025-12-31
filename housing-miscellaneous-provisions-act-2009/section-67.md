@@ -1,8 +1,6 @@
 Apartment complex service charge.
 
-67.— (1) Before the end of the period specified in section 63 (1), and thereafter before the end of the first month of each financial year, the management company shall prepare an estimate of the amount to be raised, in respect of the financial year concerned, by way of an annual charge or charges (in this Part referred to as the
-
-“apartment complex service charge”) payable by apartment owners, being the amount required to discharge ongoing expenditure reasonably incurred on the insurance, maintenance (including cleaning and waste management services) and repair of the common areas, structures, works and services of the designated apartment complex concerned and on the provision of common or shared services to the apartment owners and occupiers of the designated apartment complex.
+67.— (1) Before the end of the period specified in section 63 (1), and thereafter before the end of the first month of each financial year, the management company shall prepare an estimate of the amount to be raised, in respect of the financial year concerned, by way of an annual charge or charges (in this Part referred to as the “apartment complex service charge”) payable by apartment owners, being the amount required to discharge ongoing expenditure reasonably incurred on the insurance, maintenance (including cleaning and waste management services) and repair of the common areas, structures, works and services of the designated apartment complex concerned and on the provision of common or shared services to the apartment owners and occupiers of the designated apartment complex.
 
 (2) The management company shall prepare the estimate referred to in subsection (1) by reference to the actual or projected expenditure for the financial year in respect of which the service charge is to be levied.
 

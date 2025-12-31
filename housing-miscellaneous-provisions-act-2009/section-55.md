@@ -14,17 +14,17 @@ Designation of apartment complex.
 
 TABLE
 
-Class of apartment complex Minimum number of Minimum proportion of all tenants determined by the number tenants in apartment in apartment complex willing to of apartments comprised complex willing to serve as serve as directors of management therein of which the directors of management company housing authority is the company (3) apartment owner (2) (1)
+Class of apartment complex Minimum number of tenants Minimum proportion of all tenants in determined by the number of in apartment complex willing apartment complex willing to serve as apartments comprised therein to serve as directors of directors of management company of which the housing authority management company (3) is the apartment owner (2) (1)
 
-Apartment complex comprising not more than 3 60% 9 apartments
+Apartment complex comprising 3 60% not more than 9 apartments
 
-Apartment complex comprising 10 to 19 6 40% apartments
+Apartment complex comprising 6 40% 10 to 19 apartments
 
-Apartment complex comprising 20 to 29 8 None apartments
+Apartment complex comprising 8 None 20 to 29 apartments
 
-Apartment complex comprising 30 to 59 9 None apartments
+Apartment complex comprising 9 None 30 to 59 apartments
 
-Apartment complex comprising 60 apartments 10 None or more
+Apartment complex comprising 10 None 60 apartments or more
 
 (3) Where an apartment complex is designated under subsection (1), the designation lapses if no apartment is sold by the housing authority under this Part before the expiry of the initial selling period.
 

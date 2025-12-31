@@ -26,13 +26,11 @@ Initial selling period.
 
 TABLE
 
-Class of apartment complex Minimum number of Minimum proportion of all determined by the number apartment sales apartments in apartment complex of apartments comprised (2) (3) therein of which the housing authority is the apartment owner
+Class of apartment complex Minimum number of Minimum proportion of all apartments in determined by the number of apartment sales apartment complex apartments comprised therein (2) (3) of which the housing authority is the apartment owner
 
-(1)
+(1) Apartment complex comprising 2 35% not more than 19 apartments
 
-Apartment complex comprising not more than 2 35% 19 apartments
-
-Apartment complex comprising 20 or more 7 30% apartments
+Apartment complex comprising 7 30% 20 or more apartments
 
 (7) For the purposes of subsection (5) and section 64 (3), a sale is ready to proceed where, in accordance with the terms and conditions of sale, the tenant has—
 

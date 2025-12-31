@@ -20,13 +20,13 @@ Sale by housing authority of apartments to tenants.
 
 TABLE
 
-Class of apartment complex Minimum number of Minimum proportion of all determined by the number apartment sales apartments in apartment complex of apartments comprised (2) (3) therein of which the housing authority is the apartment owner
+Class of apartment complex Minimum number of Minimum proportion of all apartments in determined by the number of apartment sales apartment complex apartments comprised therein (2) (3) of which the housing authority is the apartment owner
 
 (1)
 
-Apartment complex comprising not more than 2 30% 19 apartments
+Apartment complex comprising 2 30% not more than 19 apartments
 
-Apartment complex comprising 20 or more 6 25% apartments
+Apartment complex comprising 6 25% 20 or more apartments
 
 (5) The terms and conditions referred to in subsection (2) shall include the following—
 
