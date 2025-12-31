@@ -6,23 +6,27 @@ PART 1
 
 AMENDMENTS TO HOUSING ACT 1966
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
+
+(1) (2) (3)
 
 1 Section 90 Insert the following after subsection (4):
 
-2 Section 107(7) Substitute “at the rate at which on the date of the undertaking the authority
+2 Section 107(7) Substitute “at the rate at which on the date of the undertaking the authority could borrow
 
 PART 2
 
 AMENDMENTS TO HOUSING FINANCE AGENCY ACT 1981
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
+
+(1) (2) (3)
 
 1 Section 4(2) (a) In paragraph (c), delete “and”.
 
-(b) Insert the following after paragraph (c): Item Provision Amendment affected (1) (2) (3)
+(b) Insert the following after paragraph (c):
 
-(cb) to advance moneys from the said Affordable Dwellings Fund
+(cb) to advance moneys from the said Affordable Dwellings Fund to housing
 
 2 Section 5 (a) In paragraph (c), delete “or”.
 
@@ -36,21 +40,25 @@ PART 3
 
 AMENDMENTS TO HOUSING ACT 1988
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
+
+(1) (2) (3)
 
 1 Section 12 (a) In subsection (1), insert “and (8)” after “subsection (2)”.
 
 (b) Insert the following after subsection (7):
 
-(b)
+(b) For the purposes of paragraph (a), “apartments” and “designated
 
-2 Section 13 In subsection (3), substitute “Section 11 of the Housing (Miscellaneous
+2 Section 13 In subsection (3), substitute “Section 11 of the Housing (Miscellaneous Provisions) Act 2009”
 
 PART 4
 
 AMENDMENTS TO HOUSING (MISCELLANEOUS PROVISIONS) ACT 1992
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
+
+(1) (2) (3)
 
 1 Section 1(1) Insert the following definitions:
 
@@ -58,7 +66,7 @@ Item Provision Amendment affected (1) (2) (3)
 
 3 Section 18 (a) In subsection (1)—
 
-(i) delete “, works and services appurtenant thereto and enjoyed
+(i) delete “, works and services appurtenant thereto and enjoyed therewith”,
 
 (ii) after “let” to insert “or available for letting”.
 
@@ -74,23 +82,25 @@ Item Provision Amendment affected (1) (2) (3)
 
 (e) Substitute the following for subsection (8):
 
-(f) Insert the following after subsection (8):
+(f) Insert the following after subsection (8): Item Provision Amendment affected
+
+(1) (2) (3)
 
 4 New sections Insert the following new sections after section 18:
 
-18A.—(1) Where, in the opinion of a housing authority, a landlord is Item Provision Amendment affected (1) (2) (3)
+18A.—(1) Where, in the opinion of a housing authority, a landlord is contravening or has
 
 (2) An improvement notice shall—
 
-(a) state that the housing authority is of the opinion referred to in
+(a) state that the housing authority is of the opinion referred to in subsection
 
 (b) state the reasons for that opinion,
 
-(c) identify the provision of the regulation concerned in respect of
+(c) identify the provision of the regulation concerned in respect of which that
 
-(d) direct the landlord to remedy the contravention within the period
+(d) direct the landlord to remedy the contravention within the period specified
 
-(e) include information regarding the submission of an objection
+(e) include information regarding the submission of an objection and the making
 
 (i) the form and manner of an objection,
 
@@ -98,7 +108,7 @@ Item Provision Amendment affected (1) (2) (3)
 
 (iii) the address of the housing authority for the purpose of submitting an objection under subsection (6) or notifying the authority of an appeal under subsection (7), as the case may be,
 
-(f) contain a statement that if an objection is not submitted in
+(f) contain a statement that if an objection is not submitted in accordance with
 
 (i) the notice will be treated as not disputed, and
 
@@ -108,59 +118,63 @@ Item Provision Amendment affected (1) (2) (3)
 
 (3) An improvement notice may include directions as to the measures to be taken to remedy the contravention to which the notice relates or to otherwise comply with the notice.
 
-(4) Where an improvement notice is given under subsection (1), the housing authority shall give a copy to the tenant of the house concerned.
+(4) Where an improvement notice is given under subsection (1), the housing authority shall give a copy to the tenant of the house concerned. Item Provision Amendment affected
 
-(5) (a) A landlord to whom an improvement notice has been given
+(1) (2) (3)
 
-(b) Where a landlord confirms to the housing authority in accordance Item Provision Amendment affected (1) (2) (3)
+(5) (a) A landlord to whom an improvement notice has been given who is of
 
-(c) The notice under paragraph (b) does not preclude any inspection
+(b) Where a landlord confirms to the housing authority in accordance with
+
+(c) The notice under paragraph (b) does not preclude any inspection which the
 
 (6) A landlord aggrieved by an improvement notice may, within 14 days beginning on the day on which the notice is given to him or her, submit an objection to the notice in the form and manner specified in the notice, and the housing authority shall consider the objection and, as it sees fit, vary, withdraw, cancel or confirm the notice and shall notify the landlord in writing of the decision and the reasons for the decision within 14 days after receipt of the objection.
 
-(7) (a) The landlord may, no later than 14 days after the decision
+(7) (a) The landlord may, no later than 14 days after the decision under
 
-(b) A landlord who appeals under paragraph (a) shall at the same
+(b) A landlord who appeals under paragraph (a) shall at the same time notify
 
-(c) The housing authority shall be entitled to appear, be heard and
+(c) The housing authority shall be entitled to appear, be heard and adduce
 
-(d) In determining an appeal under paragraph (a), the judge of the
+(d) In determining an appeal under paragraph (a), the judge of the District Court
 
 (8) Where an objection is submitted under subsection (6) and no appeal is made under subsection (7) against the decision of the housing authority and the improvement notice is neither withdrawn nor cancelled, the notice takes effect on the later of the following:
 
 (a) the day after the day on which the notice is confirmed or varied;
 
-(b) the day after the objection is withdrawn by the landlord;
+(b) the day after the objection is withdrawn by the landlord; Item Provision Amendment affected
+
+(1) (2) (3)
 
 (c) the date specified in the notice.
 
 (9) Where an appeal is made under subsection (7) and the improvement notice is neither withdrawn nor cancelled, the notice takes effect on the later of the following:
 
-(a) the day after the day on which the notice is confirmed or varied
+(a) the day after the day on which the notice is confirmed or varied on appeal;
 
 (b) the day after the appeal is withdrawn by the landlord;
 
 (c) the date specified in the notice.
 
-(10) Where no objection is submitted under subsection (6) the improvement notice takes effect on the date specified in the notice. Item Provision Amendment affected (1) (2) (3)
+(10) Where no objection is submitted under subsection (6) the improvement notice takes effect on the date specified in the notice.
 
 (11) The housing authority may—
 
 (a) withdraw an improvement notice at any time, or
 
-(b) where no objection is submitted or appeal made or pending,
+(b) where no objection is submitted or appeal made or pending, extend the
 
 (12) Withdrawal of an improvement notice under subsection (11) does not prevent the giving of another improvement notice, whether in respect of the same matter or a different matter.
 
-Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvement notice in
+Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvement notice in accordance with
 
 (2) A prohibition notice shall—
 
-(a) state that the housing authority is of the opinion that the
+(a) state that the housing authority is of the opinion that the landlord has failed
 
-(b) direct that the landlord shall not re-let the house for rent or
+(b) direct that the landlord shall not re-let the house for rent or other valuable
 
-(c) include information regarding the making of an appeal in relation
+(c) include information regarding the making of an appeal in relation to the
 
 (i) the form and manner of an appeal, and
 
@@ -170,17 +184,19 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (3) Where a prohibition notice is given under subsection (1), the housing authority shall give a copy to the tenant of the house concerned.
 
-(4) (a) A landlord aggrieved by a prohibition notice may, within 14
+(4) (a) A landlord aggrieved by a prohibition notice may, within 14 days Item Provision Amendment affected
 
-(b) A landlord who appeals under paragraph (a) shall at the same
+(1) (2) (3)
 
-(c) The housing authority shall be entitled to appear, be heard and
+(b) A landlord who appeals under paragraph (a) shall at the same time notify
 
-(d) In determining an appeal under paragraph (a), the judge of the
+(c) The housing authority shall be entitled to appear, be heard and adduce
 
-(5) A prohibition notice shall take effect— Item Provision Amendment affected (1) (2) (3)
+(d) In determining an appeal under paragraph (a), the judge of the District Court
 
-(a) in the case of an appeal under subsection (4), on the later of
+(5) A prohibition notice shall take effect—
+
+(a) in the case of an appeal under subsection (4), on the later of the following:
 
 (i) the day after the day on which the notice is confirmed or varied on appeal;
 
@@ -200,7 +216,9 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (8) A housing authority may at any time withdraw a prohibition notice by notice in writing to the landlord to whom it was given.
 
-(9) Withdrawal of a prohibition notice under subsection (8) does not prevent the giving of another prohibition notice.
+(9) Withdrawal of a prohibition notice under subsection (8) does not prevent the giving of another prohibition notice. Item Provision Amendment affected
+
+(1) (2) (3)
 
 (10) A housing authority shall, in the interests of public health and safety, make such arrangements as they consider appropriate or necessary to bring the contents of a prohibition notice to the attention of the public.”.
 
@@ -210,17 +228,17 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (b) a city, the city council,
 
-(c) a borough mentioned in Chapter 1 of Part 1 of Schedule 6 to the
+(c) a borough mentioned in Chapter 1 of Part 1 of Schedule 6 to the Act of 2001,
 
 (i) section 6 of the Act of 1979,
 
-(ii) sections 2 to 4, 6 and 7 of this Act, Item Provision Amendment affected (1) (2) (3)
+(ii) sections 2 to 4, 6 and 7 of this Act,
 
 (iii) Part 2 of the Housing (Miscellaneous Provisions) Act 2002, and
 
-(iv) the borough council and, as respects each of those sections, the county council in whose administrative area the borough is situate,
+(iv) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous the borough council and, as respects each of those sections, the county council in whose administrative area the borough is situate,
 
-(d) a town mentioned in Chapter 2 of Part 1 of Schedule 6 to the
+(d) a town mentioned in Chapter 2 of Part 1 of Schedule 6 to the Act of 2001,
 
 (i) section 6 of the Act of 1979,
 
@@ -230,9 +248,9 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (iv) Part 2 of the Housing (Miscellaneous Provisions) Act 2002, and
 
-(v) the town council and, as respects each of those sections, the county council in whose administrative area the town is situate,
+(v) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous the town council and, as respects each of those sections, the county council in whose administrative area the town is situate,
 
-(e) a town mentioned in Part 2 of Schedule 6 to the Act of 2001,
+(e) a town mentioned in Part 2 of Schedule 6 to the Act of 2001, except as
 
 (i) sections 34 to 36 and section 41 of the Principal Act,
 
@@ -242,11 +260,13 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (iv) sections 2 to 7, 10 to 12, 14, 17, 18, 20, 34 and 35 of this Act,
 
-(v) Part 2 of the Housing (Miscellaneous Provisions) Act 2002, and
+(v) Part 2 of the Housing (Miscellaneous Provisions) Act 2002, and Item Provision Amendment affected
 
-(vi) the town council and, as respects each of those sections, the county council in whose administrative area the town is situate, and references to the functional area of a housing authority shall be construed accordingly.
+(1) (2) (3)
 
-(2) A reference in the Housing Acts 1966 to 2009 to a housing authority
+(vi) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous the town council and, as respects each of those sections, the county council in whose administrative area the town is situate, and references to the functional area of a housing authority shall be construed accordingly.
+
+(2) A reference in the Housing Acts 1966 to 2009 to a housing authority means, in the
 
 (a) the boroughs of Drogheda, Sligo and Wexford, except as respects—
 
@@ -254,7 +274,7 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (ii) sections 6 and 7 of this Act, and
 
-(iii) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous Item Provision Amendment affected (1) (2) (3) the respective borough councils and, as respects each of those sections, the respective county councils in whose administrative areas those boroughs are situate,
+(iii) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous Provisions) the respective borough councils and, as respects each of those sections, the respective county councils in whose administrative areas those boroughs are situate,
 
 (b) the town of Bray, except as respects—
 
@@ -264,7 +284,7 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (iii) Part 2 of the Housing (Miscellaneous Provisions) Act 2002, and
 
-(iv) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous the town council and, as respects each of those sections, the county council in whose administrative area that town is situate,
+(iv) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous Provisions) the town council and, as respects each of those sections, the county council in whose administrative area that town is situate,
 
 (c) the towns of Athlone and Dundalk, except as respects—
 
@@ -272,15 +292,17 @@ Prohibition notice. 18B.—(1) Where a landlord fails to comply with an improvem
 
 (ii) sections 6 and 7 of this Act, and
 
-(iii) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous the respective town councils and, as respects each of those sections, the respective county councils in whose administrative areas those towns are situate, and references to the functional area of a housing authority shall be construed accordingly.”.
+(iii) sections 14 to 18 and Chapter 6 of the Housing (Miscellaneous Provisions) the respective town councils and, as respects each of those sections, the respective county councils in whose administrative areas those towns are situate, and references to the functional area of a housing authority shall be construed accordingly.”.
 
-6 Section 34 (a) Substitute the following for subsection (1)—
+6 Section 34 (a) Substitute the following for subsection (1)— Item Provision Amendment affected
 
-(a) by act or omission, obstructs an authorised person in the lawful
+(1) (2) (3)
+
+(a) by act or omission, obstructs an authorised person in the lawful exercise of
 
 (b) fails to comply with an improvement notice, or
 
-(c) re-lets a house in breach of a prohibition notice, shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 6
+(c) re-lets a house in breach of a prohibition notice, shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 6 months or both and if the
 
 (b) Insert the following subsection:
 
@@ -288,105 +310,119 @@ PART 5
 
 AMENDMENTS TO HOUSING (MISCELLANEOUS PROVISIONS) ACT 1997
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
+
+(1) (2) (3)
 
 1 Section 1(1) (a) In paragraph (b) of the definition of “anti-social behaviour”—
 
 (i) insert “alarm” after “damage”, and
 
-(ii) substitute the following for the words from “includes” to
+(ii) substitute the following for the words from “includes” to the end of
 
-(ii) behaviour which causes any significant or persistent impairment of a person’s use or enjoyment of his or
+(ii) behaviour which causes any significant or persistent impairment of a person’s use or enjoyment of his or her home, or
 
 (iii) damage to or defacement by writing or other marks of any property, including a person’s home;”.
 
-(b) In the definition of “tenant” insert the following after “2000”:
+(b) In the definition of “tenant” insert the following after “2000”: Item Provision Amendment affected
+
+(1) (2) (3)
 
 2 Section 3(1) Insert the following after paragraph (a):
 
-3 Section 4A(b) Substitute “section 30 of the Housing (Miscellaneous Provisions) Act 2009” for
+3 Section 4A(b) Substitute “section 30 of the Housing (Miscellaneous Provisions) Act 2009” for “section 9 of the
 
 4 Section 14 (a) In subsection (1)—
 
-(i) delete the words from “Notwithstanding” down to and including
+(i) delete the words from “Notwithstanding” down to and including “where”
 
 (ii) in paragraph (a), substitute “an allocation” for “a letting”, and
 
-(iii) in paragraph (b), substitute “an allocation” for “an application
+(iii) in paragraph (b), substitute “an allocation” for “an application for the
 
 (b) Substitute the following for subsection (2):
 
-(a) Part 3 of the Housing (Miscellaneous Provisions) Act 2009 or an
+(a) Part 3 of the Housing (Miscellaneous Provisions) Act 2009 or an incremental
 
 (b) Part 4 of the said Act, or
 
-(c) Part 5 of the said Act or an affordable dwelling purchase Item Provision Amendment affected (1) (2) (3)
+(c) Part 5 of the said Act or an affordable dwelling purchase arrangement under
 
-(d) section 90 of the Housing Act 1966 (inserted by section 26 of a housing authority may refuse to sell a dwelling to—
+(d) section 90 of the Housing Act 1966 (inserted by section 26 of the Housing a housing authority may refuse to sell a dwelling to—
 
-(i) in the case of an incremental purchase arrangement, an eligible household (within the meaning of Part 3 of the
+(i) in the case of an incremental purchase arrangement, an eligible household (within the meaning of Part 3 of the Housing (Miscellaneous
 
 (ii) in the case of Part 4 of the said Act, a tenant,
 
 (iii) in the case of an affordable dwelling purchase arrangement, an eligible household (within the meaning of Part 5 of the said Act), or
 
-(iv) in the case of section 90 of the Housing Act 1966, a tenant, where the authority considers that the said tenant or the said eligible household or any member of the eligible household or of the tenant’s
+(iv) in the case of section 90 of the Housing Act 1966, a tenant, Item Provision Amendment affected
+
+(1) (2) (3) where the authority considers that the said tenant or the said eligible household or any member of the eligible household or of the tenant’s household, as the case may be, is or
 
 5 Section 15 Substitute the following for subsection (2):
 
-(a) seeking a house or site from the authority or seeking to occupy
+(a) seeking a house or site from the authority or seeking to occupy a caravan
 
-(b) whom the authority considers may be or may have been engaged and, notwithstanding anything contained in any enactment, such other housing authority or specified person may provide the information to the housing authority requesting it.”.
+(b) whom the authority considers may be or may have been engaged in and, notwithstanding anything contained in any enactment, such other housing authority or specified person may provide the information to the housing authority requesting it.”.
 
 PART 6
 
 AMENDMENTS TO HOUSING (TRAVELLER ACCOMMODATION) ACT 1998
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
 
-1 Section 6 (a) Substitute the following for subsection (1): Item Provision Amendment affected (1) (2) (3)
+(1) (2) (3)
+
+1 Section 6 (a) Substitute the following for subsection (1):
 
 (b) Delete subsection (2).
 
-(c) Substitute the following for subsection (3):
+(c) Substitute the following for subsection (3): Item Provision Amendment affected
 
-(a) every local authority whose administrative area adjoins, or is
+(1) (2) (3)
+
+(a) every local authority whose administrative area adjoins, or is contained
 
 (b) the Health Service Executive,
 
-(c) approved bodies engaged in the provision of accommodation
+(c) approved bodies engaged in the provision of accommodation or shelter in
 
-(d) any local consultative committee in the functional area
+(d) any local consultative committee in the functional area concerned, and
 
-(e) such local community bodies in the functional area concerned
+(e) such local community bodies in the functional area concerned and any
 
 (d) In subsection (4), insert the following after paragraph (a):
 
-(e) In subsection (6), substitute “in relation to any summary of social
+(e) In subsection (6), substitute “in relation to any summary of social housing
 
 (f) Delete subsection (7).
 
-2 Section 10(2) (a) In paragraph (a), delete the words from “and any” to the end of the
+2 Section 10(2) (a) In paragraph (a), delete the words from “and any” to the end of the paragraph.
 
-(b) In paragraph (b), substitute “in the most recent summary of social
+(b) In paragraph (b), substitute “in the most recent summary of social housing
 
 PART 7
 
 AMENDMENTS TO PLANNING AND DEVELOPMENT ACT 2000
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
 
-1 Section 93 (a) Substitute the following for subsection (1):
+(1) (2) (3)
+
+1 Section 93 (a) Substitute the following for subsection (1): Item Provision Amendment affected
+
+(1) (2) (3)
 
 (b) Delete subsections (2) and (3).
 
-2 Section 94 (a) In subsection (2), substitute “summary of social housing assessments
+2 Section 94 (a) In subsection (2), substitute “summary of social housing assessments prepared
 
 (b) In subsection 4—
 
-(i) in paragraph (a), substitute the following for subparagraphs (i)
+(i) in paragraph (a), substitute the following for subparagraphs (i) and (ii):
 
-(ii) housing for eligible households (within the meaning of and
+(ii) housing for eligible households (within the meaning of section 78 of and
 
 (ii) delete paragraph (b),
 
@@ -394,24 +430,28 @@ Item Provision Amendment affected (1) (2) (3)
 
 3 Section 96 (a) Substitute the following for subsection (12)—
 
-(b) In subsection (13)(a), substitute “required for households assessed
+(b) In subsection (13)(a), substitute “required for households assessed under section
 
 PART 8
 
 AMENDMENT TO CIVIL REGISTRATION ACT 2004
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
 
-1 Section Substitute the following for subparagraph (ii)— 66(1)(j)
+(1) (2) (3)
+
+1 Section 66(1)(j) Substitute the following for subparagraph (ii)—
 
 PART 9
 
 AMENDMENT TO SOCIAL WELFARE CONSOLIDATION ACT 2005
 
-Item Provision Amendment affected (1) (2) (3)
+Item Provision Amendment affected
 
-1 Section Substitute the following for subparagraphs (i), (ii) and (iii) of paragraph (b) 265(1)
+(1) (2) (3)
 
-(ii) allocating a dwelling under section 22 of the Housing (Miscellaneous
+1 Section 265(1) Substitute the following for subparagraphs (i), (ii) and (iii) of paragraph (b) of the definition
 
-(iii) determining rent or any other charge under section 31 of the
+(ii) allocating a dwelling under section 22 of the Housing (Miscellaneous Provisions)
+
+(iii) determining rent or any other charge under section 31 of the Housing
