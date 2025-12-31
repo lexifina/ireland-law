@@ -42,7 +42,7 @@ Power of Ard- Chláraitheoir to give information to others.
 
 (ii) the determination of a rent or other payment under section 58 of the Housing Act 1966, or
 
-(iii) the preparation of a housing strategy under the Planning and Development Act 2000.
+(iii) the preparation of a housing strategy under the Planning and Development Act 2024.
 
 (2) In this section—
 
