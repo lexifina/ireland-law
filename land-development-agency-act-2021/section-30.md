@@ -18,15 +18,7 @@ Amendment of National Treasury Management Agency (Amendment) Act 2014
 
 (c) terminate or dispose of, on the terms and conditions specified in the direction, a loan made under paragraph (a), or
 
-(d) pay money to the Land Development Agency or any subsidiary DAC out of the assets of the Fund for the purposes of discharging the liability of the Minister in respect of the shares allotted and issued to the Minister for Housing , Local Government and Heritage and the Minister for Public Expenditure and Reform under
-
-## section 25
-
-of the
-
-## Land
-
-Development Agency Act 2021.
+(d) pay money to the Land Development Agency or any subsidiary DAC out of the assets of the Fund for the purposes of discharging the liability of the Minister in respect of the shares allotted and issued to the Minister for Housing, Local Government and Heritage and the Minister for Public Expenditure and Reform under section 25 of the Land Development Agency Act 2021.
 
 (2) A request from the Minister for Housing, Local Government and Heritage under subsection (1) shall include a recommendation regarding the terms and conditions to be specified in a direction under subsection (1).
 
