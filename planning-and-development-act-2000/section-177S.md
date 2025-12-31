@@ -12,11 +12,11 @@ Competent Authority.
 
 (ba) in relation to a proposed amendment of a planning scheme in respect of all or any part of a strategic development zone, the Board,
 
-(c) in relation to a draft development plan, the planning authority for whose area the development plan is made,
+(c) ...
 
-(d) in relation to a proposed variation of a development plan, the planning authority for whose area the variation of the development plan is made,
+(d) ...
 
-(e) in relation to a draft local area plan, the planning authority in whose area the local area plan concerned is situate,
+(e) ...
 
 (f) in relation to a proposed development (other than development referred to in paragraph (g) or (h)), the planning authority to whom an application for permission is made or ... the Board, as the case may be,
 
