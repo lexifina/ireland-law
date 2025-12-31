@@ -1,8 +1,6 @@
 National inspection plan.
 
-70K.— (1) The Agency shall, as soon as may be after the commencement of this
-
-National section, but not later than 31 March 2013, make a national plan (in this Part referred inspection to as ‘the national inspection plan’) with regard to the inspection and monitoring of plan. domestic waste water treatment systems.
+70K.— (1) The Agency shall, as soon as may be after the commencement of this section, inspection but not later than 31 March 2013, make a national plan (in this Part referred to as ‘the national plan. inspection plan’) with regard to the inspection and monitoring of domestic waste water treatment systems.
 
 (2) When making the national inspection plan, the Agency shall have regard to—
 
