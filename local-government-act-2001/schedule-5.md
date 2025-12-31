@@ -40,7 +40,7 @@ Laois Comhairle Contae Laoise
 
 Liatroim Comhairle Contae Liatroma
 
-An Longfort Comhairle Contae an Longfoirt
+An Longfort Comhairle Contae an Longfoirt Name of County Name of Local Authority of County
 
 Lú Comhairle Contae Lú
 
@@ -76,7 +76,7 @@ Name of County Name of Local Authority of County
 
 Carlow Carlow County Council
 
-Cavan Cavan County Council Name of County Name of Local Authority of County
+Cavan Cavan County Council
 
 Clare Clare County Council
 
@@ -106,7 +106,7 @@ Louth Louth County Council
 
 Mayo Mayo County Council
 
-Meath Meath County Council
+Meath Meath County Council Name of County Name of Local Authority of County
 
 Monaghan Monaghan County Council
 
