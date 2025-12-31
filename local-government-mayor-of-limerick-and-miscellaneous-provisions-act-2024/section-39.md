@@ -10,11 +10,7 @@ Amendment of Electoral Act 1997
 
 (ii) by the insertion, in subsection (1), of the following definition:
 
-“‘Limerick mayoral election’ means an election, including a mayoral by-election, held in accordance with Schedule 2 of the Local
-
-## Government (Mayor of Limerick) and Miscellaneous Provisions Act
-
-2024;”,
+“‘Limerick mayoral election’ means an election, including a mayoral by-election, held in accordance with Schedule 2 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;”,
 
 (iii) by the substitution, in subsection (1), of the following definition for the definition of “political party”:
 
@@ -290,13 +286,7 @@ Limerick mayoral election donation statement
 
 95. (1) The mayoral election agent of each candidate at a Limerick mayoral election shall, not later than 56 days after the polling day at that election, furnish to the Commission a statement (to be known and, in this Part referred to, as a ‘Limerick mayoral election donation statement’) of—
 
-(a) the value of each donation exceeding €600 received by the candidate for the purposes of that election before, on or after the making of an order under paragraph 6 of Part 1 of Schedule
-
-2 to the
-
-Local Government (Mayor of Limerick) and
-
-Miscellaneous Provisions Act 2024 appointing the polling day for the election,
+(a) the value of each donation exceeding €600 received by the candidate for the purposes of that election before, on or after the making of an order under paragraph 6 of Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024 appointing the polling day for the election,
 
 (b) the name and description of the donor and address at which the donor resides, or has his or her principal office, in the State,
 

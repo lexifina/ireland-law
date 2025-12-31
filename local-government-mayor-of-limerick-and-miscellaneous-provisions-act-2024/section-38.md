@@ -6,15 +6,9 @@ Amendment of Act of 1992
 
 “‘Limerick City and County Electoral Area’ has the same meaning as it has in Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;
 
-‘Limerick mayoral election’ means an election, including a mayoral by-election, held in accordance with Part 1 of Schedule 2 to the
+‘Limerick mayoral election’ means an election, including a mayoral by-election, held in accordance with Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;
 
-## Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;
-
-‘plebiscite’ has the same meaning as it has in Part 6 of the Local
-
-## Government (Mayor of Limerick) and Miscellaneous Provisions Act
-
-2024;”,
+‘plebiscite’ has the same meaning as it has in Part 6 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;”,
 
 (b) in section 11, by the substitution, in subsection (2), of “European, local or Limerick mayoral election or a referendum or plebiscite” for “European or local election or a referendum”,
 

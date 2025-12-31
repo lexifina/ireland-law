@@ -2,9 +2,7 @@ SCHEDULE 2
 
 PART 1
 
-ELECTION OF MAYOR
-
-Chapter 1
+ELECTION OF MAYOR Chapter 1
 
 PRELIMINARY AND GENERAL
 
@@ -188,7 +186,7 @@ Advance polling
 
 (4) In this paragraph—
 
-“Covid-19” means a disease caused by infection with the virus SARS- CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+“Covid-19” means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
 
 “pandemic” means an outbreak of disease—
 
@@ -1898,9 +1896,7 @@ O’BRIEN – THE INDEPENDENT PARTY Emblem Photograph
 
 ORLA O’BRIEN, of 103 Eaton Brae, Cahermore, Solicitor.
 
-O’CONNOR — NATIONAL LEAGUE Emblem Photograph
-
-CAROLINE O’CONNOR, of 7 Green Street, Carnmore, Engineer.
+O’CONNOR — NATIONAL LEAGUE Emblem Photograph CAROLINE O’CONNOR, of 7 Green Street, Carnmore, Engineer.
 
 THOMPSON — RURAL PARTY Emblem Photograph
 
@@ -1908,7 +1904,7 @@ WILLIAM H. THOMPSON, of Dereen, Ballyglass, Farmer.
 
 (Back of Paper)
 
-Uimhir/Number.......................................................................................................
+Uimhir/Number .......................................................................................................
 
 Toghchán do Mhéara Luimnigh
 

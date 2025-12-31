@@ -8,15 +8,9 @@ Amendment of Act of 2022
 
 (ii) by the insertion of the following definitions:
 
-“‘Limerick mayoral election’ means an election, including a mayoral by-election, held in accordance with Part 1 of Schedule 2 to the
+“‘Limerick mayoral election’ means an election, including a mayoral by-election, held in accordance with Part 1 of Schedule 2 to the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;
 
-## Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;
-
-‘plebiscite’ means a plebiscite held under Part 6 of the Local
-
-## Government (Mayor of Limerick) and Miscellaneous Provisions Act
-
-2024;”,
+‘plebiscite’ means a plebiscite held under Part 6 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024;”,
 
 (b) in subsection (1) of section 43—
 

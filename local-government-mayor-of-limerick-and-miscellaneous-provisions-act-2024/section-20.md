@@ -26,11 +26,7 @@ Amendments to Principal Act relating to office of Mayor
 
 (i) by the insertion, in subsection (1), of the following paragraphs after paragraph (a):
 
-“(aa) upon the cessation of membership of a member of a local authority under subsection (1) of section 11 of the Local
-
-## Government (Mayor of Limerick) and Miscellaneous Provisions Act
-
-2024,
+“(aa) upon the cessation of membership of a member of a local authority under subsection (1) of section 11 of the Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024,
 
 (ab) in the case of a person who, at the same time, is elected to the office of Mayor of Limerick and as a member of a local authority, on the ordinary day of retirement next following the election concerned,”, and
 
