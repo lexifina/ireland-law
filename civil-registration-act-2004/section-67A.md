@@ -1,4 +1,4 @@
-F302[Payments to certain registrars
+F301[Payments to certain registrars
 
 67A.—(1) Subject to subsection (2), the Health Service Executive shall pay to persons to whom this section applies—
 
