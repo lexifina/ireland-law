@@ -24,7 +24,7 @@ Interpretation.
 
 “chief executive” means, as respects a local authority, a chief executive as provided for by Chapter 2 of Part 14 (as amended by the Local Government Reform Act 2014) of the Local Government Act 2001;
 
-“development plan” has the same meaning as in section 2 of the Planning and Development Act 2000;
+“development plan” has the same meaning as in section 2 of the Planning and Development Act 2024;
 
 “dwelling” includes any building or part of a building occupied or intended for occupation as a normal place of residence and includes any out-office, yard, garden or other land appurtenant thereto or usually enjoyed therewith and includes a house, flat, apartment, maisonette or hostel;
 
@@ -50,7 +50,7 @@ Interpretation.
 
 “housing services plan” has the meaning given to it by section 14;
 
-“housing strategy” has the same meaning as in section 93 of the Planning and Development Act 2000;
+“housing strategy” has the same meaning as in section 2 of the Planning and Development Act 2024;
 
 “housing support” shall be read in accordance with section 10 (a);
 
