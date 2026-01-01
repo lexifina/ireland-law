@@ -20,7 +20,11 @@ Power of elected members of local authority to vary basic rates.
 
 (4) Where a local authority passes a resolution under subsection (2), it shall notify the Minister in writing that it has passed the resolution and of the local adjustment factor.
 
-(5) The local adjustment factor shall not exceed 15 per cent.
+(5) The local adjustment factor shall not—
+
+(a) increase the basic rate by more than 25 per cent, or
+
+(b) decrease the basic rate by more than 15 per cent.
 
 (6) The Minister may make regulations with respect to the setting of the local adjustment factor and those regulations may, in particular and without prejudice to the generality of the foregoing, include provision for—
 
