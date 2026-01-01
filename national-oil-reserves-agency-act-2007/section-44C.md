@@ -10,11 +10,13 @@ Biofuel obligation.
 
 (3) The specified amount referred to in subsection (2) shall be expressed in megajoules and shall amount to no less than the applicable percentage, specified in section 44D for the obligation period concerned, of the total relevant disposal of road transport fuel concerned, and such specified amount shall include certified disposals of—
 
-(a) advanced biofuels and biogas that, in total, amount to no less than the applicable percentage, specified in section 44D, of the total relevant disposal of road transport fuel concerned (in this Part referred to as the "advanced biofuel obligation"),
+(a) advanced biofuels and biogas and renewable fuels of non-biological origin that, in total, amount to no less than the applicable percentage, specified in section 44D, of the total relevant disposal of road transport fuel concerned (in this Part referred to as the "advanced biofuel and renewable fuels of non-biological origin obligation"),
 
 (b) biofuels and biogas produced from food and feed crops that, in total, amount to no greater than the applicable percentage, specified in section 44D, of the total relevant disposal of the road transport fuel concerned (in this Part referred to as the "crop cap"), and
 
 (c) biofuels and biogas produced from high indirect land-use change-risk (in this Part referred to as "high ILUC-risk") feedstock that, in total, amount to no greater than the applicable percentage, specified in section 44D, of the total relevant disposal of the road transport fuel concerned (in this Part referred to as the "high ILUC-risk cap").
+
+(3A) Renewable fuels of non-biological origin that are used as intermediate products for the production of conventional transport fuels and for the production of biofuels may be considered to be renewable liquid and gaseous transport fuels of non-biological origin for the purpose of subsection (3)(a), provided that the greenhouse gas emissions reduction achieved by the use of renewable fuels of non-biological origin is not counted in the calculation, set out in Schedule 3 of the Renewable Energy Regulations, of the greenhouse gas emission savings of the biofuels.
 
 (4) ...
 
