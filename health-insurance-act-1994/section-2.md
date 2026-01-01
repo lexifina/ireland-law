@@ -102,7 +102,7 @@ Interpretation.
 
 “registered”, in relation to an undertaking, means registered in the Register and cognate words shall be construed accordingly;
 
-“the Register” means the Register of Health Benefits Undertakings established under section 14 ;
+“the Register” means the Register of Health Benefits Undertakings established under section 14;
 
 “the Registrar” means the Registrar and Chief Executive of the Authority;
 

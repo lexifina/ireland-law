@@ -32,11 +32,11 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 
 (b) Subject to paragraph (c), paragraph (a) shall, with all necessary modifications, apply to each applicable 3 year period as it applies to the 3 year period referred to in that paragraph.
 
+OJC 8/04, 11.01.2012, p.15
+
 (c) In respect of each of the following applicable 3 year periods—
 
 (i) the 3 year period from 1 January 2020 to the end of 2022, and
-
-OJC 8/04, 11.01.2012, p.15
 
 (ii) the 3 year period from 1 January 2021 to the end of 2023, the reference in paragraph (a) to 6 per cent per annum shall, as respects the applicable 3 year period referred to in subparagraph (i), be read as a reference to 4. 9 per cent per annum and, as respects the applicable 3 year period referred to in subparagraph (ii), be read as a reference to 5. 5 per cent per annum and paragraph (a) shall apply accordingly.
 

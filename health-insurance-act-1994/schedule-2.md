@@ -258,7 +258,9 @@ The first report shall be submitted by 30 June 2014.
 
 [11] Directive 2006/111/EC on the transparency of financial relations between Member States and public undertakings as well as on financial transparency within certain undertakings.
 
-[12] In this context, net cost means net cost as determined in paragraph 25 or costs minus revenues where the net avoided cost methodology cannot be applied. [13] Public sources of information, cost levels incurred by the SGEI provider in the past, cost levels of competitors, business plans, industry reports, etc.
+[12] In this context, net cost means net cost as determined in paragraph 25 or costs minus revenues where the net avoided cost methodology cannot be applied.
+
+[13] Public sources of information, cost levels incurred by the SGEI provider in the past, cost levels of competitors, business plans, industry reports, etc.
 
 [14] OJ L 108, 24.4.2002, p. 51.
 
