@@ -66,6 +66,8 @@ Part 1
 
 30. Section 20(1) of the Industrial Relations (Amendment) Act 2015
 
+31. Sections 127 and 128 of the Automatic Enrolment Retirement Savings System Act 2024
+
 Part 2
 
 1. European Communities (Protection of Employees on Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003) (other than Regulation 4(4) (a))
