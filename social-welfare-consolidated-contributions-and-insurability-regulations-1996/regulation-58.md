@@ -4,7 +4,7 @@ Credits in respect of days of incapacity for work, of proved unemployment and on
 
 (a) in respect of a day of duly notified incapacity for work or of proven unemployment (other than any such day after an insured person has attained pensionable age) in any contribution year in accordance with sub-article (2),
 
-(b) in respect of any contribution week in which an insured person is in receipt of maternity benefit, health and safety benefit, adoptive benefit, parent’s benefit, paternity benefit, carer's benefit, invalidity pension, pre-retirement allowance, carer's allowance and disability allowance,
+(b) in respect of any contribution week in which an insured person is in receipt of maternity benefit, health and safety benefit, adoptive benefit, parent’s benefit,paternitybenefit,carer'sbenefit,invaliditypension,pre-retirementallowance, carer's allowance and disability allowance,
 
 (c) in respect of any contribution week in which an insured person is in receipt of carer's allowance , jobseeker’s allowance payable to a person to whom section 148A of the Act of 2005 applies or one-parent family payment where, immediately prior to claiming such allowance or payment, the insured person was entitled to be credited with employment contributions by virtue of paragraph (a) or (b).
 

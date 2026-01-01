@@ -1,4 +1,4 @@
-Concurrent employment and self-employment.
+Concurrent employment and selfemployment.
 
 23. (1) Subject to sub-article (2), where—
 

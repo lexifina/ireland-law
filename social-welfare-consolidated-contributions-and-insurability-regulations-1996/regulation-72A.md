@@ -14,7 +14,7 @@ Return of employment contributions in respect of certain seafarers.
 
 (b) not earlier than the last day of the contribution year in respect of which the employment contributions have been paid, and
 
-(c) in the form for the time being approved by the Minister or the Collector- General, as appropriate, or in such other manner as the Minister or the Collector-General may accept as being sufficient in the circumstances.
+(c) in the form for the time being approved by the Minister or the Collector-General, as appropriate, or in such other manner as the Minister or the Collector-General may accept as being sufficient in the circumstances.
 
 (4) The following vessels are prescribed for the purposes of paragraph (i) of the definition of "qualifying ship" contained in section 36(3) of the Act of 2005 as not being included in that definition:
 

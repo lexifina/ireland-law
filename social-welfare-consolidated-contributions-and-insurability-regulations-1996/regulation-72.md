@@ -1,6 +1,6 @@
 Refund of contributions paid in error.
 
-72. (1) Subject to article 71 and this article, any contributions paid in error by a person or their employer in respect or on behalf of that person shall be returned by the Minister or the Collector-General, as appropriate, to that person or to their employer, as the case may require, if application to that effect is made in writing to the Minister or the Collector General, as appropriate, in accordance with sub-article (4).
+72. (1) Subject to article 71 and this article, any contributions paid in error by a person or their employer in respect or on behalf of that person shall be returned by the Minister or the Collector- General, as appropriate, to that person or to their employer, as the case may require, if application to that effect is made in writing to the Minister or the Collector General, as appropriate, in accordance with sub-article (4).
 
 (2) In calculating the amount of any repayment to be made under this article to an insured person or an employer, the following amounts shall be deducted—
 

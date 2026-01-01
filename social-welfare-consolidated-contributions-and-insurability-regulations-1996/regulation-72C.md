@@ -14,13 +14,11 @@ Refund of contribution - payments to personal pensions.
 
 (b) it is, by virtue of section 787 or 787C (inserted by the Pensions (Amendment) Act 2002 ) of the Taxes Consolidation Act 1997 deducted from or set off against the relevant earnings, within the meaning of section 787 or 787B (as so inserted) of that Act, as is appropriate in the circumstances, of the insured person for the year of assessment which corresponds to the contribution year, other than an amount of a pension payment to which Regulations 41 and 42 of the Income Tax (Employments) (Consolidated) Regulations, 2001 (S.I. No. 559 of 2001) applies.
 
-(3) Subject to these Regulations where in any contribution year commencing on or after 1 January 2002, an employment contribution under section 10(1)(b) or a self-employment contribution under section 18(1)(c) is paid by an insured person and that person has also made a pension payment, such amount of contribution, if any, as is determined in accordance with this article, may be returned to that person by the Minister or the Collector-General, as the case may require, if application to that effect is made in writing to the Minister or the Collector-General, as appropriate, within such time as he or she may determine.
+(3) Subject to these Regulations where in any contribution year commencing on or after 1 January 2002, an employment contribution under section 10(1)(b) or a self-employment contribution under section 18(1)(c) is paid by an insured person and that person has also made a pension payment, such amount of contribution, if any, as is determined in accordance with this article, may be returned to that person by the Minister or the Collector-General, as the case may require, if application to that effect is made in writing to the Minister or the Collector- General, as appropriate, within such time as he or she may determine.
 
 (4) Subject to sub-article (6) in the case of an employed contributor the amount of contribution to be returned for a particular contribution year under sub-article (3) shall be determined as follows:
 
-(a) where an insured person's reckonable earnings in that contribution year are less than or equal to the amount specified in section 10(1)(c), the amount of contribution to be returned shall be calculated in accordance with the formula:
-
-P × R, or
+(a) where an insured person's reckonable earnings in that contribution year are less than or equal to the amount specified in section 10(1)(c), the amount of contribution to be returned shall be calculated in accordance with the formula: P × R, or
 
 (b) where an insured person’s reckonable earnings in that contribution year exceed the amount specified in section 13(2)(c) but when reduced by the amount of allowable pension payment is less than the amount specified in section 13(2)(c) in relation to that particular contribution year, the amount of contribution to be returned shall be calculated in accordance with the formula:
 
@@ -54,9 +52,7 @@ R is the rate of self-employed contribution paid by the insured person in that c
 
 (b) in accordance with the formula:
 
-P × R where—
-
-P is the amount of the insured person's emoluments which equates to the allowable pension payment in that year, if any, in respect of which a return is not due under sub-article (4), and
+P × R where— P is the amount of the insured person's emoluments which equates to the allowable pension payment in that year, if any, in respect of which a return is not due under sub-article (4), and
 
 R is the rate of self-employment contribution paid by that person in that contribution year
 

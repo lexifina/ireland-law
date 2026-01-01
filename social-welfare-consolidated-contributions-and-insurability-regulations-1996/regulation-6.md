@@ -38,4 +38,6 @@ Definitions.
 
 (II) the return is made by the return filing date and the remittance concerned is made on or before the day that is 24 days from the last day of the relevant income tax month;
 
-"return filing date", in relation to an income tax month, means the day that is 15 days from the last day of the month; CHAPTER 1
+"return filing date", in relation to an income tax month, means the day that is 15 days from the last day of the month;
+
+CHAPTER 1

@@ -1,4 +1,4 @@
-Excepted self-employed contributors (prescribed relatives).
+Excepted selfemployed contributors (prescribed relatives).
 
 94. The following relatives are prescribed for the purposes of paragraph 1 of Part 3 of Schedule 1 to the Act of 2005—
 

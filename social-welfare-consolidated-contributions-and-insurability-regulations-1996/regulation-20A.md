@@ -1,4 +1,4 @@
-Remittance of certain selfemployment contributions to the Minister.
+Remittance of certain self-employment contributions to the Minister.
 
 20A. (1) A self-employed contributor to whom—
 
