@@ -1,4 +1,4 @@
-F340[Regulations
+F395[Regulations
 
 58B.—(1) The Minister shall, after consultation with the Minister for Education and Skills and the Minister for the Environment, Community and Local Government, make regulations for the purpose of securing the health, safety and welfare and promoting the development of children attending early years services.
 
@@ -26,10 +26,32 @@ F340[Regulations
 
 (h) specify the requirements that a member of a class or classes prescribed under subparagraph (i), (ii) or (iii) of paragraph (g) shall satisfy in order to be considered fit and proper persons for the purposes of the subparagraph concerned,
 
+(i) require persons carrying on prescribed early years services to make adequate arrangements, including publication of such arrangements, to make publicly known to the parents and guardians of children attending the service and the persons working in the service any of the following matters—
+
+(i) a decision under section 58D to remove the name of the registered provider from the register,
+
+(ii) a decision under section 58D to attach a condition, or amend or revoke a condition attached, to the registration of the registered provider,
+
+(iii) a decision to issue an improvement notice in respect of the prescribed early years service provided by the registered provider,
+
+(iv) the grant of an improvement order in respect of the prescribed early years service provided by the registered provider,
+
+(v) a decision to issue an immediate action notice in respect of the prescribed early years service provided by the registered provider,
+
+(vi) the grant of an immediate action order in respect of the prescribed early years service provided by the registered provider,
+
+(vii) a decision to issue a temporary prohibition order in respect of a prescribed early years service provided by the registered provider, or
+
+(viii) the grant of a closure order in respect of the prescribed early years service provided by the registered provider, and
+
+(j) prescribe such particulars, including personal data, of parents and guardians of children attending prescribed early years services, as are necessary and proportionate for the performance by the Agency of its functions under this Part, that shall, at the request of the Agency, be provided to the Agency by registered providers.
+
 (3) Regulations under this section may—
 
 (a) make different provision for different classes of early years services,
 
 (b) prescribe different requirements for different classes of early years services,
 
-(c) provide for exemptions from any provision or provisions of the regulations for a specified class or classes of early years services.
+(c) provide for exemptions from any provision or provisions of the regulations for a specified class or classes of early years services, and
+
+(d) provide for exemptions, from any requirement in regulations under paragraph (i) of subsection (2) to make arrangements to make publicly known any of the matters specified in subparagraphs (i) to (viii) of that paragraph, for different circumstances or classes of circumstances or for different cases or classes of cases.
