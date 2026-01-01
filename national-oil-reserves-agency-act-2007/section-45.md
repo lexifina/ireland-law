@@ -1,5 +1,3 @@
-## PART 6 ENFORCEMENT PROVISIONS
-
 Definitions for Part 6.
 
 45.— In this Part—
