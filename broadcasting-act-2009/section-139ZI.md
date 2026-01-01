@@ -6,9 +6,7 @@ Commencement and terms of investigation.
 
 (3) The person who directs the authorised officer to carry out an investigation under subsection (1) shall define the terms of the investigation in writing.
 
-(4) Where the provider of a very large online platform or very large online search engine would be the inquiry subject, no direction may be given under subsection
-
-(1) in relation to a contravention that is an infringement of the Digital Services Regulation if the European Commission has initiated proceedings for the same infringement.
+(4) Where the provider of a very large online platform or very large online search engine would be the inquiry subject, no direction may be given under subsection (1) in relation to a contravention that is an infringement of the Digital Services Regulation if the European Commission has initiated proceedings for the same infringement.
 
 (5) Where the suspected contravention is an infringement of the Digital Services Regulation by a person falling within paragraph (c) of the definition of "relevant intermediary service provider" in section 139ZG, a direction may be given under subsection (1) only if—
 

@@ -1,4 +1,4 @@
-Must-carry and must-offer obligations. (Repealed in part)
+Must-carry and must-offer obligations.
 
 77.— (1) (a) In this Part “appropriate network” means an electronic communications network provided by a person (“appropriate network provider”) which is used for the distribution or transmission of broadcasting services to the public.
 

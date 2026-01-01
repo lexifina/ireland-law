@@ -100,8 +100,6 @@ Definitions.
 
 “Council Directive” means Council Directive 89/552/EEC of 3 October 1989 on the co-ordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities as amended by Directive 97/36/EC of the European Parliament and of the Council of 30 June 1997 and by Directive 2007/65/EC of the European Parliament and of the Council of 11 December 2007;
 
-OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2007
-
 “Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “designated online service” means a service designated under section 139E;
@@ -113,6 +111,10 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 “director general” means a person appointed as the director general of a corporation under section 89 (1);
 
 “E-Commerce Directive” means Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market;
+
+OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2007 OJ No. L. 119, 4.5.2016, p. 1
+
+OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1
 
 “editorial responsibility”, in relation to providing programmes, means effective control—
 
@@ -135,10 +137,6 @@ OJ No. L. 298/23, 17.10.1989 OJ No. L. 202/60, 30.07.1997 OJ No. L. 332, 18.12.2
 (a) full-time paid employment,
 
 (b) part-time paid employment,
-
-OJ No. L. 119, 4.5.2016, p. 1
-
-OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17.7.2000, p. 1 OJ L, 2024/1083, 17.4.2024
 
 (c) temporary paid employment for a period of 16 weeks or more in the period of a year, or
 
@@ -165,6 +163,8 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 "hosting service provider" has the same meaning as it has in the Terrorist Content Online Regulation;
 
 ...
+
+OJ L, 2024/1083, 17.4.2024
 
 “intermediary service provider” means a provider of intermediary services;
 
@@ -262,7 +262,9 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 
 (b) the service is provided for simultaneous or near-simultaneous listening to sound programmes on the basis of a programme schedule;
 
-"sponsorship" means any contribution made by a public or private undertaking or natural person not engaged in providing audiovisual media services or video-sharing platform services or in producing audiovisual works to the financing of audiovisual media services, video-sharing platform services, user-generated videos or programmes with a view to promoting the name, trade mark, image, activities or products of the undertaking or person.
+"sponsorship" means any contribution made by a public or private undertaking or natural person not engaged in providing audiovisual media services or video-sharing platform services or in producing audiovisual works to the financing of audiovisual media services, video-sharing platform services, user-generated videos
+
+OJ No. L. 241, 17.9.2015, p. 1 or programmes with a view to promoting the name, trade mark, image, activities or products of the undertaking or person.
 
 “statutory committee” means the Contract Awards Committee or the Compliance Committee or both, as the case may be;
 
@@ -277,8 +279,6 @@ OJ No. L. 95, 15.4.2010, p. 1 OJ No. L. 303, 28.11.2018, p. 69 OJ No. L. 178, 17
 “TG4” means Teilifís na Gaeilge;
 
 “television programme service” means a service which comprises a compilation of audio-visual programme material of any description and is transmitted, distributed or relayed by means of wireless telegraphy directly or indirectly for reception by the general public;
-
-OJ No. L. 241, 17.9.2015, p. 1
 
 “television programme service contract” and “television programme service contractor” have the same meaning as they have in section 70;
 
