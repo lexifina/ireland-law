@@ -24,7 +24,7 @@ Limitations on amount of administrative financial sanction
 
 (i) the extent to which the contravention was contributed to by the act or omission of a third party, and the extent to which the inquiry subject took steps to identify, and mitigate the effect of, the act or omission;
 
-( j) the extent to which the contravention was contributed to by circumstances beyond the control of the inquiry subject, and the extent to which the inquiry subject took steps to identify, and mitigate the effect of, those circumstances;
+(j) the extent to which the contravention was contributed to by circumstances beyond the control of the inquiry subject, and the extent to which the inquiry subject took steps to identify, and mitigate the effect of, those circumstances;
 
 (k) in the case of a body corporate, the extent to which the management of the body knew, or ought to have known, that the contravention was occurring or would occur;
 

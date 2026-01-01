@@ -28,9 +28,7 @@ Interpretation (Part 15)
 
 CHAPTER 2
 
-Vetted researchers, trusted flaggers and out-of-court settlement
-
-## bodies
+## Vetted researchers, trusted flaggers and out-of-court settlement bodies
 
 Designation of vetted researchers
 

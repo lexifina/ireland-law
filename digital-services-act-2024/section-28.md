@@ -24,11 +24,7 @@ Decision following joint investigation to which Article 60 applies
 
 (a) adopt the decision as its final decision;
 
-(b) request a person authorised under section 139ZI(2) to give a direction under
-
-## subsection (1)
-
-of that section for a new investigation;
+(b) request a person authorised under section 139ZI(2) to give a direction under subsection (1) of that section for a new investigation;
 
 (c) take any other action that appears to the Commission to be necessary to ensure compliance with the Digital Services Regulation.
 
