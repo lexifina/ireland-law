@@ -4,9 +4,9 @@ Compliance with renewable transport fuel obligation.
 
 (a) the renewable transport fuel obligation relating to the obligated party for that period,
 
-(b) the advanced biofuel obligation relating to the obligated party for that period
+(b) the advanced biofuel and renewable fuels of non-biological origin obligation relating to the obligated party for that period
 
-(c) the renewable transport fuel obligation certificates (if any) held against the renewable transport fuel obligation account concerning (a) and (b) above which may be counted towards the discharge of the renewable transport fuel obligation, and advanced biofuel obligation respectively for that period.
+(c) the renewable transport fuel obligation certificates (if any) held against the renewable transport fuel obligation account concerning (a) and (b) above which may be counted towards the discharge of the renewable transport fuel obligation, and advanced biofuel and renewable fuels of non-biological origin obligation respectively for that period.
 
 (d) the renewable transport fuel obligation certificates (if any) held that may be counted towards the contributions specified in 44C(4)(b) and (c).
 
@@ -28,6 +28,6 @@ Compliance with renewable transport fuel obligation.
 
 (d) for obligation periods beginning on or after 1 January 2023, the Minister may also make regulations to specify a percentage (lower than 15 per cent) amount of certificates which may be counted against that obligation period, when considering the amount of buyout price for discharge of the obligations by payment under Section 44J (5) under this Part.
 
-(e) for the purpose of this section, certificates in respect of the advanced biofuel obligation are not interchangeable with certificates in respect of the renewable transport fuel obligation.
+(e) for the purpose of this section, certificates in respect of the advanced biofuel and renewable fuels of non-biological origin obligation are not interchangeable with certificates in respect of the renewable transport fuel obligation.
 
 (7) A renewable transport fuel obligation certificate held to the credit of a renewable transport fuel obligation account may not be counted towards the discharge of the renewable transport fuel obligation notified under subsection (1) in respect of any obligation period which is prior to the period of validity of the certificate concerned.
