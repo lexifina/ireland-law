@@ -1,6 +1,6 @@
 Property adapted for use by disabled persons.
 
-15A.—(1) Subject to subsections (2) to (5), where a relevant residential property has been adapted for the purposes of rendering it more suitable for the accommodation of a person who has a disability (within the meaning of section 2 of the Disability Act 2005), section 16(1) shall apply as if the reference in that provision to the chargeable value of a property were a reference to the chargeable value of the property as reduced by €50,000.
+15A.—(1) Subject to subsections (2) to (5), where a relevant residential property has been adapted for the purposes of rendering it more suitable for the accommodation of a person who has a disability (within the meaning of section 2 of the Disability Act 2005), section 16(1) shall apply as if the reference in that provision to the chargeable value of a property were a reference to the chargeable value of the property as reduced by €105,000.
 
 (2) Subsection (1) shall not apply unless—
 
@@ -20,7 +20,7 @@ Property adapted for use by disabled persons.
 
 (c) the liable person in relation to the adapted property notifies the Revenue Commissioners in writing of the amount of the chargeable value attributable to the adaptation and submits any relevant documentation, including, where such a grant was paid, that relating to the payment of a grant under the Regulations referred to in paragraph (a).
 
-(3) The maximum amount by which the chargeable value of a relevant residential property may be reduced for the purposes of subsection (1) shall be €50,000.
+(3) The maximum amount by which the chargeable value of a relevant residential property may be reduced for the purposes of subsection (1) shall be €105,000.
 
 (4) The increase in the chargeable value of the relevant residential property as a result of the adaptation referred to in subsection (1) shall be established on completion of that adaptation.
 
@@ -28,7 +28,7 @@ Property adapted for use by disabled persons.
 
 (b) For the purpose of an application under paragraph (a), the Revenue Commissioners may specify the form of an application, and may require that the following information is provided to them:
 
-(i) details ofthe residential property;
+(i) details of the residential property;
 
 (ii) a description of the adaptation referred to in subsection (1);
 
