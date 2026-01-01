@@ -6,7 +6,11 @@ PART 1
 
 ENACTMENTS
 
-Chapter, Number and Year Title (1) (1) 45 & 46 Vict., c. 22 Boiler Explosions Act 1882
+Chapter, Number and Year Title
+
+(1) (1)
+
+45 & 46 Vict., c. 22 Boiler Explosions Act 1882
 
 53 & 54 Vict., c. 35 Boiler Explosions Act 1890
 

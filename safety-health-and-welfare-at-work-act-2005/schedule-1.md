@@ -2,19 +2,19 @@ SCHEDULE 1
 
 ASSOCIATED STATUTORY PROVISIONS
 
-Chapter, Number Short Title Associated Statutory and Year (2) Provisions (1) (3)
+Chapter, Number and Short Title Associated Statutory Year (2) Provisions (1) (3)
 
 5 & 6 Vict., c. 55 Regulation of Railways Act 1842 The whole Act
 
-34 & 35 Vict., c. Regulation of Railways Act 1871 The whole Act 78
+34 & 35 Vict., c. 78 Regulation of Railways Act 1871 The whole Act
 
-38 & 39 Vict., c. Explosives Act 1875 The whole Act 17
+38 & 39 Vict., c. 17 Explosives Act 1875 The whole Act
 
 Merchant Shipping Acts 1894 to 2000 The whole Acts
 
 1894 c. 28 Notice of Accidents Act 1894 The whole Act
 
-1900 c. 27 Railway Employment (Prevention of Accidents) Act The whole Act 1900
+1900 c. 27 Railway Employment (Prevention of Accidents) Act 1900 The whole Act
 
 Electricity (Supply) Acts 1927 to 2004 The whole Acts
 
