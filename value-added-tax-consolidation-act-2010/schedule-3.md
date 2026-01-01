@@ -128,7 +128,9 @@ Certain electronically supplied matter
 
 (e) children’s picture, drawing or colouring books, or
 
-(f) music printed or in manuscript form, but excluding the supply of any such material which is wholly or predominantly devoted to advertising or consists wholly or predominantly of audible music or video content. Shows, exhibitions, cultural facilities, etc.
+(f) music printed or in manuscript form, but excluding the supply of any such material which is wholly or predominantly devoted to advertising or consists wholly or predominantly of audible music or video content.
+
+Shows, exhibitions, cultural facilities, etc.
 
 8. (1) Promotion of, and admission to, showings of cinematographic films.
 
@@ -150,9 +152,29 @@ Certain electronically supplied matter
 
 Private dwellings.
 
-9. (1) Services consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, other than the supply and installation of solar panels as specified in paragraph 14 of Schedule 2, or the supply and installation of low emissions heat pump heating systems as specified in paragraph 12A,where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+9. (1) Services (not being services referred to in paragraph 9B(3)) consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, other than the supply and installation of solar panels as specified in paragraph 14 of Schedule 2, or the supply and installation of low emissions heat pump heating systems as specified in paragraph 12A, where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
 (2) Services consisting of the routine cleaning of private dwellings.
+
+Housing as part of a social policy.
+
+9A. The supply of housing, as part of a social policy, being the supply of an apartment, used or to be used for residential purposes, in an apartment block within the meaning of section 31E of the Stamp Duties Consolidation Act 1999.
+
+Supply and construction of housing as part of a social policy.
+
+9B. (1) In this paragraph—
+
+"apartment block" means a multi-storey building that comprises, or will comprise, not less than 3 apartments with grouped or common access;
+
+"completed" has the same meaning as it has in section 94.
+
+(2) The supply of immovable goods, as part of a social policy, which are or, when completed, will be—
+
+(a) one or more than one apartment, used or to be used for residential purposes, in an apartment block, or
+
+(b) an apartment block, used or to be used for residential purposes, but excluding any part of the apartment block that is not used or to be used for residential purposes.
+
+(3) Services consisting of the development, until completed, of immovable goods to which subparagraph (2) applies.
 
 Agricultural goods and services.
 
@@ -170,29 +192,27 @@ Agricultural goods and services.
 
 (2) Animal insemination services other than the services specified in subparagraphs (4) and (5) of paragraph 13B.
 
-(3) The supply of livestock semen. Hotel, holiday accommodation.
+(3) The supply of livestock semen.
 
-11. Subject to regulations, if any—
+Hotel, holiday accommodation.
 
-(a) letting immovable goods (other than in the course of the provision of facilities of a kind specified in paragraph 12), where those goods consist of a room in a hotel or guesthouse, or
+11. Subject to regulations, if any, the letting of immovable goods where the letting consists of the provision of holiday or guest accommodation in—
 
-(b) the provision of holiday or guest accommodation in—
+(a) a hotel,
 
-(i) a hotel,
+(b) a guesthouse,
 
-(ii) a guesthouse,
+(c) all or part of a house,
 
-(iii) all or part of a house,
+(d) all or part of an apartment, or
 
-(iv) all or part of an apartment, or
-
-(v) another establishment, including the letting of a place in a caravan park or camping site.
+(e) another establishment, including the letting of a place in a caravan park or camping site.
 
 Sporting facilities.
 
 12. (1) The provision of facilities for taking part in sporting activities including golf or physical education activities, and closely related activities, by an entity other than a non-profit making organisation, the State or a public body.
 
-(1A) The provision of facilities for taking part in sporting activities including golf or physical education activities, and closely related activities, by the State or a public body, where the total consideration received by such entity for providing those facilities exceeds, or is likely to exceed, the services threshold during any continuous period of 12 months.
+(1A) The provision of facilities for taking part in sporting activities including golf or physical education activities, and closely related activities, by the State or a public body, where the total annual turnover for providing those facilities exceeds, in the current calendar year or the previous calendar year, the services threshold.
 
 (2) ...
 
@@ -254,7 +274,7 @@ CERTAIN SUPPLIES WITH REDUCED RATE: PARTICULAR PROVISIONS IN ACCORDANCE WITH ART
 
 Housing.
 
-14. The supply of immovable goods used or to be used for residential purposes.
+14. The supply of immovable goods used or to be used for residential purposes, other than immovable goods to which paragraph 9A or 9B(2), as the case may be, applies.
 
 PART 4
 
@@ -264,7 +284,7 @@ Non-residential immovable goods.
 
 15. (1) The supply of immovable goods, other than immovable goods used or to be used for residential purposes.
 
-(2) Services consisting of the development of immovable goods (not being goods referred to in paragraph 9(1)) and work on those goods (including the installation of fixtures), other than the supply and installation of low emissions heat pump heating systems as specified in paragraph 12A, where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+(2) Services consisting of the development of immovable goods (not being goods referred to in paragraph 9(1) or 9B(3)) and work on those goods (including the installation of fixtures), other than the supply and installation of low emissions heat pump heating systems as specified in paragraph 12A, where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
 (3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in paragraph 9(2)).
 
@@ -272,7 +292,7 @@ Concrete works.
 
 16. (1) The supply of concrete that is ready to pour, but excluding the margin scheme supply of the concrete.
 
-(2) The supply of blocks of concrete of a kind that comply with the specification contained in the Irish Standard I.S. EN 771-3: 2011 Specification for masonry units - Part 3: Aggregate concrete masonry units (dense and lightweight aggregates), but excluding the margin scheme supply of those blocks.
+(2) The supply of blocks of concrete of a kind that comply with the specification contained in the Irish Standard I.S. EN 771-3: 2011+A1:2015 Specification for masonry units – Part 3: Aggregate concrete masonry units (dense and lightweight aggregates), but excluding the margin scheme supply of those blocks.
 
 Energy products and supplies.
 
