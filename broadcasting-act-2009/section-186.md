@@ -8,9 +8,9 @@ Interpretation (Part 15).
 
 “certification conditions” means the conditions specified in Article 21(3);
 
-“designation conditions” means a person certified under section 193(3)(a);
+“designation conditions” means the conditions specified in Article 40(8);
 
-“out-of-court dispute settlement body” means the conditions specified in Article 21(3);
+“out-of-court dispute settlement body” means a person certified under section 193(3)(a);
 
 “vetted researcher” means a person designated as a vetted researcher under section 187(5)(a).
 

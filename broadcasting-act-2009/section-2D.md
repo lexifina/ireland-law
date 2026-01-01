@@ -6,8 +6,6 @@ Procedure for giving notices.
 
 (b) by leaving it addressed to the person at a relevant address;
 
-OJ No. L. 241, 17.9.2015
-
 (c) by sending it, addressed to the person, to a relevant address by pre-paid registered post or other pre-paid recorded delivery service;
 
 (d) by sending it to the person by electronic means in accordance with subsection (5).

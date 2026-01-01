@@ -106,24 +106,10 @@ TABLE
 
 ## Part 1 Independent programmes account
 
-Financial year Amount of monies to be paid by RTÉ into the (1) (2)
-
-2009
-
-Each subsequent financial year The appropriate amount
+Financial year Amount of monies to be paid by RTÉ into the (1) (2) 2009 Each subsequent financial year The appropriate amount
 
 ## Part 2 Independent sound broadcasting programmes
 
-Financial year Minimum percentage of monies paid into account to be expended by RTÉ on independent (1)
+Financial year Minimum percentage of monies paid into account to be expended by RTÉ on independent sound (1)
 
-(2)
-
-2009 1.25 per cent
-
-2010 1.50 per cent
-
-2011 2.00 per cent
-
-2012 2.50 per cent
-
-Each subsequent financial year 3.00 per cent
+(2) 2009 1.25 per cent 2010 1.50 per cent 2011 2.00 per cent 2012 2.50 per cent Each subsequent financial year 3.00 per cent
