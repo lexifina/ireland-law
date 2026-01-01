@@ -168,11 +168,7 @@ Regulations.
 
 (11) As regards Part 11, regulations may provide for—
 
-(a) the following:
-
-(i) the manner in which exemption in respect of certain services may be waived under section 7 of the repealed enactment and any such waiver may be cancelled under section 96(3); and
-
-(ii) the adjustments (including a charge of tax) which may be made as a condition of any such cancellation,
+(a) ...
 
 (b) the valuation of interests in or over immovable goods,
 
@@ -224,11 +220,7 @@ Regulations.
 
 (15) As regards Schedule 3 or 5, regulations may provide for—
 
-(a) the circumstances, terms and conditions under which (for the purposes of paragraph 11 of Schedule 3)—
-
-(i) a letting of immovable goods constitutes a letting in the guest sector or holiday sector, or
-
-(ii) accommodation constitutes guest accommodation or holiday accommodation,
+(a) the circumstances, terms and conditions under which (for the purposes of paragraph 11 of Schedule 3) a letting of immovable goods consists of the provision of holiday or guest accommodation,
 
 (b) the particulars to be furnished in relation to antiques as specified in paragraph 24 of Schedule 3 or paragraph 3 of Schedule 5.
 
