@@ -30,7 +30,7 @@ Definitions for Part 5A.
 
 "crop cap" has the meaning assigned by section 44C;
 
-"Directive" means Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources;
+"Directive" means Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources, as amended by Commission Delegated Regulation (EU) 2022/759, Directive (EU) 2023/2413, Directive (EU) 2024/1405 and Directive (EU) 2024/1711;
 
 "expenses" has the meaning assigned by section 36;
 
@@ -54,6 +54,8 @@ Definitions for Part 5A.
 
 "petroleum products" has the meaning assigned by section 36;
 
+"recharging point" and "recharging station" have the same meanings, respectively, as they have in Regulation (EU) 2023/1804 of the European Parliament and of the Council of 13 September 2023 on the deployment of alternative fuels infrastructure;
+
 "Recycled carbon fuels" means liquid and gaseous fuels that are produced from liquid or solid waste or solid waste streams of non-renewable origin which are not suitable for material recovery in accordance with Article 4 of Directive 2008/98/EC, or from waste processing gas and exhaust gas of non-renewable origin which are produced as an unavoidable and unintentional consequence of the production process in industrial installations;
 
 ...
@@ -70,9 +72,11 @@ Definitions for Part 5A.
 
 "Renewable Energy Regulations" means the European Union (Renewable Energy) Regulations (2) 2022 (S.I. No. 350 of 2022)
 
-"renewable liquid and gaseous transport fuels of non-biological origin" means liquid or gaseous fuels which are used in the transport sector other than biofuels or biogas, the energy content of which is derived from renewable sources other than biomass;
+"renewable fuels of non-biological origin" means liquid and gaseous fuels used in the transport sector, the energy content of which is derived from renewable sources other than biomass.
 
-"renewable transport fuel" means liquid or gaseous fuel (including biofuels, biogas, recycled carbon fuels, advanced biofuels and renewable liquid and gaseous transport fuel of non-biological origin) used in the transport sector;
+...
+
+"renewable transport fuel" means liquid or gaseous fuel (including biofuels, biogas, recycled carbon fuels, advanced biofuels and renewable fuels of non-biological origin) used in the transport sector.
 
 "renewable transport fuel levy assessment notice" means a notice given under section 44Q;
 
