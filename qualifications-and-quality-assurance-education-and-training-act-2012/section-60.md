@@ -42,6 +42,6 @@ Code of Practice for provision of programme to international learners.
 
 (c) requirements in relation to the tax compliance of a provider, and
 
-(d) the establishment of policies and procedures in writing by a provider for the purposes of the management of human resources, including policies and procedures for the recruitment, training , continuing professional development, employment and cessation of employment of education and teaching staff.
+(d) the establishment of policies and procedures in writing by a provider for the purposes of the management of human resources, including policies and procedures for the recruitment, training, continuing professional development, employment and cessation of employment of education and teaching staff.
 
 (7) In specifying, under subsection (6), requirements relating to the matters referred to in paragraph (d) of that subsection, the Authority shall consult, in such manner as it thinks fit, with such person or persons, who represent education and training staff of providers, as it considers appropriate.

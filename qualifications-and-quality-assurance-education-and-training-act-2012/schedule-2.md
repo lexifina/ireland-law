@@ -4,11 +4,7 @@ PART 1
 
 ACTS REPEALED
 
-Short title Extent of repeal (1) (2)
-
-Universities Act 1997 Section 35
-
-Qualifications (Education and Training) Act 1999 The whole Act.
+Short title Extent of repeal (1) (2) Universities Act 1997 Section 35 Qualifications (Education and Training) Act 1999 The whole Act.
 
 PART 2
 
