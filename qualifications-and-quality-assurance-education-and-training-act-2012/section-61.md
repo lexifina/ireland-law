@@ -51,3 +51,19 @@ International education mark.
 (b) provide to the Authority such information as the Authority may from time to time require for the purposes of the performance of its functions in relation to the code of practice and the international education mark, and
 
 (c) comply with section 65(1).
+
+(10) The Authority shall authorise the use of the international education mark by a provider under the seal of the Authority.
+
+(11) The Authority shall be the proprietor of the international education mark and shall have sole power to authorise the use of the international education mark.
+
+(12) Where the Authority refuses to authorise the use by a provider of the international education mark, the provider concerned may appeal against that refusal to the Appeals Panel.
+
+(13) A provider who—
+
+(a) uses the international education mark without the authorisation of the Authority, or
+
+(b) falsely claims or represents that the Authority has authorised the use by the provider of the international education mark, commits an offence.
+
+(14) In any proceedings a certificate bearing the seal of the Authority stating that the register shows that on the date or during the period specified in the certificate a provider identified by the certificate was not entered in the register as being authorised to use the international education mark, is admissible as evidence of the fact that the provider was not authorised to use the international education mark by the Authority on the date or during the specified period.
+
+(15) A document purporting to be a certificate under subsection (14) shall be taken to be such a certificate, unless the contrary is shown.
