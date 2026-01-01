@@ -20,7 +20,7 @@ The Health Insurance Authority
 
 8. Subject to the provisions of this Schedule, each ordinary member of the Authority shall hold office on such terms and conditions as the Minister may determine.
 
-9. (1) The term of office of the chairman of the Authority shall be 5 years.
+9. (1) The term of office of the chairman of the Authority shall not exceed 5 years.
 
 (2) The term of office of an ordinary member of the Authority shall be such period not exceeding 5 years as the Minister may, with the consent of the Minister for Finance, determine when appointing him or her.
 
