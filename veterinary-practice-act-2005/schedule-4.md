@@ -48,7 +48,9 @@ Membership
 
 (h) is disqualified or restricted from being a director of a company.
 
-Chairperson of Education Committee 8. (a) The Education Committee shall from time to time elect from among its members a chairperson.
+Chairperson of Education Committee
+
+8. (a) The Education Committee shall from time to time elect from among its members a chairperson.
 
 (b) The Education Committee shall from time to time elect from among its members a deputy chairperson.
 

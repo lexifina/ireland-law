@@ -18,6 +18,10 @@ ENACTMENTS REVOKED
 
 Number and Year Citation Extent of Revocation 1 2 3
 
-S.I. No. 288 of 2003 The whole Regulations European Communities (Recognition of Qualifications in Veterinary Medicine) Regulations 2003
+S.I. No. 288 of 2003 The whole Regulations
 
-S.I. No. 265 of 2004 The whole Regulations European Communities (Recognition of Qualifications in Veterinary Medicine) Regulations 2004
+European Communities (Recognition of Qualifications in Veterinary Medicine) Regulations 2003
+
+S.I. No. 265 of 2004 The whole Regulations
+
+European Communities (Recognition of Qualifications in Veterinary Medicine) Regulations 2004

@@ -30,9 +30,7 @@ Removal or suspension from relevant register or conditions attaching to registra
 
 (c) any other order that it considers appropriate.
 
-(5) Where the registered person to whom the decision relates has made no application under subsection (3) within 21 days of the notification under subsection
-
-(2), the High Court may, on an application to it in a summary manner by the Council make—
+(5) Where the registered person to whom the decision relates has made no application under subsection (3) within 21 days of the notification under subsection (2), the High Court may, on an application to it in a summary manner by the Council make—
 
 (a) an order confirming or setting aside the making of the decision concerned,
 
