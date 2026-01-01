@@ -10,7 +10,7 @@ Number and Year Short title Provision
 
 ... ... ...
 
-No. 25 of 1991 Payment of Wages Act Section 5 1991
+No. 25 of 1991 Payment of Wages Act 1991 Section 5
 
 No. 34 of 1994 Maternity Protection Act Section 18 1994
 
@@ -22,4 +22,4 @@ No. 19 of 2001 Carer’s Leave Act 2001 Section 13(2)
 
 No. 13 of 2012 Protection of Employees Section 14 (Temporary Agency Work) Act 2012
 
-No. 14 of Protected Disclosures Section 6(3) 2014 Act 2014
+No. 14 of 2014 Protected Disclosures Act Section 6(3) 2014

@@ -14,7 +14,7 @@ Powers of inspectors
 
 (d) require any person at the place of work or premises concerned, including the owner or person in charge of that place or premises, to give the inspector such information and assistance as the inspector may reasonably require for the purposes of his or her functions under this Act,
 
-(e) require any person at the place of work or premises concerned, including the owner or person in charge of that place or premises, to produce to the inspector such books, documents or other records (and in the case of documents or records stored in non-legible form, a legible reproduction thereof ) that are in that person’s possession or procurement, or under that person’s control, as he or she may reasonably require for the purposes of his or her functions under this Act,
+(e) require any person at the place of work or premises concerned, including the owner or person in charge of that place or premises, to produce to the inspector such books, documents or other records (and in the case of documents or records stored in non-legible form, a legible reproduction thereof) that are in that person’s possession or procurement, or under that person’s control, as he or she may reasonably require for the purposes of his or her functions under this Act,
 
 (f) require any person, whom the inspector has reasonable grounds for believing to be, or to have been, an employer or employee, to answer such questions as the inspector may ask relative to any matter under this Act or a relevant enactment and to make a declaration of the truth of the answers to those questions, and
 
