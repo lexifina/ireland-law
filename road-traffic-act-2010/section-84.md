@@ -4,14 +4,6 @@ Amendment of section 15 of Act of 1968 — increase in certain penalties.
 
 “TABLE
 
-Where the excess weight is not less than 1,000 kilograms but is less than 2,000 kilograms
-
-Where the excess weight is not less than 2,000 kilograms but is less than 3,000 kilograms
-
-Where the excess weight is not less than 3,000 kilograms but is less than 4,000 kilograms
-
-Where the excess weight is not less than 4,000 kilograms but is less than 5,000 kilograms
-
-Where the excess weight is 5,000 kilograms or more
+Where the excess weight is not less than 1,000 kilograms but is less than 2,000 kilograms Where the excess weight is not less than 2,000 kilograms but is less than 3,000 kilograms Where the excess weight is not less than 3,000 kilograms but is less than 4,000 kilograms Where the excess weight is not less than 4,000 kilograms but is less than 5,000 kilograms Where the excess weight is 5,000 kilograms or more
 
 ”.
