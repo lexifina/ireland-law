@@ -1,18 +1,16 @@
 Discharge of renewable transport fuel obligation or advanced biofuel obligation by payment.
 
-44J.— (1) Where the renewable transport fuel obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the "buy-out charge") calculated in accordance with the formula—
+44J.— (1) Where the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the "buy-out charge") calculated in accordance with the formula—
 
-X x Y where—
-
-X is the amount of the renewable transport fuel obligation notified under section 44I(1) which remains undischarged, and
+X x Y where— X is the amount of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under section 44I(1) which remains undischarged, and
 
 Y is the price per megajoule of renewable transport fuel prescribed in accordance with this section (in this section referred to as the "buy-out price").
 
 (2) For the purposes of subsection (1), the Agency shall give a notice in such form as the Agency determines to the obligated party concerned within 14 days after the end of the period specified in section 44I(3), stating—
 
-(a) the amount of the renewable transport fuel obligation notified under section 44I(1) which remains undischarged, whether in whole or in part,
+(a) the amount of the renewable transport fuel obligation or advanced biofuel and-renewable fuels of non-biological origin obligation notified under section 44I(1) which remains undischarged, whether in whole or in part,
 
-(b) the amount of the buy-out charge in respect of the amount of the renewable transport fuel obligation which remains undischarged,
+(b) the amount of the buy-out charge in respect of the amount of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation which remains undischarged,
 
 (c) the date by which the buy-out charge is to be paid, which date shall not be less than 14 days from the date of the notice, and
 
@@ -30,13 +28,13 @@ Y is the price per megajoule of renewable transport fuel prescribed in accordanc
 
 (ii) the wholesale availability and market prices for renewable transport fuel, and
 
-(iii) the level of the buy-out price required in order for the renewable transport fuel obligation or advanced biofuel obligation to operate effectively;
+(iii) the level of the buy-out price required in order for the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation to operate effectively;
 
 (b) subject to section 44V, the rate of interest on amounts of buy-out charge not paid when due;
 
 (c) the amount of the late discharge fee ,
 
-(d) the provisions and conditions specified in subsection (5) of this section, concerning a buy-out price relating to the renewable transport fuel obligation, and a separate amount of buy-out price with respect to the advanced biofuel obligation.
+(d) the provisions and conditions specified in subsection (5) of this section, concerning a buy-out price relating to the renewable transport fuel obligation, and a separate amount of buy-out price with respect to the advanced biofuel and renewable fuels of non-biological origin obligation.
 
 (6) Any moneys received by the Agency under this section shall be paid to the Exchequer.
 
