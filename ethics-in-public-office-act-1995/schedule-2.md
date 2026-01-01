@@ -78,13 +78,11 @@ Local Government Act, 1941 1941, No. 23
 
 Oireachtas (Allowances to Members) Act, 1938 1938, No. 34
 
-Oireachtas (Allowances to Members) and Ministerial 1992, No. 3 and Parliamentary Offices (Amendment) Act, 1992
+Oireachtas (Allowances to Members) and Ministerial and 1992, No. 3 Parliamentary Offices (Amendment) Act, 1992
 
 Public Bodies Corrupt Practices Act, 1889 1889, c. 69
 
-Prevention of Corruption Act, 1906 1906, c. 34
-
-Prevention of Corruption Act, 1916 1916, c. 64
+Prevention of Corruption Act, 1906 1906, c. 34 Prevention of Corruption Act, 1916 1916, c. 64
 
 Prevention of Corruption Acts, 1889 to 1916
 
