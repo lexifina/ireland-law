@@ -10,6 +10,8 @@ Renewable transport fuel obligation certificates.
 
 (1A) The Minister may make regulations setting out the amount of certificates applicable under 44G(1) to certain other renewable transport fuels which the Minister may specify, according to a hierarchy of use, which the Minister may from time to time review and amend.
 
+(1AA) The Agency shall, on application to it by a renewable transport fuel obligation account holder, subject to compliance with this section and any regulations made under it, in respect of each megajoule of renewable electricity supplied at publicly accessible recharging stations in the State by the renewable transport fuel account holder who is the operator of the recharging point, issue 4 certificates to that account holder,
+
 (1B) (a) The Minister for Transport may, from time to time, make regulations providing for the Agency to issue, in accordance with this section and notwithstanding subsection (1), on such terms and conditions as the Minister for Transport may specify, additional certificates in respect of renewable transport fuel.
 
 (b) Without prejudice to the generality of paragraph (a), regulations under that paragraph may:
