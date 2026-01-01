@@ -1,6 +1,6 @@
 ## PART VIIA SUPERVISION OF EARLY YEARS SERVICES
 
-F332[Definitions for this part
+F387[Definitions for this part
 
 58A.—In this Part—
 
@@ -16,6 +16,8 @@ F332[Definitions for this part
 
 (b) is provided to children (other than that individual’s own children) for a total period of not less than 2 hours per day;
 
+"closure order" has the meaning assigned to it by section 58JD(1);
+
 "competitive sport" has the same meaning as it has in the Irish Sports Council Act 1999;
 
 "early years service" means a service providing—
@@ -25,6 +27,14 @@ F332[Definitions for this part
 (b) a school age service, or
 
 (c) a childminding service;
+
+"immediate action notice" has the meaning assigned to it by section 58JB(1);
+
+"immediate action order" has the meaning assigned to it by section 58JB(6);
+
+"improvement notice" has the meaning assigned to it by section 58JA(1);
+
+"improvement order" has the meaning assigned to it by section 58JA(6);
 
 "premises" means any premises, or part thereof, where an early years service is provided or is proposed to be provided, including the area immediately surrounding, or adjacent to, such premises which is used in conjunction with such premises, other than any part of that area that is a public place;
 
@@ -39,6 +49,8 @@ F332[Definitions for this part
 "register" means the register established and maintained in accordance with section 58C;
 
 "registered provider" has the meaning assigned to it by section 58C(2);
+
+"relevant person" has the meaning assigned to it by section 58JD(1)(b);
 
 "school" has the same meaning as it has in the Education Act 1998;
 
@@ -65,5 +77,7 @@ F332[Definitions for this part
 (V) religious teaching, or
 
 (ii) for whom statutory provision for inspection exists, prior to the commencement of this section;
+
+"temporary prohibition order" has the meaning assigned to it by section 58JC(1);
 
 "youth work" has the same meaning as it has in the Youth Work Act 2001.
