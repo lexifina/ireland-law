@@ -74,9 +74,11 @@ Presentation of complaints and referral of disputes
 
 (g) in the case of a dispute relating to the entitlement of an employee under the Parent’s Leave and Benefit Act 2019, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute,
 
+(ga) in the case of a dispute relating to sections 127 and 128 of the Automatic Enrolment Retirement Savings Act 2024, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
+
 (h) in the case of a dispute relating to the entitlement of an employee under the Sick Leave Act 2022, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute, and
 
-(i) in the case of a dispute relating to the entitlement of an employee or the obligation of the employer, as the case may be, under Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
+(i) in the case of a dispute relating to the entitlement of an employee or the obligation of the employer, as the case may be, under Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute, and
 
 (8) An adjudication officer may entertain a complaint or dispute to which this section applies presented or referred to the Director General after the expiration of the period referred to in subsection (6) or (7) (but not later than 6 months after such expiration), as the case may be, if he or she is satisfied that the failure to present the complaint or refer the dispute within that period was due to reasonable cause.
 
