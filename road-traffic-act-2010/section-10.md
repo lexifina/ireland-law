@@ -34,7 +34,7 @@ Mandatory alcohol testing.
 
 (6) A person who—
 
-(a) refuses or fails to comply immediately with a requirement under subsection (4) (other than subsection (4)(d)(ii)) or (4A) or such a requirement in a manner indicated by a member of the Garda Síochána under subsection (5), or
+(a) subject to section 22(1B), refuses or fails to comply immediately with a requirement under subsection (4) (other than subsection (4)(d)(ii)) or (4A) or such a requirement in a manner indicated by a member of the Garda Síochána under subsection (5), or
 
 (b) without reasonable excuse, refuses or fails to comply immediately with a requirement under subsection (4)(d)(ii) or such a requirement in a manner indicated by a member of the Garda Síochána under subsection (5), commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
 

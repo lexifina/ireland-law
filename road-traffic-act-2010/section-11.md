@@ -24,7 +24,7 @@ Preliminary impairment testing.
 
 (f) a form on which the observations made and inferences drawn in the course of such a test may be recorded and by which impairment may be assessed.
 
-(5) A person who, without reasonable excuse, fails to comply with a requirement under subsection (1) or (2) commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months, or to both.
+(5) A person who ... fails to comply with a requirement under subsection (1) or (2) commits an offence and is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months, or to both.
 
 (6) A member of the Garda Síochána may arrest without warrant a person who in the member’s opinion is committing or has committed an offence under this section consisting of failing to comply with a requirement under subsection (1).
 
