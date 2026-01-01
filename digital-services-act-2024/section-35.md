@@ -4,7 +4,7 @@ Insertion of Chapter 4A into Part 8B of Principal Act
 
 “CHAPTER 4A
 
-Daily payment penalty under section 139ZLA: appeal and confirmation
+## Daily payment penalty under section 139ZLA: appeal and confirmation
 
 Daily payment penalty under section 139ZLA: appeal and confirmation
 

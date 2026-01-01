@@ -4,7 +4,7 @@ Access blocking order where Digital Services Regulation infringed
 
 “CHAPTER 6A
 
-Access blocking order where Digital Services Regulation infringed
+## Access blocking order where Digital Services Regulation infringed
 
 Further notice to end infringement of Digital Services Regulation
 

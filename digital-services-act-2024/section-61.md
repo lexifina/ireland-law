@@ -28,9 +28,7 @@ Action by Commission after receiving report
 
 (b) a notice in writing stating that the inquiry subject may make submissions in writing to the Commission on the information within the period of 20 working days from the date the inquiry subject receives the notice, or such further period as the Commission may allow.
 
-(7) Where, after the authorised officer has complied with subsections (6) and (7) of section
-
-55, the European Commission under Article 59(3) communicates its views and requests the matter to be reviewed, the Commission—
+(7) Where, after the authorised officer has complied with subsections (6) and (7) of section 55, the European Commission under Article 59(3) communicates its views and requests the matter to be reviewed, the Commission—
 
 (a) shall give the inquiry subject notice in writing of those views and the request, and
 
