@@ -1,4 +1,4 @@
-F173[Notice of private foster care arrangement.
+F203[Notice of private foster care arrangement.
 
 23P.—(1) A person arranging or undertaking a private foster care arrangement shall give notice to the Child and Family Agency in the manner specified in section 23Q not less than thirty days before the placement.
 

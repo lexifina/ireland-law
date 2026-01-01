@@ -1,4 +1,4 @@
-F108[Criminal proceedings and provision of special care.
+F116[Criminal proceedings and provision of special care.
 
 23D.—(1) Where a child is charged with an offence and the proceedings in respect of that charge have not been determined, subject to subsection (6) and section 23E, nothing in this Act shall be construed as preventing the Child and Family Agency from providing special care to such child in accordance with a special care order or an interim special care order.
 

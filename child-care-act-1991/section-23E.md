@@ -1,4 +1,4 @@
-F110[Custodial sentence, deferred children detention order, Children Act order and provision of special care.
+F119[Custodial sentence, deferred children detention order, Children Act order and provision of special care.
 
 23E.—(1) Subject to subsections (7), (9) and (10), nothing in this Act shall be construed as preventing the Child and Family Agency from providing special care, in accordance with a special care order or an interim special care order, to a child who has been found guilty, or convicted, of a criminal offence and where, following such conviction—
 

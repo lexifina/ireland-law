@@ -1,4 +1,4 @@
-F120[Review of special care order.
+F133[Review of special care order.
 
 23I.—(1) The High Court shall carry out a review referred to in subsection (4) in each 4 week period for which a special care order has effect and the High Court shall, when making the special care order, or extending it pursuant to an application under section 23J, specify the date or dates for such review.
 

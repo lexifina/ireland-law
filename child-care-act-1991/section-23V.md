@@ -1,4 +1,4 @@
-F189[Restrictions on private foster care arrangements in certain cases.
+F220[Restrictions on private foster care arrangements in certain cases.
 
 23V.—A person shall not arrange or undertake a private foster care arrangement for the purpose of adopting a child under an adoption order within the meaning of section 3(1) of the Adoption Act 2010 or an intercountry adoption effected outside the State recognised by that Act.
 

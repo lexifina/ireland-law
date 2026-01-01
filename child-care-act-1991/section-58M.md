@@ -1,4 +1,4 @@
-F378[Transitional provisions (Part VIIA)
+F433[Transitional provisions (Part VIIA)
 
 58M.—(1) Notwithstanding the repeal of the relevant exemptions by section 22 of the Act of 2024, this Part shall, subject to subsection (2), continue to apply for the duration of the transitional period as if the relevant exemptions had not been repealed, to—
 

@@ -1,3 +1,3 @@
-Supervision of pre-school services.
+Supervision of preschool services.
 
 53.—...

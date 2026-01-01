@@ -34,7 +34,9 @@ Interpretation.
 
 "Minister" means the Minister for Children and Youth Affairs.
 
-“parents” includes a surviving parent and, in the case of a child who has been adopted under the Adoption Acts, 1952 to 1988, or, where the child has been adopted outside the State, whose adoption is recognised by virtue of the law for the time being in force in the State, means the adopter or adopters or the surviving adopter;
+“parents” includes a surviving parent and, in the case of a child who has been adopted under the Adoption Acts, 1952 to 1988, or, where the child has been adopted outside the State, whose
+
+O.J. No. L. 119, 4.5.2016, p. 1 adoption is recognised by virtue of the law for the time being in force in the State, means the adopter or adopters or the surviving adopter;
 
 "personal data" has the same meaning as it has in the Data Protection Regulation;
 
@@ -48,11 +50,7 @@ Interpretation.
 
 "special care unit" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011).
 
-(1A) (a) Where prior to the coming into operation of section 82 of the Child and Family Agency Act 2013 a person was in the care of the Health Service Executive in accordance with this Act for any period of time in the 5 year period immediately prior to the person attaining the age of 18 years, that period of time shall be considered as time spent in the care of the Child and
-
-O.J. No. L. 119, 4.5.2016, p. 1
-
-Family Agency for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
+(1A) (a) Where prior to the coming into operation of section 82 of the Child and Family Agency Act 2013 a person was in the care of the Health Service Executive in accordance with this Act for any period of time in the 5 year period immediately prior to the person attaining the age of 18 years, that period of time shall be considered as time spent in the care of the Child and Family Agency for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
 
 (b) Where a person was in the care of the Child and Family Agency for a period (including a period referred to in paragraph (a)) of less than 12 months in the 5 year period immediately prior to the person attaining the age of 18 years, a period of time spent by that person in accommodation made available by the Agency, or by the Health Service Executive prior to the coming into operation of section 82 of the Child and Family Agency Act 2013, under section 5 in the 5 year period immediately prior to the person attaining the age of 18 years shall be reckonable for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
 

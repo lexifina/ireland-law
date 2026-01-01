@@ -32,6 +32,8 @@ No. 25 of 1952. Adoption Act, 1952. Section 31 (2).
 
 No. 26 of 1953. Health Act, 1953. Sections 55, 56, 57 and 65 (2).
 
-No. 28 of 1957. Children (Amendment) Sections 2, 3 and 10. Act, 1957.
+No. 28 of 1957. Children (Amendment) Act, Sections 2, 3 and 10.
+
+1957.
 
 No. 2 of 1964. Adoption Act, 1964. Section 10.
