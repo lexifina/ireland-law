@@ -106,7 +106,9 @@ Interpretation
 
 (m) the Employment Appeals Tribunal,
 
-(n) the Health Information and Quality Authority, or
+(n) the Health Information and Quality Authority,
+
+(na) An tÚdarás Náisiúnta um Uathrollú Coigiltis Scoir, or
 
 (o) any other person charged by law with the detection, investigation or prosecution of offences;
 
