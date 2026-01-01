@@ -6,9 +6,7 @@ NON-APPLICATION OF SECTION 2(4A) TO CERTAIN PROVISIONS OF ACT
 
 PART 1
 
-Section 33
-
-Section 34
+Section 33 Section 34
 
 Section 35
 

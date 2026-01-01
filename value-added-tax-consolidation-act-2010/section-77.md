@@ -50,7 +50,7 @@ Authorisations in relation to filing dates.
 
 (b) without prejudice to the generality of paragraph (a), require an authorised person to remit to the Collector-General, within 9 days immediately after the 10th day of the month immediately following each taxable period (other than the final taxable period) which is comprised in an accounting period, such an amount as may be specified by the Collector-General.
 
-(5)(a) Without prejudice to the generality of subsection (4), an authorisation may require an authorised person to agree with the Collector-General a schedule of amounts of money (in this subsection referred to as “the schedule”) which he or she undertakes to pay on dates specified by the Collector-General by monthly direct debit from his or her account with a financial institution.
+(5)(a) Without prejudice to the generality of subsection (4), an authorisation may require an authorised person to agree with the Collector-General a schedule of amounts of money (in this subsection referred to as “the schedule”) which he or she undertakes to pay on dates specified by the Collector- General by monthly direct debit from his or her account with a financial institution.
 
 (b) The total of the amounts specified in the schedule shall be the authorised person’s best estimate of his or her total tax liability for his or her accounting period.
 

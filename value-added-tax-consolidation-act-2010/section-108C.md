@@ -20,9 +20,7 @@ A - B where—
 
 A is the tax payable by the first accountable person on that taxable supply of goods or services, or intra-Community acquisition under section 3(a), (c), (d) or (e), and
 
-B is the amount of tax, if any, which may be deductible in accordance with section
-
-59(2) by the first accountable person, provided that the aforementioned deductible tax is directly attributable to the acquiring of those goods and services which give rise to the charge to tax payable by the first accountable person.
+B is the amount of tax, if any, which may be deductible in accordance with section 59(2) by the first accountable person, provided that the aforementioned deductible tax is directly attributable to the acquiring of those goods and services which give rise to the charge to tax payable by the first accountable person.
 
 (4) Where, in relation to any period, the Revenue Commissioners or such officer as the Revenue Commissioners may authorise, have reason to believe that an amount of tax is due and payable to the Commissioners in accordance with this section, they shall serve a notice in writing on the second accountable person, specifying—
 

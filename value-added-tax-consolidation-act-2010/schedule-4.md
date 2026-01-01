@@ -52,9 +52,7 @@ List of Agricultural Production Activities
 
 PART 2
 
-...
-
-ANNEX VIII OF THE VAT DIRECTIVE
+... ANNEX VIII OF THE VAT DIRECTIVE
 
 List of Agricultural Services
 

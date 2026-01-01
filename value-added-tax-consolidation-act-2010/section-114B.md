@@ -108,7 +108,7 @@ Covid-19: special warehousing and interest provisions.
 
 (3) This section shall apply to an accountable person—
 
-(a) who, as a consequence of the effect on the accountable person’s business of Covid-19 is unable to pay all or part of the accountable person’s Covid-19 liabilities,
+(a) who, as a consequence of the effect on the accountable person’s business of Covid-19 is unable to pay all or part of the accountable person’s Covid- 19 liabilities,
 
 (b) who complies with the requirements to furnish returns under Chapter 3 of Part 9, and
 
@@ -186,6 +186,6 @@ Covid-19: special warehousing and interest provisions.
 
 (i) in that part of Period 1 which is on or after 1 February 2020, or
 
-(ii) in the month immediately following Period 1, the value-added tax due and payable for that accounting period by the accountable person under this Act and any regulations under this Act shall be treated as Covid-19 liabilities.
+(ii) in the month immediately following Period 1, the value-added tax due and payable for that accounting period by the accountable person under this Act and any regulations under this Act shall be treated as Covid- 19 liabilities.
 
 (15) ...

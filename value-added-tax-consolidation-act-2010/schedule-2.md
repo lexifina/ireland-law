@@ -8,9 +8,7 @@ PART 1
 
 INTERNATIONAL SUPPLIES
 
-This Part sets out the exemptions with deductibility in accordance with Chapters 4 to 10 of Title IX of the VAT Directive.
-
-Intra-Community transactions.
+This Part sets out the exemptions with deductibility in accordance with Chapters 4 to 10 of Title IX of the VAT Directive. Intra-Community transactions.
 
 1. (1) The supply of goods dispatched or transported from the State to a person registered for value-added tax in another Member State, provided that the supplier of the goods has complied with section 82 or, where the supplier has failed to so comply, he or she has justified such failure to the satisfaction of the Revenue Commissioners.
 
@@ -154,7 +152,9 @@ PART 2
 
 SUPPLIES WITHIN THE STATE
 
-This Part sets out special provisions in accordance with Article 105a(1) and Annex III of the VAT Directive. Food and drink.
+This Part sets out special provisions in accordance with Article 105a(1) and Annex III of the VAT Directive.
+
+Food and drink.
 
 8. (1) A supply of food and drink of a kind used for human consumption, other than—
 
@@ -170,55 +170,23 @@ Table 1
 
 Food and Drink
 
-Part A
+Part A Beverages chargeable with excise duty specifically charged on spirits, beer, wine, cider, perry or Irish wine, and preparations derived from any of them. Part B (a) Tea, herbal tea and preparations derived from either or both of them, when supplied in drinkable form.
 
-Beverages chargeable with excise duty specifically charged on spirits, beer, wine, cider, perry or Irish wine, and preparations derived from any of them.
+(b) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from them, when supplied in drinkable form. Part C (a) Ice cream, ice lollipops, water ices, frozen desserts, frozen yoghurts and similar frozen products, and prepared mixes and powders for making any of those products.
 
-Part B
-
-(a) Tea, herbal tea and preparations derived from either or both of them, when supplied in drinkable form.
-
-(b) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from them, when supplied in drinkable form.
-
-Part C
-
-(a) Ice cream, ice lollipops, water ices, frozen desserts, frozen yoghurts and similar frozen products, and prepared mixes and powders for making any of those products.
-
-(b) Savoury products made from cereal or grain, or from flour or starch derived from cereal or grain, pork scratchings, and similar products when supplied for human consumption without further preparation.
-
-Part D
-
-Any of the following when supplied for human consumption without further preparation:
+(b) Savoury products made from cereal or grain, or from flour or starch derived from cereal or grain, pork scratchings, and similar products when supplied for human consumption without further preparation. Part D Any of the following when supplied for human consumption without further preparation:
 
 (a) potato crisps, potato sticks, potato puffs and similar products made from potato, or from potato flour or from potato starch;
 
 (b) popcorn;
 
-(c) salted or roasted nuts, whether or not in their shells.
-
-Part E
-
-(1) (2)
-
-Any of the following items not being items (a) Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from (b) Cocoa, coffee and chicory and other roasted fruit, vegetables, plants, grains, coffee substitutes, and preparations and seeds, or pulses, and syrups, extracts derived from any of them, when concentrates, essences, powders, supplied in non-drinkable form. crystals or other products for the (c) Milk ... preparation of beverages; (d) Preparations and extracts derived from meat, (b) beverages other than those specified in yeast or eggs. Part A or B. (e) Oat milk, almond milk, rice milk, coconut milk, hemp milk, cashew milk, soy milk, pea milk, hazelnut milk, flax milk, potato milk or other similar milk substitute drinks.
-
-Part F
-
-(1) (2)
-
-All kinds of chocolates, sweets and similar For the purposes of this Part “bread” means food for confectionery (including glacé or crystallised human consumption manufactured by baking dough fruits), biscuits, crackers and wafers, and all composed exclusively of a mixture of cereal or other kinds of confectionery and bakery products other flour and any one or more of the ingredients (whether cooked or uncooked), excluding bread included in column (1) of Table 2 to this paragraph within the meaning assigned to it in column (2) that do not exceed the quantities (if any) set out for of this Part. each ingredient in column (2) of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.
+(c) salted or roasted nuts, whether or not in their shells. Part E (1) (2) Any of the following items not being items (a) Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived (b) Cocoa, coffee and chicory and other roasted from fruit, vegetables, plants, coffee substitutes, and preparations and grains, seeds, or pulses, and syrups, extracts derived from any of them, when concentrates, essences, powders, supplied in non-drinkable form. crystals or other products for the (c) Milk ... preparation of beverages; (d) Preparations and extracts derived from (b) beverages other than those specified meat, yeast or eggs. in Part A or B. (e) Oat milk, almond milk, rice milk, coconut milk, hemp milk, cashew milk, soy milk, pea milk, hazelnut milk, flax milk, potato milk or other similar milk substitute drinks. Part F (1) (2) All kinds of chocolates, sweets and similar For the purposes of this Part “bread” means food confectionery (including glacé or crystallised for human consumption manufactured by baking fruits), biscuits, crackers and wafers, and all dough composed exclusively of a mixture of cereal other kinds of confectionery and bakery or other flour and any one or more of the products (whether cooked or uncooked), ingredients included in column (1) of Table 2 to excluding bread within the meaning assigned this paragraph that do not exceed the quantities to it in column (2) of this Part. (if any) set out for each ingredient in column (2) of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.
 
 Table 2
 
 Ingredients and Weight Limits thereof for Bread as defined in column (2) of Part F of Table 1
 
-(1) (2) Ingredients Weight limits for the ingredients, as percentage of weight of flour included in the dough
-
-Fats and sugars (including any fats and Not exceeding 12% in aggregate sugars contained in any bread improver)
-
-Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate
-
-Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
+(1) (2) Ingredients Weight limits for the ingredients, as percentage of weight of flour included in the dough Fats and sugars (including any fats and sugars Not exceeding 12% in aggregate contained in any bread improver) Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
 
 (2) In this paragraph, a reference to supplying food and drink includes—
 
@@ -320,7 +288,9 @@ Other zero-rated goods and services.
 
 (2) Life saving services provided by the Royal National Lifeboat Institution including the organisation and maintenance of the lifeboat service.
 
-(3) The supply of sanitary towels, sanitary tampons, menstrual cups, menstrual pants and menstrual sponges. The supply of sanitary towels and sanitary tampons.
+(3) The supply of sanitary towels, sanitary tampons, menstrual cups, menstrual pants and menstrual sponges.
+
+The supply of sanitary towels and sanitary tampons.
 
 (4) ...
 

@@ -10,4 +10,4 @@ Other provisions in relation to goods.
 
 (3) A person who is not established in the State shall, unless the person opts to register in accordance with section 65, be deemed not to have made an intra- Community acquisition or a supply of goods in the State where the only supplies by him or her in the State are in the circumstances set out in section 23.
 
-(4) A person who is not established in the State, and who does not have a fixed establishment in the State, shall be deemed not to have made an intra-Community acquisition or a supply of goods in the State where such person transfers goods to an accountable person in the State under call-off stock arrangements to which section 23A applies.
+(4) A person who is not established in the State, and who does not have a fixed establishment in the State, shall be deemed not to have made an intra- Community acquisition or a supply of goods in the State where such person transfers goods to an accountable person in the State under call-off stock arrangements to which section 23A applies.

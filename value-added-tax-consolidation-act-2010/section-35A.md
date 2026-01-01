@@ -1,3 +1,5 @@
+## CHAPTER 4 Place of supply for certain taxable persons making supplies of intra-Community distance sales of goods and supplies of telecommunication services, radio or television broadcasting services or electronically supplied services
+
 Amendment of Part 4 of Act of 2010.
 
 35A.—(1) Subject to subsection (3), sections 30(a) and 34(kc) shall not apply to—

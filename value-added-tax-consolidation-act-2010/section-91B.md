@@ -8,7 +8,7 @@ Non-Union scheme (where the State is Member State of identification).
 
 (b) A taxable person may not be registered in the State for the purposes of the non-Union scheme if he or she—
 
-(i) is already identified in another Member State for the purposes of the non- Union scheme ..., or
+(i) is already identified in another Member State for the purposes of the non-Union scheme ..., or
 
 (ii) is excluded from applying the non-Union scheme by Article 363 of the VAT Directive or Article 58 of the Implementing Regulation.
 
