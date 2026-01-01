@@ -61,3 +61,17 @@ Registration.
 (b) notify the person in writing of its decision within 21 days of the receipt of any representations made to it and of the reasons for it.
 
 (14) Where a registered provider ceases to provide a prescribed early years service that provider shall inform the Agency in writing as soon as reasonably practicable of that cessation.
+
+(15) Where the Agency proposes to make a decision under this section in respect of a registered provider, it shall, without prejudice to any other legal basis for the exercise of its powers under this section, have regard to—
+
+(a) the issue of an improvement order or an immediate action order in respect of a prescribed early years service provided by the registered provider,
+
+(b) any failure of the registered provider to comply with an order referred to in paragraph (a),
+
+(c) the issue of a temporary prohibition order in respect of a prescribed early years service provided by the registered provider,
+
+(d) the carrying on of activities by the registered provider in contravention of a temporary prohibition order,
+
+(e) any failure of the registered provider to remedy the matters specified in a temporary prohibition order, and
+
+(f) the grant of a closure order in respect of an early years service provided by the registered provider.
