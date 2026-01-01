@@ -10,11 +10,7 @@ Permanently and totally incapacitated individuals.
 
 (II) who is a beneficiary under a qualifying trust (within the meaning of section 189A(1) of the Act of 1997), or
 
-(ii) the individual is not a person referred to in clause (I) or (II) of
-
-## subparagraph (i)
-
-and the Revenue Commissioners confirm, under subsection (1A), that the residential property shall not, for the purposes of this Act, be regarded as a relevant residential property, and
+(ii) the individual is not a person referred to in clause (I) or (II) of subparagraph (i) and the Revenue Commissioners confirm, under subsection (1A), that the residential property shall not, for the purposes of this Act, be regarded as a relevant residential property, and
 
 (b) the property is—
 
