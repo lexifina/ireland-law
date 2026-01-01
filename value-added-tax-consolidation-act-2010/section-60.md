@@ -6,7 +6,7 @@ General limits on deductibility.
 
 “motor vehicles” means motor vehicles designed and constructed for the conveyance of persons by road and sports motor vehicles, estate cars, station wagons, motor cycles, motor scooters, mopeds and auto cycles, whether or not so designed and constructed, excluding vehicles designed and constructed for the carriage of more than 16 persons (inclusive of the driver), invalid carriages and other vehicles of a type designed for use by invalids or infirm persons;
 
-“qualifying accommodation” means the supply to a delegate of a service consisting of the letting of immovable goods or accommodation covered by paragraph 11 of Schedule 3, for a maximum period starting from the night prior to the date on which the qualifying conference commences and ending on the date on which the conference concludes;
+“qualifying accommodation” means the supply to a delegate of a service consisting of the letting of immovable goods ...covered by paragraph 11 of Schedule 3, for a maximum period starting from the night prior to the date on which the qualifying conference commences and ending on the date on which the conference concludes;
 
 “qualifying conference” means a conference or meeting in the course or furtherance of business organised to cater for 50 or more delegates, which takes place at a venue designed and constructed for the purposes of hosting 50 or more delegates and in respect of which the person responsible for organising the conference issues in writing the details of the conference to each taxable person who attends or sends a delegate, and such details shall include—
 

@@ -2,17 +2,21 @@ Persons not accountable persons unless they so elect.
 
 6.—(1) Subject to subsections (2) and (3) and sections 9, 10, 12, 14(1) and 17(1), and notwithstanding section 5(1), the following persons shall not, unless they otherwise elect and then only during the period for which such election has effect, be accountable persons:
 
-(a) a farmer, for whose supply in any continuous period of 12 months of—
+(a) a farmer, for whose supply, in the current calendar year or the previous calendar year, of—
 
-(i) agricultural services (other than insemination services, stock-minding or stock-rearing), the total consideration has not exceeded, and is not likely to exceed, the services threshold,
+(i) agricultural services (other than insemination services, stock minding or stock-rearing), the total annual turnover for which has not exceeded the services threshold,
 
-(ii) goods being bovine semen, the total consideration has not exceeded, and is not likely to exceed, the goods threshold,
+(ii) goods being bovine semen, the total annual turnover for which has not exceeded the goods threshold,
 
-(iii) goods, being horticultural type products of the kind specified in paragraph 22(1) of Schedule 3, to persons who are not engaged in supplying those goods in the course or furtherance of business, the total consideration has not exceeded and is not likely to exceed the goods threshold,
+(iii) goods, being horticultural type products of the kind specified in paragraph 22(1) of Schedule 3, to persons who are not engaged in supplying those goods in the course or furtherance of business, the total annual turnover for which has not exceeded the goods threshold,
 
-(iv) services specified in subparagraph (i) and either or both of goods of the kind specified in subparagraph (ii) and goods of the kind specified in subparagraph (iii) supplied in the circumstances set out in that subparagraph, the total consideration has not exceeded and is not likely to exceed the services threshold, or
+(iv) either or both services of the kind specified in subparagraphs (i) and (vi), together with any or all goods of the kind specified in subparagraph (v), the total annual turnover for which has not exceeded the services threshold,
 
-(v) goods of the kind specified in subparagraph (ii) and goods of the kind specified in subparagraph (iii) supplied in the circumstances set out in that subparagraph, the total consideration has not exceeded and is not likely to exceed the goods threshold;
+(v) any or all goods of the kind specified in subparagraph (ii), subparagraph (iii) where supplied in the circumstances set out in that subparagraph, and subparagraph (vii), the total annual turnover for which has not exceeded the goods threshold,
+
+(vi) agricultural services of the kind specified in an order made under section 86A, the total annual turnover for which has not exceeded the services threshold, or
+
+(vii) agricultural produce of the kind specified in an order made under section 86A, the total annual turnover for which has not exceeded the goods threshold;
 
 (b) a person whose supplies of taxable goods or services consist exclusively of—
 
@@ -22,7 +26,7 @@ Persons not accountable persons unless they so elect.
 
 (I) supplies of machinery, plant or equipment which have been used by him or her in the course of a sea-fishing business;
 
-(II) supplies of other goods and services the total consideration for which is such that such person would not, because of paragraph (c) or (d), be an accountable person if such supplies were the only supplies made by him or her;
+(II) supplies of other goods and services the total annual turnover for which is such that such person would not, because of paragraph (c) or (d), be an accountable person if such supplies were the only supplies made by him or her;
 
 (c)(i) subject to subparagraph (ii), a person for whose supply of goods (other than supplies of the kind specified in section 30(a) and (b) made by a person established in the State) and services the total annual turnover has not exceeded, in the current calendar year or the previous calendar year, the goods threshold,
 
@@ -40,7 +44,7 @@ Persons not accountable persons unless they so elect.
 
 (b) Where in the case of 2 or more persons one of whom exercises control over one or more of the other persons, supplies of goods of the same class or of services of the same nature are made by 2 or more of those persons, the total annual turnover relating to such supplies shall, for the purposes of the application of paragraphs (c) and (d) of subsection (1) in relation to each of those persons who made such supplies, be treated as if all of the supplies in question had been made by each of the last-mentioned persons.
 
-(c) Where a farmer supplies services or goods of the kind specified in subsection (1)(a)(i), (ii) or (iii), then paragraph (b) shall be deemed to apply to such supplies, notwithstanding that that paragraph does not otherwise apply to supplies by a farmer.
+(c) Where a farmer supplies services or goods of the kind specified in subsection (1)(a)(i), (ii), (iii), (vi) or (vii), then paragraph (b) shall be deemed to apply to such supplies, notwithstanding that that paragraph does not otherwise apply to supplies by a farmer.
 
 (d) Subsection (1) shall not apply to a supply of the kind referred to in section 12(3) or (5) or 17(1).
 

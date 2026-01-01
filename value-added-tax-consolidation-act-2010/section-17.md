@@ -32,7 +32,7 @@ Other provisions in relation to services.
 
 (e) A premises provider who has been notified in accordance with paragraph (d) shall be deemed to be an accountable person and shall be liable to pay the tax referred to in that paragraph as if it were tax due in accordance with Chapter 3 of Part 9 by the premises provider for the taxable period within which the supplies are made by the mobile trader or promoter, but the premises provider shall not be liable to pay tax referred to in paragraph (d) which the Revenue Commissioners are satisfied was accounted for by a mobile trader or promoter.
 
-(2)(a) Where a person who supplies services consisting of the training of horses for racing, the consideration for which has exceeded the services threshold in any continuous period of 12 months, would, but for the supply of such services, be a farmer, the person shall be deemed to be an accountable person only in respect of—
+(2)(a) Where a person who supplies services consisting of the training of horses for racing, the total annual turnover for which has exceeded, in the current calendar year or the previous calendar year, the services threshold, would, but for the supply of such services, be a farmer, the person shall be deemed to be an accountable person only in respect of—
 
 (i) the supply of those services,
 

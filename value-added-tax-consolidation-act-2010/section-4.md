@@ -26,9 +26,9 @@ Definitions —Part 2 .
 
 (i) supplies of machinery, plant or equipment which has been used by such person for the purposes of an Annex VII activity;
 
-(ii) supplies of services consisting of the training of horses for racing the total consideration for which has not exceeded and is not likely to exceed the services threshold in any continuous period of 12 months;
+(ii) supplies of services consisting of the training of horses for racing, the total annual turnover for which has not exceeded, in the current calendar year or the previous calendar year, the services threshold;
 
-(iii) supplies of goods and services (other than those referred to in subparagraphs (i) and (ii) or paragraph (a)) the total consideration for which is such that such person would not, because of section 6(1)(c) or (d), be an accountable person if such supplies were the only supplies made by him or her.
+(iii) supplies of goods and services (other than those referred to in subparagraphs (i) and (ii) or paragraph (a)) the total annual turnover for which is such that such person would not, because of section 6(1)(c) or (d), be an accountable person if such supplies were the only supplies made by him or her.
 
 (2) In this Part “control”—
 
