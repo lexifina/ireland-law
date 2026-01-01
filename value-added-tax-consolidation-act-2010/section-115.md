@@ -26,9 +26,13 @@ Penalties generally.
 
 (1C) (a) In this subsection, "payment service provider" has the same meaning as it has in section 85A.
 
-(b) A payment service provider who does not comply with section 85C, 85F or 85G, as the case may be, shall be liable to a penalty of €4,000 in respect of the calendar quarter during which the payment service provider failed to comply with the section concerned and to a further penalty of €4,000 for each subsequent calendar quarter during which that payment service provider has failed to comply with that section.
+(b) A payment service provider who does not comply with section 85C, as the case may be, shall be liable to a penalty of €4,000 in respect of the calendar quarter during which the payment service provider failed to comply with the section concerned and to a further penalty of €4,000 for each subsequent calendar quarter during which that payment service provider has failed to comply with that section.
 
 (c) A payment service provider who does not comply with section 85E shall be liable to a penalty of €4,000.
+
+(d) (i) A payment service provider who does not comply with section 85F(2) shall be liable to a penalty of €4,000.
+
+(ii) A payment service provider who fails to provide the information contained in the records referred to in section 85F(2) in respect of the calendar quarter to which that information relates (in this subparagraph referred to as the "first-mentioned calendar quarter"), in the manner specified in section 85G(a), by the end of the month following each calendar quarter subsequent to the first-mentioned calendar quarter, shall be liable to a further penalty of €4,000 in respect of such failure in respect of each such subsequent calendar quarter after the first-mentioned calendar quarter until the payment service provider provides the information concerned in the manner so specified.
 
 (2) A person who is not a registered person and who, on or after 1 November 1972, issues an invoice in which an amount of tax is stated shall be liable to a penalty of €4,000.
 
