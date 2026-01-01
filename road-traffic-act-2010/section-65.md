@@ -52,17 +52,13 @@ Consequential disqualification orders.
 
 TABLE
 
-Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
+Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4) (a) Not exceeding 80 milli-
 
-(a)
+(b) Not exceeding 107 milli-
 
-(b)
+(c) Not exceeding 35 micro-
 
-(c)
-
-(a) Exceeding 80 milligrammes
-
-(b) Exceeding 107 milligrammes
+(a) Exceeding 80 milligrammes Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4) (b) Exceeding 107 milligrammes
 
 (c) Exceeding 35 microgrammes
 
@@ -72,7 +68,7 @@ Reference Concentration of alcohol First offence Second or any subsequent Number
 
 (c) Exceeding 44 microgrammes
 
-(a) Exceeding 150 milligrammes Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
+(a) Exceeding 150 milligrammes
 
 (b) Exceeding 200 milligrammes
 
@@ -166,9 +162,7 @@ Failure to fulfil duties on occurrence of accident.
 
 Taking mechanically propelled vehicle without authority.
 
-13. An offence under subsection (2) of section 112.
-
-Driving mechanically propelled vehicle without driving licence while disqualified, etc.
+13. An offence under subsection (2) of section 112. Driving mechanically propelled vehicle without driving licence while disqualified, etc.
 
 14. An offence under section 38(2) in the circumstances referred to in subsection (5)(a) of that section.
 
