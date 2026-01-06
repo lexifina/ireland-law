@@ -16,4 +16,4 @@ Description of diseases and injuries
 
 (i) in insurable (occupational injuries) employment at any time on or after 1 May 1967, and
 
-(ii) for a period or periods (whether before, on or after 1 May 1967) amounting in the aggregate to not less than 10 years in any occupation set against the disease in column (2) of paragraph A.11 of Part 1 of
+(ii) for a period or periods (whether before, on or after 1 May 1967) amounting in the aggregate to not less than 10 years in any occupation set against the disease in column (2) of paragraph A.11 of Part 1 of Schedule 4.
