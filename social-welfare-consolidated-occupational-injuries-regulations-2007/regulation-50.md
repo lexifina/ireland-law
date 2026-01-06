@@ -12,6 +12,4 @@ Reporting of accidents by employers
 
 (3) Every owner or occupier (being an employer) of any mine or quarry to which any of the provisions of the Mines and Quarries Act 1965 (No.7 of 1965) applies or of any premises to which any of the provisions of the Factories Act 1955 (No. 10 of 1955) apply to keep readily accessible a book in a form approved by the Minister in which the appropriate particulars (as defined in article 49) of any accident involving any person employed at such mine, quarry or premises may be entered by such person or some other person acting on his or her behalf.
 
-(4) Any person who fails to comply with this article shall be guilty of an offence.
-
-CHAPTER 5
+(4) Any person who fails to comply with this article shall be guilty of an offence. CHAPTER 5
