@@ -4,15 +4,19 @@ Article 8
 
 PRESCRIBED DEGREE OF DISABLEMENT
 
-Description of Injury Degree of Disablement Per cent. (1) (2)
+Description of Injury Degree of Disablement
+
+Per cent.
+
+(1) (2)
 
 1. Loss of both hands or amputation at higher sites 100
 
 2. Loss of a hand and a foot 100
 
-3. Double amputation through leg or thigh, or amputation through leg or 100 thigh on one side and loss of other foot
+3. Double amputation through leg or thigh, or amputation through leg or thigh on one 100 side and loss of other foot
 
-4. Loss of sight to such an extent as to render the claimant unable to perform 100 any work for which eyesight is essential
+4. Loss of sight to such an extent as to render the claimant unable to perform any work 100 for which eyesight is essential
 
 5. Very severe facial disfigurement 100
 
@@ -24,11 +28,11 @@ Amputation Cases — Upper Limbs (either arm)
 
 8. Amputation through shoulder joint 90
 
-9. Amputation below shoulder with stump less than 8 inches from tip of 80 acromion
+9. Amputation below shoulder with stump less than 8 inches from tip of acromion 80
 
-10. Amputation from 8 inches from tip of acromion to less than 4 inches 70 below tip of olecranon
+10. Amputation from 8 inches from tip of acromion to less than 4 inches below tip of 70 olecranon
 
-11. Loss of a hand or of the thumb and four fingers of one hand or amputation 60 from 4 inches below tip of olecranon
+11. Loss of a hand or of the thumb and four fingers of one hand or amputation from 4 60 inches below tip of olecranon
 
 12. Loss of thumb 30
 
@@ -46,23 +50,23 @@ Amputation Cases — Lower Limbs
 
 18. Amputation of both feet resulting in end-bearing stumps 90
 
-19. Amputation through both feet proximal to the metatarso-phalangeal 80 joint
+19. Amputation through both feet proximal to the metatarso-phalangeal joint 80
 
 20. Loss of all toes of both feet through the metatarso-phalangeal joint 40
 
-21. Loss of all toes of both feet proximal to the proximal interphalangeal 30 joint
+21. Loss of all toes of both feet proximal to the proximal interphalangeal joint 30
 
 22. Loss of all toes of both feet distal to the proximal interphalangeal joint 20
 
 23. Amputation at hip 90
 
-24. Amputation below hip with stump not exceeding 5 inches in length 80 measured from tip of great trochanter
+24. Amputation below hip with stump not exceeding 5 inches in length measured from 80 tip of great trochanter
 
-25. Amputation below hip and above knee with stump exceeding 5 inches in 70 length measured from tip of great trochanter, or at knee not resulting in end-bearing stump
+25. Amputation below hip and above knee with stump exceeding 5 inches in length 70 measured from tip of great trochanter, or at knee not resulting in end-bearing stump
 
-26. Amputation at knee resulting in end-bearing stump or below knee with 60 stump not exceeding 3 inches
+26. Amputation at knee resulting in end-bearing stump or below knee with stump not 60 exceeding 3 inches
 
-27. Amputation below knee with stump exceeding 3 inches but not exceeding 50 5 inches.
+27. Amputation below knee with stump exceeding 3 inches but not exceeding 5 inches. 50
 
 28. Amputation below knee with stump exceeding 5 inches 40
 
@@ -76,7 +80,7 @@ Other Injuries
 
 32. Loss of one eye, without complications, the other being normal 40
 
-33. Loss of vision of one eye, without complications or disfigurement of 30 eyeball, the other being normal
+33. Loss of vision of one eye, without complications or disfigurement of eyeball, the 30 other being normal
 
 A Loss of: Fingers of right or left hand
 

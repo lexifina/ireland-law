@@ -1,5 +1,3 @@
-## Schedule 4.
-
 Occupational deafness.
 
 21. (1) For the purpose of this article—

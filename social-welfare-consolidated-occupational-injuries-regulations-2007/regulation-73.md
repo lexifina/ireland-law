@@ -8,4 +8,6 @@ Suspension of payment of benefit during penal servitude, imprisonment or detenti
 
 (2) Injury benefit, disablement benefit or death benefit to which sub-article (1) applies may be paid during any such period to any person appointed by the Minister to receive and deal with any sums payable on behalf of the beneficiary on account of that benefit, and the receipt of any person so appointed shall be a good discharge to the Minister and the Social Insurance Fund for any sum so paid.
 
-(3) Where by virtue of sub-article (1) payment of disablement pension or death benefit by way of pension, is suspended for any period, the period of suspension shall not be taken into account in calculating any period under article 58. CHAPTER 10
+(3) Where by virtue of sub-article (1) payment of disablement pension or death benefit by way of pension, is suspended for any period, the period of suspension shall not be taken into account in calculating any period under article 58.
+
+CHAPTER 10

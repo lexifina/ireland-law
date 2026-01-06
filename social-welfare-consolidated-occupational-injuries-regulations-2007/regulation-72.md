@@ -1,6 +1,8 @@
 Exception from disqualification during penal servitude, imprisonment or detention in legal custody.
 
-72. (1) (a) Section 249 shall not operate to disqualify a person for receiving any occupational injuries benefit (including, subject to paragraph (b), any increases thereof) in respect of any period during which the person is detained (other than in the case of a person found not guilty by reason of insanity under the provisions of the Criminal Law (Insanity) Act 2006 (No. 11 of 2006)) in any institution for the treatment of mental illness or infectious disease.
+72. (1) (a) Section 249 shall not operate to disqualify a person for receiving any occupational injuries benefit (including, subject to paragraph (b), any increases thereof) in respect of any period during which the person is detained (other than in the case of a person found not guilty by reason of insanity under the provisions of the Criminal Law
+
+(Insanity) Act 2006 (No. 11 of 2006)) in any institution for the treatment of mental illness or infectious disease.
 
 (b) No increase in respect of a qualified child shall be payable to a person to whom paragraph (a) applies.
 
