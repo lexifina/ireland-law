@@ -16,7 +16,7 @@ Offences and penalties.
 
 (i) where the levy failed to be paid was due to the Minister for Social, Community and Family Affairs, by the Minister for Social, Community and Family Affairs or the Minister,
 
-(ii) where the levy failed to be paid was due to the Collector-General, by the Collector-General or the Minister, and
+(ii) where the levy failed to be paid was due to the Collector-General, by the Collector- General or the Minister, and
 
 (b) in the case of an offence under subsection (1) or (2), by the Director of Public Prosecutions.
 

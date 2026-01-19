@@ -6,7 +6,7 @@ Interpretation.
 
 “Collector-General” means the Collector-General appointed under section 851 of the Taxes Consolidation Act, 1997;
 
-‘contribution week’ has the same meaning as it has in the Social Welfare Consolidation Act 2005;
+"contribution week" has the same meaning as it has in the Social Welfare Consolidation Act 2005;
 
 “contribution year” means a year of assessment within the meaning of the Income Tax Acts;
 
