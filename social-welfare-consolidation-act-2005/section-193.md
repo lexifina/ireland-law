@@ -1,0 +1,7 @@
+Persons affected by trade disputes.
+
+193.—(1) In any case where, by reason of a stoppage of work due to a trade dispute at his or her place of employment, a person is without employment for any period during which the stoppage continues, and the person has not, during that stoppage, become bona fide employed elsewhere in the occupation which he or she usually follows, or has not become regularly engaged in some other occupation, the person's needs for that period shall be disregarded for the purpose of ascertaining his or her entitlement to supplementary welfare allowance except in so far as those needs include the need to provide for a qualified adult or any qualified children.
+
+(2) Subsection (1) shall not apply to a person who is not participating in or directly interested in the trade dispute which caused the stoppage of work.
+
+(3) In this section “place of employment”, in relation to any person, means the factory, workshop, farm or other premises or place at which he or she was employed, but, where separate branches of work which are commonly carried on as separate businesses in separate premises or at separate places are in any case carried on in separate departments on the same premises or at the same place, each of those departments, for the purposes of this section, is deemed to be a separate factory or workshop or farm or separate premises or a separate place, as the case may be.

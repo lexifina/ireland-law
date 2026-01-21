@@ -1,0 +1,3 @@
+Normal residence of qualified child.
+
+296A.— ...

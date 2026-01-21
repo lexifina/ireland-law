@@ -1,0 +1,3 @@
+Calculation of means—couples.
+
+161J.— ...

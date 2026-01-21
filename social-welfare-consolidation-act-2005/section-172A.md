@@ -1,0 +1,3 @@
+Qualified child for purposes of one-parent family payment. (Repealed)
+
+172A.— ...

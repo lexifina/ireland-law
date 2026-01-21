@@ -1,0 +1,3 @@
+Exclusion of persons not habitually resident in the State.
+
+192.—A person shall not be entitled to an allowance (other than an allowance under sections 201 and 202) under this Chapter unless he or she is habitually resident in the State ....

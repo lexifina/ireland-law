@@ -1,0 +1,5 @@
+Grant of supplementary welfare allowance in cases of urgency.
+
+202.—(1) Nothing in section 190, 191, 193 or 198 shall prevent the payment of supplementary welfare allowance in an urgent case and, in determining or deciding whether an allowance is payable by virtue of this section and the amount or nature of the allowance, a designated person or deciding officer shall not be bound by anything contained in sections 195 to 198 and Part 4 of Schedule 3 or in any regulations made under this Chapter which appears to the designated person or deciding officer inappropriate in the circumstances of the case.
+
+(2) Where under subsection (1) supplementary welfare allowance is paid to a person who is engaged in remunerative full-time work, a designated person or deciding officer may, where the designated person or deciding officer is satisfied that in all the circumstances of the case it would be equitable so to do, determine or decide that the whole or part of the allowance so paid shall be recoverable from the person to whom it is paid.

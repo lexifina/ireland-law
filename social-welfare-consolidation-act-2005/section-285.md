@@ -1,0 +1,5 @@
+Exclusion in assessment of damages.
+
+285.—(1) In assessing damages in any action under the Fatal Injuries Act 1956 or Part IV of the Civil Liability Act 1961, whether commenced before or after 24 February 1981, there shall not be taken into account any child benefit, bereaved partner’s (contributory) pension, guardian’s payment (contributory), one-parent family payment in the case of a person who qualifies for that payment by virtue of being a bereaved partner, bereaved partner’s (non-contributory) pension or guardian’s payment (non-contributory).
+
+(2) Subject to sections 96 and 286, in assessing damages in any action in respect of injury or disease or in computing the amount of compensation under paragraph (1)(a)(ii) of the First Schedule to the Workmen’s Compensation Act 1906 or under Rule 2 or 4 of the Second Schedule to the Workmen’s Compensation Act 1934, there shall not to be taken into account any benefit under Part 2, bereaved partner’s (non-contributory) pension, guardian’s payment (non-contributory) or child benefit.

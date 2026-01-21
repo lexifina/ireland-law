@@ -1,0 +1,3 @@
+Saver for repeal of Workmen’s Compensation Acts.
+
+97.—The Workmen's Compensation Acts, as amended by Part V of the Civil Liability Act 1961, shall continue to apply to cases to which they would have applied if the Social Welfare (Occupational Injuries) Act 1966 had not been passed, being cases where a right to compensation arose in respect of employment before 1 May 1967, except where, in the case of a disease or injury prescribed for the purposes of section 87, the right did not arise before that date and the workman, before it arose, has been insured under this Chapter against that disease or injury.

@@ -1,0 +1,3 @@
+Rates of assistance — ages 22 to 24 years. (Repealed)
+
+142B.— ...

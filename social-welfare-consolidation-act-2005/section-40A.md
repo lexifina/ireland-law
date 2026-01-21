@@ -1,0 +1,3 @@
+Regulations in respect of persons to whom section 40(7) applies. (Operation discontinued)
+
+40A. ...

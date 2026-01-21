@@ -1,0 +1,3 @@
+Supplementary welfare allowance granted to persons in receipt of certain Health Service Executive payments. (Repealed)
+
+203.—...

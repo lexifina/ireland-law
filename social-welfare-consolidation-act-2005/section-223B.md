@@ -1,0 +1,3 @@
+Amount of early childcare supplement. (Repealed)
+
+223B.— ...

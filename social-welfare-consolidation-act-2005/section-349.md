@@ -1,0 +1,3 @@
+Payments under attachment of earnings order. (Repealed)
+
+349.— ...

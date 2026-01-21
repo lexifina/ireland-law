@@ -1,0 +1,3 @@
+Rate of blind welfare allowance.
+
+161H.— ...
