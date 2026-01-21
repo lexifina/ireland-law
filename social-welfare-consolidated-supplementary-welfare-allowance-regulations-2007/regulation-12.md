@@ -14,9 +14,9 @@ N is the claimant’s weekly needs, as provided for in section 196,
 
 M is the claimant’s weekly means, as provided for in section 196,
 
-R is the weekly amount of rent or mortgage interest, as the case may be, payable by the claimant,
+R is the weekly amount of rent or mortgage interest, as the case may be, payable by the claimant, A is €30, and
 
-A is €30, and B is €40.
+B is €40.
 
 (2) In the case of a person to whom section 142A(1) or section 197(2) applies, the amounts specified in sub-article (1) shall be construed—
 

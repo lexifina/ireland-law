@@ -4,7 +4,9 @@ Article 9
 
 MAXIMUM RENT LIMITS
 
-Location Single Couple in Single Couple Couple Couple Couple person in shared person with no with 1 with 2 with 3 shared accommodation qualified qualified qualified qualified accommodation children child or children children one-parent or one-or family parent one-parent with 1 family family qualified with 2 with 3 child qualified qualified children children (1) (2) (3) (4) (5) (6) (7) (8)
+Location Single Couple in Single Couple with Couple with Couple with Couple with person in shared person no qualified 1 qualified 2 qualified 3 qualified shared accommodation children child or children or children or accommodation one-parent one- parent one-parent family with family with family with 1 qualified 2 qualified 3 qualified child children children
+
+(1) (2) (3) (4) (5) (6) (7) (8)
 
 € € € € € € €
 
@@ -50,15 +52,17 @@ Offaly 210 230 380 433 550 575 600
 
 Roscommon 240 260 360 390 500 525 550
 
-Sligo 220 250 460 490 550 575 600
+Sligo 220 250 460 490 550 575 600 Location Single Couple in Single Couple with Couple with Couple with Couple with person in shared person no qualified 1 qualified 2 qualified 3 qualified shared accommodation children child or children or children or accommodation one-parent one- parent one-parent family with family with family with 1 qualified 2 qualified 3 qualified child children children
+
+(1) (2) (3) (4) (5) (6) (7) (8)
+
+€ € € € € € €
 
 Tipperary 210 230 380 420 525 560 600
 
 Waterford 240 270 430 450 550 575 600
 
-Westmeath 220 240 450 470 600 625 650 Location Single Couple in Single Couple Couple Couple Couple person in shared person with no with 1 with 2 with 3 shared accommodation qualified qualified qualified qualified accommodation children child or children children one-parent or one-or family parent one-parent with 1 family family qualified with 2 with 3 child qualified qualified children children (1) (2) (3) (4) (5) (6) (7) (8)
-
-€ € € € € € €
+Westmeath 220 240 450 470 600 625 650
 
 Wexford 280 300 420 433 530 565 600
 
