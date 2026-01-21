@@ -4,10 +4,14 @@ REDUCED RATES OF ILLNESS BENEFIT, HEALTH AND SAFETY BENEFIT, JOBSEEKER’S BENEF
 
 Articles 27 , 37 and 48
 
-Amount of reckonable Weekly Rate Increase for Qualified Adult weekly earnings (where payable) (1) (2) (3) € € €
+Amount of reckonable weekly Weekly Rate Increase for Qualified Adult (where earnings payable)
 
-32.00 to 149.99 109.50 104.90
+(1) (2) (3)
 
-150.00 to 219.99 157.30 104.90
+€ € €
 
-220.00 to 299.99 191.10 104.90
+32.00 to 149.99 114.00 109.20
+
+150.00 to 219.99 163.70 109.20
+
+220.00 to 299.99 198.90 109.20
