@@ -58,6 +58,8 @@ Calculation of means.
 
 (e) any payments made directly or indirectly by or on behalf of the Minister for Health under the package of support measures established in 2018 for women diagnosed with cervical cancer since 2008,
 
+(ea) any payments made by the Inquiry into the Licensing and Use of Sodium Valproate in Women of Child-Bearing Potential in the State Act 2025,
+
 (f) any payments made by Sport Ireland under the International Carding Scheme,
 
 ...
