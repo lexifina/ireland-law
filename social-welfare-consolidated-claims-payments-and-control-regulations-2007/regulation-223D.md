@@ -1,4 +1,4 @@
-Transitional arrangements for payment of illness, injury, jobseeker’s benefit
+Transitional arrangements for payment of illness, injury, jobseeker’s benefit etc. with other social welfare payments in certain circumstances.
 
 223D. (1) Subject to article 223C, where, in respect of a period of incapacity for work which commenced before 1 February 2012, a person was in receipt of—
 

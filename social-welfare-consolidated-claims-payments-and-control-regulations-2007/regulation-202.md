@@ -70,7 +70,7 @@ Persons unable to manage financial affairs.
 
 (b) a decision-making assistant has been appointed by the claimant or beneficiary under a decision-making assistance agreement in accordance with the Assisted Decision-Making (Capacity) Act 2015;
 
-(c) a co-decision-maker has been appointed by the claimant or beneficiary under a co-decision-making agreement in accordance with the Assisted Decision- Making (Capacity) Act 2015 .
+(c) a co-decision-maker has been appointed by the claimant or beneficiary under a co-decision-making agreement in accordance with the Assisted Decision-Making (Capacity) Act 2015 .
 
 (7) An appointment made under sub-article (3) or (4) shall terminate on the day on which the Minister receives notice that—
 
@@ -80,7 +80,7 @@ Persons unable to manage financial affairs.
 
 (c) a decision-making assistant has been appointed by the claimant or beneficiary under a decision-making assistance agreement in accordance with the Assisted Decision-Making (Capacity) Act 2015, or
 
-(d) a co-decision-maker has been appointed by the claimant or beneficiary under a co-decision-making agreement in accordance with the Assisted Decision- Making (Capacity) Act 2015.
+(d) a co-decision-maker has been appointed by the claimant or beneficiary under a co-decision-making agreement in accordance with the Assisted Decision-Making (Capacity) Act 2015.
 
 (8) Anything required to be done by a claimant or beneficiary in relation to benefit may be done as respects a claimant or beneficiary, who is unable to act, by the person appointed under this article to act on his or her behalf.
 

@@ -1,6 +1,6 @@
 Circumstances and conditions under which a payment under section 186A may be made.
 
-136A. A payment under section 186A, in these regulations referred to as a “Half- Rate Carer’s Allowance”, may be made to a carer who—
+136A. A payment under section 186A, in these regulations referred to as a “Half-Rate Carer’s Allowance”, may be made to a carer who—
 
 (a) is not a person to whom subsection 186A(5)(d) refers,
 

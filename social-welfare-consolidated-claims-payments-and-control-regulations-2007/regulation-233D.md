@@ -16,4 +16,6 @@ Form and manner of application to housing body for consent to discontinuance of 
 
 (b) indicate how he or she intends to otherwise pay the amount of rent owing to the housing body.
 
-(3) Where a beneficiary makes an application to a housing body for consent to discontinue a deduction and payment that is being made pursuant to section 290A, the housing body shall respond to that application within the 28 day notice period and, for this purpose, the housing body shall not unreasonably withhold its consent to such discontinuance. CHAPTER 7
+(3) Where a beneficiary makes an application to a housing body for consent to discontinue a deduction and payment that is being made pursuant to section 290A, the housing body shall respond to that application within the 28 day notice period and, for this purpose, the housing body shall not unreasonably withhold its consent to such discontinuance.
+
+CHAPTER 7

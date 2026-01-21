@@ -20,9 +20,7 @@ Clare Island, Co. Mayo,
 
 Cléire, Co. Cork,
 
-Clynish, Co. Mayo,
-
-Coney Island, Co. Sligo,
+Clynish, Co. Mayo, Coney Island, Co. Sligo,
 
 Dernish Island, Moneygold, Co. Sligo,
 
@@ -66,7 +64,9 @@ Inishturk Beg, Co. Mayo,
 
 Inishturk, Co. Mayo,
 
-Inse Ghainnimh, Co. Galway, Islandmore, Co. Mayo
+Inse Ghainnimh, Co. Galway,
+
+Islandmore, Co. Mayo
 
 Lambay Island, Co. Dublin,
 

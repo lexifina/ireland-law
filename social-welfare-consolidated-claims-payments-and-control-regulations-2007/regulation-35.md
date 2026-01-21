@@ -18,4 +18,6 @@ Disqualifications.
 
 (b) not apply for the day on which the confinement occurs in the event of the person being confined after such failure, and
 
-(c) cease, for any day after the confinement where the person submits herself to medical examination in accordance with article 34(1). CHAPTER 3
+(c) cease, for any day after the confinement where the person submits herself to medical examination in accordance with article 34(1).
+
+CHAPTER 3

@@ -4,7 +4,11 @@ Articles 70A and 71
 
 REDUCED RATES OF STATE PENSION (TRANSITION) WHERE CONTRIBUTION CONDITIONS ARE PARTIALLY SATISFIED AND WHERE PERSON ATTAINS 65 YEARS OF AGE ON OR AFTER 1 SEPTEMBER 2012
 
-Yearly Average Weekly Rate Increase for Increase for Qualified Adult Qualified Adult who has not who has attained attained pensionable age pensionable age (1) (2) (3) (4) € € €
+Yearly Average Weekly Rate Increase for Qualified Increase for Qualified Adult who has not Adult who has attained pensionable attained pensionable age age
+
+(1) (2) (3) (4)
+
+€ € €
 
 Less than 48, but not less than 40 225.80 146.00 196.00
 

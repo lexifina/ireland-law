@@ -6,6 +6,4 @@ Transitional payment.
 
 (3) In the case of a woman to whom sub-article (1) applies, the amount payable shall be equal to 50 per cent of the weekly rate payable to the woman immediately before the day on which she ceases to be entitled to deserted wife's benefit and such amount shall be rounded up to the nearest 10 cent where it is a multiple of 5 cent but not also a multiple of 10 cent and shall be rounded to the nearest 10 cent where it is not a multiple of 5 cent or 10 cent.
 
-(4) Where a woman has been entitled to a payment in accordance with sub-article (1) for a continuous period of 6 months she shall not be entitled to any further payment under that sub-article.
-
-CHAPTER 12
+(4) Where a woman has been entitled to a payment in accordance with sub-article (1) for a continuous period of 6 months she shall not be entitled to any further payment under that sub-article. CHAPTER 12

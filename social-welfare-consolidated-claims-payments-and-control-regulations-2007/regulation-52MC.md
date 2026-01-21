@@ -1,4 +1,4 @@
-Date on which payment of the Covid-19 pandemic unemployment payment shall cease to be made in the case of a person to whom article 52LA applies
+Date on which payment of the Covid-19 pandemic unemployment payment shall cease to be made in the case of a person to whom article 52LA applies.
 
 52MC. (1) For the purposes of section 68N(2)(b), in the case of a person to whom article 52LA applies—
 

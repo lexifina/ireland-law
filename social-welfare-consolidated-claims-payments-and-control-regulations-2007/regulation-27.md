@@ -4,7 +4,9 @@ Partial satisfaction of conditions — illness benefit.
 
 (a) where, in the case of a claim to illness benefit where the period of interruption of employment commenced before 29 December 2003, the amount of reckonable weekly earnings or reckonable weekly income, as the case may be, is an amount included in one of the groups of amounts specified in column (1) of Schedule 5, there shall be entitlement to illness benefit, payable at the weekly rate shown opposite to that group of amounts in column (2) of the said Schedule,
 
-(b) where, in the case of a claim to illness benefit where the period of interruption of employment commenced on or after 29 December 2003 and before 5 January 2009, the amount of reckonable weekly earnings or reckonable weekly income, as the case may be, is an amount included in one of the groups of amounts specified in column (1) of Schedule 6, there shall be entitlement to illness benefit payable at the weekly rate shown opposite to that group of amounts in column (2) of the said Schedule,
+(b) where, in the case of a claim to illness benefit where the period of interruption of employment commenced on or after 29 December 2003 and before 5 January 2009, the amount of reckonable weekly earnings or reckonable weekly income, as the case may be, is an amount included in one of the groups of amounts specified in column
+
+(1) of Schedule 6, there shall be entitlement to illness benefit payable at the weekly rate shown opposite to that group of amounts in column (2) of the said Schedule,
 
 (ba) where, in the case of a claim to illness benefit where the period of interruption of employment commenced on or after 5 January 2009, the amount of reckonable weekly earnings or reckonable weekly income, as the case may be, is an amount included in one of the groups of amounts specified in column (1) of Schedule 6A, there shall be entitlement to illness benefit payable at the weekly rate shown opposite to that group of amounts in column (2) of the said Schedule,
 

@@ -76,7 +76,7 @@ Information to be given when making claim.
 
 (d) a qualified child in respect of whom an increase of State pension (contributory) or State pension (transition) was being paid under sections 112(2) or 117(2), the prescribed information for the purposes of section 300(6) shall be—
 
-(i) a copy of an entry in respect of the deceased person in the register of deaths under the Civil Registration Act 2004 (No. 3 of 2004) provided to the Minister by An tArd-Chlaraitheoir, or
+(i) a copy of an entry in respect of the deceased person in the register of deaths under the Civil Registration Act 2004 (No. 3 of 2004) provided to the Minister by An tArd- Chlaraitheoir, or
 
 (ii) a copy of the death certificate issued in respect of the deceased person in pursuance of the Civil Registration Act 2004 submitted in respect of the deceased person.
 

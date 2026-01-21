@@ -8,7 +8,7 @@ Exception from disqualification during penal servitude, imprisonment or detentio
 
 (a) for receiving bereavement grant,
 
-(b) for receiving illness benefit, invalidity pension, State pension (transition), bereaved partner’s (contributory) pension, one-parent family payment, a payment by virtue of section 178, State pension (contributory), bereaved partner’s (non-contributory) pension (including, in each case, any increase thereof) if—
+(b) for receiving illness benefit, invalidity pension, State pension (transition), bereavedpartner’s(contributory)pension,one-parentfamilypayment,apayment by virtue of section 178, State pension (contributory), bereaved partner’s (non-contributory) pension (including, in each case, any increase thereof) if—
 
 (i) the detention is in respect of his or her being charged with a criminal offence, and
 

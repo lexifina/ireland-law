@@ -132,6 +132,6 @@ Sharing of information.
 
 (iii) personal public service number,
 
-(iv) registration number assigned in accordance with section 65(2) of the Value-Added Tax Consolidation Act 2010, and
+(iv) registration number assigned in accordance with section 65(2) of the Value- Added Tax Consolidation Act 2010, and
 
 (v) telephone number.

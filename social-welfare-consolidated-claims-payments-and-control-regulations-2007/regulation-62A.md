@@ -1,4 +1,4 @@
-Partial satisfaction of contribution conditions for State pension (contributory)
+Partial satisfaction of contribution conditions for State pension (contributory) where person attains pensionable age before 1 September 2012 and is not a person to whom section 109(10) applies.
 
 62A. (1) Subject to sub-article (2), where a person has attained pensionable age before 1 September 2012 and is not a person to whom section 109(10) applies and would be entitled to State pension (contributory) but for the fact that the relevant yearly average contribution conditions are not satisfied, he or she shall be entitled to pension at a rate determined in accordance with this article.
 

@@ -52,4 +52,4 @@ Persons regarded as genuinely seeking employment.
 
 (2) Where the circumstances specified in paragraph (b) of sub-article (4A) apply, a person shall not be required to seek employment where he or she has a reasonable expectation of returning to their previous employment.
 
-(5) For the purposes of this article, “relevant period” means the period in respect of which the person concerned has made a declaration in accordance with articles 52 , 52G, 52HG and 118, or as the case may be, the period in which Covid- 19 pandemic unemployment payment is claimed in accordance with section 68L of the Act.
+(5) For the purposes of this article, “relevant period” means the period in respect of which the person concerned has made a declaration in accordance with articles 52 , 52G, 52HG and 118, or as the case may be, the period in which Covid-19 pandemic unemployment payment is claimed in accordance with section 68L of the Act.

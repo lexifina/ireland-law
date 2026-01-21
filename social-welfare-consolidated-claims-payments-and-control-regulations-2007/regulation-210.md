@@ -6,4 +6,6 @@ Provisions relating to nominations and appointments.
 
 (a) nominated under article 201 or 201A, or
 
-(b) appointed under article 202, 203 or 204, shall be a good discharge to the Minister and, in the case of benefit payable under Part 2 of the Principal Act, to the Minister and to the Social Insurance Fund of any amount so paid. CHAPTER 3
+(b) appointed under article 202, 203 or 204, shall be a good discharge to the Minister and, in the case of benefit payable under Part 2 of the Principal Act, to the Minister and to the Social Insurance Fund of any amount so paid.
+
+CHAPTER 3

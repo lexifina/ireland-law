@@ -20,7 +20,7 @@ Calculation of reckonable weekly income.
 
 (c) in the case of a person whose reckonable weekly income during the 2019 income tax year derived from reckonable earnings as an employed contributor and reckonable income or reckonable emoluments as a self-employed contributor, the aggregate of that income divided by the number of contribution weeks in the said income tax year.
 
-(ca) in the case of a person, who in accordance with article 52LA qualifies for Covid-19 pandemic unemployment payment, and whose reckonable weekly income during the 2019 income tax year or the 2020 income tax year derived from reckonable earnings as an employed contributor and reckonable income or reckonable emoluments as a self-employed contributor, the aggregate of that income divided by the number of contribution weeks in the said income tax year.
+(ca) in the case of a person, who in accordance with article 52LA qualifies for Covid- 19 pandemic unemployment payment, and whose reckonable weekly income during the 2019 income tax year or the 2020 income tax year derived from reckonable earnings as an employed contributor and reckonable income or reckonable emoluments as a self-employed contributor, the aggregate of that income divided by the number of contribution weeks in the said income tax year.
 
 (d) The number of weeks in which the person had reckonable earnings in sub-article (a) shall not include weeks in which the person’s employer was in receipt of the temporary wage subsidy in respect of the person.
 
