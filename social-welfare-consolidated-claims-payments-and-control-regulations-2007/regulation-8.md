@@ -118,6 +118,8 @@ Calculation of income limit.
 
 (e) any payments made directly or indirectly by or on behalf of the Minister for Health under the package of support measures established in 2018 for women diagnosed with cervical cancer since 2008,
 
+(ea) any payments made under the Non-Statutory Inquiry into the licensing and use of Sodium Valproate in Women of Child-Bearing Potential in the State,
+
 (f) any payments made by Sport Ireland under the International Carding Scheme,
 
 ...
