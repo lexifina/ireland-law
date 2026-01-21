@@ -1,0 +1,3 @@
+SCHEDULE A
+
+Article 19
