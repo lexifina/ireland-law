@@ -4,7 +4,7 @@ REPEALS
 
 Session and Chapter or Short title Extent of Repeal Number and Year
 
-38 & 39 Vict., c. 86 The Conspiracy, and In section 3, the first paragraph, Protection of Property and the paragraph inserted by Act, 1875 6 Edw. 7, c. 47, section 1.
+38 & 39 Vict., c. 86 The Conspiracy, and In section 3, the first paragraph, and Protection of Property the paragraph inserted by 6 Edw. Act, 1875 7, c. 47, section 1.
 
 6 Edw. 7, c. 47 Trade Disputes Act, 1906 The whole Act.
 
@@ -36,10 +36,8 @@ Section 17
 
 Section 18.
 
-No. 33 of 1971 Trade Union Act, 1971 Section 2 (3).
-
-No. 15 of 1976 Industrial Relations Act, Section 2 1976
+No. 33 of 1971 Trade Union Act, 1971 Section 2 (3). No. 15 of 1976 Industrial Relations Act, Section 2 1976
 
 Section 5.
 
-No. 15 of 1982 Trade Disputes The whole Act. (Amendment) Act, 1982
+No. 15 of 1982 Trade Disputes (Amend- The whole Act. ment) Act, 1982
