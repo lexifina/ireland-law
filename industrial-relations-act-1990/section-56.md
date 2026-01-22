@@ -78,7 +78,7 @@ Session and Chapter or Short title Extent of Repeal Number and Year
 
 ## REPEALS
 
-38 & 39 Vict., c. 86 The Conspiracy, and In section 3, the first paragraph, Protection of Property and the paragraph inserted by Act, 1875 6 Edw. 7, c. 47, section 1.
+38 & 39 Vict., c. 86 The Conspiracy, and In section 3, the first paragraph, and Protection of Property the paragraph inserted by 6 Edw. Act, 1875 7, c. 47, section 1.
 
 6 Edw. 7, c. 47 Trade Disputes Act, 1906 The whole Act.
 
@@ -110,13 +110,11 @@ Section 17
 
 Section 18.
 
-No. 33 of 1971 Trade Union Act, 1971 Section 2 (3).
-
-No. 15 of 1976 Industrial Relations Act, Section 2 1976
+No. 33 of 1971 Trade Union Act, 1971 Section 2 (3). No. 15 of 1976 Industrial Relations Act, Section 2 1976
 
 Section 5.
 
-No. 15 of 1982 Trade Disputes The whole Act. (Amendment) Act, 1982
+No. 15 of 1982 Trade Disputes (Amend- The whole Act. ment) Act, 1982
 
 THIRD SCHEDULE
 
@@ -244,7 +242,9 @@ SIXTH SCHEDULE
 
 Enactments to which sections 23(1A) and 23(1B) shall not apply to members of the Garda Síochána
 
-Section 23(1D) Reference Number and Year Short Title Extent of Disapplication
+Section 23(1D)
+
+Refer- Number and Year Short Title Extent of Disapplication ence
 
 (1) (2) (3) (4)
 
@@ -254,10 +254,10 @@ Section 23(1D) Reference Number and Year Short Title Extent of Disapplication
 
 3. No. 19 of 1990 Industrial Relations Act 1990 Sections 44, 45, 46, 47, 49, the Third Schedule and the Fifth Schedule
 
-4. No. 11 of 2001 Industrial Relations The whole Act (Amendment) Act 2001
+4. No. 11 of 2001 Industrial Relations (Amend- The whole Act ment) Act 2001
 
-5. No. 4 of 2004 Industrial Relations The whole Act (Miscellaneous Provisions) Act 2004
+5. No. 4 of 2004 Industrial Relations (Miscel- The whole Act laneous Provisions) Act 2004
 
-6. No. 32 of 2012 Industrial Relations The whole Act (Amendment) Act 2012
+6. No. 32 of 2012 Industrial Relations (Amend- The whole Act ment) Act 2012
 
-7. No. 27 of 2015 Industrial Relations The whole Act (Amendment) Act 2015
+7. No. 27 of 2015 Industrial Relations (Amend- The whole Act ment) Act 2015
