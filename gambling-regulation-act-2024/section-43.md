@@ -1,0 +1,3 @@
+Obligation to provide information to Minister and Minister for Public Expenditure, National Development Plan Delivery and Reform
+
+43. The Authority shall, on being requested in writing to do so by the Minister or the Minister for Public Expenditure, National Development Plan Delivery and Reform, provide information in writing relating to the funding of the Authority provided for in this Chapter and the information shall be provided in such form and manner, and within such period, as is specified in the request or within such other period as may be agreed between the Authority and the Minister who makes the request.
