@@ -1,0 +1,3 @@
+Additional condition: game provided under gaming licence or gambling licence for charitable or philanthropic purpose
+
+137. In addition to what is provided for in sections 131 and 134, a gaming licence and, where a gambling licence for a charitable or philanthropic purpose authorises the licensee of that licence to provide a game, that licence, is granted subject to the condition that where the participants in a game include the licensee of the licence concerned, the chance that the licensee has as a participant of winning the game and the chance that all other participants in the game have of winning the game, are equal.
