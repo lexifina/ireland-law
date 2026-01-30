@@ -8,8 +8,4 @@ Claims before Tribunal
 
 (b) seeking damages for the alleged negligence or breach of duty arising from an alleged failure to inform the relevant woman concerned or, where she has died, a dependant of the relevant woman concerned of the results of the retrospective CervicalCheck cytology clinical audit.
 
-(2) Where a person has received an award (other than an award under the CervicalCheck non-disclosure
-
-## ex-gratia
-
-scheme) from any court or settlement in respect of any action arising out of any circumstances which could give rise to a claim before the Tribunal, the person shall not be entitled to make a claim to, or be heard by, the Tribunal.
+(2) Where a person has received an award (other than an award under the CervicalCheck non-disclosure ex-gratia scheme) from any court or settlement in respect of any action arising out of any circumstances which could give rise to a claim before the Tribunal, the person shall not be entitled to make a claim to, or be heard by, the Tribunal.
