@@ -16,8 +16,6 @@ WHEREAS the economic recovery has progressed to a level that the economy is now 
 
 AND WHEREAS the economy remains vulnerable, in significant respects, due to various factors, including, domestically, from high levels of public and private debt and, internationally, by reason of the process initiated by the United Kingdom to withdraw from membership of the European Union and the uncertainty associated with the risk of protectionist trade and taxation policies:
 
-AND WHEREAS reductions in the remuneration and superannuation of public servants and former public servants effected by legislation enacted in the last 8 years have materially contributed to the stabilisation of the public finances:
-
-AND WHEREAS there is an obligation on the part of the State to have a prudent fiscal policy under the Stability and Growth Pact and the Fiscal Compact and the repeal of the foregoing legislation in one Budget year would not be sustainable in financial terms but its repeal, in a phased manner, over a number of years would be so sustainable:
+AND WHEREAS reductions in the remuneration and superannuation of public servants and former public servants effected by legislation enacted in the last 8 years have materially contributed to the stabilisation of the public finances: AND WHEREAS there is an obligation on the part of the State to have a prudent fiscal policy under the Stability and Growth Pact and the Fiscal Compact and the repeal of the foregoing legislation in one Budget year would not be sustainable in financial terms but its repeal, in a phased manner, over a number of years would be so sustainable:
 
 Be it enacted by the Oireachtas as follows:

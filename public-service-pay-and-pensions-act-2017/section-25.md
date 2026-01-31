@@ -26,25 +26,27 @@ Amendment of section 2 of Act of 2010
 
 “TABLE D
 
-Annualised amount of public service Reduction pension
+Annualised amount of public service pension Reduction
 
 Up to €39,000 Exempt
 
-Any amount over €39,000 but not over 12 per cent €60,000
+Any amount over €39,000 but not over €60,000 12 per cent
 
-Any amount over €60,000 but not over 17 per cent €100,000
+Any amount over €60,000 but not over €100,000 17 per cent
 
 Any amount over €100,000 28 per cent
 
 TABLE E
 
-Annualised amount of public service Reduction pension
+Annualised amount of public service pension Reduction
 
 Up to €54,000 Exempt
 
-Any amount over €54,000 but not over 12 per €60,000 cent
+Any amount over €54,000 but not over €60,000 12 per cent
 
-Any amount over €60,000 but not over 17 per €100,000 cent Any amount over €100,000 28 per cent
+Any amount over €60,000 but not over €100,000 17 per cent
+
+Any amount over €100,000 28 per cent
 
 ”.
 
