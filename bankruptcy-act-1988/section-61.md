@@ -1,4 +1,4 @@
-Functions
+Functions of Official Assignee in bankruptcy and vesting arrangements.
 
 61.—(1) This section applies to every bankruptcy matter and vesting arrangement.
 

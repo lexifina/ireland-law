@@ -1,4 +1,4 @@
-Restriction
+Restriction of right of access to personal data in certain circumstances.
 
 140D.— (1) Article 15 (Right of access) of the Data Protection Regulation is restricted to the extent necessary and proportionate to safeguard the effective performance by the Official Assignee of his or her functions under section 61, where the performance of those functions gives rise to the processing of personal data to which the Data Protection Regulation applies.
 

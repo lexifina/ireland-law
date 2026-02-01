@@ -1,6 +1,6 @@
 Provision of information to Official Assignee.
 
-61B.— (1) The Official Assignee may make such enquiries of, and request such information from, a person as the Official Assignee considers to be necessary and proportionate for the performance by him or her of his or her functions under section 61.
+61B.—(1) The Official Assignee may make such enquiries of, and request such information from, a person as the Official Assignee considers to be necessary and proportionate for the performance by him or her of his or her functions under section 61.
 
 (2) A person of whom an enquiry or a request under subsection (1) is made shall provide the information the subject of the enquiry or request to the Official Assignee within such time as may be specified by the Official Assignee.
 

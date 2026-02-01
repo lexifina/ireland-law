@@ -1,6 +1,6 @@
 Disclaimer of onerous property.
 
-56.—(1) Subject to subsection (5), where any of the property (other than after-acquired property) of a bankrupt consists of—
+56.—(1) Subject to subsection (5), where any of the property (other than after- acquired property) of a bankrupt consists of—
 
 (a) any unprofitable contract, or
 
