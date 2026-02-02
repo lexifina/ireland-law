@@ -1,4 +1,4 @@
-F45[Prohibition of advertising of tobacco products on retail premises.
+F44[Prohibition of advertising of tobacco products on retail premises.
 
 33A.—(1) The advertisement of tobacco products in premises in which the business of selling tobacco products by retail is carried on in whole or in part is prohibited.
 

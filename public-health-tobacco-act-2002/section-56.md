@@ -1,4 +1,4 @@
-F90[Fixed payment notice
+F85[Fixed payment notice
 
 56.—(1) Where an authorised officer has reasonable grounds for believing that a person is committing, or has committed, a relevant offence, the authorised officer may serve a notice in writing (in this Act referred to as a "fixed payment notice") in the prescribed form stating—
 
