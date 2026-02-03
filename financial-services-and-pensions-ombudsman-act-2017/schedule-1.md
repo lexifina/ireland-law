@@ -24,56 +24,56 @@ PART 2
 
 STATUTORY INSTRUMENTS
 
-Reference Number and Short title Extent of Year revocation (1) (3) (2) (4)
+Reference Number and Year Short title Extent of (2) revocation (1) (3) (4)
 
-1. S.I. No. 119 of Pensions (Amendment) Act, 2002 The whole 2003 (Section 5, in so far as that section instrument inserts sections 126 to 130, 146 and 147 of Part XI into the Pensions Act 1990) (Commencement) Order 2003
+1. S.I. No. 119 of Pensions (Amendment) Act, 2002 The whole 2003 (Section 5, in so far as that section inserts instrument sections 126 to 130, 146 and 147 of Part XI into the Pensions Act 1990) (Commencement) Order 2003
 
-2. S.I. No. 397 of Pensions Ombudsman Regulations The whole 2003 2003 instrument
+2. S.I. No. 397 of Pensions Ombudsman Regulations 2003 The whole 2003 instrument
 
-3. S.I. No. 398 of Pensions (Amendment) Act 2002 The whole 2003 (Section 5 (Except in so far as that instrument section is already in operation) and sections 8 and 58) (Commencement) Order 2003
+3. S.I. No. 398 of Pensions(Amendment)Act2002(Section The whole 2003 5 (Except in so far as that section is instrument already in operation) and sections 8 and 58) (Commencement) Order 2003
 
-4. S.I. No. 399 of Social Welfare (Miscellaneous The whole 2003 Provisions) Act 2003 (Section 23) instrument (Commencement) Order 2003
+4. S.I. No. 399 of SocialWelfare(MiscellaneousProvisions) The whole 2003 Act 2003 (Section 23) (Commencement) instrument Order 2003 Reference Number and Year Short title Extent of (2) revocation (1) (3) (4)
 
-5. S.I. No. 190 of Central Bank Act 1942 (Financial The whole 2005 Services Ombudsman Council) instrument Regulations 2005 Reference Number and Short title Extent of Year revocation (1) (3) (2) (4)
+5. S.I. No. 190 of Central Bank Act 1942 (Financial Services The whole 2005 Ombudsman Council) Regulations 2005 instrument
 
-6. S.I. No. 191 of Central Bank Act 1942 (Financial The whole 2005 Services Ombudsman) Regulations instrument 2005
+6. S.I. No. 191 of Central Bank Act 1942 (Financial Services The whole 2005 Ombudsman) Regulations 2005 instrument
 
-7. S.I. No. 329 of Central Bank Act 1942 (Financial The whole 2005 Services Ombudsman Council) Levies instrument and Fees Regulations 2005
+7. S.I. No. 329 of Central Bank Act 1942 (Financial Services The whole 2005 Ombudsman Council) Levies and Fees instrument Regulations 2005
 
-8. S.I. No. 330 of Central Bank Act 1942 (Financial The whole 2005 Services Ombudsman Council) Levies instrument and Fees Regulations (No. 2) 2005
+8. S.I. No. 330 of Central Bank Act 1942 (Financial Services The whole 2005 Ombudsman Council) Levies and Fees instrument Regulations (No. 2) 2005
 
-9. S.I. No. 828 of Central Bank Act 1942 (Financial The whole 2005 Services Ombudsman Council) Levies instrument and Fees Regulations (No. 3) 2005
+9. S.I. No. 828 of Central Bank Act 1942 (Financial Services The whole 2005 Ombudsman Council) Levies and Fees instrument Regulations (No. 3) 2005
 
-10. S.I. No. 302 of Pensions Ombudsman Regulations The whole 2006 2006 instrument
+10. S.I. No. 302 of Pensions Ombudsman Regulations 2006 The whole 2006 instrument
 
-11. S.I. No. 182 of Trust RACs (Disclosure of Paragraph 16 of 2007 Information) Regulations 2007 Schedule B
+11. S.I. No. 182 of Trust RACs (Disclosure of Information) Paragraph 16 of 2007 Regulations 2007 Schedule B
 
-12. S.I. No. 183 of Pensions Ombudsman Regulations The whole 2007 2007 instrument
+12. S.I. No. 183 of Pensions Ombudsman Regulations 2007 The whole 2007 instrument
 
-13. S.I. No. 726 of Central Bank Act 1942 (Financial The whole 2007 Services Ombudsman Council) Levies instrument and Fees Regulations 2007
+13. S.I. No. 726 of Central Bank Act 1942 (Financial Services The whole 2007 Ombudsman Council) Levies and Fees instrument Regulations 2007
 
-14. S.I. No. 576 of Central Bank Act 1942 (Financial The whole 2008 Services Ombudsman Council) Levies instrument and Fees Regulations 2008
+14. S.I. No. 576 of Central Bank Act 1942 (Financial Services The whole 2008 Ombudsman Council) Levies and Fees instrument Regulations 2008
 
-15. S.I. No. 500 of Central Bank Act 1942 (Financial The whole 2009 Services Ombudsman Council) Levies instrument and Fees Regulations 2009
+15. S.I. No. 500 of Central Bank Act 1942 (Financial Services The whole 2009 Ombudsman Council) Levies and Fees instrument Regulations 2009
 
-16. S.I. No. 446 of Circuit Court Rules (Pensions The whole 2010 Ombudsman) 2010 instrument
+16. S.I. No. 446 of Circuit Court Rules (Pensions Ombuds- The whole 2010 man) 2010 instrument Reference Number and Year Short title Extent of (2) revocation (1) (3) (4)
 
-17. S.I. No. 576 of Central Bank Act 1942 (Financial The whole 2010 Services Ombudsman Council) Levies instrument and Fees Regulations 2010
+17. S.I. No. 576 of Central Bank Act 1942 (Financial Services The whole 2010 Ombudsman Council) Levies and Fees instrument Regulations 2010
 
-18. S.I. No. 674 of Central Bank Act 1942 (Financial The whole 2011 Services Ombudsman Council) Levies instrument and Fees Regulations 2011 Reference Number and Short title Extent of Year revocation (1) (3) (2) (4)
+18. S.I. No. 674 of Central Bank Act 1942 (Financial Services The whole 2011 Ombudsman Council) Levies and Fees instrument Regulations 2011
 
-19. S.I. No. 506 of Central Bank Act 1942 (Financial The whole 2012 Services Ombudsman Council) Levies instrument and Fees Regulations 2012
+19. S.I. No. 506 of Central Bank Act 1942 (Financial Services The whole 2012 Ombudsman Council) Levies and Fees instrument Regulations 2012
 
-20. S.I. No. 477 of Central Bank Act 1942 (Financial The whole 2013 Services Ombudsman Council) Levies instrument and Fees Regulations 2013
+20. S.I. No. 477 of Central Bank Act 1942 (Financial Services The whole 2013 Ombudsman Council) Levies and Fees instrument Regulations 2013
 
-21. S.I. No. 97 of Central Bank Act 1942 (Financial The whole 2014 Services Ombudsman Council) instrument Complaint Information Regulations 2014
+21. S.I. No. 97 of Central Bank Act 1942 (Financial Services The whole 2014 Ombudsman Council) Complaint instrument Information Regulations 2014
 
-22. S.I. No. 137 of Central Bank Act 1942 (Financial The whole 2014 Services Ombudsman Council) Levies instrument and Fees (Amendment) Regulations 2014
+22. S.I. No. 137 of Central Bank Act 1942 (Financial Services The whole 2014 Ombudsman Council) Levies and Fees instrument (Amendment) Regulations 2014
 
-23. S.I. No. 164 of Central Bank Act 1942 (Financial The whole 2014 Services Ombudsman Council) instrument (Amendment) Regulations 2014
+23. S.I. No. 164 of Central Bank Act 1942 (Financial Services The whole 2014 Ombudsman Council) (Amendment) instrument Regulations 2014
 
-24. S.I. No. 42 of Central Bank Act 1942 (Financial The whole 2015 Services Ombudsman Council) Levies instrument and Fees Regulations 2015
+24. S.I. No. 42 of Central Bank Act 1942 (Financial Services The whole 2015 Ombudsman Council) Levies and Fees instrument Regulations 2015
 
-25. S.I. No. 592 of Central Bank Act 1942 (Financial The whole 2015 Services Ombudsman Council) Levies instrument and Fees Regulations 2016
+25. S.I. No. 592 of Central Bank Act 1942 (Financial Services The whole 2015 Ombudsman Council) Levies and Fees instrument Regulations 2016
 
-26. S.I. No. 54 of Central Bank Act 1942 (Financial The whole 2017 Services Ombudsman Council) Levies instrument and Fees Regulations 2017
+26. S.I. No. 54 of Central Bank Act 1942 (Financial Services The whole 2017 Ombudsman Council) Levies and Fees instrument Regulations 2017

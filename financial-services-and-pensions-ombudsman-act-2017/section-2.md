@@ -18,7 +18,7 @@ Interpretation
 
 (b) in relation to a complaint concerning a financial service provider, means a consumer, any surviving dependant of a consumer, a legal personal representative of a deceased consumer, a widow, widower or surviving spouse or civil partner of a deceased consumer or any person who is contractually entitled to benefit from a long-term financial service;
 
-“automatic enrolment retirement savings system“means the retirement savings system established under the Automatic Enrolment Retirement Savings System Act 2024;
+“automatic enrolment retirement savings system” means the retirement savings system established under the Automatic Enrolment Retirement Savings System Act 2024;
 
 “Bank” means the Central Bank of Ireland;
 
@@ -140,7 +140,7 @@ Interpretation
 
 “investment manager” means any person appointed to manage the funds of a scheme or to implement the statement of investment policies and principles of the trustees;
 
-"long-term financial service" means—
+“long-term financial service” means—
 
 (a) subject to paragraph (b) and subsection (3), a financial service the duration of which is a fixed term of 5 years and one month, or more, but, notwithstanding that the aggregate term of them may be 5 years and one month (or more), there does not fall within this paragraph a series of consecutive terms in respect of a financial service’s duration (provided no individual one of them is 5 years and one month, or more, in length), or
 

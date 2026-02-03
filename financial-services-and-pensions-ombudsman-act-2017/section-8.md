@@ -4,7 +4,7 @@ Appointment of Ombudsman and Deputy Ombudsman
 
 (a) a person to hold office known as an tOmbudsman Seirbhísí Airgeadais agus Pinsean or, in the English language, the Financial Services and Pensions Ombudsman (in this Act referred to as the “Ombudsman”);
 
-(b) a person or more than one person to hold office known as an Leas- Ombudsman Seirbhísí Airgeadais agus Pinsean or, in the English language, the Deputy Financial Services and Pensions Ombudsman (in this Act referred to as a “Deputy Ombudsman”).
+(b) a person or more than one person to hold office known as an Leas-Ombudsman Seirbhísí Airgeadais agus Pinsean or, in the English language, the Deputy Financial Services and Pensions Ombudsman (in this Act referred to as a “Deputy Ombudsman”).
 
 (2) The Public Appointments Service shall not make, in relation to a competition referred to in subsection (1), a recommendation for the purposes of that subsection in respect of more than 3 persons in respect of any vacancy.
 
@@ -12,9 +12,7 @@ Appointment of Ombudsman and Deputy Ombudsman
 
 (4) A person who, immediately before the establishment day, was a Deputy Financial Services Ombudsman shall, on the establishment day, become a Deputy Ombudsman, under this section subject to the same terms and conditions as applied to his or her appointment immediately before such day.
 
-(5) Subject to subsection
-
-(4), the Ombudsman and any Deputy Ombudsman shall each hold office for such period not exceeding 5 years from the date of his or her appointment as the Minister may determine.
+(5) Subject to subsection (4), the Ombudsman and any Deputy Ombudsman shall each hold office for such period not exceeding 5 years from the date of his or her appointment as the Minister may determine.
 
 (6) The Minister may reappoint a person whose term of office as Ombudsman or Deputy Ombudsman expires by the efflux of time to be the Ombudsman or a Deputy Ombudsman, as the case may be.
 
