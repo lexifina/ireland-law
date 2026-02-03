@@ -1,0 +1,3 @@
+Charge where person not entitled obtains service.
+
+30.—...

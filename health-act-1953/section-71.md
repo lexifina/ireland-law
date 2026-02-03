@@ -1,0 +1,3 @@
+Amendment of Mental Treatment Act, 1945.
+
+71.—...
