@@ -4,9 +4,9 @@ PROVISIONS APPLICABLE TO ORAL HEARING CONDUCTED BY AN AUTHORISED OFFICER UNDER S
 
 Section 138(11)
 
-Provisions Applicable to Oral Hearing Conducted by an Authorised Officer Under
+Provisions Applicable to Oral Hearing Conducted by an Authorised Officer Under Section
 
-Section 138
+138
 
 1. The authorised officer conducting an oral hearing under section 138(11) for the purposes of an investigation may take evidence on oath, and the administration of such an oath by the authorised officer is hereby authorised.
 

@@ -2,7 +2,7 @@ Amendment of section 66 of Civil Registration Act 2004
 
 197. Section 66 of the Civil Registration Act 2004 is amended—
 
-(a) in subsection (1), by the substitution of “Notwithstanding anything contained in any other enactment, but subject to the Data Protection Regulation and the Data Protection Act 2018, an tArd-Chláraitheoir may” for “Notwithstanding anything contained in the Data Protection Acts 1988 to 2003 or any other enactment, an tArd-Chláraitheoir may”, and
+(a) in subsection (1), by the substitution of “Notwithstanding anything contained in any other enactment, but subject to the Data Protection Regulation and the Data Protection Act 2018, an tArd- Chláraitheoir may” for “Notwithstanding anything contained in the Data Protection Acts 1988 to 2003 or any other enactment, an tArd-Chláraitheoir may”, and
 
 (b) by the substitution of the following subsection for subsection (2):
 
