@@ -126,15 +126,15 @@ European Assembly Elections Act, 1984 1984, No. 6
 
 Finance Act, 1895 1895, c. 16
 
-Finance Act, 1926 1926, No. 35
-
-Finance Act, 1985 1985, No. 10
+Finance Act, 1926 1926, No. 35 Finance Act, 1985 1985, No. 10
 
 Intoxicating Liquor Act, 1927 1927, No. 15
 
 Licensing Acts, 1833 to 1988
 
-Racing Board and Racecourses Act, 1945 1945, No. 16 Racing Board and Racecourses (Amendment) Act, 1975 1975, No. 11
+Racing Board and Racecourses Act, 1945 1945, No. 16
+
+Racing Board and Racecourses (Amendment) Act, 1975 1975, No. 11
 
 Racing Board and Racecourses Acts, 1945 and 1975
 

@@ -1,3 +1,3 @@
-Preservation
+Preservation of certain continuing contracts and adaptation references to Authority in certain documents. (Repealed)
 
 71.—...

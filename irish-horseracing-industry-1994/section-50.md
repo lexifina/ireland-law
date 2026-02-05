@@ -1,4 +1,4 @@
-Requirement
+Requirement to produce course-betting, or course-betting representative, permit to authorised officer.
 
 50.—(1) An authorised officer may require any person, whom he observes carrying on the business of a bookmaker at any authorised racecourse or point-to-point steeplechase meeting, to produce his course-betting permit, or course-betting representative permit, as the case may be.
 
