@@ -19,5 +19,3 @@ I [ ] HEREBY WITHDRAW THE CONSENT I HAVE GIVEN FOR REPAYMENTS TO BE COLLECTED BE
 Signed:__________________________
 
 Date:__________________________
-
-Insert name and address of borrower. Insert name of high cost credit provider.
