@@ -4,7 +4,7 @@ Establishment of companies by Board.
 
 (a) to perform any of the functions conferred upon it by this Act, or
 
-(b) to operate a totalisator.
+(b) to provide pool betting in accordance with the terms of a totalisator licence held by the Board.
 
 (2) The Board may exercise total or partial control of the board of directors, by whatever name called, of a company of the Board that controls or manages the company.
 
