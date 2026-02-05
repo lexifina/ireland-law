@@ -1,4 +1,4 @@
-F31[Levies payable by authorised bookmakers on bets.
+F35[Levies payable by authorised bookmakers on bets.
 
 32.—(1) (a) A licensed bookmaker who enters into a bet at a greyhound race track, on an event taking place there or elsewhere, other than by means of telecommunications from outside the race track, shall pay to the Board a levy on such bet.
 

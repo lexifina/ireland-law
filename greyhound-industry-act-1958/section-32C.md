@@ -1,4 +1,4 @@
-F34[Suspension or revocation of course-betting permit if levy or charges are not paid.
+F38[Suspension or revocation of course-betting permit if levy or charges are not paid.
 
 32C.—(1) (a) A licensed bookmaker who fails or neglects to pay any sum payable by him in respect of a levy or charges due under this Act may have any permit granted to him under section 29 of this Act suspended or revoked by the Board.
 

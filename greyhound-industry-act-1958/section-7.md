@@ -1,4 +1,4 @@
-F4[Constitution of Board.
+F6[Constitution of Board.
 
 7. — (1) The membership of the Board shall consist of —
 

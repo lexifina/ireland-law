@@ -1,4 +1,4 @@
-F19[Compliance by Bord na gCon with State Bodies Code of Practice
+F22[Compliance by Bord na gCon with State Bodies Code of Practice
 
 19A. (1) The Board shall, whenever so requested by the Minister, furnish to him or her, information in relation to such matters as he or she may specify concerning or relating to the scope of its activities (including its compliance with the Code of Practice for the Governance of State Bodies issued by the Minister for Public Expenditure and Reform or other such codes or policy documents that may issue from time to time by a member of the Government) or its strategy, generally or in respect of any account prepared by the Board under section 19 or the policy and activities, other than day to day activities, of the Board.
 

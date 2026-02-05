@@ -1,4 +1,4 @@
-F33[Flat rate charges payable by authorised bookmakers.
+F37[Flat rate charges payable by authorised bookmakers.
 
 32B.—The Board may make such flat rate charges as it considers necessary and appropriate in respect of —
 

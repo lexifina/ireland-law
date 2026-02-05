@@ -1,4 +1,4 @@
-F32[Turnover charge payable by authorised bookmakers on bets.
+F36[Turnover charge payable by authorised bookmakers on bets.
 
 32A.— (1) A licensed bookmaker who enters into a bet at a greyhound race track, on an event taking place there or elsewhere, other than by means of telecommunications from outside the race track, the subject of levy under section 32 of the Act, shall pay to the Board a turnover charge on such bet.
 

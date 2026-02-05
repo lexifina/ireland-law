@@ -1,4 +1,4 @@
-F5[Members of Board.
+F7[Members of Board.
 
 8. — (1) The Minister shall appoint the members of the Board, having regard to Government policy and procedures.
 

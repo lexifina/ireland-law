@@ -1,4 +1,4 @@
-F6[Conditions of office of members of Board.
+F8[Conditions of office of members of Board.
 
 9. — (1) The Minister may at any time remove a member of the Board from office for stated reasons including if, in the opinion of the Minister —
 
