@@ -1,4 +1,4 @@
-Objective
+Objective requirements for conformity with hire-purchase agreement.
 
 73D.—(1) The goods delivered under a hire-purchase agreement shall—
 

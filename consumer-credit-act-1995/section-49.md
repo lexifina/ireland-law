@@ -1,4 +1,4 @@
-Making
+Making demands and threats in relation to unenforceable agreements.
 
 49.—(1) A person shall not make a demand for payment or assert a present or prospective right to payment in respect of an agreement which is unenforceable under this Act.
 

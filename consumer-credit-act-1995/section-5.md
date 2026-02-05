@@ -12,7 +12,7 @@ Powers of Director in respect of investigations.
 
 (e) to investigate complaints concerning possible breaches of any of the designated provisions, but at the same time having regard to the availability of other procedures for resolving those complaints;
 
-(f) to publish codes of practice setting out conduct regarding agreements to which the designated provisions apply, in order to secure transparency and fairness in relation to the terms of those agreements and the conduct of agents dealing with consumers under those contracts;
+(f) to publish codes of practice setting out conduct regarding agreements to which the designated provisions apply, in order to secure transparency and fair- ness in relation to the terms of those agreements and the conduct of agents dealing with consumers under those contracts;
 
 (g) to perform or exercise such other functions as are imposed or conferred on the Director by this or any other Act.
 

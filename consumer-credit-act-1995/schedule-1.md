@@ -4,7 +4,9 @@ COUNCIL DIRECTIVE 87/102/EEC AND COUNCIL DIRECTIVE 90/88/EEC
 
 PART I
 
-COUNCIL DIRECTIVE of 22 December 1986 for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit
+COUNCIL DIRECTIVE of 22 December 1986 for the approximation of the laws, regulations and administrative provisions of the Member
+
+States concerning consumer credit
 
 (87/102/EEC)
 
@@ -30,9 +32,9 @@ Whereas, given the increasing volume of credit granted in the Community to consu
 
 Whereas the programmes of the Europen Economic Community for a consumer protection and information policy(4) provide, inter alia, that the consumer should be protected against unfair credit terms and that a harmonization of the general conditions governing consumer credit should be undertaken as a priority;
 
-Whereas differences of law and practice result in unequal consumer protection in the field of consumer credit from one Member State to another;
-
 (1) OJ No C 80, 27.3.1979, p. 4 and OJ No C 183, 10.7.1984, p. 4. (2) OJ No C 242, 12.9.1983, p. 10. (3) OJ No C 113, 7.5.1980, p. 22. (4) OJ No C 92, 25.4.1975, p. 1 and OJ No C 133, 3.6.1981, p. 1.
+
+Whereas differences of law and practice result in unequal consumer protection in the field of consumer credit from one Member State to another;
 
 Whereas there has been much change in recent years in the types of credit available to and used by consumers; whereas new forms of consumer credit have emerged and continue to develop;
 
@@ -54,11 +56,11 @@ Whereas consumer protection is further improved if credit agreements are made in
 
 Whereas, in the case of credit granted for the acquisition of goods, Member States should lay down the conditions in which goods may be repossessed, particularly if the consumer has not given his consent; whereas the account between the parties should upon repossession be made up in such manner as to ensure that the repossession does not entail any unjustified enrichment;
 
-Whereas the consumer should be allowed to discharge his obligations before the due date; whereas the consumer should then be entitled to an equitable reduction in the total cost of the credit;
+Whereas the consumer should be allowed to discharge his obligations before the due date; whereas the consumer should then be entitled to an equitable reduction in the total cost of the credit; Whereas the assignment of the creditor's rights arising under a credit agreement should not be allowed to weaken the position of the consumer;
 
-Whereas the assignment of the creditor's rights arising under a credit agreement should not be allowed to weaken the position of the consumer;
+Whereas those Member States which permit consumers to use bills of exchange, promissory notes or cheques in connection with credit agreements should ensure that the consumer is suitably protected when so using such instruments;
 
-Whereas those Member States which permit consumers to use bills of exchange, promissory notes or cheques in connection with credit agreements should ensure that the consumer is suitably protected when so using such instruments; Whereas, as regards goods or services which the consumer has contracted to acquire on credit, the consumer should, at least in the circumstances defined below, have rights vis-à-vis the grantor of credit which are in addition to his normal contractual rights against him and against the supplier of the goods or services; whereas the circumstances referred to above are those where grantor of credit and the supplier of goods or services have a pre-existing agreement whereunder credit is made available exclusively by that grantor of credit to customers of that supplier for the purpose of enabling the consumer to acquire goods or services from the latter;
+Whereas, as regards goods or services which the consumer has contracted to acquire on credit, the consumer should, at least in the circumstances defined below, have rights vis-à-vis the grantor of credit which are in addition to his normal contractual rights against him and against the supplier of the goods or services; whereas the circumstances referred to above are those where grantor of credit and the supplier of goods or services have a pre-existing agreement whereunder credit is made available exclusively by that grantor of credit to customers of that supplier for the purpose of enabling the consumer to acquire goods or services from the latter;
 
 Whereas the ECU is as defined in Council Regulation (EEC) No 3180/78(1), as last amended by Regulation (EEC) No 2626/84(2); whereas Member States should to a limited extent be at liberty to round off the amounts in national currency resulting from the conversion of amounts of this Directive expressed in ECU; whereas the amounts in this Directive should be periodically re-examined in the light of economic and monetary trends in the Community, and, if need be, revised;
 
@@ -80,13 +82,13 @@ Article 1
 
 (a) ‘consumer’ means a natural person who, in transactions covered by this Directive, is acting for purposes which can be regarded as outside his trade or profession;
 
+(1) OJ No L 379, 30.12.1978, p.1. (2) OJ No L 247, 16.9.1984, p.1.
+
 (b) ‘creditor’ means a natural or legal person who grants credit in the course of his trade, business or profession, or a group of such persons;
 
 (c) ‘credit agreement’ means an agreement whereby a creditor grants or promises to grant to a consumer a credit in the form of a deferred payment, a loan or other similar financial accommodation.
 
 Agreements for the provision on a continuing basis of a service or a utility, where the consumer has the right to pay for them, for the duration of their provision, by means of instalments, are not deemed to be credit agreements for the purpose of this Directive;
-
-(1) OJ No L 379, 30.12.1978, p.1. (2) OJ No L 247, 16.9.1984, p.1.
 
 (d) ‘total cost of the credit to the consumer’ means all the costs of the credit including interest and other charges directly connected with the credit agreement, determined in accordance with the provisions or practices existing in, or to be established by, the Member States.
 
@@ -120,9 +122,7 @@ Nevertheless, the provisions of Article 6 shall apply to such credits;
 
 —or, by a maximum number of four payments within a period not exceeding 12 months.
 
-2. A Member State may, in consultation with the Commission, exempt from the application of this Directive certain types of credit which fulfil the following conditions:
-
-—they are granted at rates of charge below those prevailing in the market, and
+2. A Member State may, in consultation with the Commission, exempt from the application of this Directive certain types of credit which fulfil the following conditions: —they are granted at rates of charge below those prevailing in the market, and
 
 —they are not offered to the public generally.
 
@@ -156,6 +156,8 @@ By way of derogation from Articles 3 and 4 (2), and pending a decision on the in
 
 Article 6
 
+(1) OJ No L 250, 19.9.1984, p. 17.
+
 1. Notwithstanding the exclusion provided for in Article 2 (1) (e), where there is an agreement between a credit institution or financial institution and a consumer for the granting of credit in the form of an advance on a current account, other than on credit card accounts, the consumer shall be informed at the time or before the agreement is concluded:
 
 —of the credit limit, if any,
@@ -165,8 +167,6 @@ Article 6
 —of the procedure for terminating the agreement.
 
 This information shall be confirmed in writing.
-
-(1) OJ No L 250, 19.9.1984, p. 17.
 
 2. Furthermore, during the period of the agreement, the consumer shall be informed of any change in the annual rate of interest or in the relevant charges at the time it occurs. Such information may be given in a statement of account or in any other manner acceptable to Member States.
 
@@ -228,8 +228,6 @@ Article 13
 
 1. For the purposes of this Directive, the ECU shall be that defined by Regulation (EEC) No 3180/78, as amended by Regulation (EEC) No 2626/84. The equivalent in national currency shall initially be calculated at the rate obtaining on the date of adoption of this Directive.
 
-(1) OJ No L 322, 17.12.1977, p. 30.
-
 Member States may round off the amounts in national currency resulting from the conversion of the amounts in ECU provided such rounding off does not exceed 10 ECU.
 
 2. Every five years, and for the first time in 1995, the Council, acting on a proposal from the Commission, shall examine and, if need be, revise the amounts in this Directive in the light of economic and monetary trends in the Community.
@@ -249,6 +247,8 @@ Article 16
 1. Member States shall bring into force the measures necessary to comply with this Directive not later than 1 January 1990 and shall forthwith inform the Commission thereof.
 
 2. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field covered by this Directive.
+
+(1) OJ No L 322, 17.12.1977, p. 30.
 
 Article 17
 
@@ -318,7 +318,9 @@ LIST OF TERMS REFERRED TO IN ARTICLE 4 (3)
 
 PART II
 
-COUNCIL DIRECTIVE of 22 February 1990 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit (90/88/EEC)
+COUNCIL DIRECTIVE of 22 February 1990 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit
+
+(90/88/EEC)
 
 THE COUNCIL OF THE EUROPEAN COMMUNITIES,
 
@@ -332,7 +334,9 @@ Having regard to the opinion of the Economic and Social Committee(3),
 
 Whereas Article 5 of Council Directive 87/102/EEC(4) provides for the introduction of a Community method or methods of calculating the annual percentage rate of lcharge for consumer credit;
 
-Whereas it is desirable, in order to promote the establishment and functioning the internal market and to ensure that consumers benefit from a high level of protection, that one method of calculating the said annual percentage rate of charge should be used throughout the Community;
+Whereas it is desirable, in order to promote the establishment and functioning the internal market and to ensure that consumers benefit from a high level of protection, that one method
+
+(1) OJ No C 155,14.6.1988, p. 10. (2) OJ No C 96, 17.4.1989, p. 87 and OJ No C 291, 20.11.1989, p. 50. (3) OJ No C 337, 31.12.1988, p. 1. (4) OJ No L 42, 12.2.1987, p. 48. of calculating the said annual percentage rate of charge should be used throughout the Community;
 
 Whereas it is desirable, with a view to introducing such a method and in accordance with the definition of the total cost of credit to the consumer, to draw up a single mathematical formula for calculating the annual percentage rate of charge and for determining credit cost items to be used in the calculation by indicating those costs which must not be taken into account;
 
@@ -355,8 +359,6 @@ Directive 87/102/EEC is hereby amended as follows:
 1. In Article 1 (2), points (d) and (e) shall be replaced by the following:
 
 ‘(d) “total cost of the credit to the consumer” means all the costs, including interest and other charges, which the consumer has to pay for the credit.’;
-
-(1) OJ No C 155,14.6.1988, p. 10. (2) OJ No C 96, 17.4.1989, p. 87 and OJ No C 291, 20.11.1989, p. 50. (3) OJ No C 337, 31.12.1988, p. 1. (4) OJ No L 42, 12.2.1987, p. 48.
 
 ‘(e) “annual percentage rate of charge” means the total cost of the credit to the consumer, expressed as an annual percentage of the amount of the credit granted and calculated in accordance with Article 1a’.
 
@@ -418,9 +420,7 @@ Member States shall take the appropriate measures to ensure that only one mathem
 
 5. Article 5 shall be deleted.
 
-6. The Annex shall become Annex I and the following point shall be added to paragraph 1:
-
-‘(ix) the obligation on the consumer to save a certain amount of money which must be placed in a special account’.
+6. The Annex shall become Annex I and the following point shall be added to paragraph 1: ‘(ix) the obligation on the consumer to save a certain amount of money which must be placed in a special account’.
 
 7. Annexes II and III attached hereto shall be added.
 
@@ -454,7 +454,9 @@ K is the number of a loan
 
 K′ is the number of a repayment or a payment of charges
 
-AK is the amount of loan number K A′K′ is the amount of repayment number K′ represents a sum m is the number of the last loan m′ is the number of the last repayment or payment of charges tK is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos. 2 to m tK′ is the interval expressed in years and fractions of a year between the date of loan No. 1 and those of repayments or payments of charges Nos. 1 to m′ i is the percentage rate that can be calculated (either by algebra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise.
+AK is the amount of loan number K
+
+A′K′ is the amount of repayment number K′ represents a sum m is the number of the last loan m′ is the number of the last repayment or payment of charges tK is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos. 2 to m tK′ is the interval expressed in years and fractions of a year between the date of loan No. 1 and those of repayments or payments of charges Nos. 1 to m′ i is the percentage rate that can be calculated (either by algebra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise.
 
 Remarks
 
@@ -482,9 +484,9 @@ This amount will be rounded down to 12,9% or 12,92% depending on whether the Sta
 
 Second example
 
-The sum agreed is S = ECU 1 000 but the creditor retains ECU 50 for enquiry and administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is made 18 months after the date of the loan. 1200 _______ The equation becomes 950 = (1 + i)1,5
+The sum agreed is S = ECU 1 000 but the creditor retains ECU 50 for enquiry and administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is made 18 months after the date of the loan.
 
-1200 or (1 + i)1,5 = ______ = 1,263157 950
+1200 _______ The equation becomes 950 = (1 + i)1,5 1200 or (1 + i)1,5 = ______ = 1,263157 950
 
 1 + i = 1,16851 ... i = 1,16851 ... rounded off to 16,9% or 16,85%.
 
@@ -492,7 +494,7 @@ Third example
 
 The sum lent is ECU 1 000, repayable in two amounts each of ECU 600, paid after one and two years respectively.
 
-600 600 The equation becomes _________ _________ = + 1000 (1 + i) (1 + i)2; it is solved by algebra and produces i = 0,1306623, rounded off to 13,1% or 13,07%.
+600 600 _________ _________ The equation becomes 1000 = + (1 + i) (1 + i)2; it is solved by algebra and produces i = 0,1306623, rounded off to 13,1% or 13,07%.
 
 Fourth example
 
@@ -540,13 +542,13 @@ Whereas a year is presumed to have 365 or 365,25 days or (for leap years) 366 da
 
 Whereas it is desirable that consumers should be able to recognize the terms used different Member States to indicate the "annual percentage rate of charge";
 
-Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member State, thereby ensuring harmonious functioning of the internal market,
+Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered
+
+(1) O.J. No. C235, 13.8.1996, p.8 and O.J. No. C137, 3.5.1997, p. 9. (2) O.J. No. C30, 30.1.1997, p. 94. (3) Opinion of the European Parliament of 20 February 1997 (O.J. No. C85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (O.J. No. C284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997, Council Decision of 18 December 1997. (4) O.J. No. L42, 12.2.1987, p.48 directive as amended by Directive 90/88/EEC (O.J. No. L61, 10.3.1990, p. 14). by institutions in the various Member State, thereby ensuring harmonious functioning of the internal market,
 
 HAVE ADOPTED THIS DIRECTIVE:
 
 Article 1
-
-(1) O.J. No. C235, 13.8.1996, p.8 and O.J. No. C137, 3.5.1997, p. 9. (2) O.J. No. C30, 30.1.1997, p. 94. (3) Opinion of the European Parliament of 20 February 1997 (O.J. No. C85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (O.J. No. C284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997, Council Decision of 18 December 1997. (4) O.J. No. L42, 12.2.1987, p.48 directive as amended by Directive 90/88/EEC (O.J. No. L61, 10.3.1990, p. 14).
 
 Directive 87/102/EEC shall be amended as follows:
 
@@ -576,6 +578,8 @@ When Member States adopt those measures, they shall contain a reference to this 
 
 2. The Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive.
 
+(*) O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC (O.J. No. L280, 23.10.1997, p.18).
+
 Article 3
 
 This Directive is addressed to the Member States.
@@ -591,8 +595,6 @@ The President
 The President
 
 J.M. GIL-ROBLES J. CUNNINGHAM
-
-(*) O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC (O.J. No. L280, 23.10.1997, p.18).
 
 ANNEX I
 
@@ -640,7 +642,7 @@ Sum loaned: S = ECU 1000 on 1 January 1994.
 
 It is repaid in a single payment of ECU 1200 made on 1 July 1995 i.e. 1 1/2 years or 546 (= 365 + 181) days after the date of the loan,
 
-The equation becomes: 1200 1,000 = (1+ i)546/365 or:
+The equation becomes: 1,000 1200 = (1+ i)546/365 or:
 
 (1+ i)546/365 = 1,2
 
@@ -668,7 +670,9 @@ The sum loaned is ECU 1,000, on 1 January 1994, repayable in two amounts, each E
 
 The equation becomes:
 
-1000 = 600 600 600 600 + = + (1+ (1+ (1+ (1+ i) i) i)730/365 i)
+1000 = 600 600 600 600
+
++ = + (1+ (1+ i)730/365 (1+ (1+ i) i) i)
 
 It is solved by algebra and produces i=0,1306623 rounded to 13,1% (or 13,07% if an accuracy of two decimal places is preferred).
 
@@ -676,13 +680,17 @@ Fourth example
 
 The sum loaned is S= ECU 1,000, on 1 January 1994, and the amounts to be paid by the borrower are:
 
-After 3 months (0.25 years/90 days): ECU 272 After 6 months (0.5 years/181 days): ECU 272 After 12 months (1 year/365 days): ECU 544
+After 3 months (0.25 years/90 days): ECU 272
+
+After 6 months (0.5 years/181 days): ECU 272
+
+After 12 months (1 year/365 days): ECU 544
 
 Total: ECU 1,088
 
 The equation becomes:
 
-1000 272 272 544 = + + (1+ (1+ (1+ i)90/365 i)181/365 i)365/365
+1000 272 272 544 = + + (1+ i)90/365 (1+ (1+ i)181/365 i)365/365
 
 This equation allows i to be calculated by successive approximations, which can be programmed on a pocket calculation.
 
@@ -690,9 +698,7 @@ The result is i=0,13226 rounded to 13.2% (or 13,23% if an accuracy of two decima
 
 B. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON THE BASIS OF A STANDARD YEAR (1 YEAR = 365 DAYS OR 365,25 DAYS, 52 WEEKS, OR 12 EQUAL MONTHS)
 
-First example
-
-Sum loaned: S = ECU 1,000
+First example Sum loaned: S = ECU 1,000
 
 It is repaid in a single payment of ECU 1,200 made in 1.5 years (i.e. 1,5 x 365=547,5 days, 1,5 x 365,25 = 547,875 days, 1.5 x 366 = 549 days, 1,5 x 12 = 18 months, or 1,5 x 52 =78 weeks) after the date of the loan.
 
@@ -706,7 +712,9 @@ The equation becomes:
 
 This amount will be rounded to 12,9% (or 12,92% if an accuracy of two decimal places is preferred).
 
-Second example The sum loaned is S = ECU 1,000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1,200, as in the first example, is again made 1.5 years after the date of the loan.
+Second example
+
+The sum loaned is S = ECU 1,000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1,200, as in the first example, is again made 1.5 years after the date of the loan.
 
 The equation becomes:
 
@@ -724,11 +732,9 @@ The sum loaned is ECU 1,000, repayable in two amounts, each of ECU 600, paid aft
 
 The equation becomes
 
-1000 = 600 600 600 600 + = + (1+ (1+ (1+ i)365,25/365,25 (1+ i)730,5/365,52 i)365/365 i)730/365
+1000 = 600 600 600 600 + = + (1+ i)365/365 (1+ i)730/365 (1+ i)365,25/365,25 (1+ i)730,5/365,52 600 600 600 600 = + = + (1+ i)12/12 (1+ i)24/12 (1+ i)52/52 (1+ i)104/52
 
-600 600 600 600 = + = + (1+ i)12/12 (1+ (1+ (1+ i)104/52 i)24/12 i)52/52
-
-600 600 = + (1+ (1+ i) i)
+600 600 = + (1+ i) (1+ i)
 
 It is solved by algebra and produces i = 0,13066 which will be rounded to 13,1% (or 13,07% if an accuracy of two decimal places is preferred).
 
@@ -736,7 +742,13 @@ Fourth example
 
 The sum loaned is S = ECU 1,000 and the amounts to be paid by the borrower are:
 
-After 3 months (0,25 years/13 Weeks/91,25 days/91,3125 days): ECU 272 After 6 months (0,5 years/26 Weeks/182,5 days/182,625 days): ECU 272 After 12 months (1 year/52 weeks/365 days/365,25 ECU 544 days): Total: ECU 1,088
+After 3 months (0,25 years/13 Weeks/91,25 days/91,3125 days): ECU 272
+
+After 6 months (0,5 years/26 Weeks/182,5 days/182,625 days): ECU 272
+
+After 12 months (1 year/52 weeks/365 days/365,25 days): ECU 544
+
+Total: ECU 1,088
 
 The equation becomes:
 
@@ -746,7 +758,7 @@ The equation becomes:
 
 272 272 544 = + + (1+ i)3/12 (1+ i)6/12 (1+ i)12/12
 
-272 272 544 = + + (1+ (1+ (1+ i)13/52 i)26/52 i)52/52
+272 272 544 = + + (1+ i)13/52 (1+ i)26/52 (1+ i)52/52
 
 272 272 544 = + + (1+ i)0,25 (1+ i)0,5 (1+ i)
 

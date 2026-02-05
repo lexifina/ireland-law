@@ -6,6 +6,8 @@ Form to be included in a repayment book in respect of a high cost credit agreeme
 
 SCHEDULE
 
-€ Total Amount Repayable _______________
+€
+
+Total Amount Repayable _______________
 
 Date Amount of Repayment Balance Now Due Signature

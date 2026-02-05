@@ -1,4 +1,4 @@
-Subjective
+Subjective requirements for conformity with hire-purchase agreement.
 
 73C.—(1) The goods delivered under a hire-purchase agreement shall—
 

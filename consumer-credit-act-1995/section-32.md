@@ -30,4 +30,4 @@ Requirements relating to credit-sale agreements.
 
 (4) A credit-sale agreement shall contain a description of the goods to which the agreement relates sufficient to identify them.
 
-(5) A credit-sale agreement shall contain in a prominent position the words “Credit- Sale Agreement”.
+(5) A credit-sale agreement shall contain in a prominent position the words “Credit-Sale Agreement”.
