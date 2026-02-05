@@ -48,7 +48,7 @@ Mortgage intermediaries.
 
 (c) the applicant is the holder of—
 
-(i) a bookmaker’s licence issued under the Betting Act 1931, or
+(i) a betting licence issued under Part 5 of the Act of 2024, or
 
 (ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts 1833 to 1994, or
 
@@ -110,7 +110,7 @@ Provided that the amount of the fee that would be payable on the application for
 
 (c) the holder has become the holder of—
 
-(i) a bookmaker’s licence issued under the Betting Act 1931, or
+(i) a betting licence issued under Part 5 of the Act of 2024, or
 
 (ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts 1833 to 1994, or
 

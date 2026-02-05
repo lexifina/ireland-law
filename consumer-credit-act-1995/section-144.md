@@ -52,7 +52,7 @@ Credit intermediaries.
 
 (c) the applicant is the holder of—
 
-(i) a bookmaker’s licence issued under the Betting Act, 1931,
+(i) a betting licence issued under Part 5 of the Act of 2024,
 
 (ii) a licence for the sale of intoxicating liquor granted under the Licensing Acts, 1833 to 1994,
 
