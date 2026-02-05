@@ -148,7 +148,7 @@ CONSTITUTION OF THE IRISH COURSING CLUB.
 
 (iv) The quorum for a meeting of the Executive Committee shall be seven.
 
-(v) The Executive Committee shall appoint one of its members to be Chairman and another of its members to be Vice-Chairman of the Committee. In the absence of the Chairman at any meeting of the Executive Committee, the Vice-Chairman shall be chairman of the meeting, and in the absence of both, the members present shall appoint one of their number to be chairman of the meeting. The Honorary Treasurer or Secretary of the Club shall not be eligible for appointment as Chairman or Vice- Chairman of the Executive Committee or for appointment as chairman of any meeting of the Committee.
+(v) The Executive Committee shall appoint one of its members to be Chairman and another of its members to be Vice-Chairman of the Committee. In the absence of the Chairman at any meeting of the Executive Committee, the Vice-Chairman shall be chairman of the meeting, and in the absence of both, the members present shall appoint one of their number to be chairman of the meeting. The Honorary Treasurer or Secretary of the Club shall not be eligible for appointment as Chairman or Vice-Chairman of the Executive Committee or for appointment as chairman of any meeting of the Committee.
 
 (vi) Subject to this Constitution, the Executive Committee shall regulate, by standing orders or otherwise, the procedure and business at its meetings.
 
@@ -170,7 +170,7 @@ CONSTITUTION OF THE IRISH COURSING CLUB.
 
 (i) Subject to Article 8 above, any of the Committees of the Club may from time to time appoint such and so many sub-committees of its members as such Committee thinks proper.
 
-(ii) Any such Committee may delegate to a sub-Committee any of its functions, powers and duties which, in its opinion, can be better or more conveniently exercised or performed by a sub-Committee and may regulate the procedure of any such sub- Committee.
+(ii) Any such Committee may delegate to a sub-Committee any of its functions, powers and duties which, in its opinion, can be better or more conveniently exercised or performed by a sub-Committee and may regulate the procedure of any such sub-Committee.
 
 (iii) The acts of any sub-committee shall be subject to confirmation by the Committee which appointed it save where such Committee dispenses with the necessity for such confirmation.
 
