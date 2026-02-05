@@ -1,10 +1,10 @@
-F14[Establishment of companies by Board.
+F16[Establishment of companies by Board.
 
 18B.—(1)The Board may, either by itself or with another person, with the consent of the Minister and the Minister for Finance, and subject to any conditions of either of those Ministers, promote and take part in the formation or establishment of a company under the Companies Acts, 1963 to 1999 —
 
 (a) to perform any of the functions conferred upon it by this Act, or
 
-(b) to operate a totalisator.
+(b) to provide pool betting in accordance with the terms of a totalisator licence held by the Board.
 
 (2) The Board may exercise total or partial control of the board of directors, by whatever name called, of a company of the Board that controls or manages the company.
 

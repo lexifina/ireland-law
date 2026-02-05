@@ -1,8 +1,8 @@
 Conditions attached to greyhound race track licence.
 
-23. — (1) The Board may, on the grant of a greyhound race track licence, attach any condition to the licence.
+23. — (1) Subject to the Act of 2024, the Board may, on the grant of a greyhound race track licence, attach any condition to the licence.
 
-(2) The Board may, by notice served on the licensee under a greyhound race track licence—
+(2) Subject to the Act of 2024, the Board may, by notice served on the licensee under a greyhound race track licence—
 
 (a) revoke any condition attached to the licence,
 
@@ -18,9 +18,9 @@ Conditions attached to greyhound race track licence.
 
 (c) conditions as to the provision of suitable facilities to enable authorised officers in attendance at races duly to perform their functions,
 
-(d) conditions as to permitting the Board to set up, maintain and work totalisators on greyhound race tracks on such sites as the Board may decide to be suitable and, where they are set up, as to provision by licensees of suitable arrangements for bookmakers in places convenient and suitable for carrying on their business (such arrangements to be determined, in default of agreement between bookmakers and licensees, by the Board).
+(d) conditions as to permitting the Board, as the holder of a totalisator licence, to provide pool betting on greyhound race tracks on such sites as the Board may decide to be suitable and, where they are set up, as to provision by licensees of suitable arrangements for bookmakers in places convenient and suitable for carrying on their business (such arrangements to be determined, in default of agreement between bookmakers and licensees, by the Board).
 
-(4) The Board shall not, pursuant to a condition referred to in paragraph (d) of subsection (3) of this section, decide that a site is suitable for a totalisator save after consultation with the licensee concerned.
+(4) The Board shall not, pursuant to a condition referred to in paragraph (d) of subsection (3) of this section, decide that a site is suitable for providing pool betting save after consultation with the licensee concerned.
 
 (5) ...
 
