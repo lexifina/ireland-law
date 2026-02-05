@@ -6,15 +6,17 @@ Interpretation.
 
 “the Act of 1975” means the Racing Board and Racecourses (Amendment) Act, 1975;
 
+"Act of 2024" means the Gambling Regulation Act 2024;
+
 “authorised bookmaker” means a licensed bookmaker who is the holder of a course-betting permit;
 
 “authorised officer” means a person appointed in writing by the Authority to be an authorised officer for the purposes of this Act;
 
 “authorised racecourse” means a racecourse including the precincts thereof authorised by the Authority under section 59;
 
-"HRI" means Horse Racing Ireland established under section 5 of the Horse and Greyhound Racing Act, 2001;
-
 "betting intermediary" means a person who, in the course of business, provides facilities that enable persons to make bets with persons (other than the first-mentioned person);
+
+"betting licence" has the same meaning as it has in the Act of 2024;
 
 “betting office” means any premises at an authorised racecourse in which betting is permitted by regulations under section 53;
 
@@ -42,17 +44,25 @@ Interpretation.
 
 “functions” includes powers and duties;
 
+"HRI" means Horse Racing Ireland established under section 5 of the Horse and Greyhound Racing Act, 2001;
+
+"in-person and remote betting licence" has the same meaning as it has in the Act of 2024;
+
+"in-person betting licence" has the same meaning as it has in the Act of 2024;
+
 "integrity services" means those services operated by or on behalf of the Racing Regulatory Body for the purposes of enforcing discipline and ensuring that horses are run fairly and properly;
 
 "jockeys" and "qualified riders" have the same meaning as in the Rules of Racing;
 
 “levy” means levy payable under section 54;
 
-“licensed bookmaker” means a person who is the holder of a bookmaker's licence for the time being in force issued under the Betting Act, 1931;
+"licensed bookmaker" means a licensee (within the meaning of the Act of 2024) of an in-person betting licence or an in-person and remote betting licence for the time being in force under the Act of 2024 where that licence authorises the licensee to act as a bookmaker (within the meaning of section 3 (2) of the Act of 2024);
 
 “licensed racecourse” means a racecourse which is licensed by the Racing Regulatory Body under the Rules of Racing;
 
 “the Minister” means the Minister for Agriculture, Food and Forestry;
+
+"pool betting" has the same meaning as it has in the Act of 2024;
 
 “precincts”, in relation to an authorised racecourse, means any place (including a car-park) adjacent to the racecourse under the control of the executive of a racecourse to which the public habitually resort for the purpose of attending and watching horseracing;
 
@@ -92,7 +102,7 @@ Interpretation.
 
 “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
 
-“totalisator licence” means a licence granted under the Totalisator Act, 1929.
+"totalisator licence" means a betting licence to the extent that the licence authorises the licensee (within the meaning of the Act of 2024) of that licence to provide pool betting for an event, a series of events or a class of events;
 
 (2) References however expressed in any enactment in force before the establishment day to an authorised racecourse under the Act of 1945 shall be construed on and after the establishment day as a reference to an authorised racecourse under this Act.
 
