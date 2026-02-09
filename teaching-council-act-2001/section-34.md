@@ -1,4 +1,4 @@
-Removal
+Removal from register for failure to apply for renewal of registration.
 
 34.—(1) Subject to subsection (1A), where a registered teacher fails to apply for renewal of registration in accordance with section 33, the Council shall, upon the expiration of his or her registration, inform him or her, by notice in writing, that he or she shall be removed from the register within one month from the date of such notice unless an application is received for renewal of registration within that period together with such renewal fee for late renewal of registration as may be prescribed under section 23.
 
