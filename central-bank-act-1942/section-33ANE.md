@@ -18,7 +18,9 @@ Application of Part under Bank Recovery and Resolution Directive.
 
 (h) a Union parent financial holding company;
 
-(i) a Union parent mixed financial holding company.
+(i) a Union parent mixed financial holding company;
+
+(j) a financial institution.
 
 (2) This Part applies in relation to—
 
@@ -48,4 +50,4 @@ Application of Part under Bank Recovery and Resolution Directive.
 
 (a) "Bank Recovery and Resolution Regulations" means the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015);
 
-(b) "financial holding company", "mixed financial holding company", "mixed-activity holding company", "parent financial holding company in a Member State", "parent mixed financial holding company in a Member State", "parent undertaking", "Union branch", "Union parent financial holding company" and "Union parent mixed financial holding company" have the meanings assigned to them, respectively, in the Bank Recovery and Resolution Regulations.
+(b) "financial holding company", "financial institution", "mixed financial holding company", "mixed-activity holding company", "parent financial holding company in a Member State", "parent mixed financial holding company in a Member State", "parent undertaking", "Union branch", "Union parent financial holding company" and "Union parent mixed financial holding company" have the meanings assigned to them, respectively, in the Bank Recovery and Resolution Regulations.
