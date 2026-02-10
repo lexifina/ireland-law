@@ -48,9 +48,9 @@ Interpretation.
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
 
-(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large
+(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to
 
-OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
 
 (i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
 
@@ -58,7 +58,7 @@ OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 
 
 (k) Commission Delegated Regulation (EU) 2021/424 of 17 December 2019 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the alternative standardised approach for market risk,
 
-(l) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID-19 crisis,
+(l) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID- 19 crisis,
 
 (m) Commission Implementing Regulation (EU) 2021/1043 of 24 June 2021 on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 of the European Parliament and of the Council,
 
@@ -76,8 +76,6 @@ OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 
 
 "consolidated bank note" has the same meaning as in the Currency Act 1927;
 
-OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024. OJ L, 2024/2795, 31.10.2024.
-
 ...
 
 ...
@@ -85,6 +83,8 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 1
 "credit union" has the meaning given by the Credit Union Act 1997;
 
 "Currency Act 1927" means that Act as adapted in consequence of the Constitution;
+
+OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024. OJ L, 2024/2795, 31.10.2024.
 
 "Deputy Financial Services and Pensions Ombudsman" means a person appointed under section 8(1)(b) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
 
@@ -210,8 +210,6 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 1
 
 (f) the Capital Requirements Regulation;
 
-OJ NO. L 83, 22.03.2013, P. 1
-
 (g) Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012;
 
 (h) Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012;
@@ -229,6 +227,8 @@ OJ NO. L 83, 22.03.2013, P. 1
 (n) Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013;
 
 (o) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);
+
+OJ NO. L 83, 22.03.2013, P. 1
 
 (p) Commission Implementing Regulation (EU) 2015/460 of 19 March 2015 laying down implementing technical standards with regard to the procedure concerning the approval of an internal model in accordance with Directive 2009/138/EC of the European Parliament and of the Council;
 
@@ -294,6 +294,8 @@ OJ NO. L 83, 22.03.2013, P. 1
 
 (at) each of the acts adopted by the European Commission specified in Schedule 10 (inserted by the European Union (Detailed Technical Measures Designation) Regulations 2018 and the European Union (Insurance Distribution) Regulations 2018);
 
+OJ, No L171, 29.6.2016, p. 1
+
 (au) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
 (av) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
@@ -303,8 +305,6 @@ OJ NO. L 83, 22.03.2013, P. 1
 (ax) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017;
 
 (ay) Commission Delegated Regulation (EU) 2019/979 of 14 March 2019;
-
-OJ, No L171, 29.6.2016, p. 1
 
 (az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019;
 
@@ -328,7 +328,13 @@ OJ, No L171, 29.6.2016, p. 1
 
 (bj) Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022;
 
-(bk) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023.
+OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25.7.2019, p.1
+
+(bk) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023;
+
+(bl) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023.
+
+(bm) Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
@@ -336,12 +342,6 @@ OJ, No L171, 29.6.2016, p. 1
 
 (5) In this Act, a reference to the directors of a company, in relation to a company that does not have a board of directors, is a reference to the persons responsible for directing the operations of the company.
 
-OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25.7.2019, p.1
-
 (6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
 
-Administrative penalties and other administrative measures for breaches of authorisation requirements and requirements for acquisitions of qualifying holdings
-
-54.— ...
-
-(4) Notwithstanding the definition of regulated financial service provider as provided for in the Act of 1942, a person that engages in conduct listed in paragraph (2) shall be treated as a regulated financial services provider for the purposes of Part IIIC of the Act of 1942.
+(bb) Regulation (EU) No. 1210/2010 of the European Parliament and of the Council of 15 December 2010 concerning authentication of euro coins and handling of euro coins unfit for circulation; (bc) Decision ECB/2010/14 of the European Central Bank of 16 September 2010 on the authenticity and fitness checking and recirculation of euro banknotes, as amended by Decision ECB/2012/19 of 7 September 2012 and by Decision ECB/2019/2195 of 5 December 2019.
