@@ -22,7 +22,7 @@ Item Provision Amendment affected
 
 1 Regulation Delete “and Financial Services Authority”. 25(5)
 
-2 Regulation Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of 26
+2 Regulation Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of Ireland”. 26
 
 PART 3
 
@@ -30,11 +30,11 @@ AMENDMENTS OF EUROPEAN COMMUNITIES (COOPERATION BETWEEN NATIONAL AUTHORITIES RES
 
 Item Provision Amendment affected
 
-1 Regulation Delete. 2(1), definition of
+1 Regulation Delete. 2(1), definition of Item Provision Amendment affected
 
-2 Schedule, Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of item 3
+2 Schedule, Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of Ireland”. item 3
 
-3 Schedule, Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of item 13
+3 Schedule, Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of Ireland”. item 13
 
 PART 4
 
@@ -42,9 +42,9 @@ AMENDMENTS OF EUROPEAN COMMUNITIES (UNDERTAKINGS FOR COLLECTIVE INVESTMENT IN TR
 
 Item Provision Amendment affected
 
-1 Regulation Delete “and Financial Services Authority”. 2(1), definition of “Bank”
+1 Regulation Delete “and Financial Services Authority”. 2(1), definition of
 
-2 Regulation Substitute: 98(8), definition of “qualified
+2 Regulation Substitute: 98(8), definition of
 
 3 Regulation Substitute: 98(8), definition of
 
@@ -54,13 +54,13 @@ AMENDMENTS OF MARKET ABUSE (DIRECTIVE 2003/6/EC) REGULATIONS 2005
 
 Item Provision Amendment affected
 
-1 Regulation Delete “and Financial Services Authority”. 2(1) (definition of “Bank”)
+1 Regulation Delete “and Financial Services Authority”. 2(1) (definition of Item Provision Amendment affected
 
 2 Regulation Substitute: 27, definition of (a) the Head of Financial Regulation of the Central Bank of Ireland, or
 
-(b) any person to whom the Head of Financial Regulation has delegated
+(b) any person to whom the Head of Financial Regulation has delegated responsibility
 
-3 Regulation Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of 28(4)(d)
+3 Regulation Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of Ireland”. 28(4)(d)
 
 PART 6
 
@@ -70,9 +70,9 @@ Item Provision Amendment affected
 
 1 Regulation Substitute: 80, definition of (a) the Head of Financial Regulation of the Central Bank of Ireland, or
 
-(b) any person to whom the Head of Financial Regulation has delegated
+(b) any person to whom the Head of Financial Regulation has delegated responsibility
 
-2 Regulation Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of 85(4)(d)
+2 Regulation Delete “Irish Financial Services Regulatory Authority”, substitute “Central Bank of Ireland”. 85(4)(d)
 
 PART 7
 
@@ -84,7 +84,7 @@ Item Provision Amendment affected
 
 (b) the Chief Executive of IAASA, or
 
-(c) any person to whom that Head or that Chief Executive has delegated the
+(c) any person to whom that Head or that Chief Executive has delegated the responsibility
 
 PART 8
 
