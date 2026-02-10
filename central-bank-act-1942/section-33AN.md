@@ -42,13 +42,13 @@ Interpretation (Part IIIC).
 
 "prescribed contravention" means, other than in respect of the CSD Regulation or as otherwise provided by this section, a contravention of—
 
-OJ L, 2023/2631, 30.11.2023
-
 (a) a provision of a designated enactment or designated statutory instrument, or
 
 (b) a code made, or a direction given, under such a provision, or
 
 (c) any condition or requirement imposed under a provision of a designated enactment, designated statutory instrument, code or direction, or
+
+OJ L, 2023/2631, 30.11.2023
 
 (d) any obligation imposed on any person by this Part or imposed by the Regulatory Authority pursuant to a power exercised under this Part;
 
@@ -70,4 +70,4 @@ OJ L, 2023/2631, 30.11.2023
 
 (4) In this Part “prescribed contravention” means, in respect of the SFT Regulation, an infringement of Articles 4, 13, 14 or 15 of that Regulation.
 
-(5) In this Part prescribed contravention means, in respect of the Benchmarks Regulation, a contravention of Article 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 21, 23, 24, 25, 26, 27, 28, 29 or 34 of that Regulation.
+(5) In this Part, "prescribed contravention" means, in respect of the Benchmarks Regulation, a contravention of Article 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 21, 23, 24, 25, 26, 27, 28, 28a(1), 29 or 34 of that Regulation.
