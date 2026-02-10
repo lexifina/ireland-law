@@ -1,3 +1,3 @@
-Appointment
+Appointment of acting Consumer Director in certain cases. (Repealed)
 
 33R.—...

@@ -1,3 +1,3 @@
-Right
+Right of appeal to High Court against Financial Services Ombudsman’s finding. (Repealed)
 
 57CL.—...

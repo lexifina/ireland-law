@@ -1,3 +1,3 @@
-Power
+Power to require deposit by licensed bankers in certain circumstances. (Repealed)
 
 50.—...

@@ -1,4 +1,4 @@
-Supplementary
+Supplementary powers of Bank with respect to certain responsibilities.
 
 5C.—(1) To enable the Bank to carry out its responsibilities, the Bank may—
 
