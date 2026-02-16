@@ -1,4 +1,4 @@
-Obligation of non-nationals to register.
+Obligation of nonnationals to register.
 
 9.—(1) (a) A register of non-nationals who have permission to be in the State shall be established and maintained by registration officers in such manner as the Minister may direct.
 
