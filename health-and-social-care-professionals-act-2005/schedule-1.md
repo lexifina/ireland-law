@@ -78,7 +78,9 @@ Resignations.
 
 (2) An ordinary member may resign membership at any time by giving to the chairperson written notice of resignation signed by the member.
 
-(3) The resignation of the chairperson or an ordinary member becomes effective on the date of the Council's meeting next held after written notice of the resignation is received by the Council or the chairperson, as the case may be. Termination of membership before completion of term.
+(3) The resignation of the chairperson or an ordinary member becomes effective on the date of the Council's meeting next held after written notice of the resignation is received by the Council or the chairperson, as the case may be.
+
+Termination of membership before completion of term.
 
 7. Despite paragraphs 3 and 4, a person ceases to be a member of the Council if the person—
 
