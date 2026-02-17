@@ -1,4 +1,4 @@
-Registration board’s power to make bye-laws.
+Registration board’s power to make byelaws.
 
 31.—(1) With the Council’s approval and in accordance with any guidelines issued under subsection (7), the registration board of a designated profession may, subject to section 32, make bye-laws relating to any or all of the following matters:
 

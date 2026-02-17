@@ -100,7 +100,9 @@ Casual vacancies.
 
 (2) If a casual vacancy occurs among the members appointed to a registration board under section 28(1)(a) or 28A(1)(a), the board shall co-opt to fill the vacancy a person who would be eligible under that section to be elected for appointment as a member of that board and the Minister shall appoint that person to fill the vacancy.
 
-(3) A person appointed to fill a casual vacancy holds office as a member of the registration board concerned for the unexpired portion of his or her predecessor's term of office. Convening meetings and notifying members.
+(3) A person appointed to fill a casual vacancy holds office as a member of the registration board concerned for the unexpired portion of his or her predecessor's term of office.
+
+Convening meetings and notifying members.
 
 9. (1) The first meeting of a registration board is to be held on the day appointed by the Minister for that board and the members shall be notified by the Minister of the date, time and place of the meeting.
 
@@ -120,9 +122,7 @@ Casual vacancies.
 
 Quorum.
 
-10. At least 40 per cent of the members in office constitute a quorum at a meeting of a registration board.
-
-Chairing of meetings.
+10. At least 40 per cent of the members in office constitute a quorum at a meeting of a registration board. Chairing of meetings.
 
 11. (1) While present at a meeting of a registration board, the chairperson of that board shall chair the meeting.
 
