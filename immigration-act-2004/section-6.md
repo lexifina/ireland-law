@@ -20,6 +20,8 @@ Approved port.
 
 (8) Where the Minister is satisfied that a condition imposed under subsection (6) has, without reasonable cause, been breached, he or she may, in accordance with this section, revoke the designation under subsection (5) of the port concerned as an approved port.
 
+OJ L, 2024/1348, 22.5.2024 OJ L, 2026/463, 26.2.2026 OJ L, 2026/464, 26.2.2026
+
 (9) Where the Minister proposes to revoke the designation of a port as an approved port, he or she shall give the person having management and control of the approved port a notice—
 
 (a) informing the person of the proposal and of the reasons for it, and
