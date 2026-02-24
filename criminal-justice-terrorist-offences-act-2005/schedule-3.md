@@ -2,9 +2,7 @@ SCHEDULE 3
 
 INTERNATIONAL CONVENTION AGAINST THE TAKING OF HOSTAGES
 
-The States Parties to this Convention,
-
-HAVING IN MIND the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of friendly relations and co-operation among States,
+The States Parties to this Convention, HAVING IN MIND the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of friendly relations and co-operation among States,
 
 RECOGNIZING in particular that everyone has the right to life, liberty and security of person, as set out in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights,
 
@@ -12,7 +10,9 @@ REAFFIRMING the principle of equal rights and self-determination of peoples as e
 
 CONSIDERING that the taking of hostages is an offence of grave concern to the international community and that, in accordance with the provisions of this Convention, any person committing an act of hostage taking shall either be prosecuted or extradited,
 
-BEING CONVINCED that it is urgently necessary to develop international co-operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism, Have agreed as follows:
+BEING CONVINCED that it is urgently necessary to develop international co-operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism,
+
+Have agreed as follows:
 
 Article 1
 
@@ -148,13 +148,13 @@ The provisions of this Convention shall not affect the application of the Treati
 
 Article 16
 
-1. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization
-
-United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609. of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
+1. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
 
 2. Each State may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation.
 
-3. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary- General of the United Nations.
+United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609.
+
+3. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
 
 Article 17
 
@@ -166,13 +166,13 @@ Article 17
 
 Article 18
 
-1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary- General of the United Nations.
+1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.
 
 2. For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
 
 Article 19
 
-1. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+1. Any State Party may denounce this Convention by written notification to the Secretary- General of the United Nations.
 
 2. Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
 

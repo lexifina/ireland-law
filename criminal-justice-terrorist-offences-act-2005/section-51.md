@@ -2,15 +2,13 @@ Amendment of Act of 1939 — new sections 22A to 22I.
 
 51.—The Act of 1939 is amended by inserting the following after section 22:
 
-“Definitions
+“Definitions for,
 
-22A.—(1) For the purposes of sections 22B to 22I— for, and
+22A.—(1) For the purposes of sections 22B to 22I— and operation of,
 
-‘disposal order’ means an order under section 22C; operation of, sections 22B to
+‘disposal order’ means an order under section 22C; sections 22B to 22I.
 
 ‘interim order’ means an order made under section 22B;
-
-22I.
 
 ‘Minister’ means Minister for Justice, Equality and Law Reform;
 
@@ -26,9 +24,9 @@ Amendment of Act of 1939 — new sections 22A to 22I.
 
 Interim
 
-22B.—(1) The Minister may apply ex parte to the High Court for an order interim order under subsection (2) in respect of specified property where respecting the Minister is of the opinion that it— specified property.
+22B.—(1) The Minister may apply ex parte to the High Court for an interim order order under subsection (2) in respect of specified property where the Minister is respect- of the opinion that it— ing
 
-(a) is the property of an unlawful organisation, whether or not the property is in the possession or control of that organisation, and
+(a) is the property of an unlawful organisation, whether or not the property specified is in the possession or control of that organisation, and property.
 
 (b) is forfeited to and vested in the Minister by virtue of section 22.
 
@@ -78,7 +76,7 @@ Interim
 
 Disposal
 
-22C.—(1) Subject to subsection (2), where an interim order has been order in force for not less than 12 months in relation to specified property, respecting the High Court may, on application by the Minister, make an order specified authorising the Minister to dispose of the property as he sees fit. property.
+22C.—(1) Subject to subsection (2), where an interim order has been in force order for not less than 12 months in relation to specified property, the High Court respecting may, on application by the Minister, make an order authorising the Minister specified to dispose of the property as he sees fit. property.
 
 (2) Subject to subsection (4), the Court shall make a disposal order in relation to any property that is the subject of an application under subsection (1) unless it is satisfied that the property is not the property of an unlawful organisation.
 
@@ -92,11 +90,11 @@ Disposal
 
 (5) On application by the respondent or, if the respondent's whereabouts cannot be ascertained, on the Court's own initiative, the Court may, if it considers it appropriate to do so in the interests of justice, adjourn the hearing of an application under subsection (1) for such period not exceeding 2 years as it considers reasonable.
 
-Ancillary orders
+Ancillary orders and
 
-22D.—(1) At any time while an interim order is in force, the and provision in
+22D.—(1) At any time while an interim order is in force, the High provision in relation
 
-High Court may, on application by the Minister, make such orders relation to certain as it considers necessary or expedient to enable the interim order profits or gains, to have full effect. etc.
+Court may, on application by the Minister, make such orders as it to certain profits or considers necessary or expedient to enable the interim order to have gains, etc. full effect.
 
 (2) The Minister shall give notice of an application under this section to—
 
@@ -112,21 +110,23 @@ High Court may, on application by the Minister, make such orders relation to cer
 
 (c) any other property, payable or arising, after the making of the order, in connection with any other property to which the order relates.
 
-Evidence.
+Evid-
 
-22E.—(1) Production in court in any proceedings of a document signed by the Minister and stating that the property specified in the document would, but for the operation of section 22, have been the property of an unlawful organisation is evidence that the specified property would, but for the operation of that section, have been the property of an unlawful organisation, unless the contrary is shown.
+22E.—(1) Production in court in any proceedings of a document signed by the ence.
+
+Minister and stating that the property specified in the document would, but for the operation of section 22, have been the property of an unlawful organisation is evidence that the specified property would, but for the operation of that section, have been the property of an unlawful organisation, unless the contrary is shown.
 
 (2) A document purporting to be a document of the Minister under subsection (1) and to be signed by the Minister shall be deemed for the purposes of this section to be such a document and to have been so signed, unless the contrary is shown.
 
-Seizure of
+Seizure of certain
 
-22F.—(1) Where an interim order or a disposal order is in force, certain a member of the Garda Síochána or an officer of customs and excise property. may seize any property that is the subject of the order for the purpose of preventing the property being removed from the State.
+22F.—(1) Where an interim order or a disposal order is in force, a property. member of the Garda Síochána or an officer of customs and excise may seize any property that is the subject of the order for the purpose of preventing the property being removed from the State.
 
 (2) Property seized under this section shall be dealt with in accordance with the directions of the High Court.
 
-Compensation.
+Compens-
 
-22G.—(1) An application to the High Court for an order under this section may be made where—
+22G.—(1) An application to the High Court for an order under this section may ation. be made where—
 
 (a) an interim order is discharged or lapses and a disposal order in relation to the matter is not made or, if made, is discharged, or
 
@@ -142,7 +142,9 @@ Compensation.
 
 Application of
 
-22H.—For the purposes of this Part, sections 6, 7 and 9 to 13 of certain the Act of 1996 apply with the following modifications and any provisions of Act other necessary modifications as if an interim order or a disposal of 1996. order made under this Part, or an application for such order, had been made under the Act of 1996:
+22H.—For the purposes of this Part, sections 6, 7 and 9 to 13 of the certain provisions
+
+Act of 1996 apply with the following modifications and any other necessary of Act of 1996. modifications as if an interim order or a disposal order made under this Part, or an application for such order, had been made under the Act of 1996:
 
 (a) a reference in any of the applicable provisions of the Act of 1996 to applicant or Minister shall be construed as referring to the Minister for Justice, Equality and Law Reform;
 
@@ -150,4 +152,4 @@ Application of
 
 Immunity from
 
-22I.—No action or proceeding of any kind lies against a proceedings. person in any court in respect of any act done or omission made in compliance with an order under any of sections 22B to 22D and 22H.”.
+22I.—No action or proceeding of any kind lies against a person in proceedings. any court in respect of any act done or omission made in compliance with an order under any of sections 22B to 22D and 22H.”.

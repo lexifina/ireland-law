@@ -2,13 +2,13 @@ SCHEDULE 4
 
 CONVENTION ON THE PREVENTION AND PUNISHMENT OF CRIMES AGAINST INTERNATIONALLY PROTECTED PERSONS, INCLUDING DIPLOMATIC AGENTS
 
-The States Parties to this Convention, Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co-operation among States,
+The States Parties to this Convention,
+
+Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co-operation among States,
 
 Considering that crimes against diplomatic agents and other internationally protected persons jeopardizing the safety of these persons create a serious threat to the maintenance of normal international relations which are necessary for co-operation among States,
 
-Believing that the commission of such crimes is a matter of grave concern to the international community,
-
-Convinced that there is an urgent need to adopt appropriate and effective measures for the prevention and punishment of such crimes,
+Believing that the commission of such crimes is a matter of grave concern to the international community, Convinced that there is an urgent need to adopt appropriate and effective measures for the prevention and punishment of such crimes,
 
 Have agreed as follows:
 
@@ -128,7 +128,7 @@ Article 13
 
 2. Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation.
 
-3. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary- General of the United Nations.
+3. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
 
 Article 14
 
@@ -144,13 +144,13 @@ This Convention shall remain open for accession by any State. The instruments of
 
 Article 17
 
-1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary- General of the United Nations.
+1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.
 
 2. For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
 
 Article 18
 
-1. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+1. Any State Party may denounce this Convention by written notification to the Secretary- General of the United Nations.
 
 2. Denunciation shall take effect six months following the date on which notification is received by the Secretary-General of the United Nations.
 
@@ -166,4 +166,6 @@ Article 20
 
 The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
 
-IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 14 December 1973.
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective
+
+Governments, have signed this Convention, opened for signature at New York on 14 December 1973.

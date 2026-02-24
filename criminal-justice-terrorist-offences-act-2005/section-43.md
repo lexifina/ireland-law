@@ -26,7 +26,9 @@ Proceedings relating to offences committed outside the State.
 
 (iii) a final determination has been made that the relevant arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned, or
 
-(c) that, because of special circumstances (including, but not limited to, the likelihood of a refusal referred to in paragraph (a)(ii) or a determination referred to in paragraph (b)(iii)), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
+(c) that, because of special circumstances (including, but not limited to, the likelihood of a refusal referred to in paragraph (a)(ii) or a determination referred to in paragraph
+
+(b)(iii)), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
 
 (4) In subsection (3)—
 

@@ -2,11 +2,9 @@ Amendment of Part II of Act of 1994 — new sections 8A to 8E.
 
 22.—Part II of the Act of 1994 is amended by inserting the following after section 8:
 
-“Confiscation
+“Confisca-
 
-8A.—(1) Where a person has been sentenced or otherwise dealt orders relating with by a court in respect of one or more offences of financing to offence of terrorism of which that person has been convicted, the Director of financing
-
-Public Prosecutions may make, or cause to be made, an application terrorism. to the court to determine whether the convicted person holds funds subject to confiscation.
+8A.—(1) Where a person has been sentenced or otherwise dealt with by a tion orders court in respect of one or more offences of financing terrorism of which that relating to person has been convicted, the Director of Public Prosecutions may make, or offence of cause to be made, an application to the court to determine whether the financing convicted person holds funds subject to confiscation. terrorism.
 
 (2) For the purposes of this Act, funds subject to confiscation are—
 
@@ -30,11 +28,11 @@ Public Prosecutions may make, or cause to be made, an application terrorism. to 
 
 (b) the amount to be recovered in that person's case by virtue of this section.
 
-Assessing the
+Assessing
 
-8B.—(1) For the purposes of this Act, the value of the funds that value of funds are subject to confiscation is the aggregate of the values of those subject to funds held by the defendant. confiscation.
+8B.—(1) For the purposes of this Act, the value of the funds that are subject the value of to confiscation is the aggregate of the values of those funds held by the funds defendant. subject to
 
-(2) For the purpose of assessing the value of funds subject to confiscation, the court shall, subject to subsection (3) of this section, make the following assumptions:
+(2) For the purpose of assessing the value of funds subject to confiscation, confisca- the court shall, subject to subsection (3) of this section, make the following tion. assumptions:
 
 (a) that any funds appearing to the court—
 
@@ -56,21 +54,19 @@ Assessing the
 
 (5) For the purpose of assessing the value of funds subject to confiscation in a case where a confiscation order has previously been made against the defendant, the court shall not take into account any of that defendant's funds subject to confiscation that are shown to the court to have been taken into account in determining the amount to be recovered under the confiscation order.
 
-Amount to be
+Amount to
 
-8C.—(1) Subject to subsection (2) of this section, where a recovered confiscation order has been made under section 8A of this Act, the under a amount to be recovered under the order shall be equal to the amount confiscation assessed by the court to be the value of the defendant's funds order made subject to confiscation. under section
+8C.—(1) Subject to subsection (2) of this section, where a confiscation order be has been made under section 8A of this Act, the amount to be recovered under recovered the order shall be equal to the amount assessed by the court to be the value under a of the defendant's funds subject to confiscation. confiscation
 
-(2) If the court is satisfied that the amount that might be realised
+(2) If the court is satisfied that the amount that might be realised at the time order made the confiscation order is made is less than the amount the court assesses to under be the value of the funds subject to confiscation, the amount to be recovered section 8A. in the defendant's case under the confiscation order shall be the amount appearing to the court to be the amount that might be so realised.
 
-8A. at the time the confiscation order is made is less than the amount the court assesses to be the value of the funds subject to confiscation, the amount to be recovered in the defendant's case under the confiscation order shall be the amount appearing to the court to be the amount that might be so realised.
+Re-assess-
 
-Re-assessment
+8D.—(1) This section applies where an application has previously been made ment of to the court under section 8A of this Act and the court has determined that whether the defendant did not hold funds subject to confiscation. defendant
 
-8D.—(1) This section applies where an application has previously of whether been made to the court under section 8A of this Act and the court defendant has determined that the defendant did not hold funds subject to holds funds confiscation. subject to
+(2) The Director of Public Prosecutions may make, or cause to be made, an holds funds application to the court for it to consider evidence— subject to confisca-
 
-(2) The Director of Public Prosecutions may make, or cause to be confiscation. made, an application to the court for it to consider evidence—
-
-(a) which was not considered by the court in making the determination referred to in subsection (1) of this section, and
+(a) which was not considered by the court in making the determination tion. referred to in subsection (1) of this section, and
 
 (b) which, had it been considered, the Director of Public Prosecutions believes would have led the court to determine that the defendant held funds subject to confiscation.
 
@@ -92,9 +88,11 @@ Re-assessment
 
 Revised
 
-8E.—(1) This section applies where a court has made a assessment of determination (referred to in this section as ‘the current funds subject determination’) under section 8A(5) of this Act of the amount to be to recovered in a particular case by virtue of that section. confiscation.
+8E.—(1) This section applies where a court has made a determination assessment
 
-(2) Where the Director of Public Prosecutions is of the opinion that the real value of the defendant's funds subject to confiscation was greater than their assessed value, the Director of Public Prosecutions may make, or cause to be made, an application to the court for the evidence on which that opinion was formed to be considered by the court.
+(referred to in this section as ‘the current determination’) under section 8A(5) of funds of this Act of the amount to be recovered in a particular case by virtue of that subject to section. confisca-
+
+(2) Where the Director of Public Prosecutions is of the opinion that the real tion. value of the defendant's funds subject to confiscation was greater than their assessed value, the Director of Public Prosecutions may make, or cause to be made, an application to the court for the evidence on which that opinion was formed to be considered by the court.
 
 (3) In subsections (2) and (4) of this section—
 
