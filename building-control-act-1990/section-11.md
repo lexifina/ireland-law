@@ -22,6 +22,14 @@ Powers of inspection by authorised persons.
 
 (d) be permitted to take such samples of the materials used in the carrying out of any construction work or take such other action in relation to such construction work as may be necessary to establish whether the requirements of building regulations are being complied with in relation to the building.
 
+(3A) (a) An authorised person may, where he or she deems it necessary, issue a warning, in writing, to the owner or occupier of the building, or any person responsible for the construction of the building, in relation to any requirement of building regulations or building control regulations.
+
+(b) A warning under paragraph (a) shall—
+
+(i) specify the provision of the regulations in relation to which the warning relates, and
+
+(ii) state that the person to whom the warning has been issued may, not later than 4 weeks from the date of the warning, make observations in writing to the authorised person regarding the matters to which the warning relates.
+
 (4) An authorised person shall be entitled to be assisted by such persons, and to bring with him such equipment, as he considers necessary to enable him to exercise his powers under this section.
 
 (5) Any person who—
