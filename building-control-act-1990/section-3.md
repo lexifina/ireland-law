@@ -10,6 +10,8 @@ Building regulations.
 
 (d) buildings as regards which any material change takes place in the purposes for which the buildings are used.
 
+(da) making provision for certain specified information to be provided in relation to products, materials or systems used or installed in, or in connection with, buildings or works;
+
 (2) Building regulations may be made for all or any of the following purposes—
 
 (a) making provision for securing the health, safety and welfare of—
