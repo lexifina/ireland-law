@@ -6,6 +6,8 @@ Improper conduct in relation to a landlord means—
 
 (a) the commission by the landlord of a contravention of subsection (4) or (5B) of section 19, subsection (1) of section 134 or subsection (1) of section 139,
 
+(aa) the setting of a rent pursuant to a review of the rent under a tenancy by serving notice of the rent on the tenant other than in accordance with the condition specified in subsection (2) of section 22.
+
 (b) the seeking by the landlord to rely on subsection (5) of section 19 in respect of a dwelling that does not comply with the requirements of that subsection,
 
 (ba) the seeking or requiring by the landlord (within the meaning of section 19B) of a payment to him or her of an amount or amounts in contravention of section 19B.
