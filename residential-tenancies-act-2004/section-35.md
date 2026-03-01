@@ -14,7 +14,11 @@ Table to section 34: interpretation and supplemental.
 
 (3) In paragraph 1 of the Table the reference to a failure that provides an excepted basis for termination is a reference to a failure to comply with section 16(h) where the behaviour in question falls within paragraph (a) or (b) of the definition of “behave in a way that is anti-social” in section 17(1).
 
-(4) In paragraph 4 of the Table the reference to a member of the landlord’s family is a reference to any spouse , civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, child, stepchild, foster child, grandchild, parent, grandparent, step parent, parent-in-law, brother, sister, nephew or niece of the landlord or a person adopted by the landlord under the Adoption Acts 1952 to 1998.
+(4) In paragraph 4 of the Table the reference to a member of the landlord’s family is a reference to—
+
+(a) subject to paragraph (b), any spouse, civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, child, stepchild, foster child, grandchild, parent, grandparent, step parent, parent-in-law, brother, sister, nephew or niece of the landlord or a person adopted by the landlord under the Adoption Acts 2010 to 2015, or
+
+(b) where the notice of termination is served in respect of a relevant Part 4 tenancy (within the meaning of section 35B) and the termination date specified in the notice of termination falls before the expiry of a tenancy of minimum duration under the relevant Part 4 tenancy, any spouse, civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, child, stepchild, foster child, parent, step parent, parent-in-law of the landlord or a person adopted by the landlord under the Adoption Acts 2010 to 2015.
 
 (5) ...
 
@@ -48,7 +52,19 @@ Table to section 34: interpretation and supplemental.
 
 (iii) the tenancy to which the notice relates has not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2 or 6 of the Table,
 
-(b) where section 35A(3)(a) applies, a declaration that section 35A(2) does not apply to the said notice of termination as the price to be obtained by selling at market value the dwelling that is the subject of an existing tenancy to which Part 4 applies is more than 20 per cent below the market value that could be obtained for the dwelling with vacant possession, and that the application of that subsection would, having regard to all the circumstances of that case be unduly onerous on, or would cause undue hardship on, that landlord.
+(b) where section 35A(3)(a) applies, a declaration that section 35A(2) does not apply to the said notice of termination as the price to be obtained by selling at market value the dwelling that is the subject of an existing tenancy to which Part 4 applies is more than 20 per cent below the market value that could be obtained for the dwelling with vacant possession, and that the application of that subsection would, having regard to all the circumstances of that case be unduly onerous on, or would cause undue hardship on, that landlord, and
+
+(c) where the notice of termination is served by the landlord in respect of a relevant Part 4 tenancy (within the meaning of section 35B), a declaration that—
+
+(i) on the date that the notice of termination is served, the landlord—
+
+(I) is not a company, and
+
+(II) is a landlord under not more than 3 tenancies of dwellings,
+
+(ii) where section 35B(5) does not apply, that the circumstances specified in one or more of paragraphs (a) to (c) of section 35B(4) apply and that the application of section 35B(3)(a) would, having regard to all the circumstances of the case, cause undue financial or other hardship on the landlord, and
+
+(iii) where section 35B(5) applies, that the termination date specified in the notice of termination falls on or after the expiry of a tenancy of minimum duration under the relevant Part 4 tenancy.
 
 (9) A notice of termination in respect of a termination made on the ground specified in paragraph 5 of the Table, or the statement referred to in that paragraph shall—
 
@@ -62,11 +78,19 @@ Table to section 34: interpretation and supplemental.
 
 (10) A notice of termination in respect of a termination made on the ground specified in paragraph 6 of the Table, or the statement referred to in that paragraph shall, for the purposes of the statement referred to in subparagraph (aa) of paragraph 6 of the Table, be accompanied by a copy of the planning permission required for the carrying out of the change of use of the dwelling concerned.
 
-(11) (a) Where, in respect of a tenancy, a landlord serves on a tenant a notice of termination, the landlord shall comply with subsection (1) of section 39A.
+(10A) Where a notice of termination is served by the landlord in respect of a termination of a relevant Part 4 tenancy (within the meaning of section 35B) on the ground specified in paragraph 5 or 6 of the Table, the statutory declaration that is to accompany the notice shall specify that—
 
-(b) A notice of termination referred to in paragraph (a) served in contravention of subsection (1) of section 39A shall be invalid.
+(a) on the date that the notice of termination is served—
 
-(12) Upon receipt of a copy of a notice of termination under section 39A, for the purpose of facilitating the making of an offer referred to in paragraph (aa) of subsection (8), or paragraph 4(b), 5(b) or 6(b) of the Table, the Board shall—
+(i) the landlord is not a company, and
+
+(ii) the landlord is a landlord under not more than 3 tenancies of dwellings, and
+
+(b) the termination date specified in the notice of termination falls on or after the expiry of a tenancy of minimum duration under the relevant Part 4 tenancy.
+
+(11) ...
+
+(12) Upon receipt of a copy of a notice of termination under section 62(1A), for the purpose of facilitating the making of an offer referred to in paragraph (aa) of subsection (8), or paragraph 4(b), 5(b) or 6(b) of the Table, the Board shall—
 
 (a) invite the tenant concerned, to confirm or provide, as appropriate, his or her contact details in writing to the Board, and
 
