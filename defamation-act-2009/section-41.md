@@ -6,6 +6,4 @@ Jurisdiction of courts.
 
 (b) the insertion of the following:
 
-“
-
-”.
+“”.

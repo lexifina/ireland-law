@@ -2,7 +2,7 @@
 
 Abolition of certain defences.
 
-15.— (1) Subject to sections 17(1) and 18 (1), any defence that, immediately before the commencement of this Part, could have been pleaded as a defence in an action for libel or slander is abolished.
+15.— (1) Subject to sections 17(1) and 18(1), any defence that, immediately before the commencement of this Part, could have been pleaded as a defence in an action for libel or slander is abolished.
 
 (2) In this section—
 
