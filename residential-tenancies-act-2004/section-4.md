@@ -16,6 +16,8 @@ Interpretation generally.
 
 “authorised agent” shall be construed in accordance with section 12(1)(e);
 
+"BER" has the same meaning as it has in the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012);
+
 "Board" shall be construed in accordance with section 150(1) and section 13 of the Residential Tenancies (Amendment) Act 2015;
 
 “child” includes a person who is no longer a minor and cognate words shall be construed accordingly;
@@ -31,6 +33,12 @@ Interpretation generally.
 “dwelling” means, subject to subsection (2), a property let for rent or valuable consideration as a self-contained residential unit and includes any building or part of a building used as a dwelling and any out office, yard, garden or other land appurtenant to it or usually enjoyed with it and, where the context so admits, includes a property available for letting but excludes a structure that is not permanently attached to the ground and a vessel and a vehicle (whether mobile or not);
 
 “establishment day” means the day appointed under section 149;
+
+"floor area" means—
+
+(a) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply, the floor area recorded in respect of the dwelling on the BER register on the basis of a BER assessment in accordance with those Regulations, and
+
+(b) in any other case, the floor area within the meaning of Article 6 of the Building Regulations 1997 (S.I. No. 497 of 1997);
 
 “functions” includes powers and duties and references to the performance of functions include, as respects power and duties, references to the exercise of the powers and the carrying out of the duties;
 
@@ -48,9 +56,13 @@ Interpretation generally.
 
 “Part 4 tenancy” shall be construed in accordance with section 29;
 
+"personal public service number" means a number allocated and issued in accordance with section 262 of the Social Welfare Consolidation Act 2005;
+
 “personal representative” has the same meaning as it has in the Succession Act 1965;
 
 “planning permission” means a permission under section 34 of the Planning and Development Act 2000;
+
+"postcode" means postcode within the meaning of section 66 of the Communications Regulation (Postal Services) Act 2011;
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
@@ -74,6 +86,8 @@ Interpretation generally.
 
 (h) ...
 
+"registered number", in relation to a company, means the number assigned to the company in the register kept by the Registrar of Companies under section 887 (2) of the Companies Act 2014;
+
 “remuneration” includes fees, allowances for expenses, benefits-inkind and superannuation;
 
 “required period of notice”, in relation to a notice of termination, means the period of notice required by Part 4 or 5 or, if greater, by the lease or tenancy agreement concerned;
@@ -84,7 +98,11 @@ Interpretation generally.
 
 “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
 
+"tax reference number" means the reference number stated on any return of income, form or notice of assessment issued to the company or other body corporate concerned by the Revenue Commissioners;
+
 “tenancy agreement” includes an oral tenancy agreement;
+
+"tenancy of minimum duration" has the meaning assigned to it by section 35B(1);
 
 “Tribunal” shall be construed in accordance with section 102(2).
 
