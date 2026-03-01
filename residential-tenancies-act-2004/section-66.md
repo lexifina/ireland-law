@@ -44,7 +44,9 @@ Period of notice where section 67 or 68 is inapplicable.
 
 (3) This section is subject to section 69.
 
-TABLE 1 Termination by Landlord
+TABLE 1
+
+Termination by Landlord
 
 224 days
 

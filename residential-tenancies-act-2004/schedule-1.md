@@ -84,6 +84,4 @@ PROTECTION FOR SUB-TENANCIES CREATED OUT OF PART 4 TENANCIES
 
 (b) this paragraph is without prejudice to the sub-tenant's right to put in issue, in a dispute in relation to the validity of the notice of termination referred to the Board under Part 6, the bona fides of the intention of the head-tenant to do or, as appropriate, permit to be done the thing mentioned in the notice.
 
-TABLE
-
-(c) the occupation by the person concerned mentioned in that paragraph does not take place within a reasonable time after the dispute in relation to the validity of the notice is finally determined under Part 6 or, in circumstances where such a requirement arises, the head-tenant does not comply with the requirement to make the offer referred to in that paragraph.
+TABLE (c) the occupation by the person concerned mentioned in that paragraph does not take place within a reasonable time after the dispute in relation to the validity of the notice is finally determined under Part 6 or, in circumstances where such a requirement arises, the head-tenant does not comply with the requirement to make the offer referred to in that paragraph.

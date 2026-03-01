@@ -16,11 +16,11 @@ Amendment of Housing (Miscellaneous Provisions) Act 1997.
 
 (b) by substituting the following section for section 3:
 
-“Excluding
+“Exclud-
 
-3.—(1) A tenant or relevant purchaser may, in respect of a house— orders.
+3.—(1) A tenant or relevant purchaser may, in respect of a house— ing
 
-(a) let to the tenant by a housing authority, or
+(a) let to the tenant by a housing authority, or orders.
 
 (b) in respect of which he or she is such a purchaser, apply to the District Court for an order (to be known and referred to in this Act as an ‘excluding order’) against a person including, in the case of an application by a tenant, a joint tenant (referred to in this Act as ‘the respondent’) whom the tenant or relevant purchaser making the application believes to be engaging in anti-social behaviour.
 
@@ -72,9 +72,9 @@ Amendment of Housing (Miscellaneous Provisions) Act 1997.
 
 (d) by substituting the following sections for section 4:
 
-“Excluding
+“Exclud-
 
-4.—(1) If, on the making of an application for an excluding order or between orders. the making of the application and its determination, the court is of the opinion that there are reasonable grounds for believing that there is an immediate risk of significant harm to the tenant, relevant purchaser or other occupant of the house if the order is not made immediately, the court may by order (to be known and referred to in this Act as an ‘interim excluding order’)—
+4.—(1) If, on the making of an application for an excluding order or ing between the making of the application and its determination, the court orders. is of the opinion that there are reasonable grounds for believing that there is an immediate risk of significant harm to the tenant, relevant purchaser or other occupant of the house if the order is not made immediately, the court may by order (to be known and referred to in this Act as an ‘interim excluding order’)—
 
 (a) direct the respondent, if residing at the house in respect of which the application was made, to leave that house, and
 
@@ -110,11 +110,11 @@ Amendment of Housing (Miscellaneous Provisions) Act 1997.
 
 (4) An interim excluding order shall cease to have effect on the determination by the court of the application for an excluding order.
 
-Provision
+Provi-
 
-4A.—For the avoidance of doubt— for
+4A.—For the avoidance of doubt— sion
 
-(a) no order may be made under section 3 or 4 directing anything to be done, avoidance or prohibiting anything from being done, in a housing estate none of the of doubt houses in which is under the control and management of a housing authority,
+(a) no order may be made under section 3 or 4 directing anything to for be done, or prohibiting anything from being done, in a housing avoid- estate none of the houses in which is under the control and ance of management of a housing authority, doubt
 
 (b) a house shall, for the purposes of those sections and paragraph (a), be regarded as being under the control and management of a housing authority despite the fact that the authority has, under section 9 of the Housing (Miscellaneous Provisions) Act 1992, delegated all or one or more of its functions in respect of that house to a designated body.”,
 
