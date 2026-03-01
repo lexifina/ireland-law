@@ -1,6 +1,6 @@
 Order prohibiting the publication of a defamatory statement.
 
-33.— (1) The High Court, or where a defamation action has been brought, the court in which it was brought, may, upon the application of the plaintiff, make an order prohibiting the publication or further publication of the statement in respect of which the application was made if in its opinion—
+33.— (1) The High Court, or where a defamation action has been brought, the court in which it was brought, may, upon the application of the plaintiff, make an order prohibiting the publication or further publication of the statement in respect of which the application was made if the court is satisfied that—
 
 (a) the statement is defamatory, and
 

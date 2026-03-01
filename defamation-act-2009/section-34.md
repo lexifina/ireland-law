@@ -1,6 +1,6 @@
 Summary disposal of action.
 
-34.— (1) The court in a defamation action may, upon the application of the plaintiff, grant summary relief to the plaintiff if it is satisfied that—
+34.— (1) The court in a defamation action may, upon the application of the plaintiff, grant a correction order or an order prohibiting further publication of the statement to which the defamation action relates, or both to the plaintiff if it is satisfied that—
 
 (a) the statement in respect of which the action was brought is defamatory, and
 
@@ -10,4 +10,6 @@ Summary disposal of action.
 
 (3) An application under this section shall be brought by motion on notice to the other party to the action and shall be grounded on an affidavit.
 
-(4) An application under this section shall not be heard or determined in the presence of a jury.
+(4) ...
+
+ADDITIONAL PROVISIONS REGARDING DEFAMATION PROCEEDINGS RELATING TO ENGAGEMENT IN PUBLIC PARTICIPATION

@@ -8,7 +8,7 @@ Offer to make amends.
 
 (b) state that it is an offer to make amends for the purposes of this section, and
 
-(c) state whether the offer is in respect of the entire of the statement or an offer (in this Act referred to as a “qual ified offer”) in respect of—
+(c) state whether the offer is in respect of the entire of the statement or an offer (in this Act referred to as a “qualified offer”) in respect of—
 
 (i) part only of the statement, or
 
@@ -22,6 +22,6 @@ Offer to make amends.
 
 (a) to make a suitable correction of the statement concerned and a sufficient apology to the person to whom the statement refers or is alleged to refer,
 
-(b) to publish that correction and apology in such manner as is reasonable and practicable in the circumstances, and
+(b) to publish that correction and apology in such manner as will ensure that the correction and apology will be given the same or similar prominence as was given to the statement concerned, unless the person to whom the statement refers or is alleged to refer otherwise requests,
 
 (c) to pay to the person such sum in compensation or damages (if any), and such costs, as may be agreed by them or as may be determined to be payable, whether or not it is accompanied by any other offer to perform an act other than an act referred to in paragraph (a), (b) or (c).

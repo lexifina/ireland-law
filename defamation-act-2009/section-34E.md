@@ -1,0 +1,3 @@
+Application to strike out claim and appeal.
+
+34E.— ...

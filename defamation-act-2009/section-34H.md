@@ -1,0 +1,3 @@
+Order for damages in case of section 34F or 34G declaration.
+
+34H.— ...

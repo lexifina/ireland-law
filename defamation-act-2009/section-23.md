@@ -10,7 +10,7 @@ Effect of offer to make amends.
 
 (d) no defamation action shall be brought or, if already brought, proceeded with against another person in respect of the statement to which the offer to make amends applies unless the court considers that in all the circumstances of the case it is just and proper to so do.
 
-(2) Subject to subsection (3), it shall be a defence to a defamation action for a person to prove that he or she made an offer to make amends under section 22 and that it was not accepted, unless the plaintiff proves that the defendant knew or ought reasonably to have known at the time of the publication of the statement to which the offer relates that—
+(2) Subject to subsection (3), it shall be a defence to a defamation action for a person to prove that he or she made an offer to make amends under section 22 and that it was not accepted, unless the plaintiff proves that, at the time of the publication of the statement to which the offer relates, the defendant knew that, or was reckless as to whether—
 
 (a) it referred to the plaintiff or was likely to be understood as referring to the plaintiff, and
 
@@ -21,3 +21,9 @@ Effect of offer to make amends.
 (4) A person who makes an offer to make amends is not required to plead it as a defence in a defamation action.
 
 (5) If a defendant in a defamation action pleads the defence under this section, he or she shall not be entitled to plead any other defence in the action, and if the defence is pleaded in respect of a qualified offer only he or she shall not be entitled to plead any other defence in respect of that part of the action that relates to the part of the statement or the meaning, as the case may be, to which the qualified offer relates.
+
+(6) In addition to having regard to the matters provided for in section 169(1) of the Act of 2015, a court shall, when considering the making of an order as to costs in a defamation action, have regard to the conduct, subsequent to the making of an offer of amends, of—
+
+(a) the person who made the offer, and
+
+(b) the person to whom the offer was made, in relation to the offer.

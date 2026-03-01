@@ -1,6 +1,6 @@
 Lodgment of money in settlement of action.
 
-29.— (1) In an action for damages for defamation the defendant may, upon giving notice in writing to the plaintiff, pay a sum of money into court in satisfaction of the action when filing his or her defence to the action.
+29.— (1) In an action for damages for defamation the defendant may, upon giving notice in writing to the plaintiff, pay a sum of money into court in satisfaction of the action ....
 
 (2) A payment to which this section applies shall be deemed to be a payment under such rule of court for the time being in force as provides for the payment into court of a sum of money in satisfaction of an action for damages for defamation.
 

@@ -6,7 +6,7 @@ Declaratory order.
 
 (2) Upon an application under this section, the court shall make a declaratory order if it is satisfied that—
 
-(a) the statement is defamatory of the applicant and the respondent has no defence to the application,
+(a) the statement is defamatory of the applicant and the respondent has no defence to the application that is reasonably likely to succeed,
 
 (b) the applicant requested the respondent to make and publish an apology, correction or retraction in relation to that statement, and
 
@@ -18,7 +18,7 @@ Declaratory order.
 
 (5) An application under this section shall be brought by motion on notice to the respondent grounded on affidavit.
 
-(6) Where a court makes a declaratory order, it may, in addition, make an order under section 30 or 33 , upon an application by the applicant in that behalf.
+(6) Where a court makes a declaratory order, it may, in addition, make an order under section 30 or 33, or orders under both of those sections, upon an application by the applicant in that behalf.
 
 (7) The court may, for the purposes of making a determination in relation to an application under this section in an expeditious manner, give directions in relation to the delivery of pleadings and the time and manner of trial of any issues raised in the course of such an application.
 

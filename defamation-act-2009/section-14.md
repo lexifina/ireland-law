@@ -8,10 +8,10 @@ Meaning.
 
 (2) Where a court rules under subsection (1) that—
 
-(a) the statement in respect of which the action was brought is not reasonably capable of bearing the imputationpleaded by the plaintiff, or
+(a) the statement in respect of which the action was brought is not reasonably capable of bearing the imputation pleaded by the plaintiff, or
 
 (b) that any imputation so pleaded is not reasonably capable of bearing a defamatory meaning, it shall dismiss the action in so far only as it relates to the imputation concerned.
 
-(3) An application under this section shall be brought by notice of motion and shall be determined, in the case of a defamation action brought in the High Court, in the absence of the jury.
+(3) An application under this section shall be brought by notice of motion ....
 
-(4) An application under this section may be brought at any time after the bringing of the defamation action concerned includingduring the course of the trial of the action.
+(4) An application under this section may be brought at any time after the bringing of the defamation action concerned including during the course of the trial of the action.
