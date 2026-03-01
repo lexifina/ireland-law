@@ -4,7 +4,7 @@
 
 (a) the other terms of the tenancy, and
 
-(b) the letting values of dwellings of a similar size, type and character to the dwelling and situated in a comparable area to that in which it is situated.
+(b) rent information contained in the published register in relation to dwellings of a similar size (determined by reference to floor area), number of bedrooms, type, character, and (where applicable) BER, to the dwelling and situated in a comparable area to that in which it is situated.
 
 (2) References in this Part to a review of a rent include references to—
 

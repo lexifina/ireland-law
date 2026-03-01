@@ -8,6 +8,8 @@ Service of notices.
 
 (c) by sending it by post in a prepaid letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address;
 
+(ca) by sending it by electronic means to an email address, fax number or other electronic contact point used by the person for receiving emails, faxes or other electronic messages, where a record that the notice or other document has been sent is made for the sender by the email system, fax machine or other electronic system used;
+
 (d) where the notice or other document relates to a dwelling and it appears that no person is in actual occupation of the dwelling, by affixing it in a conspicuous position on the outside of the dwelling or the property containing the dwelling.
 
 (2) Where the notice concerned is to be served on or given to a person who is the owner, landlord, tenant or occupier of a dwelling and the name of the person cannot be ascertained by reasonable inquiry it may be addressed to the person by using the words the owner, the landlord, the tenant or the occupier, as the case may require.
