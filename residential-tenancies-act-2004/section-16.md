@@ -16,6 +16,16 @@ Obligations of tenants.
 
 (c) allow, at reasonable intervals, the landlord, or any person or persons acting on the landlord's behalf, access to the dwelling (on a date and time agreed in advance with the tenant) for the purposes of inspecting the dwelling,
 
+(ca) on the request of the landlord or any person or persons acting on the landlord’s behalf in relation to the landlord’s intended entry into an enforceable agreement of the type referred to in paragraph 3 of the Table to section 34 (in this paragraph referred to as an "intended transfer"), allow, at reasonable intervals—
+
+(i) the landlord,
+
+(ii) any person or persons acting on the landlord’s behalf,
+
+(iii) a prospective buyer of the dwelling (accompanied by a person referred to in subparagraph (i) or (ii)), or
+
+(iv) any person or persons acting on the prospective buyer’s behalf (accompanied by a person referred to in subparagraph (i) or (ii)), access to the dwelling (on a date and time agreed in advance with the tenant) for the purposes of inspecting the dwelling in connection with the intended transfer.
+
 (d) notify the landlord or his or her authorised agent of any defect that arises in the dwelling that requires to be repaired so as to enable the landlord comply with his or her obligations, in relation to the dwelling or the tenancy, under any enactment,
 
 (e) allow the landlord, or any person or persons acting on the landlord's behalf, reasonable access to the dwelling for the purposes of allowing any works (the responsibility for the carrying out of which is that of the landlord) to be carried out,
