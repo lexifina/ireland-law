@@ -1,6 +1,6 @@
 Grounds for termination by landlord.
 
-34.—Subject to section 35A, a Part 4 tenancy may be terminated by the landlord—
+34.—Subject to sections 35A and 35B, a Part 4 tenancy may be terminated by the landlord—
 
 (a) on one or more of the grounds specified in the Table to this section if—
 
@@ -8,11 +8,13 @@ Grounds for termination by landlord.
 
 (ii) the notice of termination cites as the reason for the termination the ground or grounds concerned and contains or is accompanied—
 
-(I) in the case of paragraph 2, 5 or 6 of that Table, by the statement referred to in that paragraph, and
+(I) in the case of paragraph 2 of that Table, by the statement referred to in that paragraph,
 
 (II) in the case of paragraph 3 or 4 of that Table, by the statutory declaration referred to in that paragraph, and
 
-(iii) in the case of a notice of termination that cites as the reason for the termination the ground specified in paragraph 5, the notice of termination contains or is accompanied by a certificate in writing of a registered professional (within the meaning of the Building Control Act 2007) stating that—
+(III) in the case of paragraph 5 or 6 of that Table, by the statement and the statutory declaration referred to in that paragraph, and
+
+(iii) in the case of a notice of termination that cites as the reason for the termination the ground specified in paragraph 5, the notice of termination contains or is accompanied by a certificate in writing of a registered construction professional (within the meaning of the Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022) stating that—
 
 (I) the proposed refurbishment or renovation works would pose a risk to the health or safety of the occupants of the dwelling concerned and should not proceed while the dwelling is occupied, and
 
@@ -42,15 +44,21 @@ Grounds for termination
 
 (i) the intended occupant’s identity and (if not the landlord) his or her relationship to the landlord, and
 
-(ii) the expected duration of that occupation, and
+(ii) the expected duration of that occupation, ...
 
 (b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if ... the following conditions are satisfied—
 
 (i) the dwelling is vacated by the person referred to in subparagraph (a) within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
-(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2, 3 or 6 of this Table.
+(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2, 3 or 6 of this Table, and
 
-5. The landlord intends to substantially refurbish or renovate the dwelling or the property containing the dwelling in a way which requires the dwelling to be vacated for that purpose (and, where planning permission is required for the carrying out of that refurbishment or renovation, that permission has been obtained) and the notice of termination (the “notice”) contains or is accompanied, in writing, by a statement—
+(c) where the notice of termination is served by the landlord in respect of a relevant Part 4 tenancy (within the meaning of section 35B), specifying whether the termination date specified in the notice of termination falls before, on or after the expiry of a tenancy of minimum duration under the relevant Part 4 tenancy, and that on the date that the notice of termination is served—
+
+(i) the landlord is not a company, and
+
+(ii) the landlord is a landlord under not more than 3 tenancies of dwellings.
+
+5. The landlord intends to substantially refurbish or renovate the dwelling or the property containing the dwelling in a way which requires the dwelling to be vacated for that purpose (and, where planning permission is required for the carrying out of that refurbishment or renovation, that permission has been obtained) and the notice of termination (the “notice”) contains or is accompanied, in writing, by a statutory declaration referred to in section 35(10A) and a statement—
 
 (a) specifying the nature of the intended works,
 
@@ -64,7 +72,7 @@ Grounds for termination
 
 (ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2, 3 or 6 of this Table.
 
-6. The landlord intends to change the use of the dwelling or the property containing the dwelling to some other use (and, where planning permission is required for that change of use, that permission has been obtained) and the notice of termination (the “notice”) contains or is accompanied, in writing, by a statement—
+6. The landlord intends to change the use of the dwelling or the property containing the dwelling to some other use (and, where planning permission is required for that change of use, that permission has been obtained) and the notice of termination (the “notice”) contains or is accompanied, in writing, by a statutory declaration referred to in section 35(10A) and a statement—
 
 (a) specifying the nature of the intended use,
 
@@ -83,5 +91,3 @@ Grounds for termination
 (i) the dwelling becomes available for reletting within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
 (ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2 or 3 of this Table.
-
-Table to section 34:
