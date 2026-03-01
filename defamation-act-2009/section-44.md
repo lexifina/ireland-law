@@ -6,9 +6,9 @@ Press Council.
 
 (3) No body (other than a body that stands recognised under this section for the time being) shall be known as, or describe itself as, the Press Council.
 
-(4) The Minister shall not make an order under subsection (1) unless he or she is satisfied that the body in respect of which he or she proposes to make the order complies with the minimum requirements specified in Schedule 2 .
+(4) The Minister shall not make an order under subsection (1) unless he or she is satisfied that the body in respect of which he or she proposes to make the order complies with the minimum requirements specified in Schedule 2.
 
-(5) If the Minister is of the opinion that a body for the time being standing recognised by order under this section no longer complies with the provisions of Schedule 2 , he or she may revoke that order.
+(5) If the Minister is of the opinion that a body for the time being standing recognised by order under this section no longer complies with the provisions of Schedule 2, he or she may revoke that order.
 
 (6) The Minister shall, before making an order under subsection (5), allow the body for the time being standing recognised under this section to make representations to him or her.
 
