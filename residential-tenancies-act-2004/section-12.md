@@ -46,13 +46,21 @@ Obligations of landlords.
 
 (iii) forward to the tenant any statement in writing of the kind referred to in section 187(2) made by the management company in relation to that complaint,
 
-(i) in the case of a tenancy of a dwelling in a rent pressure zone (within the meaning given in section 19(7)), where the tenancy commences on or after the commencement of section 33 of the Planning and Development (Housing) and Residential Tenancies Act 2016, furnish the tenant, in writing, with the following information at the commencement of the tenancy:
+(i) in the case of a tenancy (other than a tenancy to which section 5 (4) of the Residential Tenancies (Amendment) Act 2021 applies) created on or after 1 March 2026 (in this paragraph referred to as a "relevant tenancy"), furnish the tenant and the Board, in writing, with the following information at the commencement of the relevant tenancy:
 
-(i) the amount of rent that was last set under a tenancy for the dwelling;
+(i) the amount of rent that was last set under the most recent previous tenancy, if any, of the dwelling;
 
-(ii) the date the rent was last set under a tenancy for the dwelling;
+(ii) the date the rent was last set under the most recent previous tenancy, if any, of the dwelling;
 
-(iii) a statement as to how the rent set under the tenancy of the dwelling has been calculated having regard to section 19 ....
+(iii) a statement as to how the rent set under the relevant tenancy has been calculated having regard to section 19;
+
+(iv) the number assigned under section 135(3) in respect of the most recent previous tenancy, if any, of the dwelling;
+
+(v) by reference to the published register, the amount of rent payable and the number assigned under section 135(3) in respect of the most recent tenancy, preceding the date of commencement of the relevant tenancy, of each of 3 dwellings—
+
+(I) of a similar size (determined by reference to floor area), number of bedrooms, type, character and (where applicable) BER to the dwelling the subject of the relevant tenancy, and
+
+(II) situated in a comparable area to that in which the dwelling the subject of the relevant tenancy is situated.
 
 (2) Subsection (1)(b) does not apply to any repairs that are necessary due to the failure of the tenant to comply with section 16(f).
 
