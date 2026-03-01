@@ -14,4 +14,4 @@ Aggravated and punitive damages.
 
 (c) knew that the statement was untrue or in publishing it was reckless as to whether it was true or untrue, the court may, in addition to any general, special or aggravated damages payable by the defendant to the plaintiff, order the defendant to pay to the plaintiff damages (in this section referred to as “punitive damages”) of such amount as it considers appropriate.
 
-(3) In this section “court” means, in relation to a defamation action brought in the High Court, the jury, if the High Court is sitting with a jury.
+(3) ...

@@ -8,9 +8,15 @@ Correction order.
 
 (i) the date and time upon which, or
 
-(ii) the period not later than the expiration of which, the correction order shall be published, and
+(ii) the period not later than the expiration of which, the correction order shall be published,
 
-(b) specify the form, content, extent and manner of publication of the correction, and shall, unless the plaintiff otherwise requests, require the correction to be published in such manner as will ensure that it is communicated to all or substantially all of those persons to whom the defamatory statement was published.
+(b) specify the form, content, extent and manner of publication of the correction, and,
+
+(c) unless the plaintiff otherwise requests, require the correction to be published in such manner as will ensure that—
+
+(i) it is given the same or similar prominence as was given to the defamatory statement, and
+
+(ii) it is communicated to all or substantially all of those persons to whom the defamatory statement was published.
 
 (3) Where a plaintiff intends to make an application under this section, he or she shall so inform—
 
@@ -18,4 +24,4 @@ Correction order.
 
 (b) the court at the trial of the action.
 
-(4) An application under this section may be made at such time during the trial of a defamation action as the court or, where the action is tried in the High Court sitting with a jury, the trial judge directs.
+(4) An application under this section may be made at such time during the trial of a defamation action as the court ... directs.

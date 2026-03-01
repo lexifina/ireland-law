@@ -20,11 +20,13 @@ Absolute privilege.
 
 (h) made in the course of proceedings involving the exercise of limited functions and powers of a judicial nature in accordance with Article 37 of the Constitution, where the statement is connected with those proceedings,
 
-(i) a fair and accurate report of proceedings publicly heard before, or decision made public by, any court—
+(i) a fair and accurate report of proceedings publicly heard before, or a decision made public by, any court (including a court-martial)—
 
-(i) established by law in the State, or
+(i) established by law in the State,
 
-(ii) established under the law of Northern Ireland,
+(ii) established under the law of Northern Ireland, or
+
+(iii) established under the law of any other state or place,
 
 (j) a fair and accurate report of proceedings to which a relevant enactment referred to in section 40 of the Civil Liability and Courts Act 2004 applies,
 
@@ -68,4 +70,4 @@ Absolute privilege.
 
 (4) A defence under this section shall be known as, and is referred to in this Act, as the “defence of absolute privilege”.
 
-(4) In this section, ‘application for parole’ and ‘parole order’ have the meanings they have in the Parole Act 2019.
+(5) In this section, "application for parole" and "parole order" have the meanings they have in the Parole Act 2019.

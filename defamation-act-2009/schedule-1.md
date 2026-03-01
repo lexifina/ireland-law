@@ -8,7 +8,7 @@ STATEMENTS PRIVILEGED WITHOUT EXPLANATION OR CONTRADICTION
 
 1. A fair and accurate report of any matter to which the defence of absolute privilege would apply (other than a fair and accurate report referred to in section 17(2)(i) or (k)).
 
-2. A fair and accurate report of any proceedings publicly heard before, or decision made public by a court (including a court-martial) established under the law of any state or place (other than the State or Northern Ireland).
+2. ...
 
 3. A fair and accurate report of the proceedings (other than court proceedings) presided over by a judge of a court established under the law of Northern Ireland.
 
@@ -30,15 +30,15 @@ STATEMENTS PRIVILEGED WITHOUT EXPLANATION OR CONTRADICTION
 
 10. A fair and accurate copy or extract from any register kept in pursuance of any law which is open to inspection by the public or of any other document which is required by law to be open to inspection by the public.
 
-11. A fair and accurate report, copy or summary of any notice or advertisement published by or on the authority of any court established by law in the State or under the law of a Member State or of the United Kingdom, or any judge or officer of such a court.
+11. A fair and accurate report, copy or summary of any notice or advertisement published by or on the authority of any court established by law in the State or in a state or place other than the State, or any judge or officer of such a court.
 
-12. A fair and accurate report or copy or summary of any notice or other document issued for the information of the public by or on behalf of any Department of State for which a Minister of the Government is responsible, local authority or the Commissioner of the Garda Síochána, or by or on behalf of a corresponding department, authority or officer in a Member State or in the United Kingdom.
+12. A fair and accurate report or copy or summary of any notice or other document issued for the information of the public by or on behalf of any Department of State for which a Minister of the Government is responsible, local authority or the Commissioner of the Garda Síochána, or by or on behalf of a corresponding department, authority or officer in a state or place other than the State.
 
 13. A fair and accurate report or copy or summary of any notice or document issued by or on the authority of a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas.
 
 13A. A protected disclosure within the meaning of the Protected Disclosures Act 2014.
 
-14. A determination of the Press Ombudsman referred to in paragraph 9(2) of Schedule 2 .
+14. A determination of the Press Ombudsman referred to in paragraph 9(2) of Schedule 2.
 
 15. A determination of the Press Council referred to in paragraph 9(4) of Schedule 2 or a report of the Press Council relating to the past performance of its functions.
 
@@ -54,13 +54,13 @@ PART 2
 
 STATEMENTS PRIVILEGED SUBJECT TO EXPLANATION OR CONTRADICTION
 
-1. A fair and accurate report of the proceedings, findings or decisions of an association, or a committee or governing body of an association, whether incorporated or not in the State, in a Member State or in the United Kingdom, relating to a member of the association or to a person subject, by contract or otherwise, to control by the association.
+1. A fair and accurate report of the proceedings, findings or decisions of an association, or a committee or governing body of an association, whether incorporated or not the State or in a state or place other than the State, relating to a member of the association or to a person subject, by contract or otherwise, to control by the association.
 
-2. A fair and accurate report of the proceedings at any public meeting, held in the State, in a Member State or in the United Kingdom, being a meeting held for a lawful purpose and for the discussion of any matter of public concern whether the admission to the meeting is general or restricted.
+2. A fair and accurate report of the proceedings at any public meeting, held the State or in a state or place other than the State, being a meeting held for a lawful purpose and for the discussion of any matter of public concern whether the admission to the meeting is general or restricted.
 
-3. A fair and accurate report of the proceedings at a general meeting, whether in the State, in a Member State or in the United Kingdom, of any company or association established by or under statute or incorporated by charter.
+3. A fair and accurate report of the proceedings at a general meeting, whether the State or in a state or place other than the State, of any company or association established by or under statute or incorporated by charter.
 
-4. A fair and accurate report of the proceedings at any meeting or sitting of any local authority or the Health Service Executive, and any corresponding body in a Member State or in the United Kingdom.
+4. A fair and accurate report of the proceedings at any meeting or sitting of any local authority or the Health Service Executive, and any corresponding body state or place other than the State.
 
 5. A fair and accurate report of a press conference convened by or on behalf of a body to which this Part applies or the organisers of a public meeting within the meaning of paragraph 2 to give an account to the public of the proceedings or meeting.
 
