@@ -26,9 +26,15 @@ Particulars to be specified in application under section 134.
 
 (ii) ...
 
-(iii) a statement as to which of the following categories it belongs namely, a whole or part of a house, a maisonette, an apartment, a flat or a bedsitter and, in case it falls within the category of a house or maisonette, an indication as to whether the house or maisonette is detached, semi-detached or terraced, and
+(iii) a statement as to which of the following categories it belongs namely, a whole or part of a house, a maisonette, an apartment, a flat or a bedsitter and, in case it falls within the category of a house or maisonette, an indication as to whether the house or maisonette is detached, semi-detached or terraced,
 
 (iv) the number of bedrooms,
+
+(v) the number of bed spaces,
+
+(vi) the floor area, and
+
+(vii) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply, the BER,
 
 (j) the date the tenancy of the dwelling commenced,
 

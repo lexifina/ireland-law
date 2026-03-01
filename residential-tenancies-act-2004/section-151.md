@@ -10,7 +10,7 @@ Functions of Board.
 
 (c) the provision to the Minister of advice concerning policy in relation to the ... rented sector,
 
-(ca) the making of reports to the Minister under section 24A,
+(ca) ...
 
 (cb) the publication of statistics under section 114A,
 
