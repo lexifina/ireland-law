@@ -66,9 +66,7 @@ COMPENSATION (2011) (2012/C8/03)
 
 (d) the description of the compensation mechanism and the parameters for calculating, monitoring and reviewing the compensation; and
 
-(e) the arrangements for avoiding and recovering any overcompensation.
-
-2.4. Duration of the period of entrustment
+(e) the arrangements for avoiding and recovering any overcompensation. 2.4. Duration of the period of entrustment
 
 17. The duration of the period of entrustment should be justified by reference to objective criteria such as the need to amortise non-transferable fixed assets. In principle, the duration of the period of entrustment should not exceed the period required for the depreciation of the most significant assets required to provide the SGEI.
 
@@ -236,7 +234,7 @@ The first report shall be submitted by 30 June 2014.
 
 71. Member States should confirm to the Commission by 29 February 2012 that they agree to the appropriate measures proposed. In the absence of any reply, the Commission will take it that the Member State concerned does not agree.
 
-[1] Judgments in Case C-280/00 Altmark Trans GmbH and Regierungspräsidium Magdeburgv Nahverkehrsgesellschaft Altmark GmbH (“Altmark”) [2003] ECR I-7747 and Joined Cases C-34/01 to C-38/01 Enirisorse SpA v Ministero delle Finanze [2003] ECR I-14243.
+[1] Judgments in Case C-280/00 Altmark Trans GmbH and Regierungspräsidium Magdeburgv Nahverkehrsgesellschaft Altmark GmbH (“Altmark”) [2003] ECR I-7747 and Joined Cases C- 34/01 to C-38/01 Enirisorse SpA v Ministero delle Finanze [2003] ECR I-14243.
 
 [2] In its judgment in Altmark, the Court of Justice held that public service compensation does not constitute State aid if four cumulative criteria are met. First, the recipient undertaking must actually have public service obligations to discharge, and the obligations must be clearly defined. Second, the parameters on the basis of which the compensation is calculated must be established in advance in an objective and transparent manner. Third, the compensation cannot exceed what is necessary to cover all or part of the costs incurred in the discharge of the public service obligations, taking into account the relevant receipts and a reasonable profit. Finally, where the undertaking which is to discharge public service obligations, in a specific case, is not chosen pursuant to a public procurement procedure which would allow for the selection of the tenderer capable of providing those services at the least cost to the community, the level of compensation needed must be determined on the basis of an analysis of the costs which a typical undertaking, well run and adequately provided with the relevant means, would have incurred.
 
@@ -278,9 +276,7 @@ The first report shall be submitted by 30 June 2014.
 
 [21] The premium of 100 basis points serves, inter alia, to compensate for liquidity risk related to the fact that an SGEI provider that invests capital in an SGEI contract commits that capital for the duration of the entrustment act and will be unable to sell its stake as rapidly and at as low a cost as is the case with a widely held and liquid risk-free asset.
 
-[22] For instance, by comparing the return with the weighted average cost of capital (WACC) of the company in relation to the activity in question, or with the average return on capital for the sector in recent years, taking into account whether historical data can be appropriate for forward-looking purposes.
-
-[23] Similarly, a deficit which results from efficiency gains lower than expected should be partially borne by the undertaking when stipulated in the entrustment act.
+[22] For instance, by comparing the return with the weighted average cost of capital (WACC) of the company in relation to the activity in question, or with the average return on capital for the sector in recent years, taking into account whether historical data can be appropriate for forward-looking purposes. [23] Similarly, a deficit which results from efficiency gains lower than expected should be partially borne by the undertaking when stipulated in the entrustment act.
 
 [24] Such as aid granted in relation to in-house contracts, concessions with no competitive allocation, public procurement procedures with no prior publication.
 

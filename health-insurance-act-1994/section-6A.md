@@ -112,7 +112,11 @@ Interpretation of Part II.
 
 (ia) the payment from the Fund to the undertaking on behalf of the individual of any high cost claim credits which the individual is entitled to have so paid, and
 
-(ii) the payment from the Fund of the part (if any) of the premium payable under the contract which the individual is entitled to have so paid by virtue of section 11C(1), and
+(ii) the payment from the Fund of the part (if any) of the premium payable under the contract which the individual is entitled to have so paid by virtue of section
+
+## 11C(1),
+
+and
 
 (b) in relation to such undertaking and such contract, means—
 
