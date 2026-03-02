@@ -40,9 +40,11 @@ Co-operation of the national authorities with the United Nations
 
 (c) Laws, regulations and decrees which are, or may hereafter be, in force relating to refugees.
 
-Article III Information on national legislation
+Article III
 
-The States Parties to the present Protocol shall communicate to the Secretary- General of the United Nations the laws and regulations which they may adopt to ensure the application of the present Protocol.
+Information on national legislation
+
+The States Parties to the present Protocol shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of the present Protocol.
 
 Article IV
 
@@ -66,7 +68,7 @@ In the case of a Federal or non-unitary State, the following provisions shall ap
 
 (b) With respect to those articles of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol that come within the legislative jurisdiction of constituent States, provinces or cantons which are not, under the constitutional system of the Federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of States, provinces or cantons at the earliest possible moment;
 
-(c) A Federal State Party to the present Protocol shall, at the request of any other State Party hereto transmitted through the Secretary- General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol, showing the extent to which effect has been given to that provision by legislative or other action.
+(c) A Federal State Party to the present Protocol shall, at the request of any other State Party hereto transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention to be applied in accordance with article I, paragraph 1, of the present Protocol, showing the extent to which effect has been given to that provision by legislative or other action.
 
 Article VII
 
@@ -78,7 +80,7 @@ Reservations and Declarations
 
 3. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw such reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
 
-4. Declarations made under article 40, paragraphs 1 and 2, of the Convention by a State Party thereto which accedes to the present Protocol shall be deemed to apply in respect of the present Protocol, unless upon accession a notification to the contrary is addressed by the State Party concerned to the Secretary-General of the United Nations. The provisions of article 40, paragraphs 2 and 3, and of article 44, paragraph 3, of the Convention shall be deemed to apply mutatis mutandis to the present Protocol.
+4. Declarations made under article 40, paragraphs 1 and 2, of the Convention by a State Party thereto which accedes to the present Protocol shall be deemed to apply in respect of the present Protocol, unless upon accession a notification to the contrary is addressed by the State Party concerned to the Secretary- General of the United Nations. The provisions of article 40, paragraphs 2 and 3, and of article 44, paragraph 3, of the Convention shall be deemed to apply mutatis mutandis to the present Protocol.
 
 Article VIII
 

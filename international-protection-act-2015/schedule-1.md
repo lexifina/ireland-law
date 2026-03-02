@@ -64,13 +64,13 @@ C. This Convention shall cease to apply to any person falling under the terms of
 
 Provided that this paragraph shall not apply to a refugee failing under section A(1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself of the protection of the country of nationality;
 
-(6) Being a person who has no nationality he is, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, able to return to the country of his former habitual residence; Provided that this paragraph shall not apply to a refugee falling under section A(1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
+(6) Being a person who has no nationality he is, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, able to return to the country of his former habitual residence;
+
+Provided that this paragraph shall not apply to a refugee falling under section A(1) of this Article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
 
 D. This Convention shall not apply to persons who are at present receiving from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees protection or assistance.
 
-When such protection or assistance has ceased for any reason, without the position of such persons being definitively settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, these persons shall ipso facto be entitled to the benefits of this Convention.
-
-E. This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
+When such protection or assistance has ceased for any reason, without the position of such persons being definitively settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, these persons shall ipso facto be entitled to the benefits of this Convention. E. This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
 
 F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
 
@@ -136,7 +136,9 @@ Provisional measures
 
 Nothing in this Convention shall prevent a Contracting State, in time of war or other grave and exceptional circumstances, from taking provisionally measures which it considers to be essential to the national security in the case of a particular person, pending a determination by the Contracting State that that person is in fact a refugee and that the continuance of such measures is necessary in his case in the interests of national security.
 
-Article 10 Continuity of residence
+Article 10
+
+Continuity of residence
 
 1. Where a refugee has been forcibly displaced during the Second World War and removed to the territory of a Contracting State, and is resident there, the period of such enforced sojourn shall be considered to have been lawful residence within that territory.
 
@@ -150,9 +152,7 @@ In the case of refugees regularly serving as crew members on board a ship flying
 
 Chapter II
 
-JURIDICAL STATUS
-
-Article 12
+JURIDICAL STATUS Article 12
 
 Personal status
 
@@ -190,9 +190,7 @@ Access to courts
 
 Chapter III
 
-GAINFUL EMPLOYMENT
-
-Article 17
+GAINFUL EMPLOYMENT Article 17
 
 Wage-earning employment
 
@@ -404,9 +402,9 @@ Signature, ratification and accession
 
 1. This Convention shall be opened for signature at Geneva on 28 July 1951 and shall thereafter be deposited with the Secretary-General of the United Nations. It shall be open for signature at the European Office of the United Nations from 28 July to 31 August 1951 and shall be reopened for signature at the Headquarters of the United Nations from 17 September 1951 to 31 December 1952.
 
-2. This Convention shall be open for signature on behalf of all States Members of the United Nations, and also on behalf of any other State invited to attend the Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons or to which an invitation to sign will have been addressed by the General Assembly. It shall be ratified and the instruments of ratification shall be deposited with the Secretary- General of the United Nations.
+2. This Convention shall be open for signature on behalf of all States Members of the United Nations, and also on behalf of any other State invited to attend the Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons or to which an invitation to sign will have been addressed by the General Assembly. It shall be ratified and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-3. This Convention shall be open from 28 July 1951 for accession by the States referred to in paragraph 2 of this Article. Accession shall be effected by the deposit of an instrument of accession with the Secretary- General of the United Nations.
+3. This Convention shall be open from 28 July 1951 for accession by the States referred to in paragraph 2 of this Article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 Article 40
 
@@ -414,7 +412,7 @@ Territorial application clause
 
 1. Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State concerned.
 
-2. At any time thereafter any such extension shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary- General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later.
+2. At any time thereafter any such extension shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later.
 
 3. With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject where necessary for constitutional reasons, to the consent of the governments of such territories.
 
@@ -446,7 +444,9 @@ Entry into force
 
 (2) For each State ratifying or acceding to the Convention after the deposit of the sixth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day following the day of deposit by such State of its instrument of ratification or accession.
 
-Article 44 Denunciation
+Article 44
+
+Denunciation
 
 1. Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
@@ -532,7 +532,9 @@ Paragraph 9
 
 2. The issue of such visas may be refused on grounds which would justify refusal of a visa to any alien.
 
-Paragraph 10 The fees for the issue of exit, entry or transit visas shall not exceed the lowest scale of charges for visas on foreign passports.
+Paragraph 10
+
+The fees for the issue of exit, entry or transit visas shall not exceed the lowest scale of charges for visas on foreign passports.
 
 Paragraph 11
 
@@ -566,7 +568,9 @@ Specimen Travel Document
 
 The document will be in booklet form (approximately 15 x 10 centimetres).
 
-It is recommended that it be so printed that any erasure or alteration by chemical or other means can be readily detected, and that the words “Convention of 28 July 1951” be printed in continuous repetition on each page, in the language of the issuing country. (Cover of booklet)
+It is recommended that it be so printed that any erasure or alteration by chemical or other means can be readily detected, and that the words “Convention of 28 July 1951” be printed in continuous repetition on each page, in the language of the issuing country.
+
+(Cover of booklet)
 
 TRAVEL DOCUMENT
 
@@ -578,23 +582,9 @@ No.
 
 TRAVEL DOCUMENT
 
-(Convention of 28 July 1951) This document expires on unless its validity is extended or renewed.
+(Convention of 28 July 1951) This document expires on unless its validity is extended or renewed. Name Forename(s) Accompanied by child (children)
 
-Name
-
-Forename(s)
-
-Accompanied by child (children)
-
-1. This document is issued solely with a view to providing the holder with a travel document which can serve in lieu of a national passport. It is without prejudice to and in no way affects the holder’s nationality.
-
-2. The holder is authorised to return to
-
-[state here the country whose authorities are issuing the document
-
-] on or before unless some later date is hereafter specified.
-
-[The period during which the holder is allowed to return must not be less than three months.]
+1. This document is issued solely with a view to providing the holder with a travel document which can serve in lieu of a national passport. It is without prejudice to and in no way affects the holder’s nationality. 2. The holder is authorised to return to [state here the country whose authorities are issuing the document ] on or before unless some later date is hereafter specified. [The period during which the holder is allowed to return must not be less than three months.]
 
 3. Should the holder take up residence in a country other than that which issued the present document, he must, if he wishes to travel again, apply to the competent authorities of his country of residence for a new document. [The old travel document shall be withdrawn by the authority issuing the new document and returned to the authority which issued it.]
 
@@ -602,110 +592,26 @@ Accompanied by child (children)
 
 (2)
 
-Occupation
-
-Present residence
-
-*Maiden name and forename(s) of wife
-
-*Name and forename(s) of husband Description
-
-Height
-
-Hair
-
-Colour of eyes
-
-Nose
-
-Shape of face
-
-Complexion
-
-Special peculiarities
-
-Children accompanying holder
+Occupation Present residence *Maiden name and forename(s) of wife *Name and forename(s) of husband Description Height Hair Colour of eyes Nose Shape of face Complexion Special peculiarities Children accompanying holder
 
 Name Forename(s) Place and Sex date of birth
 
 (This document contains pages, exclusive of cover.)
 
-(3) Photograph of holder and stamp of issuing authority
-
-Finger-prints of holder (if required)
-
-Signature of holder
+(3) Photograph of holder and stamp of issuing authority Finger-prints of holder (if required) Signature of holder
 
 (This document contains pages, exclusive of cover.)
 
-(4) 1. This document is valid for the following countries:
+(4) 1. This document is valid for the following countries: 2. Document or documents on the basis of which the present document is issued: Issued at Date Signature and stamp of authority issuing the document: Fee paid (This document contains pages, exclusive of cover.)
 
-2. Document or documents on the basis of which the present document is issued:
-
-Issued at
-
-Date
-
-Signature and stamp of authority issuing the document:
-
-Fee paid
+(5) Extension or renewal of validity Fee paid: From To Done at Date Signature and stamp of authority extending or renewing the validity of the document: Extension or renewal of validity Fee paid: From To Done at Date Signature and stamp of authority extending or renewing the validity of the document:
 
 (This document contains pages, exclusive of cover.)
 
-(5) Extension or renewal of validity
+(6) Extension or renewal of validity Fee paid: From To Done at Date Signature and stamp of authority extending or renewing the validity of the document:
 
-Fee paid: From
-
-To
-
-Done at Date
-
-Signature and stamp of authority extending or renewing the validity of the document: Extension or renewal of validity
-
-Fee paid: From
-
-To
-
-Done at Date
-
-Signature and stamp of authority extending or renewing the validity of the document:
+Extension or renewal of validity Fee paid: From To Done at Date Signature and stamp of authority extending or renewing the validity of the document: Extension or renewal of validity Fee paid: From To Done at Date Signature and stamp of authority extending or renewing the validity of the document:
 
 (This document contains pages, exclusive of cover.)
 
-(6) Extension or renewal of validity
-
-Fee paid: From
-
-To
-
-Done at Date
-
-Signature and stamp of authority extending or renewing the validity of the document:
-
-Extension or renewal of validity
-
-Fee paid: From
-
-To
-
-Done at Date
-
-Signature and stamp of authority extending or renewing the validity of the document:
-
-Extension or renewal of validity
-
-Fee paid: From
-
-To
-
-Done at Date
-
-Signature and stamp of authority extending or renewing the validity of the document:
-
-(This document contains pages, exclusive of cover.)
-
-(7-32) Visas
-
-The name of the holder of the document must be repeated in each visa.
-
-(This document contains pages, exclusive of cover.)
+(7-32) Visas The name of the holder of the document must be repeated in each visa. (This document contains pages, exclusive of cover.)
