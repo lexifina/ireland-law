@@ -1,0 +1,7 @@
+Punishment for offences.
+
+29. The Litter Pollution Act 1997 is amended by the substitution of the following section for section 24:
+
+“24. (1) A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding €3,000.
+
+(2) If the contravention in respect of which a person is convicted of an offence under this Act is continued after the conviction, the person shall be guilty of a further offence on every day on which the contravention continues and for each such offence he or she shall be liable on summary conviction to a fine not exceeding €600.”.
