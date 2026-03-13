@@ -42,9 +42,9 @@ F. Divide amount produced by step E by 52 to produce weekly assessed cash assets
 
 Assessment of relevant assets
 
-4. Assess the weekly value of the relevant assets by following the directions at steps A to F: A. Establish all assets which are relevant assets using the definition of “relevant assets” of the person being assessed and value each relevant asset on the basis of the estimated market value.
+4. Assess the weekly value of the relevant assets by following the directions at steps A to F:
 
-B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+A. Establish all assets which are relevant assets using the definition of “relevant assets” of the person being assessed and value each relevant asset on the basis of the estimated market value. B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
 C. Aggregate all net values of relevant assets to produce total net value of relevant assets.
 
@@ -76,17 +76,13 @@ D. Take 80 per cent of amount produced by step C (net weekly income) which amoun
 
 E. Where applying the rule in step D produces a result whereby 20 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step C less the minimum retained income threshold.
 
-Assessment of income where eligible rental income applicable
-
-2A. Where there is eligible rental income, assess the weekly income by following the directions at steps A to K:
+Assessment of income where eligible rental income applicable 2A. Where there is eligible rental income, assess the weekly income by following the directions at steps A to K:
 
 A. Establish the annual income of the person using the definition of "income".
 
 B. Deduct allowable deductions.
 
-C. Divide amount produced by step B by 52.
-
-D. Establish the annual eligible rental income of the person.
+C. Divide amount produced by step B by 52. D. Establish the annual eligible rental income of the person.
 
 E. Deduct income tax required by law to be deducted or paid in respect of eligible rental income and in respect of which the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid.
 
@@ -126,9 +122,7 @@ Assessment of relevant assets
 
 A. Establish all assets which are relevant assets using the definition of "relevant assets" of the person being assessed and value each relevant asset on the basis of the estimated market value.
 
-B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
-
-C. Aggregate all net values of relevant assets to produce total net value of relevant assets.
+B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset. C. Aggregate all net values of relevant assets to produce total net value of relevant assets.
 
 CA. Where the person is entitled to the proceeds of sale deductible amount and the proceeds of sale deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the total net value of relevant assets produced by step C.
 
@@ -150,9 +144,7 @@ Assessment of income
 
 2. Assess the weekly income by following the directions at steps A to F:
 
-A. Establish the annual income of the person and his or her partner using the definition of “income”.
-
-B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income to establish net annual income of each member of the couple.
+A. Establish the annual income of the person and his or her partner using the definition of “income”. B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income to establish net annual income of each member of the couple.
 
 C. Aggregate the two net annual incomes established under step B.
 
@@ -182,7 +174,9 @@ G. Divide amount established by step F by 52 to produce the assessed weekly cash
 
 Assessment of relevant assets
 
-4. Assess the weekly value of the relevant assets by following the directions at steps A to G: A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
+4. Assess the weekly value of the relevant assets by following the directions at steps A to G:
+
+A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
 
 B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
@@ -190,9 +184,7 @@ C. Aggregate all net values of relevant assets established under step B.
 
 D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount established by step C.
 
-E. Take 5 per cent of the amount established by step D or, if step D does not apply, by Step C to establish the annual assessed relevant assets amount.
-
-F. Divide amount established by step E by 2 to establish the amount of the annual assessed relevant assets of the person in respect of whom the financial assessment is being carried out.
+E. Take 5 per cent of the amount established by step D or, if step D does not apply, by Step C to establish the annual assessed relevant assets amount. F. Divide amount established by step E by 2 to establish the amount of the annual assessed relevant assets of the person in respect of whom the financial assessment is being carried out.
 
 G. Divide the amount established by step F by 52 to produce the assessed weekly value of relevant assets of the person in respect of whom the financial assessment is being carried out.
 
@@ -214,7 +206,9 @@ B. From the annual income of each of those persons deduct allowable deductions a
 
 C. Aggregate the two net annual incomes established under step B.
 
-D. Divide amount produced by step C by 52 to establish net weekly income. E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
+D. Divide amount produced by step C by 52 to establish net weekly income.
+
+E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
 
 F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
 
@@ -226,9 +220,7 @@ A. Establish the annual income of the person and his or her partner using the de
 
 B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income.
 
-C. Aggregate the two amounts produced by step B.
-
-D. Divide amount produced by step C by 52.
+C. Aggregate the two amounts produced by step B. D. Divide amount produced by step C by 52.
 
 E. Establish the amount of annual eligible rental income of the person and his or her partner.
 
@@ -252,7 +244,9 @@ Assessment of cash assets
 
 3. Assess the weekly value of the cash assets by following the directions at steps A to G:
 
-A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of "cash assets" and value each cash asset on the basis of the estimated market value. B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
+A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of "cash assets" and value each cash asset on the basis of the estimated market value.
+
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
 
 C. Aggregate all net values of cash assets established under step B.
 
@@ -456,7 +450,9 @@ INTERPRETATION AND MISCELLANEOUS
 
 (e) an ex-gratia payment or payments made to the person by the Minister or the Conterganstiftung für behinderte Menschen in respect of a disability caused to that person by Thalidomide,
 
-(ea) a general payment or a work-related payment made to the person, under the Mother and Baby Institutions Payment Scheme Act 2023, or
+(ea) a general payment or a work-related payment made to the person, under the Mother and Baby Institutions Payment Scheme Act 2023,
+
+(eb) a payment or payments made to the person arising from an award under the Residential Institutions Redress Scheme, or from a court award or settlement referred to in section 7 (2) of the Residential Institutions Redress Act 2002, or
 
 (f) such other ex-gratia payment or payments as may be prescribed under section 36(5A) (inserted by section 7 of the Health (Miscellaneous Provisions) Act 2017) for the purposes of this paragraph;
 
@@ -635,3 +631,5 @@ CR is the amount of the consideration received by the person or the estimated ma
 12. For the purposes of carrying out a financial assessment under Part 1 or 1A of a person who is not a member of a couple, any relevant payment made to the person shall be disregarded.
 
 13. For the purposes of carrying out a financial assessment under Part 2 or 2A of a person who is a member of a couple, any relevant payment made to such person or the other member of the couple, shall be disregarded.
+
+Section 16.
