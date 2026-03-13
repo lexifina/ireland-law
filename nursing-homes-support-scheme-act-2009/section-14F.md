@@ -1,4 +1,4 @@
-Death of person receiving care services following determination under section 14C(2)(a).
+Death of person receiving care services following determination under
 
 14F.— (1) This section applies where—
 

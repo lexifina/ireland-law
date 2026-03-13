@@ -1,5 +1,3 @@
-## PART 4 CARE REPRESENTATIVE
-
 Appointment of care representative in case of person not having full capacity.
 
 21.— (1) This section applies to the following matters:

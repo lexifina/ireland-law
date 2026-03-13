@@ -31,3 +31,5 @@ Couples.
 (i) a physical or mental condition of the person concerned, or
 
 (ii) the imprisonment, or the taking into lawful custody, of the person concerned.
+
+## PART 2 ESTABLISHMENT OF SCHEME AND APPLICATION FOR STATE SUPPORT

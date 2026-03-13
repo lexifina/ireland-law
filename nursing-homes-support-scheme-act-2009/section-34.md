@@ -31,3 +31,5 @@ Amendment of Health Act 1970.
 (4) Subject to subsection (5), this section shall not apply where a person has applied for a care needs assessment under section 7 of the Nursing Homes Support Scheme Act 2009 and is awaiting a determination by the Executive under section 7 of that Act.
 
 (5) Subsection (4) shall not apply where a person withdraws an application under section 7 of the Nursing Homes Support Scheme Act 2009 and makes a subsequent application.”.
+
+## PART 9 MISCELLANEOUS

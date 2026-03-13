@@ -9,3 +9,5 @@ Amendment of Taxes Consolidation Act 1997.
 (2) Notwithstanding any provision of the Income Tax Acts, any payment referred to in subsection (1) shall be paid without deduction of income tax.
 
 (3) In this section ‘care services’ and ‘State support’ have the same meaning as in the Nursing Homes Support Scheme Act 2009.”.
+
+Transitional arrangements in relation to, and amendment of, certain paragraphs of Part 3 of

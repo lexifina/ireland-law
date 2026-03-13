@@ -1,4 +1,4 @@
-Notification of material change in circumstances of person provided with financial support.
+Notification of material change in circumstances of person provided with
 
 24.— (1) A person (or the person’s care representative, if any) who is the subject of an application for State support or who is provided with financial support or a person who is a family successor shall give notice in writing to the Executive of any material change in circumstances not later than 10 working days after the material change in circumstances comes to the knowledge of the person.
 

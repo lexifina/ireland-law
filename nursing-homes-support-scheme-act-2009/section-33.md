@@ -1,5 +1,3 @@
-## PART 8 CHARGES IN RESPECT OF CARE SERVICES
-
 Charges in respect of care services.
 
 33.— (1) Notwithstanding any other statutory provision, charges may be made by the Executive in respect of the provision of care services within the meaning of paragraph (a)(i) of the definition of “long-term residential care services”.

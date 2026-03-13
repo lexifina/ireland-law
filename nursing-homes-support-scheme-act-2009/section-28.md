@@ -13,3 +13,5 @@ Discharge of orders made under section 17.
 (4) A receipt under subsection (1) and an application under subsection (3) shall be in the form prescribed by regulations made under section 36.
 
 (5) Where an application under subsection (3) is made to the Property Registration Authority in electronic form which purports to have been made by an authorised person it shall be presumed by the Property Registration Authority that such electronic document was made and transmitted by the person by whom it purports to have been made and transmitted.
+
+## PART 6 JOINT OWNERSHIP

@@ -1,4 +1,4 @@
-Amendment of National Treatment Purchase Fund Board (Establishment) Order 2004.
+Amendment of National Treatment Purchase Fund Board (Establishment)
 
 41.— (1) The National Treatment Purchase Fund Board (Establishment) Order 2004 (S.I. No. 179 of 2004) is amended—
 

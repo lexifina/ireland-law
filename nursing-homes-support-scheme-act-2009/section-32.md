@@ -39,3 +39,5 @@ Appeals against certain decisions of Executive.
 (6) The Executive shall, on complying with any direction given under subsection (3)(e)(iii) or (g), give notice in writing to the appellant concerned of the Executive’s compliance with the direction.
 
 (7) A reference in this section to a decision made by the Executive includes a determination and refusal made by the Executive.
+
+## PART 8 CHARGES IN RESPECT OF CARE SERVICES

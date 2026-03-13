@@ -1,4 +1,4 @@
-Duty of Executive to determine whether paragraph 6B of Part 3 of Schedule 1 applies.
+Duty of Executive to determine whether paragraph 6B of Part 3 of Schedule
 
 14C.— (1) This section applies where—
 

@@ -1,5 +1,3 @@
-## PART 3 ANCILLARY STATE SUPPORT
-
 Interpretation (Part 3).
 
 15.— In this Part—

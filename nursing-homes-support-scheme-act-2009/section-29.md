@@ -1,5 +1,3 @@
-## PART 6 JOINT OWNERSHIP
-
 Joint ownership.
 
 29.— (1) Subject to subsections (2) and (3), where the Executive makes an order under section 14B(1) or section 17(2) which relates to an interest in land the subject of a joint tenancy, notwithstanding any rule of law or statutory provision—
@@ -39,3 +37,5 @@ Joint ownership.
 (ii) the relevant person had in the chargeable land, where the relevant person is not a member of a couple;
 
 "relevant person" means a person receiving care services.
+
+## PART 7 REVIEWS AND APPEALS

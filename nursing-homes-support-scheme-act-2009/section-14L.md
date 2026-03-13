@@ -1,4 +1,4 @@
-Application by partner of deceased person for appointment of family successor.
+Application by partner of deceased person for appointment of family
 
 14L.— (1) This section applies where—
 

@@ -56,9 +56,7 @@ Death or change in circumstances of family successor.
 
 (a) in a case where the current family successor has died, the date of death of the family successor, or
 
-(b) in a case where the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section
-
-14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f), the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with that undertaking.
+(b) in a case where the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f), the date on which it first comes to the Executive’s attention that the family successor is no longer able to comply with that undertaking.
 
 (6) In reckoning the period referred to in subsection (4)(b) or section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f)—
 
@@ -132,6 +130,4 @@ Death or change in circumstances of family successor.
 
 (i) the particular family asset is a transferred asset, and
 
-(ii) the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section
-
-14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f), the current family successor’s partner.
+(ii) the current family successor is no longer able to comply with the undertaking given under subsection (4)(b) or section 14A(3)(d), 14F(8)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f ), the current family successor’s partner.

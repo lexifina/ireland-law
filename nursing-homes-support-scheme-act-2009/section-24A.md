@@ -20,4 +20,4 @@ Notification of material change in circumstances of family successor.
 
 (ii) where a determination under section 14C(2)(a) has not been made, which may result in the occurrence of a repayment event had such a determination been made (and, accordingly, had section 14I applied), or
 
-(c) any change affecting the family successor’s ability to comply with the undertaking given by him or her under section 14A(3)(d), 14F(8)(b), 14G(4)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f).
+(c) any change affecting the family successor’s ability to comply with the undertaking given by him or her under section 14A(3)(d), 14F(8)(b), 14G(4)(b), 14H(5)(b), 14K(3)(e) or 14L(3)(f ).

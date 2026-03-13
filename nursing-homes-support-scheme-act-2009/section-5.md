@@ -1,5 +1,3 @@
-## PART 2 ESTABLISHMENT OF SCHEME AND APPLICATION FOR STATE SUPPORT
-
 Establishment of Scheme.
 
 5.— (1) On the coming into operation of this section there is established a scheme to be known as the Nursing Homes Support Scheme to be operated under and in accordance with this Act.

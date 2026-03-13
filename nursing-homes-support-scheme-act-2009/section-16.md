@@ -46,9 +46,7 @@ T is the total weekly cost of care services applicable to the person concerned,
 
 A is the assessed weekly income of the person concerned,
 
-B is the assessed weekly cash assets of the person concerned,
-
-R is the assessed weekly value of the relevant assets of the person concerned and which are not chargeable assets, and
+B is the assessed weekly cash assets of the person concerned, R is the assessed weekly value of the relevant assets of the person concerned and which are not chargeable assets, and
 
 S is the amount of State support payable in respect of the person concerned.
 

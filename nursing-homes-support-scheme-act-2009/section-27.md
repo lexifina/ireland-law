@@ -1,4 +1,4 @@
-Submission of schedule of assets to Executive where deceased person received financial support under Scheme.
+Submission of schedule of assets to Executive where deceased person received
 
 27.— (1) This section applies to a deceased person—
 

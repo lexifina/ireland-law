@@ -1,4 +1,4 @@
-Determination as to farm or business relief where family successor fulfils undertaking.
+Determination as to farm or business relief where family successor fulfils
 
 14M.— (1) This section applies where—
 

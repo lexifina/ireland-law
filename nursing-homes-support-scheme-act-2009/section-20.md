@@ -1,4 +1,4 @@
-Repayment of monies advanced by way of ancillary State support where deferral of occurrence of relevant event applies.
+Repayment of monies advanced by way of ancillary State support where
 
 20.— (1) This section applies where—
 
@@ -73,3 +73,5 @@ Repayment of monies advanced by way of ancillary State support where deferral of
 (8) The monies advanced by way of ancillary State support, adjusted in accordance with Schedule 2, shall, subject to the provisions of this section, become due and payable on the day on which a deferred relevant event occurs.
 
 (9) Nothing in this section shall operate to defer or prevent the operation of paragraph (c) or (d) of the definition of “relevant event” in section 19(1) or the obligation to pay monies arising by reason of the occurrence of a relevant event referred to in either of those paragraphs.
+
+## PART 4 CARE REPRESENTATIVE

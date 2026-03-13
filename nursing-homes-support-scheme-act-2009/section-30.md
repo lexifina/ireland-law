@@ -1,5 +1,3 @@
-## PART 7 REVIEWS AND APPEALS
-
 Reviews.
 
 30.— (1) Subject to subsections (5), (6) and (7), the Executive may, in respect of a person who is being provided with care services or whose application for State support has been determined, and whether of its own initiative or at the request of the person, at any time arrange for a review to be carried out of all or any of the following, as may be appropriate:
