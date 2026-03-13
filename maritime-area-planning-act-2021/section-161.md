@@ -10,11 +10,7 @@ Evidentiary presumptions
 
 “authorised person” means the chief executive officer or another member of staff of the MARA authorised under subsection (1) by the MARA to give, on the MARA’s behalf, a certificate under this section;
 
-“chief executive officer” shall be construed in accordance with
-
-## section
-
-56(1);
+“chief executive officer” shall be construed in accordance with section 56(1);
 
 “relevant statement” means either or both of the following statements:
 

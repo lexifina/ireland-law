@@ -12,10 +12,6 @@ Definitions - Part 3
 
 “chairperson” means the chairperson of the Board (M);
 
-“chief executive officer” shall be construed in accordance with
-
-## section
-
-56(1);
+“chief executive officer” shall be construed in accordance with section 56(1);
 
 “statement of strategy”, in relation to the MARA, shall be construed in accordance with section 66 .

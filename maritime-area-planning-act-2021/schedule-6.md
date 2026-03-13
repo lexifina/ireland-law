@@ -1,8 +1,6 @@
 SCHEDULE 6
 
-Types of conditions that MARA may attach to MAC or that are deemed to be attached to MAC
-
-Section 82
+Types of conditions that MARA may attach to MAC or that are deemed to be attached to MAC Section 82
 
 Part 1
 

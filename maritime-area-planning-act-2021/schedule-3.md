@@ -1,8 +1,6 @@
 SCHEDULE 3
 
-Proposed maritime usages to which section 75(1) shall not apply
-
-Section 75
+Proposed maritime usages to which section 75(1) shall not apply Section 75
 
 1. Any maritime usage which falls within a function referred to in section 1B of the Act of 1933.
 
@@ -16,10 +14,6 @@ Section 75
 
 6. Any maritime usage for the purposes, or consisting, of the exploration or working of petroleum (within the meaning of the Petroleum and Other Minerals Development Act 1960), or the restoration of the area in which such exploration for, or working of, such petroleum has taken place.
 
-7. Subject to sections 111 and 119 , any
+7. Subject to sections 111 and 119 , any Schedule 7 usage (within the meaning of section 110 ) undertaken, or proposed to be undertaken, in the maritime area.
 
-Schedule 7 usage (within the meaning of section 110 ) undertaken, or proposed to be undertaken, in the maritime area.
-
-8.Any maritime usage which falls within a class of maritime usage specified, for the purposes of this paragraph, in regulations made under section
-
-75(2).
+8.Any maritime usage which falls within a class of maritime usage specified, for the purposes of this paragraph, in regulations made under section 75(2).

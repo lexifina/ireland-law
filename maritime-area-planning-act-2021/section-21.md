@@ -1,10 +1,6 @@
 Proposals for DMAPs
 
-21. (1) Subject to subsection (2), a competent authority (D) shall, as soon as is practicable after its designation under
-
-## section 20
-
-as such or where section 26(1)(a) applies, prepare a proposal for a DMAP (in this Chapter referred to as the “relevant proposal”).
+21. (1) Subject to subsection (2), a competent authority (D) shall, as soon as is practicable after its designation under section 20 as such or where section 26(1)(a) applies, prepare a proposal for a DMAP (in this Chapter referred to as the “relevant proposal”).
 
 (2) The relevant proposal shall specify—
 

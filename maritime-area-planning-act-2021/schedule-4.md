@@ -20,6 +20,4 @@ Section 76
 
 (8) Any maritime usage for the purposes, or consisting, of the exploration or working of petroleum (within the meaning of the Petroleum and Other Minerals Development Act 1960), or the restoration of the area in which such exploration for, or working of, such petroleum has taken place.
 
-9. Any maritime usage which falls within a class of maritime usage specified, for the purposes of this paragraph, in regulations made under section
-
-76(2).
+9. Any maritime usage which falls within a class of maritime usage specified, for the purposes of this paragraph, in regulations made under section 76(2).

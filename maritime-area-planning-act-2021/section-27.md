@@ -8,17 +8,9 @@ Laying of certain DMAPs before CPAs
 
 (3) The relevant competent authority (other than in the case of such competent authority which is a CPA) shall, in the making of a DMAP, have regard to—
 
-(a) in the case of a draft of that DMAP laid before only one CPA in accordance with
+(a) in the case of a draft of that DMAP laid before only one CPA in accordance with subsection (2), any resolution, report or recommendation of the CPA in so far as such resolution, report or recommendation relates to the draft, or
 
-## subsection
-
-(2), any resolution, report or recommendation of the CPA in so far as such resolution, report or recommendation relates to the draft, or
-
-(b) in the case of a draft of that DMAP laid before two or more CPAs in accordance with
-
-## subsection
-
-(2), any joint resolution, report or recommendation of the CPAs in so far as such resolution, report or recommendation relates to the draft.
+(b) in the case of a draft of that DMAP laid before two or more CPAs in accordance with subsection (2), any joint resolution, report or recommendation of the CPAs in so far as such resolution, report or recommendation relates to the draft.
 
 (4) The relevant competent authority (not being a CPA) shall cause a copy of a DMAP made by the relevant competent authority to be laid before each CPA referred to in subsection (1).
 
