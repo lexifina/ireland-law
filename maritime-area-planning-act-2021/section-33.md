@@ -6,7 +6,7 @@ Appropriate assessment and strategic environmental assessment
 
 (a) Habitats Directive;
 
-(b) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment;
+(b) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environ- ment;
 
 (c) Birds Directive.
 

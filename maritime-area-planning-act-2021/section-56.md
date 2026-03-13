@@ -16,9 +16,7 @@ Appointment of chief executive officer
 
 (7) The chief executive officer shall not hold any other office or employment or carry on any business.
 
-(8) The chief executive officer, although not eligible, by virtue of section
-
-54(1), to be a member of the Board (M) or a committee of the Board (M), may, in accordance with procedures established by the Board (M) or a committee of the Board (M), as the case may be, attend meetings of the Board (M) or a committee of the Board (M) and shall be entitled to speak at and advise such meetings.
+(8) The chief executive officer, although not eligible, by virtue of section 54(1), to be a member of the Board (M) or a committee of the Board (M), may, in accordance with procedures established by the Board (M) or a committee of the Board (M), as the case may be, attend meetings of the Board (M) or a committee of the Board (M) and shall be entitled to speak at and advise such meetings.
 
 (9) (a) A selection competition to appoint a chief executive officer may be held before the establishment day and the successful candidate may be appointed by the Minister as the chief executive designate of the MARA.
 

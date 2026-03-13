@@ -130,7 +130,7 @@ Consideration by planning authority of application for permission for developmen
 
 (i) Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) as amended by Commission Directive (EU) 2017/845 of 17 May 2017, and any enactment or instrument under an enactment that gives effect thereto,
 
-( j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning ,
+(j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning,
 
 (k) objectives of maritime spatial planning, and
 
@@ -334,9 +334,7 @@ Consultation with Board prior to application for permission
 
 (a) having regard to subsection (3) of section 286, is eligible to apply for permission to carry out development to which this Chapter applies, and
 
-(b) proposes to make an application under section 291 for such permission, shall, before making the application, consult with the Board in relation thereto.
-
-(2) The Board may, upon being consulted by a prospective applicant in accordance with subsection (1), provide its opinion to the prospective applicant regarding the making of the application concerned and, in particular, as respects—
+(b) proposes to make an application under section 291 for such permission, shall, before making the application, consult with the Board in relation thereto. (2) The Board may, upon being consulted by a prospective applicant in accordance with subsection (1), provide its opinion to the prospective applicant regarding the making of the application concerned and, in particular, as respects—
 
 (a) the procedures to be followed by the prospective applicant when making the application and by the Board when considering the application,
 
@@ -520,7 +518,7 @@ Application to Board
 
 (ii) inviting the making, during the period referred to in clause (VI) of subparagraph (i), of submissions and observations to the Board relating to—
 
-(I) the implications of the proposed development for maritime spatial planning,
+(I) the implications of the proposed development for maritime spatial planning ,
 
 (II) the implications of the proposed development for proper planning and sustainable development, and
 
@@ -566,7 +564,7 @@ Application to Board
 
 (iv) a notice stating that submissions or observations may, during the period referred to in clause (VI) of subparagraph (i) of paragraph (a), be made in writing to the Board in relation to—
 
-(I) the implications of the proposed development for maritime spatial planning,
+(I) the implications of the proposed development for maritime spatial planning ,
 
 (II) the implications of the proposed development for proper planning and sustainable development, and
 
@@ -580,7 +578,7 @@ Application to Board
 
 (iii) a notice stating that submissions or observations may, during the period referred to in clause (VI) of subparagraph (i) of paragraph (a), be made in writing to the Board in relation to—
 
-(I) the implications of the proposed development for maritime spatial planning,
+(I) the implications of the proposed development for maritime spatial planning ,
 
 (II) the implications of the proposed development for proper planning and sustainable development, and
 
@@ -916,9 +914,7 @@ Provision supplementing section 293
 
 (7) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a statement referred to in paragraph (f) of subsection (3), the Board may recover the sum as a simple contract debt in any court of competent jurisdiction.
 
-(8) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a statement referred to in paragraph
-
-(g) of subsection (3), the Maritime Area Regulatory Authority, the coastal planning authority concerned or any other person to whom the sum is owed, as the case may be, may recover the sum as a simple contract debt in any court of competent jurisdiction.
+(8) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a statement referred to in paragraph (g) of subsection (3), the Maritime Area Regulatory Authority, the coastal planning authority concerned or any other person to whom the sum is owed, as the case may be, may recover the sum as a simple contract debt in any court of competent jurisdiction.
 
 (9) A person shall not be entitled to carry out development to which this Chapter applies solely by reason of a grant of permission under section 293.
 
@@ -1130,7 +1126,7 @@ Material alteration of terms of permission
 
 (i) any social or economic benefit that would likely accrue to the State or a part of the State by virtue of the requested alteration,
 
-( j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014,
+(j) land-sea interactions within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014,
 
 (k) objectives of maritime spatial planning,
 
@@ -1402,7 +1398,9 @@ Disapplication of certain provisions of Act in relation to maritime area
 
 (a) comply (howsoever expressed) with a development plan, local area plan or regional spatial and economic strategy, or
 
-(b) act in accordance with, consider, have regard to or otherwise take account of (howsoever expressed) any such plan or strategy in the performance of any function under this Act, shall not apply in relation to the maritime area. (3) Part XII shall not apply to that part of the maritime area that does not consist of land covered by coastal water.
+(b) act in accordance with, consider, have regard to or otherwise take account of (howsoever expressed) any such plan or strategy in the performance of any function under this Act, shall not apply in relation to the maritime area.
+
+(3) Part XII shall not apply to that part of the maritime area that does not consist of land covered by coastal water.
 
 Construction of references to land
 
