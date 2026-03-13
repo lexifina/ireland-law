@@ -77,3 +77,5 @@ Collection of monies advanced by way of ancillary State support.
 (a) a person who as respects a particular relevant event or deferred relevant event is primarily accountable, and
 
 (b) a person who is accountable by reason of subsection (14), for the payment of the repayable amount to the Revenue Commissioners.
+
+Submission of schedule of assets to Executive where deceased person received financial support under Scheme.

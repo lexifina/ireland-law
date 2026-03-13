@@ -1,4 +1,4 @@
-Transitional arrangements in relation to, and amendment of, certain paragraphs of Part 3 of Schedule 1.
+Transitional arrangements in relation to, and amendment of, certain para-
 
 49.— (1) Where, immediately before the commencement day—
 
@@ -71,3 +71,5 @@ Transitional arrangements in relation to, and amendment of, certain paragraphs o
 "commencement day" means the day on which section 31(d) of the Act of 2021 comes into operation;
 
 "family successor" has the same meaning as it had before section 31(a)(i) of the Act of 2021 came into operation.
+
+Section 10.

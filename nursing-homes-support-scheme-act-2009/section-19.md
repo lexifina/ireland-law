@@ -25,3 +25,5 @@ Repayment of monies advanced by way of ancillary State support.
 (4) On the date of the occurrence of a relevant event, the amount of ancillary State support advanced or in the course of being advanced by reference to the asset concerned, adjusted in accordance with Schedule 2 shall, subject to subsection (5), become due and payable.
 
 (5) The occurrence of an event referred to in paragraph (a) of the definition of “relevant event” in subsection (1) shall not be considered to be a relevant event in a case where section 20 applies.
+
+Repayment of monies advanced by way of ancillary State support where deferral of occurrence of relevant event applies.
