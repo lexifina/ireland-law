@@ -40,7 +40,7 @@ Insertion into Bankruptcy Act 1988 of new sections 44A and 44B.
 
 Excessive
 
-44B.— (1) Where, on application by the Official Assignee or the trustee in pension bankruptcy, the Court is satisfied that the bankrupt, or a person on his or contributions her behalf, has within the 3 years prior to the adjudication made contributions by bankrupt. to a relevant pension arrangement under which the bankrupt is, or may become entitled to, payments and which contributions—
+44B.— (1) Where, on application by the Official Assignee or the trustee in pension bankruptcy, the Court is satisfied that the bankrupt, or a person on his or contributions her behalf, has within the 3 years prior to the adjudication made contribu- by bankrupt. tions to a relevant pension arrangement under which the bankrupt is, or may become entitled to, payments and which contributions—
 
 (a) were excessive in view of the bankrupt’s financial circumstances when those contributions were made, and
 

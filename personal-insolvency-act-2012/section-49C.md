@@ -6,7 +6,7 @@ Termination of appointment of a personal insolvency practitioner due to death, i
 
 (b) becomes incapable, through ill-health or otherwise, of performing the functions of a personal insolvency practitioner, or
 
-(c) is no longer authorised to perform the functions of a personal insolvency practitioner under this Act, the debtor shall, as soon as practicable after becoming aware of that fact, or of being informed of such by the Insolvency Service, and in any event no later than three months thereafter, appoint a replacement personal insolvency practitioner (in this section referred to as a ‘replacement personal insolvency practitioner’) to act as his or her personal insolvency practitioner for the purposes of Chapter 3 or 4, as the case may be.
+(c) is no longer authorised to perform the functions of a personal insolvency practitioner under this Act, the debtor shall, as soon as practicable after becoming aware of that fact, or of being informed of such by the Insolvency Service, and in any event no later than three months thereafter, appoint a replacement personal insolvency practitioner (in this section referred to as a "replacement personal insolvency practitioner") to act as his or her personal insolvency practitioner for the purposes of Chapter 3 or 4, as the case may be.
 
 (2) Where the debtor appoints a replacement personal insolvency practitioner under subsection (1), he or she shall, as soon as practicable thereafter, inform the Insolvency Service of that fact.
 

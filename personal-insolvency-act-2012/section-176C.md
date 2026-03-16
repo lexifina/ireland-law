@@ -88,7 +88,7 @@ Powers of Authorised Officers.
 
 (c) on any such appeal, the conviction or order, as the case may be, is upheld.
 
-(18) In this section, ‘records, books or accounts’ include copies of records, books or accounts.
+(18) In this section, "records, books or accounts" include copies of records, books or accounts.
 
 (19) In this section, where records, books or accounts are held or maintained in electronic form, the obligation to produce or provide records, books or accounts includes an obligation to produce or provide those records, books or accounts in a legible and comprehensible printed form.
 

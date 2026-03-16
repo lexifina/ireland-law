@@ -46,7 +46,7 @@ Approved intermediaries.
 
 (8) Where an approved intermediary resigns from the role of approved intermediary as respects a debtor, he or she shall notify the Insolvency Service of that fact, which notification shall be accompanied by a statement of the reasons for his or her resignation.
 
-(9) Where, at any time after the debtor has made the confirmation referred to in section 27(3) but before the Debt Relief Notice is issued under section 31, the approved intermediary concerned (‘original approved intermediary’)—
+(9) Where, at any time after the debtor has made the confirmation referred to in section 27(3) but before the Debt Relief Notice is issued under section 31, the approved intermediary concerned ("original approved intermediary")—
 
 (a) dies,
 

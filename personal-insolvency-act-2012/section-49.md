@@ -26,7 +26,7 @@ Appointment of personal insolvency practitioner.
 
 (iii) such other information as may be prescribed.
 
-(2A) For the purposes of subsection (2), ‘meeting’ means a consultation between the personal insolvency practitioner and the debtor, held in accordance with any regulations made under this section and at which—
+(2A) For the purposes of subsection (2), "meeting" means a consultation between the personal insolvency practitioner and the debtor, held in accordance with any regulations made under this section and at which—
 
 (a) both are present in person at the same time and in the same place, or
 
@@ -60,7 +60,7 @@ Appointment of personal insolvency practitioner.
 
 (f) any other factor that the Insolvency Service considers relevant in ensuring the effective conduct of meetings referred to in subsection (2A).
 
-(2E) In this section, ‘electronic communications technology’, in relation to a meeting referred to in subsection (2A)(b), means technology that enables real time transmission and real time two-way audio-visual communication.
+(2E) In this section, "electronic communications technology", in relation to a meeting referred to in subsection (2A)(b), means technology that enables real time transmission and real time two-way audio-visual communication.
 
 (3) Where the debtor, following the meeting referred to in subsection (2), wishes to become party to an arrangement, he or she shall appoint a personal insolvency practitioner (whether the personal insolvency practitioner referred to in subsection (1) or another personal insolvency practitioner) to act as his or her personal insolvency practitioner for the purposes of Chapter 3 or 4, as the case may be.
 

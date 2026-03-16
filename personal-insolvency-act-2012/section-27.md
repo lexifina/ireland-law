@@ -58,7 +58,7 @@ Initiation of Debt Relief Notice process.
 
 (f) any other factor that the Insolvency Service considers relevant in ensuring the effective conduct of meetings referred to in subsection (2A).
 
-(2E) In this section, ‘electronic communications technology’, in relation to a meeting referred to in subsection (2A)(b), means technology that enables real time transmission and real time two-way audio-visual communication.
+(2E) In this section, "electronic communications technology", in relation to a meeting referred to in subsection (2A)(b), means technology that enables real time transmission and real time two-way audio-visual communication.
 
 (3) Where the debtor, following the meeting referred to in subsection (2), wishes to apply for a Debt Relief Notice, he or she shall confirm that fact in writing to the approved intermediary.
 

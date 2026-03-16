@@ -18,7 +18,7 @@ Amendment of section 85 of Bankruptcy Act 1988.
 
 Objection to
 
-85A.— (1) The Official Assignee, the trustee in bankruptcy or a creditor of the automatic bankrupt may, prior to the discharge of a bankrupt pursuant to section 85, discharge apply to the Court to object to the discharge of a bankrupt from bankruptcy from in accordance with section 85 where the Official Assignee, the trustee in bankruptcy. bankruptcy or the creditor concerned believes that the bankrupt has—
+85A.— (1) The Official Assignee, the trustee in bankruptcy or a creditor of the automatic bankrupt may, prior to the discharge of a bankrupt pursuant to section 85, discharge apply to the Court to object to the discharge of a bankrupt from bankruptcy from bank- in accordance with section 85 where the Official Assignee, the trustee in ruptcy. bankruptcy or the creditor concerned believes that the bankrupt has—
 
 (a) failed to co-operate with the Official Assignee in the realisation of the assets of the bankrupt, or
 
@@ -40,7 +40,7 @@ Objection to
 
 Entitlement
 
-85B.— (1) A bankrupt shall be entitled to an order discharging him from bankruptcy to discharge where provision has been made for the payment of the expenses, fees and from costs of the bankruptcy, and for preferential payments, and— bankruptcy.
+85B.— (1) A bankrupt shall be entitled to an order discharging him from bank- to discharge ruptcy where provision has been made for the payment of the expenses, from bank- fees and costs of the bankruptcy, and for preferential payments, and— ruptcy.
 
 (a) he has paid one euro in the euro, with such interest as the Court may allow, or
 
@@ -54,9 +54,9 @@ Entitlement
 
 Annulment of
 
-85C.— (1) A person shall be entitled to an annulment of his adjudication— adjudication in
+85C.— (1) A person shall be entitled to an annulment of his adjudication— adjudication in bank-
 
-(a) where he has shown cause pursuant to section 16, or bankruptcy.
+(a) where he has shown cause pursuant to section 16, or ruptcy.
 
 (b) in any other case where, in the opinion of the Court, he ought not to have been adjudicated bankrupt.
 

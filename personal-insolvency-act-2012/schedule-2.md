@@ -22,9 +22,7 @@ ORAL HEARING CONDUCTED BY INSPECTOR PURSUANT TO SECTION 181(15)
 
 PART 2
 
-ORAL HEARING CONDUCTED BY COMPLAINTS COMMITTEE PURSUANT TO SECTION
-
-182(6)
+ORAL HEARING CONDUCTED BY COMPLAINTS COMMITTEE PURSUANT TO SECTION 182(6)
 
 1. The Complaints Committee, in conducting the oral hearing for the purposes of assisting it to make a determination under section 182 or for the purposes of observing fair procedures, may take evidence on oath, and the administration of such an oath by any member of the Complaints Committee is hereby authorised.
 

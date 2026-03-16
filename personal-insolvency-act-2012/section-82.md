@@ -2,7 +2,7 @@ Variation of a Debt Settlement Arrangement.
 
 82. (1) Subject to this section, a Debt Settlement Arrangement may be varied in accordance with its terms.
 
-(2) A personal insolvency practitioner, whether on his or her own initiative or on a request made in accordance with subsection (3), shall propose a variation of a Debt Settlement Arrangement (in this section referred to as a ‘variation’) where—
+(2) A personal insolvency practitioner, whether on his or her own initiative or on a request made in accordance with subsection (3), shall propose a variation of a Debt Settlement Arrangement (in this section referred to as a "variation") where—
 
 (a) it appears to the personal insolvency practitioner that there has been a material change in the debtor’s circumstances, and
 
@@ -126,4 +126,4 @@ Variation of a Debt Settlement Arrangement.
 
 (16) A reference in this Chapter to a Debt Settlement Arrangement shall be construed as including such an arrangement as proposed to be varied or, as varied in accordance with this section, unless the context otherwise requires.
 
-(17) In this section, ‘material change in the debtor’s circumstances’ means a change in the debtor’s circumstances that would materially affect his or her ability to make payments, or otherwise perform his or her obligations, under the Debt Settlement Arrangement, and includes an increase or decrease in the extent of the debtor’s assets, liabilities or income.
+(17) In this section, "material change in the debtor’s circumstances" means a change in the debtor’s circumstances that would materially affect his or her ability to make payments, or otherwise perform his or her obligations, under the Debt Settlement Arrangement, and includes an increase or decrease in the extent of the debtor’s assets, liabilities or income.
