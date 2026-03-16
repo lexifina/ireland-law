@@ -20,7 +20,9 @@ Order for endorsement in case of conviction, disqualification order or removal o
 
 (4) (a) Where a special disqualification order is made in relation to any person, the court shall by order direct particulars of the special disqualification order to be endorsed on the driving licence held by such person or, if he is not the holder of a driving licence but subsequently a driving licence is granted to him, on that driving licence.
 
-(b) Where a special disqualification order is suspended ... pending an appeal, the relevant order under this subsection shall also stand suspended ..., but, upon the appellant having given notification in writing that he wishes to withdraw the appeal, the suspension ... of the order under this subsection shall be regarded as having terminated immediately before the day on which the notification was given.
+(b) Where a special disqualification order is suspended ... pending an appeal, the relevant order under this subsection shall also stand suspended
+
+..., but, upon the appellant having given notification in writing that he wishes to withdraw the appeal, the suspension ... of the order under this subsection shall be regarded as having terminated immediately before the day on which the notification was given.
 
 (c) Where an appeal is taken in a case in which an order has been made under this subsection, the Circuit Court shall (as may be appropriate)—
 
