@@ -12,6 +12,8 @@ Interpretation.
 
 “approved policy of insurance” has the meaning specified in section 62;
 
+"autonomous vehicle" means a mechanically propelled vehicle that has been designed, constructed, adapted or modified to move autonomously for certain periods of time but in respect of which driver intervention is still expected or required;
+
 “built-up area speed limit” has the meaning specified in subsection (4) of section 45;
 
 “certificate of competency” has the meaning specified in subsection (4) of section 33;
@@ -34,7 +36,13 @@ Interpretation.
 
 "detachable disc" means that part of a test certificate, for the time being in force in respect of a vehicle, which may be detached from the certificate to be affixed to the vehicle;
 
-“driving” includes managing and controlling and, in relation to a bicycle, tricycle or powered personal transporter, riding, and “driver” and other cognate words shall be construed accordingly;
+"driving" includes—
+
+(a) managing and controlling,
+
+(b) in the case of an autonomous vehicle during periods of time in which the vehicle is moving autonomously, monitoring, overseeing and supervising, and
+
+(c) in relation to a bicycle, tricycle or powered personal transporter, riding, and "driver" and other cognate words shall be construed accordingly;
 
 "driving licence" means—
 
