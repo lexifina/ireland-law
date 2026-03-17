@@ -68,11 +68,7 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 2. (a) Exceeding 80 milligrammes
 
-(b) Exceeding 107 milligrammes
-
-1 year 2 years
-
-(c) Exceeding 35 microgrammes
+1 year 2 years (b) Exceeding 107 milligrammes Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under the section same section or first offence concerned where previously convicted under the other section (1) (2) (3) (4) (c) Exceeding 35 microgrammes
 
 3. (a) Exceeding 100 milligrammes
 
@@ -106,7 +102,7 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 (b) a period of 4 years or more during which such person was not disqualified for holding a driving licence has elapsed since the previous conviction of the person by reference to which the later conviction is, or is by virtue of subsection (7) to be regarded as, a second or subsequent conviction, the court may, for the purposes of this section, deal with the later conviction as a first conviction.
 
-(9) Subje and (11), in every case in which an appeal may be brought in respect of a conviction for an offence on conviction of which a consequential disqualification order may be made, jurisdiction to make, confirm, annul or vary a consequential disqualification order is conferred on the appellate court unless it otherwise has that jurisdiction or the conferring of that jurisdiction is unnecessary because the appeal is by way of rehearing.
+(9) Subject to subsections (10) and (11), in every case in which an appeal may be brought in respect of a conviction for an offence on conviction of which a consequential disqualification order may be made, jurisdiction to make, confirm, annul or vary a consequential disqualification order is conferred on the appellate court unless it otherwise has that jurisdiction or the conferring of that jurisdiction is unnecessary because the appeal is by way of rehearing.
 
 (10) A consequential disqualification order shall not be annulled on appeal unless—
 
