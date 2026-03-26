@@ -34,7 +34,9 @@ Terms and conditions of office of members of Committee
 
 (6) The chairperson of the Committee other than a serving judge and the ordinary members of the Committee, other than the Director of FSI ..., shall be paid such remuneration (if any) as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
 
-(7) The chairperson and ordinary members of the Committee shall be paid such allowances for expenses as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine. Vacancies in membership of Committee
+(7) The chairperson and ordinary members of the Committee shall be paid such allowances for expenses as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
+
+Vacancies in membership of Committee
 
 3. (1) If a member of the Committee dies, resigns or ceases to be a member of the Committee, the Minister may appoint a person to be a member of the Committee to fill the vacancy so occasioned.
 

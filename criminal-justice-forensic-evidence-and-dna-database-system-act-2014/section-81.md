@@ -10,9 +10,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (ii) the investigation of that offence has not been concluded; or
 
-(b) having regard to the matters specified in subsection
-
-(3), the Commissioner believes it is necessary to do so taking account of all the circumstances of the case and the reasons why—
+(b) having regard to the matters specified in subsection (3), the Commissioner believes it is necessary to do so taking account of all the circumstances of the case and the reasons why—
 
 (i) proceedings for that offence have not been instituted against the person, or
 

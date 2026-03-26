@@ -10,10 +10,4 @@ Table
 
 Number and Year Short Title Provision amended
 
-(1) (2) (3)
-
-No. 13 of 1939 Offences Against the State Section 30A(1). Act 1939
-
-No. 22 of 1984 Criminal Justice Act 1984 Section 10(1).
-
-No. 29 of 1996 Criminal Justice (Drug Section 4(1). Trafficking) Act 1996 No. 29 of 2007 Criminal Justice Act 2007 Section 51(1).
+(1) (2) (3) No. 13 of 1939 Offences Against the State Act Section 30A(1). 1939 No. 22 of 1984 Criminal Justice Act 1984 Section 10(1). No. 29 of 1996 Criminal Justice (Drug Trafficking) Section 4(1). Act 1996 No. 29 of 2007 Criminal Justice Act 2007 Section 51(1).

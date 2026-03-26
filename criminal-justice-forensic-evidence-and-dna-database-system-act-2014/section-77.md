@@ -14,9 +14,7 @@ Extension of retention period under section 76 for intimate samples and non-inti
 
 (iii) to support the admissibility of any evidence on which the prosecution may seek to rely in such proceedings;
 
-(d) having regard to the matters specified in subsection
-
-(2), the Commissioner believes it is necessary to retain the sample concerned in connection with the investigation of the relevant offence concerned taking account of all the circumstances of the case and the reasons why—
+(d) having regard to the matters specified in subsection (2), the Commissioner believes it is necessary to retain the sample concerned in connection with the investigation of the relevant offence concerned taking account of all the circumstances of the case and the reasons why—
 
 (i) proceedings for that offence have not been instituted against the person, or
 

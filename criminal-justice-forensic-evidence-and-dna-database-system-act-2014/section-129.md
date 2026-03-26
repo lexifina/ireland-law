@@ -12,9 +12,7 @@ Amendment of section 76 of Act of 2008
 
 ‘DNA’ means deoxyribonucleic acid;
 
-‘DNA profile’, in relation to a person, means information comprising a set of identification characteristics of the non-coding part of DNA derived from an examination and analysis of a bodily sample or DNA sample from the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person;
-
-‘DNA sample’, in relation to a person, means a sample of hair other than pubic hair of the person or a swab from the mouth (including the inside of the mouth) of the person;
+‘DNA profile’, in relation to a person, means information comprising a set of identification characteristics of the non-coding part of DNA derived from an examination and analysis of a bodily sample or DNA sample from the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person; ‘DNA sample’, in relation to a person, means a sample of hair other than pubic hair of the person or a swab from the mouth (including the inside of the mouth) of the person;
 
 ‘guardian’, in relation to a child (including a protected person who is a child), has the meaning it has in the Act of 2014;
 
