@@ -14,7 +14,7 @@ Making of advance healthcare directives, etc.
 
 (b) Where a request for a specific treatment set out in an advance healthcare directive is not complied with in a decision-making process referred to in paragraph (a), the healthcare professional concerned, involved in that decision-making process, shall—
 
-(i) record the reasons for not complying with the request in the directive-maker’s healthcare record, and
+(i) record the reasons for not complying with the request in the directive- maker’s healthcare record, and
 
 (ii) give a copy of those reasons as so recorded to the person’s designated healthcare representative (if any) as soon as is practicable after they have been recorded but, in any case, not later than 7 working days after they have been recorded.
 
@@ -40,9 +40,7 @@ Making of advance healthcare directives, etc.
 
 (iii) the signature of the person is witnessed in accordance with subsection (6)(b).
 
-(6) (a) The directive-maker, or the person signing on his or her behalf in accordance with subsection
-
-(5), and the designated healthcare representative (if any) shall sign the advance healthcare directive in the presence of each other (where applicable) and in the presence of 2 witnesses—
+(6) (a) The directive-maker, or the person signing on his or her behalf in accordance with subsection (5), and the designated healthcare representative (if any) shall sign the advance healthcare directive in the presence of each other (where applicable) and in the presence of 2 witnesses—
 
 (i) each of whom has attained the age of 18 years, and
 

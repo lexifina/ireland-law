@@ -4,7 +4,7 @@ Amendment of Civil Registration Act 2004
 
 (a) in section 2(2), by substituting the following for paragraph (d):
 
-“(d) one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity (within the meaning of the Assisted Decision-Making (Capacity) Act 2015) to consent to the marriage,”
+“(d) one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity (within the meaning of the Assisted Decision- Making (Capacity) Act 2015) to consent to the marriage,”
 
 (b) ...
 

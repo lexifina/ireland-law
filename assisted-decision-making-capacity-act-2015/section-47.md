@@ -18,9 +18,7 @@ Complaints in relation to decision-making representatives
 
 (i) the provision of clarification by him or her to the decision-making representative regarding the role of the decision-making representative would be an appropriate resolution, or
 
-(ii) the subject matter of the complaint could be appropriately resolved under section 96(4), the Director may, not later than 3 months after having formed a view under subsection
-
-(1A), provide the clarification referred to in subparagraph (i), or proceed to resolve the complaint as soon as possible under section 96(4), as the case may be, and
+(ii) the subject matter of the complaint could be appropriately resolved under section 96(4), the Director may, not later than 3 months after having formed a view under subsection (1A), provide the clarification referred to in subparagraph (i), or proceed to resolve the complaint as soon as possible under section 96(4), as the case may be, and
 
 (b) where he or she is of the view that the complaint is not well founded, notify the person who made the complaint of that view and provide reasons for same.
 

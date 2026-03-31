@@ -58,7 +58,7 @@ Codes of practice
 
 (e) representatives of professional bodies in the healthcare, social care, legal and financial sectors;
 
-(f ) representatives of healthcare, social care, legal and financial professionals;
+(f) representatives of healthcare, social care, legal and financial professionals;
 
 (g) persons who have a disability within the meaning of section 2 (1) of the Disability Act 2005, their representative organisations, or any other persons with expertise in matters pertaining to disability.
 

@@ -74,7 +74,9 @@ Article 8
 
 Article 9
 
-The authorities of a Contracting State where property of the adult is situated have jurisdiction to take measures of protection concerning that property, to the extent that such measures are compatible with those taken by the authorities having jurisdiction under Articles 5 to 8. Article 10
+The authorities of a Contracting State where property of the adult is situated have jurisdiction to take measures of protection concerning that property, to the extent that such measures are compatible with those taken by the authorities having jurisdiction under Articles 5 to 8.
+
+Article 10
 
 (1) In all cases of urgency, the authorities of any Contracting State in whose territory the adult or property belonging to the adult is present have jurisdiction to take any necessary measures of protection.
 
@@ -138,7 +140,9 @@ This Chapter does not prevent the application of those provisions of the law of 
 
 Article 21
 
-The application of the law designated by the provisions of this Chapter can be refused only if this application would be manifestly contrary to public policy. CHAPTER IV — RECOGNITION AND ENFORCEMENT
+The application of the law designated by the provisions of this Chapter can be refused only if this application would be manifestly contrary to public policy.
+
+CHAPTER IV — RECOGNITION AND ENFORCEMENT
 
 Article 22
 
@@ -164,7 +168,9 @@ Article 25
 
 Article 26
 
-Without prejudice to such review as is necessary in the application of the preceding Articles, there shall be no review of the merits of the measure taken. Article 27
+Without prejudice to such review as is necessary in the application of the preceding Articles, there shall be no review of the merits of the measure taken.
+
+Article 27
 
 Measures taken in one Contracting State and declared enforceable, or registered for the purpose of enforcement, in another Contracting State shall be enforced in the latter State as if they had been taken by the authorities of that State. Enforcement takes place in accordance with the law of the requested State to the extent provided by such law.
 
@@ -276,7 +282,11 @@ For the purpose of identifying the applicable law under Chapter III, in relation
 
 Article 48
 
-In relations between the Contracting States this Convention replaces the Convention concernant l’interdiction et les mesures de protection analogues, signed at The Hague 17 July 1905. Article 49
+In relations between the Contracting States this Convention replaces the
+
+Convention concernant l’interdiction et les mesures de protection analogues, signed at The Hague 17 July 1905.
+
+Article 49
 
 (1) The Convention does not affect any other international instrument to which Contracting States are Parties and which contains provisions on matters governed by this Convention, unless a contrary declaration is made by the States Parties to such instrument.
 
@@ -292,9 +302,7 @@ Article 50
 
 (2) The Convention shall apply to the recognition and enforcement of measures taken after its entry into force as between the State where the measures have been taken and the requested State.
 
-(3) The Convention shall apply from the time of its entry into force in a Contracting State to powers of representation previously granted under conditions corresponding to those set out in Article 15.
-
-Article 51
+(3) The Convention shall apply from the time of its entry into force in a Contracting State to powers of representation previously granted under conditions corresponding to those set out in Article 15. Article 51
 
 (1) Any communication sent to the Central Authority or to another authority of a Contracting State shall be in the original language, and shall be accompanied by a translation into the official language or one of the official languages of the other State or, where that is not feasible, a translation into French or English.
 
@@ -340,7 +348,9 @@ Article 57
 
 (1) The Convention shall enter into force on the first day of the month following the expiration of three months after the deposit of the third instrument of ratification, acceptance or approval referred to in Article 53.
 
-(2) Thereafter the Convention shall enter into force— a) for each State ratifying, accepting or approving it subsequently, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance, approval or accession; b) for each State acceding, on the first day of the month following the expiration of three months after the expiration of the period of six months provided in Article 54, paragraph 3; c) for a territorial unit to which the Convention has been extended in conformity with Article 55, on the first day of the month following the expiration of three months after the notification referred to in that Article. Article 58
+(2) Thereafter the Convention shall enter into force— a) for each State ratifying, accepting or approving it subsequently, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance, approval or accession; b) for each State acceding, on the first day of the month following the expiration of three months after the expiration of the period of six months provided in Article 54, paragraph 3; c) for a territorial unit to which the Convention has been extended in conformity with Article 55, on the first day of the month following the expiration of three months after the notification referred to in that Article.
+
+Article 58
 
 (1) A State Party to the Convention may denounce it by a notification in writing addressed to the depositary. The denunciation may be limited to certain territorial units to which the Convention applies.
 
@@ -350,6 +360,4 @@ Article 59
 
 The depositary shall notify the States Members of the Hague Conference on Private International Law and the States which have acceded in accordance with Article 54 of the following— a) the signatures, ratifications, acceptances and approvals referred to in Article 53; b) the accessions and objections raised to accessions referred to in Article 54; c) the date on which the Convention enters into force in accordance with Article 57; d) the declarations referred to in Article 32, paragraph 2, and Article 55; e) the agreements referred to in Article 37; f) the reservation referred to in Article 51, paragraph 2, and the withdrawal referred to in Article 56, paragraph 2; g) the denunciations referred to in Article 58.
 
-In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
-
-Done at The Hague, on 13 January, 2000, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law.
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. Done at The Hague, on 13 January, 2000, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law.

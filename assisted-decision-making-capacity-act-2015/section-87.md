@@ -28,7 +28,7 @@ Designated healthcare representative
 
 (a) the individual is convicted of an offence in relation to the person or property of the directive-maker or the person or property of a child of the directive-maker,
 
-(b) a safety or barring order is made against the individual in relation to the directive- maker or a child of the directive-maker,
+(b) a safety or barring order is made against the individual in relation to the directive-maker or a child of the directive-maker,
 
 (c) the individual becomes—
 

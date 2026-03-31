@@ -6,7 +6,7 @@ Amendment of Act of 1995
 
 (a) in section 1 by inserting the following definition:
 
-“‘relevant person’ has the meaning it has in the Assisted Decision- Making (Capacity) Act 2015;”,
+“‘relevant person’ has the meaning it has in the Assisted Decision-Making (Capacity) Act 2015;”,
 
 (b) in section 26(3) —
 
@@ -16,7 +16,7 @@ Amendment of Act of 1995
 
 (iii) by inserting, after paragraph (b), the following:
 
-“(c) a party to an application under Part 5 of the Assisted Decision- Making (Capacity) Act 2015 shall qualify for legal advice, and”,
+“(c) a party to an application under Part 5 of the Assisted Decision-Making (Capacity) Act 2015 shall qualify for legal advice, and”,
 
 (c) in section 28 by inserting after subsection (3) the following:
 
