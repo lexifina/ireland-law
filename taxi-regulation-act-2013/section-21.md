@@ -26,7 +26,7 @@ Codes of practice
 
 (b) may, having considered any representations received, establish or adopt the draft code, with or without modification.
 
-(6) Subsection (7) applies in proceedings for an offence under this Act where there was a relevant code of practice in effect at the time of the commission of the alleged offence.
+(6) Subsection (7) applies in proceedings for an offence under this Act where there was a relevant code of practice in operation at the time of the commission of the alleged offence.
 
 (7) Where it is shown in any proceedings that an act or omission of the accused constituted an element of an offence and such act or omission was—
 
