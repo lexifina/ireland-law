@@ -50,81 +50,51 @@ TABLE
 
 Demerits in respect of contravention of certain provisions
 
-Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4)
-
-1
+Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4) 1
 
 Section 7(5)
 
-1 2
-
-2
+1 2 2
 
 Section 7(7)
 
-2 4
-
-3
+2 4 3
 
 Section 8(8)
 
-2 4
-
-4
+2 4 4
 
 Section 9(6)
 
-1 2
-
-5
+1 2 5
 
 Section 11(4)
 
-1 2
-
-6
+1 2 6
 
 Section 17(4)
 
-1 2
-
-7
+1 2 7
 
 Section 20(4)(a)
 
-4
-
-8 Section 22(4) or (6) 4
-
-9 Section 23(1) or (4) 1 2
-
-10
+4 8 Section 22(4) or (6) 4 9 Section 23(1) or (4) 1 2 10
 
 Section 24(7)
 
-1 3
-
-11
+1 3 11
 
 Section 26(4)
 
-2 4 Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4)
-
-12
+2 4 12
 
 Section 31(2)
 
-2 4
-
-13
+2 4 13
 
 Section 37(3)
 
-1 2
-
-14 Section 43(1)(in respect 2 4 of a contravention of section 41)
-
-15
+1 2 14 Section 43(1)(in respect 2 4 of a contravention of section 41) 15
 
 Section 68(3)
 
