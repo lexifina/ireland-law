@@ -26,9 +26,7 @@ Power of housing authorities to sell certain dwellings provided under Principal 
 
 (3) If so directed by the Minister, a housing authority shall, on or before such date as the Minister may specify, adopt a purchase scheme or schemes and offer for sale dwellings to which the purchase scheme or schemes apply.
 
-(4) Subject to any regulations made under this section, section 83 of the Local Government Act, 1946, shall apply in relation to the sale of a dwelling under subparagraph (ii) or (iii) of paragraph (a), or paragraph (b), of subsection (1) of this section and have effect as if for paragraphs (b), (c) and (d) of subsection (1) of the said section 83 there were substituted the following:
-
-‘(b) at a meeting of the local authority held after the expiration of ten clear days from the day on which such notices are sent, the authority shall resolve as follows:
+(4) Subject to any regulations made under this section, section 83 of the Local Government Act, 1946, shall apply in relation to the sale of a dwelling under subparagraph (ii) or (iii) of paragraph (a), or paragraph (b), of subsection (1) of this section and have effect as if for paragraphs (b), (c) and (d) of subsection (1) of the said section 83 there were substituted the following: ‘(b) at a meeting of the local authority held after the expiration of ten clear days from the day on which such notices are sent, the authority shall resolve as follows:
 
 (i) that the sale shall be carried out in accordance with the terms specified in such notices, or
 
