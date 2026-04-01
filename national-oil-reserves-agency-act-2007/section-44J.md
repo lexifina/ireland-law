@@ -2,7 +2,9 @@ Discharge of renewable transport fuel obligation or advanced biofuel obligation 
 
 44J.— (1) Where the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the "buy-out charge") calculated in accordance with the formula—
 
-X x Y where— X is the amount of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under section 44I(1) which remains undischarged, and
+X x Y where—
+
+X is the amount of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under section 44I(1) which remains undischarged, and
 
 Y is the price per megajoule of renewable transport fuel prescribed in accordance with this section (in this section referred to as the "buy-out price").
 
