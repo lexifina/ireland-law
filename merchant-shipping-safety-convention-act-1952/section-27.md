@@ -18,6 +18,6 @@ Miscellaneous provisions as to surveys and certificates.
 
 (9) The Minister may request the government of a country to which the Safety Convention applies to issue in respect of a ship registered in the State any certificate the issue of which is authorised under this Act; and a certificate issued in pursuance of such a request and containing a statement that it has been so issued shall have effect for the purposes of this Act as if it had been issued by the Minister and not by the government of that country.
 
-## Safety Convention Ships not Registered in
+## Safety Convention Ships not Registered in the
 
-the State.
+State.
