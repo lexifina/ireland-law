@@ -1,4 +1,4 @@
-Modified
+Modified survey of passenger steamers holding Convention certificates.
 
 29. — (1) Where an accepted Safety Convention certificate is produced in respect of a Safety Convention passenger steamer not registered in the State—
 
