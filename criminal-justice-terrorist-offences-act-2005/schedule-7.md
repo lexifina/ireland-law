@@ -2,9 +2,7 @@ SCHEDULE 7
 
 INTERNATIONAL CONVENTION FOR THE SUPPRESSION OF THE FINANCING OF TERRORISM
 
-Preamble
-
-The States Parties to this Convention,
+Preamble The States Parties to this Convention,
 
 Bearing in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of good-neighbourliness and friendly relations and cooperation among States,
 
@@ -300,7 +298,7 @@ Article 25
 
 1. This Convention shall be open for signature by all States from 10 January 2000 to 31 December 2001 at United Nations Headquarters in New York.
 
-2. This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations.
+2. This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary- General of the United Nations.
 
 3. This Convention shall be open to accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
@@ -312,7 +310,7 @@ Article 26
 
 Article 27
 
-1. Any State Party may denounce this Convention by written notification to the Secretary- General of the United Nations.
+1. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
 
 2. Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
 

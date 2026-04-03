@@ -104,7 +104,7 @@ Article 6
 
 (e) The offence is committed on board an aircraft which is operated by the Government of that State.
 
-3. Upon ratifying, accepting, approving or acceding to this Convention, each State Party shall notify the Secretary-General of the United Nations of the jurisdiction it has established in accordance with paragraph 2 under its domestic law. Should any change take place, the State Party concerned shall immediately notify the Secretary-General.
+3. Upon ratifying, accepting, approving or acceding to this Convention, each State Party shall notify the Secretary-General of the United Nations of the jurisdiction it has established in accordance with paragraph 2 under its domestic law. Should any change take place, the State Party concerned shall immediately notify the Secretary- General.
 
 4. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 in cases where the alleged offender is present in its territory and it does not extradite that person to any of the States Parties which have established their jurisdiction in accordance with paragraph 1 or 2.
 
@@ -226,7 +226,7 @@ Article 21
 
 1. This Convention shall be open for signature by all States from 12 January 1998 until 31 December 1999 at United Nations Headquarters in New York.
 
-2. This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations.
+2. This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary- General of the United Nations.
 
 3. This Convention shall be open to accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
@@ -238,12 +238,10 @@ Article 22
 
 Article 23
 
-1. Any State Party may denounce this Convention by written notification to the Secretary- General of the United Nations.
+1. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
 
 2. Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
 
 Article 24
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 12 January 1998.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States. IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 12 January 1998.

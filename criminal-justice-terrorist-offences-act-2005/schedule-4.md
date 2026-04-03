@@ -8,7 +8,9 @@ Having in mind the purposes and principles of the Charter of the United Nations 
 
 Considering that crimes against diplomatic agents and other internationally protected persons jeopardizing the safety of these persons create a serious threat to the maintenance of normal international relations which are necessary for co-operation among States,
 
-Believing that the commission of such crimes is a matter of grave concern to the international community, Convinced that there is an urgent need to adopt appropriate and effective measures for the prevention and punishment of such crimes,
+Believing that the commission of such crimes is a matter of grave concern to the international community,
+
+Convinced that there is an urgent need to adopt appropriate and effective measures for the prevention and punishment of such crimes,
 
 Have agreed as follows:
 
@@ -150,7 +152,7 @@ Article 17
 
 Article 18
 
-1. Any State Party may denounce this Convention by written notification to the Secretary- General of the United Nations.
+1. Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
 
 2. Denunciation shall take effect six months following the date on which notification is received by the Secretary-General of the United Nations.
 
@@ -164,8 +166,6 @@ The Secretary-General of the United Nations shall inform all States, inter alia:
 
 Article 20
 
-The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
+The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General of the United Nations, who shall send certified copies thereof to all States.
 
-IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective
-
-Governments, have signed this Convention, opened for signature at New York on 14 December 1973.
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 14 December 1973.
