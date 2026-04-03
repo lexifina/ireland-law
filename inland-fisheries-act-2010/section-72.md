@@ -20,6 +20,6 @@ Prohibition of sale of certain nets or netting.
 
 (i) that the inquiries were made in good faith, and
 
-(ii) that in the circumstances of the case it would have been reasonable for the defendant, having regard to the results of the inquiries, to have believed that such net or netting was not to be used for or in relation to fishing , he or she shall be acquitted of the offence.
+(ii) that in the circumstances of the case it would have been reasonable for the defendant, having regard to the results of the inquiries, to have believed that such net or netting was not to be used for or in relation to fishing, he or she shall be acquitted of the offence.
 
 (4) In case the Minister receives a notification in writing by a person of his or her intention to sell a net or netting of a class or description specified in an order under this section, the Minister shall as soon as may be give to the person directions as to the manner in which a record of the results of inquiries made by him or her for the purposes of subsection (3) is to be kept.
