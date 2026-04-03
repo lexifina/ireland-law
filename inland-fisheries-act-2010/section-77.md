@@ -26,58 +26,32 @@ TABLE
 
 PART 1
 
-Reference Number Section of Principal Act Penalty (1) (2) (3)
+Reference Number Section of Principal Act Penalty (1) (2) (3) 1. 12, 13, 289. A fine not exceeding €200. 2. 49, 105, 106, 152, 153, A fine not exceeding €1,000. 162, 255, 265, 286, 287, 288, 290, 294, 298, 303, 304, 306, 323. 3. 17, 65, 66, 73, 91, 92, 93, A fine not exceeding €2,000. 112, 113, 119, 120, 121, 122, 125, 130, 140, 141, 143, 144, 145, 146, 167, 168, 169, 178, 179, 180, 181, 253, 273, 274, 277, 285, 291. 4. 163. A fine not exceeding €2,000 or, in the case
 
-1. 12, 13, 289. A fine not exceeding €200.
+5. 69, 123, 128, 129. A fine not exceeding €2,000 and, in the case
 
-2. 49, 105, 106, 152, 153, A fine not exceeding €1,000. 162, 255, 265, 286, 287, 288, 290, 294, 298, 303, 304, 306, 323.
+6. 100(3). A fine not exceeding €2,000, and if after Reference Number Section of Principal Act Penalty (1) (2) (3) 100(5)(e). A fine not exceeding €2,000. 7. 111. A fine not exceeding €2,000 and a further
 
-3. 17, 65, 66, 73, 91, 92, 93, A fine not exceeding €2,000. 112, 113, 119, 120, 121, 122, 125, 130, 140, 141, 143, 144, 145, 146, 167, 168, 169, 178, 179, 180, 181, 253, 273, 274, 277, 285, 291.
-
-4. 163. A fine not exceeding €2,000 or, in the case of
-
-5. 69, 123, 128, 129. A fine not exceeding €2,000 and, in the case Reference Number Section of Principal Act Penalty (1) (2) (3)
-
-6. 100(3). A fine not exceeding €2,000, and if after
-
-100(5)(e). A fine not exceeding €2,000.
-
-7. 111. A fine not exceeding €2,000 and a further fine
-
-8. 124. A fine not exceeding €2,000 and a further fine
+8. 124. A fine not exceeding €2,000 and a further
 
 9. 127, 134, 135, 136, 137, A fine (not exceeding in all €2,500) of an 138, 177.
 
 10. 94. A fine (not exceeding in all €2,500) of an
 
-11. 95, 96, 97, 99, 102, 103, A fine not exceeding €2,000 or imprisonment 104, 107, 110, 114, 116, 131, 132, 164, 165, 166, 170, 173, 174, 285A, 301, 308.
-
-12. 183. A fine not exceeding €2,000 or, in the case of
+11. 95, 96, 97, 99, 102, 103, A fine not exceeding €2,000 or imprisonment 104, 107, 110, 114, 116, 131, 132, 164, 165, 166, 170, 173, 174, 285A, 301, 308. 12. 183. A fine not exceeding €2,000 or, in the case
 
 13. 176. A fine (not exceeding in all €2,500) of an
 
-14. 156(2), 157, 163A(1), 182. A fine not exceeding €1,000 together with an
+14. 156(2), 157, 163A(1), 182. A fine not exceeding €1,000 together with
 
-15. 156(3). A fine not exceeding €1,000.
-
-16. 163A(3), 163A(5). A fine not exceeding €1,000.
+15. 156(3). A fine not exceeding €1,000. 16. 163A(3), 163A(5). A fine not exceeding €1,000.
 
 PART 2
 
-Reference Number Section of Act of 1962 Penalty (1) (2) (3)
-
-1. 27. A fine not exceeding €500.
-
-2. 28(1). A fine not exceeding €1,000 together with an amount not exceeding €250 for each salmon and €50 for each trout in respect of which the offence under that section is committed provided that the total amount of the fine shall not exceed €2,500.
-
-3. 28(3), 28(5). A fine not exceeding €1,000.
-
-4. 29. A fine not exceeding €2,000 or imprisonment for a term not exceeding 6 months or both.
+Reference Number Section of Act of 1962 Penalty (1) (2) (3) 1. 27. A fine not exceeding €500. Reference Number Section of Act of 1962 Penalty (1) (2) (3) 2. 28(1). A fine not exceeding €1,000 together with an amount not exceeding €250 for each salmon and €50 for each trout in respect of which the offence under that section is committed provided that the total amount of the fine shall not exceed €2,500. 3. 28(3), 28(5). A fine not exceeding €1,000. 4. 29. A fine not exceeding €2,000 or imprisonment for a term not exceeding 6 months or both.
 
 PART 3
 
-Reference Number Section of Act of Penalty 1994 (1) (2) (3)
+Reference Number Section of Act of 1994 Penalty (1) (2) (3) 1. 15(2)(a). A fine not exceeding €5,000 or to imprison-
 
-1. 15(2)(a). A fine not exceeding
-
-2. 15(3). A fine not exceeding
+2. 15(3). A fine not exceeding €2,500 or to imprison-
