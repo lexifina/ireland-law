@@ -100,30 +100,4 @@ Minor and consequential amendments.
 
 ACTS REFERRED TO
 
-County Management Acts, 1940 to 1991
-
-Dublin Transport Authority (Dissolution) Act, 1987 1987, No. 34
-
-Finance (Excise Duties) (Vehicles) Act, 1952 1952, No. 24
-
-Licensing Act, 1872 1872, c. 94
-
-Local Authorities (Traffic Wardens) Act, 1975 1975, No. 14
-
-Local Government (Ireland) Act, 1898 1898, c. 37
-
-Medical Practitioners Act, 1978 1978, No. 4
-
-Petty Sessions (Ireland) Act, 1851 1851, c. 93
-
-Probation of Offenders Act, 1907 1907, c. 17
-
-Roads Act, 1993 1993, No. 14
-
-Road Traffic Act, 1961 1961, No. 24
-
-Road Traffic Act, 1968 1968, No. 25
-
-Road Traffic (Amendment) Act, 1978 1978, No. 19
-
-Road Traffic (Amendment) Act, 1984 1984, No. 16
+County Management Acts, 1940 to 1991 Dublin Transport Authority (Dissolution) Act, 1987 1987, No. 34 Finance (Excise Duties) (Vehicles) Act, 1952 1952, No. 24 Licensing Act, 1872 1872, c. 94 Local Authorities (Traffic Wardens) Act, 1975 1975, No. 14 Local Government (Ireland) Act, 1898 1898, c. 37 Medical Practitioners Act, 1978 1978, No. 4 Petty Sessions (Ireland) Act, 1851 1851, c. 93 Probation of Offenders Act, 1907 1907, c. 17 Roads Act, 1993 1993, No. 14 Road Traffic Act, 1961 1961, No. 24 Road Traffic Act, 1968 1968, No. 25 Road Traffic (Amendment) Act, 1978 1978, No. 19 Road Traffic (Amendment) Act, 1984 1984, No. 16

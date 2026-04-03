@@ -1,5 +1,5 @@
 ## PART IV DRIVING LICENCES
 
-Requirement
+Requirement to carry driving licence while driving vehicle. (Repealed)
 
 25.—...
