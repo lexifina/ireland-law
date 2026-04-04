@@ -16,7 +16,7 @@ Supplementary provisions relating to proposed development at Dublin Airport.
 
 (b) Subsections (1) to (3) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to the performance by the competent authority of its functions under this section.
 
-(c) Subsections (4) to (7) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to measures and restrictions referred to in this sectionas thosesubsectionsapply to measures and restrictions referred to in those subsections.
+(c) Subsections (4) to (7) of section 9 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 shall, with all necessary modifications, apply to measures and restrictions referred to in this section as those subsections apply to measures and restrictions referred to in those subsections.
 
 (2) The competent authority shall, as soon as is practicable after it forms the opinion referred to in subsection (1)(a)(iii), give notice in writing to the planning authority of that opinion and the planning authority shall, as soon as is practicable after receiving the notice, consult with the competent authority in relation to, as appropriate, one or more of the following matters:
 
@@ -132,7 +132,7 @@ Supplementary provisions relating to proposed development at Dublin Airport.
 
 (iv) that a right of appeal to the Board against the regulatory decision exists under section 37 as read with section 37R.
 
-(15)(a)The planningauthorityshallincorporatethecompetentauthority’sregulatory decision under subsection (13)(a), the subject of the notice given to the planning authority under subsection (14)(a)(ii), and the competent authority’s reasons for such decision in the planning authority’s decision on the application and shall do so regardless of whether the planning authority’s decision is to refuse permission for the development or to grant permission for the development.
+(15) (a) The planning authority shall incorporate the competent authority’s regulatory decision under subsection (13)(a), the subject of the notice given to the planning authority under subsection (14)(a)(ii), and the competent authority’s reasons for such decision in the planning authority’s decision on the application and shall do so regardless of whether the planning authority’s decision is to refuse permission for the development or to grant permission for the development.
 
 (b) Notwithstanding that a regulatory decision referred to in paragraph (a) is made by the competent authority, such decision and the reasons for it shall, for the purposes of section 37 as read with section 37R, be treated as the decision, or part of the decision, as appropriate, of the planning authority on the application, and the other provisions of this Act shall be construed accordingly.
 

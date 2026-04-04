@@ -8,9 +8,7 @@ Energy Infrastructure
 
 —An installation for the onshore extraction of petroleum or natural gas.
 
-—A crude oil refinery (excluding an undertaking manufacturing only lubricants from crude oil) or an installation for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
-
-—A thermal power station or other combustion installation with a total energy output of 300 megawatts or more.
+—A crude oil refinery (excluding an undertaking manufacturing only lubricants from crude oil) or an installation for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day. —A thermal power station or other combustion installation with a total energy output of 300 megawatts or more.
 
 —An industrial installation for the production of electricity, steam or hot water with a heat output of 300 megawatts or more.
 
@@ -24,7 +22,9 @@ Energy Infrastructure
 
 —An installation for the surface storage of oil or coal, where the storage capacity would exceed 100,000 tonnes.
 
-—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel. —An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
+—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel.
+
+—An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
 
 —An onshore terminal, building or installation, whether above or below ground, associated with a natural gas storage facility, where the storage capacity would exceed 1mscm.
 

@@ -1,4 +1,4 @@
-Acknowledgementofcompletenessofcertainapplicationsundersection 37E.
+Acknowledgement of completeness of certain applications under section 37E.
 
 37JA.—Where an application for permission for renewable energy development or repowering development is made to An Coimisiún Pleanála under section 37E, An Coimisiún Pleanála shall, within 45 days of the receipt of the application —
 

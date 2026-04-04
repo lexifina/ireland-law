@@ -16,7 +16,9 @@ Availability of documents relating to planning applications.
 
 (2) Without prejudice to the Freedom of Information Act, 1997, and the European Communities Act, 1972 (Access to Information on the Environment) Regulations, 1998 (S.I. No. 125 of 1998), and any regulations amending those regulations, ... the documents referred to under subsection (1) shall be available for inspection for a period of not less than 7 years after the making of the decision by the authority.
 
-(3)(a) Where a planning application is not accompanied by an environmental impact assessment report, any other document referred to in subsection (1)(a) or (b) which is received or obtained by a planning authority shall be made available for inspection and purchase by members of the public during office hours of the authority from as soon as may be after receipt of the document until a decision is made on the application and may also be made available by the authority by placing the document on the authority’s website for inspection or in other electronic form.
+(3)(a) Where a planning application is not accompanied by an environmental impact assessment report, any other document referred to in subsection
+
+(1)(a) or (b) which is received or obtained by a planning authority shall be made available for inspection and purchase by members of the public during office hours of the authority from as soon as may be after receipt of the document until a decision is made on the application and may also be made available by the authority by placing the document on the authority’s website for inspection or in other electronic form.
 
 (b) Where a planning application is accompanied by an environmental impact assessment report—
 

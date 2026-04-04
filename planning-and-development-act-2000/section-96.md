@@ -88,9 +88,7 @@ Provision of social and affordable housing, etc..
 
 (I) land purchased before 25 August 1999, or
 
-(II) land purchased pursuant to a legally enforceable agreement to purchase the land entered into before that date, or in exercise of an option, in writing, to purchase the land granted or acquired before that date,
-
-(where the applicant for permission is a mortgagee in possession of the land) the price paid for the land, or the price agreed to be paid for the land pursuant to the agreement or option, together with such sum in respect of interest thereon calculated from that date (including any interest accruing and not paid in respect of the mortgage) as may be determined by the property arbitrator, or
+(II) land purchased pursuant to a legally enforceable agreement to purchase the land entered into before that date, or in exercise of an option, in writing, to purchase the land granted or acquired before that date, (where the applicant for permission is a mortgagee in possession of the land) the price paid for the land, or the price agreed to be paid for the land pursuant to the agreement or option, together with such sum in respect of interest thereon calculated from that date (including any interest accruing and not paid in respect of the mortgage) as may be determined by the property arbitrator, or
 
 (b) the value of the land calculated by reference to its existing use on the date on which the permission referred to in subsection (2) is granted on the basis that on that date it would have been, and would thereafter have continued to be, unlawful to carry out any development in relation to that land other than exempted development, whichever is the greater.
 

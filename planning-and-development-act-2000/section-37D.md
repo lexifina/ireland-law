@@ -10,7 +10,7 @@ Opinion by Board on information to be contained in environmental impact statemen
 
 (3) A prospective applicant shall, for the purposes of the Board’s complying with a request under this section, supply to the Board sufficient information in relation to the proposed development so as to enable the Board to assess the proposed development.
 
-(3A) Where an opinion referred to in subsection(2) has beenprovided,theenvironmental impact assessment report shall be based on that opinion, and include the information that may reasonably be required for reaching a reasoned conclusion on the significant effects on the environment of the proposed development, taking into account current knowledge and methods of assessment.
+(3A) Where an opinion referred to in subsection (2) has been provided, the environmental impact assessment report shall be based on that opinion, and include the information that may reasonably be required for reaching a reasoned conclusion on the significant effects on the environment of the proposed development, taking into account current knowledge and methods of assessment.
 
 (3B) Where the proposed development referred to in subsection (1) is renewable energy development or repowering development, and an opinion is given under this section, An Coimisiún Pleanála shall not subsequently extend the scope and level of detail of the information to be included in the environmental impact assessment report.
 

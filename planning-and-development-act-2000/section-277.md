@@ -4,22 +4,14 @@ Further amendment of Part V of Roads Act, 1993.
 
 “Ministerial policy
 
-66A.—(1) The Minister may, from time to time, issue policy directives directives on road to road authorities regarding the exercise of any of their functions under tolling.
-
-Part V or any matter connected therewith and road authorities shall comply with any such directives.
-
-(2) The Minister may revoke or amend a policy directive issued under this section.
-
-(3) The Minister shall cause a copy of any policy directive issued under this section to be laid before each House of the Oireachtas.
-
-(4) A road authority shall make available for inspection by members of the public any policy directive issued to it under this section.
-
-(5) The Minister shall not issue a directive relating to a particular tolling scheme.
+66A.—(1) The Minister may, from time to time, issue policy directives on road directives to road authorities regarding the exercise of any of tolling. their functions under Part V or any matter connected therewith and road authorities shall comply with any such directives. (2) The Minister may revoke or amend a policy directive issued under this section. (3) The Minister shall cause a copy of any policy directive issued under this section to be laid before each House of the Oireachtas. (4) A road authority shall make available for inspection by members of the public any policy directive issued to it under this section. (5) The Minister shall not issue a directive relating to a particular tolling scheme.
 
 Continuance of
 
-66B.—Notwithstanding this Part, every agreement entered into and existing schemes, every toll scheme or bye-law made by a road authority and in force bye-laws and immediately before the commencement of this section shall continue in agreements. force as if made or entered into under this Part as amended by the Planning and Development Act, 2000.
+66B.—Notwithstanding this Part, every agreement entered existing schemes, into and every toll scheme or bye-law made by a road authority bye-laws and and in force immediately before the commencement of this agreements. section shall continue in force as if made or entered into under this Part as amended by the Planning and Development Act, 2000.
 
-Transitional
+Transitional provi-
 
-66C.—Where, before the commencement of Part XX of the Planning provisions regarding and Development Act, 2000, any toll scheme, proposal to revoke a toll toll schemes. scheme or bye-law has been submitted to the Minister under Part V and the matter has not been determined by the Minister, the determination of the matter shall continue to rest with the Minister and Part V as amended by Part XX of the Planning and Development Act, 2000, shall not apply with respect to the matter..
+66C.—Where, before the commencement of Part XX of the sions regarding
+
+Planning and Development Act, 2000, any toll scheme, proposal toll schemes. to revoke a toll scheme or bye-law has been submitted to the Minister under Part V and the matter has not been determined by the Minister, the determination of the matter shall continue to rest with the Minister and Part V as amended by Part XX of the Planning and Development Act, 2000, shall not apply with respect to the matter..

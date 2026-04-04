@@ -74,7 +74,7 @@ Consequential provisions to section 31AM
 
 (b) where subsection (7)(b) applies, the report was made available to him or her.
 
-(9) No later than 3 weeks (or as soon as may be during such period extending that 3 week period as the Office may decide) after receipt of the report of the inspector, or of any submissionsmadetohimorher,theOffice,havingconsideredthereport, recommendations or submissions, as the case may be, shall recommend to the Minister for stated reasons—
+(9) No later than 3 weeks (or as soon as may be during such period extending that 3 week period as the Office may decide) after receipt of the report of the inspector, or of any submissions made to him or her, the Office, having considered the report, recommendations or submissions, as the case may be, shall recommend to the Minister for stated reasons—
 
 (a) to issue the direction,
 
@@ -168,7 +168,7 @@ Consequential provisions to section 31AM
 
 (iii) the necessity of ensuring that the proposed development plan will be consistent with—
 
-(I)thenationaland regionaldevelopmentobjectivessetoutin theNationalPlanning Framework and the regional spatial and economic strategy,
+(I) the national and regional development objectives set out in the National Planning Framework and the regional spatial and economic strategy,
 
 (II) specific planning policy requirements specified in guidelines under section 28(1), and
 

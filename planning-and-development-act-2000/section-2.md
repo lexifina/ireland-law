@@ -76,9 +76,7 @@ Interpretation.
 
 “chairperson” means the chairperson of the Board,
 
-"chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as
-
-O.J.No. 20, 26.1.2010 p 7-25 amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
+"chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
 
 "coastal planning authority" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
@@ -114,7 +112,11 @@ O.J.No. 20, 26.1.2010 p 7-25 amended by section 54 of the Local Government Refor
 
 "Environmental impact assessment" has the meaning given to it by section 171A;
 
-"Environmental Impact Assessment Directive" means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
+"Environmental Impact Assessment Directive" means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April
+
+O.J.No. 20, 26.1.2010 p 7-25
+
+2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
 
 "environmental impact assessment report" means a report of the effects, if any, which proposed development, if carried out, would have on the environment and shall include the information specified in Annex IV of the Environmental Impact Assessment Directive;
 
@@ -146,11 +148,11 @@ O.J.No. 20, 26.1.2010 p 7-25 amended by section 54 of the Local Government Refor
 
 (c) was provided for use as a dwelling but has not been occupied;
 
-"Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which
+"Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
 
 O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
 
-O.J.No.L305, 8.11.1997, p 42-65 the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
+O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
 
 “house” means a building or part of a building which is being or has been occupied as a dwelling or was provided for use as a dwelling but has not been occupied, and where appropriate, includes a building which was designed for use as 2 or more dwellings or a flat, an apartment or other dwelling within such a building;
 
@@ -189,8 +191,6 @@ O.J.No.L305, 8.11.1997, p 42-65 the European Union is founded, and Council Direc
 "LRD meeting" means a meeting in accordance with sections 32B and 32C;
 
 "LRD opinion" has the meaning given to it by section 32D;
-
-O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
 
 "LRD floor space", in relation to a building or part of a building, means the area ascertained by the internal measurement of the floor space on each floor of a building or part of a building (including internal walls and partitions), disregarding any floor space provided for—
 
@@ -236,8 +236,6 @@ O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 05
 
 "National Marine Planning Framework" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
-O.J.No. L345, 31.12.2003 p.97-105
-
 "national newspaper" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 "National Spatial Strategy" means the "National Spatial Strategy: 2002 – 2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy;
@@ -251,6 +249,8 @@ O.J.No. L345, 31.12.2003 p.97-105
 "nearshore area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 “new establishment” has the meaning that it has in the Major Accidents Directive;
+
+O.J.No. L345, 31.12.2003 p.97-105
 
 "NTA" means the National Transport Authority, being the name to which the name of the Dublin Transport Authority was changed with effect from 1 December 2009 pursuant to section 30 of the Public Transport Regulation Act 2009;
 
@@ -366,6 +366,8 @@ O.J.No. L345, 31.12.2003 p.97-105
 
 “risk” has the meaning assigned to it by the Major Accidents Directive;
 
+OJ L No. 328, 21.12.2018, p. 82 OJ L, 2023/2413, 31.10.2023
+
 “road” has the same meaning as in the Roads Act, 1993;
 
 “seashore” has the same meaning as in the Foreshore Act, 1933;
@@ -382,9 +384,7 @@ O.J.No. L345, 31.12.2003 p.97-105
 
 “small-scale solar energy equipment” means solar energy equipment with a capacity to generate electricity of 11kW or less, including for renewables self-consumers and renewable energy communities;
 
-OJ L No. 328, 21.12.2018, p. 82 OJ L, 2023/2413, 31.10.2023
-
-“small-scalesolar energyequipmentdevelopment”meansdevelopmentthatistheinstallation of small-scale solar energy equipment;
+“small-scale solar energy equipment development” means development that is the installation of small-scale solar energy equipment;
 
 “solar energy equipment” means equipment that converts energy from the sun into thermal or electrical energy, including solar thermal and solar photovoltaic equipment.
 
