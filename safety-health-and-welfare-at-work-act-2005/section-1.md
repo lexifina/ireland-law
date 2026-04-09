@@ -1,5 +1,3 @@
-## PART 1 PRELIMINARY AND GENERAL
-
 Short title and commencement.
 
 1.—(1) This Act may be cited as the Safety, Health and Welfare at Work Act 2005.
