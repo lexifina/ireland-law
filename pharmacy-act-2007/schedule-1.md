@@ -44,7 +44,7 @@ Conditions of office
 
 President and Vice-President
 
-4. (1) The Council shall elect from among its members who are registered pharmacists a President and a Vice-President, to be known as the President and Vice-President respectively of the Pharmaceutical Society of Ireland (in this Schedule referred to as “President” and “Vice-President” respectively).
+4. (1) The Council shall elect from among its members who are registered pharmacists a President and a Vice-President, to be known as the President and Vice- President respectively of the Pharmaceutical Society of Ireland (in this Schedule referred to as “President” and “Vice-President” respectively).
 
 (2) The President and Vice-President shall each hold office for one year.
 
@@ -94,9 +94,7 @@ Committees of the Council
 
 (7) The Council may dissolve a committee established under subparagraph (1).
 
-Membership of either House of the Oireachtas or European Parliament by a
-
-Member of the Council or Staff of the Society
+Membership of either House of the Oireachtas or European Parliament by a Member of the Council or Staff of the Society
 
 8. (1) A member of the Council who is—
 
@@ -180,9 +178,7 @@ Disclosure by employees of certain interests
 
 (3) For the purposes of this paragraph but without prejudice to the generality of subparagraph (2), an employee shall be regarded as having a material interest in a matter if a connected relative or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 of the employee or any of them has such an interest.
 
-(4) Where an employee fails to make a disclosure in accordance with this paragraph, the Council shall decide the appropriate action (which may include termination of his or her contract of employment) to be taken.
-
-Prohibition of unauthorised disclosure of confidential information
+(4) Where an employee fails to make a disclosure in accordance with this paragraph, the Council shall decide the appropriate action (which may include termination of his or her contract of employment) to be taken. Prohibition of unauthorised disclosure of confidential information
 
 11. (1) A person who discloses confidential information obtained as—
 
