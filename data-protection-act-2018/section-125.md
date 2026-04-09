@@ -1,4 +1,4 @@
-Decision of Commission where inquiry conducted in respect of complaint under Chapter 3
+Decision of Commission where inquiry conducted in respect of complaint under
 
 125. (1) Where an inquiry has been conducted in respect of a complaint, the Commission, having considered the information obtained in the inquiry, may—
 
