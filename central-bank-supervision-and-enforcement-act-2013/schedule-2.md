@@ -6,19 +6,15 @@ PART 1
 
 AMENDMENTS OF CENTRAL BANK ACT 1942
 
-Item Provision Amendment affected (1) (2) (3)
-
-(a) In subsection (1) substitute the following for the definition of “designated
+Item Provision Amendment affected (1) (2) (3) (a) In subsection (1) substitute the following for the definition of “desig-
 
 (b) Insert the following subsection:
 
-(a) In paragraph (c) substitute “Parliament,” for “Parliament, or”. Item Provision Amendment affected (1) (2) (3)
+(a) In paragraph (c) substitute “Parliament,” for “Parliament, or”. (b) In paragraph (d) substitute “member,” for “member.” and insert the Item Provision Amendment affected (1) (2) (3) (f) has been adjudged bankrupt (either in the State or elsewhere) or
 
-(b) In paragraph (d) substitute “member,” for “member.” and insert the
+(g) has been convicted of an offence (either in the State or elsewhere)
 
-(f) has been adjudged bankrupt (either in the State or elsewhere) or
-
-(g) has been convicted of an offence (either in the State or elsewhere) 10 Schedule 2, (a) Substitute the following for item 38: Part 1
+10 Schedule 2, (a) Substitute the following for item 38: Part 1
 
 (b) Insert the following:
 
@@ -32,31 +28,25 @@ PART 2
 
 AMENDMENTS OF CENTRAL BANK ACT 1971
 
-Item Provision affected Amendment (1) (2) (3)
-
-1 Section 2(1) (a) In paragraph (d) of the definition of “related body” substitute
+Item Provision affected Amendment (1) (2) (3) 1 Section 2(1) (a) In paragraph (d) of the definition of “related body”
 
 (b) Insert the following definition:
 
-2 Section 7 In subsection (1) delete “on behalf of any other person”.
+2 Section 7 In subsection (1) delete “on behalf of any other person”. 3 Section 10 Insert “or authorisation under section 9A(2)” after “licence” in each
 
-3 Section 10 Insert “or authorisation under section 9A(2)” after “licence” in each
-
-4 Section 12 (a) In subsection (1) insert “and of the holders of authorisations
+4 Section 12 (a) In subsection (1) insert “and of the holders of authorisa-
 
 (b) In subsection (2)—
 
 (i) insert “or authorisation under section 9A” after “licence”,
 
-(ii) insert “European Banking Committee” after “European
-
-(c) In subsection (3)—
+(ii) insert “European Banking Committee” after “European Item Provision affected Amendment (1) (2) (3) (c) In subsection (3)—
 
 (i) insert “and of the holders of authorisations under section
 
 (ii) insert the following after paragraph (d):
 
-5 Section 17 (a) Insert “or authorisation under section 9A” after “licence” in
+5 Section 17 (a) Insert “or authorisation under section 9A” after “licence”
 
 (b) In subsection (1) insert “or holders of authorisations under
 
@@ -68,47 +58,39 @@ Item Provision affected Amendment (1) (2) (3)
 
 (ii) insert “or authorisation” after “the licence”.
 
-(b) In subsection (2) insert “or authorisations under section 9A” after
+(b) In subsection (2) insert “or authorisations under section 9A”
 
 8 Section 20 Insert “or authorisation under section 9A” after “licence” in each
 
 9 Section 21 Insert “or authorisation under section 9A” after “licence” in each
 
-10 Section 22 Insert “or authorisation under section 9A” after “licence” in each Item Provision affected Amendment (1) (2) (3)
+10 Section 22 Insert “or authorisation under section 9A” after “licence” in each
 
 11 Section 25 Insert “or authorisation under section 9A” after “licence” in each
 
 12 Section 26 (a) In subsections (1), (2), (3) and (6) insert “or authorisation under
 
-(b) In subsection (4) insert “or authorisations under section 9A” after
+(b) In subsection (4) insert “or authorisations under section 9A”
 
 13 Section 27(2) In paragraph (a) insert “or authorisation under section 9A” after
 
-14 Section 28(1) Insert “or authorisation under section 9A” after “licence”.
-
-15 Section 31 Insert “or authorisation under section 9A” after “licence” in each
+14 Section 28(1) Insert “or authorisation under section 9A” after “licence”. 15 Section 31 Insert “or authorisation under section 9A” after “licence” in each
 
 PART 3
 
 AMENDMENT OF CENTRAL BANK ACT 1997
 
-Item Provision affected Amendment (1) (2) (3)
-
-1 Section 32A(5)(b) Substitute “Part 3 of the Central Bank (Supervision and Enforcement)
+Item Provision affected Amendment (1) (2) (3) 1 Section 32A(5)(b) Substitute “Part 3 of the Central Bank (Supervision and Enforce-
 
 PART 4
 
 AMENDMENTS OF CENTRAL BANK REFORM ACT 2010
 
-Item Provision affected Amendment (1) (2) (3)
-
-1 Section 3 Substitute the following for the definition of “authorised officer”:
+Item Provision affected Amendment (1) (2) (3) 1 Section 3 Substitute the following for the definition of “authorised
 
 2 Section 23 (a) Substitute the following for subsection (1):
 
-(b) In subsection (6)(b) substitute “(a) to (h)” for “(a) to (g)”.
-
-3 Section 25(3) Insert the following after paragraph (c): Item Provision affected Amendment (1) (2) (3)
+(b) In subsection (6)(b) substitute “(a) to (h)” for “(a) to (g)”. 3 Section 25(3) Insert the following after paragraph (c):
 
 4 Section 43(2) Insert the following after paragraph (c):
 
@@ -122,23 +104,21 @@ Item Provision affected Amendment (1) (2) (3)
 
 (iii) substitute “, the Head of Financial Regulation or the
 
-6 Section 54 (inserted by Substitute the following section: the Credit Union and Co-operation with Overseas Regulators Act 2012) 54.— (1) In this section ‘Member State authority or third country
+6 Section 54 (inserted by Substitute the following section: the Credit Union and Co-operation with Overseas Regulators Act 2012) 54.— (1) In this section ‘Member State authority or third country Item Provision affected Amendment (1) (2) (3) (2) At the request of a Member State authority or a third country authority to do so in relation to any matter, the Bank may—
 
-(2) At the request of a Member State authority or a third country authority to do so in relation to any matter, the Bank may—
-
-(a) require information on the matter about which the Bank
+(a) require information on the matter about which the
 
 (b) authorise one or more than one authorised officer to
 
 (3) In deciding whether or not to exercise any of its powers under subsection (2), the Bank may take into account in particular:
 
-(a) whether in the country or territory of the Member State Item Provision affected Amendment (1) (2) (3)
+(a) whether in the country or territory of the Member
 
-(b) whether the case concerns the breach of a law, or other
+(b) whether the case concerns the breach of a law, or
 
-(c) the seriousness of the case and its importance to persons
+(c) the seriousness of the case and its importance to
 
-(d) whether it is otherwise appropriate in the public interest
+(d) whether it is otherwise appropriate in the public
 
 (4) The Bank may decide that it will not exercise any of its powers under subsection (2) unless the Member State authority or third country authority undertakes to make such contribution towards the cost of such exercise as the Bank considers appropriate.
 
@@ -154,8 +134,6 @@ PART 5
 
 AMENDMENTS OF CENTRAL BANK AND CREDIT INSTITUTIONS (RESOLUTION) ACT 2011
 
-Item Provision affected Amendment (1) (2) (3)
-
-1 Section 14 Substitute the following for subsection (4):
+Item Provision affected Amendment (1) (2) (3) 1 Section 14 Substitute the following for subsection (4):
 
 2 Section 18(2) Substitute “supervisory directives” for “supervisory enactments”.
