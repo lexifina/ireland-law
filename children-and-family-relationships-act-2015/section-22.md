@@ -20,6 +20,12 @@ Declaration by Circuit Court of parentage of child to whom section 20 applies
 
 (b) the relevant person was, at the time referred to in section 20(1)(c), an intending parent of the child concerned.
 
+(5A) Where section 20(1)(g) applies, an application under this section shall include an affidavit sworn by the donor stating that he or she—
+
+(a) consents to the making of a declaration under this section, and
+
+(b) understands that, under the law of the State, he or she is not a parent of the child and has no parental rights or duties in respect of the child.
+
 (6) Subject to subsection (7), where on an application under this section it is proved on the balance of probabilities that—
 
 (a) the child concerned is a child to whom section 20 applies, and

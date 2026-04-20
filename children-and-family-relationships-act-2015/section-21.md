@@ -18,6 +18,12 @@ Declaration by District Court of parentage of child to whom section 20 applies
 
 (c) he or she consents to the making of a declaration under this section.
 
+(4A) Where section 20(1)(g) applies, an application under this section shall include an affidavit sworn by the donor stating that he or she—
+
+(a) consents to the making of a declaration under this section, and
+
+(b) understands that, under the law of the State, he or she is not a parent of the child and has no parental rights or duties in respect of the child.
+
 (5) On an application under this section the Court may, at any stage of the proceedings, of its own motion or on the application of any party to the proceedings, direct that all necessary papers in the matter be sent to the Attorney General.
 
 (6) Where on an application under this section the Attorney General requests to be made a party to the proceedings, the Court shall order that he or she shall be added as a party, and, whether or not he or she so requests, the Attorney General may argue before the Court any question in relation to the application which the Court considers necessary to have fully argued and take such other steps in relation thereto as he or she thinks necessary or expedient.
