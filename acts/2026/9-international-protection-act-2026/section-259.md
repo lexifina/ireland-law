@@ -1,0 +1,3 @@
+Establishment of Office of Chief Inspector.
+
+259. There shall stand established, on the establishment day, a body to be known in the Irish language as Oifig an Phríomh-Chigire Nósanna Imeachta Teorann um Thearmann or (notwithstanding section 9D(1) of the Official Languages Act 2003), in the English language as Office of the Chief Inspector of Asylum Border Procedures and the holder of the office shall be known as the Chief Inspector of Asylum Border Procedures (in this Act referred to as the “Chief Inspector”) and shall perform the functions conferred by or under this Act, any other enactments and the EU acts.

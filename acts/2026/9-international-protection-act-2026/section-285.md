@@ -1,0 +1,7 @@
+Application of Act to certain applications.
+
+285. (1) Where an application is made by or on behalf of a person under section 15 of the Act of 2015, the person shall not make an application for international protection, and such an application shall not be made or be deemed to have been made on behalf of the person, under Chapter 1 of Part 3 unless the person has ceased to be an applicant within the meaning of the Act of 2015.
+
+(2) Where an application is made by or on behalf of a person under section 15 of the Act of 2015 and the person has not ceased to be an applicant within the meaning of the Act of 2015 and, notwithstanding subsection (1), an application is purported to be made by or on behalf of the person under Chapter 1 of Part 3, the elements presented as part of that purported application shall be considered to be elements of the application of the person that is in being under section 15 of the Act of 2015.
+
+(3) A person who gave an indication under paragraph (a), (b) or (c) of section 13(1) of the Act of 2015 before the date on which this subsection comes into operation but did not, before that date, make an application under section 15 of the Act of 2015, shall be considered to have made an application for international protection under section 36 on that date, if immediately before that date the person was a resident of accommodation allocated under the European Communities (Reception Conditions) Regulations 2018.

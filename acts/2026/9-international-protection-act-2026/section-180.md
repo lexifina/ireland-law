@@ -1,0 +1,3 @@
+Application of special procedures to applicants in need of special procedural guarantees.
+
+180. Where the Determining Authority, including on the basis of the assessment of another relevant national authority, considers that the necessary support referred to in Article 21(1) of the Asylum Procedures Regulation cannot be provided within the framework of the accelerated examination procedure referred to in section 173 or the asylum border procedure referred to in section 175, paying particular attention to victims of torture, rape or other serious forms of psychological, physical, sexual violence or gender-based violence, the Determining Authority shall not apply or shall cease to apply those procedures to the applicant.
