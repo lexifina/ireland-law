@@ -1,6 +1,6 @@
 ## Chapter 2 APPLICATIONS TO COURT IN RESPECT OF PERSONS PROVIDING GAMBLING ACTIVITY IN CONTRAVENTION OF
 
-## CHAPTER 1
+## CHAPTER 1 Application to Court to direct relevant person to cease prohibited gambling activity and related matters
 
 Application to Court to direct relevant person to cease prohibited gambling activity and related matters
 
