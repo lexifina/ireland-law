@@ -104,9 +104,7 @@ ARTICLE 12.
 
 (a) The provisions of Articles 9, 10 and 11 are not applicable in relation to the authorities of a State of which the person is a national or of which he is or has been a representative.
 
-(b) In Articles 9, 10, 11 and 12 (a) above, the expression “representatives” shall be deemed to include all representatives, alternate representatives, advisers, technical experts and secretaries of delegations.
-
-PART V.
+(b) In Articles 9, 10, 11 and 12 (a) above, the expression “representatives” shall be deemed to include all representatives, alternate representatives, advisers, technical experts and secretaries of delegations. PART V.
 
 REPRESENTATIVES TO THE CONSULTATIVE ASSEMBLY.
 
@@ -130,7 +128,9 @@ During the sessions of the Consultative Assembly, the Representatives to the Ass
 
 (a) on their national territory, the immunities accorded in those countries to Members of Parliament;
 
-(b) on the territory of all other Member States, exemption from arrest and prosecution. This immunity also applies when they are travelling to and from the place of meeting of the Consultative Assembly. It does not, however, apply when Representatives and their substitutes are found committing, attempting to commit, or just having committed an offence, nor in cases where the Assembly has waived the immunity.
+(b) on the territory of all other Member States, exemption from arrest and prosecution.
+
+This immunity also applies when they are travelling to and from the place of meeting of the Consultative Assembly. It does not, however, apply when Representatives and their substitutes are found committing, attempting to commit, or just having committed an offence, nor in cases where the Assembly has waived the immunity.
 
 PART VI.
 
@@ -162,7 +162,9 @@ Officials of the Council of Europe shall:
 
 ARTICLE 19.
 
-Privileges and immunities are granted to officials in the interests of the Council of Europe and not for the personal benefit of the individuals themselves. The Secretary- General shall have the right and the duty to waive the immunity of any official in any case where, in his opinion, the immunity would impede the course of justice and can be waived without prejudice to the interests of the Council of Europe. In the case of the Secretary-General and of the Deputy Secretary-General, the Committee of Ministers shall have the right to waive immunity. PART VII.
+Privileges and immunities are granted to officials in the interests of the Council of Europe and not for the personal benefit of the individuals themselves. The Secretary-General shall have the right and the duty to waive the immunity of any official in any case where, in his opinion, the immunity would impede the course of justice and can be waived without prejudice to the interests of the Council of Europe. In the case of the Secretary-General and of the Deputy Secretary-General, the Committee of Ministers shall have the right to waive immunity.
+
+PART VII.
 
 SUPPLEMENTARY AGREEMENTS.
 
@@ -180,9 +182,7 @@ Any dispute between the Council and private persons regarding supplies furnished
 
 PART IX.
 
-FINAL PROVISIONS.
-
-ARTICLE 22.
+FINAL PROVISIONS. ARTICLE 22.
 
 The present Agreement shall be ratified. Instruments of ratification shall be deposited with the Secretary-General. The Agreement shall come into force as soon as seven signatories have deposited their instruments of ratification.
 
@@ -228,7 +228,7 @@ The provisions of Article 4 are not applicable in relation to the authorities of
 
 ARTICLE 7.
 
-(a) This Protocol shall be open to signature by all Members which have signed the Agreement. The Protocol shall be ratified at the same time as or after the ratification of the Agreement. Instruments of ratification shall be deposited with the Secretary- General of the Council of Europe.
+(a) This Protocol shall be open to signature by all Members which have signed the Agreement. The Protocol shall be ratified at the same time as or after the ratification of the Agreement. Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
 (b) This Protocol shall enter into force on the day when it shall have been ratified by all the signatories who at that date have ratified the Agreement, on condition that the number of signatories who have ratified the Agreement and the Protocol shall not be fewer than seven.
 
@@ -300,7 +300,9 @@ ARTICLE 6.
 
 ARTICLE 7.
 
-The Secretary-General of the Council of Europe shall notify Members of the Council of the date of entry into force of this Protocol and shall give the names of any Members who have signed it without reservation in respect of ratification or who have ratified it. In witness whereof the undersigned, being duly authorised to that effect, have signed the present Protocol.
+The Secretary-General of the Council of Europe shall notify Members of the Council of the date of entry into force of this Protocol and shall give the names of any Members who have signed it without reservation in respect of ratification or who have ratified it.
+
+In witness whereof the undersigned, being duly authorised to that effect, have signed the present Protocol.
 
 Done at Paris, this 15th day of December, 1956, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary-General shall send certified copies to each of the signatory Governments.
 
@@ -330,7 +332,9 @@ The Council of Europe Resettlement Fund shall possess juridical personality and,
 
 The operations, acts and contracts of the Resettlement Fund shall be governed by this Protocol, by the Articles of Agreement of the Fund and by regulations issued in pursuance of the said Articles of Agreement. In addition, a national law may be applied in a particular case, provided that the Fund expressly agrees thereto and that such law does not derogate from this Protocol nor from the said Articles of Agreement.
 
-PART II—Courts, property, assets, operations Article 2
+PART II—Courts, property, assets, operations
+
+Article 2
 
 Any competent court of a Member of the Fund or of a State in whose territory the Fund has contracted or guaranteed a loan may hear suits in which the Fund is a defendant.
 
@@ -342,9 +346,7 @@ The property and assets of the fund, wheresoever located and by whomsoever held,
 
 Enforcement of awards by execution, where such awards result from arbitration in accordance with the third paragraph of Article 2 shall, in the territory of Members of the Fund, take place through the legal channels prescribed in each such Member State and after endorsement with the executory formula customary in the State in whose territory the award is to be executed; for the purpose of such endorsement, no check shall be required other than verification that the award is authentic, that it conforms to the rules concerning competence and procedure set forth in the Loan Regulations of the Fund and that it does not conflict with a final judgement passed in the country concerned. Each signatory shall, on deposit of its instrument of ratification, notify the other signatories through the Secretary General of the Council of Europe what authority is competent under its laws to discharge this formality.
 
-Article 4
-
-The property and assets of the Fund, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of distraint by executive or legislative action.
+Article 4 The property and assets of the Fund, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of distraint by executive or legislative action.
 
 The buildings and premises used for the operations of the Fund, and also its archives, shall be inviolable.
 
@@ -354,7 +356,9 @@ To the extent necessary to the achievement of its statutory purposes the Fund ma
 
 In exercising its rights under this Article, the Fund shall pay due regard to any representations made to it by the Government of any Member.
 
-Article 6 The property and assets of the Fund shall be free from restrictions, regulations, controls and moratoria of any nature.
+Article 6
+
+The property and assets of the Fund shall be free from restrictions, regulations, controls and moratoria of any nature.
 
 Article 7
 
@@ -400,9 +404,7 @@ The communications specified in Article 17 of the General Agreement on Privilege
 
 The Secretary General, after consulting the Governor, shall have the right and the duty to waive the immunity of any official in any case where he considers that immunity would impede the course of justice and can be waived without prejudice to the satisfactory operation of the Fund. In the case of the Governor, the governing Body of the Fund shall have the right to waive immunity.
 
-PART V—Application of the Agreement
-
-Article 14
+PART V—Application of the Agreement Article 14
 
 The Governments of Member States of the Fund undertake to seek such constitutional authority as may be necessary to fulfil the statutory obligations assumed by those States vis-à-vis the Resettlement Fund. They undertake likewise to seek such authority in good time in order to be able to fulfil any undertakings into which they may have entered as borrower or guarantor, in accordance with Article VI, Section 3, of the Articles of Agreement of the Resettlement Fund.
 
@@ -484,7 +486,7 @@ ARTICLE 8.
 
 1. Any State may, at the time of its signature without reservation in respect of ratification, of its ratification or at any time thereafter, declare, by notification addressed to the Secretary-General of the Council of Europe, that the present Protocol shall extend to all or any of the territories for whose international relations it is responsible and where, according to Article 63 of the Convention for the protection of Human Rights and Fundamental Freedoms, the said Convention applies.
 
-2. The Protocol shall extend to the territory or territories named in the notification as from the thirtieth day after the receipt of this notification by the Secretary-General of the Council of Europe.
+2. The Protocol shall extend to the territory or territories named in the notification as from the thirtieth day after the receipt of this notification by the Secretary- General of the Council of Europe.
 
 ARTICLE 9.
 

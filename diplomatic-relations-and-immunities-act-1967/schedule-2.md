@@ -14,9 +14,7 @@ Believing that an international convention on consular relations, privileges and
 
 Realising that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of functions by consular posts on behalf of their respective States,
 
-Affirming that the rules of customary international law continue to govern matters not expressly regulated by the provisions of the present Convention,
-
-Have agreed as follows:
+Affirming that the rules of customary international law continue to govern matters not expressly regulated by the provisions of the present Convention, Have agreed as follows:
 
 ARTICLE 1.
 
@@ -438,7 +436,9 @@ If the relevant information is available to the competent authorities of the rec
 
 ARTICLE 38.
 
-Communication with the authorities of the receiving State. In the exercise of their functions, consular officers may address:
+Communication with the authorities of the receiving State.
+
+In the exercise of their functions, consular officers may address:
 
 (a) the competent local authorities of their consular district;
 
@@ -666,7 +666,9 @@ General provisions relating to facilities, privileges and immunities.
 
 ARTICLE 59.
 
-Protection of the consular premises. The receiving State shall take such steps as may be necessary to protect the consular premises of a consular post headed by an honorary consular officer against any intrusion or damage and to prevent any disturbance of the peace of the consular post or impairment of its dignity.
+Protection of the consular premises.
+
+The receiving State shall take such steps as may be necessary to protect the consular premises of a consular post headed by an honorary consular officer against any intrusion or damage and to prevent any disturbance of the peace of the consular post or impairment of its dignity.
 
 ARTICLE 60.
 
@@ -690,9 +692,7 @@ The receiving State shall, in accordance with such laws and regulations as it ma
 
 ARTICLE 63.
 
-Criminal proceedings.
-
-If criminal proceedings are instituted against an honorary consular officer, he must appear before the competent authorities. Nevertheless, the proceedings shall be conducted with the respect due to him by reason of his official position and, except when he is under arrest or detention, in a manner which will hamper the exercise of consular functions as little as possible. When it has become necessary to detain an honorary consular officer, the proceedings against him shall be instituted with the minimum of delay.
+Criminal proceedings. If criminal proceedings are instituted against an honorary consular officer, he must appear before the competent authorities. Nevertheless, the proceedings shall be conducted with the respect due to him by reason of his official position and, except when he is under arrest or detention, in a manner which will hamper the exercise of consular functions as little as possible. When it has become necessary to detain an honorary consular officer, the proceedings against him shall be instituted with the minimum of delay.
 
 ARTICLE 64.
 
@@ -820,7 +820,7 @@ ARTICLE 79.
 
 Authentic texts.
 
-The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 74.
+The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 74.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their respective Governments, have signed the present Convention.
 

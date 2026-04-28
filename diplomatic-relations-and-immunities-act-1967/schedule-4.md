@@ -168,7 +168,9 @@ ARTICLE VIII.
 
 Laissez-passer.
 
-Officials of the specialised agencies shall be entitled to use the United Nations laissez-passer in conformity with administrative arrangements to be concluded between the Secretary-General of the United Nations and the competent authorities of the specialised agencies, to which agencies special powers to issue laissez-passer may be delegated. The Secretary-General of the United Nations shall notify each State party to this Convention of each administrative arrangement so concluded. States parties to this Convention shall recognise and accept the United Nations laissez-passer issued to officials of the specialised agencies as valid travel documents.
+Officials of the specialised agencies shall be entitled to use the United Nations laissez-passer in conformity with administrative arrangements to be concluded between the Secretary-General of the United Nations and the competent authorities of the specialised agencies, to which agencies special powers to issue laissez-passer may be delegated. The Secretary-General of the United Nations shall notify each State party to this Convention of each administrative arrangement so concluded.
+
+States parties to this Convention shall recognise and accept the United Nations laissez-passer issued to officials of the specialised agencies as valid travel documents.
 
 Applications for visas, where required, from officials of specialised agencies holding United Nations laissez-passer, when accompanied by a certificate that they are travelling on the business of a specialised agency, shall be dealt with as speedily as possible. In addition, such persons shall be granted facilities for speedy travel.
 
@@ -196,7 +198,9 @@ In their application to each specialised agency, the standard clauses shall oper
 
 The provisions of the Convention in relation to any specialised agency must be interpreted in the light of the functions with which that agency is entrusted by its constitutional instrument.
 
-Draft annexes I to IX are recommended to the specialised agencies named therein. In the case of any specialised agency not mentioned by name in section 1, the Secretary-General of the United Nations shall transmit to the agency a draft annex recommended by the Economic and Social Council. The final text of each annex shall be that approved by the specialised agency in question in accordance with its constitutional procedure. A copy of the annex as approved by each specialised agency shall be transmitted by the agency in question to the Secretary-General of the United Nations and shall thereupon replace the draft referred to in section 35.
+Draft annexes I to IX are recommended to the specialised agencies named therein. In the case of any specialised agency not mentioned by name in section 1, the Secretary-General of the United Nations shall transmit to the agency a draft annex recommended by the Economic and Social Council.
+
+The final text of each annex shall be that approved by the specialised agency in question in accordance with its constitutional procedure. A copy of the annex as approved by each specialised agency shall be transmitted by the agency in question to the Secretary-General of the United Nations and shall thereupon replace the draft referred to in section 35.
 
 The present Convention becomes applicable to each specialised agency when it has transmitted to the Secretary-General of the United Nations the final text of the relevant annex and has informed him that it accepts the standard clauses, as modified by this annex, and undertakes to give effect to sections 8, 18, 22, 23, 24, 31, 32, 42 and 45 (subject to any modification of section 32 which may be found necessary in order to make the final text of the annex consonant with the constitutional instrument of the agency) and any provisions of the annex placing obligations on the agency. The Secretary-General shall communicate to all Members of the United Nations and to other States members of the specialised agencies certified copies of all annexes transmitted to him under this section and of revised annexes transmitted under section 38.
 
@@ -214,7 +218,9 @@ Final provisions.
 
 Accession to this Convention by a Member of the United Nations and (subject to section 42) by any State member of a specialised agency shall be effected by deposit with the Secretary-General of the United Nations of an instrument of accession which shall take effect on the date of its deposit.
 
-Each specialised agency concerned shall communicate the text of this Convention together with the relevant annexes to those of its members which are not Members of the United Nations and shall invite them to accede thereto in respect of that agency by depositing an instrument of accession to this Convention in respect thereof either with the Secretary-General of the United Nations or with the executive head of the specialised agency. Each State party to this Convention shall indicate in its instrument of accession the specialised agency or agencies in respect of which it undertakes to apply the provisions of this Convention. Each State party to this Convention may by a subsequent written notification to the Secretary-General of the United Nations undertake to apply the provisions of this Convention to one or more further specialised agencies. The notification shall take effect on the date of its receipt by the Secretary-General.
+Each specialised agency concerned shall communicate the text of this Convention together with the relevant annexes to those of its members which are not Members of the United Nations and shall invite them to accede thereto in respect of that agency by depositing an instrument of accession to this Convention in respect thereof either with the Secretary-General of the United Nations or with the executive head of the specialised agency.
+
+Each State party to this Convention shall indicate in its instrument of accession the specialised agency or agencies in respect of which it undertakes to apply the provisions of this Convention. Each State party to this Convention may by a subsequent written notification to the Secretary-General of the United Nations undertake to apply the provisions of this Convention to one or more further specialised agencies. The notification shall take effect on the date of its receipt by the Secretary-General.
 
 This Convention shall enter into force for each State party to this Convention in respect of a specialised agency when it has become applicable to that agency in accordance with section 37 and the State party has undertaken to apply the provisions of the Convention to that agency in accordance with section 43.
 
@@ -224,13 +230,11 @@ It is understood that, when an instrument of accession or a subsequent notificat
 
 1. Subject to the provisions of paragraphs 2 and 3 of this section, each State party to this Convention undertakes to apply this Convention in respect of each specialised agency covered by its accession or subsequent notification until such time as a revised convention or annex shall have become applicable to that agency and the said State shall have accepted the revised convention or annex. In the case of a revised annex, the acceptance of States shall be by a notification addressed to the Secretary-General of the United Nations, which shall take effect on the date of its receipt by the Secretary-General.
 
-2. Each State party to this Convention, however, which is not, or has ceased to be, a member of a specialised agency, may address a written notification to the Secretary- General of the United Nations and the executive head of the agency concerned to the effect that it intends to withhold from that agency the benefits of this Convention as from a specified date, which shall not be earlier than three months from the date of receipt of the notification.
+2. Each State party to this Convention, however, which is not, or has ceased to be, a member of a specialised agency, may address a written notification to the Secretary-General of the United Nations and the executive head of the agency concerned to the effect that it intends to withhold from that agency the benefits of this Convention as from a specified date, which shall not be earlier than three months from the date of receipt of the notification.
 
 3. Each State party to this Convention may withhold the benefit of this Convention from any specialised agency which ceases to be in relationship with the United Nations.
 
-4. The Secretary-General of the United Nations shall inform all member States parties to this Convention of any notification transmitted to him under the provisions of this section.
-
-At the request of one-third of the States parties to this Convention, the Secretary- General of the United Nations will convene a conference with a view to its revision.
+4. The Secretary-General of the United Nations shall inform all member States parties to this Convention of any notification transmitted to him under the provisions of this section. At the request of one-third of the States parties to this Convention, the Secretary- General of the United Nations will convene a conference with a view to its revision.
 
 The Secretary-General of the United Nations shall transmit copies of this Convention to each specialised agency and to the Government of each Member of the United Nations.
 
@@ -388,9 +392,9 @@ INTERNATIONAL TELECOMMUNICATION UNION.
 
 The standard clauses shall apply without modification except that the International Telecommunication Union shall not claim for itself the enjoyment of privileged treatment with regard to the “Facilities in respect of communications” provided in Article IV, Section 11.
 
-ANNEX X. Annex X referred to the International Refugee Organisation, which was dissolved by Resolution No. 108 passed by its General Council on 15th February, 1952.
+ANNEX X.
 
-ANNEX XI.
+Annex X referred to the International Refugee Organisation, which was dissolved by Resolution No. 108 passed by its General Council on 15th February, 1952. ANNEX XI.
 
 WORLD METEOROLOGICAL ORGANISATION.
 
@@ -400,7 +404,7 @@ ANNEX XII.
 
 INTER-GOVERNMENTAL MARITIME CONSULTATIVE ORGANISATION.
 
-1. The privileges and immunities, exemptions and facilities referred to in Article VI, Section 21 of the standard clauses shall be accorded to the Secretary-General of the Organisation, to the Deputy Secretary-General and to the Secretary of the Maritime Safety Committee, provided that the provisions of this paragraph shall not require the Member in whose territory the Organisation has its Headquarters to apply Article VI, Section 21 of the standard clauses to any person who is its national.
+1. The privileges and immunities, exemptions and facilities referred to in Article VI, Section 21 of the standard clauses shall be accorded to the Secretary- General of the Organisation, to the Deputy Secretary-General and to the Secretary of the Maritime Safety Committee, provided that the provisions of this paragraph shall not require the Member in whose territory the Organisation has its Headquarters to apply Article VI, Section 21 of the standard clauses to any person who is its national.
 
 2. (a) Experts (other than officials coming within the scope of Article VI) serving on committees of, or performing missions for, the Organisation shall be accorded the following privileges and immunities so far as is necessary for the effective exercise of their functions, including time spent on journeys in connection with service on such committees or missions:
 
@@ -412,7 +416,7 @@ INTER-GOVERNMENTAL MARITIME CONSULTATIVE ORGANISATION.
 
 (iv) inviolability for all papers and documents relating to the work on which they are engaged for the Organisation;
 
-(v) the right to use codes and to receive documents and correspondence by courier or in sealed dispatch bags for their communications with the Inter- Governmental Maritime Consultative Organisation.
+(v) the right to use codes and to receive documents and correspondence by courier or in sealed dispatch bags for their communications with the Inter-Governmental Maritime Consultative Organisation.
 
 In connection with Section 2 (a) (iv) and (v) above, the principle contained in the last sentence of Section 12 of the standard clauses shall be applicable.
 

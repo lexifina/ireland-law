@@ -74,9 +74,9 @@ Section 11.—Representatives of Members to the principal and subsidiary organs 
 
 (f) the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic envoys; and also
 
-(g) such other privileges, immunities and facilities not inconsistent with the foregoing as diplomatic envoys enjoy, except that they shall have no right to claim exemption from customs duties on goods imported (otherwise than as part of their personal baggage) or from excise duties or sales taxes. Section 12.—In order to secure for the representatives of Members to the principal and subsidiary organs of the United Nations and to conferences convened by the United Nations, complete freedom of speech and independence in the discharge of their duties, the immunity from legal process in respect of words spoken or written and all acts done by them in discharging their duties shall continue to be accorded, notwithstanding that the persons concerned are no longer the representatives of Members.
+(g) such other privileges, immunities and facilities not inconsistent with the foregoing as diplomatic envoys enjoy, except that they shall have no right to claim exemption from customs duties on goods imported (otherwise than as part of their personal baggage) or from excise duties or sales taxes.
 
-Section 13.—Where the incidence of any form of taxation depends upon residence, periods during which the representatives of Members to the principal and subsidiary organs of the United Nations and to conferences convened by the United Nations are present in a State for the discharge of their duties shall not be considered as periods of residence.
+Section 12.—In order to secure for the representatives of Members to the principal and subsidiary organs of the United Nations and to conferences convened by the United Nations, complete freedom of speech and independence in the discharge of their duties, the immunity from legal process in respect of words spoken or written and all acts done by them in discharging their duties shall continue to be accorded, notwithstanding that the persons concerned are no longer the representatives of Members. Section 13.—Where the incidence of any form of taxation depends upon residence, periods during which the representatives of Members to the principal and subsidiary organs of the United Nations and to conferences convened by the United Nations are present in a State for the discharge of their duties shall not be considered as periods of residence.
 
 Section 14.—Privileges and immunities are accorded to the representatives of Members not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the United Nations. Consequently a Member not only has the right but is under a duty to waive the immunity of its representative in any case where in the opinion of the Member the immunity would impede the course of justice, and it can be waived without prejudice to the purpose for which the immunity is accorded.
 
@@ -138,9 +138,7 @@ United Nations Laissez-Passer.
 
 Section 24.—The United Nations may issue United Nations laissez-passer to its officials. These laissez-passer shall be recognised and accepted as valid travel documents, by the authorities of Members, taking into account the provisions of Section 25.
 
-Section 25.—Applications for visas (where required) from the holders of United Nations laissez-passer, when accompanied by a certificate that they are travelling on the business of the United Nations, shall be dealt with as speedily as possible. In addition, such persons shall be granted facilities for speedy travel.
-
-Section 26.—Similar facilities to those specified in Section 25 shall be accorded to experts and other persons who, though not the holders of United Nations laissez-passer, have a certificate that they are travelling on the business of the United Nations.
+Section 25.—Applications for visas (where required) from the holders of United Nations laissez-passer, when accompanied by a certificate that they are travelling on the business of the United Nations, shall be dealt with as speedily as possible. In addition, such persons shall be granted facilities for speedy travel. Section 26.—Similar facilities to those specified in Section 25 shall be accorded to experts and other persons who, though not the holders of United Nations laissez-passer, have a certificate that they are travelling on the business of the United Nations.
 
 Section 27.—The Secretary-General, Assistant Secretaries-General and Directors travelling on United Nations laissez-passer on the business of the United Nations shall be granted the same facilities as are accorded to diplomatic envoys.
 
@@ -162,7 +160,9 @@ FINAL ARTICLE.
 
 Section 31.—This convention is submitted to every Member of the United Nations for accession.
 
-Section 32.—Accession shall be effected by deposit of an instrument with the Secretary-General of the United Nations and the convention shall come into force as regards each Member on the date of deposit of each instrument of accession. Section 33.—The Secretary-General shall inform all Members of the United Nations of the deposit of each accession.
+Section 32.—Accession shall be effected by deposit of an instrument with the Secretary-General of the United Nations and the convention shall come into force as regards each Member on the date of deposit of each instrument of accession.
+
+Section 33.—The Secretary-General shall inform all Members of the United Nations of the deposit of each accession.
 
 Section 34.—It is understood that, when an instrument of accession is deposited on behalf of any Member, the Member will be in a position under its own law to give effect to the terms of this convention.
 
