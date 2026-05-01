@@ -73,3 +73,5 @@ Bank may publish its decisions.
 (22) This section does not apply where Article 54 of Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 applies.
 
 (23) This section does not apply where Article 52 of Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 applies.
+
+(24) This section does not apply where Regulation 132D of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2011 (S.I. No. 352 of 2011) applies.
