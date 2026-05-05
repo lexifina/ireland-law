@@ -12,7 +12,7 @@ Transfer to Minister of certain rights and remedies.
 
 (a) section 81 of the Bankruptcy Act 1988, or
 
-(b) section 285 (as amended by section 10 of the Companies (Amendment) Act 1982 and section 134 of the Companies Act 1990) of the Companies Act 1963, and any amount of that payment which would, but for the limit set by section 6(4)(a) (as may be varied by regulations under section 11(5)), be payable to an employee, shall be treated for all purposes as if it were a payment required to be paid by virtue of an award under section 12(1) of the Act of 1973.
+(b) section 285 (as amended by section 10 of the Companies (Amendment) Act 1982 and section 134 of the Companies Act 1990) of the Companies Act 1963, and any amount of that payment which would, but for the limit set by section 6(4)(a) (as may be varied by regulations under section 11(5)), or by section 6(4)(aa), as the case may be, be payable to an employee, shall be treated for all purposes as if it were a payment required to be paid by virtue of an award under section 12(1) of the Act of 1973.
 
 (3) Where in pursuance of section 7 of this Act the Minister makes any payment into the resources of an occupational pension scheme in respect of any contributions to the scheme, any rights and remedies in respect of those contributions belonging to the persons competent to act in respect of the scheme shall, on the making of the payment, become rights and remedies of the Minister.
 
