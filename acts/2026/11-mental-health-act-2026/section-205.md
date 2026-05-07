@@ -1,0 +1,5 @@
+Relationship between legal representative and person in receipt of legal aid.
+
+205. (1) Save as is otherwise specifically provided for by or under this Act, the relationship between an assigned legal representative and an affected person in receipt of legal aid and the rights and privileges arising out of such relationship, shall be the same as the relationship between, and the rights and privileges arising out of the relationship between, a legal representative and his or her client not being a person in receipt of such legal aid.
+
+(2) Notwithstanding the relationship between, or rights and privileges of, an assigned legal representative and an affected person in receipt of legal aid, an assigned legal representative providing legal representation to an affected person shall, if so requested by a person duly authorised in that behalf by the Commission in accordance with section 206, provide the person so authorised with any information as that person may reasonably require, in such form as that person may specify, relating to the legal representation provided to an affected person.
