@@ -1,3 +1,3 @@
-Valuation in accordance with Revenue guidelines. Repealed
+Valuation in accordance with Revenue guidelines. (Repealed)
 
 15.—...
