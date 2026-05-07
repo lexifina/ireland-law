@@ -22,9 +22,7 @@ Designated liable person.
 
 (7) A liable person aggrieved by the specification of a designated liable person under subsection (5) may appeal that specification to the Appeal Commissioners, in accordance with section 949I of the Act of 1997, within the period of 30 days after the date of the notification issued under subsection (6).
 
-Table 1
-
-Classes of person.
+Table 1 Classes of person.
 
 1. The liable person who is nominated by joint election of all of the other persons who are liable persons in relation to the relevant residential property, being a person whose name, address and personal public service number are notified in writing to the Revenue Commissioners.
 
