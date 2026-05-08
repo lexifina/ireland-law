@@ -28,9 +28,11 @@ Civil proceedings relating to certain licences, etc.
 
 (3) Section 3 shall not apply—
 
-(a) to proceedings, or any part of proceedings, referred to in subsection (1) for which damages, arising from damage to persons or property, are sought, or
+(a) to proceedings, or any part of proceedings, referred to in subsection (1) for which damages, arising from damage to persons or property, are sought,
 
-(b) to proceedings instituted by a statutory body or a Minister of the Government.
+(b) to proceedings instituted by a statutory body or a Minister of the Government, or
+
+(c) to proceedings to which Chapter 2 of Part 9 of the Planning and Development Act 2024 applies.
 
 (4) For the purposes of subsection (1), this section applies to—
 
