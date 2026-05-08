@@ -28,7 +28,7 @@ Membership of Authority and terms of membership
 
 (i) 1 shall be nominated for appointment by the Citizens Information Board,
 
-(ii) 1 shall be nominated for appointment by An tÚdarás um Ard- Oideachas,
+(ii) 1 shall be nominated for appointment by An tÚdarás um Ard-Oideachas,
 
 (iii) 1 shall be nominated for appointment by the Competition and Consumer Protection Commission,
 
