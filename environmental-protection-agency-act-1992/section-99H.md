@@ -1,6 +1,6 @@
-F235[Powers of High Court or Circuit Court in relation to activities in contravention of this Act.
+F259[Powers of High Court or Circuit Court in relation to activities in contravention of this Act.
 
-99H.—(1) Where, on application by any person to the High Court or the Circuit Court, that Court is satisfied that an activity is being carried on in contravention of the requirements of this Act, it may by order—
+99H.—(1) Where, on application by any person to the High Court or the Circuit Court, that Court is satisfied that an activity has been, is being or is likely to be carried on or continued in contravention of the requirements of this Act, it may by order—
 
 (a) require the person in charge of the activity to do, refrain from or cease doing any specified act (including to refrain from or cease making any specified emission),
 
@@ -8,11 +8,11 @@ F235[Powers of High Court or Circuit Court in relation to activities in contrave
 
 (2) An application for an order under this section shall be by motion, and the High Court or the Circuit Court when considering the matter may make such interim or interlocutory order as it considers appropriate.
 
-(3) (a) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the activity concerned is being carried on.
+(3) (a) An application under this section to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the activity concerned has been, is being or is likely to be carried on or continued.
 
 (b) The Circuit Court shall have jurisdiction to hear and determine an application under this section which it is satisfied it is appropriate for it to deal with as a court of local and limited jurisdiction and, for the purpose of the court's satisfying itself of that matter, the matters to which it shall have regard include—
 
-(i) the nature and extent of the environmental pollution, if any, which it is alleged is being caused by the activity concerned, and
+(i) the nature and extent of the environmental pollution, if any, which it is alleged has been, is being or is likely to be caused by the activity concerned, and
 
 (ii) the estimated cost of complying with the order to which the application relates.
 

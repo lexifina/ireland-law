@@ -1,0 +1,3 @@
+F197[Exemption from EIA Directive for civil emergency or defence
+
+88C.— …
