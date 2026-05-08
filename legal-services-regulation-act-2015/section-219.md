@@ -102,7 +102,7 @@ Powers of court
 
 (c) if an award of damages is made in favour of the plaintiff but the plaintiff either has not complied with a requirement of the pre-action protocol or has rejected an offer to settle made in accordance with the pre-action protocol for an amount equal to or greater than that awarded, order that the plaintiff shall be deprived of interest on all or part of the award or that all or part of the award shall carry interest at a lower rate than it otherwise would;
 
-(d) if an award of damages is made against a defendant but the defendant either has not complied with a requirement of the pre-action protocol or has rejected an offer to settle made in accordance with the pre-action protocol for an amount equal to or less than that awarded, order that the defendant pay interest on all or part of the award at a rate higher by no more than 10 percentage points than the rate for the time being standing specified under section 26 of the Debtors (Ireland) Act 1840.
+(d) if an award of damages is made against a defendant but the defendant either has not complied with a requirement of the pre- action protocol or has rejected an offer to settle made in accordance with the pre-action protocol for an amount equal to or less than that awarded, order that the defendant pay interest on all or part of the award at a rate higher by no more than 10 percentage points than the rate for the time being standing specified under section 26 of the Debtors (Ireland) Act 1840.
 
 Apology not to constitute admission of liability or invalidate insurance
 

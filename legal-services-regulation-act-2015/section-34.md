@@ -36,7 +36,7 @@ Reports on specified matters to Minister
 
 (vi) the need for, and, if such need is identified, the manner of and requirements relating to the accreditation of bodies or institutions to—
 
-(I) provide, or procure the provision of, courses of legal professional education and training,
+(I) provide, or procure the provision of, courses of legal professional education and training ,
 
 (II) hold or procure the holding of examinations, and
 
