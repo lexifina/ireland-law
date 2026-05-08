@@ -1,4 +1,4 @@
-F11[Operation of CCTV for certain purposes
+F14[Operation of CCTV for certain purposes
 
 23A. — (1) An authorised person may submit a proposal in accordance with subsection (4) for the installation and operation of closed circuit television in the functional area of, or any particular area within the functional area of, a local authority (in this section referred to as "a CCTV scheme"), for the purposes of—
 

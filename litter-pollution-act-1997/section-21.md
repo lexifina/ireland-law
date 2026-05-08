@@ -1,4 +1,4 @@
-F9[Power of local authorities to make bye-laws in relation to litter.
+F12[Power of local authorities to make bye-laws in relation to litter.
 
 21. — (1) A local authority may make bye-laws for the purposes of preventing the creation of, and controlling, litter within its functional area.
 
