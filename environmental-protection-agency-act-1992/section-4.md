@@ -1,4 +1,4 @@
-Environmental
+Environmental protection, environmental pollution and environmental medium and environmental quality standard.
 
 4.—(1) In this Act "environmental protection" includes—
 

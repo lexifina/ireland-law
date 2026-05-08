@@ -218,7 +218,7 @@ Processing of applications for licences or reviews of licences.
 
 (i) the environmental impact assessment report submitted under section 83(2A)(d),
 
-(ii) any additional information furnished under section 83(2A)(e) and (f)(ii)(II),
+(ii) any additional information furnished under section 83(2A)(e) and (f )(ii)(II),
 
 (iii) any submissions made in relation to the likely significant effects on the environment of the activity to which the application relates, and
 
