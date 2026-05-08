@@ -1,4 +1,4 @@
-F147[Processing of applications for licences or reviews of licences.
+F159[Processing of applications for licences or reviews of licences.
 
 87.—(1) Without prejudice to the requirements of any regulations under section 85 or 89—
 
@@ -218,7 +218,7 @@ F147[Processing of applications for licences or reviews of licences.
 
 (i) the environmental impact assessment report submitted under section 83(2A)(d),
 
-(ii) any additional information furnished under section 83(2A)(e) and (f)(ii)(II),
+(ii) any additional information furnished under section 83(2A)(e) and (f )(ii)(II),
 
 (iii) any submissions made in relation to the likely significant effects on the environment of the activity to which the application relates, and
 

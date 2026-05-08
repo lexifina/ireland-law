@@ -12,13 +12,13 @@ Licences.
 
 (b) Paragraph (a) is without prejudice to paragraph (c).
 
-(c) The carrying on of an activity to which paragraph (a) relates shall, in the period before a licence in relation to the activity is granted or refused, be deemed
-
-OJ No. L 13, 17.01.2014, p1; OJ No. L 125, 21.05.2009, p75; not to have contravened the provisions of this Part provided that, within the period of 6 months referred to in paragraph (a), an application has been made for a licence in respect of that activity and the requirements of regulations made under section 89 in relation to the application for the licence have been complied with by the applicant therefor.
+(c) The carrying on of an activity to which paragraph (a) relates shall, in the period before a licence in relation to the activity is granted or refused, be deemed not to have contravened the provisions of this Part provided that, within the period of 6 months referred to in paragraph (a), an application has been made for a licence in respect of that activity and the requirements of regulations made under section 89 in relation to the application for the licence have been complied with by the applicant therefor.
 
 (4) (a) The Minister may, by order, provide that an established activity of any class specified in the order shall not be carried on, on or after such date as may be specified in the order, unless a licence or revised licence under this Part is in force in relation to the activity.
 
 (b) Paragraph (a) is in addition to the circumstances specified in section 98 in which a licence is required under that section in respect of an established activity.
+
+OJ No. L 13, 17.01.2014, p1; OJ No. L 125, 21.05.2009, p75;
 
 (5) In the period (following the specification of a date by an order under subsection (4)) before a licence in relation to the established activity concerned is granted or refused, the requirements of any other legislation relevant to the activity shall continue to apply.
 

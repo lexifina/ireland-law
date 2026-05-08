@@ -74,7 +74,7 @@ Director General.
 
 (b) The Director General shall vacate Public Service Superannuation (Miscellaneous Provisions) Act 2004 for the purposes of that Act, that age but, where the person is a new entrant (within the meaning of that Act) appointed on or after 1 April 2004, the requirement to vacate office on grounds of age shall not apply.
 
-(15) (a) The Director General shall be paid, out of moneys at the disposal of the Agency, such remuneration as the Minister,with the consent of the Minister for Finance, may determine.
+(15) (a) The Director General shall be paid, out of moneys at the disposal of the Agency, such remuneration as the Minister, with the consent of the Minister for Finance, may determine.
 
 (b) Subject to the provisions of this section, the Director General shall hold office on such terms and conditions (including terms relating to allowances for expenses) as the Minister, with the consent of the Minister for Finance, may determine.
 
