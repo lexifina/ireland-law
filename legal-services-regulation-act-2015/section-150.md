@@ -4,9 +4,11 @@ Legal practitioner to provide notice of conduct of matter, costs, etc.
 
 (2) On receiving instructions from a client, a legal practitioner shall provide the client with a notice which shall—
 
-(a) disclose the legal costs that will be incurred in relation to the matter concerned, or
+(a) disclose the legal costs that will be incurred in relation to the matter concerned,
 
-(b) if it is not reasonably practicable for the notice to disclose the legal costs at that time, set out the basis on which the legal costs are to be calculated.
+(b) if it is not reasonably practicable for the notice to disclose the legal costs at that time, set out the basis on which the legal costs are to be calculated, or
+
+(c) where the instructions relate to proceedings to which Chapter 2 of Part 9 of the Planning and Development Act 2024 applies, indicate whether or not the legal practitioner is willing to charge fees to the client, in respect of any item of legal work carried out in relation to the matter, only in accordance with the monetary amount standing prescribed under section 294 of the Planning and Development Act 2024 in respect of the item.
 
 (3) Where subsection (2)(b) applies, the legal practitioner concerned shall, as soon as may be after it becomes practicable to do so, provide to the client a notice containing the information specified in subsection (2)(a).
 
