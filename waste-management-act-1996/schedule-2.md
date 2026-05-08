@@ -10,9 +10,7 @@ Table 1: Hazard Class and Category Code(s) and Hazard statement Code(s) for wast
 
 HP 2 "Oxidising": waste which may, generally by providing oxygen, cause or contribute to the combustion of other materials.
 
-When a waste contains one or more substances classified by one of the hazard class and category codes and hazard statement codes shown in Table 2, the waste shall be assessed for HP 2, where appropriate and proportionate, according to test methods. If the presence of a substance indicates that the waste is oxidising, it shall be classified as hazardous by HP 2.
-
-Table 2: Hazard Class and Category Code(s) and Hazard statement Code(s) for the classification of wastes as hazardous by HP 2:
+When a waste contains one or more substances classified by one of the hazard class and category codes and hazard statement codes shown in Table 2, the waste shall be assessed for HP 2, where appropriate and proportionate, according to test methods. If the presence of a substance indicates that the waste is oxidising, it shall be classified as hazardous by HP 2. Table 2: Hazard Class and Category Code(s) and Hazard statement Code(s) for the classification of wastes as hazardous by HP 2:
 
 HP 3 "Flammable":
 
@@ -68,9 +66,9 @@ Table 5: Hazard Class and Category Code(s) and Hazard statement Code(s) for wast
 
 HP 7 "Carcinogenic": waste which induces cancer or increases its incidence.
 
-1The kinematic viscosity shall only be determined for fluids.
+When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the
 
-When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 6, the waste shall be classified as hazardous by HP 7. When more than one substance classified as carcinogenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 7.
+1The kinematic viscosity shall only be determined for fluids. following concentration limits shown in Table 6, the waste shall be classified as hazardous by HP 7. When more than one substance classified as carcinogenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 7.
 
 Table 6: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 7
 
@@ -90,7 +88,9 @@ When a waste contains a substance classified by one of the following hazard clas
 
 Table 7: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 10
 
-HP 11 "Mutagenic": waste which may cause a mutation, that is a permanent change in the amount or structure of the genetic material in a cell. When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 8, the waste shall be classified as hazardous according to HP 11. When more than one substance classified as mutagenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 11.
+HP 11 "Mutagenic": waste which may cause a mutation, that is a permanent change in the amount or structure of the genetic material in a cell.
+
+When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 8, the waste shall be classified as hazardous according to HP 11. When more than one substance classified as mutagenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 11.
 
 Table 8: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 11
 

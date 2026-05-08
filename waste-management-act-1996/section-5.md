@@ -174,7 +174,9 @@ Interpretation generally.
 
 (a) mixed waste and separately collected waste from households, including paper and cardboard, glass, metals, plastics, bio-waste, wood, textiles, packaging, waste electrical and electronic equipment, waste batteries and accumulators, and bulky waste, including mattresses and furniture;
 
-(b) mixed waste and separately collected waste from other sources, where such waste is similar in nature and composition to waste from households; Municipal waste does not include waste from production, agriculture, forestry, fishing, septic tanks and sewage network and treatment, including sewage sludge, end-of-life vehicles or construction and demolition waste. This definition is without prejudice to the allocation of responsibilities for waste management between public and private actors;
+(b) mixed waste and separately collected waste from other sources, where such waste is similar in nature and composition to waste from households;
+
+Municipal waste does not include waste from production, agriculture, forestry, fishing, septic tanks and sewage network and treatment, including sewage sludge, end-of-life vehicles or construction and demolition waste. This definition is without prejudice to the allocation of responsibilities for waste management between public and private actors;
 
 “occupier” includes, in relation to any premises, the owner, a lessee, any person entitled to occupy the premises and any other person having, for the time being, control of the premises;
 

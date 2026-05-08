@@ -1,6 +1,8 @@
 Community acts given effect to by this Act.
 
-2.—The purposes for which the provisions of this Act are enacted include the purpose of giving effect to the Community acts specified in the Table to this section. TABLE
+2.—The purposes for which the provisions of this Act are enacted include the purpose of giving effect to the Community acts specified in the Table to this section.
+
+TABLE
 
 ...
 
@@ -42,9 +44,7 @@ European Parliament and Council Directive 2000/53/EC of 18 September, 2000 on en
 
 European Parliament and Council Directive 2000/76/EC of 4 December, 2000 on the incineration of waste
 
-European Parliament and Council Directive 2002/95/EC of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment
-
-European Parliament and Council Directive 2002/96/EC of 27 January 2003 on waste electrical and electronic equipment
+European Parliament and Council Directive 2002/95/EC of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment European Parliament and Council Directive 2002/96/EC of 27 January 2003 on waste electrical and electronic equipment
 
 European Parliament and Council Directive 2003/108/EC of 8 December 2003 amending Directive 2002/96/EC on waste electrical and electronic equipment
 
