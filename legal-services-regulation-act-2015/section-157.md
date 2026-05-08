@@ -1,18 +1,26 @@
 Determination of applications
 
-157. (1) A Legal Costs Adjudicator, having considered an application in accordance with section
-
-155, shall, in accordance with this section, make a determination in respect of that application.
+157. (1) A Legal Costs Adjudicator, having considered an application in accordance with section 155, shall, in accordance with this section, make a determination in respect of that application.
 
 (2) A determination shall, as soon as practicable after it is made, be furnished to the parties to the adjudication.
 
 (3) Subject to the other provisions of this section, and the principles relating to legal costs specified in Schedule 1, a Legal Costs Adjudicator shall confirm the charge in respect of an item of legal costs the subject of the application if, having regard to the matters that he or she considered and ascertained under section 155, he or she considers that—
 
-(a) charging in respect of the item is fair and reasonable in the circumstances, and
+(a) charging in respect of the item is fair and reasonable in the circumstances,
 
-(b) the amount charged in the bill of costs in respect of that item is fair and reasonable in the circumstances.
+(b) the amount charged in the bill of costs in respect of that item is fair and reasonable in the circumstances, and
 
-(4) A Legal Costs Adjudicator shall, if he or she determines that it is fair and reasonable to charge an amount in respect of an item but that the amount of the charge in respect of the item is not fair and reasonable, determine a different amount to be charged in respect of that item.
+(c) where the item relates to relevant proceedings, that the amount charged is in accordance with a monetary amount prescribed, under section 294 of the Planning and Development Act 2024, in respect of such item.
+
+(4) Subject to subsection (4A), a Legal Costs Adjudicator shall, if he or she determines that it is fair and reasonable to charge an amount in respect of an item but that the amount of the charge in respect of the item is not fair and reasonable, determine a different amount to be charged in respect of that item.
+
+(4A) A Legal Costs Adjudicator shall not determine a different amount to be charged in respect of an item under subsection (4) where—
+
+(a) the item in question relates to relevant proceedings,
+
+(b) a monetary amount stands prescribed, under section 294 of the Planning and Development Act 2024, in respect of the item, and
+
+(c) the amount charged in respect of the item is in accordance with that monetary amount.
 
 (5) A Legal Costs Adjudicator shall not confirm an amount for a disbursement unless—
 
@@ -45,3 +53,9 @@ Determination of applications
 (d) give reasons for his or her determination.
 
 (10) A copy of any report under subsection (8) shall be furnished to any requesting party to the adjudication as soon as practicable after it has been prepared.
+
+(11) In this section "relevant proceedings" means proceedings—
+
+(a) to which Chapter 2 of Part 9 of the Planning and Development Act 2024 applies, and
+
+(b) in relation to which a court has not made an order under subsection (3) or (4) of section 293 of that Act.

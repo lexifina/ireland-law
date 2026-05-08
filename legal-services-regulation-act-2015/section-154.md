@@ -10,7 +10,9 @@ Application for adjudication of legal costs
 
 (c) any rules of court relating to the preparation and furnishing of bills of costs in a case to which this subsection refers.
 
-(2) Where a person who is the subject of the order to pay costs receives a bill of costs prepared in accordance with subsection (1), that person may, having attempted to agree the bill of costs with the person referred to in subsection (1), apply to the Chief Legal Costs Adjudicator for adjudication on any matter or item claimed in the bill of costs.
+(2) Subject to section 154A, where a person who is the subject of the order to pay costs receives a bill of costs prepared in accordance with subsection (1), that person may, having attempted to agree the bill of costs with the person referred to in subsection
+
+(1), apply to the Chief Legal Costs Adjudicator for adjudication on any matter or item claimed in the bill of costs.
 
 (3) Where a person in whose favour the order to pay costs has been made issues a bill of costs prepared in accordance with subsection (1), that person, having attempted to resolve any dispute regarding the bill of costs with the person who is the subject of the order, may apply to the Chief Legal Costs Adjudicator for the bill of costs or any matter or item in the bill of costs to be adjudicated upon.
 

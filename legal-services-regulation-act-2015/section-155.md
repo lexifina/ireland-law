@@ -4,9 +4,9 @@ Matters to be ascertained in course of adjudication of costs
 
 (2) Where the Chief Legal Costs Adjudicator is adjudicating an application under this Part, a reference to a Legal Costs Adjudicator shall be construed as including the Chief Legal Costs Adjudicator.
 
-(3) In determining an application for the adjudication of legal costs, the Legal Costs Adjudicator shall, to the extent which he or she considers it necessary to do so, consider and have regard to the entire case or matter to which the adjudication relates and the context in which the costs arise.
+(3) Subject to subsection (7), in determining an application for the adjudication of legal costs, the Legal Costs Adjudicator shall, to the extent which he or she considers it necessary to do so, consider and have regard to the entire case or matter to which the adjudication relates and the context in which the costs arise.
 
-(4) In particular, the Legal Costs Adjudicator shall, as respects a matter or item the subject of the application—
+(4) In particular, the Legal Costs Adjudicator shall, subject to subsection (7), as respects a matter or item the subject of the application— ...
 
 (a) verify that the matter or item represents work that was actually done,
 
@@ -25,3 +25,9 @@ Matters to be ascertained in course of adjudication of costs
 (c) the time taken to carry out the work.
 
 (6) In the application of subsection (3) to an adjudication relating to a bill of costs as between a legal practitioner and his or her client, the Legal Costs Adjudicator shall have regard to an agreement (if any) between the legal practitioner and the client in relation to the matter concerned, made under section 151.
+
+(7) In determining an application for the adjudication of legal costs in relation to an order to pay costs in respect of relevant proceedings (within the meaning of section 157), the Legal Costs Adjudicator shall consider the following:
+
+(a) whether a matter or item claimed in the bill of costs is in accordance with a monetary amount standing prescribed, under section 294 of the Planning and Development Act 2024, in relation to that matter or item;
+
+(b) that the matter or item represents work that was actually done.

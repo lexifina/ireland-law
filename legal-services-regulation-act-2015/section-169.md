@@ -26,4 +26,4 @@ Costs to follow event
 
 (4) Unless the court before which civil proceedings were commenced orders otherwise, or the parties to those proceedings agree otherwise, a party who discontinues or abandons the proceedings after they are commenced (including discontinuance or abandonment of an appeal) is liable to pay the reasonable costs of every other party who has incurred costs in the defence of the civil proceedings concerned until the discontinuance or abandonment.
 
-(5) Nothing in this Part shall be construed as affecting section 50B of the Planning and Development Act 2000 or Part 2 of the Environment (Miscellaneous Provisions) Act 2011.
+(5) Nothing in this Part shall be construed as affecting section 50B of the Planning and Development Act 2000, Part 2 of the Environment (Miscellaneous Provisions) Act 2011 or Chapter 2 of Part 9 of the Planning and Development Act 2024.
