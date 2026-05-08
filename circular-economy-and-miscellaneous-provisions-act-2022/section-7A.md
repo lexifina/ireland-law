@@ -1,0 +1,3 @@
+Preparation of green public procurement criteria and guidance
+
+7A. …
