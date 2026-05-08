@@ -1,0 +1,3 @@
+Non-application of proposed determination procedure to certain applications.
+
+87B.— …

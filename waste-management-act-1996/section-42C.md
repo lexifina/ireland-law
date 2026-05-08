@@ -1,0 +1,3 @@
+Non-application of proposed decision procedure to certain applications.
+
+42C.— …

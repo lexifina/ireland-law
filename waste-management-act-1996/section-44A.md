@@ -1,0 +1,3 @@
+Exemption from EIA Directive for civil emergency or defence.
+
+44A.— …

@@ -8,6 +8,6 @@ Amendment of licence of clerical or technical nature.
 
 (c) otherwise facilitating the operation of the licence and the making of the amendment does not result in the relevant requirements of section 83(5) ceasing to be satisfied.
 
-(2) None of the requirements of section 90 or of any other provision of this Part shall apply to the exercise of the power under subsection (1) but the Agency shall, where appropriate, consult with the licensee before exercising the power.
+(2) None of the requirements of section 90 or of any other provision of this Part shall apply to the exercise of the power under subsection (1) but the Agency shall, where appropriate, consult with the licensee , or such planning authority or other person as the Agency considers appropriate, before exercising the power.
 
 (3) The Agency shall, as soon as may be after the exercise of the power under subsection (1), notify particulars of the amendment effected by that exercise to each person who made an objection to the Agency under section 87(5) in relation to any exercise of the powers under section 83 or 90 as respects the licence or revised licence concerned.

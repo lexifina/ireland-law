@@ -1,0 +1,3 @@
+Exemption from requirement for EIA in exceptional circumstances.
+
+44B.— …
