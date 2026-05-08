@@ -66,9 +66,7 @@ Placenames.
 
 (10) This section shall not apply to the townland, civil parish, non-municipal town or electoral division referred to in section 191.
 
-(11) In this section ‘local council’, in relation to a local authority, means the local authority or the municipal district members in respect of each municipal district within the area of such local authority.
-
-190.— (1)(a) A local authority may, in relation to a place that is situated—
+(11) In this section ‘local council’, in relation to a local authority, means the local authority or the municipal district members in respect of each municipal district within the area of such local authority. 190.— (1)(a) A local authority may, in relation to a place that is situated—
 
 (i) in its functional area, and
 
