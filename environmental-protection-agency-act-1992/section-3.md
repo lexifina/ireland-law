@@ -2,6 +2,8 @@ Interpretation.
 
 3.—(1) In this Act, except where the context otherwise requires—
 
+“Act of 2024” means the Planning and Development Act 2024;
+
 "activity" means any process, development or operation specified in the First Schedule and carried out in an installation;
 
 "the Act of 1996" means the Waste Management Act 1996;
@@ -19,6 +21,8 @@ Interpretation.
 "BAT conclusions" means a document containing the parts of a BAT reference document laying down the conclusions on best available techniques, their description, information to assess their applicability, the emission levels associated with the best available techniques, associated monitoring, associated consumption levels and, where appropriate, relevant site remediation measures;
 
 "BAT reference document" in relation to an industrial emissions directive activity, means a document drawn up by the Commission of the European Union in accordance with Article 13 of the Industrial Emissions Directive, resulting from the exchange of information in accordance with that Article of that Directive and describing, in particular, applied techniques, present emissions and consumption levels, techniques considered for the determination of best available techniques as well as BAT conclusions and any emerging techniques, particular consideration having been given to the same matters as are specified in subparagraphs (i) to (xii) of section 5(3)(b);
+
+“Commission” means An Coimisiún Pleanála;
 
 "designated application" means an application made to the Agency for a licence under Part IV in relation to designated development, after an application has been made under section 4 of the Act of 2022 to the Minister for the Environment, Climate and Communications for approval under section 7 of that Act to carry out the designated development, and does not include an application made to the Agency—
 
@@ -116,6 +120,16 @@ Interpretation.
 
 "monitoring" includes the inspection, measurement, sampling or analysis for the purposes of this Act of any emission, or of any environmental medium in any locality, whether periodically or continuously;
 
+“national newspaper” means—
+
+(a) a publication (other than an online publication or online version of a publication) that—
+
+(i) circulates generally in the State, and
+
+(ii) is prescribed by the Minister for the purposes of this Act, or
+
+(b) an online publication, or online version of a publication, prescribed by the Minister for the purposes of this Act;
+
 "noise" includes vibration;
 
 "occupier", in relation to any installation or premises, includes the owner, a lessee, any person entitled to occupy the installation or premises and any other person having, for the time being, control of the installation or premises;
@@ -173,6 +187,8 @@ Interpretation.
 "soil" means the top layer of the land surface of the earth that is composed of disintegrated rock particles, humus, water and air;
 
 "statutory undertaker" has the meaning assigned to it by the Act of 2000;
+
+“Transboundary Convention state” means a state (other than the State) that is a contracting party to the Convention on Environmental Impact Assessment in a Transboundary Context, done at Espoo (Finland) on 25 February 1991;
 
 "vessel" means a waterborne craft of any type, whether self propelled or not, and includes an air cushion craft and any structure in or on water;
 
