@@ -18,6 +18,8 @@ Rules for Traffic on Motorways.
 
 (2) A prohibition imposed by paragraph (b) or (c) of sub-article (1) shall not apply in relation to any part of the motorway which is provided for the parking of mechanically propelled vehicles or for the provision of services or amenities.
 
+(2A) A prohibition imposed by paragraph (b) of sub-article (1) shall not apply to the driver of a bus where traffic sign numbers RVMS 104 (bus priority facility sign) and RRM 042 (bus priority facility line (Continuous Yellow)) are provided and traffic sign number RVMS 104 is displayed.
+
 (3) A prohibition imposed by sub-article (1)(c) does not apply—
 
 (a) in the case of a mechanically propelled vehicle which is stopped on a carriageway while it is prevented from proceeding by an obstruction, or
@@ -31,3 +33,5 @@ Rules for Traffic on Motorways.
 (ii) use the nearest available telephone as soon as possible to notify the Garda Síochána of the accident, breakdown or other circumstance which has necessitated the stopping of the mechanically propelled vehicle on the motorway.
 
 (b) The driver or other person in charge of a mechanically propelled vehicle to which this sub-article applies shall not allow the vehicle to remain parked on the motorway for longer than is necessary and for this purpose shall accept an offer of assistance or service by a member of the Garda Síochána or by an employee or agent of a road authority.
+
+(5) In this article, “bus” has the meaning assigned to it in section 2 of the Public Transport Regulation Act 2009 (No. 37 of 2009).
