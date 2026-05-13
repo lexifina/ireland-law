@@ -1,4 +1,4 @@
-F69[Endorsement of revocation of driving licence on license record relating to holder
+F70[Endorsement of revocation of driving licence on license record relating to holder
 
 23D.—(1) In this section and section 23E, "licence" means an Irish driving licence or learner permit.
 

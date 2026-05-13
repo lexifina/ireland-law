@@ -1,4 +1,4 @@
-F71[Retention of revoked driving licence by member of Garda Síochána
+F72[Retention of revoked driving licence by member of Garda Síochána
 
 23E.—(1) Where a person produces an Irish driving licence to a member of the Garda Síochána and the member has reasonable grounds to believe that the licence is one which has been revoked in accordance with section 23C or regulations under section 42(2)(cb), he or she shall retain the licence and forward it to the Minister.
 
