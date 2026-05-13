@@ -48,7 +48,7 @@ Interpretation.
 
 (ii) the carrying out of consultation referred to in section 51(3),
 
-(iii) the examination by An Bord Pleanála of the information presented in the environmental impactassessment report,any additional information providedin accordance with section 51(4) and any relevant information received through consultation under section 51(3),
+(iii) the examination by An Bord Pleanála of the information presented in the environmental impact assessment report, any additional information provided in accordance with section 51(4) and any relevant information received through consultation under section 51(3),
 
 (iv) the reaching by An Bord Pleanála of the reasoned conclusion referred to in section 51(5) on the significant effects of the proposed road development on the environment; and
 
