@@ -96,7 +96,7 @@ Definitions.
 
 (i) the medicinal product for active immunisation to prevent Covid-19 known as "COVID-19 Vaccine Moderna CX-024414",
 
-(ii) the medicinal product for active immunisation to prevent Covid-19 known as "Vaxzevria (previously COVID-19 Vaccine AstraZeneca) ChAdOx1-SARS- COV-2" also known as "Covishield",
+(ii) the medicinal product for active immunisation to prevent Covid-19 known as "Vaxzevria (previously COVID-19 Vaccine AstraZeneca) ChAdOx1- SARS-COV-2" also known as "Covishield",
 
 (iii) the medicinal product for active immunisation to prevent Covid-19 known as "Comirnaty BNT162b2", and
 
