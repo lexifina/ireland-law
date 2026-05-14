@@ -40,8 +40,6 @@ Definitions.
 
 "indoor operator" means—
 
-OJ No. L 211, 15.06.2021, p. 1
-
 (a) in relation to a relevant indoor premises subject to a licence for the sale by retail of intoxicating liquor for consumption on or off the premises (whether granted on production or without production of a certificate of the Circuit Court or District Court), the holder of such a licence,
 
 (b) in relation to a relevant indoor premises registered under the Registration of Clubs Acts 1904 to 2008, every person whose name is entered in the register of clubs as an official or member of its committee of management or governing body at the material time,
@@ -52,7 +50,9 @@ OJ No. L 211, 15.06.2021, p. 1
 
 (ii) the manager of the premises, or
 
-(iii) any other person for the time being in charge of the premises; the expression “infected premises notice” means a written notice that, within the three months immediately preceding the giving of the notice, a person has been residing in or has occupied specified premises while suffering from a specified infectious disease; the word “infectious” includes contagious and the word “infection” includes contagion; the expression “infectious disease” means primarily any disease included in regulations under subsection (1) of section 29 whether absolutely or by definition of a particular stage of such disease, but in any section of Part IV of this Act from the application of which a disease or a stage of a disease is excluded under subsection (2) of the said section 29, the expression does not include such disease or such disease in such stage, as the case may be; the expression “institution” means a hospital, sanatorium, maternity home, convalescent home, preventorium, laboratory, clinic, health centre, first-aid station, dispensary or any similar institution; the expression “institutional services” includes—
+(iii) any other person for the time being in charge of the premises; the expression “infected premises notice” means a written notice that, within the three months immediately preceding the giving of the notice, a person has been
+
+OJ No. L 211, 15.06.2021, p. 1 residing in or has occupied specified premises while suffering from a specified infectious disease; the word “infectious” includes contagious and the word “infection” includes contagion; the expression “infectious disease” means primarily any disease included in regulations under subsection (1) of section 29 whether absolutely or by definition of a particular stage of such disease, but in any section of Part IV of this Act from the application of which a disease or a stage of a disease is excluded under subsection (2) of the said section 29, the expression does not include such disease or such disease in such stage, as the case may be; the expression “institution” means a hospital, sanatorium, maternity home, convalescent home, preventorium, laboratory, clinic, health centre, first-aid station, dispensary or any similar institution; the expression “institutional services” includes—
 
 (a) maintenance in an institution,
 
@@ -98,7 +98,7 @@ OJ No. L 211, 15.06.2021, p. 1
 
 (i) the medicinal product for active immunisation to prevent Covid-19 known as "COVID-19 Vaccine Moderna CX-024414",
 
-(ii) the medicinal product for active immunisation to prevent Covid-19 known as "Vaxzevria (previously COVID-19 Vaccine AstraZeneca) ChAdOx1-SARS- COV-2" also known as "Covishield",
+(ii) the medicinal product for active immunisation to prevent Covid-19 known as "Vaxzevria (previously COVID-19 Vaccine AstraZeneca) ChAdOx1- SARS-COV-2" also known as "Covishield",
 
 (iii) the medicinal product for active immunisation to prevent Covid-19 known as "Comirnaty BNT162b2", and
 
