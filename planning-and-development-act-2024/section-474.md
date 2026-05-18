@@ -1,6 +1,8 @@
 Recovery by planning authority of compensation subsequent to development
 
-474. (1) No person shall carry out any development to which this section applies in the maritime area, in respect of which a statement (in this section referred to as the “compensation statement”) stands registered (whether under section 72 of the Act of 1963, section 9 of the Act of 1990, section 188 of the Act of 2000 or section 473) until that amount, as is recoverable under this section in respect of the compensation specified in the compensation statement, has been paid or secured to the satisfaction of the planning authority or Maritime Area Regulatory Authority, as appropriate.
+474. (1) No person shall carry out any development to which this section applies in the maritime area, in respect of which a statement (in this section referred to as the
+
+“compensation statement”) stands registered (whether under section 72 of the Act of 1963, section 9 of the Act of 1990, section 188 of the Act of 2000 or section 473) until that amount, as is recoverable under this section in respect of the compensation specified in the compensation statement, has been paid or secured to the satisfaction of the planning authority or Maritime Area Regulatory Authority, as appropriate.
 
 (2) This section applies to any development (other than exempted development), except that—
 

@@ -4,7 +4,9 @@ Regulation of costs payable in respect of prescribed matters
 
 (a) the costs awarded to an applicant, in respect of proceedings to which this Chapter applies and in which the applicant succeeds in obtaining relief;
 
-(b) the contribution made from the environmental legal costs financial assistance mechanism to the costs of an applicant in relation to whom a determination under paragraph (b) or (c) of subsection (3) of section 297 and under paragraph (b) or (c) of subsection (4) of section 297 is made, in respect of proceedings to which this Chapter applies and in which the applicant does not succeed in obtaining relief, or succeeds in obtaining relief only in part;
+(b) the contribution made from the environmental legal costs financial assistance mechanism to the costs of an applicant in relation to whom a determination under paragraph
+
+(b) or (c) of subsection (3) of section 297 and under paragraph (b) or (c) of subsection (4) of section 297 is made, in respect of proceedings to which this Chapter applies and in which the applicant does not succeed in obtaining relief, or succeeds in obtaining relief only in part;
 
 (c) the contribution made from the environmental legal costs financial assistance mechanism to the costs awarded to the applicant under subsection (7) of section 298.
 
