@@ -8,6 +8,8 @@ Exempted development
 
 (i) such development or development of such class is authorised or permitted, or required to be authorised or permitted, by or under any enactment in accordance with a licence, consent, approval or other type of authorisation or permission (howsoever described), and
 
+OJ L, 2024/1028, 29.4.2024
+
 (ii) consultation with members of the public in relation to such development or development of such class is, in accordance with any enactment, required before the development may be so authorised or permitted.
 
 (2) Without prejudice to the generality of subsection (1), regulations under this section may provide that—
