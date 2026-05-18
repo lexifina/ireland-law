@@ -24,7 +24,9 @@ Making of appeals, applications, referrals or requests
 
 (4) The requirement under paragraph (e) of subsection (1) shall apply whether or not the person making the appeal, application, referral or request requests, in accordance with section 369, an oral hearing.
 
-(5) Without prejudice to section 366, 367 or 369, the person who makes the appeal, application, referral or request shall not be entitled to elaborate in writing upon, or make further submissions in writing in relation to, the grounds referred to in paragraph (e) of subsection (1), or to submit further grounds in writing, and any such elaboration, further submissions or further grounds received by the Commission shall not be considered by it.
+(5) Without prejudice to section 366, 367 or 369, the person who makes the appeal, application, referral or request shall not be entitled to elaborate in writing upon, or make further submissions in writing in relation to, the grounds referred to in paragraph
+
+(e) of subsection (1), or to submit further grounds in writing, and any such elaboration, further submissions or further grounds received by the Commission shall not be considered by it.
 
 (6) Without prejudice to subsections (1) and (2), an appeal, application, referral or request shall be accompanied by such documents or information as the person making the appeal, application, referral or request considers necessary or appropriate.
 

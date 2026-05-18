@@ -114,7 +114,7 @@ Interpretation
 
 (i) occupying or using the building or part of the building, or
 
-(ii) for a purpose incidental to the primary purpose of the building or part of the building, and
+(ii) for a purpose incidental to the primary purpose of the building or part of the building , and
 
 (b) in relation to applications for permission for large-scale residential development, ancillary residential services including gyms and child-care facilities;
 

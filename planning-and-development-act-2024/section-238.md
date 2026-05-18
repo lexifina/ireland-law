@@ -28,7 +28,9 @@ Transboundary environmental impacts
 
 (3) Where a Member State of the European Union or a Transboundary Convention state provides information or makes submissions regarding an application for permission for a relevant development and its significant effects or likely significant effects on the environment of that state, the competent authority concerned shall take such information or submissions into account when carrying out any environmental impact assessment or making a decision under Part 4 in relation to the application for permission.
 
-(4) A competent authority may, following the taking into account of any information provided or submissions made by a Member State of the European Union or a Transboundary Convention state in accordance with subsection (3), attach to any grant of permission for the relevant development concerned conditions of a type referred to in subsection (6) of section 236 that are for the purpose of avoiding, preventing or reducing transboundary environmental effects of the relevant development.
+(4) A competent authority may, following the taking into account of any information provided or submissions made by a Member State of the European Union or a Transboundary Convention state in accordance with subsection (3), attach to any grant of permission for the relevant development concerned conditions of a type referred to in subsection
+
+(6) of section 236 that are for the purpose of avoiding, preventing or reducing transboundary environmental effects of the relevant development.
 
 (5) Without prejudice to the generality of subsection (1), regulations under that subsection may make provision for:
 

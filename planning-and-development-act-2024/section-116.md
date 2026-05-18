@@ -40,7 +40,7 @@ Pre-application consultation
 
 (III) where the proposed development is or includes land-based development, the relevant objectives of the development plan and any urban area plan, priority area plan or coordinated area plan that are likely to have a bearing on the decision of the Commission, and
 
-(IV) where the proposed development is or includes maritime development, the National Marine Planning Framework and the objectives of maritime spatial planning,
+(IV) where the proposed development is or includes maritime development, the National Marine Planning Framework and the objectives of maritime spatial planning ,
 
 (ii) the need (if any) for the prospective applicant to create an internet website for the purpose of publishing the application and documentation accompanying the application,
 
