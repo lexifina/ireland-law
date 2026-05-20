@@ -1,0 +1,13 @@
+Notices to reputed proprietors, occupiers, etc.
+
+6.—(1) Simultaneously with or as soon as may be after sending a copy of a drainage scheme to councils of counties in pursuance of the next preceding section, the Commissioners shall—
+
+(a) serve on every person named in such drainage scheme as a reputed propri-etor, owner, or rated or other occupier of any land proposed to be compulsorily acquired or substantially interfered with or of any easement, fishery, water-right, navigation-right, or other right or of any private road or bridge proposed to be compulsorily acquired, restricted, terminated or otherwise interfered with a notice stating that such scheme has been prepared, specifying the place or places at which and the period during which a copy of such scheme will be available for inspection in pursuance of this Act and informing him that such scheme proposes the compulsory acquisition of or interference with some land, right, or other property (which land, right, or property and the proposed interference (if any) shall be fully described in the notice) reputed to be owned or occupied by him, and
+
+(b) serve on every person who is the local authority (not being a council to which a copy of such scheme has been sent in pursuance of the next preceding section) charged with the maintenance of any public road or bridge proposed in such scheme to be diverted, removed, or otherwise interfered with a notice informing such local authority of the preparation of such scheme and of the diversion, removal, or interference proposed in such scheme to be made in respect of such road or bridge.
+
+(2) Every notice served on any person in pursuance of the foregoing sub-section of this section shall contain a statement informing such person that he may, within one month after the service of such notice on him, send to the Commissioners all such observations (if any) as he shall think proper in regard to (as the case may be) the acquisition, restriction, termination, or interference or the diversion, removal, or interference mentioned in such notice.
+
+(3) Every person on whom a notice is served in pursuance of this section may, at any time within one month after the service of such notice on him, send to the Commissioners all such (if any) observations in regard to the acquisition, restriction, termination, or interference or the diversion, removal, or interference (as the case may be) mentioned therein as he shall think proper.
+
+(4) A notice required by this section to be served on any person may be served by post and, where the address of such person is not known, the letter containing such notice may be addressed to him at the lands or the place of situation of the right or property to which the notice relates.
