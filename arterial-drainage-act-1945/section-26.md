@@ -1,0 +1,3 @@
+Defrayal of the cost of existing drainage works.
+
+26.—As on and from the appointed day the moneys payable to the Commissioners by the council of a county in repayment of the expenses incurred in the execution of the drainage works in an existing drainage district (other than the Barrow Drainage District) or in the repair, under the Drainage Maintenance Act, 1924 (No. 46 of 1924), of any such drainage works shall (so far as such expenses have not been repaid before the appointed day) be raised by such council by means of the poor rate as a county-at-large charge and no part of such moneys shall be raised by such council by means of a drainage rate.

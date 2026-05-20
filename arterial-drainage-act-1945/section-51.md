@@ -1,0 +1,5 @@
+Protection of the Commissioners from certain liabilities.
+
+51.—(1) Nothing contained in this Act nor anything done by the Commissioners thereunder nor any direction or instruction given by the Commissioners under this Act nor anything done under any such instruction or direction shall operate to relieve the owner of a weir, sluice, dam, or other work connected with a mill or factory from any responsibility, however imposed or arising, for the maintenance of or otherwise relating to such work or operate to transfer any such responsibility from such owner to the Commissioners.
+
+(2) Nothing contained in this Act nor anything done by the Commissioners thereunder shall operate to render the Commissioners liable (save where it is proved that their officers, servants, or agents have been guilty of carelessness or neglect) for any damage which may happen to any land or other property through or by the overflowing of any river, stream, or watercourse or through or by the sudden breaking of any bank, dam, weir, sluice, or other work constructed by the Commissioners under this Act or for the maintenance of which they are responsible under this Act.

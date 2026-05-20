@@ -1,0 +1,3 @@
+Apportionment of land purchase annuities, etc.
+
+54.—Whenever land acquired by the Commissioners under this Act is subject, in conjunction with other land, to a land purchase annuity or other annual payment payable to the Irish Land Commission or to the Commissioners, the Irish Land Commission or the Commissioners (as the case may be) may apportion such annuity or annual payment in such manner as they consider proper between the land so acquired and such other land or may charge the whole of such annuity or annual payment on any part of the land subject thereto in exoneration of the residue of such land.
