@@ -1,8 +1,10 @@
 Ancillary grant applications
 
-22. (1) Where a remediation option grant approved under section 16(4)(a) is less than €420,000, or such other figure as is provided for by order under section 11, the relevant owner concerned may apply to the designated local authority for an ancillary grant.
+22. (1) Where a remediation option grant is approved under section 16(4)(a), the relevant owner concerned may apply to the designated local authority for an ancillary grant.
 
-(2) An ancillary grant referred to in subsection (1) may be approved in respect of costs incurred by a relevant owner for the purposes referred to in paragraph (a), (b) or (c) of section 10(2) before or after the making of an application under section 13.
+(2) Subject to subsection (2A), an ancillary grant referred to in subsection (1) may be approved in respect of costs incurred by a relevant owner for the purposes referred to in paragraph (a), (b) or (c) of section 10(2) before or after the making of an application under section 13.
+
+[(2A) Where an adjacent remediation option has been approved under section 22A(6)(a), an ancillary grant shall only be approved in respect of costs incurred by the relevant owner for the purposes referred to in section 10(2)(c).]
 
 (3) An application for a grant referred to in paragraph (a) or (b) of section 10(2) shall be accompanied by—
 

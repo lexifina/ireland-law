@@ -14,7 +14,7 @@ Grants
 
 (c) to enable a relevant owner to complete immediate repairs to the relevant dwelling.
 
-(3) A remediation option grant referred to in subsection (1) or, where applicable, the total amount of a remediation option grant and an ancillary grant referred to in subsection (1) and (2), shall not exceed the amount of €420,000.
+(3) A remediation option grant referred to in subsection (1) ... shall not exceed the amount of €420,000.
 
 (4) A grant—
 
