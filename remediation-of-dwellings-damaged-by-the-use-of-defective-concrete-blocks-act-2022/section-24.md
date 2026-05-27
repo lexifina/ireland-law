@@ -12,6 +12,18 @@ Change of relevant owner
 
 (4) An individual, other than the relevant owner who made the application under section 13, may, after the making of a decision under section 13(7) in respect of the application notify the designated local authority that he or she wishes to be considered a relevant owner of the dwelling for the purposes of this Act.
 
+(4A) Notwithstanding section 9(2)(a), an individual shall be regarded as a relevant owner for the purposes of a notification under subsection (4) if he or she—
+
+(a) is an individual who is—
+
+(i) married to a relevant owner of a relevant dwelling,
+
+(ii) a civil partner of a relevant owner of a relevant dwelling, or
+
+(iii) a cohabitant of a relevant owner of a relevant dwelling, and
+
+(b) became a joint owner of the relevant dwelling on or after 31 January 2020.
+
 (5) The designated local authority shall consider a notification referred to in subsection (4) and where it is satisfied that the individual who made the notification has complied with any regulations made under subsection (6) and is a relevant owner of the dwelling, the individual shall be considered a relevant owner of the dwelling for the purposes of this Act and the designated local authority shall notify him or her of that fact.
 
 (6) The Minister may, for the purposes of this section, make regulations providing for:
@@ -20,6 +32,16 @@ Change of relevant owner
 
 (b) the matters which a designated local authority shall require to accompany the notification in order to satisfy itself that the person referred to in subsection (2) is entitled to own the dwelling or that the individual referred to in subsection (5) is a relevant owner of the relevant dwelling;
 
+(ba) the documents or information which may be considered evidence of the matters referred to in paragraphs (a) and (b) of subsection (4A);
+
 (c) amendment of the periods referred to in section 19;
 
 (d) the making and consideration of notifications under subsection (1) or (4).
+
+(7) In this section—
+
+“Act of 2010” means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+“civil partner” shall be construed in accordance with section 3 of the Act of 2010;
+
+“cohabitant” shall be construed in accordance with section 172(1) of the Act of 2010.
