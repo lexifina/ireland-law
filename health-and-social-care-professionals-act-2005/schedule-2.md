@@ -122,7 +122,9 @@ Convening meetings and notifying members.
 
 Quorum.
 
-10. At least 40 per cent of the members in office constitute a quorum at a meeting of a registration board. Chairing of meetings.
+10. At least 40 per cent of the members in office constitute a quorum at a meeting of a registration board.
+
+Chairing of meetings.
 
 11. (1) While present at a meeting of a registration board, the chairperson of that board shall chair the meeting.
 
