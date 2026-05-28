@@ -2,7 +2,7 @@ SCHEDULE 3
 
 QUALIFICATIONS REQUIRED BY EXISTING PRACTITIONERS
 
-PROFESSION QUALIFICATION 1. Clinical Biochemists Degree in which biochemistry was taken as a subject in the final examination. 2. Dietitians Bachelor of Science (Honours) in Human Nutrition and Dietetics from the University of Dublin and Diploma in Human Nutrition and Dietetics from the Dublin Institute of Technology, or
+PROFESSION QUALIFICATION 1. Clinical Biochem- Degree in which biochemistry was taken as a subject in the final examin-ists ation. 2. Dietitians Bachelor of Science (Honours) in Human Nutrition and Dietetics from the University of Dublin and Diploma in Human Nutrition and Dietetics from the Dublin Institute of Technology, or
 
 Diploma in Dietetics and Nutrition from the City of Dublin Vocational Education Committee awarded after 1976 and before 1987, or
 
@@ -12,7 +12,7 @@ Bachelor of Science (Honours) in Biomedical Science from the Joint University Co
 
 Diploma in Medical Laboratory Sciences awarded before 1994 by the Dublin Institute of Technology or the Cork Institute of Technology, or
 
-Certificate in Medical Laboratory Sciences awarded before 1997 by the Dublin Institute of Technology Kevin Street, the Cork Institute of Technology or the Galway/Mayo Institute of Technology. 4. Occupational Therap- Bachelor of Science (Honours) in Occupational Therapy from the University of Dublin, ists or
+Certificate in Medical Laboratory Sciences awarded before 1997 by the Dublin Institute of Technology Kevin Street, the Cork Institute of Technology or the Galway/Mayo Institute of Technology. 4. Occupational Bachelor of Science (Honours) in Occupational Therapy from the University Therapists of Dublin, or
 
 Master of Science in Occupational Therapy (Professional Qualification) from the University of Limerick, or
 
@@ -24,7 +24,7 @@ Bachelor of Medical Science (Honours) in Orthoptics, or
 
 Bachelor of Science (Honours) in Orthoptics. 6. Physiotherapists Bachelor of Science (Honours) in Physiotherapy from the University of Dublin, or
 
-Bachelor of Science in Physiotherapy from the Royal College of Surgeons in Ireland, or
+PROFESSION QUALIFICATION Bachelor of Science in Physiotherapy from the Royal College of Surgeons in Ireland, or
 
 Bachelor in Physiotherapy (Honours) from the National University of Ireland, or
 
@@ -32,13 +32,13 @@ Diploma in Physiotherapy of the National University of Ireland or of the Univers
 
 Bachelor of Science (Radiography) from the National University of Ireland, or
 
-Bachelor of Science (Therapeutic Radiography) from the University of Dublin. 10. Social Care Workers National Diploma in Child Care awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
+Bachelor of Science (Therapeutic Radiography) from the University of Dublin. 10. Social Care Work- National Diploma in Child Care awarded by the Higher Education and ers Training Awards Council/Dublin Institute of Technology, or
 
 National Diploma in Applied Social Care Studies awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
 Diploma in Social Care awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
-PROFESSION QUALIFICATION Diploma in Applied Social Studies/Social Care from the Dublin Institute of Technology, or
+Diploma in Applied Social Studies/Social Care from the Dublin Institute of Technology, or
 
 Open Training College National Diploma in Applied Social Studies (Disability).
 
@@ -62,7 +62,7 @@ Open Training College National Diploma in Applied Social Studies (Disability).
 
 (10) Higher Diploma in Arts in Applied Social Studies (Professional Social Care), in South East Technological University,
 
-(11) Bachelor of Arts in Applied Social Studies, in Institute of Technology Carlow,
+PROFESSION QUALIFICATION (11) Bachelor of Arts in Applied Social Studies, in Institute of Technology Carlow,
 
 (12) Bachelor of Arts Applied Social Studies Professional Social Care, in Institute of Technology Carlow,
 
@@ -92,7 +92,7 @@ Open Training College National Diploma in Applied Social Studies (Disability).
 
 (25) Bachelor of Arts in Social Care Practice, in Dublin Institute of Technology,
 
-PROFESSION QUALIFICATION (26) Bachelor of Arts in Social Care, in Dundalk Institute of Technology,
+(26) Bachelor of Arts in Social Care, in Dundalk Institute of Technology,
 
 (27) Bachelor of Arts in Social Studies, in Dundalk Institute of Technology,
 
@@ -110,7 +110,7 @@ PROFESSION QUALIFICATION (26) Bachelor of Arts in Social Care, in Dundalk Instit
 
 (34) Bachelor of Arts Applied Social Studies in Social Care, Institute of Technology Tralee,
 
-(35) Bachelor of Arts (Honours) in Social Care, in Institute of Technology Tralee,
+PROFESSION QUALIFICATION (35) Bachelor of Arts (Honours) in Social Care, in Institute of Technology Tralee,
 
 (36) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Institute of Technology Tralee,
 
@@ -144,7 +144,7 @@ PROFESSION QUALIFICATION (26) Bachelor of Arts in Social Care, in Dundalk Instit
 
 (51) National Diploma in Applied Social Studies in Social Care, in Waterford Institute of Technology (awarding body National Council Education Awards),
 
-PROFESSION QUALIFICATION (52) Bachelor of Arts in Applied Social Studies in Social Care, in Waterford Institute of Technology,
+(52) Bachelor of Arts in Applied Social Studies in Social Care, in Waterford Institute of Technology,
 
 (53) Bachelor of Arts (Honours) in Applied Social Studies in Social Care, in Waterford Institute of Technology,
 
@@ -154,7 +154,7 @@ PROFESSION QUALIFICATION (52) Bachelor of Arts in Applied Social Studies in Soci
 
 (56) National Diploma in Applied Social Studies in Social Care, in Regional Technical College, Waterford (awarding body National Council for Education Awards),
 
-(57) Bachelor of Arts in Social Care Practice, in Technological University Dublin,
+PROFESSION QUALIFICATION (57) Bachelor of Arts in Social Care Practice, in Technological University Dublin,
 
 (58) Bachelor of Arts (Honours) in Social Care Practice, in Technological University Dublin,
 
@@ -176,9 +176,7 @@ PROFESSION QUALIFICATION (52) Bachelor of Arts in Applied Social Studies in Soci
 
 (67) Bachelor of Arts in Social Care Practice Inservice, in Dublin Institute of Technology. 11. Social Workers National Qualification in Social Work awarded by the National Social Work Qualifications Board, or
 
-Certificate of Qualification in Social Work awarded by the Central Council for Education and Training in Social Work, U.K. 12. Speech and Bachelor of Science (Clinical Speech and Language Studies) from the University of Language Therapists Dublin, or
-
-Bachelor of Arts (Moderatorship) (Remedial Linguistics) from the University of Dublin, or
+Certificate of Qualification in Social Work awarded by the Central Council for Education and Training in Social Work, U.K. 12. Speech and Bachelor of Science (Clinical Speech and Language Studies) from the Language Therap- University of Dublin, or ists Bachelor of Arts (Moderatorship) (Remedial Linguistics) from the University of Dublin, or
 
 Bachelor of Arts (Remedial Linguistics) from the University of Dublin, or
 
