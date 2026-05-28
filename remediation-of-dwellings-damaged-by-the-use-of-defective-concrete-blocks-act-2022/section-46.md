@@ -20,7 +20,7 @@ Data processing
 
 (3) In this section—
 
-“General Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament ; and of the Council of 27 April 2016
+“General Data Protection Regulation” means Regulation (EU) 2016/679 of the European ; Parliament and of the Council of 27 April 2016
 
 “personal data” has the same meaning as it has in the General Data Protection Regulation;
 
