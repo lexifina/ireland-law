@@ -48,9 +48,7 @@ Membership
 
 “SCHEDULE A
 
-Section 3A
-
-Members of Agency
+Section 3A Members of Agency
 
 Disqualification from appointment
 

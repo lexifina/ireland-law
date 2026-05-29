@@ -10,9 +10,7 @@ Procedure
 
 (2) The Act of 1990 is amended by inserting the following Schedule after Schedule A (inserted by section 8(2)):
 
-“SCHEDULE B
-
-Section 3B
+“SCHEDULE B Section 3B
 
 Meetings and Procedure of Agency
 
