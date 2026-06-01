@@ -1,5 +1,3 @@
-## PART 8 REVIEWS AND APPEALS
-
 Definitions (Part 8)
 
 113. In this Part—
