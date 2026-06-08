@@ -66,9 +66,7 @@ Rules establishing a regulatory and supervisory framework and consumer and inves
 
 (xx) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1);
 
-(xxi) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937 (OJ L 347, 20.10.2020, p. 1).
-
-C. Point (a)(iii) of Article 2(1) — product safety and compliance:
+(xxi) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937 (OJ L 347, 20.10.2020, p. 1). C. Point (a)(iii) of Article 2(1) — product safety and compliance:
 
 1. Safety and compliance requirements for products placed in the Union market, as defined and regulated by:
 
@@ -96,7 +94,7 @@ D. Point (a)(iv) of Article 2(1) — transport safety:
 
 (i) Directive 2008/96/EC of the European Parliament and of the Council of 19 November 2008 on road infrastructure safety management (OJ L 319, 29.11.2008, p. 59);
 
-(ii) Directive 2004/54/EC of the European Parliament and of the Council of 29 April 2004 on minimum safety requirements for tunnels in the Trans- European Road Network (OJ L 167, 30.4.2004, p. 39);
+(ii) Directive 2004/54/EC of the European Parliament and of the Council of 29 April 2004 on minimum safety requirements for tunnels in the Trans-European Road Network (OJ L 167, 30.4.2004, p. 39);
 
 (iii) Regulation (EC) No 1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive 96/26/EC (OJ L 300, 14.11.2009, p. 51).
 
@@ -210,7 +208,7 @@ Rules on nuclear safety, as set out in:
 
 (ii) Council Directive 2013/51/Euratom of 22 October 2013 laying down requirements for the protection of the health of the general public with regard to radioactive substances in water intended for human consumption (OJ L 296, 7.11.2013, p. 12);
 
-(iii) Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom,96/29/Euratom,97/43/Euratomand2003/122/Euratom (OJ L 13, 17.1.2014, p. 1);
+(iii) Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom (OJ L 13, 17.1.2014, p. 1);
 
 (iv) Council Directive 2011/70/Euratom of 19 July 2011 establishing a Community framework for the responsible and safe management of spent fuel and radioactive waste (OJ L 199, 2.8.2011, p. 48);
 
@@ -308,9 +306,7 @@ J. Point (a)(x) of Article 2(1) — protection of privacy and personal data, and
 
 Part II
 
-Article 3(1) refers to the following Union legislation:
-
-A. Point (a)(ii) of Article 2(1) — financial services, products and markets, and prevention of money laundering and terrorist financing:
+Article 3(1) refers to the following Union legislation: A. Point (a)(ii) of Article 2(1) — financial services, products and markets, and prevention of money laundering and terrorist financing:
 
 1. Financial services:
 
@@ -342,7 +338,9 @@ A. Point (a)(ii) of Article 2(1) — financial services, products and markets, a
 
 (i) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73);
 
-(ii) Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1). B. Point (a)(iv) of Article 2(1) — transport safety:
+(ii) Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1).
+
+B. Point (a)(iv) of Article 2(1) — transport safety:
 
 (i) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18);
 
