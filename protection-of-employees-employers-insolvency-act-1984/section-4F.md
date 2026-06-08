@@ -1,0 +1,3 @@
+F33[Application to Minister for employer to be deemed insolvent in relation to period before coming into operation of Protection of Employees (Employers’ Insolvency) (Amendment) Act 2026.
+
+4F.— …
