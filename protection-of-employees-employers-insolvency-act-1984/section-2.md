@@ -1,3 +1,3 @@
-Redundancy and Employers’ Insolvency Fund.
+Redundancy and Employers’ Insolvency Fund. (Repealed)
 
 2.—...
