@@ -18,10 +18,16 @@ Insolvency for the purposes of Act.
 
 (f) where the employer is an employer of a class or description specified in regulations under subsection (3) of this section which are for the time being in force, the day on which under the regulations such an employer is for such purposes to be regarded as having become insolvent,
 
-(g) where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of the Directive, and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of that other Member State, and
+(g) where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of the Directive, and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of that other Member State,
 
-(h) where the employer is insolvent under the laws, regulations and administrative procedures of the United Kingdom and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of the United Kingdom.
+(h) where the employer is insolvent under the laws, regulations and administrative procedures of the United Kingdom and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of the United Kingdom,
+
+(i) where the employer is deemed insolvent under section 4E, subject to subsection (4), the date on which notice is served on the employer under section 4A,
 
 (2) The Minister may by regulations specify the circumstances in which employers who are of a class or description specified in the regulations are, for the purposes of this Act, to be taken to be, or to have become, insolvent.
 
 (3) The Minister may by regulations specify the day on which any employer who is of a class or description specified in the regulations and who is also an employer who for the purposes of this Act is insolvent, is to be regarded as having become so insolvent.
+
+(4) Where an employer is deemed insolvent under section 4E, the employer shall be regarded as having become insolvent on the date referred to in paragraph (i) of subsection (1) only in relation to the employee who served the notice referred to in that paragraph.
+
+(5) Where an employer is deemed insolvent under section 4F, the employer shall be regarded as having become insolvent on the date referred to in paragraph (j) of subsection (1) only in relation to the employee who made the application under section 4F(1).

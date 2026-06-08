@@ -1,6 +1,6 @@
 Complaints to Tribunal.
 
-9.—(1) A person who has applied for a payment—
+9.—(1) Subject to subsection (4F), a person who has applied for a payment—
 
 (a) under section 6 of a debt described in subparagraph (i), (ii) or (iv) of subsection (2)(a) of that section, or
 
@@ -18,7 +18,7 @@ Complaints to Tribunal.
 
 (2) ...
 
-(3) Where a claim for payment is made under section 6 or 7 and it appears to the Minister that a doubt exists as to whether or not such claim is allowable (in whole or in part), he may refer any matter arising in connection with the claim to the Director General, and the Director General shall refer the matter for adjudication by an adjudication officer.
+(3) Where a claim for payment is made under section 6 or 7 and it appears to the Minister that a doubt exists as to whether or not such claim is allowable (in whole or in part), the Minister may, subject to subsection (4F), refer any matter arising in connection with the claim to the Director General, and the Director General shall refer the matter for adjudication by an adjudication officer.
 
 (4) Where on the hearing of a complaint presented under this section the adjudication officer finds that the Minister is liable to make a payment under section 6 or 7 of this Act, he shall make a declaration to that effect and shall specify in the declaration the amount of such payment.
 
@@ -49,6 +49,12 @@ Complaints to Tribunal.
 (b) In publishing a declaration under paragraph (a), an adjudication officer may determine that, due to the existence of special circumstances, information that would identify the parties in relation to whom the declaration was made should not be published by the Commission.
 
 (4E) The Minister may, by regulations, make provision in relation to any matter relating to the presentation of, the referral of, or the hearing of a complaint under this section that he or she considers appropriate.
+
+(4F) Where an application for a payment in relation to a debt under section 6, or for a payment to be made under section 7, relates—
+
+(a) to an employer who has become insolvent in the circumstances referred to in section 1(3)(i), or
+
+(b) to an amount disputed under section 4D(3)(b), a complaint shall not be presented to the Director General under subsection (1) in relation to such an application, and the Minister shall not refer a matter arising in connection with such an application to the Director General under subsection (3).
 
 (5) ...
 
