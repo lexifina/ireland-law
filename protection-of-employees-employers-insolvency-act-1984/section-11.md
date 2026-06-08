@@ -22,6 +22,10 @@ Power to amend Act.
 
 (5) The Minister may by regulation amend section 6 of this Act so as to vary the limit specified in subsection (4) (a).
 
+(5A) (a) The Minister may, from time to time, by order amend section 4B so as to substitute for the number of weeks specified in subsection (1)(a)(ii) of that section a different number of weeks, being not less than 4 weeks but not more than 12 weeks.
+
+(b) An amendment made by order under this subsection shall have effect in relation to a notice under section 4A that is served on or after the day on which the order comes into operation.
+
 (6) The reference in section 2 (4) of the Act of 1977 to the First Schedule to the Act of 1973 shall be construed as being a reference—
 
 (a) in case an order under this section amending that Schedule is for the time being in force, that Schedule as amended by section 20 of the Act of 1977, by section 13 of this Act and by the order,
