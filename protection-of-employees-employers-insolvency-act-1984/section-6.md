@@ -8,17 +8,27 @@ Employees’ rights on insolvency of employer.
 
 (c) on the relevant date the applicant was entitled to be paid the whole or part of any debt to which this section applies, the Minister shall, subject to this section, pay to or in respect of the applicant out of the Social Insurance Fund the amount which, in the opinion of the Minister, is or was due to the applicant in respect of that debt.
 
+(1A) Where an application under subsection (1) relates to an employer deemed insolvent under section 4E or 4F, the application shall be accompanied by a statutory declaration of the applicant stating that all particulars in the application are true to the best of the applicant’s knowledge and belief.
+
+(1C) Where—
+
+(a) an application under subsection (1) relates to an amount referred to in subparagraph (i), (ii), (iii)(III) or (iv) of subsection (2)(a), and
+
+(b) the employer disputes the amount, or any part of the amount, under section 4D(3)(b), the Minister shall not pay the disputed amount or the disputed part of the amount, as the case may be, under subsection (1).
+
 (2)(a) Subject to paragraph (b) of this subsection, the following are debts to which this section applies—
 
 (i) any arrears of normal weekly remuneration in respect of a period, or of periods in the aggregate, not exceeding eight weeks, and to which the applicant became entitled during the relevant period,
 
 (ii) any arrears due, in respect of a period or periods not exceeding eight weeks in all under a scheme or arrangement which, forming part of an employee’s contract of employment, provides or is capable of providing in relation to employees in any description of employment, payments payable to any such employees in respect of periods during which they are unable to fulfil their contract of employment due to ill health and to which the applicant became entitled during the relevant period,
 
-(iii) at the election of the employee, either—
+(iii) at the election of the employee, one of the following—
 
-(I) any amount which an employer is required to pay, by virtue of an award under section 12 of the Act of 1973 made not earlier than the commencement of the relevant period, either for the period of notice required by section 4 of the Act of 1973 or by reason of a failure by that employer to give the notice required by the said section 4, or
+(I) any amount which an employer is required to pay, by virtue of an award under section 12 of the Act of 1973 made not earlier than the commencement of the relevant period, either for the period of notice required by section 4 of the Act of 1973 or by reason of a failure by that employer to give the notice required by the said section 4,
 
-(II) any unpaid normal weekly remuneration certified by the relevant officer as being the amount of normal weekly remuneration due to the employee in lieu of the statutory notice prescribed in section 4 of the Act of 1973,
+(II) any unpaid normal weekly remuneration certified by the relevant officer as being the amount of normal weekly remuneration due to the employee in lieu of the statutory notice prescribed in section 4 of the Act of 1973, or
+
+(III) in the case of an employer deemed insolvent under section 4E or 4F, any unpaid normal weekly remuneration due to the employee in lieu of the statutory notice prescribed in section 4 of the Act of 1973,
 
 (iv) any holiday pay in respect of a period or periods of holiday not exceeding eight weeks in all, and to which the applicant became entitled during the relevant period,
 
@@ -110,15 +120,71 @@ Employees’ rights on insolvency of employer.
 
 (iii) a claim for damages at common law for wrongful dismissal, an award is made by the court in favour of the employee, and
 
-(b) had the employee made an application under subsection (1) of this section in respect of any of the matters referred to in subparagraph (i), (ii) or (iii) of paragraph (a) of this subsection he would have satisfied the requirements of paragraphs (a), (b) and (c) of the said subsection (1), subject to subsection (4) (a) of this section, there shall be paid out of the Social Insurance Fund, to or in respect of the employee, an amount equal to—
+(b) had the employee made an application under subsection (1) of this section in respect of any of the matters referred to in subparagraph (i), (ii) or (iii) of paragraph (a) of this subsection he would have satisfied the requirements of paragraphs (a), (b) and (c) of the said subsection (1), subject to paragraphs (a) and (aa) of subsection (4) of this section, there shall be paid out of the Social Insurance Fund, to or in respect of the employee, an amount equal to—
 
 (i) the amount of the award, or
 
 (ii) the maximum which would have been payable out of the said Fund by virtue of this Act had the employee successfully sought redress under section 8 (1) or 9 (1) of the Act of 1977.
 
-(4) (a) The amount payable to an employee in respect of any debt mentioned in subsection (2) or award mentioned in subsection (3) of this section shall, where the amount of that debt is or may be calculated by reference to the employee’s remuneration, not exceed €600 in respect of any one week or, in respect of any period of less than a week, an amount bearing the same proportion to €600 as that period bears to the normal weekly working hours of the employee at the relevant date.
+(4) (a) An amount payable to an employee in respect of any debt mentioned in subsection (2) or award mentioned in subsection (3) shall not exceed €600 in respect of any one week.
 
-(b) An amount payable under this section in respect of a debt mentioned in subsection (2) (a) (ii) of this section as regards a particular period, shall not exceed the difference between the amount of any disability benefit or injury benefit payable under the Act of 1981 to the employee concerned as regards the period (together with, in either case, the amount of any pay-related benefit payable to such employee under the Act of 1981 as regards the period) and the amount of his normal weekly remuneration as regards the period.
+(aa) Where, in relation to a debt mentioned in subsection (2) or award mentioned in subsection (3)—
+
+(i) the normal weekly remuneration of an employee to whom the debt or award is payable exceeds the euro amount specified in paragraph (a),
+
+(ii) the debt or award relates to a period other than one week, or
+
+(iii) the debt or award is not expressed in relation to a period of time, the amount payable to the employee in respect of the debt or award—
+
+(I) shall, in relation to a debt referred to in any of the following provisions of subsection (2)(a):
+
+(A) subparagraph (i);
+
+(B) subparagraph (ii);
+
+(C) clause (II) or (III) of subparagraph (iii);
+
+(D) subparagraph (iv), be calculated in accordance with the following formula:
+
+C(A/B) where—
+
+"A" is the amount of the debt mentioned in subsection (2) or the amount of the award mentioned in subsection (3), as the case may be,
+
+"B" is the normal weekly remuneration of the employee, and
+
+"C" is the euro amount specified in paragraph (a),
+
+(II) shall be calculated in accordance with the following formula where the remuneration of the employee is recorded in the written record:
+
+C(A/B) where—
+
+"A" is the amount of the debt mentioned in subsection (2) or the amount of the award mentioned in subsection (3), as the case may be,
+
+"B" is the remuneration per week so recorded or, where the remuneration so recorded relates to a period other than a week, an amount bearing the same proportion to the remuneration recorded as the period of time to which the remuneration recorded relates bears to a week, and
+
+"C" is the euro amount specified in paragraph (a), and
+
+(III) shall be calculated in accordance with the following formula where the written record does not record the remuneration of the employee:
+
+C(A/B) where—
+
+"A" is the amount of the debt mentioned in subsection (2) or the amount of the award mentioned in subsection (3), as the case may be,
+
+"B" is the normal weekly remuneration of the employee, and
+
+"C" is the euro amount specified in paragraph (a).
+
+(ab) In this section—
+
+(i) a reference to the euro amount specified in paragraph (a) shall, where such amount stands varied by regulation under section 11(5), be read as a reference to the amount as so varied, and
+
+(ii) a reference to the written record shall be read, in relation to a debt mentioned in subsection (2) or award mentioned in subsection (3), as a reference to the written recommendation, decision, determination, award or order, as the case may be, relating to the debt or award.
+
+(b) An amount payable under this section in respect of a debt mentioned in subsection (2) (a) (ii) of this section as regards a particular period, shall not exceed the difference between the amount of any disability benefit or injury benefit payable under the Act of 1981 to the employee concerned as regards the period (together with, in either case, the amount of any pay-related benefit payable to such employee under the Act of 1981 as regards the period) and the lesser of—
+
+(i) the amount of the employee’s normal weekly remuneration as regards the period, or
+
+(ii) the amount that would, but for this section, be payable to the employee in accordance with paragraph (a) or (aa), as the case may be.
 
 (c) (i) A payment shall not be made under this section in respect of an amount which an employer is required to pay by virtue of a determination having been made under section 8 (1) or 9 (1) of the Act of 1977, unless—
 
@@ -190,13 +256,15 @@ Employees’ rights on insolvency of employer.
 
 (9) In this section—
 
-“normal weekly remuneration” has the meaning assigned to it by Schedule 3 to the Act of 1967 for the purposes of that Schedule save that any reference in that Schedule to the date on which an employee was declared redundant may, where appropriate, be construed as including a reference to the relevant date;
+“normal weekly remuneration” has the meaning assigned to it by Schedule 3 to the Act of 1967 for the purposes of that Schedule save that any reference in that Schedule to the date on which an employee was declared redundant may, where appropriate, be construed as including a reference to the relevant date or, where the relevant date falls after the date of termination of employment, the date of termination of employment;
 
 “the relevant date” means—
 
 (a) in relation to a debt which is an amount, damages, fine or compensation referred to in subparagraph (iii)(I), (v), (vi), (viii), (ix), (x), (xi), (xiii), (xiv), (xv), (xvi), (xvii), (xviii), (xix), (xx), (xxi), (xxii), (xxiii), (xxiv) , (xxv) , (xxvi) , (xxvii) , (xxviii) , (xxix) , (xxx) , (xxxi) or (xxxii) of subsection (2) (a) of this section, the date on which the relevant employer became insolvent or the date on which the relevant recommendation, decision, determination, award or order is made, whichever is the later,
 
 (aa) in relation to a debt referred to in subparagraph (iii)(II), the date of termination of employment,
+
+(ab) in relation to an employer deemed insolvent under section 4E, the date on which notice is served on the employer under section 4A,
 
 (b) in relation to any other debt to which this section applies—
 
