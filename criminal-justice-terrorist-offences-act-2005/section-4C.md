@@ -1,8 +1,8 @@
 Training for terrorism.
 
-4C. (1) For the purposes of this Part, training for terrorism means intentionally providing instruction or training in the skills of—
+4C. (1) For the purposes of this Part, a person provides training for terrorism if he or she provides instruction or training (in this section referred to as “relevant instruction or training”)—
 
-(a) making or using, for the purpose of committing, or contributing to the commission of, a terrorist activity—
+(a) in the making or use of—
 
 (i) firearms or explosives,
 
@@ -10,34 +10,52 @@ Training for terrorism.
 
 (iii) biological weapons, chemical weapons or prohibited weapons, or
 
-(iv) such other weapons, or noxious or hazardous substances, that may be used in a terrorist activity as the Minister may prescribe, or
+(iv) weapons, or noxious or hazardous substances, that belong to a class prescribed under paragraph (a) of subsection (3), or
 
-(b) such other techniques or methods for the purpose of committing, or contributing to the commission of, a terrorist activity as the Minister may prescribe, knowing that the skills provided are intended to be used by a person receiving the instruction or training for the purpose of committing, or contributing to the commission of, a terrorist activity.
+(b) in techniques, methods, skills or technical knowledge belonging to a class prescribed under paragraph (b) of subsection (3), to any person, knowing that the purpose of the relevant instruction or training is to enable the second-mentioned person to commit, or aid, abet, counsel or procure the commission of, a terrorist activity.
 
-(2) The Minister may, if he or she considers it appropriate to do so, make regulations for the purposes of subsection (1) and he or she shall—
+(2) For the purposes of this Part, a person receives training for terrorism if he or she receives relevant instruction or training knowing that the relevant instruction or training is for the purpose of enabling him or her to commit, or aid, abet, counsel or procure the commission of, a terrorist activity.
 
-(a) before making such regulations, consult with the Commissioner of the Garda Síochána, the Minister for Defence and such other Minister of the Government as the Minister considers appropriate having regard to the weapons, substances, techniques or methods concerned, and
+(3) (a) The Minister may prescribe—
 
-(b) in making such regulations, have regard to the following:
+(i) a class of weapon, or noxious or hazardous substance, or
 
-(i) the capability of the weapon, substance, technique or method concerned to cause the death of or serious bodily injury to persons or substantial material damage to property;
+(ii) classes of weapons, or noxious or hazardous substances, for the purposes of subsections (1) and (2).
 
-(ii) the capacity of the weapon, substance, technique or method concerned to be used for the purposes of a terrorist activity and the likelihood of it being so used;
+(b) The Minister may prescribe—
 
-(iii) the extent to which instruction or training—
+(i) a class of technique, method, skill or technical knowledge, or
 
-(I) in the making or use of the weapon or substance concerned, or
+(ii) classes of techniques, methods, skills or technical knowledge, for the purposes of subsections (1) and (2).
 
-(II) in the use of the technique or method concerned, is required for the making or use, as the case may be, of that weapon, substance, technique or method for the purpose of committing, or contributing to the commission of, a terrorist activity.
+(4) (a) The Minister shall, before making regulations under subsection (3), consult with the Commissioner of An Garda Síochána and the Minister for Defence.
 
-(3) In this section—
+(b) The Minister may, before making regulations under subsection (3), consult with such other Minister of the Government as the Minister considers appropriate.
 
-"biological weapon" and "prohibited weapon" have the same meanings as in the Biological Weapons Act 2011;
+(5) The Minister shall, when prescribing a class of weapon, or noxious or hazardous substance, under paragraph (a) of subsection (3), have regard to the capacity of a weapon, or noxious or hazardous substance, of that class to cause or contribute to—
 
-"chemical weapons" has the same meaning as in section 2 of the Chemical Weapons Act 1997;
+(a) the death of, or serious injury to, a person, or
 
-"explosive" means an explosive within the meaning of the Explosives Act 1875 and any other substance or thing that is an explosive substance within the meaning of the Explosive Substances Act 1883;
+(b) substantial material damage to property.
 
-"firearm" has the same meaning as in section 1 of the Firearms Act 1925;
+(6) The Minister shall, when prescribing a class of technique, method, skill or technical knowledge under paragraph (b) of subsection (3), have regard to the potential for the application or deployment of techniques, methods, skills or technical knowledge of that class in the commission of a terrorist activity.
 
-"nuclear material" has the same meaning as in section 2 of the Radiological Protection Act 1991.
+(7) In this section—
+
+“Act of 2011” means the Biological Weapons Act 2011;
+
+“biological weapon” means a microbial or other biological agent or toxin within the meaning of the Act of 2011;
+
+“chemical weapons” has the meaning assigned to it by the Chemical Weapons Act 1997;
+
+“explosive” means—
+
+(a) an explosive within the meaning of the Explosives Act 1875, or
+
+(b) an explosive substance within the meaning of the Explosive Substances Act 1883;
+
+“firearm” has the meaning assigned to it by the Firearms Act 1925;
+
+“nuclear material” has the meaning assigned to it by Article 1 of the Convention on the Physical Protection of Nuclear Material done at Vienna on 26 October 1979, the text of which is set out in the Fourth Schedule to the Radiological Protection Act 1991;
+
+“prohibited weapon” has the meaning assigned to it by the Act of 2011.
