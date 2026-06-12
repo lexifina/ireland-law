@@ -1,6 +1,6 @@
 Power to dispense with conditions of naturalisation in certain cases.
 
-16. —(1) The Minister may, in his absolute discretion, grant an application for a certificate of naturalisation in the following cases, although the conditions for naturalisation (or any of them) are not complied with:
+16.—(1) The Minister may, in his absolute discretion, grant an application for a certificate of naturalisation in the following cases, although the conditions for naturalisation (or any of them) are not complied with:
 
 (a) where the applicant is of Irish descent or Irish associations;
 

@@ -1,6 +1,6 @@
 Certificates of nationality.
 
-28. —(1) Any person who claims to be an Irish citizen, other than a naturalised Irish citizen, may apply to the Minister or, if resident outside the island of Ireland, to any Irish diplomatic officer or consular officer for a certificate of nationality stating that the applicant is, at the date of the certificate, an Irish citizen; and the Minister or officer, if satisfied that—
+28.—(1) Any person who claims to be an Irish citizen, other than a naturalised Irish citizen, may apply to the Minister or, if resident outside the island of Ireland, to any Irish diplomatic officer or consular officer for a certificate of nationality stating that the applicant is, at the date of the certificate, an Irish citizen; and the Minister or officer, if satisfied that—
 
 (a) the applicant is an Irish citizen, and
 

@@ -2,7 +2,7 @@
 
 Mutual citizenship rights.
 
-26. —(1) Where the Government are satisfied that under the law of another country (whether by virtue of a convention between that country and the State or otherwise) Irish citizens enjoy in that country some or all of the rights and privileges of a citizen of that country, the Government may by order (in this section referred to as a citizenship rights order) declare that citizens of that country shall enjoy in the State similar citizenship rights and privileges to those enjoyed by Irish citizens in that country, but subject to such conditions (if any) as the Government may think fit to impose.
+26.—(1) Where the Government are satisfied that under the law of another country (whether by virtue of a convention between that country and the State or otherwise) Irish citizens enjoy in that country some or all of the rights and privileges of a citizen of that country, the Government may by order (in this section referred to as a citizenship rights order) declare that citizens of that country shall enjoy in the State similar citizenship rights and privileges to those enjoyed by Irish citizens in that country, but subject to such conditions (if any) as the Government may think fit to impose.
 
 (2) Every citizenship rights order shall have effect in accordance with its terms.
 
