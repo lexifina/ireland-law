@@ -20,9 +20,11 @@ Permission to land.
 
 (i) a deportation order (within the meaning of the Act of 1999),
 
-(ii) an exclusion order (within the meaning of that Act), or
+(ii) an exclusion order (within the meaning of that Act), ...
 
-(iii) a determination by the Minister that it is conducive to the public good that he or she remain outside the State;
+(iii) a determination by the Minister that it is conducive to the public good that he or she remain outside the State, or
+
+(iv) a return decision or entry ban notice that is in effect under Part 11 of the International Protection Act 2026;
 
 (g) that the non-national is not in possession of a valid passport or other equivalent document, issued by or on behalf of an authority recognised by the Government, which establishes his or her identity and nationality;
 
@@ -40,7 +42,7 @@ Permission to land.
 
 (l) that the non-national—
 
-(i) is a person to whom leave to enter or leave to remain in a territory (other than the State) of the Common Travel Area (within the meaning of the International Protection Act 2015) applied at any time during the period of 12 months immediately preceding his or her application, in accordance with subsection (2), for a permission,
+(i) is a person to whom leave to enter or leave to remain in a territory (other than the State) of the Common Travel Area ... applied at any time during the period of 12 months immediately preceding his or her application, in accordance with subsection (2), for a permission,
 
 (ii) travelled to the State from any such territory, and
 
