@@ -10,6 +10,8 @@ Interpretation
 
 “Act of 2015” means the International Protection Act 2015;
 
+“Act of 2026” means the International Protection Act 2026;
+
 “application for financial support” means an application for financial support under section 9;
 
 “applicant” means a person who has made an application under section 9;
