@@ -1,6 +1,6 @@
 Registry of births abroad.
 
-27. —(1) A foreign births entry book shall be kept at such Irish diplomatic missions and consular offices as the Minister for Foreign Affairs may, from time to time, specify in regulations.
+27.—(1) A foreign births entry book shall be kept at such Irish diplomatic missions and consular offices as the Minister for Foreign Affairs may, from time to time, specify in regulations.
 
 (1A) A foreign births register shall be kept in the Department of Foreign Affairs in Dublin.
 

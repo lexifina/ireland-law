@@ -1,6 +1,6 @@
 Definitions.
 
-2. —(1) In this Act—
+2.—(1) In this Act—
 
 “the Act of 1935” means the Irish Nationality and Citizenship Act, 1935 (No. 13 of 1935);
 

@@ -1,6 +1,6 @@
 Revocation of certificates of naturalisation.
 
-19. —(1) The Minister may revoke a certificate of naturalisation if he is satisfied—
+19.—(1) The Minister may revoke a certificate of naturalisation if he is satisfied—
 
 (a) that the issue of the certificate was procured by fraud, misrepresentation whether innocent or fraudulent, or concealment of material facts or circumstances, or
 

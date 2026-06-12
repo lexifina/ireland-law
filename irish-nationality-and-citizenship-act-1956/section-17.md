@@ -1,6 +1,6 @@
 Form of application.
 
-17. —An application for a certificate of naturalisation shall be—
+17.—An application for a certificate of naturalisation shall be—
 
 (a) in the prescribed form, and
 
