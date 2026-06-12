@@ -1,0 +1,5 @@
+An Act to provide for the grant of employment permits to certain foreign nationals for the purpose of permitting such persons to be in employment in the State; to prohibit the employment in the State of certain foreign nationals who do not have such permits; to impose certain restrictions and conditions in respect of the grant of such permits; to enable the Minister for Enterprise, Trade and Employment to make, having regard to certain matters, regulations to impose certain other restrictions and conditions in respect of the grant of such permits; to provide for the enforcement of provisions of this Act and the imposition of penalties for contraventions of this Act; to provide for civil proceedings to recompense certain foreign nationals for work done or services rendered in certain circumstances; to otherwise regulate the employment in the State of certain foreign nationals; to repeal the Employment Permits Act 2003 and the Employment Permits Act 2006; to provide for consequential amendment to certain other enactments; and to provide for related matters.
+
+## [25th June, 2024]
+
+Be it enacted by the Oireachtas as follows:
