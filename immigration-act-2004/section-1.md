@@ -6,6 +6,8 @@ Interpretation.
 
 “the Act of 1999” means the Immigration Act 1999;
 
+"Common Travel Area" means the State, the United Kingdom of Great Britain and Northern Ireland, the Channel Islands and the Isle of Man;
+
 “embarking” includes departure by any form of conveyance and departure over a land frontier;
 
 “Great Britain” includes the Channel Islands and the Isle of Man;
