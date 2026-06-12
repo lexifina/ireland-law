@@ -12,11 +12,7 @@ Agreements relating to performance of certain functions
 
 (6) The conferral on a person by an agreement under this section of a function of the scheme administrator shall not remove or derogate from the scheme administrator’s responsibility to the Minister for the performance of the function.
 
-(7) Before entering an agreement under
-
-## subsection (1)
-
-the scheme administrator shall, in relation to the agreement and any terms and conditions contained therein—
+(7) Before entering an agreement under subsection (1) the scheme administrator shall, in relation to the agreement and any terms and conditions contained therein—
 
 (a) consult with the Minister, and
 
