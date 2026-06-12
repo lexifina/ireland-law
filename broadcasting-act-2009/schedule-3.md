@@ -118,4 +118,6 @@ HARMFUL ONLINE CONTENT: OFFENCE-SPECIFIC CATEGORIES
 
 44. Online content by which a person publishes or broadcasts identifying material contrary to section 46 of the Criminal Justice (Miscellaneous Provisions) Act 2023.
 
+45. Online content by which a person publishes or broadcasts information, contrary to section 278(1) of the International Protection Act 2026 (prohibition on publication or broadcast of certain information).
+
 Sections 139ZK(3), 139ZR(3) and (4) or 139ZU(2)(a).
