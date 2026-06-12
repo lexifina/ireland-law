@@ -1,6 +1,6 @@
-F48[Guidelines relating to confidentiality of family mediation.
+F54[Guidelines relating to confidentiality of family mediation.
 
-36B.— (1) The Board shall, with the consent of the Minister, make guidelines with the objective of preventing the disclosure of communications referred to in section 36A.
+36B.—(1) The Board shall, with the consent of the Minister, make guidelines with the objective of preventing the disclosure of communications referred to in section 36A.
 
 (2) Guidelines made under subsection (1) shall include provisions relating to—
 

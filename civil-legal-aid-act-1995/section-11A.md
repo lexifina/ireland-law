@@ -1,6 +1,6 @@
-F13[Appointment of persons to provide family mediation services or training in relation to such services.
+F18[Appointment of persons to provide family mediation services or training in relation to such services.
 
-11A.— (1) The Board may appoint persons who it considers to be qualified by reason of training and experience, to provide family mediation services on its behalf or to provide training in family mediation.
+11A.—(1) The Board may appoint persons who it considers to be qualified by reason of training and experience, to provide family mediation services on its behalf or to provide training in family mediation.
 
 (2) A person appointed pursuant to subsection (1) shall not be an officer or member of the staff of the Board.
 

@@ -1,4 +1,4 @@
-F9[Accountability of Chief Executive to other Oireachtas Committees.
+F14[Accountability of Chief Executive to other Oireachtas Committees.
 
 10B.—(1) In this section, "Committee" means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than a Committee referred to in section 10A or the Committee of Members’ Interests of Dáil Éireann or the Committee of Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
 
