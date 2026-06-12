@@ -38,7 +38,7 @@ Interpretation (Part 2)
 
 “scheme termination date” means 31 March 2023 or such later date as may be specified by the Minister in an order made by him or her under subsection (2);
 
-“temporary protection beneficiary” means a person to whom section 60 of the International Protection Act 2015 applies on foot of Council Implementing Decision (EU) 2022/382 of 4 March 2022 and who has been given a permission to reside in the State under subsection (6) of that section, which permission is valid;
+“temporary protection beneficiary” means a person to whom section 60 of the International Protection Act 2015, or section 237 of the International Protection Act 2026, applies on foot of Council Implementing Decision (EU) 2022/382 of 4 March 2022 and who has been given a permission to reside in the State under section 60 (6) of the International Protection Act 2015 or section 237 (8) of the International Protection Act 2026, as the case may be, which permission is valid;
 
 "tenancy" means a tenancy in existence on, or at any time since, 4 March 2022—
 

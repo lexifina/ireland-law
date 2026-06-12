@@ -6,6 +6,8 @@ Interpretation.
 
 “the Act of 1977” means the European Assembly Elections Act, 1977;
 
+"Act of 2026" means the International Protection Act 2026;
+
 "applicant" means, subject to subsection (1A), a person who makes an application for legal aid or advice, or both;
 
 “application” means an application for legal aid or advice or both;
@@ -47,6 +49,8 @@ Interpretation.
 “legal advice” has the meaning assigned to it by section 25;
 
 “legal aid” has the meaning assigned to it by section 27;
+
+"legal counselling" has the same meaning as it has in the Act of 2026;
 
 “the Minister” means the Minister for Equality and Law Reform;
 

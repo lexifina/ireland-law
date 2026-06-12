@@ -22,9 +22,19 @@ Membership of Tribunal
 
 (iv) as a legal academic, where the person is, at the time of his or her appointment, a solicitor or qualified barrister.
 
+(2A) Where a person stands appointed as an Appeals Officer (within the meaning of Part 13 of the International Protection Act 2026), the period of such appointment shall, notwithstanding subsection (2), be deemed to be reckonable for the purpose of calculating a period of appropriate experience as specified in that subsection.
+
 (3) Subject to subsection (4), the Minister shall appoint the members of the Tribunal.
 
-(4) Subject to subsections (8) and (15), the Minister shall not appoint a member of the Tribunal unless the Public Appointments Service, after holding a competition under section 47 of the Public Service Management (Recruitment and Appointments) Act 2004, has selected him or her for appointment to the position.
+(4) Subject to subsections (4A), (8) and (15), the Minister shall not appoint a member of the Tribunal unless the Public Appointments Service, after holding a competition under section 47 of the Public Service Management (Recruitment and Appointments) Act 2004, has selected him or her for appointment to the position.
+
+(4A) The Minister may, notwithstanding subsection (4), appoint a person under subsection (3) as a member of the Tribunal (other than the chairperson) without a selection competition having been held by the Public Appointments Service under subsection (4) where the person—
+
+(a) stands appointed as an Appeals Officer (within the meaning of Part 13 of the International Protection Act 2026),
+
+(b) has the requisite experience referred to in subsection (2)(a) or (b), and
+
+(c) consents to being so appointed.
 
 (5) Subsection (4) shall not apply to the reappointment of a member, in accordance with subsection (7), for a second term.
 
@@ -45,6 +55,8 @@ Membership of Tribunal
 (7A) Notwithstanding subsection (7), a member of the Tribunal who has been reappointed for a second term is otherwise eligible for appointment by way of competition in accordance with subsection (4).
 
 (7B) Where, immediately before the coming into operation of section 72 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023, a member of the Tribunal, other than the chairperson or a deputy chairperson, stands appointed or reappointed, as the case may be, to the Tribunal, in a whole-time or a part-time capacity, the person shall be deemed to have been appointed or reappointed, as the case may be, for a term of office of 5 years from the date on which he or she was so appointed or reappointed, as the case may be.
+
+(7C) The term of office of a member of the Tribunal to whom subsection (4A) applies shall be for a period not exceeding the unexpired term of the person’s appointment as an Appeals Officer under Part 13 of the International Protection Act 2026.
 
 (8) Where the chairperson is for any reason temporarily unable to act as the chairperson, or the office of the chairperson is vacant, the Minister shall appoint a deputy chairperson to be the chairperson for the duration of the inability or until an appointment is made under subsection (4), as appropriate, and the person so appointed may perform all the functions conferred on the chairperson by this Act.
 

@@ -6,7 +6,25 @@ Examination and detention of non-nationals.
 
 (3) (a) Any non-national landing or embarking at any place in the State shall, on being required so to do by an immigration officer or a member of the Garda Síochána, make a declaration as to whether or not he or she is carrying or conveying any documents and, if so required, shall produce them to the officer or member.
 
-(b) The officer or member may search any such non-national and any luggage belonging to him or her or under his or her control with a view to ascertaining whether the non-national is carrying or conveying any documents and may examine and detain, for such time as he or she may think proper for the purpose of such examination, any documents so produced or found on the search.
+(b) An immigration officer or a member of An Garda Síochána may search a non-national of whom a requirement is made under paragraph (a) and any luggage belonging to the non-national or under the non-national’s control with a view to ascertaining whether the non-national is carrying or conveying any documents, where—
+
+(i) it is reasonably necessary for the purpose of the enforcement of section 4, or
+
+(ii) the immigration officer or member of An Garda Síochána reasonably suspects the person has committed an offence.
+
+(ba) An immigration officer or member of An Garda Síochána may examine and retain any document produced under paragraph (a) or found on a search under paragraph (b) for as long as an officer or member considers it reasonably necessary for the purpose of the enforcement of section 4 or for as long as an officer or member reasonably suspects it to be evidence of or relating to any offence.
+
+(bb) A person who is subject to a requirement under paragraph (a) shall, if so required by an immigration officer or a member of An Garda Síochána, provide all reasonable assistance in relation to the operation of devices in which the documents are stored or access to the documents stored in those devices, including—
+
+(i) providing the documents to an immigration officer or a member of An Garda Síochána in a form in which the documents can be taken away from the place and in which the documents are, or can be made, legible and comprehensible,
+
+(ii) giving to the immigration officer or member of An Garda Síochána any password necessary to make the documents concerned legible and comprehensible, or
+
+(iii) otherwise enabling the immigration officer or member of An Garda Síochána to examine the documents in a form in which the document is legible and comprehensible.
+
+(bc) A search of a non-national’s person under paragraph (b) shall be carried out by a person of the same sex as the non-national.
+
+(bd) An immigration officer or a member of An Garda Síochána shall inform the non-national of the reasons for the search before conducting the search.
 
 (c) In this section, “documents” includes—
 
@@ -21,3 +39,13 @@ Examination and detention of non-nationals.
 (v) any audio or video recording.
 
 (4) A non-national who contravenes subsection (3) shall be guilty of an offence.
+
+(5) The Minister may by regulations provide for—
+
+(a) the maximum period documents may be retained for under subsection (3)(ba),
+
+(b) the records that must be kept by the Minister or An Garda Síochána, as the case may be, of searches conducted under subsection (3),
+
+(c) the information which must be provided by an immigration officer or a member of An Garda Síochána to the person being searched under subsection (3), including information as to how the person being searched can make a complaint in relation to the search or the retention of documents, and
+
+(d) such other matters as the Minister considers necessary or expedient for the purposes of subsection (3).

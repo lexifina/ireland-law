@@ -6,6 +6,8 @@ Duty of applicant to cooperate
 
 (a) to submit as soon as reasonably practicable all the information needed to substantiate his or her application,
 
+(aa) to remain present and available in the State throughout the examination of the application,
+
 (b) to co-operate in the examination of his or her application and in the determination of his or her appeal in relation to that application, if any, and
 
 (c) to comply with all of the other obligations under Parts 3 to 6 of an applicant in relation to his or her application.

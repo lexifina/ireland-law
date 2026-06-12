@@ -18,6 +18,12 @@ Payment of financial support
 
 (iiia) a person who has been given a permission to reside in the State under section 60(6) of the Act of 2015, which permission is valid, or
 
+(iiib) an applicant within the meaning of section 2(1) of the Act of 2026, or a person deemed to have made an application under that Act, or
+
+(iiic) a person who is a programme refugee within the meaning of Part 12 of the Act of 2026, or
+
+(iiid) a person who has been given a permission to reside in the State under section 237(8) of the Act of 2026, where the permission concerned is in force, or
+
 (iv) a national of a Member State of the European Union, of the Swiss Confederation or of a State which is a contracting State to the EEA Agreement, or
 
 (iva) a citizen of the United Kingdom of Great Britain and Northern Ireland, or

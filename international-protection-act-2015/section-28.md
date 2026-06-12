@@ -4,25 +4,7 @@ Assessment of facts and circumstances
 
 (2) The Tribunal shall, for the purposes of an appeal under section 41 in co-operation with the applicant, assess the relevant elements of the application.
 
-(3) The elements referred to in subsections (1) and (2) consist of the applicant’s statements and all the documents submitted by him or her regarding his or her—
-
-(a) age,
-
-(b) background, including that of relevant relatives,
-
-(c) identity,
-
-(d) nationality or nationalities,
-
-(e) country or countries, and place or places, of previous residence,
-
-(f) previous asylum applications, whether made in the State or outside it,
-
-(g) travel routes,
-
-(h) identity and travel documents, and
-
-(i) reasons for applying for international protection.
+(3) The elements referred to in subsections (1) and (2) consist of the applicant’s statements and all the documents submitted by the applicant regarding the matters referred to in point (b) of Article 4(2) of the Qualification Regulation.
 
 (4) The assessment, by the international protection officer of an application, and by the Tribunal of an appeal under section 41, shall be carried out on an individual basis and shall include taking into account the following:
 
@@ -58,6 +40,6 @@ Assessment of facts and circumstances
 
 (c) the applicant’s statements are found to be coherent and plausible and do not run counter to available specific and general information relevant to the applicant’s case,
 
-(d) the applicant has applied for international protection at the earliest possible time, unless the applicant can demonstrate good reason for not having done so, and
+(d) ...
 
-(e) the general credibility of the applicant has been established.
+(e) the general credibility of the applicant has been established taking into account the time at which the applicant applied for international protection.

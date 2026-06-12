@@ -48,7 +48,7 @@ Interpretation
 
 (f) a travel document or an identity document;
 
-“Dublin Regulation” means Regulation (EU) No 604/2013 of the European Parliament and of the Council of 26 June 2013
+“Dublin Regulation” means Regulation (EU) No 604/2013 of the European Parliament and of the Council of 26 June 2013or any Regulation amending or replacing that Regulation;
 
 “Dublin System Regulations” means any statutory instrument made by a Minister of the Government for the purpose of giving effect to the Dublin Regulation;
 
@@ -70,11 +70,7 @@ Interpretation
 
 (b) personal information, including biometric information;
 
-“international protection” means status in the State either—
-
-(a) as a refugee, on the basis of a refugee declaration, or
-
-(b) as a person eligible for subsidiary protection, on the basis of a subsidiary protection declaration;
+"international protection" has the meaning it has in the Qualification Regulation;
 
 “international protection officer” means a person who is authorised under section 74 to perform the functions conferred on an international protection officer by or under this Act;
 
@@ -84,17 +80,9 @@ Interpretation
 
 “Minister” means the Minister for Justice and Equality;
 
-“persecution” shall be construed in accordance with section 7;
+"persecution" shall be construed in accordance with the Qualification Regulation;
 
-“person eligible for subsidiary protection” means a person—
-
-(a) who is not a national of a Member State of the European Union,
-
-(b) who does not qualify as a refugee,
-
-(c) in respect of whom substantial grounds have been shown for believing that he or she, if returned to his or her country of origin, would face a real risk of suffering serious harm and who is unable or, owing to such risk, unwilling to avail himself or herself of the protection of that country, and
-
-(d) who is not excluded under section 12 from being eligible for subsidiary protection;
+"person eligible for subsidiary protection" has the meaning it has in the Qualification Regulation;
 
 “personal interview” means an interview held under section 35(1);
 
@@ -102,17 +90,17 @@ Interpretation
 
 “prescribed” means prescribed by regulations made by the Minister;
 
-“protection” (except where the context otherwise requires) means protection against persecution or serious harm and shall be construed in accordance with section 31;
+"protection" (except where the context otherwise requires) means protection against persecution or serious harm and shall be construed in accordance with Article 7 of the Qualification Regulation;
 
-“qualified person” means a person who is either—
+"Qualification Regulation" means Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Directive 2011/95/EU of the European Parliament and of the Council;
 
-(a) a refugee and in relation to whom a refugee declaration is in force, or
+...
 
-(b) a person eligible for subsidiary protection and in relation to whom a subsidiary protection declaration is in force;
-
-“refugee” means a person, other than a person to whom section 10 applies, who, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, political opinion or membership of a particular social group, is outside his or her country of nationality and is unable or, owing to such fear, is unwilling to avail himself or herself of the protection of that country, or a stateless person, who, being outside of the country of former habitual residence for the same reasons as mentioned above, is unable or, owing to such fear, unwilling to return to it;
+"refugee" has the meaning it has in the Qualification Regulation;
 
 “refugee declaration” means a statement, made in writing by the Minister, declaring that the person to whom it relates is a refugee;
+
+OJ L, 2024/1347, 22.5.2024
 
 “registered medical practitioner” means a person who is a registered medical practitioner within the meaning of section 2 of the Medical Practitioners Act 2007;
 
@@ -128,13 +116,7 @@ Interpretation
 
 "safe third country" means a country that has been designated under section 72A as a safe third country;
 
-“serious harm” means—
-
-(a) death penalty or execution,
-
-(b) torture or inhuman or degrading treatment or punishment of a person in his or her country of origin, or
-
-(c) serious and individual threat to a civilian’s life or person by reason of indiscriminate violence in a situation of international or internal armed conflict;
+"serious harm" has the meaning it has in Article 15 of the Qualification Regulation;
 
 “serious non-political crime” includes particularly cruel actions, even if committed with an allegedly political objective;
 

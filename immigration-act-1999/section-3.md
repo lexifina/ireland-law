@@ -44,7 +44,9 @@ Deportation orders.
 
 (4A) The provisions of subsection (4)(b) shall not apply where—
 
-(a) the person has been by a final judgment convicted in the State of a serious offence, or
+(a) the person has been by a final judgment convicted in the State of a serious offence, ...
+
+(aa) the person has been, by a final judgment, convicted outside the State of an offence which, were the act or omission constituting that offence done or made in the State, would constitute a serious offence under the law of the State, or
 
 (b) the Minister is of the opinion that there are reasonable grounds for regarding the person as a danger to the security of the State.
 

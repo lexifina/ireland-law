@@ -18,7 +18,7 @@ Section 2
 
 (f) a children detention school within the meaning of section 3 of the Children Act 2001,
 
-(g) a reception or accommodation centre which provides residential accommodation services to applicants for asylum under contract to the Department of Justice and Equality where children may be accommodated, or
+(g) an accommodation centre within the meaning of Part 4 of the International Protection Act 2026 or a designated centre within the meaning of Chapter 2 of Part 11 of that Act, or
 
 (h) a centre which provides residential accommodation services to victims of domestic violence where children may be accommodated.
 
@@ -43,3 +43,9 @@ Section 2
 8. Any work or activity as a driver of, or as an assistant to the driver, or as a conductor, or as a supervisor of children using a vehicle which is being hired or used only for the purpose of conveying children who are unaccompanied by a parent or guardian.
 
 9. Any work or activity which is carried out by a member of An Garda Síochána, a necessary and regular part of which consists mainly of the person having access to, or contact with, children.
+
+10. Any work or activity which is carried out in relation to an unaccompanied minor, within the meaning of the International Protection Act 2026, by—
+
+(a) a provisional representative person or a representative person in accordance with Chapter 2 of Part 3 of that Act, or
+
+(b) an international protection guardian in accordance with section 202(1)(e) of that Act.

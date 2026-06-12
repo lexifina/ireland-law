@@ -52,9 +52,19 @@ Residence in the island of Ireland for the purposes of section 6A.
 
 (a) it is in contravention of section 5(1) of the Act of 2004,
 
-(b) it is in accordance with a permission given to a person under section 4 of the Act of 2004 for the purpose of enabling him or her to engage in a course of education or study in the State, or
+(b) it is in accordance with a permission given to a person under section 4 of the Act of 2004 for the purpose of enabling him or her to engage in a course of education or study in the State,
 
-(c) it consists of a period during which a person (other than a person who was, during that period, a national of a Member State, an EEA state or the Swiss Confederation) referred to in subsection (1) of section 16 of the International Protection Act 2015 is entitled to remain in the State in accordance only with the said subsection.
+(c) it consists of a period during which a person (other than a person who was, during that period, a national of a Member State, an EEA state or the Swiss Confederation) referred to in subsection (1) of section 16 of the International Protection Act 2015 is entitled to remain in the State in accordance only with the said subsection, or
+
+(d) it consists of a period during which a person is—
+
+(i) an applicant within the meaning of Regulation (EU) 2024/1348 of the European Parliament and of the Council of 14 May 2024 establishing a common procedure for international protection in the Union and repealing Directive 2013/32/EU,
+
+(ii) the subject of a return decision under Part 11 of the International Protection Act 2026,
+
+(iii) the subject of a decision to withdraw international protection status in accordance with section 214 (1) or (2) of the International Protection Act 2026 that has taken effect in accordance with section 215 (3) of that Act, which period shall end on the commencement by the person of a period of residence to which this subsection does not apply, or
+
+(iv) entitled to remain in the State pursuant to a permission referred to in paragraph (e) of section 236 (1) of the International Protection Act 2026.
 
 (5) A period of residence in Northern Ireland shall not be reckonable for the purposes of calculating a period of residence under section 6A—
 
