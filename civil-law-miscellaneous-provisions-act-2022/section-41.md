@@ -12,6 +12,8 @@ Interpretation (Part 5)
 
 “Act of 2018” means the Data Protection Act 2018;
 
+“Act of 2026” means the International Protection Act 2026;
+
 “Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “enactment” has the same meaning as it has in the Interpretation Act 2005;
@@ -24,7 +26,7 @@ Interpretation (Part 5)
 
 (c) the acquisition of Irish citizenship;
 
-“international protection” has the same meaning as it has in the Act of 2015;
+“international protection” has the same meaning as it has in the Act of 2026;
 
 “personal data” has the same meaning as it has in the Data Protection Regulation;
 
@@ -33,6 +35,8 @@ Interpretation (Part 5)
 “relevant immigration enactment” means—
 
 (a) section 60 of the Act of 2015,
+
+(aa) section 237 of the Act of 2026,
 
 (b) section 9 of the Act of 2004, and
 

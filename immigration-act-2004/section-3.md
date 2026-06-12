@@ -14,4 +14,4 @@ Appointment of officers.
 
 (7) The terms and conditions referred to in subsection (1) may include terms and conditions relating to the period for which a person appointed under this section shall hold office.
 
-(8) An immigration officer appointed under subsection (1) shall be furnished with a warrant of appointment and shall, when performing any function conferred on him or her by this Act, if requested by a person affected, produce the warrant of appointment or a copy of it to that person.
+(8) An immigration officer appointed under subsection (1) shall be furnished with a warrant of appointment and shall, when performing any function conferred on him or her by this Act or the International Protection Act 2026, if requested by a person affected, produce the warrant of appointment or a copy of it to that person.

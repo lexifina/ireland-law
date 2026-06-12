@@ -24,6 +24,8 @@ Regulations.
 
 (fd) make provision for the mechanism for recovery of the costs referred to in section 33(7B);
 
+(fe) make provision as to the conditions relating to the provision of legal counselling by the Board;
+
 (g) make provision as to the duties of solicitors of the Board;
 
 (h) make provision as to the refund of costs to persons in receipt of legal aid or advice;

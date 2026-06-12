@@ -10,6 +10,8 @@ Presence in State of non-nationals.
 
 (b) a refugee who is the holder of a declaration (within the meaning of that Act) which is in force,
 
-(c) a member of the family of a refugee to whom section 18(3)(a) of that Act applies, or
+(c) a member of the family of a refugee to whom section 18(3)(a) of that Act applies, ...
 
-(d) a programme refugee within the meaning of section 24 of that Act.
+(d) a programme refugee within the meaning of section 24 of that Act, or
+
+(e) a person who has the right to remain in the State in accordance with Regulation (EU) 2024/1348 of the European Parliament and of the Council of 14 May 2024 establishing a common procedure for international protection in the Union and repealing Directive 2013/32/EU as amended by Regulation (EU) 2026/463 of the European Parliament and of the Council of 24 February 2026 and Regulation (EU) 2026/464 of the European Parliament and of the Council of 24 February 2026, and the International Protection Act 2026.

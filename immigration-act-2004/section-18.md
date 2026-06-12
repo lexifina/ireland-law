@@ -4,7 +4,7 @@ Service of notices.
 
 (a) by delivering it to him or her,
 
-(b) by sending it by post in a prepaid registered letter, or by any other form of recorded delivery service prescribed by the Minister, addressed to him or her at the address most recently furnished by him or her to a registration officer pursuant to section 9, or to the Minister pursuant to section 16 (3)(c) of the International Protection Act 2015, as the case may be or, in a case in which an address for service has been furnished, at that address, or
+(b) by sending it by post in a prepaid registered letter, or by any other form of recorded delivery service prescribed by the Minister, addressed to him or her at the address most recently furnished by him or her to a registration officer pursuant to section 9, or to the Minister pursuant to section 16 (3)(c) of the International Protection Act 2015 or section 65(2)(b) of the International Protection Act 2026, as the case may be or, in a case in which an address for service has been furnished, at that address, or
 
 (c) by sending it by electronic means in accordance with subsection (1A), in a case in which he or she has given notice in writing to the Minister or to a registration officer of his or her consent to it (or notices of a class to which it belongs) being served on or given to him or her in that manner.
 
