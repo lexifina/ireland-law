@@ -1,6 +1,6 @@
 Confidentiality of information disclosed in course of family mediation.
 
-36A.— (1) Any communication (including any record of such communication) between any of the parties to a family mediation provided by the Board or provided by other persons appointed for that purpose by the Board under this Act, and a third party, including a mediator, for the purposes of attempting to reach agreement relating to such of the following matters as relate to the parties to the mediation—
+36A.—(1) Any communication (including any record of such communication) between any of the parties to a family mediation provided by the Board or provided by other persons appointed for that purpose by the Board under this Act, and a third party, including a mediator, for the purposes of attempting to reach agreement relating to such of the following matters as relate to the parties to the mediation—
 
 (a) a separation,
 
