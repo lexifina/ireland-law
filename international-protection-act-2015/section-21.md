@@ -84,7 +84,7 @@ Inadmissible application
 
 (b) will be re-admitted to that country.
 
-(16) In subsection (2)(a), “refugee status” and “subsidiary protection status” shall be construed in accordance with Article 2 of Council Directive 2004/83/EC.
+(16) In subsection (2)(a), "refugee status" and "subsidiary protection status" shall be construed in accordance with Article 3 of the Qualification Regulation.
 
 (17) For the purposes of this section, a safe third country is a safe country for a person if he or she—
 
