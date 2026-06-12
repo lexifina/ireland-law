@@ -58,13 +58,13 @@ Amendment of Refugee Act 1996.
 
 (d) by the substitution of the following section for section 9A:
 
-“Powers of
+“Powers
 
-9A.—(1) An authorised officer, a member of the Garda Síochána or authorised an immigration officer may, for the purposes of this Act, take or cause officers and to be taken the fingerprints of an applicant. immigration officers.
+9A.—(1) An authorised officer, a member of the Garda Síochána or an of immigration officer may, for the purposes of this Act, take or cause to author- be taken the fingerprints of an applicant. ised
 
-(2) Fingerprints shall not be taken under this section from a person under the age of 14 years except in the presence of a person who is—
+(2) Fingerprints shall not be taken under this section from a person officers under the age of 14 years except in the presence of a person who is— and immigra-
 
-(a) a parent or a person who is acting in loco parentis; or
+(a) a parent or a person who is acting in loco parentis; or tion officers.
 
 (b) an officer of the health board or other person appointed by the health board under section 8(5)(b).
 
@@ -130,9 +130,9 @@ Amendment of Refugee Act 1996.
 
 (f) by the insertion of the following sections after section 11:
 
-“Burden of
+“Burden
 
-11A.—(1) Where, at any time during the investigation of an application proof. by the Commissioner under section 11, it appears to him or her that an applicant—
+11A.—(1) Where, at any time during the investigation of an application of by the Commissioner under section 11, it appears to him or her that an proof. applicant—
 
 (a) is a national of, or has a right of residence in, a country standing designated by order under section 12(4) as a safe country of origin, or
 
@@ -142,9 +142,9 @@ Amendment of Refugee Act 1996.
 
 (3) Where an applicant appeals against a recommendation of the Commissioner under section 13, it shall be for him or her to show that he or she is a refugee.
 
-Credibility.
+Credibil-
 
-11B.—The Commissioner or the Tribunal, as the case may be, in assessing the credibility of an applicant for the purposes of the investigation of his or her application or the determination of an appeal in respect of his or her application, shall have regard to the following:
+11B.—The Commissioner or the Tribunal, as the case may be, in ity. assessing the credibility of an applicant for the purposes of the investigation of his or her application or the determination of an appeal in respect of his or her application, shall have regard to the following:
 
 (a) whether the applicant possesses identity documents, and, if not, whether he or she has provided a reasonable explanation for the absence of such documents;
 
@@ -174,15 +174,15 @@ Credibility.
 
 Duty to
 
-11C.—(1) It shall be the duty of an applicant to co-operate in the co-operate. investigation of his or her application and in the determination of his or her appeal, if any.
+11C.—(1) It shall be the duty of an applicant to co-operate in the co-oper- investigation of his or her application and in the determination of his ate. or her appeal, if any.
 
 (2) In compliance with subsection (1), an applicant shall furnish to the Commissioner or the Tribunal, as may be appropriate, as soon as reasonably practicable, all information in his or her possession, control or procurement relevant to his or her application.”,
 
 (g) by the substitution of the following section for section 12:
 
-“Prioritisation
+“Prior-
 
-12.—(1) Subject to the need for fairness and efficiency in dealing of with applications for a declaration under this Act, the Minister may, applications. where he or she considers it necessary or expedient to do so, give a direction in writing to the Commissioner or the Tribunal or to both requiring either or both of them, as the case may be, to accord priority to certain classes of applications determined by reference to one or more of the following matters:
+12.—(1) Subject to the need for fairness and efficiency in dealing with itisa- applications for a declaration under this Act, the Minister may, where he tion or she considers it necessary or expedient to do so, give a direction in of writing to the Commissioner or the Tribunal or to both requiring either or applic- both of them, as the case may be, to accord priority to certain classes of a- applications determined by reference to one or more of the following tions. matters:
 
 (a) the grounds of applications under section 8,
 
@@ -238,11 +238,11 @@ Duty to
 
 (h) by the substitution of the following section for section 13:
 
-“Recommendations
+“Recom-
 
-13.—(1) Where the Commissioner carries out an investigation and reports of under section 11 he or she shall, as soon as may be, prepare a
+13.—(1) Where the Commissioner carries out an investigation under menda- section 11 he or she shall, as soon as may be, prepare a report in writing tions of the results of the investigation and such report shall refer to the and matters raised by the applicant in the interview under section 11 and to reports such other matters as the Commissioner considers appropriate and shall of set out the findings of the Commissioner together with his or her
 
-Commissioner. report in writing of the results of the investigation and such report shall refer to the matters raised by the applicant in the interview under section 11 and to such other matters as the Commissioner considers appropriate and shall set out the findings of the Commissioner together with his or her recommendation whether the applicant concerned should or, as the case may be, should not be declared to be a refugee.
+Commis- recommendation whether the applicant concerned should or, as the case sioner. may be, should not be declared to be a refugee.
 
 (2) Where an application for a declaration is withdrawn or deemed to be withdrawn pursuant to section 9 or 11, then—
 
@@ -370,13 +370,15 @@ Commissioner. report in writing of the results of the investigation and such rep
 
 22.—(1) The Minister may make such orders as appear to him or her
 
-Convention, to be necessary or expedient for the purpose of giving effect to— agreements
+Conven- to be necessary or expedient for the purpose of giving effect to— tion,
 
-(a) the Dublin Convention, with safe third
+(a) the Dublin Convention, agreements
 
-(b) Council Regulation (EC) No. 343/2003, countries etc.
+(b) Council Regulation (EC) No. 343/2003, with safe
 
-(c) the Agreement between the European Community and the Republic of Iceland and the Kingdom of Norway concerning the criteria and mechanisms for establishing the State responsible for examining a request for asylum lodged in a Member State or in Iceland or Norway done at Brussels on the 19th day of January 2001,
+(c) the Agreement between the European Community and the third
+
+Republic of Iceland and the Kingdom of Norway concerning the coun- criteria and mechanisms for establishing the State responsible tries for examining a request for asylum lodged in a Member State or etc. in Iceland or Norway done at Brussels on the 19th day of January 2001,
 
 (d) any agreement of the kind referred to in subsection (5).
 
@@ -387,8 +389,6 @@ Convention, to be necessary or expedient for the purpose of giving effect to— 
 (i) shall be examined in the State,
 
 (ii) shall be transferred to a convention country for examination or to a safe third country, or
-
-Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
 
 (iii) shall be accepted for examination in the State pursuant to a request made by a convention country in which the application for asylum was lodged or pursuant to an agreement to which subsection (1)(d) refers, and the powers referred to in this subsection shall be exercised by whichever of the persons mentioned in subsection (4)(a) is specified in the order,
 
@@ -403,6 +403,8 @@ Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
 (f) provide that where an application has been transferred to a convention country for examination or to a safe third country the person concerned shall go to that convention country or to that safe third country,
 
 (g) provide for the transit through the State of a person whose application for asylum has been transferred from a convention country to another convention country for examination,
+
+Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
 
 (h) provide for the investigation of an application for asylum by the Commissioner notwithstanding that a convention country has responsibility for examining the application,
 
@@ -454,9 +456,9 @@ Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
 
 (n) by the insertion after section 28 of the following section:
 
-“Transitional.
+“Trans-
 
-28A.—(1) Where an application has been made under section 8 before the commencement of section 7 of the Immigration Act 2003—
+28A.—(1) Where an application has been made under section 8 before itional. the commencement of section 7 of the Immigration Act 2003—
 
 (a) in case, before such commencement, the applicant has been interviewed under section 11, then, upon such commencement, this Act shall apply to the application as if the said section 7 had not been commenced,
 
