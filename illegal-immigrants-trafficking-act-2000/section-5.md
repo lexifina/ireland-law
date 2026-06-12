@@ -52,11 +52,29 @@ Judicial review.
 
 (oj) a deportation order under section 51 of the International Protection Act 2015,
 
-(ok) a return order under section 51A of the International Protection Act 2015, or
+(ok) a return order under section 51A of the International Protection Act 2015,
 
-(p) such other decision, determination, recommendation, refusal or order as may be prescribed by the Minister under subsection (9), made on or after the date on which section 34 of the Employment Permits (Amendment) Act 2014 comes into operation, otherwise than by way of an application for judicial review under Order 84 of Rules of the Superior Courts (S.I. No. 15 of 1986) (hereafter in this section referred to as "the Order").
+(ol) a declaration by the Determining Authority under section 71(2) of the International Protection Act 2026 that an application has been implicitly withdrawn,
 
-(2) An application for leave to apply for judicial review under the Order in respect of any of the matters referred to in subsection (1) (hereafter in this section referred to as an "application") shall be made within the period of 28 days commencing on the date on which the person was notified of the decision, determination, recommendation, refusal or making of the order concerned unless the High Court considers that there is good and sufficient reason for extending the period within which the application shall be made, and such leave shall not be granted unless the High Court is satisfied that there are substantial grounds for contending that the decision, determination, recommendation, refusal or order is invalid or ought to be quashed.
+(om) a transfer decision of the Minister under section 138 of the International Protection Act 2026,
+
+(on) a decision of the Tribunal for Asylum and Returns Appeals under section 140(9) or 141(3) of the International Protection Act 2026,
+
+(oo) a decision of the Determining Authority under section 156 of the International Protection Act 2026 to reject an application as inadmissible,
+
+(op) a decision of the Determining Authority under section 156 of the International Protection Act 2026 to reject an application as unfounded or mani-festly unfounded where the applicant is eligible for subsidiary protection but does not qualify as a refugee,
+
+(oq) a decision of the Determining Authority under section 156 of the International Protection Act 2026 to reject an application as unfounded or mani-festly unfounded where the applicant does not qualify as a refugee and is not eligible for subsidiary protection,
+
+(or) a decision of the Determining Authority under section 163(1) of the International Protection Act 2026 not to grant refugee status, (os) a decision of the Tribunal for Asylum and Returns Appeals under section 189(5) or 195 of the International Protection Act 2026,
+
+(ot) a decision of the Minister under section 214(1) of the International Protection Act 2026 to withdraw refugee status or under section 214(2) of that Act to withdraw subsidiary protection status,
+
+(ou) a return decision under Part 11 or an entry ban notice under section 217 of the International Protection Act 2026, or
+
+(p) such other decision, declaration, determination, recommendation, refusal or order as may be prescribed by the Minister under subsection (9), made on or after the date on which section 34 of the Employment Permits (Amendment) Act 2014 comes into operation, otherwise than by way of an application for judicial review under Order 84 of Rules of the Superior Courts (S.I. No. 15 of 1986) (hereafter in this section referred to as "the Order").
+
+(2) An application for leave to apply for judicial review under the Order in respect of any of the matters referred to in subsection (1) (hereafter in this section referred to as an "application") shall be made within the period of 28 days commencing on the date on which the person was notified of the decision, declaration, determination, recommendation, refusal or making of the order concerned unless the High Court considers that there is good and sufficient reason for extending the period within which the application shall be made, and such leave shall not be granted unless the High Court is satisfied that there are substantial grounds for contending that the decision, declaration, determination, recommendation, refusal is invalid or ought to be quashed.
 
 (3) Notwithstanding the period referred to in subsection (2), rules of court may require an applicant to lodge or file with the High Court, such number of days (which shall not exceed 4 days) as may be specified in the rules before the date on which the application is to be heard, all pleadings and written submissions relating to the application.
 
@@ -84,17 +102,17 @@ Judicial review.
 
 (8) The Superior Court Rules Committee may make rules to facilitate the giving of effect to subsection (7).
 
-(9) (a) The Minister may prescribe any decision, determination, recommendation, refusal or order —
+(9) (a) The Minister may prescribe any decision, declaration, determination, recommendation, refusal or order—
 
 (i) made under a relevant enactment or, as the case may be, an instrument made under a relevant enactment, and
 
-(ii) concerning the entry into, presence in, removal from or exclusion from the State of a person, the conditions under which a person may be present in the State or the entitlement of a person to international protection in the State, to be a decision, determination, recommendation, refusal or order to which subsection (1) applies.
+(ii) concerning the entry into, presence in, removal from or exclusion from the State of a person, the conditions under which a person may be present in the State or the entitlement of a person to international protection in the State, to be a decision, declaration, determination, recommendation, refusal or order to which subsection (1) applies.
 
 (b) In exercising his or her power under paragraph (a), the Minister shall have regard to the need for the fair and efficient administration of the relevant enactment concerned and the interests of justice.
 
 (c) In this subsection—
 
-"international protection" has the meaning it has in section 2 of the International Protection Act 2015;
+"international protection" has the meaning it has in section 2 of the International Protection Act 2026;
 
 "relevant enactment" means—
 
@@ -109,6 +127,10 @@ Judicial review.
 (v) the Immigration Act 2004,
 
 (va) the International Protection Act 2015,
+
+(vb) the International Protection Act 2026,
+
+(vc) the European Communities (Free Movement of Persons) Regulations 2015 (S.I. No. 548 of 2015),
 
 (vi) the European Communities (Free Movement of Persons) Regulations 2006 and 2008,
 
