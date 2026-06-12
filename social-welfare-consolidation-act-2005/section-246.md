@@ -40,11 +40,11 @@ Provision with respect to habitual residence.
 
 (b) a person who has the right under the European Communities (Free Movement of Persons) Regulations 2015 (S.I. No. 548 of 2015) to enter and reside in the State or is deemed under those Regulations to be lawfully resident in the State;
 
-O.J. No. L. 158, 30.4.2004, p. 77.
-
 (c) a person in relation to whom a refugee declaration within the meaning of the Act of 2015 is in force, or is deemed under that Act to be in force;
 
 (ca) a person in relation to whom a subsidiary protection declaration within the meaning of the Act of 2015 is in force, or is deemed under that Act to be in force;
+
+O.J. No. L. 158, 30.4.2004, p. 77.
 
 (d) a person who has been given, or is deemed under the Act of 2015 to have been given, a permission to enter and reside in the State under section 56 of that Act, where the permission concerned is in force;
 
@@ -58,7 +58,17 @@ O.J. No. L. 158, 30.4.2004, p. 77.
 
 (h) a person whose presence in the State is in accordance with a permission to be in the State given by or on behalf of the Minister for Justice, Equality and Law Reform under and in accordance with section 4 or 5 of the Immigration Act 2004;
 
-(i) a person who has been given a permission to reside in the State under section 60(6) of the Act of 2015, where the permission concerned is in force.
+(i) a person who has been given a permission to reside in the State under section 60(6) of the Act of 2015, where the permission concerned is in force;
+
+(j) a beneficiary of international protection within the meaning of the Act of 2026;
+
+(k) a person who has been given, or is deemed under the Act of 2026 to have been given, a permission to reside in the State under section 204 of that Act, where the permission concerned is in force;
+
+(l) a person who has been given, or is deemed under the Act of 2026 to have been given, a permission to enter and reside in the State under section 205 of that Act, where the permission concerned is in force;
+
+(m) a person who has been given a permission to reside in the State under section 237(8) of the Act of 2026, where the permission concerned is in force;
+
+(n) a person who is a programme refugee within the meaning of Part 12 of the Act of 2026.
 
 (7) The following persons shall not be regarded as being habitually resident in the State for the purpose of this Act:
 
@@ -82,7 +92,9 @@ O.J. No. L. 158, 30.4.2004, p. 77.
 
 (iii) whose application under Regulation 25 or 26 of the Regulations of 2013 has been refused, or whose permission under Regulation 25 or 26 of the Regulations of 2013 has been revoked;
 
-(f) a person in relation to whom a deportation order has been made, or has been deemed under section 51 of the Act of 2015 to have been made, under section 3(1) of the Immigration Act 1999.
+(f) a person in relation to whom a deportation order has been made, or has been deemed under section 51 of the Act of 2015 to have been made, under section 3(1) of the Immigration Act 1999;
+
+(g) an applicant within the meaning of section 2 (1) of the Act of 2026, or a person deemed to have made an application under that Act; (h) a person who has made, or is deemed under the Act of 2026 to have made, an application for international protection under that Act which is the subject of a final decision within the meaning of that Act rejecting the application or declaring the application to be implicitly withdrawn or explicitly withdrawn; (i) a person in relation to whom a return decision has been made under Part 11 of the Act of 2026.
 
 (8) For the purpose of this Act, where a person—
 
@@ -92,11 +104,19 @@ O.J. No. L. 158, 30.4.2004, p. 77.
 
 (ba) is given, or deemed under the Act of 2015 to be given, a permission to reside in the State under section 57 of that Act,
 
-(c) is given, or deemed under the Act of 2015 to be given, a subsidiary protection declaration under that Act, or
+(c) is given, or deemed under the Act of 2015 to be given, a subsidiary protection declaration under that Act,
 
 (d) ...
 
-(e) is granted permission to remain in the State under and in accordance with ... the Immigration Act 2004, he or she shall not be regarded as being habitually resident in the State for any period before the date on which the declaration or permission concerned was given or granted as the case may be and, in the case of a declaration or permission deemed to be given, for any period before the date on which the declaration or permission concerned was originally given.
+(e) is granted permission to remain in the State under and in accordance with ... the Immigration Act 2004,
+
+(f) is granted, or deemed under the Act of 2026 to be granted, refugee status within the meaning of that Act,
+
+(g) is given, or deemed under the Act of 2026 to be given, a permission to reside in the State under section 204 of that Act,
+
+(h) is given, or deemed under the Act of 2026 to be given, a permission to enter and reside in the State under section 205 of that Act, or
+
+(i) is granted, or deemed under the Act of 2026 to be granted, subsidiary protection status within the meaning of that Act, he or she shall not be regarded as being habitually resident in the State for any period before the date on which the declaration, permission or status concerned was given or granted as the case may be and, in the case of a declaration, permission or status deemed to be given, for any period before the date on which the declaration, permission or status concerned was originally given.
 
 (9) Notwithstanding that a person has, or is taken to have in accordance with subsection (6), a right to reside in the State the determination as to whether that person is habitually resident in the State shall be made in accordance with subsections (1) and (4).
 
@@ -105,6 +125,8 @@ O.J. No. L. 158, 30.4.2004, p. 77.
 ‘Act of 1996’ means the Refugee Act 1996;
 
 ‘Act of 2015’ means the International Protection Act 2015;
+
+‘Act of 2026’ means the International Protection Act 2026;
 
 ‘Regulations of 2006’ means the European Communities (Eligibility for Protection) Regulations 2006 (S.I. No. 518 of 2006);
 
