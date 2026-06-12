@@ -18,7 +18,9 @@ Amendment of Road Traffic Act 2010
 
 (iii) by the insertion of the following subsection after subsection (6):
 
-“(6A) In this section— ‘driving licence’, notwithstanding the definition of driving licence in section 3 of the Principal Act, means—
+“(6A) In this section—
+
+‘driving licence’, notwithstanding the definition of driving licence in section 3 of the Principal Act, means—
 
 (a) an Irish driving licence,
 
