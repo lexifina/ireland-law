@@ -28,19 +28,19 @@ Application of Part to insurance holding companies and mixed financial holding c
 
 (iii) any obligation imposed on an administrator or liquidator by this Part or imposed by the Bank pursuant to a power exercised under this Part.
 
-(2) For the purpose of subsection (1) —
+(2) For the purposes of subsection (1)—
 
-(a) a reference in this Part to a regulated financial service provider or a financial service provider includes a reference to an investment holding company, a mixed financial holding company, a mixed activity holding company or a parent undertaking,
+(a) a reference in this Part to a regulated financial service provider or a financial service provider includes a reference to an insurance holding company, a mixed financial holding company, or an administrator or liquidator,
 
-(b) a reference in this Part to a prescribed contravention includes a reference to a contravention, by an investment holding company, a mixed financial holding company, a mixed activity holding company or a parent undertaking, of a provision, direction, requirement or obligation referred to in subsection (1), and
+(b) a reference in this Part to a prescribed contravention includes a reference to a contravention, by an insurance holding company, mixed financial holding company, or an administrator or liquidator, of a provision, direction, requirement or obligation referred to in subsection (1), and
 
-(c) a reference in this Part to performing a controlled function in relation to a regulated financial service provider includes a reference to being concerned in the management of an investment holding company, a mixed financial holding company, a mixed activity holding company or a parent undertaking.
+(c) a reference in this Part to performing a controlled function in relation to a regulated financial service provider includes a reference to being concerned in the management of an insurance holding company or a mixed financial holding company.
 
 (2A) References in subsections (1) and (2) to an insurance holding company or mixed financial holding company do not include references to a regulated financial service provider which is such a company.
 
 (3) ...
 
-(4) In this section, "administrator", "insurance holding company", "liquidator" and "mixed financial holding company" have the meaning assigned to them, respectively, in the European Union (Insurance and Reinsurance) Regulations 2015.
+(4) In this section, “administrator”, “insurance holding company”, “liquidator” and “mixed financial holding company” have the meaning assigned to them, respectively, in the European Union (Insurance and Reinsurance) Regulations 2015.
 
 33ANFA.— (1) This Part applies in relation to the commission or suspected commission by a relevant person of a contravention of —
 
@@ -70,10 +70,10 @@ Application of Part to insurance holding companies and mixed financial holding c
 
 (4) In this section—
 
-(a) "PEPP Regulation" means Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019
+(a) “PEPP Regulation” means Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019
 
-(b) "Regulations of 2022" means the European Union (Pan-European Personal Pension Product) Regulations 2022 (S.I. No. 435 of 2022);
+(b) “Regulations of 2022” means the European Union (Pan-European Personal Pension Product) Regulations 2022 (S.I. No. 435 of 2022);
 
-(c) "relevant person" means an undertaking referred to in point (c) of Article 6(1) of the PEPP Regulation;
+(c) “relevant person” means an undertaking referred to in point (c) of Article 6(1) of the PEPP Regulation;
 
-(d) "relevant provision" means a provision of the PEPP Regulation.
+(d) “relevant provision” means a provision of the PEPP Regulation.
