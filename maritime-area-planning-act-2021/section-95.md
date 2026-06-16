@@ -4,7 +4,7 @@ Definitions - Chapter 8
 
 95. In this Chapter and Schedule 6 —
 
-[“planning rehabilitation schedule", in relation to a MAC to which section 75(5) applies where the development permission concerned referred to in that section has been granted, means the equivalent in such planning permission to the rehabilitation schedule that was attached to the application for such development permission (and regardless of whether or not such equivalent is a schedule attached to the development permission);]
+“planning rehabilitation schedule", in relation to a MAC to which section 75(5) applies where the development permission concerned referred to in that section has been granted, means the equivalent in such planning permission to the rehabilitation schedule that was attached to the application for such development permission (and regardless of whether or not such equivalent is a schedule attached to the development permission);
 
 “rehabilitate”, in relation to a part of the maritime area, means—
 
