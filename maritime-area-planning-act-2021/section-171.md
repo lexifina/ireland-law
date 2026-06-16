@@ -1400,9 +1400,7 @@ Disapplication of certain provisions of Act in relation to maritime area
 
 (a) comply (howsoever expressed) with a development plan, local area plan or regional spatial and economic strategy, or
 
-(b) act in accordance with, consider, have regard to or otherwise take account of (howsoever expressed) any such plan or strategy in the performance of any function under this Act, shall not apply in relation to the maritime area.
-
-(3) Part XII shall not apply to that part of the maritime area that does not consist of land covered by coastal water.
+(b) act in accordance with, consider, have regard to or otherwise take account of (howsoever expressed) any such plan or strategy in the performance of any function under this Act, shall not apply in relation to the maritime area. (3) Part XII shall not apply to that part of the maritime area that does not consist of land covered by coastal water.
 
 Construction of references to land
 
