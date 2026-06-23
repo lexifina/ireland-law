@@ -32,7 +32,7 @@ The following classes of persons are specified as mandated persons for the purpo
 
 13. Member of An Garda Síochána.
 
-14. Guardian ad litem appointed in accordance with section 26 of the Child Care Act 1991.
+14. Guardian ad litem appointed under section 35C(1) of the Child Care Act 1991.
 
 15. Person employed in any of the following capacities:
 
@@ -40,7 +40,7 @@ The following classes of persons are specified as mandated persons for the purpo
 
 (b) manager of homeless provision or emergency accommodation facility;
 
-(c) manager of asylum seeker accommodation (direct provision) centre;
+(c) manager of an accommodation centre within the meaning of Part 4 of the International Protection Act 2026 or a designated centre within the meaning of Chapter 2 of Part 11 of that Act;
 
 (d) addiction counsellor employed by a body funded, wholly or partly, out of moneys provided by the Oireachtas;
 
@@ -67,3 +67,5 @@ The following classes of persons are specified as mandated persons for the purpo
 17. Foster carer registered with the Agency.
 
 18. A person carrying on an early years service within the meaning of Part VIIA of the Child Care Act 1991.
+
+19. Person who assists, represents or acts for an unaccompanied minor, within the meaning of the International Protection Act 2026, as a provisional representative person, a representative person or an international protection guardian, each within the meaning of section 2(1) of that Act.
