@@ -9,3 +9,7 @@ Power to procure reports on children.
 (4) Where any person prepares a report pursuant to a request under subsection (1), the fees and expenses of that person shall be paid by such party or parties to the proceedings as the court shall order.
 
 (5) The court, if it thinks fit, or any party to the proceedings, may call the person making the report as a witness.
+
+(6) In subsection (3), a reference to a party includes a reference to a guardian ad litem, if any, appointed in accordance with Part VA in respect of the proceedings concerned.
+
+(7) In this section, where the proceedings are proceedings under Part IVA, “court” means the High Court.
