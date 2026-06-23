@@ -1,0 +1,3 @@
+General jurisdiction of Family High Court.
+
+8A.— ...

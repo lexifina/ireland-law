@@ -1,0 +1,3 @@
+Jurisdiction of Cork Circuit Court Judge in admiralty causes and in bankruptcy. (Repealed)
+
+23.—...

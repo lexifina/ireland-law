@@ -1,0 +1,3 @@
+Right of audience of solicitors in Circuit Court, Cork Local Admiralty Court and Cork Local Bankruptcy Court. (Repealed)
+
+60.—...

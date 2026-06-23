@@ -1,0 +1,11 @@
+## Exercise of Jurisdiction
+
+Jurisdiction to be exercised pursuant to rules of court (Supreme Court, High Court, Chief Justice, President of the High Court, Central Criminal Court and Court of Criminal Appeal).
+
+14.—(1) In this section “rules of court” means rules made under section 36 of the Act of 1924, as applied by section 48 of this Act.
+
+(2) The jurisdiction which is ... vested in or exercisable by the Supreme Court, the High Court, the Chief Justice, the President of the High Court, the Central Criminal Court and the Court of Criminal Appeal respectively shall be exercised so far as regards pleading, practice and procedure generally, including liability to costs, in the manner provided by rules of court, and, where no provision is contained in such rules and so long as there is no rule with reference thereto, it shall be exercised as nearly as possible in the same manner as it might have been exercised by the respective existing courts or judges by which or by whom such jurisdiction was, immediately before the operative date, respectively exercisable.
+
+(2A) The jurisdiction which is vested in or exercisable by the Court of Appeal and the President of the Court of Appeal respectively shall be exercised so far as regards pleading, practice and procedure generally, including liability to costs, in the manner provided by rules of court, and, where no provision is contained in such rules and so long as there is no rule with reference thereto, it shall be exercised as nearly as possible in the same manner as it might have been exercised by the respective courts or judges by which or by whom such jurisdiction was, immediately before the establishment day (within the meaning of section 2 of the Act of 2014), respectively exercisable.
+
+(3) Rules of court may, in relation to proceedings and matters (not being criminal proceedings or matters or matters relating to the liberty of the person) in the High Court, the Court of Appeal and Supreme Court, authorise the Master of the High Court and other principal officers, within the meaning of the Court Officers Acts 1926 to 2014 to exercise functions, powers and jurisdiction in uncontested cases and to take accounts, conduct inquiries and make orders of an interlocutory nature.

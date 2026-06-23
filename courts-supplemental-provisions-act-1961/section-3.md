@@ -1,0 +1,3 @@
+Repeals and saving.
+
+3.—The enactments mentioned in column (2) of the First Schedule to this Act are hereby repealed to the extent mentioned in column (3) of that Schedule, but, without prejudice to subsection (1) of section 21 of the Interpretation Act, 1937, such of those enactments as relate to the pensions of the judges and justices of the courts established by the Act of 1924 shall, notwithstanding the repeal thereof, continue to apply to any person who, having been a judge of the existing Supreme Court, existing High Court or existing Circuit Court or a justice of the existing District Court, retired or retires from office before the operative date.
