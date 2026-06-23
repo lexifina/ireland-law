@@ -38,6 +38,14 @@ Involuntary admission of children.
 
 (13) A programme of electro-convulsive therapy shall not be administered to a child detained under this section without the approval of the court.
 
-(14) The provisions of sections 21, 22, 24 to 35, 37 and 47 of the Child Care Act, 1991, shall apply to proceedings under this section as they apply to proceedings under those sections with the modification that references to proceedings or an order under Part III, IV or VI of that Act shall be construed as references to proceedings or an order under this section and with any other necessary modifications.
+(14) Sections 21, 22, 24, 24A, 25, 27 to 35Q , 37 and 47 of the Child Care Act 1991 shall apply to proceedings under this section as they apply to proceedings to which those sections apply, subject to the following modifications:
+
+(a) references in those sections to proceedings or an order under Part III, IV, IVA, IVB, V, VA or VI of that Act shall be construed as references to proceedings or an order under this section;
+
+(b) in an application under subsection (1), the District Court shall appoint a guardian ad litem for the child to whom the application relates;
+
+(c) the guardian ad litem is entitled to the provision of legal advice and legal representation in the proceedings for which he or she is appointed for the child;
+
+(d) any other necessary modifications.
 
 (15) References in sections 13(7), 18(3) and 19(4) of the Child Care Act, 1991, to psychiatric examination, treatment or assessment do not include references to treatment under this Act.

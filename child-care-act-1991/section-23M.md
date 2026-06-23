@@ -6,7 +6,7 @@ Interim special care orders made ex parte: supplemental provisions.
 
 (b) the High Court shall, subject to a direction under subsection (2), direct that a copy of the interim special care order made pursuant to the ex parte application and, subject to subsection (3), notice of the hearing referred to in paragraph (a), be served on a person referred to in, and in accordance with, paragraphs (a) and (b) of section 23G(1),
 
-(c) the High Court, where it makes an appointment under section 26 (as amended by the Child Care (Amendment) Act 2011) in respect of the proceedings, shall direct that a copy of the interim special care order made pursuant to the ex parte application and notice of the hearing referred to in paragraph (a) be served on a person appointed under that section, and
+(c) the High Court, where a person is appointed under section 35C(1) pursuant to an order under section 35B(2) in respect of the proceedings, shall direct that a copy of the interim special care order made pursuant to the ex parte application and notice of the hearing referred to in paragraph (a) be served on the person so appointed, and
 
 (d) the High Court may direct that a person referred to in section 23G(2) and section 23G(5), be informed of the making of that interim special care order and of the hearing referred to in paragraph (a), and the High Court may direct that other information and documents be served on such persons and it may make such other provision and give directions, as it, having regard to all the circumstances, considers necessary and in the best interests of the child.
 

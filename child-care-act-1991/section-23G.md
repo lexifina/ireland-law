@@ -6,7 +6,7 @@ Notice of application for special care order or interim special care order.
 
 (b) a guardian of the child, if any, or a person, if any, acting in loco parentis unless that guardian or that person is dead, missing or cannot be found, and
 
-(c) a guardian ad litem, where such guardian is appointed in accordance with section 26 (as amended by the Child Care (Amendment) Act 2011) in respect of proceedings under this Part and whose appointment has effect in accordance with section 26(4).
+(c) a guardian ad litem, where such guardian is appointed in accordance with Part VA in respect of proceedings under this Part.
 
 (2) Where having regard to all the circumstances of a child the Child and Family Agency considers it appropriate for that child, it may inform any of the following persons of an application for a special care order or an interim special care order:
 

@@ -1,3 +1,3 @@
-Hearing of proceedings.
+Hearing of proceedings. (Repealed)
 
-23NH.—Proceedings under this Part shall be heard otherwise than in public.
+23NH.—...
