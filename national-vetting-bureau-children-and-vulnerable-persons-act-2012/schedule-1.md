@@ -18,7 +18,9 @@ RELEVANT WORK OR ACTIVITIES RELATING TO CHILDREN
 
 (f) a children detention school within the meaning of section 3 of the Children Act 2001,
 
-(g) a reception or accommodation centre which provides residential accommodation services to applicants for asylum under contract to the Department of Justice and Equality.
+(g) an accommodation centre within the meaning of Part 4 of the International Protection Act 2026 or a designated centre within the meaning of Chapter 2 of Part 11 of that Act.
+
+1A. Any work or activity carried out in relation to an unaccompanied minor (within the meaning of the International Protection Act 2026) by a provisional representative person, a representative person or an international protection guardian, each within the meaning of section 2(1) of that Act.
 
 2. Any work or activity which consists of the provision of home tuition by a person pursuant to the Scheme administered and funded by the Department of Education and known as the Home Tuition Scheme.
 
@@ -64,6 +66,8 @@ RELEVANT WORK OR ACTIVITIES RELATING TO CHILDREN
 
 (h) Pre-Hospital Emergency Care Council (Establishment) Order 2000 (Amendment) Order 2004 (S.I. No. 575 of 2004).
 
+16. Any work or activity by a guardian ad litem within the meaning of Part VA of the Child Care Act 1991 as such a guardian.
+
 PART 2
 
 RELEVANT WORK OR ACTIVITIES RELATING TO VULNERABLE PERSONS
@@ -76,7 +80,9 @@ RELEVANT WORK OR ACTIVITIES RELATING TO VULNERABLE PERSONS
 
 (c) a designated centre within the meaning of section 2 of the Health Act 2007, in so far as it relates to an institution at which residential services are provided to vulnerable persons,
 
-(d) an approved centre within the meaning of Part 5 of the Mental Health Act 2001.
+(d) an approved centre within the meaning of Part 5 of the Mental Health Act 2001,
+
+(e) an accommodation centre within the meaning of Part 4 of the International Protection Act 2026 or a designated centre within the meaning of Chapter 2 of Part 11 of that Act.
 
 2. Any work or activity which consists of treatment, therapy or counselling provided to a vulnerable person by a person in the course of that work or activity.
 
