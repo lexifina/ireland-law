@@ -1,4 +1,4 @@
-F422[Temporary prohibition order
+F420[Temporary prohibition order
 
 58JC.—(1) Where an authorised person is of the opinion that the continued provision of a prescribed early years service poses an immediate and grave risk to the health, safety or welfare of children attending the service, he or she may, subject to subsection (2), serve, or arrange to have served, on the registered provider or person in charge of the service a notice (in this Part referred to as a "temporary prohibition order") stating that he or she is of that opinion and the temporary prohibition order shall—
 

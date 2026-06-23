@@ -1,4 +1,4 @@
-F420[Improvement notice and improvement order
+F418[Improvement notice and improvement order
 
 58JA.—(1) Where an authorised person is of the opinion, following the exercise of any of his or her powers under section 58J relating to a premises in which a registered provider is providing a prescribed early years service, that there is an issue of significant concern that is of such a nature that if it persists it will, or is likely to, pose a risk of harm to a child attending the service, he or she may issue a notice (in this Part referred to as an "improvement notice").
 

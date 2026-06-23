@@ -1,4 +1,4 @@
-F421[Immediate action notice and immediate action order
+F419[Immediate action notice and immediate action order
 
 58JB.—(1) Where an authorised person is of the opinion, following the exercise of any of his or her powers under section 58J relating to a premises in which a registered provider is providing a prescribed early years service, that immediate action is required by the registered provider in order to address an issue that poses an immediate risk of harm to a child attending the service, he or she may issue a notice (in this Part referred to as an "immediate action notice").
 

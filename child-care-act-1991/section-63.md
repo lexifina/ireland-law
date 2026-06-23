@@ -32,4 +32,6 @@ Regulations in relation to children’s residential centres.
 
 (e) The jurisdiction conferred on the Circuit Court by this subsection shall be exercised by the judge of the Circuit Court for the time being assigned to the circuit in which the premises concerned are situated.
 
-(5) A person who wilfully obstructs or interferes with the Child and Family Agency or any of its employees in the performance of functions under the regulations or who fails or refuses to comply with a requirement of the Child and Family Agency or any of its employees under such regulations shall be guilty of an offence.
+(5) A person who wilfully obstructs or interferes with the Child and Family Agency or any of its employees in the performance of functions under the regulations or who fails or refuses to comply with a requirement of the
+
+Child and Family Agency or any of its employees under such regulations shall be guilty of an offence.

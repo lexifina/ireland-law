@@ -26,6 +26,8 @@ Interpretation.
 
 (b) was in the care of the Child and Family Agency for a period of not less than 12 months since attaining the age of 13 years but is no longer in the care of the Agency;
 
+O.J. No. L. 119, 4.5.2016, p. 1
+
 “functions” includes powers and duties;
 
 ...
@@ -34,9 +36,7 @@ Interpretation.
 
 "Minister" means the Minister for Children and Youth Affairs.
 
-“parents” includes a surviving parent and, in the case of a child who has been adopted under the Adoption Acts, 1952 to 1988, or, where the child has been adopted outside the State, whose
-
-O.J. No. L. 119, 4.5.2016, p. 1 adoption is recognised by virtue of the law for the time being in force in the State, means the adopter or adopters or the surviving adopter;
+“parents” includes a surviving parent and, in the case of a child who has been adopted under the Adoption Acts, 1952 to 1988, or, where the child has been adopted outside the State, whose adoption is recognised by virtue of the law for the time being in force in the State, means the adopter or adopters or the surviving adopter;
 
 "personal data" has the same meaning as it has in the Data Protection Regulation;
 

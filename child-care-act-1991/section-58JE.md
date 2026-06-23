@@ -1,4 +1,4 @@
-F424[Appeal against closure order
+F422[Appeal against closure order
 
 58JE.—(1) A registered provider and a relevant person may, within 7 days of the date on which a closure order is served on him or her, appeal to the Circuit Court against the decision.
 
