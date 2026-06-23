@@ -424,9 +424,7 @@ Amendment of Part IVA of Principal Act.
 
 (5) The High Court, having regard to all the circumstances of the child, may direct that, in addition to the persons referred to in subsections (1) and (2), another person, who has knowledge of that child and his or her family or other circumstances, be informed of an application for a special care order or an interim special care order.
 
-(6) Notwithstanding paragraphs (a) and (b) of subsection (1), the High Court, on the application of the Health Service Executive, may, having regard to the interests of justice or the protection of the life, health, safety, development or welfare of the child, direct that an application referred to in subsection (1) shall be made otherwise than on notice to a named person being a person to whom, pursuant to paragraphs (a) and (b) of subsection (1), such application is to be made on notice and the High Court may make such other provision and give other directions in respect of such notice, as it, having regard to all the circumstances of the child, considers necessary and in the best interests of the child.
-
-23H.— (1) Where the High Court is satisfied that—
+(6) Notwithstanding paragraphs (a) and (b) of subsection (1), the High Court, on the application of the Health Service Executive, may, having regard to the interests of justice or the protection of the life, health, safety, development or welfare of the child, direct that an application referred to in subsection (1) shall be made otherwise than on notice to a named person being a person to whom, pursuant to paragraphs (a) and (b) of subsection (1), such application is to be made on notice and the High Court may make such other provision and give other directions in respect of such notice, as it, having regard to all the circumstances of the child, considers necessary and in the best interests of the child. 23H.— (1) Where the High Court is satisfied that—
 
 (a) the child has attained the age of 11 years,
 
@@ -474,7 +472,9 @@ Amendment of Part IVA of Principal Act.
 
 (4) Where the High Court makes a special care order the Health Service Executive shall inform the Garda Síochána immediately that the special care order has been made and of the terms and conditions of that order and an order made, or warrant issued, if any, under this section and an order, if any, made under section 23NA(1).
 
-(5) A person shall be deemed to have been given, or shown, a copy of a special care order or an order made, or warrant issued, under subsection (3) if that person was present at the sitting of the High Court at which that special care order or that order was made or that warrant was issued. 23I.— (1) The High Court shall carry out a review referred to in subsection (4) in each 4 week period for which a special care order has effect and the High Court shall, when making the special care order, or extending it pursuant to an application under section 23J, specify the date or dates for such review.
+(5) A person shall be deemed to have been given, or shown, a copy of a special care order or an order made, or warrant issued, under subsection (3) if that person was present at the sitting of the High Court at which that special care order or that order was made or that warrant was issued.
+
+23I.— (1) The High Court shall carry out a review referred to in subsection (4) in each 4 week period for which a special care order has effect and the High Court shall, when making the special care order, or extending it pursuant to an application under section 23J, specify the date or dates for such review.
 
 (2) A review under this section shall, subject to a direction under section 23NA(2)(a), if any, be made on notice to the persons referred to, and in accordance with, paragraphs (a) to (c) of section 23G(1).
 
@@ -978,9 +978,7 @@ Interim special care orders made ex parte: supplemental provisions.
 
 (5) Where a child is released from the special care unit pursuant to this section the period of the release shall be included in the period for which the special care order or the interim special care order has effect.
 
-23NH.— Proceedings under this Part shall be heard otherwise than in public.
-
-23NI.— (1) Where a child, in respect of whom a special care order or an interim special care order has been made—
+23NH.— Proceedings under this Part shall be heard otherwise than in public. 23NI.— (1) Where a child, in respect of whom a special care order or an interim special care order has been made—
 
 (a) is, without lawful authority or the consent or the knowledge of the Health Service Executive, removed from the custody of the Health Service Executive or a special care unit,
 
@@ -1054,7 +1052,9 @@ Interim special care orders made ex parte: supplemental provisions.
 
 (a) at any time after that High Court order ceased to have effect, or
 
-(b) during the period for which that High Court order has effect, and where the High Court, pursuant to an application to which paragraph (b) refers, makes the special care order or, as the case may be, the interim special care order it shall give directions in respect of the cessation of the effect of that High Court order. 23NK.— Where a child is in the care of the Health Service Executive pursuant to a special care order or an interim special care order, the High Court may—
+(b) during the period for which that High Court order has effect, and where the High Court, pursuant to an application to which paragraph (b) refers, makes the special care order or, as the case may be, the interim special care order it shall give directions in respect of the cessation of the effect of that High Court order.
+
+23NK.— Where a child is in the care of the Health Service Executive pursuant to a special care order or an interim special care order, the High Court may—
 
 (a) of its own motion, or
 
@@ -1072,9 +1072,7 @@ Interim special care orders made ex parte: supplemental provisions.
 
 (c) an emergency order made under section 13, or
 
-(d) a supervision order made under section 19.
-
-23NM.— (1) The Health Service Executive shall, from time to time during the period for which a special care order or an interim special care order has effect and subject to a direction under section 23NA(2)(a), provide—
+(d) a supervision order made under section 19. 23NM.— (1) The Health Service Executive shall, from time to time during the period for which a special care order or an interim special care order has effect and subject to a direction under section 23NA(2)(a), provide—
 
 (a) a parent having custody of the child unless the parent is dead, missing or cannot be found, and
 
@@ -1090,7 +1088,9 @@ Interim special care orders made ex parte: supplemental provisions.
 
 (i) has occurred in the special care unit or during a period for which the child was released from the special care unit pursuant to section 23NF or 23NG, and
 
-(ii) has had, or is likely to have, an adverse affect on that child. 23NN.— (1) A parent of a child who is the subject of a special care order or an interim special care order, a guardian or a person who has a bona fide interest in the child, may request, in writing, the Health Service Executive to carry out an appraisal of the child in respect of the special care provided to him or her, the care requirements of the child, the behaviour of the child before the provision of such special care and the risk such behaviour poses to his or her life, health, safety, development or welfare.
+(ii) has had, or is likely to have, an adverse affect on that child.
+
+23NN.— (1) A parent of a child who is the subject of a special care order or an interim special care order, a guardian or a person who has a bona fide interest in the child, may request, in writing, the Health Service Executive to carry out an appraisal of the child in respect of the special care provided to him or her, the care requirements of the child, the behaviour of the child before the provision of such special care and the risk such behaviour poses to his or her life, health, safety, development or welfare.
 
 (2) Where a request under subsection (1) is made, the Health Service Executive shall, subject to subsection (3), carry out an appraisal referred to in subsection (1).
 
@@ -1122,7 +1122,9 @@ Interim special care orders made ex parte: supplemental provisions.
 
 (9) A decision of the High Court on an appeal under subsection (7) shall be final except that, by leave of the High Court, an appeal from the decision shall lie to the Supreme Court on a specified question of law.
 
-(10) The Health Service Executive shall issue guidelines in respect of the procedure to be followed in respect of an appeal under this section. 23NO.— The Health Service Executive shall prepare and publish guidelines in respect of—
+(10) The Health Service Executive shall issue guidelines in respect of the procedure to be followed in respect of an appeal under this section.
+
+23NO.— The Health Service Executive shall prepare and publish guidelines in respect of—
 
 (a) the procedures for—
 
