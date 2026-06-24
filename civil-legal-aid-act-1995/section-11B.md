@@ -34,4 +34,4 @@ Appointment of persons to provide legal counselling or training in relation to s
 
 (5) A person appointed under subsection (1) and to whom subsection (2)(b) applies shall be appointed subject to such terms and conditions as may be determined by the Minister with the consent of the Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation.
 
-(6) In this section, "applicant" and "applicant in need of special procedural guarantees" have the same meanings as they have in section 2 (1) of the Act of 2026.
+(6) In this section, “applicant” and “applicant in need of special procedural guarantees” have the same meanings as they have in section 2(1) of the Act of 2026.
