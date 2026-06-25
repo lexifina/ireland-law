@@ -1,4 +1,4 @@
-## CHAPTER 5 Investigations
+## CHAPTER 5
 
 Investigations
 
