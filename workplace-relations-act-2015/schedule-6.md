@@ -92,6 +92,8 @@ Acts of Oireachtas
 
 41. Section 129 of the Automatic Enrolment Retirement Savings System Act 2024
 
+42. Section 6 of the Employment (Contractual Retirement Ages) Act 2025
+
 Statutory Instruments
 
 1. Regulation 10 of the European Communities (Protection of Employees on Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
@@ -197,6 +199,8 @@ Acts of Oireachtas
 40. Section 27 of the Work Life Balance and Miscellaneous Provisions Act 2023
 
 41. Section 129 of the Automatic Enrolment Retirement Savings System Act 2024
+
+42. Section 6 of the Employment (Contractual Retirement Ages) Act 2025
 
 Statutory Instruments
 
