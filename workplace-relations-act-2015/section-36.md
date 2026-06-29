@@ -28,6 +28,8 @@ Fixed payment notices
 
 (b) sections 4(4), 4B(8), 4D(2), 4E(3) and 4F(3) of the Payment of Wages Act 1991,
 
-(c) section 23 of the National Minimum Wage Act 2000, or
+(c) section 23 of the National Minimum Wage Act 2000,
 
-(d) section 6B of the Terms of Employment (Information) Act 1994.
+(d) section 6B of the Terms of Employment (Information) Act 1994, or
+
+(e) section 10(1) of the Employment (Contractual Retirement Ages) Act 2025.
