@@ -12,7 +12,7 @@ Amendment of Act of 1967
 
 (b) in section 24, by—
 
-(i) the substitution, in paragraph (c) of subsection (1), of “Director General” for “Tribunal”,
+(i) the substitution, in paragraph (c) of subsection (1), of Director General” for “Tribunal”,
 
 (ii) the substitution, in subsection (2A) (inserted by section 12 of the Redundancy Payments Act 1971), of “adjudication officer, if he is satisfied” for “Tribunal, if it is satisfied”, and
 
