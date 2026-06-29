@@ -68,6 +68,8 @@ Part 1
 
 31. Sections 127 and 128 of the Automatic Enrolment Retirement Savings System Act 2024
 
+32. Subsection (3), (4) or (5) of section 5 or section 8, as the case may be, of the Employment (Contractual Retirement Ages) Act 2025
+
 Part 2
 
 1. European Communities (Protection of Employees on Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003) (other than Regulation 4(4) (a))
