@@ -96,11 +96,15 @@ Provisions of Acts of Oireachtas
 
 19. Part 2 of the Industrial Relations (Amendment) Act 2015
 
-20. Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023
+20. ...
 
 20. Section 6(3) of the Protected Disclosures Act 2014
 
 21. Sections 127 and 128 of the Automatic Enrolment Retirement Savings System Act 2024
+
+22. Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023
+
+23. Subsection (3), (4) or (5) of section 5 or section 8, as the case may be, of the Employment (Contractual Retirement Ages) Act 2025
 
 Part 3
 
