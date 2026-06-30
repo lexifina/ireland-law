@@ -2,255 +2,15 @@ SCHEDULE
 
 Controlled Drugs
 
-1 Acetorphine.
+1 Acetorphine. Acetyldihydrocodeine. Acetylmethadol. Allylprodine. Alphacetylmethadol. Alphameprodine. Alphamethadol. Alphaprodine. Amphetamine. Amylobarbitone. Anileridine. Benzethidine. Benzphetamine. Benzylmorphine (3-benzylmorphine). Betacetylmethadol. Betameprodine. Betamethadol. Betaprodine. Bezitramide. Bufotenine. Cannabinol, except where contained in cannabis or cannabis resin. Cannabinol derivatives. Cannabis and cannabis resin. Chlorphentermine. Clonitazene. Coca leaf. Cocaine. Codeine. Codoxime. Desomorphine. Dexamphetamine. Dextromoramide. Diamorphine. Diampromide. Diethylthiambutene. Difenoxin. Dihydrocodeine. Dihydromorphine. Dimenoxadole. Dimepheptanol. Dimethylthiambutene. Dioxaphetyl butyrate. Diphenoxylate. Dipipanone. Drotebanol. Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine. Ethylmethylthiambutene. Ethylmorphine (3-ethylmorphine). Etonitazene. Etorphine. Etoxeridine. Fentanyl. Furethidine. Hydrocodone. Hydromorphinol. Hydromorphone. Hydroxypethidine. Isomethadone. Ketobemidone. Levomethorphan. Levomoramide. Levophenacylmorphan. Levorphanol. Lysergamide. Lysergide and other N-alkyl derivatives of lysergamide. Mephentermine. Mescaline.
 
-Acetyldihydrocodeine.
+Metazocine. Methadone. Methaqualone. Methylamphetamine. Methyldesorphine. Methyldihydromorphine (6-methyldihydromorphine). Methylphenidate. Metopon. Morpheridine. Morphine. Morphine methobromide, morphine N-oxide and other pentavalent nitrogen morphine derivatives. Myrophine. Nicocodine. Nicodicodine (6-nicotinoyldihydrocodeine). Nicomorphine. Noracymethadol. Norcodeine. Norlevorphanol. Normethadone. Normorphine. Norpipanone. Opium, whether raw, prepared or medicinal. Oxycodone. Oxymorphone. Pentobarbitone. Pethidine. Phenadoxone. Phenampromide. Phenazocine. Phendimetrazine. Phenmetrazine. Phenobarbitone. Phenomorphan. Phenoperidine. Pholcodine. Piminodine. Pipradrol. Piritramide. Poppy straw and concentrate of poppy straw. Proheptazine. Properidine. Propiram. Psilocin. Quinalbarbitone.
 
-Acetylmethadol.
-
-Allylprodine.
-
-Alphacetylmethadol.
-
-Alphameprodine.
-
-Alphamethadol.
-
-Alphaprodine.
-
-Amphetamine.
-
-Amylobarbitone.
-
-Anileridine.
-
-Benzethidine.
-
-Benzphetamine.
-
-Benzylmorphine (3-benzylmorphine).
-
-Betacetylmethadol.
-
-Betameprodine.
-
-Betamethadol.
-
-Betaprodine.
-
-Bezitramide.
-
-Bufotenine.
-
-Cannabinol, except where contained in cannabis or cannabis resin.
-
-Cannabinol derivatives.
-
-Cannabis and cannabis resin.
-
-Chlorphentermine.
-
-Clonitazene.
-
-Coca leaf.
-
-Cocaine.
-
-Codeine.
-
-Codoxime.
-
-Desomorphine.
-
-Dexamphetamine.
-
-Dextromoramide.
-
-Diamorphine.
-
-Diampromide. Diethylthiambutene.
-
-Difenoxin.
-
-Dihydrocodeine.
-
-Dihydromorphine.
-
-Dimenoxadole.
-
-Dimepheptanol.
-
-Dimethylthiambutene.
-
-Dioxaphetyl butyrate.
-
-Diphenoxylate.
-
-Dipipanone.
-
-Drotebanol.
-
-Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine.
-
-Ethylmethylthiambutene.
-
-Ethylmorphine (3-ethylmorphine).
-
-Etonitazene.
-
-Etorphine.
-
-Etoxeridine.
-
-Fentanyl.
-
-Furethidine.
-
-Hydrocodone.
-
-Hydromorphinol.
-
-Hydromorphone.
-
-Hydroxypethidine.
-
-Isomethadone.
-
-Ketobemidone.
-
-Levomethorphan.
-
-Levomoramide.
-
-Levophenacylmorphan.
-
-Levorphanol.
-
-Lysergamide.
-
-Lysergide and other N-alkyl derivatives of lysergamide.
-
-Mephentermine.
-
-Mescaline.
-
-Metazocine.
-
-Methadone.
-
-Methaqualone.
-
-Methylamphetamine. Methyldesorphine.
-
-Methyldihydromorphine (6-methyldihydromorphine).
-
-Methylphenidate.
-
-Metopon.
-
-Morpheridine.
-
-Morphine.
-
-Morphine methobromide, morphine N-oxide and other pentavalent nitrogen morphine derivatives.
-
-Myrophine.
-
-Nicocodine.
-
-Nicodicodine (6-nicotinoyldihydrocodeine).
-
-Nicomorphine.
-
-Noracymethadol.
-
-Norcodeine.
-
-Norlevorphanol.
-
-Normethadone.
-
-Normorphine.
-
-Norpipanone.
-
-Opium, whether raw, prepared or medicinal.
-
-Oxycodone.
-
-Oxymorphone.
-
-Pentobarbitone.
-
-Pethidine.
-
-Phenadoxone.
-
-Phenampromide.
-
-Phenazocine.
-
-Phendimetrazine.
-
-Phenmetrazine.
-
-Phenobarbitone.
-
-Phenomorphan.
-
-Phenoperidine.
-
-Pholcodine.
-
-Piminodine.
-
-Pipradrol.
-
-Piritramide.
-
-Poppy straw and concentrate of poppy straw.
-
-Proheptazine. Properidine.
-
-Propiram.
-
-Psilocin.
-
-Quinalbarbitone.
-
-Racemethorphan.
-
-Racemoramide.
-
-Racemorphan.
-
-Thebacon.
-
-Thebaine.
-
-Trimeperidine.
-
-4-Cyano-2-dimethylamino-4, 4-diphenylbutane.
-
-4-Cyano-1-methyl-4-phenylpiperidine.
-
-N, N-Diethyltryptamine.
-
-N, N-Dimethyltryptamine.
-
-2, 5-Dimethoxy-α, 4-dimethyl-phenethylamine.
-
-1-Methyl-4-phenylpiperidine-4-carboxylic acid.
-
-2-Methyl-3-morpholino-1, 1-diphenylpropanecarboxylic acid.
-
-4-Phenylpiperidine-4-carboxylic acid ethyl ester.
+Racemethorphan. Racemoramide. Racemorphan. Thebacon. Thebaine. Trimeperidine. 4-Cyano-2-dimethylamino-4, 4-diphenylbutane. 4-Cyano-1-methyl-4-phenylpiperidine. N, N-Diethyltryptamine. N, N-Dimethyltryptamine. 2, 5-Dimethoxy-α, 4-dimethyl-phenethylamine. 1-Methyl-4-phenylpiperidine-4-carboxylic acid. 2-Methyl-3-morpholino-1, 1-diphenylpropanecarboxylic acid. 4-Phenylpiperidine-4-carboxylic acid ethyl ester.
 
 1A. (a) N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide
 
-Alfentanil
-
-(3-Amino-2,2-dimethylpropyl)-4-aminobenzoate
+Alfentanil (3-Amino-2,2-dimethylpropyl)-4-aminobenzoate
 
 5-(2-Aminopropyl) indole
 
@@ -272,7 +32,9 @@ Cathinone
 
 3,4-Dichloro-N-[[1-(dimethylamino) cyclohexyl]methyl]benzamide
 
-Dihydroetorphine [2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl) pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone
+Dihydroetorphine
+
+[2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl) pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone
 
 Dimethocaine
 
@@ -288,9 +50,9 @@ Etryptamine
 
 1-(4-Fluorophenyl)-2-methylaminopropan-1-one
 
-9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahy-drobenzo[c]chromen-1-ol
+9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol
 
-[9-Hydroxy-6-methyl-3-[5-phenylpentan-2-yl]oxy-5,6,6a,7,8,9,10,10a-octahydrophen-anthridin-1-yl] acetate
+[9-Hydroxy-6-methyl-3-[5-phenylpentan-2-yl]oxy-5,6,6a,7,8,9,10,10a-octahydrophenanthridin-1-yl] acetate
 
 N-Hydroxy-tenamphetamine
 
@@ -308,9 +70,7 @@ Methcathinone
 
 1-(4-Methoxyphenyl)-2-(methylamino) propan-1-one
 
-Methyl (2S,4aR,6aR,7R,10aS,10bR)-9-acetyloxy-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxo-2,4a,5,6,7,8,9,10a-octahydro-1H-benzo[f]isochromene-7-carboxylate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
-
-2-Methylamino-1-(3,4-methylenedioxyphenyl) butan-1-one
+Methyl (2S,4aR,6aR,7R,10aS,10bR)-9-acetyloxy-2-(furan-3-yl)-6a,10b-dimethyl- 4,10-dioxo-2,4a,5,6,7,8,9,10a-octahydro-1H-benzo[f]isochromene-7-carboxylate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance 2-Methylamino-1-(3,4-methylenedioxyphenyl) butan-1-one
 
 2-Methylamino-1-(3,4-methylenedioxyphenyl) propan-1-one
 
@@ -320,7 +80,9 @@ Methyl (2S,4aR,6aR,7R,10aS,10bR)-9-acetyloxy-2-(furan-3-yl)-6a,10b-dimethyl-4,10
 
 Methyl 2-[[1-(cyclohexylmethyl) indole-3-carbonyl]amino]-3,3-dimethylbutanoate
 
-Methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro- 1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoateandanyproduct,whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance Methyl(E)-2-[(2S,3S,12bS)-3-ethyl-8-methoxy-1,2,3,4,6,7,12,12b-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
+Methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
+
+Methyl (E)-2-[(2S,3S,12bS)-3-ethyl-8-methoxy-1,2,3,4,6,7,12,12b- octahydroindolo[2,3- a]quinolizin-2-yl]-3-methoxyprop-2-enoate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
 
 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine
 
@@ -360,7 +122,7 @@ N-[1-(2-Thenyl)-4-piperidyl]propionanilide
 
 Tilidine.
 
-(b) Any substance (not being bupropion) structurally derived from 2-amino-1-phenyl- 1-propanone by modification in any of the following ways:
+(b) Any substance (not being bupropion) structurally derived from 2-amino- 1-phenyl-1-propanone by modification in any of the following ways:
 
 (i) by substitution in the phenyl ring to any extent with alkyl, alkenyl, alkynyl, alkoxy, alkylthio, alkylenedioxy, haloalkyl or halo substituents, whether or not further substituted in the phenyl ring by one or more other univalent substituents;
 
@@ -404,7 +166,7 @@ Tilidine.
 
 (g) Any substance structurally derived from 2-(3-hydroxycyclohexyl)phenol by substitution at the 5-position of the phenolic ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the cyclohexyl ring to any extent.
 
-(h) Any substance structurally derived from 3-(1-naphthoyl)indoleor 1H-indol-3-yl-(1-naphthyl) methane by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent.
+(h) Any substance structurally derived from 3-(1-naphthoyl)indoleor 1H-indol- 3-yl-(1-naphthyl) methane by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent.
 
 (i) Any substance structurally derived from 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent.
 
@@ -482,7 +244,9 @@ Diethylpropion
 
 Dihydrofuran-2(3H)-one
 
-Estazolam Ethchlorvnol
+Estazolam
+
+Ethchlorvnol
 
 Ethinamate
 
@@ -498,9 +262,7 @@ Fenproporex
 
 Fludiazepam
 
-Flunitrazepam
-
-Flurazepam
+Flunitrazepam Flurazepam
 
 Glutethimide
 
@@ -540,7 +302,9 @@ Midazolam
 
 Nalbuphine
 
-Nimetazepam Nitrazepam
+Nimetazepam
+
+Nitrazepam
 
 Nordazepam
 
@@ -566,9 +330,7 @@ Pyrovalerone
 
 Selegiline
 
-Temazepam
-
-Tetrazepam
+Temazepam Tetrazepam
 
 Triazolam
 
