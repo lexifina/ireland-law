@@ -11,3 +11,5 @@ False declaration.
 (c) by substituting for subsection (4) the following:
 
 “(4) A person shall not forge or fraudulently alter or use, or fraudulently lend to, or allow to be used by, any other person, any licence, permit, plate, badge or certificate issued under this Act or under regulations made under section 34 of the Taxi Regulation Act 2003.”.
+
+O.J. No. L46, 17.02.97, p.1
