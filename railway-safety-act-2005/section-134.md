@@ -4,9 +4,9 @@ Amendment of Transport (Railway Infrastructure) Act 2001.
 
 134.—(1) The following sections are substituted for section 66 of the Transport (Railway Infrastructure) Act 2001:
 
-“Bye-laws.
+“Bye-
 
-66.—(1) Bye-laws may be made—
+66.—(1) Bye-laws may be made— laws.
 
 (a) by the Agency, in relation to a railway, or
 
@@ -68,17 +68,15 @@ Amendment of Transport (Railway Infrastructure) Act 2001.
 
 (9) The liability of an offender to a fine under subsection (8) does not prejudice the recovery of any fare, tariff or fee payable by him or her to the Agency or a railway organisation for any damage caused by him or her to property of the Agency or a railway organisation.
 
-Immobilisation,
+Immobil-
 
-66A.—(1) Where an authorised officer finds on or adjacent to a removal, etc. of railway a vehicle which he or she believes— unlawfully
+66A.—(1) Where an authorised officer finds on or adjacent to a railway isation, a vehicle which he or she believes— removal,
 
-(a) is parked in contravention of bye-laws made under section parked vehicles.
+(a) is parked in contravention of bye-laws made under section 66, etc. of unlaw-
 
-66,
+(b) is or may become a danger or a nuisance to persons, or fully parked
 
-(b) is or may become a danger or a nuisance to persons, or
-
-(c) would otherwise interfere with the proper operation of a railway, he or she or a person acting under his or her direction may—
+(c) would otherwise interfere with the proper operation of a railway, vehicles. he or she or a person acting under his or her direction may—
 
 (i) fix an immobilisation device to the vehicle while it remains in the place where he or she finds it, or
 
@@ -126,11 +124,11 @@ Immobilisation,
 
 ‘vehicle’ has the same meaning as in the Act of 1961.
 
-Powers of
+Powers
 
-66B.—(1) If an authorised officer reasonably suspects that a authorised person— officers.
+66B.—(1) If an authorised officer reasonably suspects that a person— of
 
-(a) is contravening or has contravened or is failing or has failed to comply with a bye-law made under section 66,
+(a) is contravening or has contravened or is failing or has failed to author- comply with a bye-law made under section 66, ised officers.
 
 (b) is committing or has committed on a railway an offence under section 64 or 65,
 
@@ -180,11 +178,11 @@ Powers of
 
 (11) In this section ‘authorised officer’ means a person appointed under this section or a member of the Garda Síochána whose attendance is requested by an authorised officer or by the Agency or a railway organisation.
 
-Fixed payment
+Fixed
 
-66C.—(1) Where— notice.
+66C.—(1) Where— payment
 
-(a) an authorised officer has reasonable grounds for believing that a person is committing or has committed an offence under section 64(1), 66(8) (for a contravention or failure to comply with a bye-law made under that section), 66A(5) or (6), or 66B(2) or section 118 or 132 of the Railway Safety Act 2005, or
+(a) an authorised officer has reasonable grounds for believing that notice. a person is committing or has committed an offence under section 64(1), 66(8) (for a contravention or failure to comply with a bye-law made under that section), 66A(5) or (6), or 66B(2) or section 118 or 132 of the Railway Safety Act 2005, or
 
 (b) a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed an offence under section 54(5), he or she may serve the person with a notice (‘fixed payment notice’) in the prescribed form stating that—
 
