@@ -32,4 +32,6 @@ In this Part, a reference to a Regulation is a reference to a Regulation of the 
 
 ## PART 8 CONTRAVENTION OF REGULATION 19 OF EUROPEAN COMMUNITIES (VEHICLE TESTING) REGULATIONS 2004
 
-In this Part, a reference to a Regulation is a reference to a Regulation of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004).”.
+In this Part, a reference to a Regulation is a reference to a Regulation of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004).
+
+”.
