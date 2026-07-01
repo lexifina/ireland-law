@@ -4,9 +4,9 @@ Obligation to notify certain mergers and acquisitions.
 
 (a) in relation to a proposed merger or acquisition, in the most recent financial year—
 
-(i) the aggregate turnover in the State of the undertakings involved is not less than €60,000,000, and
+(i) the aggregate turnover in the State of the undertakings involved is not less than €100,000,000, and
 
-(ii) the turnover in the State of each of 2 or more of the undertakings involved is not less than €10,000,000, or
+(ii) the turnover in the State of each of 2 or more of the undertakings involved is not less than €15,000,000, or
 
 (b) a proposed merger or acquisition falls within a class of merger or acquisition specified in an order under subsection (5), each of the undertakings involved in the merger or acquisition shall notify the Commission in writing, and provide full details, of the proposal to put the merger or acquisition into effect.
 
