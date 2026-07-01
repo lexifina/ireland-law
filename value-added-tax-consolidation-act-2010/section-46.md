@@ -24,11 +24,11 @@ Rates of tax.
 
 (ii) services of a kind specified in subparagraph (3) of paragraph 9B of Schedule 3, on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
-(cb) during the period from 1 November 2020 to 31 August 2023, 9 per cent in relation to goods or services of a kind specified in paragraphs 3(1), 3(3), 7(b) to (e), 8, 11 and 13(3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
+(cb) 9 per cent in relation to goods or services of a kind specified in paragraphs 3(1), 3(3) and 13(3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
 (d) 4.8 per cent of the amount on which tax is chargeable in relation to the supply of livestock ....
 
-(1A) During the period from 1 September 2020 to 28 February 2021, paragraph (a) of subsection (1) shall have effect as if there were substituted "21 per cent" for "23 per cent".
+(1A) During the period from 1 September 2020 to 28 February 2021, paragraph (a) of subsection (1) shall have effect as if there were substituted “21 per cent” for “23 per cent”.
 
 (2) The rate at which tax is chargeable under section 3(a), (c), (d) or (e) is the rate in force at the time when the tax becomes due as provided by section 74(1) or (2) or 75 (whichever is applicable).
 
@@ -40,7 +40,7 @@ Rates of tax.
 
 (c) An order under this subsection shall be laid before Dáil Éireann as soon as may be after it has been made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
-(5) (a) Where the European Commission adopts a decision to extend or further extend the period of application of the relief granted by Commission Decision (EU) 2020/491 to a date later than 30 April 2021 or to any later date, as the case may be (in this paragraph referred to as the "extended period"), the Minister shall by order amend subclause (ii) of paragraph 11(4)(a) of Schedule 2 so as to extend or further extend, as the case may be, the period specified in that subclause for such extended period.
+(5) (a) Where the European Commission adopts a decision to extend or further extend the period of application of the relief granted by Commission Decision (EU) 2020/491 to a date later than 30 April 2021 or to any later date, as the case may be (in this paragraph referred to as the “extended period”), the Minister shall by order amend subclause (ii) of paragraph 11(4)(a) of Schedule 2 so as to extend or further extend, as the case may be, the period specified in that subclause for such extended period.
 
 (b) An order under paragraph (a) may, if so expressed, have retrospective effect.
 
@@ -48,6 +48,6 @@ Rates of tax.
 
 (d) In this subsection—
 
-"Commission Decision (EU) 2020/491" means Commission Decision (EU) 2020/491 of 3 April 2020 on relief from import duties and VAT exemption on importation granted for goods needed to combat the effects of the Covid-19 outbreak during 2020, as amended by Commission Decision (EU) 2020/1101 of 23 July 2020 and Commission Decision (EU) 2020/1573 of 28 October 2020;
+“Commission Decision (EU) 2020/491” means Commission Decision (EU) 2020/491 of 3 April 2020 on relief from import duties and VAT exemption on importation granted for goods needed to combat the effects of the Covid-19 outbreak during 2020, as amended by Commission Decision (EU) 2020/1101 of 23 July 2020 and Commission Decision (EU) 2020/1573 of 28 October 2020;
 
-"Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+“Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
