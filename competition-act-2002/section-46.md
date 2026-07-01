@@ -1,3 +1,3 @@
-Relationship
+Relationship of Authority with foreign competition bodies. (Repealed)
 
 46.—...

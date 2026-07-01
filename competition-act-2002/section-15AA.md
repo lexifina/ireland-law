@@ -6,7 +6,7 @@ Administrative financial sanctions.
 
 (b) under section 15X(2)(a)(ii) that the undertaking or association of undertakings breached a procedural requirement, including where the adjudication officer determined that the breach is ongoing,
 
-(c) under section 15X(2)(a)(iii) that the undertaking or association of undertakings failed to comply with commitments entered into under section 15AE, including where the adjudication officer determined that the failure to comply is ongoing ,
+(c) under section 15X(2)(a)(iii) that the undertaking or association of undertakings failed to comply with commitments entered into under section 15AE, including where the adjudication officer determined that the failure to comply is ongoing,
 
 (d) under section 15X(2)(a)(iv) that the undertaking or association of undertakings failed to comply with a structural or behavioural remedy ordered under section 15X in accordance with section 15Z, including where the adjudication officer determined that the failure to comply is ongoing, or
 
