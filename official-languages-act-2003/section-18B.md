@@ -4,7 +4,7 @@ Membership of Advisory Committee.
 
 (a) a Chairperson, and
 
-(b) not less than 5 and not more than 10 ordinary members, each of whom shall be appointed by the Minister.
+(b) not less than 5 and not more than 15 ordinary members, each of whom shall be appointed by the Minister.
 
 (2) The Minister shall designate one member of the Advisory Committee as Chairperson, and the person so designated shall be a person who is competent in the Irish language.
 
@@ -16,7 +16,7 @@ Membership of Advisory Committee.
 
 (c) one member nominated by the Public Appointments Service as a representative of the Public Appointments Service,
 
-(d) not more than 6 other members nominated by public bodies as representatives of such public bodies as the Minister considers appropriate,
+(d) not more than 11 other members nominated by public bodies as representatives of such public bodies as the Minister considers appropriate,
 
 (e) one member, who shall be competent in the Irish language, nominated by the Minister, following a process established by the Public Appointments Service, as a representative of Gaeltacht Language Planning Areas, and
 

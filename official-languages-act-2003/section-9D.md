@@ -1,6 +1,6 @@
 Names and logos of newly established statutory bodies.
 
-9D. —(1) The name of a statutory body established, on and from the commencement of section 4 of the Official Languages (Amendment) Act 2021, shall be in the Irish language.
+9D. —(1) The name of a statutory body established, on and from the commencement of section 4 of the Official Languages (Amendment) Act 2021, shall be in the Irish language only and that name shall be the only name used by the body.
 
 (2) Text that forms part of a logo of a statutory body established, on and from the commencement of section 4 of the Official Languages (Amendment) Act 2021, shall be in the Irish language or in both the Irish and English languages.
 

@@ -2,7 +2,7 @@ Functions of Advisory Committee.
 
 18C. —(1) The Advisory Committee shall —
 
-(a) as soon as may be but not later than 2 years after the establishment day prepare and submit to the Minister for approval a National Plan for the provision of public services through the medium of the Irish language (in this Act referred to as the "National Plan") for a period specified in the National Plan (being not more than 6 years) in order to—
+(a) as soon as may be but not later than 2 years after the establishment day prepare and submit to the Minister for approval a National Plan for the provision of public services through the medium of the Irish language (in this Act referred to as the “National Plan”) for a period specified in the National Plan (being not more than 6 years) in order to—
 
 (i) identify services provided by a public body or class of public bodies that are not provided through the medium of the Irish language and in relation to which the Advisory Committee is of the view that a language standard should be prescribed under section 19A(2), and
 
@@ -32,6 +32,6 @@ Functions of Advisory Committee.
 
 (a) increasing the services provided by public bodies through the medium of the Irish language, having particular regard to services provided by public bodies in Gaeltacht Language Planning Areas, Gaeltacht Service Towns and Irish Language Networks, and
 
-(b) increasing the number of staff of public bodies who are competent in the Irish language so that, as soon as practicable after the establishment day, but no later than 31 December 2030, at least 20 per cent of staff recruited to public bodies are so competent.
+(b) increasing the number of staff of public bodies who are competent in the Irish language so that, as soon as practicable after the establishment day, but no later than 31 December 2030, at least 20 per cent of appointments made in a public body in a given year, by way of recruitment or promotion, are so competent.
 
 (4) The Advisory Committee shall have all such powers as are necessary or expedient for the performance of its functions.
