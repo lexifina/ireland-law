@@ -1,0 +1,15 @@
+## PART VI STAFF
+
+Staff.
+
+38. — (1) ( a ) Subject to the provisions of this section, every person who immediately before the establishment day was a member of the staff of Forf á s shall continue to be a member of the said staff and, where his or her principal duties related to a function which by this Act is vested in the Authority, shall discharge his or her functions in accordance with the directions of the Authority.
+
+( b ) Where immediately before such establishment a person was employed by Forf á s on contract for a specified period or purpose related to a function which by this Act is vested in the Authority the contract shall, with the consent of that person, continue to operate with the substitution, for Forf á s, of the Authority.
+
+(2) The terms and conditions relating to tenure applying to a person to whom paragraph (a) or (b) of subsection (1) applies shall not be less favourable to the person than those prevailing immediately before the application of the relevant paragraph save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned; and if a dispute arises between Forf á s or the Authority and any such person as to terms and conditions prevailing immediately before that application, the matter shall be determined by the Minister for Finance, after consultation with the Minister.
+
+(3) The terms and conditions referred to in subsection (2) shall specifically include the right to apply and be considered for appointment to vacancies which arise in Forf á s, Forbairt or the Industrial Development Agency (Ireland) from time to time after the establishment day.
+
+(4) Save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned, a person to whom subsection (1) applies shall not, while in the service of Forf á s or the Authority, as the case may be, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service than the scale of pay to which he or she was entitled and the terms and conditions of service to which that person was subject immediately before the establishment day.
+
+(5) Until such time as the scales of pay and the terms and conditions under this section are varied by Forf á s or the Authority, as the case may be, following negotiation with recognised trade unions and staff associations concerned, the scales of pay to which any person was entitled and the terms and conditions of service, restrictions, requirements and obligations to which he or she was subject immediately before the establishment day shall continue to apply to that person and may be exercised or imposed by Forf á s or the Authority, as the case may be, while they are in the service to which subsection (1) refers. No such variation shall operate to worsen the scales of pay or the terms or conditions of service aforesaid applicable to any such person before the establishment day, save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned.
