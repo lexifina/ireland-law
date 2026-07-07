@@ -1,6 +1,6 @@
 Transfer of property.
 
-34.—(1) On the establishment day all such property as is agreed between the Minister and Forbairt, including choses in action, which immediately before that day was the property of the Minister shall stand vested in Forbairt without assignment.
+34. — (1) On the establishment day all such property as is agreed between the Minister and Forbairt, including choses in action, which immediately before that day was the property of the Minister shall stand vested in Forbairt without assignment.
 
 (2) On the establishment day, all such equipment as is agreed between the Minister and the local authorities involved, which immediately before that day was the property of those local authorities, shall, on such conditions as are agreed by the parties, stand vested in Forbairt without any assignment.
 

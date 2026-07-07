@@ -2,9 +2,9 @@
 
 Establishment of Legal Metrology Service and Office of Director of Legal Metrology.
 
-7.—(1) The Minister shall by order appoint a day to be the establishment day for the purposes of this Part.
+7. — (1) The Minister shall by order appoint a day to be the establishment day for the purposes of this Part.
 
-(2) On the establishment day there shall stand established a body to be known as the Legal Metrology Service (“the Service”) ...
+(2) On the establishment day there shall stand established a body to be known as the Legal Metrology Service ( “the Service” ) ...
 
 (3) The staff of the National Standards Authority of Ireland shall include a chief officer for the Service who shall be known as the Director of Legal Metrology.
 

@@ -1,6 +1,6 @@
 Marking of instruments.
 
-16.—(1) Instruments which have been subject to the conformity assessment and inspection procedures shall have set thereon marks signifying their conformity to the relevant procedure. These marks, their form, design, application or obliteration together with facilities for receiving such marks shall be prescribed by the Director.
+16. — (1) Instruments which have been subject to the conformity assessment and inspection procedures shall have set thereon marks signifying their conformity to the relevant procedure. These marks, their form, design, application or obliteration together with facilities for receiving such marks shall be prescribed by the Director.
 
 (2) If application of the marks presents any technical difficulty, exceptions may be made by the Director.
 

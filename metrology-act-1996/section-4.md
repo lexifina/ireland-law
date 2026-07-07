@@ -1,6 +1,6 @@
 Fees.
 
-4.—(1) Under the powers conferred by section 38 of the Industrial Research and Standards Act, 1961, the National Standards Authority of Ireland may, with the consent of the Minister, charge fees for type examination, approval, verification, inspection, certification, hiring of standards and other services provided by the Service under this Act.
+4. — (1) Under the powers conferred by section 38 of the Industrial Research and Standards Act, 1961, the National Standards Authority of Ireland may, with the consent of the Minister, charge fees for type examination, approval, verification, inspection, certification, hiring of standards and other services provided by the Service under this Act.
 
 (2) On the coming into effect of the fees under subsection (1) the enactments listed in Part IV of the First Schedule shall stand repealed.
 

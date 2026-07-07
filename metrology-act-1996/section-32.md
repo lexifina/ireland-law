@@ -1,6 +1,6 @@
 Prosecution of offences.
 
-32.—(1) Summary proceedings for offences under this Act may be brought and prosecuted by the Director.
+32. — (1) Summary proceedings for offences under this Act may be brought and prosecuted by the Director.
 
 (2) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within 12 months from the date of the offence.
 

@@ -2,7 +2,7 @@
 
 Sale, distribution and use of metrological instruments.
 
-13.—(1) Every person who makes, sells, imports or causes to be made or sold, any instrument intended for use for trade or any prescribed purpose, or who uses or has in his or her possession for use any instrument for any such purpose, shall ensure that the relevant conformity assessment procedure referred to in section 14 has been applied to it.
+13. — (1) Every person who makes, sells, imports or causes to be made or sold, any instrument intended for use for trade or any prescribed purpose, or who uses or has in his or her possession for use any instrument for any such purpose, shall ensure that the relevant conformity assessment procedure referred to in section 14 has been applied to it.
 
 (2) A person who knowingly fails or neglects to comply with subsection (1) shall be guilty of an offence.
 

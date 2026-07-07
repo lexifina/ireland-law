@@ -1,6 +1,6 @@
 Denominations of standard.
 
-20.—(1) Where permitted under the European Communities (Units of Measurement) Regulations, 1992, and subject to the provisions of this section, no person shall have in his or her possession for a prescribed use any linear or capacity standard measure which is not of a denomination shown in the Second Schedule or any weight which is not so included.
+20. — (1) Where permitted under the European Communities (Units of Measurement) Regulations, 1992, and subject to the provisions of this section, no person shall have in his or her possession for a prescribed use any linear or capacity standard measure which is not of a denomination shown in the Second Schedule or any weight which is not so included.
 
 (2) Subsection (1) does not apply to capacity measures over 10 litres or 1 gallon.
 
