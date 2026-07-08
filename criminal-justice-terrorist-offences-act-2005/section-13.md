@@ -20,9 +20,21 @@ Offence of financing terrorism.
 
 (4) A person who attempts to commit an offence under subsection (3) is guilty of an offence.
 
-(5) An offence may be committed under subsection (1) or (3) whether or not the funds are used to carry out an act referred to in subsection (1) or (3)(b), as the case may be.
+(5) (a) In proceedings for an offence under subsection (1), it shall not be necessary to prove that—
 
-(6) Subsections (1) and (2) apply to an act committed outside the State if the act—
+(i) the funds concerned were wholly or partly used for the purpose of carrying out an act referred to in that subsection (1), or
+
+(ii) the accused was aware of the specific act for which the funds concerned were, or were to be, wholly or partly used.
+
+(b) In proceedings for an offence under subsection (3) to which paragraph (a) of that subsection applies, it shall not be necessary to prove that the funds concerned were wholly or partly used for the benefit or purposes of a terrorist group within the meaning of Part 2.
+
+(c) In proceedings for an offence under subsection (3) to which paragraph (b) of that subsection applies, it shall not be necessary to prove that—
+
+(i) the funds concerned were wholly or partly used for the purpose of carrying out an act referred to in the said paragraph (b), or
+
+(ii) the accused was aware of the specific act for which the funds concerned were, or were to be, wholly or partly used.
+
+(6) Subsections (1), (2), (3) and (4) apply to an act committed outside the State if the act—
 
 (a) is committed on board an Irish ship,
 
@@ -36,10 +48,12 @@ Offence of financing terrorism.
 
 (f) is directed towards or results in the carrying out of an act referred to in subsection (1) in an attempt to compel the State to do or abstain from doing any act.
 
-(7) Subsections (1) and (2) apply also to an act committed outside the State in circumstances other than those referred to in subsection (6), but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in section 43(2) for an offence in respect of that act except as authorised by section 43(3).
+(7) Subsections (1), (2), (3) and (4) apply also to an act committed outside the State in circumstances other than those referred to in subsection (6), but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings referred to in section 43(2) for an offence in respect of that act except as authorised by section 43(3).
 
 (8) A person guilty of an offence under this section is liable—
 
 (a) on summary conviction, to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both, or
 
 (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 20 years or both.
+
+(9) Subsections (9) and (10) of section 6 shall apply for the purposes of this section as they apply for the purposes of that section subject to the modification that the reference in the said subsection (9) to an offence under that section shall be construed as a reference to an offence under this section.

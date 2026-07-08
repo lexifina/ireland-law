@@ -1,364 +1,290 @@
 SCHEDULE 1
 
-PART 1
+DIRECTIVE (EU) 2017/541 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA
 
-TREOIRCHINNEADH ÓN gCOMHAIRLE 2002/475 CGB an 13 Meitheamh 2002 maidir leis an sceimhlitheoireacht a chomhrac
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
-TÁ COMHAIRLE AN AONTAIS EORPAIGH,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 83(1) thereof,
 
-Ag féachaint don Chonradh ag bunú an Aontais Eorpaigh, agus go háirithe Airteagal 29, Airteagal 31(e) agus Airteagal 34(2)(b) de,
+Having regard to the proposal from the European Commission,
 
-Ag féachaint don togra ón gCoimisiún,
+After transmission of the draft legislative act to the national parliaments,
 
-Ag féachaint don Tuairim ó Pharlaimint na hEorpa,
+Having regard to the opinion of the European Economic and Social Committee,
 
-De bhrí:
-
-(1) Go bhfuil an tAontas Eorpach fothaithe ar na luachanna uilechoiteanna arb iad dínit an duine, an tsaoirse, an comhionannas agus an dlúthpháirtíocht, an urraim do chearta an duine agus do shaoirsí bunúsacha. Tá sé bunaithe ar phrionsabal an daonlathais agus ar phrionsabal an smacht reachta, prionsabail is coiteann do na Ballstáit.
-
-(2) Tá an sceimhlitheoireacht ar cheann de na sáruithe is tromchúisí ar na prionsabail sin. Daingníonn Dearbhú La Gomera arna ghlacadh ag an gcruinniú neamhfhoirmiúil den Chomhairle ar an 14 Deireadh Fómhair 1995 go bhfuil an sceimhlitheoireacht ina bagairt ar an daonlathas, ar shaorfheidhmiú chearta an duine agus ar an bhforbraíocht eacnamaíoch agus sóisialta.
-
-(3) Is páirtithe na Ballstáit uile nó cuid díobh i roinnt coinbhinsiún a bhaineann leis an sceimhlitheoireacht. De réir Choinbhinsiún Chomhairle na hEorpa an 27 Eanáir 1977 maidir leis an Sceimhlitheoireacht a Dhíothú ní cionta polaitiúla iad cionta sceimh litheoireachta ná ní cionta iad atá bainteach le cionta polaitiúla ná ní tucaidí polaitiúla is siocair leo. Tá Coinbhinsiún maidir le buamálacha sceimhlitheoireachta a dhíothú an 15 Nollaig 1997 agus Coinbhinsiún maidir le maoiniú na sceimhlitheoireachta a dhíothú an 9 Nollaig 1999 glactha ag na Náisiúin Aontaithe. Tá dréachtchoinbhinsiún domhanda in aghaidh na sceimhlitheoireachta á dhréachtú faoi láthair sna Náisiúin Aontaithe.
-
-(4) Ag leibhéal an Aontais Eorpaigh, ghlac an Chomhairle ar an 3 Nollaig 1998 Plean Gníomhaíochta na Comhairle agus an Choimisiúin maidir leis an dóigh is fearr chun forálacha Chonradh Amstardam a chur chun feidhme a bhaineann le limistéar saoirse, slándála agus ceartais. Ba chóir aird a thabhairt freisin ar Chonclúidí ón gComhairle an 20 Meán Fómhair 2001 agus ar phlean gníomhaíochta chun an sceimhlitheoireacht a chomhrac ón gComhairle Eorpach Urghnách an 21 Meán Fómhair 2001. Rinneadh tagairt don sceimhlitheoireacht i gconclúidí ón gComhairle Eorpach in Tampere an 15 agus 16 Deireadh Fómhair 1999, agus ón gComhairle Eorpach in Santa María da Feira an 19 agus 20 Meitheamh 2000. Tá sí luaite freisin sa chumarsáid ón gCoimisiún chuig an gComhairle agus Parlaimint na hEorpa i dtaca le tabhairt suas chun dáta leathbhliantúil an scórchláir chun an dul chun cinn a athbhreithniú maidir le limistéar “saoirse, slándála agus ceartais” a chruthú san Aontas Eorpach (dara leath de 2000). Fairis sin, ar an 5 Meán Fómhair 2001 ghlac Parlaimint na hEorpa moladh maidir le ról an Aontais Eorpaigh sa chomhrac in aghaidh na sceimhlitheoireachta. Ina theannta sin, ba chóir a mheabhrú gur chomhairligh na príomhthíortha tionsclaithe (G7) agus an Rúis ar an 30 Iúil 1996 ag teacht le chéile dóibh i bPáras cúig bheart fichead chun an sceimhlitheoireacht a chomhrac.
-
-IO C 332, 27.11.2001, Ich. 300. Tuairim a tugadh ar an 6 Feabhra 2002 (nach bhfuil foilsithe fós san Iris Oifigiúil). IO C 19, 23.1.1999, Ich. 1.
-
-(5) Tá an iliomad beart sonrach glactha ag an Aontas Eorpach chun an sceimhlitheoireacht agus an choiriúlacht eagraithe a chomhrac, amhail Cinneadh ón gComhairle an 3 Nollaig 1998 ag cur de chúram ar Europol déileáil le coireanna arna ndéanamh nó ar dóigh go ndéanfaí le linn gníomhaíochtaí sceimhlitheoireachta in aghaidh bheatha an duine, a iomláine coirp, saoirse phearsanta nó maoin; Gníomh Comhpháirteach 96/610/CGB ón gComhairle an 15 Deireadh Fómhair 1996 maidir le clár d'inniúlachtaí, scileanna agus sainoilteacht frithsceimhlitheoireachta a chruthú agus a choimeád ar bun chun an comhar frithsceimhlitheoireachta idir na Ballstáit den Aontas Eorpach a éascú; Gníomh Comhpháirteach 98/428/CGB ón gComhairle an 29 Meitheamh 1998 maidir le Gréasán Breithiúnach Eorpach a chruthú, le freagrachtaí i leith cionta sceimhlitheoireachta, agus go háirithe Airteagal 2 de; Gníomh Comhpháirteach 98/733/CGB ón gComhairle an 21 Nollaig 1998 maidir le cion coiriúil a dhéanamh de rannpháirteachas in eagraíocht choiriúil sna Ballstáit den Aontas Eorpach; agus Moladh ón gComhairle an 9 Nollaig 1999 maidir le comhar sa chomhrac in aghaidh grúpaí sceimhlitheoireachta a mhaoiniú.
-
-(6) Ba chóir comhfhogasú a dhéanamh i ngach Ballstát ar an sainmhíniú de chionta sceimhlitheoireachta, lena n-áirítear na cionta sin a bhaineann le grúpaí sceimhlitheoireachta. Fairis sin, ba chóir pionóis agus smachtbhannaí a léiríonn tromchúis na gcionta sin a leagan síos i leith daoine nádúrtha agus dlítheanacha a bhfuil cionta den sórt sin déanta acu nó atá freagrach as cionta den sórt sin.
-
-(7) Ba chóir rialacha dlínse a bhunú chun a áirithiú gur féidir an cion sceimhlitheoireachta a ionchúiseamh go héifeachtach.
-
-(8) Tá íospartaigh na gcionta sceimhlitheoireachta soghonta agus is gá mar sin bearta sonracha maidir leo.
-
-(9) Toisc nach féidir leis na Ballstáit ag gníomhú go haontaobhach dóibh cuspóirí an ghnímh atá beartaithe a ghnóthú go leordhóthanach agus gur féidir mar sin, toisc an gá atá le cómhalartú, na cuspóirí a ghnóthú níos fearr ag leibhéal an Aontais, féadfaidh an tAontas bearta a ghlacadh i gcomhréir le prionsabal na coimhdeachta. I gcomhréir le prionsabal na comhréireachta, ní théann an Treoirchinneadh seo thar mar is gá d'fhonn na cuspóirí sin a ghnóthú.
-
-(10) Urramaíonn an Treoirchinneadh seo na cearta bunúsacha mar atá arna ráthú sa Choinbhinsiún Eorpach chun Cearta an Duine agus Saoirsí Bunúsacha a Chosaint agus faoi mar a fhabhraíonn siad sna traidisiúin bhunreachtúla is coiteann do na Ballstáit mar phrionsabail de dhlí an Chomhphobail. Urramaíonn an tAontas na prionsabail atá aitheanta in Airteagal 6(2) den Chonradh ar an Aontas Eorpach agus atá le fáil freisin sa Chairt um Chearta Bunúsacha den Aontas Eorpach, go háirithe Caibidil VI de. Ní féidir aon ní sa Treoirchinneadh seo a fhorléiriú amhail is gurb é is aidhm dó cearta nó saoirsí bunúsacha a laghdú nó a shrianadh amhail an ceart chun dul ar stailc, an tsaoirse comhthionóil, comhlachais nó friotail, lena n-áirítear an ceart ag gach duine ceardchumainn a chur ar bun le daoine eile agus bheith ina bhall díobh chun a leasanna a chosaint, agus an ceart chun léirsiú atá gaolmhar leis.
-
-(11) Gníomhartha arna ndéanamh ag fórsaí armtha le linn tréimhsí de choinbhleacht armtha, atá faoi rialú ag an dlí daonnachtúil idirnáisiúnta de réir bhrí na dtéarmaí sin faoin dlí sin, agus gníomhartha arna ndéanamh ag fórsaí armtha an Stáit agus a ndualgais oifigiúla á bhfeidhmiú acu, a mhéad atá siad faoi rialú ag rialacha eile den dlí idirnáisiúnta, níl siad faoi rialú ag an Treoirchinneadh seo,
-
-TAR ÉIS AN TREOIRCHINNEADH SEO A GHLACADH:
-
-Airteagal 1
-
-Cionta sceimhlitheoireachta agus cearta agus prionsabail bunúsacha
-
-IO C 26, 30.1.1999, Ich. 22. IO L 273, 25.10.1996, Ich. 1. IO L 191, 7.7.1998, Ich. 4. IO L 351, 29.12.1998, Ich. 1. IO C 373, 23.12.1999, Ich. 1.
-
-1. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go ndéantar na gníomhartha intinneacha dá dtagraítcar thíos i bpointí (a) go (i), mar atá siad sainithe mar chionta faoin dlí náisiúnta, a fhéadfaidh mar gheall ar a gcineál nó a gcomhthéacs, tír nó eagraíocht idirnáisiúnta a dhochrú go tromchúiseach má dhéantar iad d'fhonn:
-
-— pobal a imeaglú go tromchúiseach, nó
-
-— iallach a chur go míchuí ar rialtas nó eagraíocht idirnáisiúnta gníomh a dhéanamh nó staonadh ó ghníomh a dhéanamh, nó
-
-— na struchtúir bhunúsacha sóisialta, eacnamaíocha, bunreachtúla nó polaitiúla i dtír nó in eagraíocht idirnáisiúnta a dhíchobhsú go tromchúiseach nó a mhilleadh, a mheas mar chionta sceimhlitheoireachta:
-
-(a) ionsaithe ar bheatha an duine a fhéadfaidh a bheith ina dtrúig bháis;
-
-(b) ionsaithe ar iomláine coirp an duine;
-
-(c) fuadach nó giall a ghabháil;
-
-(d) cur faoi deara saoráid rialtais nó poiblí, córas iompair, saoráid bonneagair, lena n-áirítear saoráid faisnéise, ardán fosaitheach arna shuíomh ar an scairbh ilchríochach, ionad poiblí nó maoin phríobháideach a léirscrios ar dóigh dó beatha an duine a chur i gcontúirt nó mórchaillteanas eacnamaíoch a dhéanamh;
-
-(e) aerárthaigh, longa nó córacha eile iompair daoine nó earraí a ghabháil;
-
-(f) airm, pléascáin nó airm núicléacha bitheolaíocha nó ceimiceacha a mhonarú, a shealbhú, a fháil, a iompar, a sholáthar nó a úsáid, agus taighde a dhéanamh ar airm bhitheolaíocha agus ceimiceacha agus iad a fhorbairt;
-
-(g) substaintí contúirteacha a scaoileadh nó bheith ina shiocair tinte, tuilte nó pléascán arb é is éifeacht dóibh beatha an duine a chur i gcontúirt;
-
-(h) cur isteach ar sholáthar uisce, cumhachta nó aon bhunacmhainne nádúrtha eile nó iad a réabadh arb é is éifeacht dóibh beatha an duine a chur i gcontúirt;
-
-(i) bheith ag bagairt aon cheann de na gníomhartha atá liostaithe in (a) go (h) a dhéanamh.
-
-2. Ní bheidh d'éifeacht ag an Treoirchinneadh seo an oibleagáid a athrú cearta bunúsacha agus prionsabail dlí bunúsacha a urramú mar atá siad leagtha amach in Airteagal 6 den Chonradh ar an Aontas Eorpach.
-
-Airteagal 2
-
-Cionta a bhaineann le grúpa sceimhlitheoireachta
-
-1. Chun críocha an Treoirchinnidh seo, ciallaíonn “grúpa sceimhlitheoireachta” grúpa struchtúrtha ina bhfuil beirt nó níos mó, arna bhunú thar tréimhse ama agus a ghníomhaíonn ar dhóigh chomhbheartaithe chun cionta sceimhlitheoireachta a dhéanamh. Ciallaíonn “grúpa struchtúrtha” grúpa nach gcuirtear le chéile de thaisme chun cion a dhéanamh láithreach agus nach gá go bhfuil rólanna arna sainiú go foirmiúil aige dá chuid ball, leanúnachas ballraíochta ná struchtúr forbartha.
-
-2. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go bhfuil na gníomhartha intinneacha seo a leanas inphionóis:
-
-(a) grúpa sceimhlitheoireachta a stiúradh;
-
-(b) bheith rannpháirteach i ngníomhaíochtaí grúpa sceimhlitheoireachta, go fiú trí fhaisnéis nó acmhainní ábhartha a sholáthar, nó trína ghníomhaíochtaí a mhaoiniú ar aon dóigh, agus a bheith ar an eolas go rannchuideoidh an rannpháirteachas sin le gníomhaíochtaí coiriúla an ghrúpa sceimhlitheoireachta.
-
-Airteagal 3
-
-Cionta atá nasctha le gníomhaíochtaí sceimhlitheoireachta
-
-Glacfaidh gach Ballstát na bearta is gá chun a áirithiú gur féidir na gníomhartha seo a leanas a áireamh ar na cionta atá nasctha leis an sceimhlitheoireacht:
-
-(a) tromghoid d'fhonn ceann de na gníomhartha atá liostaithe in Airteagal 1(1) a dhéanamh;
-
-(b) sracaireacht d'fhonn ceann de na gníomhartha atá liostaithe in Airteagal 1(1) a dhéanamh;
-
-(c) doiciméid riarthacha bréagacha a tharraingt suas d'fhonn ceann de na gníomhartha atá liostaithe in Airteagal 1(1)(a) go (h) agus Airteagal 2(2)(b) a dhéanamh.
-
-Airteagal 4
-
-Gríosú, cabhrú nó neartú, agus iarracht
-
-1. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go ndéantar inphionóis an gníomh chun gríosú nó cabhrú nó neartú le cion a dhéanamh dá dtagraítear in Airteagal 1(1), Airteagail 2 nó 3.
-
-2. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go ndéantar inphionóis an iarracht chun cion a dhéanamh dá dtagraítear in Airteagal 1(1) agus Airteagal 3, amach ó shealbhú dá bhforáiltear in Airteagal 1(1)(f), agus an cion dá dtagraítear in Airteagal 1(1)(i).
-
-Airteagal 5
-
-Pionóis
-
-1. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go ndéantar inphionóis na cionta dá dtagraítear in Airteagail 1 go 4 le pionóis choiriúla atá éifeachtach, comhréireach agus athchomhairleach ar a bhfuil an t-eiseachadadh le háireamh.
-
-2. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go ndéantar inphionóis na cionta sceimhlitheoireachta dá dtagraítear in Airteagal 1(1) agus na cionta dá dtagraítear in Airteagal 4, a mhéad a bhaineann siad le cionta sceimhlitheoireachta, le pianbhreitheanna faoi choimeád is troime ná na pianbhreitheanna is infhorchurtha faoin dlí náisiúnta i leith cionta den sórt sin nuair nach bhfuil an intinn speisialta ann atá riachtanach de bhun Airteagal 1(1), ach amháin nuair atá na pianbhreitheanna is infhorchurtha ar na huasphianbhreitheanna is féidir faoin dlí náisiúnta.
-
-3. Glacfaidh gach Ballstát na bearta is gá chun aáirithiú go ndéantar inphionóis na cionta atá liostaithe in Airteagal 2 le pianbhreitheanna faoi choimeád, le huasphianbhreith nach lú ná cúig bliana déag i leith an chiona dá dtagraítear in Airteagal 2(2)(a), agus le huasphianbhreith nach lú ná ocht mbliana i leith na gcionta atá liostaithe in Airteagal 2(2)(b). A mhéad nach dtagraíonn an cion atá luaite in Airteagal 2 (2)(a) ach don ghníomh in Airteagal 1(1)(i), ní lú ná ocht mbliana an uasphianbhreith.
-
-Airteagal 6
-
-Imthosca ar leith
-
-Glacfaidh gach Ballstát na bearta is gá chun a áirithiú gur féidir na cionta dá dtagraítear in Airteagal 5 a laghdú má dhéanann an ciontóir:
-
-(a) gníomhaíocht sceimhlitheoireachta a thréigean, agus
-
-(b) faisnéis a sholáthar do na húdaráis riarthacha nó breithiúnacha nach dtiocfadh leo a fháil ar a mhalairt de dhóigh, ag cuidiú leo:
-
-(i) éifeachtaí an chiona a chosc nó a mhaolú;
-
-(ii) na ciontóirí eile a shainaithint nó a thabhairt os comhair an dlí;
-
-(iii) fianaise a aimsiú; nó
-
-(iv) cionta eile dá dtagraítear in Airteagail 1 go 4 a chosc.
-
-Airteagal 7
-
-Dliteanas daoine dlítheanacha
-
-1. Glacfaidh gach Ballstát na bearta is gá chun a áirithiú gur féidir daoine dlítheanacha a chur faoi dhliteanas maidir le haon cheann de na cionta dá dtagraítear in Airteagail 1 go 4 arna dhéanamh ar mhaithe leo ag aon duine, ag gníomhú dó go leithleach nó mar chuid d'orgán an duine dlítheanaigh, a bhfuil ionad ceannaireachta aige laistigh den duine dlítheanach, arna bhunú ar cheann de na nithe seo a leanas:
-
-(a) cumhacht ionadaíochta thar ceann an duine dlítheanaigh;
-
-(b) údarás chun cinntí a ghlacadh thar ceann an duine dlítheanaigh,
-
-(c) údarás chun rialú a fheidhmiú laistigh den duine dlítheanach.
-
-2. Ach amháin sna cásanna dá bhforáiltear i mír 1, glacfaidh gach Ballstát na bearta is gá chun a áirithiú gur féidir daoine dlítheanacha a chur faoi dhliteanas nuair is mar gheall ar ghanntanas maoirseachta nó rialú ag duine dá dtagraítear i mír 1 a dhéantar na cionta dá dtagraítear in Airteagail 1 go 4 ar mhaithe leis an duine dlítheanach sin ag duine faoina údarás.
-
-3. Dliteanas de chuid daoine dlítheanacha faoi mhíreanna 1 agus 2, ní eisiafaidh sé imeachtaí coiriúla in aghaidh daoine nádúrtha is déantóirí, gríosóirí nó cúlpháirtithe in aon cheann de na cionta dá dtagraítear in Airteagail 1 go 4.
-
-Airteagal 8
-
-Pionóis in aghaidh daoine dlítheanacha
-
-Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go bhfuil duine dlítheanach atá faoi dhliteanas de bhun Airteagal 7 inphionóis le pionóis atá éifeachtach, comhréireach agus athchomhairleach lena n-áirítear fíneálacha coiriúla nó neamhchoiriúla agus ar a mbeidh pionóis eile le háireamh, amhail:
-
-(a) eisiamh ó bheith i dteideal sochair nó cabhair poiblí a fháil;
-
-(b) dícháiliúchán sealadach nó buan ó ghníomhaíochtaí tráchtála a chleachtadh;
-
-(c) cur faoi mhaoirseacht bhreithiúnach;
-
-(d) ordú um foirceannadh breithiúnach;
-
-(e) bunaíochtaí a dhúnadh go sealadach nó go buan a úsáideadh chun an cion a dhéanamh.
-
-Airteagal 9
-
-Dlínse agus ionchúiseamh
-
-1. Glacfaidh gach Ballstát na bearta is gá chun a dhlínse a bhunú maidir leis na cionta uile dá dtagraítear in Airteagail 1 go 4 nuair:
-
-(a) a dhéantar an cion go hiomlán nó go páirteach ar a chríoch. Féadfaidh gach Ballstát a dhlínse a fhairsingiú má dhéantar an cion ar chríoch de chuid Ballstáit;
-
-(b) a dhéantar an cion ar bord loinge a bhfuil a bratach ar foluain aici nó ar aerárthach atá cláraithe ansin;
-
-(c) is náisiúnach nó cónaitheoir dá chuid an ciontóir;
-
-(d) a dhéantar an cion ar mhaithe le duine dlítheanach atá bunaithe ar a chríoch;
-
-(e) a dhéantar an cion in aghaidh institiúidí nó phobal an Bhallstáit i gceist nó in aghaidh institiúid den Aontas Eorpach nó comhlacht arna chur ar bun i gcomhréir leis an gConradh ag bunú an Chomhphobail Eorpaigh nó leis an gConradh ar an Aontas Eorpach agus a bhfuil a shuíomh aige sa Bhallstát sin.
-
-2. Nuair a thiteann cion faoi dhlínse Ballstát amháin nó níos mó agus nuair is féidir le haon cheann de na Ballstáit i dtrácht ionchúiseamh go bailí ar bhonn na bhfíoras céanna, rachaidh na Ballstáit i dtrácht i gcomhar le chéile chun a chinneadh cé acu ceann a dhéanfaidh na ciontóirí a ionchúiseamh ionas, más féidir, na himeachtaí a lárú in aon Bhallstát amháin. Chuige sin, féadfaidh na Ballstáit dul ar iontaoibh aon chomhlacht nó meicníocht atá bunaithe san Aontas Eorpach d'fhonn an comhar idir na húdaráis bhreithiúnacha a éascú agus a ngníomhaíocht a chomhordú. Tabharfar aird ar dhóigh leanúnach ar na cúinsí seo a leanas:
-
-— is é an Ballstát an Ballstát ar ar a chríoch a rinneadh na gníomhartha,
-
-— is é an Ballstát an Ballstát ar náisiúnach nó cónaitheoir dá chuid an déantóir,
-
-— is é an Ballstát Ballstát tionscnaimh na n-íospartach,
-
-— is é an Ballstát an Ballstát ar ar a chríoch a fuarthas an déantóir.
-
-3. Glacfaidh gach Ballstát na bearta is gá chun a dhlínse a bhunú freisin maidir leis na cionta dá dtagraítear in Airteagail 1 go 4 i gcásanna nuair a dhiúltaíonn sé duine faoi amhras ciona nó duine arna chiontú i gcion den sórt sin a ghéilleadh nó a eiseachadadh chuig Ballstát eile nó chuig tríú tír.
-
-4. Déanfaidh gach Ballstát a áirithiú go bhfolaíonn a dhlínse cásanna ina ndearnadh aon cheann de na cionta dá dtagraítear in Airteagail 2 agus 4 go hiomlán nó go páirteach ar a chríoch, is cuma cá bhfuil an grúpa sceimhlitheoireachta bunaithe nó cá saothraíonn sé a chuid gníomhaíochtaí coiriúla.
-
-5. Ní eisiafaidh an tAirteagal seo dlínse a fheidhmiú in ábhair choiriúla mar atá arna leagan síos ag Ballstát i gcomhréir lena reachtaíocht náisiúnta.
-
-Airteagal 10
-
-Íospartaigh a chosaint agus cuidiú leo
-
-1. Déanfaidh na Ballstáit a áirithiú nach bhfuil imscrúduithe ar na cionta nó ionchúiseamh na gcionta atá folaithe sa Treoirchinneadh seo ag brath ar thuarascáil nó cúiseamh ó dhuine is íospartach, ar a laghad má rinneadh na gníomhartha ar chríoch an Bhallstáit.
-
-2. I dteannta leis na bearta atá leagtha síos i dTreoirchinneadh 2001/220/CGB ón gComhairle an 15 Márta 2001 maidir le seasamh na n-íospartach in imeachtaí coiriúla, glacfaidh gach Ballstát, más gá, gach beart is féidir chun cúnamh iomchuí a áirithiú do theaghlaigh na n-íospartach.
-
-Airteagal 11
-
-Cur chun feidhme agus tuarascálacha
-
-1. Glacfaidh na Ballstáit na bearta is gá chun an Treoirchinneadh seo a chomhlíonadh faoi cheann 31 Nollaig 2002.
-
-2. Faoi cheann 31 Nollaig 2002, díreoidh na Ballstáit chuig ArdRúnaíocht na Comhairle agus chuig an gCoimisiún téacs na bhforálacha a thrasuíonn ina ndlí náisiúnta na hoibleagáidí arna bhforchur orthu faoin Treoirchinneadh seo. Ar bhonn tuarascáil arna tarraingt suas ar an bhfaisnéis sin agus ar bhonn tuarascáil ón gCoimisiún, measúnóidh an Chomhairle, faoi cheann 31 Nollaig 2003, an bhfuil na bearta is gá glactha ag na Ballstáit chun an Treoirchinneadh seo a chomhlíonadh.
-
-3. Sonróidh an tuarascáil ón gCoimisiún, ach go háirithe, trasuí na hoibleagáide dá dtagraítear in Airteagal 5(2) i ndlí coiriúil na mBallstát.
-
-Airteagal 12
-
-Cur i bhfeidhm críochach
-
-Beidh an treoirchinneadh seo infheidhme ar Ghiobráltar.
-
-Airteagal 13
-
-Teacht i bhfeidhm
-
-Tiocfaidh an Treoirchinneadh seo i bhfeidhm ar lá a fhoilsithe in Iris Oifigiúil na gComhphobal Eorpach.
-
-Arna dhéanamh i Lucsamburg, an 13 Meitheamh 2002.
-
-Thar ceann na Comhairle An tUachtarán M. RAJOY BREY
-
-PART 2
-
-(Acts adopted pursuant to Title VI of the Treaty on European Union)
-
-COUNCIL FRAMEWORK DECISION of 13 June 2002 on combating terrorism
-
-(2002/475/JHA)
-
-THE COUNCIL OF THE EUROPEAN UNION,
-
-Having regard to the Treaty establishing the European Union, and in particular Article 29, Article 31(e) and Article 34(2)(b) thereof,
-
-Having regard to the proposal from the Commission,
-
-IO L82, 22.3.2001, Ich. 1.
-
-Having regard to the opinion of the European Parliament,
+Acting in accordance with the ordinary legislative procedure,
 
 Whereas:
 
-(1) The European Union is founded on the universal values of human dignity, liberty, equality and solidarity, respect for human rights and fundamental freedoms. It is based on the principle of democracy and the principle of the rule of law, principles which are common to the Member States.
+(1) The Union is founded on the universal values of human dignity, freedom, equality and solidarity, and respect for human rights and fundamental freedoms. It is based on the principles of democracy and the rule of law, which are common to the Member States.
 
-(2) Terrorism constitutes one of the most serious violations of those principles. The La Gomera Declaration adopted at the informal Council meeting on 14 October 1995 affirmed that terrorism constitutes a threat to democracy, to the free exercise of human rights and to economic and social development.
+(2) Acts of terrorism constitute one of the most serious violations of the universal values of human dignity, freedom, equality and solidarity, and enjoyment of human rights and fundamental freedoms on which the Union is founded. They also represent one of the most serious attacks on democracy and the rule of law, principles which are common to the Member States and on which the Union is based.
 
-(3) All or some Member States are party to a number of conventions relating to terrorism. The Council of Europe Convention of 27 January 1977 on the Suppression of Terrorism does not regard terrorist offences as political offences or as offences connected with political offences or as offences inspired by political motives. The United Nations has adopted the Convention for the suppression of terrorist bombings of 15 December 1997 and the Convention for the suppression of financing terrorism of 9 December 1999. A draft global Convention against terrorism is currently being negotiated within the United Nations.
+(3) Council Framework Decision 2002/475/JHA is the cornerstone of the Member States’ criminal justice response to counter terrorism. A legal framework common to all Member States, and in particular, a harmonised definition of terrorist offences, serves as a benchmark for information exchange and cooperation between the competent national authorities under Council Framework Decision 2006/960/JHA, Council Decisions 2008/615/JHA and 2005/671/JHA, Regulation (EU) No 603/2013 of the European Parliament and of the Council, and Council Framework Decisions 2002/584/JHA and 2002/465/JHA.
 
-(4) At European Union level, on 3 December 1998 the Council adopted the Action Plan of the Council and the Commission on how best to implement the provisions of the Treaty of Amsterdam on an area of freedom, security and justice. Account should also be taken of the Council Conclusions of 20 September 2001 and of the Extra-ordinary European Council plan of action to combat terrorism of 21 September 2001. Terrorism was referred to in the conclusions of the Tampere European Council of 15 and 16 October 1999, and of the Santa María da Feira European Council of 19 and 20 June 2000. It was also mentioned in the Commission communication to the Council and the European Parliament on the biannual update of the score-board to review progress on the creation of an area of ‘freedom, security and justice’ in the European Union (second half of 2000). Furthermore, on 5 September 2001 the European Parliament adopted a recommendation on the role of the European Union in combating terrorism. It should, moreover, be recalled that on 30 July 1996 twenty-five measures to fight against terrorism were advocated by the leading industrialised countries (G7) and Russia meeting in Paris.
+(4) The terrorist threat has grown and rapidly evolved in recent years. Individuals referred to as “foreign terrorist fighters” travel abroad for the purpose of terrorism. Returning foreign terrorist fighters pose a heightened security threat to all Member States. Foreign terrorist fighters have been linked to recent attacks and plots in several Member States. In addition, the Union and its Member States face increased threats from individuals who are inspired or instructed by terrorist groups abroad but who remain within Europe.
 
-(5) The European Union has adopted numerous specific measures having an impact on terrorism and organised crime, such as the Council Decision of 3 December 1998 instructing Europol to deal with crimes committed or likely to be committed in the course of terrorist activities against life, limb, personal freedom or property; Council Joint Action 96/610/JHA of 15 October 1996 concerning the creation and maintenance of a Directory of specialised counter-terrorist competences, skills and expertise to facilitate counter-terrorism cooperation between the Member States of the European Union; Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network, with responsibilities in terrorist offences, in particular Article 2; Council Joint Action 98/733/JHA of 21 December 1998 on making it a criminal offence to participate in a criminal organisation in the Member States of the European Union; and the Council Recommendation of 9 December 1999 on cooperation in combating the financing of terrorist groups.
+(5) In its Resolution 2178 (2014), the UN Security Council expressed its concern over the growing threat posed by foreign terrorist fighters and required all Member States of the UN to ensure that offences related to this phenomenon are punishable under national law. The Council of Europe has, in this respect, adopted in 2015 the
 
-(6) The definition of terrorist offences should be approximated in all Member States, including those offences relating to terrorist groups. Furthermore, penalties and sanctions should be provided for natural and legal persons having committed or being liable for such offences, which reflect the seriousness of such offences.
+Position of the European Parliament of 16 February 2017 (not yet published in the Official Journal) and decision of the Council of 7 March 2017.
 
-Opinion delivered on 6 February 2002 (not yet published in the Official Journal).
+Additional Protocol to the Council of Europe Convention on the Prevention of Terrorism.
 
-(7) Jurisdictional rules should be established to ensure that the terrorist offence may be effectively prosecuted.
+(6) Taking account of the evolution of terrorist threats to and legal obligations on the Union and Member States under international law, the definition of terrorist offences, of offences related to a terrorist group and of offences related to terrorist activities should be further approximated in all Member States, so that it covers conduct related to, in particular, foreign terrorist fighters and terrorist financing more comprehensively. These forms of conduct should also be punishable if committed through the internet, including social media.
 
-(8) Victims of terrorist offences are vulnerable, and therefore specific measures are necessary with regard to them.
+(7) Furthermore, the cross-border nature of terrorism requires a strong coordinated response and cooperation within and between the Member States, as well as with and among the competent Union agencies and bodies to counter terrorism, including Eurojust and Europol. To that end, efficient use of the available tools and resources for cooperation should be made, such as joint investigation teams and coordination meetings facilitated by Eurojust. The global character of terrorism necessitates an international answer, requiring the Union and its Member States to strengthen cooperation with relevant third countries. A strong coordinated response and cooperation is also necessary with a view to securing and obtaining electronic evidence.
 
-(9) Given that the objectives of the proposed action cannot be sufficiently achieved by the Member States unilaterally, and can therefore, because of the need for reciprocity, be better achieved at the level of the Union, the Union may adopt measures, in accordance with the principle of subsidiarity. In accordance with the principle of proportionality, this Framework Decision does not go beyond what is necessary in order to achieve those objectives.
+(8) This Directive exhaustively lists a number of serious crimes, such as attacks against a person’s life, as intentional acts that can qualify as terrorist offences when and insofar as committed with a specific terrorist aim, namely to seriously intimidate a population, to unduly compel a government or an international organisation to perform or abstain from performing any act, or to seriously destabilise or destroy the fundamental political, constitutional, economic or social structures of a country or an international organisation. The threat to commit such intentional acts should also be considered to be a terrorist offence when it is established, on the basis of objective circumstances, that such threat was made with any such terrorist aim. By contrast, acts aiming, for example, to compel a government to perform or abstain from performing any act, without however being included in the exhaustive list of serious crimes, are not considered to be terrorist offences in accordance with this Directive.
 
-(10) This Framework Decision respects fundamental rights as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms and as they emerge from the constitutional traditions common to the Member States as principles of Community law. The Union observes the principles recognised by Article 6(2) of the Treaty on European Union and reflected in the Charter of Fundamental Rights of the European Union, notably Chapter VI thereof. Nothing in this Framework Decision may be interpreted as being intended to reduce or restrict fundamental rights or freedoms such as the right to strike, freedom of assembly, of association or of expression, including the right of everyone to form and to join trade unions with others for the protection of his or her interests and the related right to demonstrate.
+(9) The offences related to terrorist activities are of a very serious nature as they have the potential to lead to the commission of terrorist offences and enable terrorists and terrorist groups to maintain and further develop their criminal activities, justifying the criminalisation of such conduct.
 
-(11) Actions by armed forces during periods of armed conflict, which are governed by international humanitarian law within the meaning of these terms under that law, and, inasmuch as they are governed by other rules of international law, actions by the armed forces of a State in the exercise of their official duties are not governed by this Framework Decision,
+(10) The offence of public provocation to commit a terrorist offence act comprises, inter alia, the glorification and justification of terrorism or the dissemination of messages or images online and offline, including those related to the victims of terrorism as a way to gather support for terrorist causes or to seriously intimidate the population. Such conduct should be punishable when it causes a danger that terrorist acts may be committed. In each concrete case, when considering whether such a danger is caused, the specific circumstances of the case should be taken into account, such as the author and the addressee of the message, as well as the context in which the act is committed. The significance and the credible nature of the danger should be also considered when applying the provision on public provocation in accordance with national law.
 
-HAS ADOPTED THIS FRAMEWORK DECISION:
+(11) Criminalisation of receiving training for terrorism complements the existing offence of providing training and specifically addresses the threats resulting from those actively preparing for the commission of terrorist offences, including those ultimately acting alone. Receiving training for terrorism includes obtaining knowledge, documentation or practical skills. Self-study, including through the internet or consulting other teaching material, should also be considered to be receiving training for terrorism when resulting from active conduct and done with the intent to commit or contribute to the commission of a terrorist offence. In the context of all of the specific circumstances of the case, this intention can for instance be inferred from the type of materials and the frequency of reference. Thus, download-ing a manual to make explosives for the purpose of committing a terrorist offence could be considered to be receiving training for terrorism. By contrast, merely visiting websites or collecting materials for legitimate purposes, such as academic or research purposes, is not considered to be receiving training for terrorism under this Directive.
+
+(12) Considering the seriousness of the threat and the need, in particular, to stem the flow of foreign terrorist fighters, it is necessary to criminalise outbound travelling for the purpose of terrorism, namely not only the commission of terrorist offences and providing or receiving training but also the participation in the activities of a terrorist group. It is not indispensable to criminalise the act of travelling as such. Furthermore, travel to the territory of the Union for the purpose of terrorism presents a growing security threat. Member States may also decide to address terrorist threats arising from travel for the purpose of terrorism to the Member State concerned by criminalising preparatory acts, which may include planning or conspiracy, with a view to committing or contributing to a terrorist offence. Any act of facilitation of such travel should also be criminalised.
+
+(13) Illicit trade in firearms, oil, drugs, cigarettes, counterfeit goods and cultural objects, as well as trafficking in human beings, racketeering and extortion have become lucrative ways for terrorist groups to obtain funding. In this context, the increasing links between organised crime and terrorist groups constitute a growing security threat to the Union and should therefore be taken into account by the authorities of the Member States involved in criminal proceedings.
+
+(14) Directive (EU) 2015/849 of the European Parliament and of the Council establishes common rules on the prevention of the use of the Union’s financial system for the purposes of money laundering or terrorist financing. In addition to this preventive approach, terrorist financing should be punishable in the Member States. Criminalisation should cover not only the financing of terrorist acts, but also the financing of a terrorist group, as well as other offences related to terrorist activities, such as the recruitment and training, or travel for the purpose of terrorism, with a view to disrupting the support structures facilitating the commission of terrorist offences.
+
+(15) The provision of material support for terrorism through persons engaging in or acting as intermediaries in the supply or movement of services, assets and goods, including trade transactions involving the entry into or exit from the Union, such as the sale, acquisition or exchange of a cultural object of archaeological, artistic, historical or scientific interest illegally removed from an area controlled by a terrorist group at the time of the removal, should be punishable, in the Member States, as aiding and abetting terrorism or as terrorist financing if performed with the knowledge that these operations or the proceeds thereof are intended to be used, in full or in part, for the purpose of terrorism or will benefit terrorist groups. Further measures may be necessary with a view to effectively combating the illicit trade in cultural objects as a source of income for terrorist groups.
+
+(16) The attempt to travel for the purpose of terrorism, to provide training for terrorism and to recruit for terrorism should be punishable.
+
+(17) With regard to the criminal offences provided for in this Directive, the notion of intention must apply to all the elements constituting those offences. The intentional nature of an act or omission may be inferred from objective, factual circumstances.
+
+(18) Penalties and sanctions should be provided for natural and legal persons being liable for such offences, which reflect the seriousness of such offences.
+
+(19) When recruitment and training for terrorism are directed towards a child, Member States should ensure that judges can take this circumstance into account when sentencing offenders, although there is no obligation on judges to increase the sentence. It remains within the discretion of the judge to assess that circumstance together with the other facts of the particular case.
+
+(20) Jurisdictional rules should be established to ensure that the offences laid down in this Directive may be effectively prosecuted. In particular, it appears appropriate to establish jurisdiction for the offences committed by the providers of training for terrorism, whatever their nationality, in view of the possible effects of such conducts on the territory of the Union and of the close material connection between the offences of providing and receiving training for terrorism.
+
+(21) To ensure the success of investigations and the prosecution of terrorist offences, offences related to a terrorist group or offences related to terrorist activities, those responsible for investigating or prosecuting such offences should have the possibility to make use of effective investigative tools such as those which are used in combating organised crime or other serious crimes. The use of such tools, in accordance with national law, should be targeted and take into account the principle of proportionality and the nature and seriousness of the offences under investigation and should respect the right to the protection of personal data. Such tools should, where appropriate, include, for example, the search of any personal property, the interception of communications, covert surveillance including electronic surveillance, the taking and the keeping of audio recordings, in private or public vehicles and places, and of visual images of persons in public vehicles and places, and financial investigations.
+
+(22) An effective means of combating terrorism on the internet is to remove online content constituting a public provocation to commit a terrorist offence at its source. Member States should use their best endeavours to cooperate with third countries in seeking to secure the removal of online content constituting a public provocation to commit a terrorist offence from servers within their territory. However, when removal of such content at its source is not feasible, mechanisms may also be put in place to block access from Union territory to such content. The measures undertaken by Member States in accordance with this Directive in order to remove online content constituting a public provocation to commit a terrorist offence or, where this is not feasible, block access to such content could be based on public action, such as legislative, non-legislative or judicial action. In that context, this Directive is without prejudice to voluntary action taken by the internet industry to prevent the misuse of its services or to any support for such action by Member States, such as detecting and flagging terrorist content. Whichever basis for action or method is chosen, Member States should ensure that it provides an adequate level of legal certainty and predictability for users and service providers and the possibility of judicial redress in accordance with national law. Any such measures must take account of the rights of the end users and comply with existing legal and judicial procedures and the Charter of Fundamental Rights of the European Union (the Charter).
+
+(23) The removal of online content constituting a public provocation to commit a terrorist offence or, where it is not feasible, the blocking of access to such content, in accordance with this Directive, should be without prejudice to the rules laid down in Directive 2000/31/EC of the European Parliament and of the Council. In particular, no general obligation should be imposed on service providers to monitor the information which they transmit or store, nor to actively seek out facts or circumstances indicating illegal activity. Furthermore, hosting service providers should not be held liable as long as they do not have actual knowledge of illegal activity or information and are not aware of the facts or circumstances from which the illegal activity or information is apparent.
+
+(24) To combat terrorism effectively, efficient exchange of information considered to be relevant by the competent authorities for the prevention, detection, investigation or prosecution of terrorist offences between competent authorities and Union agencies, is crucial. Member States should ensure that information is exchanged in an effective and timely manner in accordance with national law and the existing Union legal framework, such as Decision 2005/671/JHA, Council Decision 2007/533/JHA and Directive (EU) 2016/681 of the European Parliament and of the Council. When considering whether to exchange relevant information, national competent authorities should take into account the serious threat posed by terrorist offences.
+
+(25) To strengthen the existing framework on information exchange in combating terrorism, as set out in Decision 2005/671/JHA, Member States should ensure that relevant information gathered by their competent authorities in the framework of criminal proceedings, for example, law enforcement authorities, prosecutors or investigative judges, is made accessible to the respective competent authorities of another Member State to which they consider this information could be relevant. As a minimum, such relevant information should include, as appropriate, the information that is transmitted to Europol or Eurojust in accordance with Decision 2005/671/JHA. This is subject to Union rules on data protection, as laid down in Directive (EU) 2016/680 of the European Parliament and of the Council and without prejudice to Union rules on cooperation between competent national authorities in the framework of criminal proceedings, such as those laid down in Directive 2014/41/EU of the European Parliament and of the Council or Framework Decision 2006/960/JHA.
+
+(26) Relevant information gathered by competent authorities of the Member States in the framework of criminal proceedings in connection with terrorist offences should be exchanged. The term “criminal proceedings” is understood to cover all stages of the proceedings, from the moment a person is suspected or accused of having committed a criminal offence until the decision on the final determination of whether that person committed the criminal offence concerned has become definitive.
+
+(27) Member States should adopt measures of protection, support and assistance responding to the specific needs of victims of terrorism, in accordance with Directive 2012/29/EU of the European Parliament and the Council and as further qualified by this Directive. A victim of terrorism is that defined in Article 2 of Directive 2012/29/EU, namely a natural person who has suffered harm, including physical, mental or emotional harm or economic loss, insofar as that was directly caused by a terrorist offence, or a family member of a person whose death was directly caused by a terrorist offence and who has suffered harm as a result of that person’s death. Family members of surviving victims of terrorism, as defined in that Article, have access to victim support services and protection measures in accordance with that Directive.
+
+(28) The assistance with victims’ compensation claims is without prejudice and in addition to the assistance which victims of terrorism receive from assisting authorities in accordance with Council Directive 2004/80/EC. This is without prejudice to the national rules on legal representation for claiming compensation, including through legal aid arrangements, and any other relevant national rules on compensation.
+
+(29) Member States should ensure that a comprehensive response to the specific needs of victims of terrorism immediately after a terrorist attack and for as long as necessary is provided within the national emergency-response infrastructure. To that end, Member States may set up a single and updated website with all relevant information and an emergency support centre for victims and their family members providing for psychological first aid and emotional support. Initiatives of Member States in this respect should be supported by making full use of available common assistance mechanisms and resources at Union level. Support services should take into account that specific needs of victims of terrorism may evolve over time. In that regard, the Member States should ensure that support services address in the first place at least the emotional and psychological needs of the most vulnerable victims of terrorism, and inform all victims of terrorism about the availability of further emotional and psychological support including trauma support and counselling.
+
+(30) Member States should ensure that all victims of terrorism have access to information about victims’ rights, available support services and compensation schemes in the Member State where the terrorist offence was committed. Member States concerned should take appropriate action to facilitate cooperation with each other in order to ensure that victims of terrorism who are residents of a Member State other than that where the terrorist offence was committed, have effective access to such information. Moreover the Member States should ensure that victims of terrorism have access to long-term support services in the Member State of their residence, even if the terrorist offence took place in another Member State.
+
+(31) As reflected in the revised EU Strategy for Combating Radicalisation and Recruitment to Terrorism of 2014 and in the Conclusions of the Council of the European Union and of the Member States meeting within the Council on enhancing the criminal justice response to radicalisation leading to terrorism and violent extremism of 2015, prevention of radicalisation and recruitment to terrorism, including radicalisation online, requires a long-term, proactive and comprehensive approach. Such approach should combine measures in the area of criminal justice with policies in the fields of education, social inclusion and integration, as well as the provision of effective deradicalisation or disengagement and exit or rehabilitation programmes, including in the prison and probation context. Member States should share good practices on effective measures and projects in this field, in particular as regards foreign terrorist fighters as well as returnees, where appropriate in cooperation with the Commission and the relevant Union agencies and bodies.
+
+(32) Member States should pursue their efforts to prevent and counter radicalisation leading to terrorism by coordinating, by sharing information and experience on national prevention policies, and by implementing or, as the case may be, updating national prevention policies taking into account their own needs, objectives and capabilities building on their own experiences. The Commission should, where appropriate, provide support to national, regional and local authorities in developing prevention policies.
+
+(33) Member States should, depending on the relevant needs and particular circumstances in each Member State, provide support to professionals, including civil society partners likely to come in contact with persons vulnerable to radicalisation. Such support measures may include, in particular, training and awareness-raising measures aimed at enabling them to identify and address signs of radicalisation. Such measures should, where appropriate, be taken in cooperation with private companies, relevant civil society organisations, local communities and other stake holders.
+
+(34) Since the objectives of this Directive cannot be sufficiently achieved by the Member States but can rather, by reason of the need for Union-wide harmonised rules, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity, as set out in Article 5 of the Treaty on European Union (TEU). In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+(35) This Directive respects the principles recognised by Article 2 TEU, respects fundamental rights and freedoms and observes the principles recognised, in particular, by the Charter, including those set out in Titles II, III, V and VI thereof which encompass, inter alia, the right to liberty and security, freedom of expression and information, freedom of association and freedom of thought, conscience and religion, the general prohibition of discrimination, in particular on grounds of race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, the right to respect for private and family life and the right to protection of personal data, the principles of legality and proportionality of criminal offences and penalties, covering also the requirement of precision, clarity and foreseeability in criminal law, the presumption of innocence as well as freedom of movement as set out in Article 21(1) of the Treaty on the Functioning of the European Union (TFEU) and in Directive 2004/38/EC of the European Parliament and of the Council. This Directive has to be implemented in accordance with those rights and principles taking also into account the European Convention for the Protection of Human Rights and Fundamental Freedoms, the International Covenant on Civil and Political Rights, and other human rights obligations under international law.
+
+(36) This Directive is without prejudice to the Member States’ obligations under Union law with regard to the procedural rights of suspects or accused persons in criminal proceedings.
+
+(37) This Directive should not have the effect of altering the rights, obligations and responsibilities of the Member States under international law, including under international humanitarian law. This Directive does not govern the activities of armed forces during periods of armed conflict, which are governed by international humanitarian law within the meaning of those terms under that law, and, inasmuch as they are governed by other rules of international law, activities of the military forces of a State in the exercise of their official duties.
+
+(38) The provision of humanitarian activities by impartial humanitarian organisations recognised by international law, including international humanitarian law, do not fall within the scope of this Directive, while taking into account the case-law of the Court of Justice of the European Union.
+
+(39) The implementation of criminal law measures adopted under this Directive should be proportional to the nature and circumstances of the offence, with respect to the legitimate aims pursued and to their necessity in a democratic society, and should exclude any form of arbitrariness, racism or discrimination.
+
+(40) Nothing in this Directive should be interpreted as being intended to reduce or restrict the dissemination of information for scientific, academic or reporting purposes. The expression of radical, polemic or controversial views in the public debate on sensitive political questions, falls outside the scope of this Directive and, in particular, of the definition of public provocation to commit terrorist offences.
+
+(41) In accordance with Articles 1 and 2 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the TEU and to the TFEU, and without prejudice to Article 4 of that Protocol, those Member States are not taking part in the adoption of this Directive and are not bound by it or subject to its application.
+
+(42) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark annexed to the TEU and to the TFEU, Denmark is not taking part in the adoption of this Directive and is not bound by it or subject to its application.
+
+(43) This Directive should therefore replace Framework Decision 2002/475/JHA with regard to the Member States bound by this Directive and amend Decision 2005/671/JHA,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+TITLE I
+
+SUBJECT MATTER AND DEFINITIONS
 
 Article 1
 
-Terrorist offences and fundamental rights and principles
+Subject matter
 
-1. Each Member State shall take the necessary measures to ensure that the intentional acts referred to below in points (a) to (i), as defined as offences under national law, which, given their nature or context, may seriously damage a country or an international organisation where committed with the aim of:
-
-— seriously intimidating a population, or
-
-— unduly compelling a Government or international organisation to perform or abstain from performing any act, or
-
-— seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a country or an international organisation, shall be deemed to be terrorist offences:
-
-(a) attacks upon a person's life which may cause death;
-
-(b) attacks upon the physical integrity of a person;
-
-(c) kidnapping or hostage taking;
-
-(d) causing extensive destruction to a Government or public facility, a transport system, an infrastructure facility, including an information system, a fixed platform located on the continental shelf, a public place or private property likely to endanger human life or result in major economic loss;
-
-(e) seizure of aircraft, ships or other means of public or goods transport;
-
-(f) manufacture, possession, acquisition, transport, supply or use of weapons, explosives or of nuclear, biological or chemical weapons, as well as research into, and development of, biological and chemical weapons;
-
-(g) release of dangerous substances, or causing fires, floods or explosions the effect of which is to endanger human life;
-
-(h) interfering with or disrupting the supply of water, power or any other fundamental natural resource the effect of which is to endanger human life;
-
-(i) threatening to commit any of the acts listed in (a) to (h).
-
-2. This Framework Decision shall not have the effect of altering the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 of the Treaty on European Union.
+This Directive establishes minimum rules concerning the definition of criminal offences and sanctions in the area of terrorist offences, offences related to a terrorist group and offences related to terrorist activities, as well as measures of protection of, and support and assistance to, victims of terrorism.
 
 Article 2
 
+Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) “funds” means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, drafts, letters of credit,
+
+(2) “legal person” means any entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations,
+
+(3) “terrorist group” means a structured group of more than two persons, established for a period of time and acting in concert to commit terrorist offences;
+
+“structured group” means a group that is not randomly formed for the immediate commission of an offence and that does not need to have formally defined roles for its members, continuity of its membership or a developed structure.
+
+TITLE II
+
+TERRORIST OFFENCES AND OFFENCES RELATED TO A TERRORIST GROUP
+
+Article 3
+
+Terrorist offences
+
+1. Member States shall take the necessary measures to ensure that the following intentional acts, as defined as offences under national law, which, given their nature or context, may seriously damage a country or an international organisation, are defined as terrorist offences where committed with one of the aims listed in paragraph 2:
+
+(a) attacks upon a person’s life which may cause death;
+
+(b) attacks upon the physical integrity of a person;
+
+(c) kidnapping or hostage-taking;
+
+(d) causing extensive destruction to a government or public facility, a transport system, an infrastructure facility, including an information system, a fixed platform located on the continental shelf, a public place or private property likely to endanger human life or result in major economic loss;
+
+(e) seizure of aircraft, ships or other means of public or goods transport;
+
+(f) manufacture, possession, acquisition, transport, supply or use of explosives or weapons, including chemical, biological, radiological or nuclear weapons, as well as research into, and development of, chemical, biological, radiological or nuclear weapons;
+
+(g) release of dangerous substances, or causing fires, floods or explosions, the effect of which is to endanger human life;
+
+(h) interfering with or disrupting the supply of water, power or any other fundamental natural resource, the effect of which is to endanger human life;
+
+(i) illegal system interference, as referred to in Article 4 of Directive 2013/40/EU of the European Parliament and of the Council in cases where Article 9(3) or point (b) or (c) of Article 9(4) of that Directive applies, and illegal data interference, as referred to in Article 5 of that Directive in cases where point (c) of Article 9(4) of that Directive applies;
+
+(j) threatening to commit any of the acts listed in points (a) to (i).
+
+2. The aims referred to in paragraph 1 are:
+
+(a) seriously intimidating a population;
+
+(b) unduly compelling a government or an international organisation to perform or abstain from performing any act;
+
+(c) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a country or an international organisation.
+
+Article 4
+
 Offences relating to a terrorist group
 
-1. For the purposes of this Framework Decision, ‘terrorist group’ shall mean: a structured group of more than two persons, established over a period of time and acting in concert to commit terrorist offences. ‘Structured group’ shall mean a group that is not randomly formed for the immediate commission of an offence and that does not need to have formally defined roles for its members, continuity of its membership or a developed structure.
-
-2. Each Member State shall take the necessary measures to ensure that the following intentional acts are punishable:
+Member States shall take the necessary measures to ensure that the following acts, when committed intentionally, are punishable as a criminal offence:
 
 (a) directing a terrorist group;
 
 (b) participating in the activities of a terrorist group, including by supplying information or material resources, or by funding its activities in any way, with knowledge of the fact that such participation will contribute to the criminal activities of the terrorist group.
 
-Article 3
+TITLE III
 
-Offences linked to terrorist activities
-
-Each Member State shall take the necessary measures to ensure that terrorist-linked offences include the following acts:
-
-(a) aggravated theft with a view to committing one of the acts listed in Article 1(1);
-
-(b) extortion with a view to the perpetration of one of the acts listed in Article 1(1);
-
-(c) drawing up false administrative documents with a view to committing one of the acts listed in Article 1(1)(a) to (h) and Article 2(2)(b).
-
-Article 4
-
-Inciting, aiding or abetting, and attempting
-
-1. Each Member State shall take the necessary measures to ensure that inciting or aiding or abetting an offence referred to in Article 1(1), Articles 2 or 3 is made punishable.
-
-2. Each Member State shall take the necessary measures to ensure that attempting to commit an offence referred to in Article 1(1) and Article 3, with the exception of possession as provided for in Article 1(1)(f) and the offence referred to in Article 1(1)(i), is made punishable.
+OFFENCES RELATED TO TERRORIST ACTIVITIES
 
 Article 5
 
-Penalties
+Public provocation to commit a terrorist offence
 
-1. Each Member State shall take the necessary measures to ensure that the offences referred to in Articles 1 to 4 are punishable by effective, proportionate and dissuasive criminal penalties, which may entail extradition.
-
-2. Each Member State shall take the necessary measures to ensure that the terrorist offences referred to in Article 1(1) and offences referred to in Article 4, inasmuch as they relate to terrorist offences, are punishable by custodial sentences heavier than those imposable under national law for such offences in the absence of the special intent required pursuant to Article 1(1), save where the sentences imposable are already the maximum possible sentences under national law.
-
-3. Each Member State shall take the necessary measures to ensure that offences listed in Article 2 are punishable by custodial sentences, with a maximum sentence of not less than fifteen years for the offence referred to in Article 2(2)(a), and for the offences listed in Article 2(2)(b) a maximum sentence of not less than eight years. In so far as the offence referred to in Article 2(2)(a) refers only to the act in Article 1(1)(i), the maximum sentence shall not be less than eight years.
+Member States shall take the necessary measures to ensure that the distribution, or otherwise making available by any means, whether online or offline, of a message to the public, with the intent to incite the commission of one of the offences listed in points (a) to (i) of Article 3(1), where such conduct, directly or indirectly, such as by the glorification of terrorist acts, advocates the commission of terrorist offences, thereby causing a danger that one or more such offences may be committed, is punishable as a criminal offence when committed intentionally.
 
 Article 6
 
-Particular circumstances
+Recruitment for terrorism
 
-Each Member State may take the necessary measures to ensure that the penalties referred to in Article 5 may be reduced if the offender:
+Member States shall take the necessary measures to ensure that soliciting another person to commit or contribute to the commission of one of the offences listed in points (a) to (i) of Article 3(1), or in Article 4 is punishable as a criminal offence when committed intentionally.
 
-(a) renounces terrorist activity, and
+Article 7
+
+Providing training for terrorism
+
+Member States shall take the necessary measures to ensure that providing instruction on the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or on other specific methods or techniques, for the purpose of committing, or contributing to the commission of, one of the offences listed in points (a) to (i) of Article 3(1), knowing that the skills provided are intended to be used for this purpose, is punishable as a criminal offence when committed intentionally.
+
+Article 8
+
+Receiving training for terrorism
+
+Member States shall take the necessary measures to ensure that receiving instruction on the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or on other specific methods or techniques, for the purpose of committing, or contributing to the commission of, one of the offences listed in points (a) to (i) of Article 3(1) is punishable as a criminal offence when committed intentionally.
+
+Article 9
+
+Travelling for the purpose of terrorism
+
+1. Each Member State shall take the necessary measures to ensure that travelling to a country other than that Member State for the purpose of committing, or contributing to the commission of, a terrorist offence as referred to in Article 3, for the purpose of the participation in the activities of a terrorist group with knowledge of the fact that such participation will contribute to the criminal activities of such a group as referred to in Article 4, or for the purpose of the providing or receiving of training for terrorism as referred to in Articles 7 and 8 is punishable as a criminal offence when committed intentionally.
+
+2. Each Member State shall take the necessary measures to ensure that one of the following conducts is punishable as a criminal offence when committed intentionally:
+
+(a) travelling to that Member State for the purpose of committing, or contributing to the commission of, a terrorist offence as referred to in Article 3, for the purpose of the participation in the activities of a terrorist group with knowledge of the fact that such participation will contribute to the criminal activities of such a group as referred to in Article 4, or for the purpose of the providing or receiving of training for terrorism as referred to in Articles 7 and 8; or
+
+(b) preparatory acts undertaken by a person entering that Member State with the intention to commit, or contribute to the commission of, a terrorist offence as referred to in Article 3.
+
+Article 10
+
+Organising or otherwise facilitating travelling for the purpose of terrorism
+
+Member States shall take the necessary measures to ensure that any act of organisation or facilitation that assists any person in travelling for the purpose of terrorism, as referred to in Article 9(1) and point (a) of Article 9(2), knowing that the assistance thus rendered is for that purpose, is punishable as a criminal offence when committed intentionally.
+
+Article 11
+
+Terrorist financing
+
+1. Member States shall take the necessary measures to ensure that providing or collecting funds, by any means, directly or indirectly, with the intention that they be used, or in the knowledge that they are to be used, in full or in part, to commit, or to contribute to the commission of, any of the offences referred to in Articles 3 to 10 is punishable as a criminal offence when committed intentionally.
+
+2. Where the terrorist financing referred to in paragraph 1 of this Article concerns any of the offences laid down in Articles 3, 4 and 9, it shall not be necessary that the funds be in fact used, in full or in part, to commit, or to contribute to the commission of, any of those offences, nor shall it be required that the offender knows for which specific offence or offences the funds are to be used.
+
+Article 12
+
+Other offences related to terrorist activities
+
+Member States shall take the necessary measures to ensure that offences related to terrorist activities include the following intentional acts:
+
+(a) aggravated theft with a view to committing one of the offences listed in Article 3;
+
+(b) extortion with a view to committing one of the offences listed in Article 3;
+
+(c) drawing up or using false administrative documents with a view to committing one of the offences listed in points (a) to (i) of Article 3(1), point (b) of Article 4, and Article 9.
+
+TITLE IV
+
+GENERAL PROVISIONS RELATING TO TERRORIST OFFENCES, OFFENCES RELATED TO A TERRORIST GROUP AND OFFENCES RELATED TO TERRORIST ACTIVITIES
+
+Article 13
+
+Relationship to terrorist offences
+
+For an offence referred to in Article 4 or Title III to be punishable, it shall not be necessary that a terrorist offence be actually committed, nor shall it be necessary, insofar as the offences referred to in Articles 5 to 10 and 12 are concerned, to establish a link to another specific offence laid down in this Directive.
+
+Article 14
+
+Aiding and abetting, inciting and attempting
+
+1. Member States shall take the necessary measures to ensure that aiding and abetting an offence referred to in Articles 3 to 8, 11 and 12 is punishable.
+
+2. Member States shall take the necessary measures to ensure that inciting an offence referred to in Articles 3 to 12 is punishable.
+
+3. Member States shall take the necessary measures to ensure that attempting to commit an offence referred to in Articles 3, 6, 7, Article 9(1), point (a) of Article 9(2), and Articles 11 and 12, with the exception of possession as provided for in point (f) of Article 3(1) and the offence referred to in point (j) of Article 3(1), is punishable.
+
+Article 15
+
+Penalties for natural persons
+
+1. Member States shall take the necessary measures to ensure that the offences referred to in Articles 3 to 12 and 14 are punishable by effective, proportionate and dissuasive criminal penalties, which may entail surrender or extradition.
+
+2. Member States shall take the necessary measures to ensure that the terrorist offences referred to in Article 3 and offences referred to in Article 14, insofar as they relate to terrorist offences, are punishable by custodial sentences heavier than those imposable under national law for such offences in the absence of the special intent required pursuant to Article 3, except where the sentences imposable are already the maximum possible sentences under national law.
+
+3. Member States shall take the necessary measures to ensure that offences listed in Article 4 are punishable by custodial sentences, with a maximum sentence of not less than 15 years for the offence referred to in point (a) of Article 4, and for the offences listed in point (b) of Article 4 a maximum sentence of not less than 8 years. Where the terrorist offence referred to in point (j) of Article 3(1) is committed by a person directing a terrorist group as referred to in point (a) of Article 4, the maximum sentence shall not be less than 8 years.
+
+4. Member States shall take the necessary measures to ensure that when a criminal offence referred to in Article 6 or 7 is directed towards a child, this may, in accordance with national law, be taken into account when sentencing.
+
+Article 16
+
+Mitigating circumstances
+
+Member States may take the necessary measures to ensure that the penalties referred to in Article 15 may be reduced if the offender:
+
+(a) renounces terrorist activity; and
 
 (b) provides the administrative or judicial authorities with information which they would not otherwise have been able to obtain, helping them to:
 
@@ -368,13 +294,13 @@ Each Member State may take the necessary measures to ensure that the penalties r
 
 (iii) find evidence; or
 
-(iv) prevent further offences referred to in Articles 1 to 4.
+(iv) prevent further offences referred to in Articles 3 to 12 and 14.
 
-Article 7
+Article 17
 
 Liability of legal persons
 
-1. Each Member State shall take the necessary measures to ensure that legal persons can be held liable for any of the offences referred to in Articles 1 to 4 committed for their benefit by any person, acting either individually or as part of an organ of the legal person, who has a leading position within the legal person, based on one of the following:
+1. Member States shall take the necessary measures to ensure that legal persons can be held liable for any of the offences referred to in Articles 3 to 12 and 14 committed for their benefit by any person, acting either individually or as part of an organ of the legal person, and having a leading position within the legal person, based on one of the following:
 
 (a) a power of representation of the legal person;
 
@@ -382,15 +308,15 @@ Liability of legal persons
 
 (c) an authority to exercise control within the legal person.
 
-2. Apart from the cases provided for in paragraph 1, each Member State shall take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 has made possible the commission of any of the offences referred to in Articles 1 to 4 for the benefit of that legal person by a person under its authority.
+2. Member States shall also take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 of this Article has made possible the commission of any of the offences referred to in Articles 3 to 12 and 14 for the benefit of that legal person by a person under its authority.
 
-3. Liability of legal persons under paragraphs 1 and 2 shall not exclude criminal proceedings against natural persons who are perpetrators, instigators or accessories in any of the offences referred to in Articles 1 to 4.
+3. Liability of legal persons under paragraphs 1 and 2 of this Article shall not exclude criminal proceedings against natural persons who are perpetrators, inciters or accessories in any of the offences referred to in Articles 3 to 12 and 14.
 
-Article 8
+Article 18
 
-Penalties for legal persons
+Sanctions for legal persons
 
-Each Member State shall take the necessary measures to ensure that a legal person held liable pursuant to Article 7 is punishable by effective, proportionate and dissuasive penalties, which shall include criminal or non-criminal fines and may include other penalties, such as:
+Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 17 is punishable by effective, proportionate and dissuasive sanctions, which shall include criminal or non-criminal fines and may include other sanctions, such as:
 
 (a) exclusion from entitlement to public benefits or aid;
 
@@ -402,13 +328,13 @@ Each Member State shall take the necessary measures to ensure that a legal perso
 
 (e) temporary or permanent closure of establishments which have been used for committing the offence.
 
-Article 9
+Article 19
 
 Jurisdiction and prosecution
 
-1. Each Member State shall take the necessary measures to establish its jurisdiction over the offences referred to in Articles 1 to 4 where:
+1. Each Member State shall take the necessary measures to establish its jurisdiction over the offences referred to in Articles 3 to 12 and 14 where:
 
-(a) the offence is committed in whole or in part in its territory. Each Member State may extend its jurisdiction if the offence is committed in the territory of a Member State;
+(a) the offence is committed in whole or in part in its territory;
 
 (b) the offence is committed on board a vessel flying its flag or an aircraft registered there;
 
@@ -416,183 +342,177 @@ Jurisdiction and prosecution
 
 (d) the offence is committed for the benefit of a legal person established in its territory;
 
-(e) the offence is committed against the institutions or people of the Member State in question or against an institution of the European Union or a body set up in accordance with the Treaty establishing the European Community or the Treaty on European Union and based in that Member State.
+(e) the offence is committed against the institutions or people of the Member State in question or against an institution, body, office or agency of the Union based in that Member State.
 
-2. When an offence falls within the jurisdiction of more than one Member State and when any of the States concerned can validly prosecute on the basis of the same facts, the Member States concerned shall cooperate in order to decide which of them will prosecute the offenders with the aim, if possible, of centralising proceedings in a single Member State. To this end, the Member States may have recourse to any body or mechanism established within the European Union in order to facilitate cooperation between their judicial authorities and the coordination of their action. Sequential account shall be taken of the following factors: — the Member State shall be that in the territory of which the acts were committed,
+Each Member State may extend its jurisdiction if the offence is committed in the territory of another Member State.
 
-— the Member State shall be that of which the perpetrator is a national or resident,
+2. Each Member State may extend its jurisdiction over providing training for terrorism as referred to in Article 7, where the offender provides training to its nationals or residents, in cases where paragraph 1 of this Article is not applicable. The Member State shall inform the Commission thereof.
 
-— the Member State shall be the Member State of origin of the victims,
+3. When an offence falls within the jurisdiction of more than one Member State and when any of the Member States concerned can validly prosecute on the basis of the same facts, the Member States concerned shall cooperate in order to decide which of them will prosecute the offenders with the aim, if possible, of centralising proceedings in a single Member State. To this end, the Member States may have recourse to Eurojust in order to facilitate cooperation between their judicial authorities and the coordination of their action.
 
-— the Member State shall be that in the territory of which the perpetrator was found.
+Account shall be taken of the following factors:
 
-3. Each Member State shall take the necessary measures also to establish its jurisdiction over the offences referred to in Articles 1 to 4 in cases where it refuses to hand over or extradite a person suspected or convicted of such an offence to another Member State or to a third country.
+(a) the Member State shall be that in the territory of which the offence was committed;
 
-4. Each Member State shall ensure that its jurisdiction covers cases in which any of the offences referred to in Articles 2 and 4 has been committed in whole or in part within its territory, wherever the terrorist group is based or pursues its criminal activities.
+(b) the Member State shall be that of which the offender is a national or resident;
 
-5. This Article shall not exclude the exercise of jurisdiction in criminal matters as laid down by a Member State in accordance with its national legislation.
+(c) the Member State shall be the country of origin of the victims;
 
-Article 10
+(d) the Member State shall be that in the territory of which the offender was found.
 
-Protection of, and assistance to, victims
+4. Each Member State shall take the necessary measures also to establish its jurisdiction over the offences referred to in Articles 3 to 12 and 14 in cases where it refuses to surrender or extradite a person suspected or convicted of such an offence to another Member State or to a third country.
 
-1. Member States shall ensure that investigations into, or prosecution of, offences covered by this Framework Decision are not dependent on a report or accusation made by a person subjected to the offence, at least if the acts were committed on the territory of the Member State.
+5. Each Member State shall ensure that its jurisdiction covers cases in which any of the offences referred to in Articles 4 and 14 has been committed in whole or in part within its territory, regardless of where the terrorist group is based or pursues its criminal activities.
 
-2. In addition to the measures laid down in the Council Framework Decision 2001/220/JHA of 15 March 2001 on the standing of victims in criminal proceedings, each Member State shall, if necessary, take all measures possible to ensure appropriate assistance for victims'’families.
+6. This Article shall not exclude the exercise of jurisdiction in criminal matters as laid down by a Member State in accordance with its national law.
 
-Article 11
+Article 20
 
-Implementation and reports
+Investigative tools and confiscation
 
-1. Member States shall take the necessary measures to comply with this Framework Decision by 31 December 2002.
+1. Member States shall take the necessary measures to ensure that effective investigative tools, such as those which are used in organised crime or other serious crime cases, are available to persons, units or services responsible for investigating or prosecuting the offences referred to in Articles 3 to 12.
 
-2. By 31 December 2002, Member States shall forward to the General Secretariat of the Council and to the Commission the text of the provisions transposing into their national law the obligations imposed on them under this Framework Decision. On the basis of a report drawn up from that information and a report from the Commission, the Council shall assess, by 31 December 2003, whether Member States have taken the necessary measures to comply with this Framework Decision.
+2. Member States shall take the necessary measures to ensure that their competent authorities freeze or confiscate, as appropriate, in accordance with Directive 2014/42/EU of the European Parliament and of the Council, the proceeds derived from and instrumentalities used or intended to be used in the commission or contribution to the commission of any of the offences referred to in this Directive.
 
-3. The Commission report shall specify, in particular, transposition into the criminal law of the Member States of the obligation referred to in Article 5(2).
+Article 21
 
-Article 12
+Measures against public provocation content online
 
-Territorial application
+1. Member States shall take the necessary measures to ensure the prompt removal of online content constituting a public provocation to commit a terrorist offence, as referred to in Article 5, that is hosted in their territory. They shall also endeavour to obtain the removal of such content hosted outside their territory.
 
-This Framework Decision shall apply to Gibraltar.
+2. Member States may, when removal of the content referred to in paragraph 1 at its source is not feasible, take measures to block access to such content towards the internet users within their territory.
 
-Article 13
+3. Measures of removal and blocking must be set following transparent procedures and provide adequate safeguards, in particular to ensure that those measures are limited to what is necessary and proportionate and that users are informed of the reason for those measures. Safeguards relating to removal or blocking shall also include the possibility of judicial redress.
+
+Article 22
+
+Amendments to Decision 2005/671/JHA
+
+Decision 2005/671/JHA is amended as follows:
+
+(1) in Article 1, point (a) is replaced by the following:
+
+“(a) 'terrorist offences': the offences referred to in Directive (EU) 2017/541 of the European Parliament and of the Council (*)
+
+--------
+
+(*) Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (OJ L 88, 31.3.2017, p. 6).”;
+
+(2) Article 2 is amended as follows:
+
+(a) paragraph 6 is replaced by the following:
+
+“6. Each Member State shall take the necessary measures to ensure that relevant information gathered by its competent authorities in the framework of criminal proceedings in connection with terrorist offences is made accessible as soon as possible to the competent authorities of another Member State where the information could be used in the prevention, detection, investigation or prosecution of terrorist offences as referred to in Directive (EU) 2017/541, in that Member State, either upon request or spontaneously, and in accordance with national law and relevant international legal instruments.”;
+
+(b) the following paragraphs are added:
+
+“7. Paragraph 6 is not applicable where the sharing of information would jeopardise current investigations or the safety of an individual, nor when it would be contrary to essential interests of the security of the Member State concerned.
+
+8. Member States shall take the necessary measures to ensure that their competent authorities take, upon receiving the information referred to in paragraph 6, timely measures in accordance with national law, as appropriate.”.
+
+Article 23
+
+Fundamental rights and freedoms
+
+1. This Directive shall not have the effect of modifying the obligations to respect fundamental rights and fundamental legal principles, as enshrined in Article 6 TEU.
+
+2. Member States may establish conditions required by, and in accordance with, fundamental principles relating to freedom of the press and other media, governing the rights and responsibilities of, and the procedural guarantees for, the press or other media where such conditions relate to the determination or limitation of liability.
+
+TITLE V
+
+PROVISIONS ON PROTECTION OF, SUPPORT TO, AND RIGHTS OF VICTIMS OF TERRORISM
+
+Article 24
+
+Assistance and support to victims of terrorism
+
+1. Member States shall ensure that investigations into, or prosecution of, offences covered by this Directive are not dependent on a report or accusation made by a victim of terrorism or other person subjected to the offence, at least if the acts were committed on the territory of the Member State.
+
+2. Member States shall ensure that support services addressing the specific needs of victims of terrorism are in place in accordance with Directive 2012/29/EU and that they are available for victims of terrorism immediately after a terrorist attack and for as long as necessary. Such services shall be provided in addition to, or as an integrated part of, general victim support services, which may call on existing entities providing specialist support.
+
+3. The support services shall have the ability to provide assistance and support to victims of terrorism in accordance with their specific needs. The services shall be confidential, free of charge and easily accessible to all victims of terrorism. They shall include in particular:
+
+(a) emotional and psychological support, such as trauma support and counselling;
+
+(b) provision of advice and information on any relevant legal, practical or financial matters, including facilitating the exercise of the right to information of victims of terrorism, as laid down in Article 26;
+
+(c) assistance with claims regarding compensation for victims of terrorism available under the national law of the Member State concerned.
+
+4. Member States shall ensure that mechanisms or protocols are in place allowing for activation of support services for victims of terrorism within the framework of their national emergency-response infrastructures. Such mechanisms or protocols shall envisage the coordination of relevant authorities, agencies and bodies to be able to provide a comprehensive response to the needs of victims and their family members immediately after a terrorist attack and for as long as necessary, including adequate means facilitating the identification of and communication to victims and their families.
+
+5. Member States shall ensure that adequate medical treatment is provided to victims of terrorism immediately after a terrorist attack and for as long as necessary. Member States shall retain the right to organise the provision of medical treatment to victims of terrorism in accordance with their national healthcare systems.
+
+6. Member States shall ensure that victims of terrorism have access to legal aid in accordance with Article 13 of Directive 2012/29/EU, where they have the status of parties to criminal proceedings. Member States shall ensure that the severity and the circumstances of the criminal offence are duly reflected in the conditions and procedural rules under which victims of terrorism have access to legal aid in accordance with national law.
+
+7. This Directive shall apply in addition, and without prejudice, to measures laid down in Directive 2012/29/EU.
+
+Article 25
+
+Protection of victims of terrorism
+
+Member States shall ensure that measures are available to protect victims of terrorism and their family members, in accordance with Directive 2012/29/EU. When determining whether and to what extent they should benefit from protection measures in the course of criminal proceedings, particular attention shall be paid to the risk of intimidation and retaliation and to the need to protect the dignity and physical integrity of victims of terrorism, including during questioning and when testifying.
+
+Article 26
+
+Rights of victims of terrorism resident in another Member State
+
+1. Member States shall ensure that victims of terrorism who are residents of a Member State other than that where the terrorist offence was committed have access to information regarding their rights, the available support services and compensation schemes in the Member State where the terrorist offence was committed. In this respect, Member States concerned shall take appropriate action to facilitate cooperation between their competent authorities or entities providing specialist support to ensure the effective access of victims of terrorism to such information.
+
+2. Member States shall ensure that all victims of terrorism have access to the assistance and support services as laid down in points (a) and (b) of Article 24(3) on the territory of the Member State of their residence, even if the terrorist offence was committed in another Member State.
+
+TITLE VI
+
+FINAL PROVISIONS
+
+Article 27
+
+Replacement of Framework Decision 2002/475/JHA
+
+Framework Decision 2002/475/JHA is replaced with regard to the Member States bound by this Directive, without prejudice to the obligations of those Member States with regard to the date for transposition of that Framework Decision into national law.
+
+With regard to the Member States bound by this Directive, references to Framework Decision 2002/475/JHA shall be construed as references to this Directive.
+
+Article 28
+
+Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 8 September 2018. They shall immediately inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+Article 29
+
+Reporting
+
+1. The Commission shall, by 8 March 2020, submit a report to the European Parliament and to the Council, assessing the extent to which the Member States have taken the necessary measures to comply with this Directive.
+
+2. The Commission shall, by 8 September 2021, submit a report to the European Parliament and to the Council, assessing the added value of this Directive with regard to combating terrorism. The report shall also cover the impact of this Directive on fundamental rights and freedoms, including on non-discrimination, on the rule of law, and on the level of protection and assistance provided to victims of terrorism. The Commission shall take into account the information provided by Member States under Decision 2005/671/JHA and any other relevant information regarding the exercise of powers under counter-terrorism laws related to the transposition and implementation of this Directive. On the basis of this evaluation, the Commission shall, if necessary, decide on appropriate follow-up actions.
+
+Article 30
 
 Entry into force
 
-This Framework Decision shall enter into force on the day of its publication in the Official Journal.
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
-Done at Luxembourg, 13 June 2002.
+Article 31
 
-For the Council The President
+Addressees
 
-M. RAJOY BREY
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+Done at Strasbourg, 15 March 2017.
+
+For the European Parliament For the Council The President The President A. TAJANI I. BORG.
 
 SCHEDULE 1A
 
-Council Framework Decision 2008/919/JHA of 28 november 2008 amending Framework Decision 2002/475/JHA on combating terrorism
+Council Framework Decision 2008/919/JHA of 28 November 2008 amending
 
-The Council of the European Union,
+Framework Decision 2002/475/JHA on Combating Terrorism
 
-Having regard to the Treaty on European Union, and in particular Article 29, Article 31(1) (e) and Article 34(2) (b) thereof,
-
-Having regard to the proposal from the Commission,
-
-Having regard to the opinion of the European Parliament ,
-
-Whereas:
-
-(1) Terrorism constitutes one of the most serious violations of the universal values of human dignity, liberty, equality and solidarity, respect for human rights and fundamental freedoms on which the European Union is founded. It also represents one of the most serious attacks on democracy and the rule of law, principles which are common to the Member States and on which the European Union is based.
-
-(2) Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism is the basis of the counter-terrorist policy of the European Union. The achievement of a legal framework common to all Member States, and in particular, of a harmonised definition of terrorist offences, has allowed the counter-terrorism policy of the European Union to develop and expand, subject to the respect of fundamental rights and the rule of law.
-
-(3) The terrorist threat has grown and rapidly evolved in recent years, with changes in the modus operandi of terrorist activists and supporters including the replacement of structured and hierarchical groups by semi-autonomous cells loosely tied to each other. Such cells inter-link international networks and increasingly rely on the use of new technologies, in particular the Internet.
-
-(4) The Internet is used to inspire and mobilise local terrorist networks and individuals in Europe and also serves as a source of information on terrorist means and methods, thus functioning as a ‘virtual training camp’. Activities of public provocation to commit terrorist offences, recruitment for terrorism and training for terrorism have multiplied at very low cost and risk.
-
-(5) The Hague Programme on strengthening freedom, security and justice in the European Union, adopted by the European Council on 5 November 2004, underlines
-
-Not yet published in the Official Journal. that effective prevention and combating of terrorism in full compliance with fundamental rights requires Member States not to confine their activities to maintaining their own security, but to focus also on the security of the Union as a whole.
-
-(6) The Council and Commission Action Plan implementing the Hague Programme on strengthening freedom, security and justice in the European Union , recalls that a global response is required to address terrorism and that the expectations that citizens have of the Union cannot be ignored, nor can the Union fail to respond to them. In addition, it states that attention must focus on different aspects of prevention, preparedness and response to further enhance, and where necessary complement, Member States’ capabilities to fight terrorism, concentrating particularly on recruitment, financing, risk analysis, protection of critical infrastructures and consequence management.
-
-(7) This Framework Decision provides for the criminalisation of offences linked to terrorist activities in order to contribute to the more general policy objective of preventing terrorism through reducing the dissemination of those materials which might incite persons to commit terrorist attacks.
-
-(8) United Nations Security Council Resolution 1624 (2005) calls upon States to take measures that are necessary and appropriate, and in accordance with their obligations under international law, to prohibit by law incitement to commit terrorist act or acts and to prevent such conduct. The report of the Secretary- General of the United Nations ‘Uniting against terrorism: recommendations for a global counter-terrorism strategy’ of 27 April 2006, interprets the above- mentioned Resolution as providing for a basis for the criminalisation of incitement to terrorist acts and recruitment, including through the Internet. The United Nations Global Counter-Terrorism Strategy of 8 September 2006 mentions that the Member States of the UN resolve to explore ways and means to coordinate efforts at the international and regional level to counter terrorism in all its forms and manifestations on the Internet.
-
-(9) The Council of Europe Convention on the Prevention of Terrorism establishes the obligations of States parties thereto to criminalise public provocation to commit a terrorist offence and recruitment and training for terrorism, when committed unlawfully and intentionally.
-
-(10) The definition of terrorist offences, including offences linked to terrorist activities, should be further approximated in all Member States, so that it covers public provocation to commit a terrorist offence, recruitment for terrorism and training for terrorism, when committed intentionally.
-
-(11) Penalties should be provided for natural persons having intentionally committed or legal persons held liable for public provocation to commit terrorist offences, recruitment for terrorism and training for terrorism. These forms of behaviour should be equally punishable in all Member States irrespective of whether they are committed through the Internet or not.
-
-(12) Given that the objectives of this Framework Decision cannot be sufficiently achieved by the Member States unilaterally, and can therefore, because of the need for European-wide harmonised rules, be better achieved at the level of the Union, the Union may adopt measures, in accordance with the principle of subsidiarity, as set out in Article 5 of the EC Treaty and referred to in Article 2 of the EU Treaty. In accordance with the principle of proportionality, as set out in Article 5 of the EC Treaty, this Framework Decision does not go beyond what is necessary in order to achieve those objectives.
-
-(13) The Union observes the principles recognised by Article 6(2) of the EU Treaty and reflected in the Charter of Fundamental Rights of the European Union, notably Chapters II and VI thereof. Nothing in this Framework Decision may be interpreted as being intended to reduce or restrict fundamental rights or freedoms such as freedom of expression, assembly, or of association, the right to respect for private and family life, including the right to respect of the confidentiality of correspondence.
-
-(14) Public provocation to commit terrorist offences, recruitment for terrorism and training for terrorism are intentional crimes. Therefore, nothing in this Framework Decision may be interpreted as being intended to reduce or restrict the dissemination of information for scientific, academic or reporting purposes. The expression of radical, polemic or controversial views in the public debate on sensitive political questions, including terrorism, falls outside the scope of this Framework Decision and, in particular, of the definition of public provocation to commit terrorist offences.
-
-(15) The implementation of the criminalisation under this Framework Decision should be proportional to the nature and circumstances of the offence, with respect to the legitimate aims pursued and to their necessity in a democratic society, and should exclude any form of arbitrariness or discrimination,
-
-HAS ADOPTED THIS FRAMEWORK DECISION:
-
-Article 1
-
-Amendments
-
-Framework Decision 2002/475/JHA shall be amended as follows:
-
-1. Article 3 shall be replaced by the following:
-
-‘Article 3
-
-Offences linked to terrorist activities
-
-1. For the purposes of this Framework Decision:
-
-(a) “public provocation to commit a terrorist offence” shall mean the distribution, or otherwise making available, of a message to the public, with the intent to incite the commission of one of the offences listed in Article 1(1)(a) to (h), where such conduct, whether or not directly advocating terrorist offences, causes a danger that one or more such offences may be committed;
-
-(b) “recruitment for terrorism” shall mean soliciting another person to commit one of the offences listed in Article 1(1)(a) to (h), or in Article 2(2);
-
-(c) “training for terrorism” shall mean providing instruction in the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or in other specific methods or techniques, for the purpose of committing one of the offences listed in Article 1(1)(a) to (h), knowing that the skills provided are intended to be used for this purpose.
-
-2. Each Member State shall take the necessary measures to ensure that offences linked to terrorist activities include the following intentional acts:
-
-(a) public provocation to commit a terrorist offence;
-
-(b) recruitment for terrorism;
-
-(c) training for terrorism;
-
-(d) aggravated theft with a view to committing one of the offences listed in Article 1(1);
-
-(e) extortion with a view to the perpetration of one of the offences listed in Article 1(1);
-
-(f) drawing up false administrative documents with a view to committing one of the offences listed in Article 1(1)(a) to (h) and Article 2(2)(b).
-
-3. For an act as set out in paragraph 2 to be punishable, it shall not be necessary that a terrorist offence be actually committed.’
-
-2. Article 4 shall be replaced by the following:
-
-‘Article 4
-
-Aiding or abetting, inciting and attempting
-
-1. Each Member State shall take the necessary measures to ensure that aiding or abetting an offence referred to in Article 1(1), Articles 2 or 3 is made punishable.
-
-2. Each Member State shall take the necessary measures to ensure that inciting an offence referred to in Article 1(1), Article 2 or Article 3(2)(d) to (f) is made punishable.
-
-3. Each Member State shall take the necessary measures to ensure that attempting to commit an offence referred to in Article 1(1) and Article 3(2)(d) to (f), with the exception of possession as provided for in Article 1(1)(f) and the offence referred to in Article 1(1)(i), is made punishable.
-
-4. Each Member State may decide to take the necessary measures to ensure that attempting to commit an offence referred to in Article 3(2)(b) and (c) is made punishable.’
-
-Article 2
-
-Fundamental principles relating to freedom of expression
-
-This Framework Decision shall not have the effect of requiring Member States to take measures in contradiction of fundamental principles relating to freedom of expression, in particular freedom of the press and the freedom of expression in other media as they result from constitutional traditions or rules governing the rights and responsibilities of, and the procedural guarantees for, the press or other media where these rules relate to the determination or limitation of liability.
-
-Article 3
-
-Implementation and report
-
-1. Member States shall take the necessary measures to comply with this Framework Decision by 9 December 2010. In the implementation of this Framework Decision, Member States shall ensure that the criminalisation shall be proportionate to the legitimate aims pursued and necessary in a democratic society and shall exclude any form of arbitrariness and discrimination.
-
-2. By 9 December 2010, Member States shall forward to the General Secretariat of the Council and to the Commission the text of the provisions transposing into their national law the obligations imposed on them under this Framework Decision. On the basis of a report drawn up from that information and a report from the Commission, the Council shall assess, by 9 December 2011, whether Member States have taken the necessary measures to comply with this Framework Decision.
-
-Article 4
-
-Entry into force
-
-This Framework Decision shall enter into force on the day of its publication in the Official Journal of the European Union.
-
-Done at Brussels, 28 November 2008.
-
-For the Council
-
-The President
-
-M. Alliot-Marie.
+...
 
 SCHEDULE 1B
 
@@ -650,13 +570,13 @@ Article 5 - Public provocation to commit a terrorist offence
 
 2 Each Party shall adopt such measures as may be necessary to establish public provocation to commit a terrorist offence, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
-Article 6 - Recruitment for terrorism 1 For the purposes of this Convention, “recruitment for terrorism” means to solicit another person to commit or participate in the commission of a terrorist offence, or to join an association or group, for the purpose of contributing to the commission of one or more terrorist offences by the association or the group.
+Article 6 - Recruitment for terrorism
+
+1 For the purposes of this Convention, “recruitment for terrorism” means to solicit another person to commit or participate in the commission of a terrorist offence, or to join an association or group, for the purpose of contributing to the commission of one or more terrorist offences by the association or the group.
 
 2 Each Party shall adopt such measures as may be necessary to establish recruitment for terrorism, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
-Article 7 - Training for terrorism
-
-1 For the purposes of this Convention, “training for terrorism” means to provide instruction in the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or in other specific methods or techniques, for the purpose of carrying out or contributing to the commission of a terrorist offence, knowing that the skills provided are intended to be used for this purpose.
+Article 7 - Training for terrorism 1 For the purposes of this Convention, “training for terrorism” means to provide instruction in the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or in other specific methods or techniques, for the purpose of carrying out or contributing to the commission of a terrorist offence, knowing that the skills provided are intended to be used for this purpose.
 
 2 Each Party shall adopt such measures as may be necessary to establish training for terrorism, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
@@ -678,7 +598,9 @@ Article 10 - Liability of legal entities
 
 3 Such liability shall be without prejudice to the criminal liability of the natural persons who have committed the offences.
 
-Article 11 - Sanctions and measures 1 Each Party shall adopt such measures as may be necessary to make the offences set forth in Articles 5 to 7 and 9 of this Convention punishable by effective, proportionate and dissuasive penalties.
+Article 11 - Sanctions and measures
+
+1 Each Party shall adopt such measures as may be necessary to make the offences set forth in Articles 5 to 7 and 9 of this Convention punishable by effective, proportionate and dissuasive penalties.
 
 2 Previous final convictions pronounced in foreign States for offences set forth in the present Convention may, to the extent permitted by domestic law, be taken into account for the purpose of determining the sentence in accordance with domestic law.
 
@@ -702,9 +624,7 @@ Article 14 - Jurisdiction
 
 3 Each Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in this Convention in the case where the alleged offender is present in its territory and it does not extradite him or her to a Party whose jurisdiction is based on a rule of jurisdiction existing equally in the law of the requested Party.
 
-4 This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.
-
-5 When more than one Party claims jurisdiction over an alleged offence set forth in this Convention, the Parties involved shall, where appropriate, consult with a view to determining the most appropriate jurisdiction for prosecution.
+4 This Convention does not exclude any criminal jurisdiction exercised in accordance with national law. 5 When more than one Party claims jurisdiction over an alleged offence set forth in this Convention, the Parties involved shall, where appropriate, consult with a view to determining the most appropriate jurisdiction for prosecution.
 
 Article 15 - Duty to investigate
 
@@ -724,11 +644,11 @@ This Convention shall not apply where any of the offences established in accorda
 
 Article 17 - International co-operation in criminal matters
 
-1 Parties shall afford one another the greatest measure of assistance in connection with criminal investigations or criminal or extradition proceedings in respect of the offences set forth in Articles 5 to 7 and 9 of this Convention, including assistance in obtaining evidence in their possession necessary for the proceedings. 2 Parties shall carry out their obligations under paragraph 1 in conformity with any treaties or other agreements on mutual legal assistance that may exist between them. In the absence of such treaties or agreements, Parties shall afford one another assistance in accordance with their domestic law.
+1 Parties shall afford one another the greatest measure of assistance in connection with criminal investigations or criminal or extradition proceedings in respect of the offences set forth in Articles 5 to 7 and 9 of this Convention, including assistance in obtaining evidence in their possession necessary for the proceedings.
 
-3 Parties shall co-operate with each other to the fullest extent possible under relevant law, treaties, agreements and arrangements of the requested Party with respect to criminal investigations or proceedings in relation to the offences for which a legal entity may be held liable in accordance with Article 10 of this Convention in the requesting Party.
+2 Parties shall carry out their obligations under paragraph 1 in conformity with any treaties or other agreements on mutual legal assistance that may exist between them. In the absence of such treaties or agreements, Parties shall afford one another assistance in accordance with their domestic law.
 
-4 Each Party may give consideration to establishing additional mechanisms to share with other Parties information or evidence needed to establish criminal, civil or administrative liability pursuant to Article 10.
+3 Parties shall co-operate with each other to the fullest extent possible under relevant law, treaties, agreements and arrangements of the requested Party with respect to criminal investigations or proceedings in relation to the offences for which a legal entity may be held liable in accordance with Article 10 of this Convention in the requesting Party. 4 Each Party may give consideration to establishing additional mechanisms to share with other Parties information or evidence needed to establish criminal, civil or administrative liability pursuant to Article 10.
 
 Article 18 - Extradite or prosecute
 
@@ -748,7 +668,9 @@ Article 19 - Extradition
 
 5 The provisions of all extradition treaties and agreements concluded between Parties in respect of offences set forth in Articles 5 to 7 and 9 of this Convention shall be deemed to be modified as between Parties to the extent that they are incompatible with this Convention.
 
-Article 20 - Exclusion of the political exception clause 1 None of the offences referred to in Articles 5 to 7 and 9 of this Convention, shall be regarded, for the purposes of extradition or mutual legal assistance, as a political offence, an offence connected with a political offence, or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+Article 20 - Exclusion of the political exception clause
+
+1 None of the offences referred to in Articles 5 to 7 and 9 of this Convention, shall be regarded, for the purposes of extradition or mutual legal assistance, as a political offence, an offence connected with a political offence, or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
 
 2 Without prejudice to the application of Articles 19 to 23 of the Vienna Convention on the Law of Treaties of 23 May 1969 to the other Articles of this Convention, any State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession of the Convention, declare that it reserves the right to not apply paragraph 1 of this Article as far as extradition in respect of an offence set forth in this Convention is concerned. The Party undertakes to apply this reservation on a case-by-case basis, through a duly reasoned decision.
 
@@ -764,11 +686,11 @@ Article 20 - Exclusion of the political exception clause 1 None of the offences 
 
 8 The decision to refuse the extradition request on the basis of this reservation shall be forwarded promptly to the requesting Party. If within a reasonable time no judicial decision on the merits has been taken in the requested Party according to paragraph 7, the requesting Party may communicate this fact to the Secretary General of the Council of Europe, who shall submit the matter to the Consultation of the Parties provided for in Article 30. This Consultation shall consider the matter and issue an opinion on the conformity of the refusal with the Convention and shall submit it to the Committee of Ministers for the purpose of issuing a declaration thereon. When performing its functions under this paragraph, the Committee of Ministers shall meet in its composition restricted to the States Parties.
 
-Article 21 - Discrimination clause 1 Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested Party has substantial grounds for believing that the request for extradition for offences set forth in Articles 5 to 7 and 9 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person’s race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person’s position for any of these reasons.
+Article 21 - Discrimination clause
 
-2 Nothing in this Convention shall be interpreted as imposing an obligation to extradite if the person who is the subject of the extradition request risks being exposed to torture or to inhuman or degrading treatment or punishment.
+1 Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested Party has substantial grounds for believing that the request for extradition for offences set forth in Articles 5 to 7 and 9 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person’s race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person’s position for any of these reasons.
 
-3 Nothing in this Convention shall be interpreted either as imposing an obligation to extradite if the person who is the subject of the extradition request risks being exposed to the death penalty or, where the law of the requested Party does not allow for life imprisonment, to life imprisonment without the possibility of parole, unless under applicable extradition treaties the requested Party is under the obligation to extradite if the requesting Party gives such assurance as the requested Party considers sufficient that the death penalty will not be imposed or, where imposed, will not be carried out, or that the person concerned will not be subject to life imprisonment without the possibility of parole.
+2 Nothing in this Convention shall be interpreted as imposing an obligation to extradite if the person who is the subject of the extradition request risks being exposed to torture or to inhuman or degrading treatment or punishment. 3 Nothing in this Convention shall be interpreted either as imposing an obligation to extradite if the person who is the subject of the extradition request risks being exposed to the death penalty or, where the law of the requested Party does not allow for life imprisonment, to life imprisonment without the possibility of parole, unless under applicable extradition treaties the requested Party is under the obligation to extradite if the requesting Party gives such assurance as the requested Party considers sufficient that the death penalty will not be imposed or, where imposed, will not be carried out, or that the person concerned will not be subject to life imprisonment without the possibility of parole.
 
 Article 22 - Spontaneous information
 
@@ -790,7 +712,9 @@ Article 23 - Signature and entry into force
 
 4 In respect of any Signatory which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the expression of its consent to be bound by the Convention in accordance with the provisions of paragraph 2.
 
-Article 24 - Accession to the Convention 1 After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting with and obtaining the unanimous consent of the Parties to the Convention, may invite any State which is not a member of the Council of Europe and which has not participated in its elaboration to accede to this convention. The decision shall be taken by the majority provided for in Article 20.d of the Statute of the Council of Europe and by the unanimous vote of the representatives of the Parties entitled to sit on the Committee of Ministers.
+Article 24 - Accession to the Convention
+
+1 After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting with and obtaining the unanimous consent of the Parties to the Convention, may invite any State which is not a member of the Council of Europe and which has not participated in its elaboration to accede to this convention. The decision shall be taken by the majority provided for in Article 20.d of the Statute of the Council of Europe and by the unanimous vote of the representatives of the Parties entitled to sit on the Committee of Ministers.
 
 2 In respect of any State acceding to the convention under paragraph 1 above, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
@@ -818,7 +742,9 @@ Article 26 - Effects of the Convention
 
 -Protocol amending the European Convention on the Suppression of Terrorism, opened for signature in Strasbourg on 15 May 2003 (ETS No. 190).
 
-2 If two or more Parties have already concluded an agreement or treaty on the matters dealt with in this Convention or have otherwise established their relations on such matters, or should they in future do so, they shall also be entitled to apply that agreement or treaty or to regulate those relations accordingly. However, where Parties establish their relations in respect of the matters dealt with in the present Convention other than as regulated therein, they shall do so in a manner that is not inconsistent with the Convention’s objectives and principles. 3 Parties which are members of the European Union shall, in their mutual relations, apply Community and European Union rules in so far as there are Community or European Union rules governing the particular subject concerned and applicable to the specific case, without prejudice to the object and purpose of the present Convention and without prejudice to its full application with other Parties.
+2 If two or more Parties have already concluded an agreement or treaty on the matters dealt with in this Convention or have otherwise established their relations on such matters, or should they in future do so, they shall also be entitled to apply that agreement or treaty or to regulate those relations accordingly. However, where Parties establish their relations in respect of the matters dealt with in the present Convention other than as regulated therein, they shall do so in a manner that is not inconsistent with the Convention’s objectives and principles.
+
+3 Parties which are members of the European Union shall, in their mutual relations, apply Community and European Union rules in so far as there are Community or European Union rules governing the particular subject concerned and applicable to the specific case, without prejudice to the object and purpose of the present Convention and without prejudice to its full application with other Parties.
 
 4 Nothing in this Convention shall affect other rights, obligations and responsibilities of a Party and individuals under international law, including international humanitarian law.
 
@@ -872,15 +798,15 @@ Article 32 - Notification
 
 The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the European Community, the non-member States which have participated in the elaboration of this Convention as well as any State which has acceded to, or has been invited to accede to, this Convention of: a any signature; b the deposit of any instrument of ratification, acceptance, approval or accession; c any date of entry into force of this Convention in accordance with Article 23; d any declaration made under Article 1, paragraph 2, 22, paragraph 4, and 25; e any other act, notification or communication relating to this Convention.
 
-In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. Done at Warsaw, this 16 th day of May 2005, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Community, to the non-member States which have participated in the elaboration of this Convention, and to any State invited to accede to it.
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at Warsaw, this 16 th day of May 2005, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Community, to the non-member States which have participated in the elaboration of this Convention, and to any State invited to accede to it.
 
 Appendix
 
 1 Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague on 16 December 1970;
 
-2 Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, concluded at Montreal on 23 September 1971;
-
-3 Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, Including Diplomatic Agents, adopted in New York on 14 December 1973;
+2 Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, concluded at Montreal on 23 September 1971; 3 Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, Including Diplomatic Agents, adopted in New York on 14 December 1973;
 
 4 International Convention Against the Taking of Hostages, adopted in New York on 17 December 1979;
 

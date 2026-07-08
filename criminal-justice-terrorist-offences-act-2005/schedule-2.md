@@ -78,6 +78,10 @@ Malicious damage
 
 (d) section 48 (removing or concealing buoys, etc.).
 
+Unlawful interference with information systems or data
+
+6A. An offence under section 3 or 4 of the Criminal Justice (Offences Relating to Information Systems) Act 2017.
+
 Offences relating to aircraft and vehicles
 
 7. An offence under any of the following provisions:

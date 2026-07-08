@@ -4,53 +4,87 @@ Definitions for Part 2.
 
 4.—(1) In this Part—
 
-"Framework Decision" means Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism, the text of which is set out for convenience of reference in—
+“Directive” means Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (the text of which is, for convenience of reference, set out in Schedule 1);
 
-(a) Part 1 of Schedule 1, in the case of the Irish language text, and
+...
 
-(b) Part 2 of Schedule 1, in the case of the English language text, as amended by Council Framework Decision 2008/919/JHA of 28 November 2008 amending Framework Decision 2002/475/JHA on combating terrorism, the English language text of which is set out for convenience of reference in Schedule 1A;
+“organising or facilitating travel for the purpose of terrorism” shall be construed in accordance with section 4E;
 
-"Prevention of Terrorism Convention" means the Council of Europe Convention on the Prevention of Terrorism, done at Warsaw on 16 May 2005, the English language text of which is set out for convenience of reference in Schedule 1B;
+“Prevention of Terrorism Convention” means the Council of Europe Convention on the Prevention of Terrorism, done at Warsaw on 16 May 2005, the English language text of which is set out for convenience of reference in Schedule 1B;
 
-"public provocation to commit a terrorist offence" shall be construed in accordance with section 4A;
+“providing training for terrorism” shall be construed in accordance with subsection (1) of section 4C;
 
-"recruitment for terrorism" shall be construed in accordance with section 4B;
+“public provocation to commit a terrorist offence” shall be construed in accordance with section 4A;
 
-“terrorist activity” means an act that is committed in or outside the State and that—
+“receiving training for terrorism” shall be construed in accordance with subsection (2) of section 4C;
 
-(a) if committed in the State, would constitute an offence specified in Part 1 of Schedule 2, and
+“recruitment for terrorism” shall be construed in accordance with section 4B;
 
-(b) is committed with the intention of—
+“terrorist activity” means—
+
+(a) an offence specified in Part 1 of Schedule 2 committed with the intention of—
 
 (i) seriously intimidating a population,
 
 (ii) unduly compelling a government or an international organisation to perform or abstain from performing an act, or
 
-(iii) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation;
+(iii) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation,
 
-“terrorist group” has the same meaning as in the Framework Decision;
+(b) an act committed outside the State that, if committed in the State, would constitute an offence specified in Part 1 of Schedule 2, done with the intention of—
 
-"terrorist-linked activity", subject to subsections (2) and (3), means—
+(i) seriously intimidating a population,
 
-(a) an act that is committed in or outside the State and that—
+(ii) unduly compelling a government or an international organisation to perform or abstain from performing an act, or
 
-(i) if committed in the State, would constitute an offence specified in Part 2 of Schedule 2, and
+(iii) seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a state or an international organisation, or
 
-(ii) is committed with a view to engaging in a terrorist activity,
+(c) a threat to commit such an offence, or such an act, made with such an intention;
 
-(b) an act that is committed in or outside the State and that—
+“terrorist group” has the same meaning as in the Directive;
 
-(i) if committed in the State, would constitute an offence specified in Part 3 of Schedule 2, and
+“terrorist-linked activity” means—
 
-(ii) is committed with a view to engaging in a terrorist activity or with a view to committing an act that, if committed in the State, would constitute an offence under section 21 or 21A of the Act of 1939,
+(a) an offence specified in Part 2 of Schedule 2 committed with a view to engaging in a terrorist activity,
 
-(c) public provocation to commit a terrorist offence,
+(b) an act committed—
 
-(d) recruitment for terrorism, or
+(i) outside the State that, if committed in the State, would constitute an offence specified in Part 2 of Schedule 2, and
 
-(e) training for terrorism;
+(ii) with a view to engaging in a terrorist activity,
 
-"training for terrorism" shall be construed in accordance with section 4C.
+(c) an offence specified in Part 3 of Schedule 2 committed with a view to—
+
+(i) engaging in a terrorist activity (other than a threat to which paragraph (c) of the definition of “terrorist activity” applies),
+
+(ii) committing an offence under section 21 or 21A of the Act of 1939 or committing an act outside the State that, if committed in the State, would constitute an offence under either such section, or
+
+(iii) travelling for the purpose of terrorism,
+
+(d) an act committed—
+
+(i) outside the State that if committed in the State, would constitute an offence specified in Part 3 of Schedule 2, and
+
+(ii) with a view to—
+
+(I) engaging in a terrorist activity (other than a threat to which paragraph (c) of the definition of “terrorist activity” applies),
+
+(II) committing an offence under section 21 or 21A of the Act of 1939 or committing an act outside the State that, if committed in the State, would constitute an offence under either such section, or
+
+(III) travelling for the purpose of terrorism,
+
+(e) public provocation to commit a terrorist offence,
+
+(f) recruitment for terrorism,
+
+(g) providing training for terrorism or receiving training for terrorism,
+
+(h) travelling for the purpose of terrorism, or
+
+(i) organising or facilitating travel for the purpose of terrorism;
+
+...
+
+“travelling for the purpose of terrorism” shall be construed in accordance with section 4D.
 
 (2) A terrorist-linked activity may be committed wholly or partially by electronic means.
 
