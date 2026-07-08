@@ -2,9 +2,7 @@ SCHEDULE 5
 
 INTERNATIONAL CONVENTION FOR THE SUPPRESSION OF TERRORIST BOMBINGS
 
-The States Parties to this Convention,
-
-Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of good-neighbourliness and friendly relations and cooperation among States,
+The States Parties to this Convention, Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of good-neighbourliness and friendly relations and cooperation among States,
 
 Deeply concerned about the worldwide escalation of acts of terrorism in all its forms and manifestations,
 

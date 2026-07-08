@@ -26,9 +26,9 @@ Amendment of Act of 1939 — new sections 22A to 22I.
 
 Interim
 
-22B.—(1) The Minister may apply ex parte to the High Court for an order interim order under subsection (2) in respect of specified property where respect- the Minister is of the opinion that it— ing specified property.
+22B.—(1) The Minister may apply ex parte to the High Court for an order interim order under subsection (2) in respect of specified property where respect- the Minister is of the opinion that it— ing
 
-(a) is the property of an unlawful organisation, whether or not the property is in the possession or control of that organisation, and
+(a) is the property of an unlawful organisation, whether or not the specified property is in the possession or control of that organisation, property. and
 
 (b) is forfeited to and vested in the Minister by virtue of section 22.
 

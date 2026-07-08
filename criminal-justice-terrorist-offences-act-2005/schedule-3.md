@@ -158,11 +158,11 @@ Article 16
 
 Article 17
 
-United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609.
-
 1. This Convention is open for signature by all States until 31 December 1980 at United Nations Headquarters in New York.
 
 2. This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+
+United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609.
 
 3. This Convention is open for accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
