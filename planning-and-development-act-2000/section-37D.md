@@ -6,7 +6,11 @@ Opinion by Board on information to be contained in environmental impact statemen
 
 (a) consult with the requester and such bodies as may be specified by the Minister for the purpose, and
 
-(b) after taking into account the information provided by the prospective applicant, in particular on the specific characteristics of the proposed development, including its location and technical capacity, and its likely impact on the environment, comply with the request as soon as is practicable.
+(b) after taking into account the information provided by the prospective applicant, in particular on the specific characteristics of the proposed development, including its location and technical capacity, and its likely impact on the environment, comply with the request as soon as is practicable, but in the case that the request was made under section 37B(1A) not before the following have occurred:
+
+(i) a notice has been served under subsection (4) of section 37B, and
+
+(ii) the notice is under paragraph (a) of that subsection.
 
 (3) A prospective applicant shall, for the purposes of the Board’s complying with a request under this section, supply to the Board sufficient information in relation to the proposed development so as to enable the Board to assess the proposed development.
 
