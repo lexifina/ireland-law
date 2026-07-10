@@ -1,14 +1,14 @@
-F93[Holders of licences and others to provide Bank with required information and returns.
+F103[Holders of licences and others to provide Bank with required information and returns.
 
 18.—(1) This section applies to the following persons:
 
-(a) a person who is the holder of a licence or authorisation under section 9A;
+(a) a person who is the holder of a licence or third-country branch authorisation;
 
 (b) any person who carries on—
 
-(i) a business of an associated company or related body of the holder of a licence or authorisation under section 9A, or
+(i) a business of an associated company or related body of the holder of a licence or third-country branch authorisation, or
 
-(ii) a business in respect of which the person is, because of section 7(4)(b), exempt from being required to hold a licence or authorisation under section 9A, or
+(ii) a business in respect of which the person is, because of section 7(4)(b), exempt from being required to hold a licence or third-country branch authorisation, or
 
 (iii) a business as an investment trust company, or
 
@@ -32,7 +32,7 @@ F93[Holders of licences and others to provide Bank with required information and
 
 (8) A person shall not provide for the purpose of this section information or a return that the person knows to be false or misleading in a material respect.
 
-(9) This section applies to the business of an associated company or a related body only in so far as the information and returns sought by the Bank are, in its opinion, materially relevant to the proper appraisal of the business of the holder of the licence or authorisation under section 9A concerned.
+(9) This section applies to the business of an associated company or a related body only in so far as the information and returns sought by the Bank are, in its opinion, materially relevant to the proper appraisal of the business of the holder of the licence or third-country branch authorisation concerned.
 
 (10) In this section—
 
@@ -42,6 +42,6 @@ F93[Holders of licences and others to provide Bank with required information and
 
 “relevant business”, in relation to a person to whom this section applies, means—
 
-(a) in the case of a person who is the holder of a licence or authorisation under section 9A, the banking business to which the licence relates, or
+(a) in the case of a person who is the holder of a licence or third-country branch authorisation, the banking business to which the licence relates, or
 
 (b) in the case of a person referred to in subsection (1)(b), the business carried on by the person.

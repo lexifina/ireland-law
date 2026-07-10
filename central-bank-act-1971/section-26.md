@@ -1,22 +1,22 @@
 Collection of cheques, etc., drawn on holders of licences.
 
-26.—(1) Where an instrument to which this section applies is tendered by or on behalf of any person for collection to the holder of a licence or authorisation under section 9A with whom the person maintains an account (not being the holder on whom the instrument is drawn), the holder shall accept the instrument for collection and shall credit any proceeds of collection to the account aforesaid.
+26.—(1) Where an instrument to which this section applies is tendered by or on behalf of any person for collection to the holder of a licence or third-country branch authorisation with whom the person maintains an account (not being the holder on whom the instrument is drawn), the holder shall accept the instrument for collection and shall credit any proceeds of collection to the account aforesaid.
 
-(2) Any charge imposed by the holder of a licence or authorisation under section 9A on another holder or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965 or a building society authorised under the Building Societies Act, 1989, in relation to the collection of an instrument to which this section applies and the crediting of any proceeds of collection pursuant to subsection (1) of this section shall be subject to the approval of the Bank.
+(2) Any charge imposed by the holder of a licence or athird-country branch authorisation on another holder or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965 or a building society authorised under the Building Societies Act, 1989, in relation to the collection of an instrument to which this section applies and the crediting of any proceeds of collection pursuant to subsection (1) of this section shall be subject to the approval of the Bank.
 
-(3) Any terms or conditions upon or subject to which a holder of a licence or authorisation under section 9A acts as banker for another holder of a licence or authorisation under section 9A or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965 or a building society authorised under the Building Societies Act, 1989, shall be subject to the approval of the Bank.
+(3) Any terms or conditions upon or subject to which a holder of a licence or third-country branch authorisation acts as banker for another holder of a licence or authorisation under section 9A or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1965 or a building society authorised under the Building Societies Act, 1989, shall be subject to the approval of the Bank.
 
-(4) In considering whether to grant or withhold an approval under subsection (2) or (3) of this section, the Bank shall have regard to the desirability of ensuring fair competition between holders of licences or authorisations under section 9A.
+(4) In considering whether to grant or withhold an approval under subsection (2) or (3) of this section, the Bank shall have regard to the desirability of ensuring fair competition between holders of licences or third-country branch authorisation.
 
 (5) Nothing in this section shall be construed as conferring any title to an instrument to which this section applies on a person by or on whose behalf the instrument is tendered pursuant to subsection (1) of this section.
 
 (6) This section applies to the following instruments, namely—
 
-(a) bills of exchange (which expression has the same meaning in this subsection as in the Bills of Exchange Act, 1882) drawn on a holder of a licence or authorisation under section 9A payable on demand;
+(a) bills of exchange (which expression has the same meaning in this subsection as in the Bills of Exchange Act, 1882) drawn on a holder of a licence or third-country branch authorisation payable on demand;
 
-(b) any document issued by a person who maintains an account with a holder of a licence or authorisation under section 9A or the Bank which, though not a bill of exchange, is intended to enable a person to obtain payment from that holder or the Bank of the sum mentioned in the document;
+(b) any document issued by a person who maintains an account with a holder of a licence or third-country branch authorisation or the Bank which, though not a bill of exchange, is intended to enable a person to obtain payment from that holder or the Bank of the sum mentioned in the document;
 
-(c) any draft payable on demand drawn by a holder of a licence or authorisation under section 9A upon himself, whether payable at the head office or some other office of his bank;
+(c) any draft payable on demand drawn by a holder of a licence or third-country branch authorisation upon himself, whether payable at the head office or some other office of his bank;
 
 (d) any document issued by a public officer which is intended to enable a person to obtain payment from a Minister of State of the sum mentioned in the document;
 

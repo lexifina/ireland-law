@@ -1,6 +1,6 @@
 Provisions in relation to judgments against holders of licences.
 
-28.—(1) Whenever a person (in this section referred to as a judgment creditor) obtains in any court in the State a judgment, order or decree against the holder of a licence or authorisation under section 9A (in this section referred to as a judgment debtor) for the payment of a sum of money due to the judgment creditor by the judgment debtor in his capacity as a banker
+28.—(1) Whenever a person (in this section referred to as a judgment creditor) obtains in any court in the State a judgment, order or decree against the holder of a licence or third-country branch authorisation (in this section referred to as a judgment debtor) for the payment of a sum of money due to the judgment creditor by the judgment debtor in his capacity as a banker
 
 (a) the registrar or clerk of the court concerned shall notify the Bank as soon as may be of the judgment, order or decree and of its terms and of any appeal against the judgment, order or decree and of the result thereof,
 

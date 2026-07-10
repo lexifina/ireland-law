@@ -4,7 +4,7 @@ Restriction on advertising for deposits.
 
 (2) Subsection (1) of this section does not apply to advertising for or otherwise soliciting deposits or other repayable funds from the public
 
-(a) by the holder of a licence or authorisation under section 9A, the Bank, or a person to whom, because of subsection (4) of section 7 of this Act, subsection (1) of that section does not apply, or
+(a) by the holder of a licence or third-country branch authorisation, the Bank, or a person to whom, because of subsection (4) of section 7 of this Act, subsection (1) of that section does not apply, or
 
 (b) by a person to whom, because of section 8(2) of this Act, section 7(1) of this Act does not apply, or
 

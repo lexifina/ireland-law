@@ -1,14 +1,14 @@
 Directions by Bank in relation to advertisements of holders of licences.
 
-22.—(1) The Bank may give a direction in writing to a holder of a licence or authorisation under section 9A in relation to the information which the holder shall include in any advertisement to be published by him or on his behalf or in any statement to the public to be made by him or on his behalf.
+22.—(1) The Bank may give a direction in writing to a holder of a licence or third-country branch authorisation in relation to the information which the holder shall include in any advertisement to be published by him or on his behalf or in any statement to the public to be made by him or on his behalf.
 
-(2) The Bank may give a direction to a holder of a licence or authorisation under section 9A to refrain from—
+(2) The Bank may give a direction to a holder of a licence or third-country branch authorisation to refrain from—
 
 (a) publishing or continuing to publish, or
 
 (b) causing to be published or to be continued to be published, during such period as shall be specified in the direction an advertisement inviting deposits from the public.
 
-(2A) The Bank may give a direction to a holder of a licence or authorisation under section 9A to refrain from—
+(2A) The Bank may give a direction to a holder of a licence or third-country branch authorisation to refrain from—
 
 (a) publishing or continuing to publish, or
 
