@@ -50,15 +50,13 @@ Definitions.
 
 (b) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council,
 
-(c) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending
-
-OJ No. L. 176, 27.6.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35.
-
-Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC,
+(c) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC,
 
 (d) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU,
 
 (e) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures,
+
+OJ No. L. 176, 27.6.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
 
 (f) Directive (EU) 2019/2034 of the European Parliament and Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU,
 
@@ -76,17 +74,15 @@ Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/20
 
 (e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
 
-(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the
-
-OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253. OJ No. L. 314, 5.12.2019, p. 64.
-
-OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3.
-
-European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
 
 (h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+
+OJ No. L. 314, 5.12.2019, p. 64.
+
+OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1.
 
 (i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
 
@@ -104,8 +100,6 @@ European Parliament and of the Council on prudential requirements for credit ins
 
 (p) Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024 amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor, and
 
-OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024.
-
 (q) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk;
 
 "Central Bank Acts" means the Central Bank Acts 1942 to 2001, and any enactment amending those Acts;
@@ -115,6 +109,8 @@ OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. OJ No. L. 314, 5.
 “the Court” means, except where the context otherwise requires, the High Court;
 
 “credit institution” means an undertaking (including an electronic money institution (within the meaning of the European Communities (Electronic Money) Regulations 2002 (S.I. No. 221 of 2002)), but not a credit union or friendly society) whose business consists of, or includes—
+
+OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024. OJ L, 2024/2795, 31.10.2024.
 
 (a) receiving deposits or other repayable funds from the public, and
 
@@ -146,8 +142,6 @@ OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. OJ No. L. 314, 5.
 
 “legal practitioner” means a barrister or solicitor;
 
-OJ L, 2024/2795, 31.10.2024.
-
 “licence” means—
 
 (a) an authorisation granted under the SSM Regulation on the application therefor under section 9, or
@@ -159,6 +153,8 @@ OJ L, 2024/2795, 31.10.2024.
 “Markets in Financial Instruments Directive” means Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014, as amended by—
 
 (a) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 ,
+
+OJ No. L. 173, 12.6.2014, p. 349. OJ No. L. 257, 28.8.2014, p. 1.
 
 (b) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016,
 
@@ -179,10 +175,6 @@ OJ L, 2024/2795, 31.10.2024.
 (j) Directive (EU) 2022/2556 of the European Parliament and of the Council of 14 December 2022;
 
 (k) Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December 2023;
-
-OJ No. L. 173, 12.6.2014, p. 349. OJ No. L. 257, 28.8.2014, p. 1. OJ No. L. 26, 2.2.2016, p. 19. OJ No. L. 175, 30.6.2016, p. 8. OJ No. L. 314, 5.12.2019, p. 64. OJ No. L. 320, 11.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 68, 26.2.2021, p. 14.
-
-OJ L, 2023/2864, 20.12.2023.
 
 (l) Directive (EU) 2024/790 of the European Parliament and of the Council of 28 February 2024;
 
@@ -208,6 +200,10 @@ OJ L, 2023/2864, 20.12.2023.
 
 (i) its holding company, or
 
+OJ No. L. 26, 2.2.2016, p. 19. OJ No. L. 175, 30.6.2016, p. 8. OJ No. L. 314, 5.12.2019, p. 64. OJ No. L. 320, 11.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 347, 20.10.2020, p. 50. OJ No. L. 68, 26.2.2021, p. 14.
+
+OJ L, 2023/2864, 20.12.2023. OJ L, 2024/790, 08.03.2024.
+
 (ii) any other subsidiary of its holding company, or
 
 (c) an associated company of that holder, or
@@ -226,11 +222,11 @@ OJ L, 2023/2864, 20.12.2023.
 
 (c) rights (whether actual or contingent) in respect of money lent to, or deposited with, any industrial and provident society, friendly society or building society, and includes rights or interests (described whether as units or otherwise) which may be acquired under any unit trust scheme under which all property for the time being subject to any trust or other arrangement created or made in pursuance of the scheme consists of such securities as are mentioned in paragraph (a), (b) or (c) of this definition;
 
-OJ L, 2024/790, 08.03.2024.
-
 “SSM Regulation” means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
 
 “subsidiary company” has the meaning given by section 2 of the Central Bank Act 1942;
+
+“third-country branch authorisation” means an authorisation to establish a third-country branch under Regulation 9P(1) of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);
 
 “unit trust scheme” means any arrangements made for the purpose, or having the effect, of providing facilities for the participation by the public, as beneficiaries under a trust or otherwise, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever and a reference in this Act to a manager under a unit trust scheme shall be construed as a reference to the person in whom is vested the powers of management relating to property for the time being subject to any trust or other arrangement created or made in pursuance of the scheme.
 
