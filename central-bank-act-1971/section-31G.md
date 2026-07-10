@@ -6,9 +6,9 @@ Shareholders and members (Class 1 firms).
 
 (b) where there are no qualifying holdings, the 20 largest shareholders or members.
 
-(2) In determining whether the criteria for a qualifying holding are fulfilled, the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 in relation to information about
+(2) In determining whether the criteria for a qualifying holding are fulfilled, the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 in relation to information about issuers whose securities are admitted to trading on a regulated market and the conditions regarding aggregation thereof set out in Article 12(4) and (5) of that Directive shall be taken into account.
 
-OJ No. L. 390, 31.12.2004, p. 38. issuers whose securities are admitted to trading on a regulated market and the conditions regarding aggregation thereof set out in Article 12(4) and (5) of that Directive shall be taken into account.
+OJ No. L. 390, 31.12.2004, p. 38.
 
 (3) Voting rights or shares which institutions hold as a result of providing the underwriting of financial instruments or placing of financial instruments on a firm commitment basis included under point 6 of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 shall not be taken into account, provided that those rights are not exercised or otherwise used to intervene in the management of the issuer and are disposed of within one year of acquisition.
 

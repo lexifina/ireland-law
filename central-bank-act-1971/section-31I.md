@@ -8,8 +8,6 @@ Waiver for credit institutions permanently affiliated to central body (Class 1 f
 
 (b) Regulations 32 and 33,
 
-OJ No. L. 302, 17.11.2009, p. 32.
-
 (c) Regulation 35(1) to (3),
 
 (d) Regulations 38 to 44,
@@ -17,3 +15,5 @@ OJ No. L. 302, 17.11.2009, p. 32.
 (e) Regulations 61 to 84, and
 
 (f) Regulations 115 to 130, of the European Union (Capital Requirements) Regulations 2014 shall apply to the whole as constituted by the central body together with its affiliated institutions.
+
+OJ No. L. 302, 17.11.2009, p. 32.
