@@ -30,11 +30,19 @@ Revocation of licences.
 
 (I) set out in Part Three (other than Articles 92a and 92b), Four or Six of the Capital Requirements Regulation, or
 
-(II) imposed under Regulation 92(2)(a) or 93 of the Capital Requirements Directive, or can no longer be relied on to fulfil its obligations towards its creditors, and, in particular, no longer provides security for the assets entrusted to it by its depositors,
+(II) imposed under Article 92(2)(a) or 93 of the Capital Requirements Regulation, or can no longer be relied on to fulfil its obligations towards its creditors, and, in particular, no longer provides security for the assets entrusted to it by its depositors,
 
-(xi) commits one of the breaches referred to in Regulation 55 of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014), or
+(xi) commits one of the breaches referred to in Regulation 55 of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014),
 
 (xii) uses its licence exclusively to engage in the activities referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation and has, for a period of five consecutive years, average total assets below the thresholds set out in that Article.
+
+(xiii) meets all of the following conditions:
+
+(I) it has been determined to be failing or likely to fail in accordance with Article 32(1), point (a), of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014or in accordance with Article 18(1), point (a), of Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014;
+
+(II) the resolution authority considers that the condition set out in Article 32(1), point (b), of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 or in Article 18(1), point (b), of Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 is met with respect to that credit institution;
+
+(III) the resolution authority considers that the condition set out in Article 32(1), point (c), of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 or in Article 18(1), point (c), of Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 is not met with respect to that credit institution.
 
 (bb) submit a proposal to the ECB to withdraw a licence if the business of, or the corporate structure of, the holder of the licence has been so organised or the holder of the licence has come under the control of any other undertaking not supervised by the Bank such that the holder is no longer capable of being supervised to the satisfaction of the Bank.
 
