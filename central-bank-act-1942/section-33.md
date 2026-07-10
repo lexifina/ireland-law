@@ -58,6 +58,56 @@ Bank to prepare strategic plan.
 
 (6) As soon as practicable after becoming aware that a strategic plan has been laid before both Houses of the Oireachtas, the Bank shall publish the strategic plan and take all reasonably practical steps to implement it.
 
+Staff conflicts of interest
+
+32BA.—(1) The Bank shall have in place all the necessary arrangements to prevent conflicts of interest of employees of the Bank and of the members of the Commission.
+
+(2) The arrangements referred to in subsection (1) shall:
+
+(a) be proportionate to the role and responsibilities of the employees of the Bank and the members of the Commission, and
+
+(b) at a minimum, prohibit the employees of the Bank and the members of the Commission from—
+
+(i) trading in financial instruments issued by or referenced to the institutions supervised by the Bank, and the direct or indirect parent undertakings, subsidiaries or affiliates of those institutions, with the exception of:
+
+(I) instruments managed by third parties, provided that the owners of those instruments are precluded from intervening in the management of the portfolio;
+
+(II) investments in collective investment undertakings, and
+
+(ii) being hired by or accepting any kind of contract for the provision of professional services during a certain period (“cooling-off period”) with any of the following:
+
+(I) institutions with which the employee of the Bank or the member of the Commission has been directly involved for the purposes of supervision or decision-making, including the direct or indirect parent undertakings, subsidiaries or affiliates of those institutions;
+
+(II) entities providing services to any of the entities referred to in clause (I), unless the employee of the Bank or the member of the Commission is strictly precluded from taking part in the provision of those services during the cooling-off period;
+
+(III) entities conducting lobbying and advocacy activities directed at the Bank on matters for which the employee of the Bank or the member of the Commission was responsible during his or her employment or term of office.
+
+(3) The exceptions provided for in subsection (2)(b)(i)(I) and (II) shall only apply where the third parties and collective investment undertakings do not predominantly invest in instruments issued by or referenced to the institutions supervised by the Bank, or the direct or indirect parent undertakings, subsidiaries or affiliates of those institutions.
+
+(4) The cooling-off period shall start from the date on which direct involvement in the supervision of the entities referred to in subsection (2)(b)(ii)(I), ceases.
+
+(5) The Bank shall ensure that employees of the Bank and the members of the Commission have no access to confidential or sensitive information relating to those entities during the cooling-off period.
+
+(6) In the case of hirings by entities referred to in subsection (2)(b)(ii)(I) and (II), the length of the cooling-off period shall be—
+
+(a) no less than three months for employees of the Bank directly involved in the supervision of entities referred to in paragraph (2)(b)(ii)(I), and
+
+(b) no less than 12 months for members of the Commission.
+
+(7) In the case of hirings by entities referred to in subsection (2)(b)(ii)(III), the length of the cooling-off period shall be no less than three months for both employees of the Bank and members of the Commission.
+
+(8) Employees of the Bank who are subject to the prohibition provided for in subsection (2)(b)(ii) shall be entitled to appropriate compensation for that prohibition and the Bank shall decide on the appropriate form of such compensation.
+
+(9) The Secretary General of the Department of Finance and appointed members of the Commission who are subject to the prohibition provided for in subsection (2)(b)(ii) shall be entitled to appropriate compensation for that prohibition and the Minister shall decide on the appropriate form of such compensation.
+
+(10) The Bank shall ensure that employees and members of the Commission are required to submit, prior to being hired or appointed as the case may be and subsequently on an annual basis, a declaration of interest which declaration shall include information on their holdings in the form of stocks, equities, bonds, mutual funds, investment funds, mixed-type funds, hedge funds and exchange-traded funds, that may raise conflict of interest concerns.
+
+(11) Where an employee of the Bank or a member of the Commission owns, at the time of being hired or appointed or at any time thereafter, financial instruments that may give rise to conflicts of interest under this section, the Bank shall have the power to require on a case-by-case basis that those instruments be sold or disposed of within a reasonable timeframe.
+
+(12) The Bank shall have the power to allow, on a case-by-case basis, those employees or members of the Commission to sell or dispose of financial instruments that they owned at the time of being hired or appointed.
+
+(13) In this section, “members of the Commission” excludes the Governor.
+
 Chapter 2A
 
 ## Finance and accounting
@@ -106,7 +156,7 @@ Power to impose levies.
 
 (8) An amendment or revocation of regulations made under this section does not take effect until approved by the Minister.
 
-(9) In this section "levy" does not include a fee.
+(9) In this section “levy” does not include a fee.
 
 Power to prescribe fees.
 
@@ -226,11 +276,11 @@ Chapter 3A
 
 Annual performance statements.
 
-32L.—(1) No later than 30 April in each year, the Bank shall prepare a statement relating to the Bank’s performance in regulating financial services and with regard to its functions under the Finance (Provision of Access to Cash Infrastructure) Act 2025 (in this section called a "performance statement").
+32L.—(1) No later than 30 April in each year, the Bank shall prepare a statement relating to the Bank’s performance in regulating financial services and with regard to its functions under the Finance (Provision of Access to Cash Infrastructure) Act 2025 (in this section called a “performance statement”).
 
 (2) A performance statement is to be in 3 parts—
 
-(a) details, including the aims and objectives, of regulatory activity planned for the current year (in this subsection called a "Regulatory Performance Plan"),
+(a) details, including the aims and objectives, of regulatory activity planned for the current year (in this subsection called a “Regulatory Performance Plan”),
 
 (b) a review of the Bank’s regulatory performance during the preceding year having regard to the Regulatory Performance Plan for that year and any other relevant matters, and
 

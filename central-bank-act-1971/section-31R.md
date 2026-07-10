@@ -4,7 +4,7 @@ Requirement for holders of MiFID authorisation to re-authorise.
 
 (a) the average of monthly total assets of the undertaking, calculated over a period of 12 consecutive months, is equal to or exceeds €30,000,000,000;
 
-(b) the average of monthly total assets of the undertaking, calculated over a period of 12 consecutive months, is less than €30,000,000,000, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in the group that individually have total assets of less than €30,000,000,000 and that carry out any of the activities referred to in paragraphs 3 and 6 of Part 1 of Schedule 1 to the Regulations of 2017 is equal to or exceeds €30,000,000,000, both calculated as an average over a period of 12 consecutive months.
+(b) the average of monthly total assets of the undertaking, calculated over a period of 12 consecutive months, is less than €30,000,000,000, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in the group established in the Union, including any of their branches and subsidiaries established in a third-country, that individually have total assets of less than €30,000,000,000 and that carry out any of the activities referred to in paragraphs 3 and 6 of Part 1 of Schedule 1 to the Regulations of 2017 is equal to or exceeds €30,000,000,000, both calculated as an average over a period of 12 consecutive months.
 
 (2) An undertaking referred to in point (1)(b) of Article 4(1) of the Capital Requirements Regulation that, on 24 December 2019, carried out activities as an investment firm authorised under the Regulations of 2017 shall apply for a Class 1 authorisation or a licence on or before the date that is 180 days from the later of—
 
@@ -57,5 +57,23 @@ Requirement for holders of MiFID authorisation to re-authorise.
 (6) Where a holder of an authorisation granted under the Regulations of 2017 applies to the Bank for a Class 1 authorisation, the Bank shall, in determining whether the conditions referred to in sections 31D to 31G have been complied with, take into account information received by the Bank in relation to the application by the holder for authorisation under the Regulations of 2017 insofar as such information is relevant to the application for a Class 1 authorisation.
 
 (7) Where a holder of an authorisation granted under the Regulations of 2017 applies to the Bank for a licence, the Bank shall, in determining whether the conditions referred to in sections 9D to 9G have been complied with, take into account information received by the Bank in relation to the application by the holder for authorisation under the Regulations of 2017 insofar as such information is relevant to the application for a licence.
+
+(7A) By way of derogation from subsection (1), based on the application received in accordance with subsection (1) and the information received in accordance with Article 95a of the Markets in Financial Instruments Directive, the Bank may waive the requirement to obtain a licence.
+
+(7B) Upon receiving a waiver request, the Bank shall notify the EBA thereof and the EBA shall issue an opinion on that waiver request within one month of receiving the notification.
+
+(7C) The Bank shall take a decision on the waiver request, taking into account the EBA opinion and at least the following elements:
+
+(a) where the undertaking is part of a group, the organisational structure of the group, the booking practices prevailing within the group and the allocation of assets across the group entities;
+
+(b) the nature, size and complexity of the activities carried out by the undertaking in the State and in the Union as a whole;
+
+(c) the importance of, and systemic risk posed by, the activities carried out by the undertaking in the State and in the Union as a whole.
+
+(7D) Where a decision of the Bank under subsection (7A) deviates from the opinion provided by the EBA, the Bank shall state the reasons for the deviation in its decision.
+
+(7E) The Bank shall notify its decision to the undertaking concerned and to the EBA and the EBA shall publish that decision, together with the opinion of the EBA, on the EBA website.
+
+(7F) The Bank shall reassess decisions made under subsection (7A) every three years.
 
 (8) Where a holder of an authorisation granted under the Regulations of 2017 applies for a credit institution authorisation under the SSM Regulation in another Member State, the Bank shall, upon request, disclose to the competent authority in that Member State and the ECB information received by the Bank in relation to the application by the holder for authorisation under the Regulations of 2017.

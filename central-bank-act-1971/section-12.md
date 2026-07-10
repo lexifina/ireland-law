@@ -1,10 +1,10 @@
 Publication of names of holders of licences and notices of revocation of licences.
 
-12.—(1) The Bank shall publish from time to time, but not less frequently than once a year, in such manner as it thinks fit the names of the holders of licences and of the holders of authorisations under section 9A.
+12.— (1) The Bank shall publish from time to time, but not less frequently than once a year, in such manner as it thinks fit the names of the holders of licences and of the holders of third-country branch authorisations.
 
-(2) The Bank shall as soon as may be after the revocation of a licence or authorisation under section 9A, publish notice of the revocation in such manner as it thinks fit. It shall notify any such revocation to the European Commission, European Banking Committee and to the European Banking Authority.
+(2) The Bank shall as soon as may be after the revocation of a licence or third-country branch authorisation, publish notice of the revocation in such manner as it thinks fit. It shall notify any such revocation to the European Commission, European Banking Committee and to the European Banking Authority.
 
-(3) The Bank shall keep each of the following informed of the names of the holders of licences and of the holders of authorisations under section 9A, that is to say:
+(3) The Bank shall keep each of the following informed of the names of the holders of licences and of the holders of third-country branch authorisations, that is to say:
 
 (a) the Registrar of the Supreme Court;
 

@@ -4,11 +4,13 @@ Terms of appointment of Heads of Function.
 
 (2) Subject to subsections (3) and (6), a Head of Function holds office for up to 5 years, as the Minister approves at the time of the Head of Function’s appointment, and is eligible for reappointment provided that the total term in office of a person appointed as a Head of Function shall not exceed 10 years.
 
-(3) The following do not count towards determining the period for which a person has held office as a Head of Function:
+(3) For the purposes of subsection (2), the following periods do not count towards determining the period for which a person has held office as a Head of Function:
 
 (a) any period during which the person was acting in either office of Head of Function;
 
 (b) any period during which the person held the other office of Head of Function.
+
+(3A) The cumulative term in office of a person appointed as a Head of Function after 11 January 2026 shall not exceed a period of 14 years and any term so served shall count towards determining that period for the purposes of this subsection.
 
 (4) A Head of Function shall receive such remuneration and allowances, and is subject to such conditions of service, as the Commission from time to time determines.
 
@@ -37,3 +39,5 @@ Terms of appointment of Heads of Function.
 (j) is removed from office under subsection (7).
 
 (7) The Commission may remove or suspend a Head of Function from office, but only for reasons previously notified in writing to the Head of Function concerned.
+
+(8) Where a person ceases to hold office as a Head of Function for any of the reasons in specified in paragraphs (d), (e), (f), (g) or (i) of subsection (6), the reason for the cessation of that person’s office shall be made public unless he or she objects to the publication.

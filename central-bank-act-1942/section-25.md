@@ -31,3 +31,5 @@ Vacation of office of members of Commission.
 (a) for proven misconduct or incompetence, or
 
 (b) if in the Minister’s opinion it is necessary or desirable to do so to enable the Commission to function effectively.
+
+(4) Where a person, for any of the reasons in paragraphs (e), (f), (g), (h) or (j) of subsection (2), ceases to be an appointed member of the Commission, the reason for the cessation of that person’s appointed membership of the Commission shall be made public unless he or she objects to the publication.
