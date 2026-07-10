@@ -2,7 +2,7 @@
 
 Restriction on carrying on of banking business.
 
-7.—(1) Subject to the provisions of this Act, a person, other than the Bank, shall not, in or outside the State, carry on banking business or hold himself out or represent himself as a banker or as carrying on banking business or ... accept deposits or other repayable funds from the public, unless he is the holder of a licence or authorisation under section 9A.
+7.—(1) Subject to the provisions of this Act, a person, other than the Bank, shall not, in or outside the State, carry on banking business or hold himself out or represent himself as a banker or as carrying on banking business or ... accept deposits or other repayable funds from the public, unless he is the holder of a licence or third-country branch authorisation.
 
 (2) For the purposes of this Act a person shall (save as is otherwise provided by this Act) be deemed to hold himself out as a banker
 
@@ -50,7 +50,7 @@ Restriction on carrying on of banking business.
 
 (a) the Bank, or
 
-(b) the holder of a licence or authorisation under section 9A, or
+(b) the holder of a licence or third-country branch authorisation, or
 
 (c) a body or person referred to in subsection (4), or
 
