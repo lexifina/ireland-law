@@ -1,4 +1,4 @@
-F135[Refusal of authorisation (Class 1 firms)
+F156[Refusal of authorisation (Class 1 firms)
 
 31J.—(1) Where the Bank rejects an application, it shall notify the applicant of the decision and the reasons therefor within 6 months of receipt of the application or, where the application is incomplete, within 6 months of receipt of the complete information required for the decision.
 

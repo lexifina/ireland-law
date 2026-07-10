@@ -1,4 +1,4 @@
-F52[Initial capital.
+F58[Initial capital.
 
 9E.—(1) Subject to subsection (3), the Bank shall not take a draft decision to propose to the ECB to grant a licence unless the applicant holds separate own funds, or has an initial capital, of at least €5,000,000.
 

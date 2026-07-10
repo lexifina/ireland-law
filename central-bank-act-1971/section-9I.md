@@ -1,4 +1,4 @@
-F63[Refusal of authorisation.
+F69[Refusal of authorisation.
 
 9I.—(1) Where the Bank rejects an application, it shall notify the applicant of the decision and the reasons therefor within 6 months of receipt of the application or, where the application is incomplete, within 6 months of receipt of the complete information required for the decision.
 

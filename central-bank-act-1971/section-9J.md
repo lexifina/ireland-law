@@ -1,4 +1,4 @@
-F68[Prior consultation of competent authorities
+F74[Prior consultation of competent authorities
 
 9J.—(1) The Bank shall consult the competent authorities of another Member State before taking a draft decision to propose to the ECB to grant a licence where the credit institution is—
 

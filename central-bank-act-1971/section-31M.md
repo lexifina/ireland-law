@@ -1,4 +1,4 @@
-F138[Revocation of authorisation (Class 1 firms)
+F159[Revocation of authorisation (Class 1 firms)
 
 31M.—(1) The Bank may—
 
