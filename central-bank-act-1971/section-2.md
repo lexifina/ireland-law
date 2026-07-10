@@ -212,6 +212,8 @@ Definitions.
 
 “subsidiary company” has the meaning given by section 2 of the Central Bank Act 1942;
 
+“third-country branch authorisation” means an authorisation to establish a third-country branch under Regulation 9P(1) of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);
+
 “unit trust scheme” means any arrangements made for the purpose, or having the effect, of providing facilities for the participation by the public, as beneficiaries under a trust or otherwise, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever and a reference in this Act to a manager under a unit trust scheme shall be construed as a reference to the person in whom is vested the powers of management relating to property for the time being subject to any trust or other arrangement created or made in pursuance of the scheme.
 
 (1A) In this Act, “competent authority”, “financial holding company”, “group”, “insurance undertaking”, “investment firm”, “management body”, “mixed financial holding company”, “own funds”, “parent undertaking”, and “qualifying holding” each has the meaning assigned to it by Regulation 3 of the European Union (Capital Requirements) Regulations 2014.
