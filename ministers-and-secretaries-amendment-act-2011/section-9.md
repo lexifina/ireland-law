@@ -20,7 +20,7 @@ Transfer of certain other functions to Minister.
 
 (B) who is regarded under that Act as having been elected to be a member of that Parliament,
 
-(IV) a judge of a court established under th ke law of the State,
+(IV) a judge of a court established under the law of the State,
 
 (V) a person who is the holder of a qualifying office within the meaning of Part IV of the Ministerial and Parliamentary Offices Act 1938,
 
