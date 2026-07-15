@@ -1,6 +1,6 @@
 Report of findings.
 
-26. —(1) In any case where a complaint is made to the Commissioner and the Commissioner decides not to carry out an investigation under this Act or decides to discontinue such an investigation, he or she shall send to the person who made the complaint and to the public body concerned a statement in writing of his or her reasons for the decision and shall send to such other person as he or she considers appropriate such statement in writing in relation to the matter as he or she considers appropriate.
+26.—(1) In any case where a complaint is made to the Commissioner and the Commissioner decides not to carry out an investigation under this Act or decides to discontinue such an investigation, he or she shall send to the person who made the complaint and to the public body concerned a statement in writing of his or her reasons for the decision and shall send to such other person as he or she considers appropriate such statement in writing in relation to the matter as he or she considers appropriate.
 
 (2) In any case where the Commissioner conducts an investigation under this Act, he or she shall prepare and submit to—
 

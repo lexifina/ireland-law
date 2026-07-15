@@ -8,4 +8,4 @@ Public facing services.
 
 (c) such of the relevant language standards prescribed by the Minister under section 19A(2) to apply to the public body concerned.
 
-(2) In this section, "public facing service" means a service offered or provided, whether or not for remuneration, on behalf of a public body by a person other than a public body, to the general public or a class of the general public.
+(2) In this section, “public facing service” means a service offered or provided, whether or not for remuneration, on behalf of a public body by a person other than a public body, to the general public or a class of the general public.
