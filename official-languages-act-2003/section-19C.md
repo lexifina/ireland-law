@@ -1,6 +1,6 @@
-F34[Derogation from language standards
+F40[Derogation from language standards
 
-19C. —(1) A public body may, within 3 months of a language standard being prescribed to apply to the body under section 19A(2), apply, in writing, to the Minister to seek a derogation from the standard or part of the standard.
+19C.—(1) A public body may, within 3 months of a language standard being prescribed to apply to the body under section 19A(2), apply, in writing, to the Minister to seek a derogation from the standard or part of the standard.
 
 (2) An application under subsection (1) shall include—
 
