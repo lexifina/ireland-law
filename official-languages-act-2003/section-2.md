@@ -2,9 +2,9 @@ Interpretation.
 
 2. —(1) In this Act, save where the context otherwise requires—
 
-"Act of 2012" means the Gaeltacht Act 2012;
+“Act of 2012” means the Gaeltacht Act 2012;
 
-"Advisory Committee" has the meaning assigned to it by section 18A;
+“Advisory Committee” has the meaning assigned to it by section 18A;
 
 “Commissioner” means, as the context may require, Oifig Choimisinéir na dTeangacha Oifigiúla established by section 20 or the holder, for the time being, of that office;
 
@@ -14,19 +14,23 @@ Interpretation.
 
 “enactment” means a statute or an instrument made under a power conferred by a statute;
 
-"establishment day" shall be construed in accordance with section 18A;
+“establishment day” shall be construed in accordance with section 18A;
 
 “functions” includes powers and duties and references to the performance of functions include, with respect to powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
 “Gaeltacht area” has the same meaning as it has in Part 2 of the Act of 2012;
 
-"Gaeltacht Language Planning Area" has the same meaning as it has in Part 2 of the Act of 2012;
+“Gaeltacht Language Planning Area” has the same meaning as it has in Part 2 of the Act of 2012;
 
-"Gaeltacht Service Town" has the same meaning as it has in Part 2 of the Act of 2012;
+“Gaeltacht Service Town” has the same meaning as it has in Part 2 of the Act of 2012;
 
 “head” means the head of a public body;
 
 “head of a public body” means the person appointed as the principal officer of the public body or, where no such person has been appointed, the person designated by order of the Government made under section 4A to be the head of the public body for the purposes of this Act;
+
+(a) in relation to a Department of State, the Minister of the Government having charge of it,
+
+(b) in relation to the Office of the Attorney General, the Attorney General,
 
 (c) in relation to the Office of the Commission for Public Service Appointments, the Director of the Office of the Commission for Public Service Appointments,
 
@@ -44,15 +48,15 @@ Interpretation.
 
 (j) in relation to any other public body, the person who holds, or performs the functions of, the office of chief executive officer (by whatever name called) of the body;
 
-"Irish Language Network" has the same meaning as it has in Part 2 of the Act of 2012;
+“Irish Language Network” has the same meaning as it has in Part 2 of the Act of 2012;
 
 “local authority” has the meaning assigned to it by subsection (1) of section 2 of the Local Government Act 2001;
 
 “the Minister” means the Minister for Community, Rural and Gaeltacht Affairs;
 
-"National Plan" has the meaning assigned to it by section 18C;
+“National Plan” has the meaning assigned to it by section 18C;
 
-"official form" means a form, including an electronic form, used by a public body in connection with the provision of a service by that body;
+“official form” means a form, including an electronic form, used by a public body in connection with the provision of a service by that body;
 
 “the official languages” means the Irish language (being the national language and the first official language) and the English language (being a second official language) as specified in Article 8 of the Constitution;
 
@@ -68,7 +72,7 @@ Interpretation.
 
 “service” means a service offered or provided (whether directly or indirectly) to the general public or a class of the general public by a public body.
 
-"statutory body" means a body established by or under statute.
+“statutory body” means a body established by or under statute.
 
 (2) (a) In this Act a reference to a section or schedule is a reference to a section of or Schedule to this Act unless it is indicated that reference to some other enactment is intended.
 
