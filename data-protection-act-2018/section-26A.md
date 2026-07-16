@@ -1,10 +1,10 @@
 Prohibition on disclosure of confidential information by persons engaging with Commission in connection with relevant function
 
-26A. (1) The Commission may, where it or an authorised officer is authorised by law to provide information to a person (in this section referred to as a "relevant person") in connection with the performance of a relevant function, by notice in writing given to the person—
+26A. (1) The Commission may, where it or an authorised officer is authorised by law to provide information to a person (in this section referred to as a “relevant person”) in connection with the performance of a relevant function, by notice in writing given to the person—
 
 (a) identify information that is provided, or to be provided, to the person by the Commission or an authorised officer, as the case may be, in connection with the performance of a relevant function by the Commission, an authorised officer, or both, as confidential information,
 
-(b) specify, by reference to paragraph (a), (b) or (c) of the definition of "confidential information", the reason the information so identified is confidential, and
+(b) specify, by reference to paragraph (a), (b) or (c) of the definition of “confidential information”, the reason the information so identified is confidential, and
 
 (c) direct that the person shall, subject to subsection (2), not disclose that confidential information.
 
@@ -16,7 +16,7 @@ Prohibition on disclosure of confidential information by persons engaging with C
 
 (3) A relevant person who fails to comply with a direction under subsection (1)(c) commits an offence and is liable on summary conviction to a class A fine.
 
-(4) Where information, specified in a notice under subsection (1), is confidential by reference to paragraph (c) only of the definition of "confidential information", the information shall cease to be confidential and the direction under subsection (1)(c) shall cease to apply to the relevant person concerned—
+(4) Where information, specified in a notice under subsection (1), is confidential by reference to paragraph (c) only of the definition of “confidential information”, the information shall cease to be confidential and the direction under subsection (1)(c) shall cease to apply to the relevant person concerned—
 
 (a) subject to paragraph (b), where the information is confidential by reason of the fact disclosure could reasonably be expected to prejudice the effectiveness of the performance by an authorised officer of a relevant function, upon the completion of the performance by the authorised officer of the function, or
 
@@ -24,7 +24,7 @@ Prohibition on disclosure of confidential information by persons engaging with C
 
 (5) In this section—
 
-"confidential information" means—
+“confidential information” means—
 
 (a) commercially sensitive information within the meaning of section 149(7),
 
@@ -36,7 +36,7 @@ Prohibition on disclosure of confidential information by persons engaging with C
 
 (c) information the disclosure of which could, in the opinion of the Commission, reasonably be expected to prejudice the effectiveness of the performance of a relevant function by it, an authorised officer, or both, as the case may be;
 
-"relevant function" means a function—
+“relevant function” means a function—
 
 (a) of the Commission in relation to—
 
