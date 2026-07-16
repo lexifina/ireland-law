@@ -1,6 +1,6 @@
 Judicial remedy for infringement of certain appropriate safeguards on transfers of personal data outside European Union
 
-117A. (1) This section applies to a transfer of personal data by a controller or processor to a third country or an international organisation pursuant to Article 46 where the transfer is subject to appropriate safeguards provided for in the rules or clauses (in this section referred to as "relevant instruments") set out in subsection (5).
+117A. (1) This section applies to a transfer of personal data by a controller or processor to a third country or an international organisation pursuant to Article 46 where the transfer is subject to appropriate safeguards provided for in the rules or clauses (in this section referred to as “relevant instruments”) set out in subsection (5).
 
 (2) Without prejudice to any other remedy available to him or her, including his or her right to bring an action under section 117 or to lodge a complaint, a data subject whose personal data is included in a transfer referred to in subsection (1) may, where the transfer is subject to appropriate safeguards set out in a relevant instrument, enforce—
 
