@@ -1,0 +1,3 @@
+Data protection and data sharing for purposes of this Part.
+
+12H.— ...
