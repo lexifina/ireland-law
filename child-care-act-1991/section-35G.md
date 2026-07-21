@@ -1,4 +1,4 @@
-F305[Provision of information by Child and Family Agency
+F309[Provision of information by Child and Family Agency
 
 35G.—(1) A guardian ad litem appointed for a child may request the Child and Family Agency to provide to him or her any information relating to the welfare of the child necessary for the performance by the guardian ad litem of his or her functions under this Act.
 

@@ -1,4 +1,4 @@
-F309[Regulations
+F313[Regulations
 
 35J.—(1) The Minister may, for the purpose of promoting high professional standards and good practice on the part of guardians ad litem, make regulations relating to the standard of performance by guardians ad litem of their functions under this Act, and, without prejudice to the generality of the foregoing, such regulations may:
 

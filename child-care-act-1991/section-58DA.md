@@ -1,4 +1,4 @@
-F405[Publication of decisions under Part VIIA
+F409[Publication of decisions under Part VIIA
 
 58DA.—(1) The Agency shall make such arrangement as the Agency considers appropriate and necessary to bring any matter specified in subsection (2) to the attention of the public where to do so is in the interests of the health, safety and welfare of children attending early years services.
 

@@ -1,4 +1,4 @@
-F314[Cessation of authorisation
+F318[Cessation of authorisation
 
 35O.—(1) An authorisation issued in respect of a person shall cease to have effect—
 

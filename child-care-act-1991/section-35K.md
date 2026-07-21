@@ -1,4 +1,4 @@
-F310[Provision of information by guardians ad litem to Minister
+F314[Provision of information by guardians ad litem to Minister
 
 35K.—(1) The Minister may request a guardian ad litem to provide the Minister with such information relating to the performance of the functions of the guardian ad litem under this Act (including information relating to the proceedings in which he or she has been appointed for a child) as is necessary for the performance by the Minister of his or her functions under this Part.
 

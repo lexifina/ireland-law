@@ -1,6 +1,6 @@
-F419[Immediate action notice and immediate action order
+F423[Immediate action notice and immediate action order
 
-58JB.—(1) Where an authorised person is of the opinion, following the exercise of any of his or her powers under section 58J relating to a premises in which a registered provider is providing a prescribed early years service, that immediate action is required by the registered provider in order to address an issue that poses an immediate risk of harm to a child attending the service, he or she may issue a notice (in this Part referred to as an "immediate action notice").
+58JB.—(1) Where an authorised person is of the opinion, following the exercise of any of his or her powers under section 58J relating to a premises in which a registered provider is providing a prescribed early years service, that immediate action is required by the registered provider in order to address an issue that poses an immediate risk of harm to a child attending the service, he or she may issue a notice (in this Part referred to as an “immediate action notice”).
 
 (2) An immediate action notice shall—
 
@@ -16,7 +16,7 @@ F419[Immediate action notice and immediate action order
 
 (5) Where an immediate action notice has not been complied with or the authorised person has reasonable grounds to believe that it has not been complied with, the Agency may apply to the District Court for an immediate action order.
 
-(6) A judge of the District Court may, on application in that behalf by the Agency, where the judge is of the opinion that an immediate action notice has not been complied with or that there are reasonable grounds for the authorised person’s belief that it has not been complied with, make an order (in this Part referred to as an "immediate action order") directing the registered provider to comply with the immediate action notice.
+(6) A judge of the District Court may, on application in that behalf by the Agency, where the judge is of the opinion that an immediate action notice has not been complied with or that there are reasonable grounds for the authorised person’s belief that it has not been complied with, make an order (in this Part referred to as an “immediate action order”) directing the registered provider to comply with the immediate action notice.
 
 (7) An immediate action order shall specify—
 

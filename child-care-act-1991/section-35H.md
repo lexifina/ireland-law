@@ -1,4 +1,4 @@
-F306[Cessation of appointment and re-appointment of guardian ad litem
+F310[Cessation of appointment and re-appointment of guardian ad litem
 
 35H.—(1) Subject to subsections (3) and (4), an order under section 35B(2) and any appointment under section 35C(1) pursuant to such an order ceases to have effect on the earliest of the following occurring:
 
@@ -6,7 +6,7 @@ F306[Cessation of appointment and re-appointment of guardian ad litem
 
 (i) on the expiration of the period specified in the special care order or such extended period (within the meaning of section 23J(9)), if any, for which the special care order has effect, or
 
-(ii) upon the discharge of the special care order under section 23NE,whichever is the earlier;
+(ii) upon the discharge of the special care order under section 23NE, whichever is the earlier;
 
 (b) where the High Court makes an interim special care order—
 

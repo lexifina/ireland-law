@@ -1,4 +1,4 @@
-F311[Authorisation
+F315[Authorisation
 
 35L.—(1) Subject to this section, the Minister may issue an authorisation in writing to such and so many persons as the Minister considers appropriate to perform the functions conferred on a guardian ad litem by or under this Act.
 

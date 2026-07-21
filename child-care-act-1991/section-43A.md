@@ -1,4 +1,4 @@
-F351[Orders relating to children in care of same foster parent or relative for five years or more.
+F355[Orders relating to children in care of same foster parent or relative for five years or more.
 
 43A.— (1) This section applies to a child in the care of the Child and Family Agency whether in care under section 4 or under section 18 and whether the child has been placed under section 36(1)(a) with a foster parent or under section 36(1)(d) with a relative.
 
@@ -54,7 +54,7 @@ F351[Orders relating to children in care of same foster parent or relative for f
 
 (12) This section and section 43B are without prejudice to any other provisions of this Act, or any provisions of the regulations for the time being in force under this Act, that in the interests of a child in care assign functions to the Child and Family Agency.
 
-(13) For the purpose of this section and section 43B, "relevant time" means—
+(13) For the purpose of this section and section 43B, “relevant time” means—
 
 (a) in relation to a child in care under section 4, immediately before the child was taken into care under that section, and
 

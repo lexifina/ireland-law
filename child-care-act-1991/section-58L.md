@@ -1,4 +1,4 @@
-F427[Exemptions from provisions of this Part
+F431[Exemptions from provisions of this Part
 
 58L.—(1) For the avoidance of doubt it is hereby declared that the provisions of this Part shall not apply to—
 
@@ -14,4 +14,4 @@ F427[Exemptions from provisions of this Part
 
 (b) the spouse of such relative, other than where the relative is a parent of the child.
 
-(3) In this section, "parent" includes a person acting in loco parentis.
+(3) In this section, “parent” includes a person acting in loco parentis.

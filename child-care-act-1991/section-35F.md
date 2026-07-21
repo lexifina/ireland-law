@@ -1,4 +1,4 @@
-F304[Powers of guardians ad litem appointed under section 35C
+F308[Powers of guardians ad litem appointed under section 35C
 
 35F.—(1) A guardian ad litem appointed for a child may make an application to the court—
 

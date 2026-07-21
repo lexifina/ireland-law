@@ -1,4 +1,4 @@
-F360[Aftercare plan - eligible adult
+F364[Aftercare plan - eligible adult
 
 45C.—(1) An eligible adult or a person authorised in writing to make a request on behalf of an eligible adult may request the Child and Family Agency to prepare an aftercare plan for the eligible adult where the Agency has not previously prepared a plan for that eligible adult.
 
@@ -30,4 +30,4 @@ F360[Aftercare plan - eligible adult
 
 (b) if that person is an eligible adult he or she may make a request under subsection (1).
 
-(8) In this section, "public body" and "service" have the same meaning as they have in section 45B.
+(8) In this section, “public body” and “service” have the same meaning as they have in section 45B.

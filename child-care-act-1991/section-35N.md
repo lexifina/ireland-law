@@ -1,4 +1,4 @@
-F313[Revocation of authorisation
+F317[Revocation of authorisation
 
 35N.— The Minister may revoke an authorisation issued in respect of a person if it appears to the Minister that—
 

@@ -1,4 +1,4 @@
-F308[Costs
+F312[Costs
 
 35I.—(1) Any costs or expenses reasonably incurred by a guardian ad litem in the exercise of his or her functions under this Act shall be paid by the Minister and the Minister may apply to the court to have the amount of any such costs or expenses measured or taxed.
 
