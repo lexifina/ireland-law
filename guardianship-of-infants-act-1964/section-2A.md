@@ -1,4 +1,4 @@
-F8[References in enactments to guardians appointed under section 6C or 6E
+F10[References in enactments to guardians appointed under section 6C or 6E
 
 2A. (1) Subject to subsection (2), a reference in a provision of an enactment specified in section 6C(12) to a person who is a guardian of a child pursuant to this Act shall include a reference to a person who is appointed as guardian of the child under that section if the court so appointing the person orders that he or she is to enjoy the rights and responsibilities of a guardian under the provision concerned.
 

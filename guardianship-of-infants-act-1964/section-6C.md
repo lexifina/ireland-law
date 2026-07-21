@@ -1,4 +1,4 @@
-F25[Power of court to appoint person other than parent as guardian
+F35[Power of court to appoint person other than parent as guardian
 
 6C.—(1) The court may, on an application to it by a person who, not being a parent of the child, is eligible under subsection (2) to make such application, make an order appointing the person as guardian of a child.
 

@@ -1,4 +1,4 @@
-F30[Power of court to appoint temporary guardian
+F40[Power of court to appoint temporary guardian
 
 6E.— (1) A qualifying guardian may nominate a person to be, in the event that the qualifying guardian becomes incapable through serious illness or injury of exercising the rights and responsibilities of guardianship, temporary guardian of the child concerned.
 

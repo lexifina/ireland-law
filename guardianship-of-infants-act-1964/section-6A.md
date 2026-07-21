@@ -1,4 +1,4 @@
-F22[Power of court to appoint parent as guardian
+F28[Power of court to appoint parent as guardian
 
 6A.— (1) The court may, on an application to it by a person who, being a parent of the child, is not a guardian of the child, make an order appointing the person as guardian of the child.
 

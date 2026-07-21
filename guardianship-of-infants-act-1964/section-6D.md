@@ -1,4 +1,4 @@
-F26[Rights and responsibilities equivalent to guardianship arising in another state
+F36[Rights and responsibilities equivalent to guardianship arising in another state
 
 6D.— (1) Subject to this section, a person shall be the guardian of a child where he or she has—
 
