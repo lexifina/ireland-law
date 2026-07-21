@@ -4,23 +4,23 @@ Definitions for this Part.
 
 58A.—In this Part—
 
-"Agency" has the same meaning as it has in the Child and Family Agency Act 2013;
+“Agency” has the same meaning as it has in the Child and Family Agency Act 2013;
 
-"arts" has the same meaning as it has in the Arts Act 2003;
+“arts” has the same meaning as it has in the Arts Act 2003;
 
-"authorised person" means a person appointed under section 58I to be an authorised person for the purposes of this Part;
+“authorised person” means a person appointed under section 58I to be an authorised person for the purposes of this Part;
 
-"childminding service" means a service that—
+“childminding service” means a service that—
 
 (a) entails an individual taking care, by himself or herself, of children under the age of 15 years, in the home of the individual, and
 
 (b) is provided to children (other than that individual’s own children) for a total period of not less than 2 hours per day;
 
-"closure order" has the meaning assigned to it by section 58JD(1);
+“closure order” has the meaning assigned to it by section 58JD(1);
 
-"competitive sport" has the same meaning as it has in the Irish Sports Council Act 1999;
+“competitive sport” has the same meaning as it has in the Irish Sports Council Act 1999;
 
-"early years service" means a service providing—
+“early years service” means a service providing—
 
 (a) a pre-school service, ...
 
@@ -28,35 +28,35 @@ Definitions for this Part.
 
 (c) a childminding service;
 
-"immediate action notice" has the meaning assigned to it by section 58JB(1);
+“immediate action notice” has the meaning assigned to it by section 58JB(1);
 
-"immediate action order" has the meaning assigned to it by section 58JB(6);
+“immediate action order” has the meaning assigned to it by section 58JB(6);
 
-"improvement notice" has the meaning assigned to it by section 58JA(1);
+“improvement notice” has the meaning assigned to it by section 58JA(1);
 
-"improvement order" has the meaning assigned to it by section 58JA(6);
+“improvement order” has the meaning assigned to it by section 58JA(6);
 
-"premises" means any premises, or part thereof, where an early years service is provided or is proposed to be provided, including the area immediately surrounding, or adjacent to, such premises which is used in conjunction with such premises, other than any part of that area that is a public place;
+“premises” means any premises, or part thereof, where an early years service is provided or is proposed to be provided, including the area immediately surrounding, or adjacent to, such premises which is used in conjunction with such premises, other than any part of that area that is a public place;
 
-"pre-school child" means a child who has not attained the age of six years, and who is not attending a recognised school;
+“pre-school child” means a child who has not attained the age of six years, and who is not attending a recognised school;
 
-"pre-school service" means any pre-school, play group, day nursery, crèche, day-care or other similar service which caters for pre-school children;
+“pre-school service” means any pre-school, play group, day nursery, crèche, day-care or other similar service which caters for pre-school children;
 
-"recognised school" has the same meaning as it has in the Education Act 1998;
+“recognised school” has the same meaning as it has in the Education Act 1998;
 
-"recreational sport" has the same meaning as it has in the Irish Sports Council Act 1999;
+“recreational sport” has the same meaning as it has in the Irish Sports Council Act 1999;
 
-"register" means the register established and maintained in accordance with section 58C;
+“register” means the register established and maintained in accordance with section 58C;
 
-"registered provider" has the meaning assigned to it by section 58C(2);
+“registered provider” has the meaning assigned to it by section 58C(2);
 
-"relevant person" has the meaning assigned to it by section 58JD(1)(b);
+“relevant person” has the meaning assigned to it by section 58JD(1)(b);
 
-"school" has the same meaning as it has in the Education Act 1998;
+“school” has the same meaning as it has in the Education Act 1998;
 
-"school age child" means a child who is attending a school age service;
+“school age child” means a child who is attending a school age service;
 
-"school age service" means any early years service, play group, day nursery, crèche, day-care or other similar service which—
+“school age service” means any early years service, play group, day nursery, crèche, day-care or other similar service which—
 
 (a) caters for children under the age of 15 years enrolled in a school providing primary or post-primary education,
 
@@ -78,6 +78,6 @@ Definitions for this Part.
 
 (ii) for whom statutory provision for inspection exists, prior to the commencement of this section;
 
-"temporary prohibition order" has the meaning assigned to it by section 58JC(1);
+“temporary prohibition order” has the meaning assigned to it by section 58JC(1);
 
-"youth work" has the same meaning as it has in the Youth Work Act 2001.
+“youth work” has the same meaning as it has in the Youth Work Act 2001.

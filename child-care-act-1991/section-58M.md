@@ -12,10 +12,10 @@ Transitional provisions (Part VIIA).
 
 (4) In this section—
 
-"Act of 2024" means the Child Care (Amendment) Act 2024;
+“Act of 2024” means the Child Care (Amendment) Act 2024;
 
-"section 58M childminding service" means a pre-school service or a school age service, which may include an overnight pre-school service or an overnight school age service, offered by a person who single handedly takes care of pre-school children or school age children, as the case may be, which may include the person’s own children, in the person’s home for a total of more than 2 hours per day, except where either of the relevant exemptions or paragraph (a) of section 58L apply;
+“section 58M childminding service” means a pre-school service or a school age service, which may include an overnight pre-school service or an overnight school age service, offered by a person who single handedly takes care of pre-school children or school age children, as the case may be, which may include the person’s own children, in the person’s home for a total of more than 2 hours per day, except where either of the relevant exemptions or paragraph (a) of section 58L apply;
 
-"relevant exemptions" means paragraphs (b) and (c) of section 58L as if the amendments of that section by section 17 of the Act of 2024 had not been made;
+“relevant exemptions” means paragraphs (b) and (c) of section 58L as if the amendments of that section by section 17 of the Act of 2024 had not been made;
 
-"transitional period" means the period of 3 years commencing on the date of coming into operation of section 22 of the Act of 2024.
+“transitional period” means the period of 3 years commencing on the date of coming into operation of section 22 of the Act of 2024.

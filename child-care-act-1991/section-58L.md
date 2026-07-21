@@ -14,4 +14,4 @@ Exemptions from provisions of this Part.
 
 (b) the spouse of such relative, other than where the relative is a parent of the child.
 
-(3) In this section, "parent" includes a person acting in loco parentis.
+(3) In this section, “parent” includes a person acting in loco parentis.

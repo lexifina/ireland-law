@@ -1,6 +1,6 @@
 Temporary prohibition order.
 
-58JC.—(1) Where an authorised person is of the opinion that the continued provision of a prescribed early years service poses an immediate and grave risk to the health, safety or welfare of children attending the service, he or she may, subject to subsection (2), serve, or arrange to have served, on the registered provider or person in charge of the service a notice (in this Part referred to as a "temporary prohibition order") stating that he or she is of that opinion and the temporary prohibition order shall—
+58JC.—(1) Where an authorised person is of the opinion that the continued provision of a prescribed early years service poses an immediate and grave risk to the health, safety or welfare of children attending the service, he or she may, subject to subsection (2), serve, or arrange to have served, on the registered provider or person in charge of the service a notice (in this Part referred to as a “temporary prohibition order”) stating that he or she is of that opinion and the temporary prohibition order shall—
 
 (a) state that the authorised person is of the opinion that the provision of the service should be prohibited for a specified period not exceeding 6 weeks,
 
@@ -28,4 +28,4 @@ Temporary prohibition order.
 
 (7) Subsections (1) to (5) shall apply to a decision under subsection (6) to extend the period of temporary prohibition order as they apply to a decision to issue a temporary prohibition order and a reference in those subsections to such an order shall be construed as a reference to an order that is extended under subsection (6).
 
-(8) In this section, "chief executive officer" means the person appointed under section 28 of the Child and Family Agency Act 2013 to be the chief executive officer of the Agency.
+(8) In this section, “chief executive officer” means the person appointed under section 28 of the Child and Family Agency Act 2013 to be the chief executive officer of the Agency.

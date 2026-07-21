@@ -66,9 +66,9 @@ Hearing of proceedings.
 
 (f) In this subsection—
 
-"party to the proceedings" includes a witness in the proceedings;
+“party to the proceedings” includes a witness in the proceedings;
 
-"sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+“sensitive personal information” means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
 
 (i) information relating to the medical, psychiatric or psychological history of the person,
 
@@ -80,7 +80,7 @@ Hearing of proceedings.
 
 (i) the performance of his or her functions pursuant to Part VA and any regulations made thereunder, including the promotion of high professional standards and good practice by guardians ad litem in the performance of their functions under this Act, or
 
-(ii) the review of the operation of this Act, in particular in relation to the care and protection of children, the Minister may grant an approval to the officer (in this subsection referred to as an "approved officer") for the purposes of such attendance.
+(ii) the review of the operation of this Act, in particular in relation to the care and protection of children, the Minister may grant an approval to the officer (in this subsection referred to as an “approved officer”) for the purposes of such attendance.
 
 (b) An approval under paragraph (a) shall specify—
 
@@ -110,9 +110,9 @@ Hearing of proceedings.
 
 ...
 
-"proceedings" include proceedings commenced but not completed before the commencement of this subsection;
+“proceedings” include proceedings commenced but not completed before the commencement of this subsection;
 
-"special categories of personal data" has the same meaning as it has in the Data Protection Act 2018.
+“special categories of personal data” has the same meaning as it has in the Data Protection Act 2018.
 
 (6) ...
 
@@ -124,9 +124,9 @@ Hearing of proceedings.
 
 (b) section 267(2) of the Children Act 2001.
 
-(9) In subsection (5), "proceedings" include proceedings commenced but not completed before the commencement of that subsection.
+(9) In subsection (5), “proceedings” include proceedings commenced but not completed before the commencement of that subsection.
 
-(10) In subsections (5) and (5B), "relevant documents", in relation to any proceedings referred to in those subsections, means any of the following documents (other than where the contents of any such document are expressed to be without prejudice or in terms having a like effect):
+(10) In subsections (5) and (5B), “relevant documents”, in relation to any proceedings referred to in those subsections, means any of the following documents (other than where the contents of any such document are expressed to be without prejudice or in terms having a like effect):
 
 (a) the originating document in the proceedings;
 

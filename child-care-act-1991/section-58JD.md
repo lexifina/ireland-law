@@ -1,6 +1,6 @@
 Closure order.
 
-58JD.—(1) The Agency may apply to the District Court for an order prohibiting the continuance of the provision of an early years service (in this Part referred to as a "closure order") where—
+58JD.—(1) The Agency may apply to the District Court for an order prohibiting the continuance of the provision of an early years service (in this Part referred to as a “closure order”) where—
 
 (a) a temporary prohibition order has been served on the registered provider of the service and—
 
@@ -8,7 +8,7 @@ Closure order.
 
 (ii) the matters specified under paragraph (b) of section 58JC(1) have not been remedied before the expiry of the period during which the temporary prohibition order has effect, or
 
-(b) the Agency has reason to believe that a person (in this Part referred to as a "relevant person") is providing a prescribed early years service and his or her name is not entered in the register as a provider of that service.
+(b) the Agency has reason to believe that a person (in this Part referred to as a “relevant person”) is providing a prescribed early years service and his or her name is not entered in the register as a provider of that service.
 
 (2) An application for a closure order under subsection (1)(b) may be made ex parte.
 
