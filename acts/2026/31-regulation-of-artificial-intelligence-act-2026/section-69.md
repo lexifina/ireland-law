@@ -1,0 +1,3 @@
+Indemnification of authorised officers.
+
+69. Where a relevant market surveillance authority is satisfied that an authorised officer has discharged his or her duties in pursuance of the functions of the relevant market surveillance authority under this Act or the Artificial Intelligence Regulation in good faith, the relevant market surveillance authority shall, subject to such terms and conditions that the relevant market surveillance authority may determine from time to time, indemnify that authorised officer in the manner and to the extent that the relevant market surveillance authority may determine against all actions or claims however they arise in respect of the discharge by the authorised officer of his or her duties.
