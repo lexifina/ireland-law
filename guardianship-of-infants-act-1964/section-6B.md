@@ -1,6 +1,6 @@
 Right of certain parents to guardianship.
 
-6B. (1) A person who—
+6B.—(1) A person who—
 
 (a) is, under section 5(1)(b) of the Act of 2015, the parent of the child, and
 
