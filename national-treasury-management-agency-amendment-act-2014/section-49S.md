@@ -1,0 +1,3 @@
+Evidence - amount of debt due
+
+49S. In any legal proceedings relating to a residual NAMA matter that involve the recovery by the Agency or a subsidiary of the Agency, as the case may be, of money, a certificate in writing under the seal or common seal, as the case may be, of the Agency or the subsidiary of the Agency that a specified sum of money was owing to the Agency or the subsidiary of the Agency, as the case may be, at the date of the certificate by a specified person on a specified account is, at any time within one month after the date of the certificate, evidence that the sum specified in the certificate is and remains owing to the Agency or the subsidiary of the Agency, as the case may be, by the person and on the account specified in the certificate.

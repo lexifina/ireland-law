@@ -8,6 +8,10 @@ Interpretation.
 
 “Act of 2009” means the National Asset Management Agency Act 2009;
 
+“Act of 2026” means the National Treasury Management Agency (Miscellaneous Provisions) Act 2026;
+
+“Agency” means the National Treasury Management Agency;
+
 “Bank” means the Central Bank of Ireland;
 
 “Court” means the High Court;
@@ -58,4 +62,10 @@ Interpretation.
 
 “subsidiary”, in relation to IBRC, has the same meaning as in section 155 of the Act of 1963;
 
+“subsidiary of the Agency” has the same meaning as it has in section 49B of the National Treasury Management Agency (Amendment) Act 2014;
+
 “subsidiary undertaking”, in relation to IBRC, has the same meaning as in the European Communities (Companies: Group Accounts) Regulations 1992 (S.I. No. 201 of 1992).
+
+“transfer agreement” has the meaning given to it by section 11A(1);
+
+“transfer date” shall be construed in accordance with section 11A(2) or 11B(2), as appropriate.
