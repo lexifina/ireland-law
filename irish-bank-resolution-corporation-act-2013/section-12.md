@@ -47,3 +47,5 @@ Sales, transfers, securities, etc.
 (5) Notwithstanding any enactment or rule of law, IBRC, acting through a special liquidator, or a special liquidator, where such cause of action has vested in the special liquidator, may sell or transfer, on such terms and conditions and to such person as the special liquidator thinks fit, any cause of action, howsoever arising, which has accrued or will accrue to IBRC.
 
 (6) In this section references to a special liquidator shall include references to a special liquidator when acting as a receiver, where he or she is appointed as a receiver by the Bank.
+
+(7) This section shall not apply in respect of a residual matter (within the meaning of section 11A(6)) that is the subject of a transfer agreement.
