@@ -36,11 +36,11 @@ Interpretation
 
 “children detention school” has the meaning it has in section 3(1) of the Act of 2001;
 
-“code of practice” means a code of practice that is approved by the Minister under section 157 ;
+“code of practice” means a code of practice that is approved by the Minister under section 157;
 
 “Commissioner” means the Commissioner of the Garda Síochána;
 
-“Committee” means the DNA Database System Oversight Committee established by section 71 ;
+“Committee” means the DNA Database System Oversight Committee established by section 71;
 
 “crime scene” shall be construed in accordance with section 61(2);
 
@@ -56,7 +56,13 @@ Interpretation
 
 “DNA Database System” shall be construed in accordance with section 59;
 
-“DNA profile”, in relation to a person, means information comprising a set of identification characteristics of the non-coding part of DNA derived from an examination and analysis of a sample of biological material that is clearly identifiable as relating to the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person;
+“DNA profile”, in relation to a person, means—
+
+(a) subject to paragraphs (b) and (c), information comprising a set of identification characteristics of the non-coding part of DNA derived from an examination and analysis of a sample of biological material that is clearly identifiable as relating to the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person,
+
+(b) where the sample is taken from, or in relation to, the person or the body of the person under section 48, 49 or 50, information comprising a set of identification characteristics of the DNA derived from an examination and analysis of a sample of biological material that is clearly identifiable as relating to the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person, or
+
+(c) in the case of a DNA profile received pursuant to section 143(1) or 144(1)(b), information comprising a set of identification characteristics of the DNA derived from an examination and analysis of a sample of biological material that is clearly identifiable as relating to the person and that is capable of comparison with similar information derived from an examination and analysis of another sample of biological material for the purpose of determining whether or not that other sample could relate to that person.
 
 “elimination (crime scene investigators) index”, in relation to the DNA Database System, shall be construed in accordance with section 64;
 
@@ -106,7 +112,7 @@ Interpretation
 
 “investigation division”, in relation to the DNA Database System, shall be construed in accordance with section 59(3);
 
-“match”, in relation to two DNA profiles but other than in Chapter 2of Part 12, means that there is such a degree of correspondence between them that they are indistinguishable and it is probable that they relate to the same person, and the degree of that probability can be indicated statistically;
+“match”, in relation to two DNA profiles but other than in Chapter 2 of Part 12, means that there is such a degree of correspondence between them that they are indistinguishable and it is probable that they relate to the same person, and the degree of that probability can be indicated statistically;
 
 “member in charge” of a Garda Síochána station has the meaning assigned to it by Regulation 4 of the Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations 1987 (S.I. No. 119 of 1987) subject to the modification that the reference in paragraph (1) of that Regulation to the member who is in charge of a Garda Síochána station at a time when the member in charge of the station is required to do anything or cause anything to be done pursuant to those Regulations shall be construed as a reference to the member who is in charge of the Garda Síochána station at a time when the member in charge is required to do anything or cause anything to be done under this Act;
 
@@ -118,11 +124,11 @@ Interpretation
 
 “missing person” means a person who, whether before or after the commencement of this section, is observed to be missing from his or her normal patterns of life, in relation to whom those persons who are likely to have heard from the person are unaware of the whereabouts of the person and that the circumstances of the person being missing raises concerns for his or her safety and well-being;
 
-“missing and unknown persons index”, in relation to the DNA Database System, shall be construed in accordance with section 66 ;
+“missing and unknown persons index”, in relation to the DNA Database System, shall be construed in accordance with section 66;
 
 “non-coding part of DNA”, in relation to a person, means the chromosome regions of the person’s DNA that are not known to provide for any functional properties of the person;
 
-“non-intimate sample” means any of the following taken, or to be taken, from a person under section 13 :
+“non-intimate sample” means any of the following taken, or to be taken, from a person under section 13:
 
 (a) a sample of—
 
@@ -156,7 +162,7 @@ Interpretation
 
 (b) a place of detention provided under section 2 of the Prisons Act 1970, and “prison officer”, in relation to a place of detention, shall be construed accordingly;
 
-“prescribed” means prescribed by regulations made by the Minister under section 5 ;
+“prescribed” means prescribed by regulations made by the Minister under section 5;
 
 “prison” means a place of custody administered by the Minister (other than a Garda Síochána station) and includes—
 
@@ -172,7 +178,7 @@ Interpretation
 
 (b) lacks the capacity to indicate (by speech, sign language or any other means of communication) whether or not he or she consents to a sample being taken from him or her;
 
-“reference index”, in relation to the DNA Database System, shall be construed in accordance with section 62 ;
+“reference index”, in relation to the DNA Database System, shall be construed in accordance with section 62;
 
 “registered dentist” means a person whose name is entered for the time being in the Register of Dentists established under section 26 of the Dentists Act 1985;
 
