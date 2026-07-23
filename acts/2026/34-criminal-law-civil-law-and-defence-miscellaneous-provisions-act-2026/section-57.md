@@ -1,0 +1,11 @@
+Street furniture licence: duties of licensee and District Court clerk.
+
+57. (1) Where a street furniture licence is granted to the licensee of a licensed premises, the licensee shall, as soon as practicable after the licence is granted, give notice in writing of its granting to the District Court clerk in the licensing area in which the premises are situated.
+
+(2) A notice under subsection (1) shall state the name of the licensee and the name and address of the licensed premises and shall be accompanied by—
+
+(a) a certified copy of the street furniture licence, and
+
+(b) a map of the outdoor seating area to which the street furniture licence relates.
+
+(3) As soon as practicable after receiving a notice under subsection (1), the District Court clerk concerned shall record the particulars of the street furniture licence in the entry for the licensed premises concerned in the register of licences kept under the Licensing Acts, or where the licensed premises is a club, in the register of clubs kept under the Registration of Clubs Acts.

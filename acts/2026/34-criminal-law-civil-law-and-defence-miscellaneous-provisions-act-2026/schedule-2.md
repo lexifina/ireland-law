@@ -1,0 +1,41 @@
+SCHEDULE 2
+
+Passenger Name Record (PNR) Data
+
+1. PNR record locator
+
+2. Date of reservation or issue of ticket
+
+3. Date(s) of intended travel
+
+4. Name(s)
+
+5. Address and contact information (telephone number, email address)
+
+6. All forms of payment information, including billing address
+
+7. Complete travel itinerary for specific PNR
+
+8. Frequent flyer information
+
+9. Travel agency or travel agent
+
+10. Travel status of passenger, including confirmations, check in status, no-show or go- show information
+
+11. Split or divided PNR information
+
+12. General remarks (including all available information on unaccompanied minors under 18 years, such as name and gender of the minor, age, language(s) spoken, name and contact details of guardian on departure and relationship to the minor, name and contact details of guardian on arrival and relationship to the minor, departure and arrival agent)
+
+13. Ticketing field information, including ticket number, date of ticket, issuance and one- way tickets, automated ticket fare quote fields
+
+14. Seat number and other seat information
+
+15. Code share information
+
+16. All baggage information
+
+17. Number and other names of travellers on the PNR
+
+18. Any advance passenger information (API) data collected (including the type, number, country of issuance and expiry date of any identity document, nationality, family name, given name, gender, date of birth, airline, flight number, departure date, arrival date, departure port, arrival port, departure time and arrival time)
+
+19. All historical changes to the PNR data specified in numbers 1 to 18.

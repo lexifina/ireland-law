@@ -1,0 +1,11 @@
+Service of notices and documents.
+
+82. A notice or other document that is required to be served on or given to a person under this Part shall be served on or given to the person in one of the following ways:
+
+(a) by electronic means, in a case in which the person has given notice in writing to the person serving or giving the notice or document concerned of his or her consent to the notice or document (or notices or documents of a class to which the notice or document belongs) being served on, or given to, him or her in that manner;
+
+(b) by delivering it to the person;
+
+(c) by addressing it to the person and leaving it at the address where the person ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+
+(d) by sending it to the person by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
