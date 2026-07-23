@@ -24,7 +24,7 @@ Restrictions on possession, use, and carriage of firearms.
 
 (a) the possession or carriage of a firearm under and in accordance with a permit issued under this Act and for the time being in force;
 
-(b) the possession, use, or carriage of a firearm or ammunition by a member of the Defence Forces of Saorstát Eireann or of a lawful police force in Saorstát Eireann or by a member of the civilian staff of the Garda Síochána, in the performance of his duty as such member;
+(b) the possession, use, or carriage of a firearm or ammunition by a member of the Defence Forces of Saorstát Eireann or of a lawful police force in Saorstát Eireann or by a member of garda staff (within the meaning of the Policing, Security and Community Safety Act 2024), in the performance of his duty as such member;
 
 (ba) the possession, use, or carriage of a firearm or ammunition by an officer of the Minister assigned to perform functions in Forensic Science Ireland, in the course of the performance by him or her of such functions;
 
@@ -44,7 +44,7 @@ Restrictions on possession, use, and carriage of firearms.
 
 (b) the possession or carriage of a firearm or ammunition by an employee of a person engaged in the business of carrying or of warehousing goods for reward in the ordinary course of such business,
 
-(c) the possession or carriage of a firearm or ammunition for purposes of sale by an auctioneer who stands authorised under section 13 of the Firearms Act 1964 or by an employee of such an auctioneer in the ordinary course of business as an auctioneer,
+(c) the possession or carriage of a firearm or ammunition for purposes of sale by an auctioneer who stands authorised under section 13 of the Fire-arms Act 1964 or by an employee of such an auctioneer in the ordinary course of business as an auctioneer,
 
 (d) the possession, use or carriage of a firearm or ammunition during a competition or target practice at a club, shooting range or any other place that stands authorised under this section or section 4A of this Act,
 
