@@ -50,7 +50,7 @@
 
 (i) the design and construction of a new dwelling,
 
-(ii) an extension to a dwelling involving a total floor area greater than 40 square metres,
+(ii) an extension to a dwelling involving a total floor area greater than 45 square metres,
 
 (iii) works to which Part III applies.
 
