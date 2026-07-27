@@ -18,17 +18,7 @@ Building Control Acts 1990 and 2007
 
 7 Day Notice Statutory Declaration
 
-OFFICIAL USE
-
-Building Control Authority: Date Received __________
-
-______________________________ Register Ref. __________
-
-Entered on __________
-
-Entered by __________
-
-Fee Received __________
+OFFICIAL USE Building Control Authority: Date Received __________ ______________________________ Register Ref. __________ Entered on __________ Entered by __________ Fee Received __________
 
 I / We of do solemnly and sincerely declare that I / we have made an application to the above Building Control Authority for a Fire Safety Certificate in respect of works commencing not less than 7 days from this date.
 
