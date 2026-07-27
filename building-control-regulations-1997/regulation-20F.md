@@ -8,7 +8,7 @@ Certificate of Compliance on Completion.
 
 (a) the design and construction of a new dwelling,
 
-(b) an extension to a dwelling involving a total floor area greater than 40 square metres,
+(b) an extension to a dwelling involving a total floor area greater than 45 square metres,
 
 (c) works to which Part III applies.
 
