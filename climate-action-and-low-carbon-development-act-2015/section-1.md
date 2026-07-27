@@ -58,7 +58,7 @@ Interpretation
 
 (g) nitrogen trifluoride;
 
-"joint committee" has the meaning assigned to it by the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013 ;
+"joint committee" has the meaning assigned to it by the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013;
 
 “local authority” has the meaning assigned to it by the Act of 2001;
 
@@ -78,11 +78,7 @@ Interpretation
 
 “periodic review” has the meaning assigned to it by section 13;
 
-“periodic review report” shall be construed in accordance with
-
-## section
-
-13(5);
+“periodic review report” shall be construed in accordance with section 13(5);
 
 "provisional carbon budget" has the meaning assigned to it by section 6A(3);
 
