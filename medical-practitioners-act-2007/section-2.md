@@ -90,7 +90,7 @@ Interpretation.
 
 “Member State” means a state other than the State which is a member of the European Union and includes states which are parties to the agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by the protocol done at Brussels on 17 March 1993 and the Swiss Confederation;
 
-“minimum level of indemnity“, in relation to a medical practitioner, means the level of indemnity specified by the Agency, pursuant to section 8A (inserted by section 10 of the Medical Practitioners(Amendment)Act2017)oftheNationalTreasuryManagementAgency(Amendment) Act 2000, as being applicable to the class of medical practitioners (if any) into which that practitioner falls;
+“minimum level of indemnity“, in relation to a medical practitioner, means the level of indemnity specified by the Agency, pursuant to section 8A (inserted by section 10 of the Medical Practitioners (Amendment) Act 2017) of the National Treasury Management Agency (Amendment) Act 2000, as being applicable to the class of medical practitioners (if any) into which that practitioner falls;
 
 “Minister” means the Minister for Health and Children;
 

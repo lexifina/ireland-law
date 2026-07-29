@@ -66,7 +66,7 @@ President and Vice-President
 
 (b) the President or Vice-President, as the case may be, resigns that office and the resignation becomes effective under this paragraph, or
 
-(c) the Council by a resolution, for which not less than two-thirds of the members of the Council vote, and of the intention to propose which not less than 7 days notice is given to every member of the Council, terminates the appointment of the President or Vice- President.
+(c) the Council by a resolution, for which not less than two-thirds of the members of the Council vote, and of the intention to propose which not less than 7 days notice is given to every member of the Council, terminates the appointment of the President or Vice-President.
 
 (3) The President or Vice-President of the Council may at any time resign from that office by giving notice in writing signed by the President or Vice-President, as the case may be, to the Council, but the resignation shall not become effective until the meeting of the Council next held after the receipt by the Council of the notice of resignation.
 
