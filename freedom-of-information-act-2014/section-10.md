@@ -58,6 +58,4 @@ Right of person to information regarding acts of FOI bodies affecting the person
 
 (b) in respect of an act of an FOI body done at the request of the person, any consequence or effect thereof relating to the person, and
 
-(c) the avoidance of a loss, liability, penalty, forfeiture, punishment or other disadvantage affecting the person.
-
-Chapter 2
+(c) the avoidance of a loss, liability, penalty, forfeiture, punishment or other disadvantage affecting the person. Chapter 2
