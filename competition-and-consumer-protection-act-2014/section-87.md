@@ -32,7 +32,7 @@ Amendment of Central Bank Act 1942
 
 (c) in section 5C (inserted by section 14 of the Central Bank Reform Act 2010), by substituting the following subsection for subsection (3):
 
-“(3) Subject to section 33AK, if the Competition and Consumer Protection Commission is of the opinion that information obtained by the Bank pursuant to subsections (1) and (2) is relevant to the exercise of that Commission’s functions under section 10(3)( j) of the Competition and Consumer Protection Act 2014, the Bank shall provide the requested information to the Commission at the Commission’s request.”,
+“(3) Subject to section 33AK, if the Competition and Consumer Protection Commission is of the opinion that information obtained by the Bank pursuant to subsections (1) and (2) is relevant to the exercise of that Commission’s functions under section 10(3)(j) of the Competition and Consumer Protection Act 2014, the Bank shall provide the requested information to the Commission at the Commission’s request.”,
 
 (d) in section 33AK—
 
@@ -52,14 +52,12 @@ Amendment of Central Bank Act 1942
 
 “
 
-43 No. ___ of
+43 No. ___ of 2014
 
-Competition and
+Competition and Consumer
 
-Parts 1 and 2 (other 2014
+Parts 1 and 2 (other than
 
-Consumer Protection than section 37)
-
-## Act 2014
+Protection Act 2014 section 37)
 
 ”.

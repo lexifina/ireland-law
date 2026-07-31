@@ -1,4 +1,4 @@
-mendment of section 83 of Act of 2007
+Amendment of section 83 of Act of 2007
 
 78. Section 83 of the Act of 2007 is amended—
 

@@ -4,7 +4,7 @@ Res judicata
 
 (a) a provision of regulations made under section 63B of that Act, or
 
-(b) a requirement in a contravention notice, then, for the purposes of any subsequent proceedings (other than proceedings for an offence) under that Chapter, the finding shall be res judicata (whether or not the parties to the said subsequent proceedings are the same as the parties to the first- mentioned proceedings).
+(b) a requirement in a contravention notice, then, for the purposes of any subsequent proceedings (other than proceedings for an offence) under that Chapter, the finding shall be res judicata (whether or not the parties to the said subsequent proceedings are the same as the parties to the first-mentioned proceedings).
 
 (2) In this section—
 

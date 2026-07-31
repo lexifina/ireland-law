@@ -24,6 +24,6 @@ Amendment of section 3 of Act of 2002
 
 ‘electronic communications network’ has the same meaning as it has in the Act of 2009;”, and
 
-(f ) by substituting the following definition for the definition of “undertaking”:
+(f) by substituting the following definition for the definition of “undertaking”:
 
 “‘undertaking’ means a person being an individual, a body corporate or an unincorporated body of persons engaged for gain in the production, supply or distribution of goods or the provision of a service and, where the context so admits, shall include an association of undertakings.”

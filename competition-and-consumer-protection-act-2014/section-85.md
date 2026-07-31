@@ -4,7 +4,7 @@ Commission may publish certain information in respect of grocery goods undertaki
 
 “Chapter 6A
 
-Publication of Names (Grocery Goods Undertakings List)
+## Publication of Names (Grocery Goods Undertakings List)
 
 Commission may publish certain information in respect of grocery goods undertakings
 

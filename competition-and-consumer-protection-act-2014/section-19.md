@@ -46,7 +46,7 @@ Provision for co-operation between Commission and certain prescribed bodies
 
 (8) If information is furnished by one party to another party pursuant to a provision of a co-operation agreement of the kind referred to in subsection (3)(a), the provisions of any enactment concerning the disclosure of that information by the first-mentioned party shall apply to the second-mentioned party with respect to that information.
 
-(9) A failure by the Commission or a prescribed body to comply with a provision of a co- operation agreement shall not invalidate the exercise by it of any power.
+(9) A failure by the Commission or a prescribed body to comply with a provision of a co-operation agreement shall not invalidate the exercise by it of any power.
 
 (10) (a) In this section—
 

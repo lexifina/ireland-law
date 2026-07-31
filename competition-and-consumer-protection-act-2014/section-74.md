@@ -596,7 +596,7 @@ Sharing of information and documents and disclosure of confidential information
 
 (c) the Permanent Defence Force within the meaning of the Defence Act 1954,
 
-(d) a local authority within the meaning of the Local Government Act 2001, or
+(d) a local authority within the meaning of theLocal Government Act 2001, or
 
 (e) a body established by or under any enactment or charter other than the Companies Acts ;
 
