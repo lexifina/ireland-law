@@ -128,7 +128,9 @@ Authorised officers.
 
 (15) Subsections (13) and (14) shall not affect the admissibility in evidence at the trial of a person in respect of an offence of any statement that is recorded in writing made by the person during questioning by a member of the Garda Síochána or authorised officer at a Garda Síochána station or elsewhere in connection with the investigation of the offence (whether or not that statement is signed by the person) and irrespective of whether the making of that statement is recorded by electronic or similar means.
 
-(16) Section 9 of the Criminal Law Act 1976 shall apply in relation to a search carried out by an authorised officer pursuant to a warrant issued under subsection (3) or (3A) as it applies to a search carried out by a member of the Garda Síochána in the course of exercising his or her powers under that Act.
+(16) Section 9 of the Criminal Law Act 1976 shall apply in relation to a search carried out by an authorised officer pursuant to a warrant issued under subsection
+
+(3) or (3A) as it applies to a search carried out by a member of the Garda Síochána in the course of exercising his or her powers under that Act.
 
 (17) In this section—
 
