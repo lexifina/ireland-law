@@ -14,6 +14,12 @@ Functions of Commission
 
 (iii) notwithstanding their repeal, the Competition (Amendment) Act 1996 and the Competition Act 1991, that has occurred;
 
+(ca) to carry out an Artificial Intelligence Regulation investigation into any suspected Artificial Intelligence Regulation infringement that may be occurring or has occurred, either—
+
+(i) on its own initiative, or
+
+(ii) as part of its market surveillance activities, in response to a complaint made to it by any person, or at the request of a Member State competent authority or public authority of a Member State (other than the State) under the Artificial Intelligence Regulation,
+
 (d) to enforce the relevant statutory provisions;
 
 (e) to encourage compliance with the relevant statutory provisions, which may include the publication of notices containing practical guidance as to how those provisions may be complied with;
