@@ -78,6 +78,8 @@ Disclosure of information.
 
 (a) Regulation (EU) No. 1092/2010 of 24 November 2010;
 
+O J No. 331, 15.12.2010, p. 1.
+
 (b) Regulation (EU) No. 1093/2010 of 24 November 2010;
 
 (c) Regulation (EU) No. 1094/2010 of 24 November 2010;
@@ -89,8 +91,6 @@ Disclosure of information.
 (i) which it believes is or is likely to be material to an authority concerned with the enforcement of any law, and
 
 (ii) which it believes it is unable, due to the provisions of subsection (1A) or (5B), to disclose to that authority, and
-
-O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
 
 (iii) in respect of which it is not satisfied that the information has been disclosed to that authority by the directors, or those charged with the direction, of the supervised entity, then, the Bank shall issue to the directors or others duly charged with the direction of the supervised entity a document, to be known as a Disclosure Issue Notice, and the notice shall—
 
@@ -119,6 +119,8 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 (i) in respect of member firms of the exchange for the purpose of monitoring compliance by member firms with stock exchange rules or with conditions or requirements imposed by the Bank, or with both, or
 
 (ii) where the Bank considers it necessary to do so, either for the proper and orderly regulation of stock exchanges and their member firms or for the protection of investors, or for both, or
+
+O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
 
 (g) to a financial futures and options exchange, within the meaning of section 97 of the Central Bank Act 1989, whose rules have been approved by the Bank under Chapter VIII of the Central Bank Act 1989—
 
@@ -268,9 +270,13 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 
 (ba) to the Data Protection Commission that is required for the performance of that Commission’s functions under the Data Protection Regulation or the Data Protection Acts 1988 to 2018, or
 
-(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU), or
+(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU),
 
-(bc) to the Private Security Authority that is required for the performance of its functions under the Private Security Services Acts 2004 to 2021 in so far as those functions relate to the regulation of cash-in-transit providers (within the meaning of the Finance (Provision of Access to Cash Infrastructure) Act 2025).
+(bc) to the Private Security Authority that is required for the performance of its functions under the Private Security Services Acts 2004 to 2021 in so far as those functions relate to the regulation of cash-in-transit providers (within the meaning of the Finance (Provision of Access to Cash Infrastructure) Act 2025), or
+
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
+
+(bd) for any purpose connected to the functions of the Bank as a market surveillance authority under Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024.
 
 (5A) Subsection (5) shall not apply to confidential information received by the Bank in the performance of its functions as a competent authority designated as such for the purposes of the Payment Services Directive.
 
@@ -288,9 +294,7 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 
 (c) to the European Banking Authority, in its capacity of contributing to the consistent and coherent functioning of supervising mechanisms (as referred to in point (a) of Article 1(5) of Regulation (EU) No 1093/2010 of 24 November 2010),
 
-(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection
-
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 28.2.2014, p. 34. of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
+(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
 
 (e) to authorities entrusted with the public duty of supervising other financial sector entities and the authorities responsible for the supervision of financial markets,
 
@@ -303,6 +307,8 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 2
 (i) to the persons responsible for carrying out statutory audits of the accounts of institutions, insurance undertakings and financial institutions,
 
 (j) to the ESCB central banks and other bodies with a similar function in their capacity as monetary authorities when the information is relevant for the exercise of their respective statutory tasks,
+
+OJ L, 2024/1689, 12.7.2024. OJ No. L. 60, 28.2.2014, p. 34.
 
 (k) to contractual or institutional protection schemes as referred to in Article 113(7) of the Capital Requirements Regulation
 
@@ -364,15 +370,15 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 2
 
 (10) In this section—
 
-"approved professional body" has the meaning given by section 55 of the Investment Intermediaries Act 1995;
+“approved professional body” has the meaning given by section 55 of the Investment Intermediaries Act 1995;
 
-"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+“Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
-"product producer" has the meaning given by section 2 of the Investment Intermediaries Act 1995;
+“product producer” has the meaning given by section 2 of the Investment Intermediaries Act 1995;
 
-"restricted activity investment product intermediary" has the meaning assigned to it by section 26 of the Investment Intermediaries Act 1995;
+“restricted activity investment product intermediary” has the meaning assigned to it by section 26 of the Investment Intermediaries Act 1995;
 
-"supervisory EU legal acts" means—
+“supervisory EU legal acts“means—
 
 (a) Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000,
 
@@ -408,11 +414,11 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 2
 
 (q) ...
 
-(r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision
-
-OJ No. L. 176, 27.06.2013, p. 338. of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
+(r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
 
 (i) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010,
+
+OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34.
 
 (ii) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council,
 
@@ -442,9 +448,11 @@ OJ No. L. 176, 27.06.2013, p. 338. of credit institutions and investment firms, 
 
 (ab) Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
 
-OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
-
 (ac) Regulation (EU) No. 2016/1011 of the European Parliament and of the Council of 8 June 2016;
+
+OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
+
+OJ, No L171, 29.6.2016, p. 1
 
 (ad) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution.
 
@@ -474,8 +482,10 @@ OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337,
 
 (aq) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023;
 
-"supervised entity" means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
-
-OJ, No L171, 29.6.2016, p. 1
+(ar) the Directive as defined in Regulation 3(1) of the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2011 (S.I. No. 352 of 2011),
 
 OJ No. L. 314, 5.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 1.
+
+(as) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024;
+
+“supervised entity” means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
