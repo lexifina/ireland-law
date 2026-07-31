@@ -44,6 +44,16 @@ Application of Act.
 
 (i) a dwelling the subject of a tenancy granted under Part II of the Landlord and Tenant (Amendment) Act 1980 or under Part III of the Landlord and Tenant Act 1931 or which is the subject of an application made under section 21 of the Landlord and Tenant (Amendment) Act 1980 and the court has yet to make its determination in the matter.
 
+(j) a dwelling consisting of a detached house constructed, erected or placed in the rear garden of a house (in this paragraph referred to as the "principal house"), where—
+
+(i) the construction, erection or placing of the said dwelling in that rear garden was, at the time of such construction, erection or placing, exempted development within the meaning of the Planning and Development Act 2000 or the Planning and Development Act 2024, and
+
+(ii) the principal house is—
+
+(I) the principal private residence (within the meaning of section 473B of the Taxes Consolidation Act 1997) of the landlord of the said dwelling, and
+
+(II) owned by that landlord.
+
 (2A) Where—
 
 (a) a public authority provides a dwelling, of which it is the owner, to an approved housing body under a contract or lease between the public authority and the approved housing body pursuant to paragraph (ea) of section 6(2) of the Housing (Miscellaneous Provisions) Act 1992, and
