@@ -118,6 +118,8 @@ Section 6 does not include a reference to—
 
 (z) the Ombudsman, insofar as it relates to records concerning an examination or investigation carried out by the Ombudsman under the Ombudsman Acts 1980 to 2012;
 
+(za) Oifig IS na hÉireann, in the performance of its functions under the Regulation of Artificial Intelligence Act 2026, other than in so far as it relates to records concerning the general administration of those functions.
+
 (aa) the Ombudsman for Children, insofar as it relates to records concerning an examination or investigation carried out by the Ombudsman for Children under the Ombudsman for Children Act 2002;
 
 (ab) ...
@@ -216,7 +218,9 @@ Exempt Agencies
 
 A board of management established under section 14 of the Education Act 1998, other than a board of management of a school established or maintained by an education and training board
 
-A bridge bank within the meaning of section 17 of the Central Bank and Credit Institutions (Resolution) Act 2011 Allied Irish Banks p.l.c.
+A bridge bank within the meaning of section 17 of the Central Bank and Credit Institutions (Resolution) Act 2011
+
+Allied Irish Banks p.l.c.
 
 An Post
 
@@ -232,9 +236,7 @@ Commissioners for Irish Lights
 
 Córas Iompair Éireann Holding Company
 
-Cork Airport Authority plc.
-
-Drogheda Port Company
+Cork Airport Authority plc. Drogheda Port Company
 
 Dublin Airport Authority plc.
 
@@ -278,7 +280,9 @@ Shannon Airport Authority plc.
 
 Shannon Foynes Port Company
 
-Special European Union Programmes Body Tourism Ireland
+Special European Union Programmes Body
+
+Tourism Ireland
 
 Trade and Business Development Body (InterTradeIreland)
 
