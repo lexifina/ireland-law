@@ -4,13 +4,13 @@ Interpretation.
 
 ...
 
-"Appeals Tribunal" means the Irish Financial Services Appeals Tribunal established by section 57C;
+“Appeals Tribunal” means the Irish Financial Services Appeals Tribunal established by section 57C;
 
 ...
 
-"appointed member" or "appointed member of the Commission" means a member of the Commission referred to in section 18CA(1)(b);
+“appointed member” or “appointed member of the Commission” means a member of the Commission referred to in section 18CA(1)(b);
 
-"associated entity" in relation to a financial service provider, means—
+“associated entity” in relation to a financial service provider, means—
 
 (a) a holding company of the financial service provider, or
 
@@ -26,13 +26,13 @@ Interpretation.
 
 (e) a partnership or joint venture in which the financial service provider has a financial interest;
 
-"approved stock exchange" means a stock exchange approved under section 9 of the Stock Exchange Act 1995;
+“approved stock exchange” means a stock exchange approved under section 9 of the Stock Exchange Act 1995;
 
-"Bank" means the Central Bank of Ireland;
+“Bank” means the Central Bank of Ireland;
 
 ...
 
-"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, as amended by –
+“Capital Requirements Regulation” means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, as amended by –
 
 (a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
 
@@ -44,13 +44,15 @@ Interpretation.
 
 (e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
 
-(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the
+
+OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3.
+
+European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
 
-(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to
-
-OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1. OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
 
 (i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014,
 
@@ -58,7 +60,7 @@ OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 
 
 (k) Commission Delegated Regulation (EU) 2021/424 of 17 December 2019 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the alternative standardised approach for market risk,
 
-(l) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID- 19 crisis,
+(l) Regulation (EU) 2021/558 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) No 575/2013 as regards adjustments to the securitisation framework to support the economic recovery in response to the COVID-19 crisis,
 
 (m) Commission Implementing Regulation (EU) 2021/1043 of 24 June 2021 on the extension of the transitional provisions related to own funds requirements for exposures to central counterparties set out in Regulation (EU) No 575/2013 of the European Parliament and of the Council,
 
@@ -68,95 +70,97 @@ OJ No. L. 176, 27.6. 2013, p. 1. OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 
 
 (p) Regulation (EU) 2024/1623 of the European Parliament and of the Council of 31 May 2024 amending Regulation (EU) No 575/2013 as regards requirements for credit risk, credit valuation adjustment risk, operational risk, market risk and the output floor, and
 
-(q) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk;
+(q) Commission Delegated Regulation (EU) 2024/2795 of 24 July 2024 amending Regulation (EU) No 575/2013 of the European Parliament and of the
 
-"Central Bank Acts" means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
+OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024. OJ L, 2024/2795, 31.10.2024.
 
-"Commission" means the Central Bank Commission;
+Council with regard to the date of application of the own funds requirements for market risk;
 
-"consolidated bank note" has the same meaning as in the Currency Act 1927;
+“Central Bank Acts” means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
 
-...
+“Commission” means the Central Bank Commission;
 
-...
-
-"credit union" has the meaning given by the Credit Union Act 1997;
-
-"Currency Act 1927" means that Act as adapted in consequence of the Constitution;
-
-OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 11.3.2021, p. 1. OJ No. L. 116, 6.4.2021, p. 25. OJ No. L. 225, 25.6.2021, p. 52. OJ No. L. 275, 25.10.2022, p.1. OJ L, 2023/2869, 20.12.2023. OJ L, 2024/1623, 19.6.2024. OJ L, 2024/2795, 31.10.2024.
-
-"Deputy Financial Services and Pensions Ombudsman" means a person appointed under section 8(1)(b) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
+“consolidated bank note” has the same meaning as in the Currency Act 1927;
 
 ...
 
-"designated enactments" means, subject to subsection (2A), the enactments specified in Part 1 of Schedule 2 and the statutory instruments made under any of those enactments;
+...
 
-"designated statutory instruments" means the statutory instruments specified in Part 2 of Schedule 2;
+“credit union” has the meaning given by the Credit Union Act 1997;
+
+“Currency Act 1927” means that Act as adapted in consequence of the Constitution;
+
+“Deputy Financial Services and Pensions Ombudsman” means a person appointed under section 8(1)(b) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
 
 ...
 
-"ECB" means the European Central Bank;
+“designated enactments” means, subject to subsection (2A), the enactments specified in Part 1 of Schedule 2 and the statutory instruments made under any of those enactments;
 
-"EEA country" means a country that is a member of the European Economic Area;
-
-"employee", in relation to the Bank, includes the Secretary of the Bank;
-
-"enactment" includes any instrument made under an enactment;
-
-"ESCB Statute" means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on February 1992) to the Rome Treaty;
-
-"ex-officio member" or "ex-officio member of the Commission" means a member of the Commission referred to in section 18CA(1)(a);
-
-"financial futures and options exchange" has the meaning given by section 97 of the Central Bank Act 1989;
-
-"financial services" include financial products;
-
-"Financial Services and Pensions Ombudsman" means a person appointed under section 8(1)(a) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
+“designated statutory instruments” means the statutory instruments specified in Part 2 of Schedule 2;
 
 ...
 
-"financial service provider" means a person who carries on a business of providing one or more financial services;
+“ECB” means the European Central Bank;
 
-"financial year" means a period of 12 months ending on 31 December or, if the Minister, by order notified in Iris Oifigiúil, has prescribed a different period for the purposes of this Act, that other period;
+“EEA country” means a country that is a member of the European Economic Area;
 
-"function" includes duty;
+“employee”, in relation to the Bank, includes the Secretary of the Bank;
 
-"general fund" means the fund referred to in section 32F;
+“enactment” includes any instrument made under an enactment;
 
-"Governor" means the person holding office as the Governor of the Bank, and includes—
+“ESCB Statute” means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on February 1992) to the Rome Treaty;
+
+“ex-officio member” or “ex-officio member of the Commission” means a member of the Commission referred to in section 18CA(1)(a);
+
+“financial futures and options exchange” has the meaning given by section 97 of the Central Bank Act 1989;
+
+“financial services” include financial products;
+
+“Financial Services and Pensions Ombudsman” means a person appointed under section 8(1)(a) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
+
+...
+
+“financial service provider” means a person who carries on a business of providing one or more financial services;
+
+“financial year” means a period of 12 months ending on 31 December or, if the Minister, by order notified in Iris Oifigiúil, has prescribed a different period for the purposes of this Act, that other period;
+
+“function” includes duty;
+
+“general fund” means the fund referred to in section 32F;
+
+“Governor” means the person holding office as the Governor of the Bank, and includes—
 
 (a) any person appointed to act as Governor in accordance with section 22, and
 
 (b) the Head of Central Banking when carrying out responsibilities of the Governor in accordance with section 22A;
 
-"Head of Central Banking", "Head of Financial Regulation" and "Head of Function" shall be construed in accordance with section 23;
+“Head of Central Banking”, “Head of Financial Regulation” and “Head of Function” shall be construed in accordance with section 23;
 
-"holding company" means a company that has one or more subsidiary companies;
+“holding company” means a company that has one or more subsidiary companies;
 
-"law" includes the Rome Treaty and the ESCB Statute;
+“law” includes the Rome Treaty and the ESCB Statute;
 
-"local authority" means a local authority for the purposes of the Local Government Act 2001;
+“local authority” means a local authority for the purposes of the Local Government Act 2001;
 
-"member" or "member of the Commission" means an appointed member or an ex-officio member;
+“member” or “member of the Commission” means an appointed member or an ex-officio member;
 
-"Minister" means the Minister for Finance;
+“Minister” means the Minister for Finance;
 
-"officer" means each Head of Function, the Secretary of the Bank and the Registrar of Credit Unions;
+“officer” means each Head of Function, the Secretary of the Bank and the Registrar of Credit Unions;
 
 ...
 
-"power" includes right and privilege;
+“power” includes right and privilege;
 
-"publication", in relation to a report or other document, includes publishing the report or document in an accessible form on an Internet website;
+“publication”, in relation to a report or other document, includes publishing the report or document in an accessible form on an Internet website;
 
-"record" means any record of information, however compiled, recorded or stored, and includes—
+“record” means any record of information, however compiled, recorded or stored, and includes—
 
 (a) any book, a register and any other document containing information,and
 
 (b) any disc, tape or other article from which information is capable of being produced in any form capable of being reproduced visually or aurally;
 
-"regulated financial service provider" means—
+“regulated financial service provider” means—
 
 (a) a financial service provider whose business is subject to regulation by the Bank under this Act or under a designated enactment or a designated statutory instrument,
 
@@ -166,23 +170,23 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 1
 
 (c) ...
 
-"the regulations" means regulations made by the Minister under section 61A and in force under this Act;
+“the regulations” means regulations made by the Minister under section 61A and in force under this Act;
 
 ...
 
-"Rome Treaty" means the Treaty on the Functioning of the European Union done at Rome on 25 March 1957, as amended by the Treaty of Lisbon amending the Treaty on European Union and the Treaty establishing the European Community signed at Lisbon on 13 December 2007;
+“Rome Treaty” means the Treaty on the Functioning of the European Union done at Rome on 25 March 1957, as amended by the Treaty of Lisbon amending the Treaty on European Union and the Treaty establishing the European Community signed at Lisbon on 13 December 2007;
 
-"SRB" means the Single Resolution Board established under Article 42 of the SRM Regulation;
+“SRB” means the Single Resolution Board established under Article 42 of the SRM Regulation;
 
-"SRM Regulation" means Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010;
+“SRM Regulation” means Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010;
 
-"SSM Framework Regulation" means Regulation (EU) No. 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for co-operation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
+“SSM Framework Regulation” means Regulation (EU) No. 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for co-operation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
 
-"SSM Regulation" means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
+“SSM Regulation” means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
 
-"subsidiary company" has the meaning given by section 2A;
+“subsidiary company” has the meaning given by section 2A;
 
-"voting rights" means—
+“voting rights” means—
 
 (a) in relation to a company that has a share capital, the rights conferred on shareholders by virtue of their shares, or
 
@@ -212,6 +216,8 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 1
 
 (g) Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012;
 
+OJ NO. L 83, 22.03.2013, P. 1
+
 (h) Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012;
 
 (i) Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012;
@@ -227,8 +233,6 @@ OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4. OJ No. L. 84, 1
 (n) Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013;
 
 (o) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);
-
-OJ NO. L 83, 22.03.2013, P. 1
 
 (p) Commission Implementing Regulation (EU) 2015/460 of 19 March 2015 laying down implementing technical standards with regard to the procedure concerning the approval of an internal model in accordance with Directive 2009/138/EC of the European Parliament and of the Council;
 
@@ -294,8 +298,6 @@ OJ NO. L 83, 22.03.2013, P. 1
 
 (at) each of the acts adopted by the European Commission specified in Schedule 10 (inserted by the European Union (Detailed Technical Measures Designation) Regulations 2018 and the European Union (Insurance Distribution) Regulations 2018);
 
-OJ, No L171, 29.6.2016, p. 1
-
 (au) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
 (av) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
@@ -311,6 +313,8 @@ OJ, No L171, 29.6.2016, p. 1
 (ba) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
 
 (bb) Council Regulation (EC) No. 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting, as amended by Council Regulation (EC) No. 44/2009 of 18 December 2008;
+
+OJ, No L171, 29.6.2016, p. 1
 
 (bc) Regulation (EU) No. 1210/2010 of the European Parliament and of the Council of 15 December 2010 concerning authentication of euro coins and handling of euro coins unfit for circulation;
 
@@ -328,13 +332,13 @@ OJ, No L171, 29.6.2016, p. 1
 
 (bj) Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022;
 
-OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25.7.2019, p.1
-
 (bk) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023;
 
 (bl) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023.
 
-(bm) Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012.
+(bm) Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012;
+
+(bn) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
@@ -344,4 +348,8 @@ OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25
 
 (6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
 
-(bb) Regulation (EU) No. 1210/2010 of the European Parliament and of the Council of 15 December 2010 concerning authentication of euro coins and handling of euro coins unfit for circulation; (bc) Decision ECB/2010/14 of the European Central Bank of 16 September 2010 on the authenticity and fitness checking and recirculation of euro banknotes, as amended by Decision ECB/2012/19 of 7 September 2012 and by Decision ECB/2019/2195 of 5 December 2019.
+OJ No. L. 314, 5.12.2019, p.1. OJ No. L. 347, 20.10.2020, p. 1 OJ No. L. 198, 25.7.2019, p.1
+
+OJ L, 2023/2859, 20.12.2023
+
+OJ L, 2024/1689, 12.7.2024.
