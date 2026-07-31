@@ -20,7 +20,9 @@ Functions of Commission.
 
 (af) to monitor and ensure compliance by undertakings and premium rate service providers with Part 3 of the Consumer Protection Act 2007,
 
-(ag) to monitor and ensure compliance by undertakings and premium rate service providers with Parts 4 to 6 of the Consumer Rights Act 2022,
+(ag) to monitor and ensure compliance by undertakings and premium rate service providers with Parts 4, 5 and 6 of the Consumer Rights Act 2022,
+
+(ah) to monitor and ensure compliance with the Regulation of Artificial Intelligence Act 2026 and Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act),
 
 (b) to manage the radio frequency spectrum and the national numbering resource, in accordance with a direction under section 13,
 
@@ -45,6 +47,8 @@ Functions of Commission.
 (e) to ensure compliance, as appropriate, by persons in relation to the placing on the market of communications equipment and the placing on the market and putting into service of radio equipment, and
 
 (f) to advise the Minister, when requested by him or her, on matters relating to the electronic communications market and matters relating to the functions of the Commission.
+
+OJ L, 2024/1689, 12.7.2024.
 
 (1A) The functions of the Competition and Consumer Protection Commission specified in subsection (1B) are (in so far as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission for Communications Regulation, and subsections (1B) to (1E) have effect for the purposes of this subsection.
 
