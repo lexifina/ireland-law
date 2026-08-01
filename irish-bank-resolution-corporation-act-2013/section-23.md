@@ -4,6 +4,6 @@ Amendment of Central Bank Act 1942.
 
 “
 
-36 S.I. No. 48 of 2011 European Communities (Reorganisation and The whole Winding-up of Credit Institutions) Regulations 2011 instrument (S.I. No. 48 of 2011)
+36 S.I. No. 48 of 2011 European Communities (Reorganisation and The whole instru- Winding-up of Credit Institutions) Regulations ment 2011 (S.I. No. 48 of 2011)
 
 ”.
