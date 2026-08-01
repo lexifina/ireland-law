@@ -16,6 +16,6 @@ Further transitional provision for existing credit servicing firms.
 
 (4) In this section—
 
-"specified credit matters" means credit servicing within the meaning of paragraph (a) of the definition of "credit servicing" in subsection (1) of section 28 relating to classes of credit included within the definition of "credit" in that subsection which were not included in that definition immediately before the coming into operation of section 2 (a)(ii) of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022;
+“specified credit matters” means credit servicing within the meaning of paragraph (a) of the definition of “credit servicing” in subsection (1) of section 28 relating to classes of credit included within the definition of “credit” in that subsection which were not included in that definition immediately before the coming into operation of section 2 (a)(ii) of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022;
 
-"specified hire matters" means credit servicing within the meaning of paragraph (b) of the definition of "credit servicing" in section 28(1).
+“specified hire matters” means credit servicing within the meaning of paragraph (b) of the definition of “credit servicing” in section 28(1).

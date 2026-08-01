@@ -1,6 +1,6 @@
 Power of Bank to exempt certain persons from being required to hold authorisation as a retail credit firm.
 
-29A.— (1) The Bank may exempt a person for the purposes of paragraph (e) of the definition of "retail credit firm" in section 28(1) if, in the opinion of the Bank—
+29A.— (1) The Bank may exempt a person for the purposes of paragraph (e) of the definition of “retail credit firm” in section 28(1) if, in the opinion of the Bank—
 
 (a) the total amount or value of the relevant activities that are to be carried out by the person is such that it is reasonable to assume that the borrower or hirer, as the case may be, will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or
 
@@ -8,7 +8,7 @@ Power of Bank to exempt certain persons from being required to hold authorisatio
 
 (c) the person is one who carries out relevant activities solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially, and the exemption would not be inconsistent with the proper and orderly regulation of relevant activities and the protection of customers of retail credit firms.
 
-(2) The Bank may also exempt the persons belonging to a specified class of persons for the purposes of paragraph (e) of the definition of "retail credit firm" in section 28(1) if, in the opinion of the Bank—
+(2) The Bank may also exempt the persons belonging to a specified class of persons for the purposes of paragraph (e) of the definition of “retail credit firm” in section 28(1) if, in the opinion of the Bank—
 
 (a) the total amount or value of the relevant activities that are to be carried out by those persons is such that it is reasonable to assume that the borrowers or hirers, as the case may be, will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or
 
@@ -16,7 +16,7 @@ Power of Bank to exempt certain persons from being required to hold authorisatio
 
 (c) the persons are ones who carry out relevant activities solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially, and the exemption would not be inconsistent with the proper and orderly regulation of relevant activities and the protection of customers of retail credit firms.
 
-(3) The power to exempt a person, or the persons belonging to a specified class, for the purposes of paragraph (e) of the definition of "retail credit firm" in section 28(1) may be exercised by the Bank either on its own initiative or on an application made by or on behalf of the person, or the persons or any of the persons belonging to that class.
+(3) The power to exempt a person, or the persons belonging to a specified class, for the purposes of paragraph (e) of the definition of “retail credit firm” in section 28(1) may be exercised by the Bank either on its own initiative or on an application made by or on behalf of the person, or the persons or any of the persons belonging to that class.
 
 (4) An exemption granted under this section is subject to such conditions as the Bank thinks fit to impose.
 

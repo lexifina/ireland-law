@@ -30,4 +30,4 @@ Collection and publication of information on relevant agreements.
 
 (6) The Minister shall not request the publication of personal data under subsection (2)(b).
 
-(7) In this section, "personal data" has the same meaning as it has in Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
+(7) In this section, “personal data” has the same meaning as it has in Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
