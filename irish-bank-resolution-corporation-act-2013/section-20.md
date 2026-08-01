@@ -8,7 +8,7 @@ Disclosure of information.
 
 (b) the National Treasury Management Agency;
 
-(c) NAMA;
+(c) ...
 
 (d) a special liquidator;
 

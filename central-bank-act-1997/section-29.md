@@ -20,11 +20,11 @@ Person prohibited from carrying on regulated business without authorisation.
 
 (5) For the purposes of this Act—
 
-(a) the National Asset Management Agency and a NAMA group entity (within the meaning of the National Asset Management Agency Act 2009) shall not be treated as carrying on a regulated business as a credit servicing firm,
+(a) the National Treasury Management Agency or a subsidiary of the National Treasury Management Agency (construed in accordance with the definition of “subsidiary of the Agency” in section 49B of the National Treasury Management Agency (Amendment) Act 2014) when it is performing functions under Part 6A of the National Treasury Management Agency (Amendment) Act 2014 shall not be treated as carrying on a regulated business as a credit servicing firm,
 
 (b) an excepted person shall not be treated as carrying on a regulated business as a debt management firm,
 
-(c) a person referred to in paragraphs (a) to (g) of the definition of "retail credit firm" in section 28(1) shall not be treated as carrying on a regulated business as a retail credit firm,
+(c) a person referred to in paragraphs (a) to (g) of the definition of “retail credit firm” in section 28(1) shall not be treated as carrying on a regulated business as a retail credit firm,
 
 (d) a securitisation special purpose entity referred to in section 28(2A) or (2B) shall not be treated as carrying on a regulated business as a retail credit firm, and
 
