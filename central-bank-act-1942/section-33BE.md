@@ -26,7 +26,7 @@ Performance and exercise of regulatory functions.
 
 (6) Functions or powers which are restricted under any of paragraphs (b) to (d) of subsection (3) in relation to an inquiry shall not be performed or exercised by a person involved in making submissions, leading evidence or examining witnesses on behalf of the Bank at the inquiry.
 
-(7) Subject to subsections (4) and (6), the persons responsible for performing and exercising the functions of the Bank to preside at an inquiry and make findings under subsection (1), (2), (3) or (5) of section 33AQ or determinations under subsection (2)(b) or (4)(b) of section 33AR at the conclusion of the inquiry (referred to in this Chapter as "inquiry members") shall be appointed by the Bank from a panel established by the Minister under section 33BI.
+(7) Subject to subsections (4) and (6), the persons responsible for performing and exercising the functions of the Bank to preside at an inquiry and make findings under subsection (1), (2), (3) or (5) of section 33AQ or determinations under subsection (2)(b) or (4)(b) of section 33AR at the conclusion of the inquiry (referred to in this Chapter as “inquiry members”) shall be appointed by the Bank from a panel established by the Minister under section 33BI.
 
 (8) A person exercising the Bank’s power to decide to carry out an investigation referred to in section 33ANJ(1) shall not be involved in carrying out the investigation.
 

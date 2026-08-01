@@ -8,6 +8,8 @@ Application of Part under Investment Firms Directive.
 
 (ii) any direction given to an investment holding company, a mixed financial holding company or a mixed activity holding company or a parent undertaking under a relevant provision,
 
+OJ No. L. 198, 25.7.2019, p.1.
+
 (iii) any direction given under financial services legislation to the investment holding company, mixed financial holding company or mixed activity holding company pursuant to a relevant provision,
 
 (iv) any requirement imposed on an investment holding company, a mixed financial holding company a mixed activity holding company or a parent undertaking under—
@@ -16,9 +18,7 @@ Application of Part under Investment Firms Directive.
 
 (II) any direction given to an investment holding company, a mixed financial holding company a mixed activity holding company or a parent undertaking under a relevant provision, or
 
-(III) any direction given under financial services legislation to the investment holding company, mixed financial holding company or mixed activity holding company pursuant to a relevant provision,
-
-OJ No. L. 198, 25.7.2019, p.1. or
+(III) any direction given under financial services legislation to the investment holding company, mixed financial holding company or mixed activity holding company pursuant to a relevant provision, or
 
 (v) any obligation imposed on an investment holding company, a mixed financial holding company a mixed activity holding company or a parent undertaking by this Part or imposed by the Bank pursuant to a power exercised under this Part, and
 
@@ -38,14 +38,14 @@ OJ No. L. 198, 25.7.2019, p.1. or
 
 (4) In this section—
 
-"investment holding company" has the same meaning as it has in the Regulations of 2021;
+“investment holding company” has the same meaning as it has in the Regulations of 2021;
 
-"mixed financial holding company" has the same meaning as it has in the Regulations of 2021;
+“mixed financial holding company” has the same meaning as it has in the Regulations of 2021;
 
-"mixed activity holding company" has the same meaning as it has in the Regulations of 2021;
+“mixed activity holding company” has the same meaning as it has in the Regulations of 2021;
 
-"parent undertaking" has the same meaning as it has in the Regulations of 2021;
+“parent undertaking” has the same meaning as it has in the Regulations of 2021;
 
-"Regulations of 2021" means the European Union (Investment Firms) Regulations 2021;
+“Regulations of 2021” means the European Union (Investment Firms) Regulations 2021;
 
-"relevant provisions" means a provision of Regulation 40A and Regulations 42 to 50 of the Regulations of 2021.
+“relevant provisions” means a provision of Regulation 40A and Regulations 42 to 50 of the Regulations of 2021.

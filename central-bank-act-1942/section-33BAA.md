@@ -48,6 +48,6 @@ Documentary evidence.
 
 (11) In this section—
 
-"participant" means the Bank or a person to whom the inquiry relates;
+“participant” means the Bank or a person to whom the inquiry relates;
 
-"submission date" means the date specified in accordance with subsection (3)(b).
+“submission date” means the date specified in accordance with subsection (3)(b).

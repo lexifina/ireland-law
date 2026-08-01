@@ -6,7 +6,7 @@ Confidential information provided for purposes of inquiry not to be disclosed.
 
 (3) Nothing in subsection (1) prevents a person who is the subject of an inquiry, or who is required to attend before an inquiry, from disclosing information to his or her legal representative.
 
-(4) In this section "confidential information" includes information given to a person for the purposes of an inquiry where—
+(4) In this section “confidential information” includes information given to a person for the purposes of an inquiry where—
 
 (a) the person has been notified by the person presiding at the inquiry that the information is confidential, or
 

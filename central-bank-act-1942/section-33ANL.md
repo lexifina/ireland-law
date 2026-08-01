@@ -4,7 +4,7 @@ Confidential information provided for purposes of investigation etc. not to be d
 
 (2) Nothing in subsection (1) prevents a person from disclosing information to his or her legal representative.
 
-(3) In this section, "confidential information" includes information given to a person for the purposes of an investigation, or under or for the purposes of subsections (1) to (3) of section 33ANK, where—
+(3) In this section, “confidential information” includes information given to a person for the purposes of an investigation, or under or for the purposes of subsections (1) to (3) of section 33ANK, where—
 
 (a) the person has been notified by the responsible authorised officer that the information is confidential, or
 

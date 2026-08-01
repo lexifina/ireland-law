@@ -12,7 +12,7 @@ Power to order information about proceedings not to be disclosed.
 
 (d) any other specified person.
 
-(3) In subsections (1) and (2), "specified", in relation to a direction under subsection (1), means specified in the direction.
+(3) In subsections (1) and (2), “specified”, in relation to a direction under subsection (1), means specified in the direction.
 
 (4) Nothing in this section or a direction under subsection (1) shall be construed as prohibiting the disclosure of any information pursuant to a court order.
 

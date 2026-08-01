@@ -26,10 +26,12 @@ Application of Part to holding companies under Part 3 of Central Bank Reform Act
 
 (4) In this section—
 
-"financial holding company" and "mixed financial holding company" have the same meaning as in section 33ANC;
+“financial holding company” and “mixed financial holding company” have the same meaning as in section 33ANC;
 
-"insurance holding company" has the same meaning as in section 33ANF;
+“insurance holding company” has the same meaning as in section 33ANF;
 
-"investment holding company" has the same meaning as in section 33ANG. Chapter 2
+“investment holding company” has the same meaning as in section 33ANG.
+
+Chapter 2
 
 Power of Bank to hold inquiries

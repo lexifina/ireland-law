@@ -108,4 +108,4 @@ What decisions Bank can make at conclusion of inquiry held under section 33AO.
 
 (8A) A notification under subsection (7) or (8) must also state that the person may, under Part VIIA, appeal against the finding, and any decision to impose a sanction, in accordance with section 33AW.
 
-(9) In this section "authorisation" means an authorisation, licence or any other permission required to carry on business as a regulated financial service provider granted by the Bank pursuant to any provision of financial services legislation, and includes registration.
+(9) In this section “authorisation” means an authorisation, licence or any other permission required to carry on business as a regulated financial service provider granted by the Bank pursuant to any provision of financial services legislation, and includes registration.

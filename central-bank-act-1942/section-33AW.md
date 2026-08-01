@@ -2,7 +2,7 @@ Appeal, confirmation and taking effect of decisions under this Part.
 
 33AW.— (1) In this section—
 
-(a) an "inquiry decision" means any of the following:
+(a) an “inquiry decision” means any of the following:
 
 (i) a finding made by the Bank under section 33AQ(1) or (2);
 
@@ -10,7 +10,7 @@ Appeal, confirmation and taking effect of decisions under this Part.
 
 (iii) a decision of the Bank imposing a sanction under section 33AR(2)(b) or (4)(b), and
 
-(b) an "appeal decision" means a decision of the Appeals Tribunal affirming or varying, or made in substitution for, an inquiry decision.
+(b) an “appeal decision” means a decision of the Appeals Tribunal affirming or varying, or made in substitution for, an inquiry decision.
 
 (2) An inquiry decision is an appealable decision for the purposes of Part VIIA.
 
