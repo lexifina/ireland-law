@@ -34,7 +34,7 @@ Interpretation
 
 (a) a regulated financial services provider,
 
-(b) NAMA,
+(b) the National Treasury Management Agency in performing its functions under Part 6A of the National Treasury Management Agency (Amendment) Act 2014,
 
 (c) a local authority, or
 
