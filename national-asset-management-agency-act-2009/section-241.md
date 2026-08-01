@@ -1,3 +1,3 @@
-Amendment of Value-Added Tax Act 1972.
+Amendment of Value-Added Tax Act 1972. (Repealed)
 
 241.—...

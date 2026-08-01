@@ -10,4 +10,6 @@ Appointment and functions of expert reviewer.
 
 (3) The functions of the expert reviewer are to review the objections referred to him or her under section 85 (3) and to advise the Minister in accordance with section 116.
 
-(4) Without prejudice to subsection (3), the expert reviewer may, if he or she thinks that it is appropriate to do so, conduct the review of all or some of the objections from a participating institution on the basis of a sample of the bank assets that were the subject of objections referred to him or her under section 85 (3) and if he or she does so, the advice to the Minister under section 116 shall be based on that sample and shall be as valid, for all purposes of this Chapter, as if it had been based on a review of each bank asset that was the subject of an objection.
+(4) Without prejudice to subsection (3), the expert reviewer may, if he or she thinks that it is appropriate to do so, conduct the review of all or some of the objections from a participating institution on the basis of a sample of the bank assets that were the subject of objections referred to him or her under section 85
+
+(3) and if he or she does so, the advice to the Minister under section 116 shall be based on that sample and shall be as valid, for all purposes of this Chapter, as if it had been based on a review of each bank asset that was the subject of an objection.
