@@ -272,9 +272,7 @@ L is the amount of tax chargeable on the supply of that capital good, or the amo
 
 (ii) The relevant amount shall be calculated in accordance with the formula—
 
-F — G where—
-
-F is the amount of tax that would have been chargeable but for the application of section 20(2)(c), and
+F — G where— F is the amount of tax that would have been chargeable but for the application of section 20(2)(c), and
 
 G is the amount of that tax that would have been deductible in accordance with Chapter 1 by that transferee if section 20(2)(c) had not applied to that transfer.
 
@@ -310,11 +308,11 @@ G is the amount of that tax that would have been deductible in accordance with C
 
 (12A) (a) In this subsection—
 
-"end date" means the date on which either the mortgagee ceases to have possession or the receiver’s appointment ends;
+“end date” means the date on which either the mortgagee ceases to have possession or the receiver’s appointment ends;
 
-"mortgagee" includes any person having the benefit of a charge or lien or any person deriving title to the mortgage under the original mortgagee;
+“mortgagee” includes any person having the benefit of a charge or lien or any person deriving title to the mortgage under the original mortgagee;
 
-"start date" means—
+“start date” means—
 
 (i) where subparagraph (i) or (ii) of paragraph (b) applies, the date on which either the mortgagee takes possession or the receiver is appointed, or
 
@@ -324,13 +322,13 @@ G is the amount of that tax that would have been deductible in accordance with C
 
 (i) a mortgagee takes possession, or
 
-(ii) a receiver is appointed by or on the application of a mortgagee or under section 147 of the National Asset Management Agency Act 2009 or by any other means, then the capital goods owner (in this subsection referred to as the "defaulter") shall furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
+(ii) a receiver is appointed by or on the application of a mortgagee ... or by any other means, then the capital goods owner (in this subsection referred to as the “defaulter”) shall furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
 
 (ba) Where a capital good is held as security or is subject to a charge or lien and, before 27 March 2013, either—
 
 (i) a mortgagee took possession, or
 
-(ii) a receiver was appointed by or on the application of a mortgagee or under section 147 of the National Asset Management Agency Act 2009 or by any other means, then the defaulter shall, within 60 days after the date of the passing of the Finance (No. 2) Act 2013 furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
+(ii) a receiver was appointed by or on the application of a mortgagee ... or by any other means, then the defaulter shall, within 60 days after the date of the passing of the Finance (No. 2) Act 2013 furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
 
 (c) Where paragraph (b) or (ba) applies the mortgagee or the receiver shall be responsible for all obligations of that defaulter under this Chapter as if—
 
