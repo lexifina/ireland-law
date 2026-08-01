@@ -20,7 +20,7 @@ Union scheme (where the State is Member State of identification).
 
 (ii) is excluded from applying the Union scheme by any provision of the Implementing Regulation.
 
-(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the "identification register") of persons who are identified in the State for the purposes of the Union scheme.
+(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “identification register”) of persons who are identified in the State for the purposes of the Union scheme.
 
 (3) A person who opts to be identified in the State for the purposes of the Union scheme shall notify the Revenue Commissioners by electronic means using such form as is made available by the Commissioners for that purpose, and shall, at the same time, provide them by electronic means with the following details (unless that information has already been provided):
 
@@ -46,7 +46,7 @@ Union scheme (where the State is Member State of identification).
 
 (ii) notify that person by electronic means of the date from which the registration takes effect.
 
-(b) For the purposes of this section, a person who has been registered under paragraph (a) shall be referred to as an "identified person".
+(b) For the purposes of this section, a person who has been registered under paragraph (a) shall be referred to as an “identified person”.
 
 (c) Where the taxable person has not established his or her business in the Community and has more than one fixed establishment in the Community including a fixed establishment in the State, and has chosen the State as Member State of identification for the purposes of the Union scheme, he or she shall be bound by that decision for the remainder of the calendar year of registration plus an additional 2 calendar years.
 
@@ -152,7 +152,7 @@ Union scheme (where the State is Member State of identification).
 
 (10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to value-added tax deductible pursuant to Article 168 of the VAT Directive.
 
-(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return ("the initial return") are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
+(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return (“the initial return”) are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
 
 (b) The correction to the VAT return referred to in paragraph (a) shall contain—
 

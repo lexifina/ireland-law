@@ -4,7 +4,7 @@ Special scheme for small enterprises where the State is the Member State of esta
 
 (a) who has established his or her business in the State,
 
-(b) who makes, or intends to make, supplies of goods or services in one or more than one Member State (in this section referred to as a "relevant Member State"), in the course of or furtherance of business,
+(b) who makes, or intends to make, supplies of goods or services in one or more than one Member State (in this section referred to as a “relevant Member State”), in the course of or furtherance of business,
 
 (c) whose Union annual turnover, in the current calendar year and the immediately preceding calendar year, does not exceed the Union threshold,
 
@@ -14,7 +14,7 @@ Special scheme for small enterprises where the State is the Member State of esta
 
 (2) (a) A taxable person to whom subsection (1) applies shall notify the Revenue Commissioners of his or her intention to avail of the SME exemption scheme in a relevant Member State before the person commences availing of the scheme in that Member State.
 
-(b) A notification under paragraph (a) shall be made by electronic means, using such form as is made available by the Revenue Commissioners for the purpose (in this section known as the "prior notification form"), and shall include the following information:
+(b) A notification under paragraph (a) shall be made by electronic means, using such form as is made available by the Revenue Commissioners for the purpose (in this section known as the “prior notification form”), and shall include the following information:
 
 (i) the name, taxable activity, legal form, and address of the taxable person,
 
@@ -22,13 +22,13 @@ Special scheme for small enterprises where the State is the Member State of esta
 
 (iii) the annual turnover of the taxable person, denominated in euro, in the State, and in each other Member State, in respect of the year in which the notification is made and the immediately preceding year.
 
-(3) (a) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the "SME exemption scheme register") of—
+(3) (a) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “SME exemption scheme register”) of—
 
-(i) taxable persons established in the State in respect of whom the Revenue Commissioners are satisfied they meet the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption (in this section referred to as "SME identified persons"), and
+(i) taxable persons established in the State in respect of whom the Revenue Commissioners are satisfied they meet the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption (in this section referred to as “SME identified persons”), and
 
-(ii) in respect of each SME identified person, the Member State or Member States of exemption (in this section referred to as the "registered Member State of exemption").
+(ii) in respect of each SME identified person, the Member State or Member States of exemption (in this section referred to as the “registered Member State of exemption”).
 
-(b) The Revenue Commissioners shall assign to each SME identified person an SME exemption scheme number ending with the suffix 'EX’.
+(b) The Revenue Commissioners shall assign to each SME identified person an SME exemption scheme number ending with the suffix ‘EX’.
 
 (4) (a) Where a taxable person notifies the Revenue Commissioners of the person’s intention to avail of the SME exemption scheme in accordance with subsection (2), and the Revenue Commissioners are satisfied that the person meets the requirements to avail of the SME exemption scheme in one or more than one Member State of exemption, the Revenue Commissioners shall, within the period referred to in paragraph (b)—
 
@@ -52,7 +52,7 @@ Special scheme for small enterprises where the State is the Member State of esta
 
 (iii) where the person intends to change, or cease, his or her taxable activity to the extent that the person no longer satisfies the requirements to avail of the SME exemption scheme.
 
-(b) A notification under paragraph (a) shall be made by electronic means, in such form as is made available by the Revenue Commissioners for that purpose (in this section referred to as an "updated notification form"), and shall include the SME exemption scheme number assigned to the taxable person under subsection (3)(b).
+(b) A notification under paragraph (a) shall be made by electronic means, in such form as is made available by the Revenue Commissioners for that purpose (in this section referred to as an “updated notification form”), and shall include the SME exemption scheme number assigned to the taxable person under subsection (3)(b).
 
 (c) A notification under paragraph (a)(i) or (iii) shall not be required in respect of any information to which subsection (9)(a)(ii) applies.
 
@@ -66,7 +66,7 @@ Special scheme for small enterprises where the State is the Member State of esta
 
 (b) in all other cases, from the first day of the next calendar quarter following the calendar quarter in which the Revenue Commissioners receive the updated notification form.
 
-(9) (a) An SME identified person shall, within one month following the end of each calendar quarter, furnish to the Revenue Commissioners, by electronic means using such form as is made available by the Revenue Commissioners for the purpose, a report (in this subsection referred to as the "quarterly report") containing the following particulars:
+(9) (a) An SME identified person shall, within one month following the end of each calendar quarter, furnish to the Revenue Commissioners, by electronic means using such form as is made available by the Revenue Commissioners for the purpose, a report (in this subsection referred to as the “quarterly report”) containing the following particulars:
 
 (i) the SME scheme exemption number assigned to the taxable person under subsection (3)(b);
 

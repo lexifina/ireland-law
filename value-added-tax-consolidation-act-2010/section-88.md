@@ -44,7 +44,9 @@ B is the amount payable by the travel agent to a supplier in respect of bought-i
 
 (8) Margin scheme services shall be treated as intermediary services when the bought-in services are performed outside the Community.
 
-(9) Where a travel agent makes a supply of margin scheme services that includes some services that are treated as intermediary services in accordance with subsection (8), then the total travel agent’s margin in respect of that supply shall be apportioned by the travel agent so as to correctly reflect the ratio which the cost to that travel agent of the bought-in services used in the margin scheme services that are treated as intermediary services in that supply bears to the total cost to that travel agent of all bought-in services used in making that supply of margin scheme services.
+(9) Where a travel agent makes a supply of margin scheme services that includes some services that are treated as intermediary services in accordance with subsection
+
+(8), then the total travel agent’s margin in respect of that supply shall be apportioned by the travel agent so as to correctly reflect the ratio which the cost to that travel agent of the bought-in services used in the margin scheme services that are treated as intermediary services in that supply bears to the total cost to that travel agent of all bought-in services used in making that supply of margin scheme services.
 
 (10) A travel agent, being an accountable person who supplies margin scheme services, shall include the tax due on the person’s supplies of margin scheme services for a taxable period in the return that that person is required to furnish in accordance with section 76 or 77.
 

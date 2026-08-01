@@ -14,9 +14,9 @@ Special rules in relation to supplies of services.
 
 (b) In paragraph (a)—
 
-"Act of 2024" means the Motor Insurance Insolvency Compensation Act 2024;
+“Act of 2024” means the Motor Insurance Insolvency Compensation Act 2024;
 
-"injured party" has the meaning assigned to it by the Act of 2024.
+“injured party” has the meaning assigned to it by the Act of 2024.
 
 (4) Where, in the case of a business carried on, or that has ceased to be carried on, by an accountable person, services (being services that are supplied using the assets or part of the assets of an accountable person) are, under any power exercisable by another person (including a receiver or liquidator), supplied by that other person in or towards the satisfaction of a debt owed by the accountable person, or in the course of winding up of a company, then those services shall be deemed to be supplied by the accountable person in the course or furtherance of his or her business.
 

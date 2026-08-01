@@ -2,19 +2,19 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 116A.—(1) In this section—
 
-"carelessly" means failure to take reasonable care;
+“carelessly” means failure to take reasonable care;
 
-"liability to tax" means a liability to the amount of the difference specified in subsection (3) or (5), as the case may be, arising from any matter referred to in subsection (2) or (4), as the case may be;
+“liability to tax” means a liability to the amount of the difference specified in subsection (3) or (5), as the case may be, arising from any matter referred to in subsection (2) or (4), as the case may be;
 
-"period" means taxable period, accounting period or other period, as the context requires;
+“period” means taxable period, accounting period or other period, as the context requires;
 
-"prompted qualifying disclosure", in relation to a person, means a qualifying disclosure that has been made to the Revenue Commissioners or to a Revenue officer in the period between—
+“prompted qualifying disclosure”, in relation to a person, means a qualifying disclosure that has been made to the Revenue Commissioners or to a Revenue officer in the period between—
 
 (a) the date on which a person is notified by a Revenue officer of the date on which an inquiry or investigation into any matter occasioning a liability to tax of that person will start, and
 
 (b) the date that the inquiry or investigation starts;
 
-"qualifying disclosure", in relation to a person, means—
+“qualifying disclosure”, in relation to a person, means—
 
 (a) in relation to a penalty referred to in subsection (6), a disclosure that the Revenue Commissioners are satisfied is a disclosure of—
 
@@ -36,9 +36,9 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (B) a payment of the tax and duty payable in respect of any matter contained in the disclosure and the interest on late payment of that tax and duty;
 
-"Revenue officer" means an officer of the Revenue Commissioners;
+“Revenue officer” means an officer of the Revenue Commissioners;
 
-"unprompted qualifying disclosure", in relation to a person, means a qualifying disclosure that the Revenue Commissioners are satisfied has been voluntarily furnished to them—
+“unprompted qualifying disclosure”, in relation to a person, means a qualifying disclosure that the Revenue Commissioners are satisfied has been voluntarily furnished to them—
 
 (a) before an inquiry or investigation had been started by them or by a Revenue officer into any matter occasioning a liability to tax of that person, or
 
@@ -90,7 +90,7 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (6) (a) (i) Subject to subparagraphs (ii), (iii) and (iv), where a person is liable to a penalty under subsection (2) or (4), as the case may be, for a deliberate default, the penalty referred to in subsection (3) or (5), as the case may be, shall not be reduced.
 
-(ii) Where subparagraph (i) applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to in subsection (3) or (5), as the case may be, shall be reduced to 75 per cent of the difference referred to in subsection (3) or (5), as the case may be (referred to in this subsection and subsections (7) and (8) as "the difference").
+(ii) Where subparagraph (i) applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to in subsection (3) or (5), as the case may be, shall be reduced to 75 per cent of the difference referred to in subsection (3) or (5), as the case may be (referred to in this subsection and subsections (7) and (8) as “the difference”).
 
 (iii) Where subparagraph (ii) applies and the person made a prompted qualifying disclosure, the penalty referred to in subsection (3) or (5), as the case may be, shall be reduced to 50 per cent of the difference.
 
@@ -106,7 +106,7 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (c) Where a third or subsequent qualifying disclosure is made by a person within 5 years of such person’s second qualifying disclosure, the penalty referred to in subsection (3) or (5), as the case may be, for a deliberate default under subsection (2) or (4), as the case may be, shall not be reduced.
 
-(7) (a) In this subsection and in subsection (8), "significant consequences" means, where subsection (2) applies, the amount of the difference referred to in subsection (3) exceeds 15 per cent of the amount referred to in paragraph (b) of subsection (3) and, where subsection (4) applies, the amount of the difference referred to in subsection (5) exceeds 15 per cent of the amount referred to in paragraph (b) of subsection (5).
+(7) (a) In this subsection and in subsection (8), “significant consequences” means, where subsection (2) applies, the amount of the difference referred to in subsection (3) exceeds 15 per cent of the amount referred to in paragraph (b) of subsection (3) and, where subsection (4) applies, the amount of the difference referred to in subsection (5) exceeds 15 per cent of the amount referred to in paragraph (b) of subsection (5).
 
 (b) (i) Subject to subparagraphs (ii), (iii) and (iv), where a person is liable to a penalty under subsection (2) or (4), as the case may be, for a careless default which has significant consequences, the penalty referred to in subsection (3) or (5), as the case may be, shall be reduced to 40 per cent of the difference.
 
@@ -216,7 +216,7 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (b) The Revenue Commissioners may, if they think fit, waive payment of the whole or part of the tax referred to in subclause (B) of paragraph (a).
 
-(23) (a) For the purposes of this section "the declaration of an incorrect registration number" means—
+(23) (a) For the purposes of this section “the declaration of an incorrect registration number” means—
 
 (i) the declaration by a person of another person’s registration number,
 

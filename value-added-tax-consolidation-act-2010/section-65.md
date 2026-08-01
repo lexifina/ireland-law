@@ -20,7 +20,7 @@ Registration.
 
 (c) Where an accountable person notifies the Revenue Commissioners under paragraph (b) regarding his or her engagement in intra-Community trade, the Revenue Commissioners shall request that person to correct the particulars furnished as specified in regulations referred to in paragraph (a).
 
-(d) In this subsection, "intra-Community trade" means—
+(d) In this subsection, “intra-Community trade” means—
 
 (i) the intra-Community supply of goods made by an accountable person and dispatched or transported from the State to a person registered for value-added tax in another Member State, or
 

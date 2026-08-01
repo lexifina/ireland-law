@@ -24,7 +24,7 @@ Penalties generally.
 
 (1B) Where the person referred to in subsection (1A) is a body of persons, the secretary to that body of persons shall be liable to a separate penalty of €4,000 in respect of the taxable period during which the person referred to in subsection (1A) failed to comply with subsection (4B) of section 15 and to a separate further penalty of €4,000 for each subsequent taxable period during which that person has failed to comply with that subsection.
 
-(1C) (a) In this subsection, "payment service provider" has the same meaning as it has in section 85A.
+(1C) (a) In this subsection, “payment service provider” has the same meaning as it has in section 85A.
 
 (b) A payment service provider who does not comply with section 85C, as the case may be, shall be liable to a penalty of €4,000 in respect of the calendar quarter during which the payment service provider failed to comply with the section concerned and to a further penalty of €4,000 for each subsequent calendar quarter during which that payment service provider has failed to comply with that section.
 
@@ -32,7 +32,7 @@ Penalties generally.
 
 (d) (i) A payment service provider who does not comply with section 85F(2) shall be liable to a penalty of €4,000.
 
-(ii) A payment service provider who fails to provide the information contained in the records referred to in section 85F(2) in respect of the calendar quarter to which that information relates (in this subparagraph referred to as the "first-mentioned calendar quarter"), in the manner specified in section 85G(a), by the end of the month following each calendar quarter subsequent to the first-mentioned calendar quarter, shall be liable to a further penalty of €4,000 in respect of such failure in respect of each such subsequent calendar quarter after the first-mentioned calendar quarter until the payment service provider provides the information concerned in the manner so specified.
+(ii) A payment service provider who fails to provide the information contained in the records referred to in section 85F(2) in respect of the calendar quarter to which that information relates (in this subparagraph referred to as the “first-mentioned calendar quarter”), in the manner specified in section 85G(a), by the end of the month following each calendar quarter subsequent to the first-mentioned calendar quarter, shall be liable to a further penalty of €4,000 in respect of such failure in respect of each such subsequent calendar quarter after the first-mentioned calendar quarter until the payment service provider provides the information concerned in the manner so specified.
 
 (2) A person who is not a registered person and who, on or after 1 November 1972, issues an invoice in which an amount of tax is stated shall be liable to a penalty of €4,000.
 

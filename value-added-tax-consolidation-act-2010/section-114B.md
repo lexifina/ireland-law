@@ -2,7 +2,7 @@ Covid-19: special warehousing and interest provisions.
 
 114B.—(1) Subject to subsection (1A), in this section—
 
-"the Acts" means—
+“the Acts” means—
 
 (a) this Act, other than this section,
 
@@ -24,9 +24,9 @@ Covid-19: special warehousing and interest provisions.
 
 (j) any instruments made under any of the enactments referred to in paragraphs (a) to (i);
 
-"Covid-19" has the same meaning as it has in the Emergency Measures in the Public Interest (Covid-19) Act 2020;
+“Covid-19” has the same meaning as it has in the Emergency Measures in the Public Interest (Covid-19) Act 2020;
 
-"Covid-19 entitlement" means an entitlement to payment of an amount under—
+“Covid-19 entitlement” means an entitlement to payment of an amount under—
 
 (a) section 485 of the Taxes Consolidation Act 1997,
 
@@ -64,9 +64,9 @@ Covid-19: special warehousing and interest provisions.
 
 (d) a scheme designated for the purpose of this paragraph by order of the Revenue Commissioners under subsection (1B);
 
-"Covid-19 liabilities" means, subject to subsection (14), value-added tax due and payable by an accountable person under this Act and any regulations made under this Act, in respect of taxable periods in Period 1;
+“Covid-19 liabilities” means, subject to subsection (14), value-added tax due and payable by an accountable person under this Act and any regulations made under this Act, in respect of taxable periods in Period 1;
 
-"Period 1", in relation to an accountable person, means the period—
+“Period 1”, in relation to an accountable person, means the period—
 
 (a) beginning on the later of—
 
@@ -76,9 +76,9 @@ Covid-19: special warehousing and interest provisions.
 
 (b) ending on 31 December 2021;
 
-"Period 2", in relation to an accountable person, means the period beginning on 1 January 2022 and ending on 31 December 2022;
+“Period 2”, in relation to an accountable person, means the period beginning on 1 January 2022 and ending on 31 December 2022;
 
-"Period 3", in relation to an accountable person, means the period beginning on 1 January 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.
+“Period 3”, in relation to an accountable person, means the period beginning on 1 January 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.
 
 ...
 
@@ -88,7 +88,7 @@ Covid-19: special warehousing and interest provisions.
 
 (b) which arises out of circumstances occurring in a period falling prior to 1 January 2022, resulting in an amount becoming payable to the accountable person between 1 January 2022 and 30 April 2022, then, in this section—
 
-"Period 1", in relation to the accountable person, means the period—
+“Period 1”, in relation to the accountable person, means the period—
 
 (a) beginning on the later of—
 
@@ -98,11 +98,11 @@ Covid-19: special warehousing and interest provisions.
 
 (b) ending on 30 April 2022;
 
-"Period 2", in relation to the accountable person, means the period beginning on 1 May 2022 and ending on 30 April 2023;
+“Period 2”, in relation to the accountable person, means the period beginning on 1 May 2022 and ending on 30 April 2023;
 
-"Period 3", in relation to the accountable person, means the period beginning on 1 May 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.
+“Period 3”, in relation to the accountable person, means the period beginning on 1 May 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.
 
-(1B) The Revenue Commissioners may designate by order a scheme for the purpose of paragraph (d) of the definition of "Covid-19 entitlement" in subsection (1), where they are satisfied that the scheme is similar in nature and objective to a scheme referred to in paragraph (c) of that definition.
+(1B) The Revenue Commissioners may designate by order a scheme for the purpose of paragraph (d) of the definition of “Covid-19 entitlement” in subsection (1), where they are satisfied that the scheme is similar in nature and objective to a scheme referred to in paragraph (c) of that definition.
 
 (2) For the purposes of this section, the business of an accountable person shall be treated as being adversely affected by Covid-19 on the date on which the Revenue Commissioners agreed to temporarily suspend the collection of the liabilities of the accountable person in respect of value-added tax as a consequence of the effect on the accountable person’s business of Covid-19.
 

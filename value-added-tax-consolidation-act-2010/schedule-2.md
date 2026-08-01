@@ -90,7 +90,7 @@ Certain transactions treated as exports.
 
 (1E) (a) The supply of goods or services to the European Commission or to an agency or body established under European Union law where the European Commission or such agency or body purchases those goods or services in the execution of tasks conferred on it by European Union law in order to respond to the Covid-19 pandemic, except where the goods and services purchased are supplied for consideration by the European Commission or an agency or body established under European Union law.
 
-(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+(b) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
 (2) The supply of gold to the Central Bank of Ireland.
 
@@ -266,11 +266,11 @@ Medicine, medical equipment and appliances.
 
 (ii) subject to such order as may be made under section 46(5), during the period beginning on 9 April 2020 and ending on 30 June 2022.
 
-(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+(b) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
 (5) (a) The supply of Covid-19 in vitro diagnostic medical devices where those devices comply with the requirements of European Union legislation (or the law of a Member State giving effect to such legislation) applicable to such devices, including Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 and Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017.
 
-(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+(b) In this subparagraph, “Covid-19” has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
 Fertilisers, feeding stuffs, certain seeds, etc.
 

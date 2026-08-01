@@ -30,7 +30,9 @@ Other provisions in relation to services.
 
 (d) Where a premises provider fails to provide to the Revenue Commissioners true and correct particulars as required in accordance with paragraph (b) or (c), then the Commissioners may, where it appears necessary to them to do so for the protection of the revenue, make the premises provider jointly and severally liable with a mobile trader or promoter, as the case may be, for the tax chargeable in respect of supplies made by that mobile trader or promoter on the premises provider’s land, and in those circumstances the Commissioners shall notify the premises provider in writing accordingly.
 
-(e) A premises provider who has been notified in accordance with paragraph (d) shall be deemed to be an accountable person and shall be liable to pay the tax referred to in that paragraph as if it were tax due in accordance with Chapter 3 of Part 9 by the premises provider for the taxable period within which the supplies are made by the mobile trader or promoter, but the premises provider shall not be liable to pay tax referred to in paragraph (d) which the Revenue Commissioners are satisfied was accounted for by a mobile trader or promoter.
+(e) A premises provider who has been notified in accordance with paragraph (d) shall be deemed to be an accountable person and shall be liable to pay the tax referred to in that paragraph as if it were tax due in accordance with Chapter 3 of Part 9 by the premises provider for the taxable period within which the supplies are made by the mobile trader or promoter, but the premises provider shall not be liable to pay tax referred to in paragraph
+
+(d) which the Revenue Commissioners are satisfied was accounted for by a mobile trader or promoter.
 
 (2)(a) Where a person who supplies services consisting of the training of horses for racing, the total annual turnover for which has exceeded, in the current calendar year or the previous calendar year, the services threshold, would, but for the supply of such services, be a farmer, the person shall be deemed to be an accountable person only in respect of—
 

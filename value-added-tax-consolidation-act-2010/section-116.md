@@ -170,7 +170,7 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (iii) to which the person who made the disclosure is linked, or about to be linked, publicly.
 
-(15A) (a) In this subsection the expressions "liability to tax or duty", "offshore matters", "penalty" and "specified penalty" have the same meanings as in section 1077E(15A)(a) (inserted by section 56(1) of the Finance Act 2016) of the Taxes Consolidation Act 1997.
+(15A) (a) In this subsection the expressions “liability to tax or duty”, “offshore matters”, “penalty” and “specified penalty” have the same meanings as in section 1077E(15A)(a) (inserted by section 56(1) of the Finance Act 2016) of the Taxes Consolidation Act 1997.
 
 (b) A disclosure in relation to a person made on or after 1 May 2017 shall not be a qualifying disclosure where—
 

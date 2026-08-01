@@ -1,4 +1,4 @@
-Cancellation of a registration number - special provisions for notification and publication
+Cancellation of a registration number - special provisions for notification and publication.
 
 108D.— Where—
 

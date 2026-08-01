@@ -22,7 +22,7 @@ Definitions — Schedule 3.
 
 (b) by an auctioneer within the meaning of section 89(1) and in accordance with section 89(3);
 
-"open farm" means a facility the principal function of which is the exhibition (other than on an occasional basis) of animals and agricultural activities, and such exhibition may also include rural heritage.
+“open farm” means a facility the principal function of which is the exhibition (other than on an occasional basis) of animals and agricultural activities, and such exhibition may also include rural heritage.
 
 Other interpretative provisions.
 
@@ -164,9 +164,9 @@ Supply and construction of housing as part of a social policy.
 
 9B. (1) In this paragraph—
 
-"apartment block" means a multi-storey building that comprises, or will comprise, not less than 3 apartments with grouped or common access;
+“apartment block” means a multi-storey building that comprises, or will comprise, not less than 3 apartments with grouped or common access;
 
-"completed" has the same meaning as it has in section 94.
+“completed” has the same meaning as it has in section 94.
 
 (2) The supply of immovable goods, as part of a social policy, which are or, when completed, will be—
 
@@ -302,9 +302,9 @@ Energy products and supplies.
 
 (3) The supply of gas of a kind used for domestic or industrial heating or lighting, whether in gaseous or liquid form, but not including—
 
-(a) "vehicle gas" within the meaning of section 94(1) of the Finance Act 1999,
+(a) “vehicle gas” within the meaning of section 94(1) of the Finance Act 1999,
 
-(aa) "liquefied petroleum gas" within the meaning of section 94(1) of the Finance Act 1999 when used or intended for use as a "propellant" within the meaning of that section,
+(aa) “liquefied petroleum gas” within the meaning of section 94(1) of the Finance Act 1999 when used or intended for use as a “propellant” within the meaning of that section,
 
 (b) gas of a kind normally used for welding or cutting metal, or
 

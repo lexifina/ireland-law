@@ -8,7 +8,7 @@ Import scheme (where the State is Member State of identification).
 
 (b) is excluded from applying this scheme by Article 369r of the VAT Directive or Article 58 of the Implementing Regulation.
 
-(3) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the "import scheme identification register") of persons who are identified in the State for the purposes of the import scheme.
+(3) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the “import scheme identification register”) of persons who are identified in the State for the purposes of the import scheme.
 
 (4) A taxable person who does not make use of an intermediary, shall provide the following information to the Revenue Commissioners before the person commences use of the import scheme:
 
@@ -128,7 +128,7 @@ Import scheme (where the State is Member State of identification).
 
 (13) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the month to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
 
-(14) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return ("the initial return") are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (11).
+(14) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return (“the initial return”) are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (11).
 
 (b) Where a correction is included in a subsequent VAT return under paragraph (a), the subsequent VAT return shall identify—
 

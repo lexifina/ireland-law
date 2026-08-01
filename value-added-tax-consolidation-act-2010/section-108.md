@@ -50,13 +50,13 @@ Inspection and removal of records.
 
 (8) (a) In this subsection—
 
-"EEA Agreement" means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by all subsequent amendments to that Agreement;
+“EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by all subsequent amendments to that Agreement;
 
-"EEA state" means a state which is a contracting party to the EEA Agreement;
+“EEA state” means a state which is a contracting party to the EEA Agreement;
 
-"EU value-added tax" means value-added tax referred to in the VAT Directive and includes tax within the meaning of section 2;
+“EU value-added tax” means value-added tax referred to in the VAT Directive and includes tax within the meaning of section 2;
 
-"financial institution" means—
+“financial institution” means—
 
 (i) a person who holds or has held a licence under section 9 or an authorisation granted under section 9A of the Central Bank Act 1971 , or a person who holds or has held a licence or other similar authorisation under the law of an EEA state, other than the State, which corresponds to a licence granted under the said section 9,
 
@@ -64,7 +64,7 @@ Inspection and removal of records.
 
 (iii) a credit institution (within the meaning of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)) which has been authorised by the Central Bank of Ireland to carry on the business of a credit institution in accordance with the provisions of any financial services legislation (within the meaning of those Regulations), other than an authorisation granted under section 9A of the Central Bank Act 1971;
 
-"records" means any document, or any other written or printed material in any form, including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form, which a person is required to keep, retain, issue or produce for inspection or which may be inspected under any provision relating to EU value-added tax.
+“records” means any document, or any other written or printed material in any form, including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form, which a person is required to keep, retain, issue or produce for inspection or which may be inspected under any provision relating to EU value-added tax.
 
 (b) The case referred to in subsection (7) is a case in which an authorised officer is required by Council Regulation 904/2010/EU of 7 October 2010 on administrative cooperation and combating fraud in the field of value-added tax to provide to a requesting authority (as defined in Article 2 of that Council Regulation) in another Member State, on request by that authority, any books, records, accounts or other documents whether—
 

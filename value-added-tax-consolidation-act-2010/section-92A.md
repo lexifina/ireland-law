@@ -8,7 +8,7 @@ Deposit Return Scheme.
 
 “deposit” shall be construed in accordance with the Regulations of 2021;
 
-“deposit return scheme” means a deposit return scheme established pursuant to Regulation 4 of the Regulations of 2021 and references to "scheme" shall be construed accordingly;
+“deposit return scheme” means a deposit return scheme established pursuant to Regulation 4 of the Regulations of 2021 and references to “scheme” shall be construed accordingly;
 
 “in-scope bottle”, “in-scope container” and “in-scope product” have the same meaning, respectively, as in the Regulations of 2021;
 

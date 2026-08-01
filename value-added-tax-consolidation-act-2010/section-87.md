@@ -74,7 +74,7 @@ Margin scheme — taxable dealers.
 
 (b) Where a taxable dealer opts to apply the margin scheme in accordance with paragraph (a), the option shall be for a period of not less than 2 years from the date when that option was exercised.
 
-(c) The option provided for in paragraph (a) shall not apply where the works of art, collectors' items or antiques supplied to or imported by the taxable dealer were chargeable at the rate of tax specified in section 46(1)(c).
+(c) The option provided for in paragraph (a) shall not apply where the works of art, collectors’ items or antiques supplied to or imported by the taxable dealer were chargeable at the rate of tax specified in section 46(1)(c).
 
 (5) Where a taxable dealer exercises the option in accordance with subsection (4), in respect of the goods specified in subsection (4)(a)(i), then, notwithstanding the definition of “purchase price” in subsection (1), the purchase price for the purposes of determining the profit margin in relation to a supply of those goods shall be an amount equal to the value of those goods for the purposes of importation determined in accordance with section 53 increased by the amount of any tax payable in respect of the importation of those goods.
 
