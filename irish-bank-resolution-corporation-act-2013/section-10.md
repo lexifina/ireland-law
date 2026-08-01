@@ -36,13 +36,13 @@ Application of Companies Acts to IBRC.
 
 (d) as if any reference in those provisions to a liquidator, however expressed, were a reference to a special liquidator, and
 
-(e) as if those provisions had been modified in the manner set out in Part 1of the Schedule.
+(e) as if those provisions had been modified in the manner set out in Part 1 of the Schedule.
 
 (4) Parts VI and VII of the Act of 1990 apply to IBRC subject to the following modifications and any necessary additional modifications—
 
 (a) sections 141, 144, 145, 148 and 149, as if IBRC were a company being wound up by court and as if any reference in those provisions to a liquidator, however expressed, were a reference to a special liquidator;
 
-(b) sections 139 and 140, as if those sections had been modified in the manner set out in Part 2of the Schedule;
+(b) sections 139 and 140, as if those sections had been modified in the manner set out in Part 2 of the Schedule;
 
 (c) sections 150 to 168, as if any reference in those provisions to a liquidator, however expressed, were a reference to a special liquidator.
 
