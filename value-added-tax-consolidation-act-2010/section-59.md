@@ -24,7 +24,7 @@ Deduction for tax borne or paid.
 
 (f) supplies of goods or services outside the State which would be taxable supplies if made in the State;
 
-"qualifying vehicle" means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992—
+“qualifying vehicle” means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992—
 
 (a) in the period on or after 1 January 2009 and up to 31 December 2020, and has, for the purposes of that registration, a level of CO emissions of less than 156g/km, or
 
@@ -58,7 +58,7 @@ Deduction for tax borne or paid.
 
 (id) the tax chargeable during the period, being tax for which the recipient (within the meaning of section 16(7)(b)) is liable by virtue of section 16(7)(b) in respect of a gas or an electricity certificate received by that recipient, but only where that recipient would be entitled to a deduction of that tax elsewhere under this subsection if that tax had been charged to such a recipient by an accountable person,
 
-(j) the tax chargeable during the period, being tax for which the accountable person is liable by virtue of section 16(1), 94(6)(a) or (7) or 95(8)(c) to (e), in respect of a supply to that person of immovable goods,
+(j) the tax chargeable during the period, being tax for which the accountable person is liable by virtue of section 94(6)(a) or (7) or 95(8)(c) to (e), in respect of a supply to that person of immovable goods,
 
 (k) the tax chargeable during the period in respect of goods (other than supplies of goods referred to in section 30) treated as supplied by him or her in accordance with section 19(1)(f),
 
