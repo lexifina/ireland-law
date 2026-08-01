@@ -10,7 +10,7 @@ Supplies of immovable goods (new rules).
 
 (b) where those goods are let, occupied and fully in such use by the tenant.
 
-(2) Subject to subsections (3), (5), (8) and (9) and section 95(7)(a), tax is not chargeable on the supply of immovable goods—
+(2) Subject to subsections (3), (5) and (8) and section 95(7)(a), tax is not chargeable on the supply of immovable goods—
 
 (a) that have not been developed within 20 years prior to that supply,
 
@@ -58,7 +58,7 @@ Supplies of immovable goods (new rules).
 
 (4) Section 6(1) and (2) does not apply in relation to a person who makes a supply of immovable goods.
 
-(5) Subject to subsection (9), where a taxable person who carries on a business in the State supplies immovable goods to another taxable person who carries on a business in the State in circumstances where that supply would otherwise be exempted because of subsection (2), or section 95(3) or (7)(b), then, notwithstanding those provisions, tax is chargeable on that supply, but only if the supplier and the taxable person to whom the supply is made have, no later than the 15th day of the month after the month during which the supply occurred, entered into an agreement in writing to opt to have tax chargeable on that supply (in this Act referred to as a “joint option for taxation”).
+(5) Where a taxable person who carries on a business in the State supplies immovable goods to another taxable person who carries on a business in the State in circumstances where that supply would otherwise be exempted because of subsection (2), or section 95(3) or (7)(b), then, notwithstanding those provisions, tax is chargeable on that supply, but only if the supplier and the taxable person to whom the supply is made have, no later than the 15th day of the month after the month during which the supply occurred, entered into an agreement in writing to opt to have tax chargeable on that supply (in this Act referred to as a “joint option for taxation”).
 
 (6) Where a joint option for taxation is exercised in accordance with subsection (5), then—
 
@@ -92,11 +92,7 @@ Supplies of immovable goods (new rules).
 
 (e) ...
 
-(8)(a) In this subsection and in subsection (9)—
-
-“recipient” has the meaning assigned to it by section 16(1)(a).
-
-“relevant supply” has the meaning assigned to it by section 16(1)(a).
+(8)(a) ...
 
 (b) Where a taxable person supplies immovable goods to another person in circumstances where that supply would otherwise be exempt in accordance with subsection (2), tax shall, notwithstanding that subsection, be chargeable on that supply where—
 
@@ -112,18 +108,6 @@ Supplies of immovable goods (new rules).
 
 (ii) notwithstanding section 64(2), the proportion of total tax incurred that is deductible by that person shall be treated as the initial interval proportion of deductible use.
 
-(d) Where a relevant supply is a supply of immovable goods to which this subsection would apply, the recipient shall be treated thereafter, for the purposes of this subsection in respect of those immovable goods, as if that recipient were a person connected (within the meaning of section 97(3)) to the person who developed those immovable goods.
+(d) ...
 
-(9)(a) Where a relevant supply occurs and that supply would otherwise be exempt in accordance with subsection (2), then—
-
-(i) the recipient may opt to tax that supply (in this subsection referred to as an “option for taxation”), and
-
-(ii) if that option is exercised—
-
-(I) notwithstanding subsection (2), tax shall be chargeable on that supply, and
-
-(II) subsection (5) shall not apply.
-
-(b) The option for taxation shall not apply to relevant supplies that are exempt in accordance with section 93(2) or 95(3) or (7)(b).
-
-(c) The option for taxation shall be deemed to be exercised by the recipient in relation to a relevant supply which would otherwise be exempt in accordance with subsection (2)(b) to (e).
+(9) ...
