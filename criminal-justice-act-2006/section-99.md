@@ -2,6 +2,8 @@ Power to suspend sentence.
 
 99.— (1) Where a person is sentenced to a term of imprisonment (other than a mandatory term of imprisonment) by a court in respect of an offence, that court may make an order suspending the execution of the sentence in whole or in part, subject to the person entering into a recognisance to comply with the conditions of, or imposed in relation to, the order.
 
+(1A) Where a person from whom a recognisance referred to in subsection (1) is to be taken is for the time being in custody in a prison, the recognisance may be taken in the prison by the governor of that prison or a prison officer designated for that purpose by that governor.
+
 (2) It shall be a condition of an order under subsection (1) that the person in respect of whom the order is made keep the peace and be of good behaviour during—
 
 (a) the period of suspension of the sentence concerned, or
