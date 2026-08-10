@@ -16,7 +16,7 @@ SPECIFIED BODIES
 
 An Foras Áiseanna Saothair,
 
-An Garda Síochána and the Defence Forces in respect of their own members,
+An Garda Síochána,
 
 ...
 
@@ -42,7 +42,7 @@ Registrar of Beneficial Ownership of Common Contractual Funds,
 
 Registrar of Beneficial Ownership of Companies and Industrial and Provident Societies,
 
-Taighde Éireann, the Central Applications Office, the Central Statistics Office, the Commission for Taxi Regulation, the Companies Registration Office, the General Medical Services (Payments) Board, the Insolvency Service of Ireland, the Legal Aid Board, the Mental Health Commission, the National Breast Screening Board, the National Cancer Registry Board, the National Council for Special Education, the National Shared Services Office, the National Treasury Management Agency, the National University of Ireland the Pensions Board, the Pensions Ombudsman, the Personal Injuries Assessment Board, the Private Residential Tenancies Board, the Pyrite Resolution Board, the Private Security Authority, the Probate Office, the Property Services Regulatory Authority, the Road Safety Authority,
+Taighde Éireann, the Central Applications Office, the Central Statistics Office, the Commission for Taxi Regulation, the Companies Registration Office, the Courts Service, the Defence Forces in respect of its own members, the Director of Public Prosecutions, the General Medical Services (Payments) Board, the Insolvency Service of Ireland, the Legal Aid Board, the Mental Health Commission, the National Breast Screening Board, the National Cancer Registry Board, the National Council for Special Education, the National Shared Services Office, the National Treasury Management Agency, the National University of Ireland the Pensions Board, the Pensions Ombudsman, the Personal Injuries Assessment Board, the Private Residential Tenancies Board, the Pyrite Resolution Board, the Private Security Authority, the Probate Office, the Property Services Regulatory Authority, the Road Safety Authority,
 
 Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland, the Teaching Council; the Workplace Relations Commission
 
