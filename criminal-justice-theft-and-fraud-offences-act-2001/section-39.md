@@ -2,9 +2,9 @@ Measures to detect counterfeiting.
 
 39.—(1) In this section—
 
-‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012;
+"credit institution" means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012;
 
-‘designated body’ means—
+"designated body" means—
 
 (a) a credit institution,
 

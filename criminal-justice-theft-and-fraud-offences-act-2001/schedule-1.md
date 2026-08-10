@@ -2,35 +2,7 @@ SCHEDULE 1
 
 ENACTMENTS REPEALED
 
-Session & Chapter or Short Title Extent of repeal Number & Year (1) (2) (3)
-
-24 & 25 Vict., c. 96 Larceny Act, 1861 The whole Act, except sections 12 to 16 and 24 and 25
-
-24 & 25 Vict., c. 98 Forgery Act, 1861 The whole Act
-
-24 & 25 Vict., c. 99 Coinage Offences Act, 1861 The whole Act
-
-24 & 25 Vict., c. 50 Summary Jurisdiction (Ireland) Sections 4 to 8 Act, 1862
-
-35 & 36 Vict., c. 57 Debtors (Ireland) Act, 1872 Section 13
-
-38 & 39 Vict., c. 24 Falsification of Accounts Act, 1875 The whole Act
-
-56 & 57 Vict., c. 71 Sale of Goods Act, 1893 Section 24
-
-3 & 4 Geo. 5, c. 27 Forgery Act, 1913 The whole Act
-
-6 & 7 Geo. 5, c. 50 Larceny Act, 1916 The whole Act
-
-No. 2 of 1951 Criminal Justice Act, 1951 Sections 10 and 13 and ref. nos. 8, 11, 14, 15 and 20 of First Schedule
-
-No. 2 of 1956 Gaming and Lotteries Act, 1956 Section 11
-
-No. 1 of 1963 Official Secrets Act, 1963 Sections 7 and 8
-
-No. 22 of 1984 Criminal Justice Act, 1984 Section 16
-
-No. 9 of 1990 Larceny Act, 1990 The whole Act
+Session & Chapter or Number Short Title Extent of repeal & Year (1) (2) (3) 24 & 25 Vict., c. 96 Larceny Act, 1861 The whole Act, except sections 12 to 16 and 24 and 25 24 & 25 Vict., c. 98 Forgery Act, 1861 The whole Act 24 & 25 Vict., c. 99 Coinage Offences Act, 1861 The whole Act 24 & 25 Vict., c. 50 Summary Jurisdiction (Ireland) Sections 4 to 8 Act, 1862 35 & 36 Vict., c. 57 Debtors (Ireland) Act, 1872 Section 13 38 & 39 Vict., c. 24 Falsification of Accounts Act, The whole Act 1875 56 & 57 Vict., c. 71 Sale of Goods Act, 1893 Section 24 3 & 4 Geo. 5, c. 27 Forgery Act, 1913 The whole Act 6 & 7 Geo. 5, c. 50 Larceny Act, 1916 The whole Act No. 2 of 1951 Criminal Justice Act, 1951 Sections 10 and 13 and ref. nos. 8, 11, 14, 15 and 20 of First Schedule No. 2 of 1956 Gaming and Lotteries Act, 1956 Section 11 No. 1 of 1963 Official Secrets Act, 1963 Sections 7 and 8 No. 22 of 1984 Criminal Justice Act, 1984 Section 16 No. 9 of 1990 Larceny Act, 1990 The whole Act
 
 SCHEDULE 1A
 
@@ -46,9 +18,9 @@ After transmission of the draft legislative act to the national parliaments,
 
 Having regard to the opinion of the Committee of the Regions Acting in accordance with the ordinary legislative procedure, Whereas:
 
-Position of the European Parliament of 16 April 2014 (not yet published in the Official Journal) and position of the Council at first reading of 25 April 2017 (OJ C 184, 9. 6.2017, p.1). Position of the European Parliament of 5 July 2017 (not yet published in the Official Journal).
+(1) The protection of the Union’s financial interests concerns not only the management of budget appropriations, but extends to all measures which
 
-(1) The protection of the Union’s financial interests concerns not only the management of budget appropriations, but extends to all measures which negatively affect or which threaten to negatively affect its assets and those of the Member States, to the extent that those measures are of relevance to Union policies.
+Position of the European Parliament of 16 April 2014 (not yet published in the Official Journal) and position of the Council at first reading of 25 April 2017 (OJ C 184, 9. 6.2017, p.1). Position of the European Parliament of 5 July 2017 (not yet published in the Official Journal). negatively affect or which threaten to negatively affect its assets and those of the Member States, to the extent that those measures are of relevance to Union policies.
 
 (2) The Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities’ financial interests of 26 July 1995, including the Protocols thereto of 27 September 1996, of 29 November 1996 and of 19 June 1997 (the ‘Convention’) establishes minimum rules relating to the definition of criminal offences and sanctions in the area of fraud affecting the Union’s financial interests. The Member States drew up the Convention, in which it was noted that fraud affecting Union revenue and expenditure in many cases was not confined to a single country and was often committed by organised criminal networks. On that basis, it was already recognised in the Convention that the protection of the Union’s financial interests called for the criminal prosecution of fraudulent conduct injuring those interests. In parallel, Council Regulation (EC, Euratom) No 2988/95 was adopted. That Regulation lays down general rules relating to homogenous checks and to administrative measures and penalties concerning irregularities with regard to Union law while, at the same time, referring to sectoral rules in that area, fraudulent actions as defined in the Convention and the application of the Member States’ criminal law and proceedings.
 
@@ -56,11 +28,11 @@ Position of the European Parliament of 16 April 2014 (not yet published in the O
 
 (4) The protection of the Union’s financial interests calls for a common definition of fraud falling within the scope of this Directive, which should cover fraudulent conduct with respect to revenues, expenditure and assets at the expense of the general budget of the European Union (the ‘Union budget’), including financial operations such as borrowing and lending activities. The notion of serious offences against the common system of value added tax (‘VAT’) as established by Council Directive 2006/112/EC (the ‘common VAT system’) refers to the most serious forms of VAT fraud, in particular carrousel fraud, VAT fraud through missing traders, and VAT fraud committed within a criminal organisation, which create serious threats to the common VAT system and thus to the Union budget. Offences against the common VAT system should be considered to be serious where they are connected with the territory of two or more Member States, result from a fraudulent scheme whereby those offences are committed in a structured way with the aim of taking undue advantage of the common VAT system and the total damage caused by the offences is at least EUR 10 000 000. The notion of total damage refers to the estimated damage that results from the entire fraud scheme, both to the financial interests of the Member States concerned and to the Union, excluding interest and penalties. This Directive aims to contribute to the efforts to fight those criminal phenomena.
 
-(5) When the Commission implements the Union budget under shared or indirect management, it may delegate budget implementation tasks to the Member States
+(5) When the Commission implements the Union budget under shared or indirect management, it may delegate budget implementation tasks to the Member States or entrust them to bodies, offices or agencies established pursuant to the Treaties or to other entities or persons. In the event of such shared or indirect management, the Union’s financial interests should benefit from the same level of protection as they do when under the direct management of the Commission.
 
 Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities’ financial interests (OJ L 312, 23.12.1995, p. 1).
 
-Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1). or entrust them to bodies, offices or agencies established pursuant to the Treaties or to other entities or persons. In the event of such shared or indirect management, the Union’s financial interests should benefit from the same level of protection as they do when under the direct management of the Commission.
+Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1).
 
 (6) For the purposes of this Directive, procurement-related expenditure is any expenditure in connection with the public contracts determined by Article 101(1) of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council.
 
@@ -78,11 +50,11 @@ Council Directive 2006/112/EC of 28 November 2006 on the common system of value 
 
 (13) Some criminal offences against the Union’s financial interests are in practice often closely related to the criminal offences covered by Article 83(1) of the Treaty on the Functioning of the European Union (TFEU) and Union legislative acts that are based on that provision. Coherence between such legislative acts and this Directive should therefore be ensured in the wording of this Directive.
 
-Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
-
 (14) Insofar as the Union’s financial interests can be damaged or threatened by conduct attributable to legal persons, legal persons should be liable for the criminal offences, as defined in this Directive, which are committed on their behalf.
 
 (15) In order to ensure equivalent protection of the Union’s financial interests throughout the Union by means of measures which should act as a deterrent, Member States should provide for certain types and levels of sanctions when the criminal offences defined in this Directive are committed. The levels of sanctions should not go beyond what is proportionate for the offences.
+
+Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
 
 (16) As this Directive provides for minimum rules, Member States are free to adopt or maintain more stringent rules for criminal offences affecting the Union’s financial interests.
 
@@ -92,13 +64,13 @@ Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Counc
 
 (19) Member States should ensure that the fact that a criminal offence is committed within a criminal organisation as defined in Council Framework Decision 2008/841/JHA is considered to be an aggravating circumstance in accordance with the applicable rules established by their legal systems. They should ensure that the aggravating circumstance is made available to judges for their consideration when sentencing offenders, although there is no obligation on judges to take the aggravating circumstance into account in their sentence. Member States are not obliged to provide for the aggravating circumstance where national law provides for the criminal offences as defined in Framework Decision 2008/841/JHA to be punishable as a separate criminal offence and this may lead to more severe sanctions.
 
-(20) Given, in particular, the mobility of perpetrators and of the proceeds stemming from illegal activities at the expense of the Union’s financial interests, as well as the complex cross-border investigations which this entails, each Member State
-
-Council Framework Decision 2008/841/JHA of 24 October 2008 on the fight against organised crime (OJ L 300, 11.11.2008, p. 42). should establish its jurisdiction in order to enable it to counter such activities. Each Member State should thereby ensure that its jurisdiction covers criminal offences which are committed using information and communication technology accessed from its territory.
+(20) Given, in particular, the mobility of perpetrators and of the proceeds stemming from illegal activities at the expense of the Union’s financial interests, as well as the complex cross-border investigations which this entails, each Member State should establish its jurisdiction in order to enable it to counter such activities. Each Member State should thereby ensure that its jurisdiction covers criminal offences which are committed using information and communication technology accessed from its territory.
 
 (21) Given the possibility of multiple jurisdictions for cross-border criminal offences falling under the scope of this Directive, the Member States should ensure that the principle of ne bis in idem is respected in full in the application of national law transposing this Directive.
 
-(22) Member States should lay down rules concerning limitation periods necessary in order to enable them to counter illegal activities at the expense of the Union’s financial interests. In cases of criminal offences punishable by a maximum sanction of at least four years of imprisonment, the limitation period should be at least five years from the time when the criminal offence was committed. This should be without prejudice to those Member States which do not set limitation periods for investigation, prosecution and enforcement.
+(22) Member States should lay down rules concerning limitation periods necessary in order to enable them to counter illegal activities at the expense of the Union’s financial interests. In cases of criminal offences punishable by a maximum sanction of at least four years of imprisonment, the limitation period should be at least
+
+Council Framework Decision 2008/841/JHA of 24 October 2008 on the fight against organised crime (OJ L 300, 11.11.2008, p. 42). five years from the time when the criminal offence was committed. This should be without prejudice to those Member States which do not set limitation periods for investigation, prosecution and enforcement.
 
 (23) Without prejudice to the rules on cross-border cooperation and mutual legal assistance in criminal matters and to other rules under Union law, in particular under Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council, there is a need for appropriate provision to be made for cooperation to ensure effective action against the criminal offences defined in this Directive affecting the Union’s financial interests, including exchange of information between the Member States and the Commission as well as technical and operational assistance provided by the Commission to the competent national authorities as they may need to facilitate coordination of their investigations. Such assistance should not entail the participation of the Commission in the investigation or prosecution procedures of individual criminal cases conducted by the national authorities. The Court of Auditors and the auditors responsible for auditing the budgets of the Union institutions, bodies, offices and agencies should disclose to the European Anti-Fraud Office (OLAF) and to other competent authorities any fact which could be qualified as a criminal offence under this Directive, and Member States should ensure that national audit bodies within the meaning of Article 59 of Regulation (EU, Euratom) No 966/2012 do the same, in accordance with Article 8 of Regulation (EU, Euratom) No 883/2013.
 
@@ -108,9 +80,9 @@ Council Framework Decision 2008/841/JHA of 24 October 2008 on the fight against 
 
 (26) For the application of point (d) of Article 3(4) of Directive (EU) 2015/849 of the European Parliament and of the Council, the reference to serious fraud affecting the Union’s financial interests as defined in Article 1(1) and Article 2(1) of the Convention should be construed as fraud affecting the Union’s financial interests as defined in Article 3 and in Article 7(3) of this Directive or, as regards offences against the common VAT system, as defined in Article 2(2) of this Directive.
 
-Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1). Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+(27) Proper implementation of this Directive by the Member States includes the processing of personal data by the competent national authorities, and the exchange of such data between Member States on the one hand, and between competent Union bodies on the other. The processing of personal data at national level between national competent authorities should be regulated by the acquis of the Union. The exchange of personal data between Member States should be carried out in accordance with Directive (EU) 2016/680 of the European Parliament and of the Council. To the extent that the Union institutions, bodies, offices and agencies process personal data, Regulation (EC) No 45/2001 of the European Parliament and of the Council or, where applicable, other Union legal acts regulating the processing of personal data by those bodies, offices and agencies
 
-(27) Proper implementation of this Directive by the Member States includes the processing of personal data by the competent national authorities, and the exchange of such data between Member States on the one hand, and between competent Union bodies on the other. The processing of personal data at national level between national competent authorities should be regulated by the acquis of the Union. The exchange of personal data between Member States should be carried out in accordance with Directive (EU) 2016/680 of the European Parliament and of the Council. To the extent that the Union institutions, bodies, offices and agencies process personal data, Regulation (EC) No 45/2001 of the European Parliament and of the Council or, where applicable, other Union legal acts regulating the processing of personal data by those bodies, offices and agencies as well as the applicable rules concerning the confidentiality of judicial investigations, should apply.
+Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1). Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73). Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89). Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1). as well as the applicable rules concerning the confidentiality of judicial investigations, should apply.
 
 (28) The intended dissuasive effect of the application of criminal law sanctions requires particular caution with regard to fundamental rights. This Directive respects fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union (the ‘Charter’) and in particular the right to liberty and security, the protection of personal data, the freedom to choose an occupation and right to engage in work, the freedom to conduct a business, the right to property, the right to an effective remedy and to a fair trial, the presumption of innocence and the right of defence, the principles of the legality and proportionality of criminal offences and sanctions, as well as the principle of ne bis in idem. This Directive seeks to ensure full respect for those rights and principles and must be implemented accordingly.
 
@@ -121,8 +93,6 @@ Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Counc
 (31) This Directive should oblige Member States to provide in their national law for criminal penalties in respect of the acts of fraud and fraud-related criminal offences affecting the Union’s financial interests to which this Directive applies. This Directive should not create obligations regarding the application of such penalties or any other available system of law enforcement to individual cases. Member States may in principle continue to apply administrative measures and penalties in parallel in the area covered by this Directive. In the application of national law transposing this Directive, Member States should, however, ensure that the imposition of criminal sanctions for criminal offences in accordance with this Directive and of administrative measures and penalties does not lead to a breach of the Charter.
 
 (32) This Directive should not affect the competences of Member States to structure and organise their tax administration as they see fit to ensure the correct determination, assessment and collection of value added tax, as well as the effective application of VAT law.
-
-Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89). Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
 
 (33) This Directive applies without prejudice to the provisions on the lifting of the immunities contained in the TFEU, Protocol No 3 on the Statute of the Court of Justice of the European Union and Protocol No 7 on the Privileges and Immunities of the European Union, annexed to the TFEU and to the Treaty on European Union (TEU), and the texts implementing them, or similar provisions incorporated in national law. In the transposition of this Directive into national law as well as in the application of national law transposing this Directive, those privileges and immunities, including the respect for the freedom of the Member’s mandate, are fully taken into account.
 
@@ -284,9 +254,7 @@ Sanctions with regard to natural persons
 
 2. Member States shall take the necessary measures to ensure that the criminal offences referred to in Articles 3 and 4 are punishable by a maximum penalty which provides for imprisonment.
 
-3. Member States shall take the necessary measures to ensure that the criminal offences referred to in Articles 3 and 4 are punishable by a maximum penalty of at least four years of imprisonment when they involve considerable damage or advantage.
-
-The damage or advantage resulting from the criminal offences referred to in points (a), (b) and (c) of Article 3(2) and in Article 4 shall be presumed to be considerable where the damage or advantage involves more than EUR 100 000.
+3. Member States shall take the necessary measures to ensure that the criminal offences referred to in Articles 3 and 4 are punishable by a maximum penalty of at least four years of imprisonment when they involve considerable damage or advantage. The damage or advantage resulting from the criminal offences referred to in points (a), (b) and (c) of Article 3(2) and in Article 4 shall be presumed to be considerable where the damage or advantage involves more than EUR 100 000.
 
 The damage or advantage resulting from the criminal offences referred to in point (d) of Article 3(2) and subject to Article 2(2) shall always be presumed to be considerable.
 
@@ -330,6 +298,8 @@ Article 11
 
 Jurisdiction
 
+Directive 2014/42/EU of the European Parliament and of the Council of 3 April 2014 on the freezing and confiscation of instrumentalities and proceeds of crime in the European Union (OJ L 127, 29.4.2014, p. 39).
+
 1. Each Member State shall take the necessary measures to establish its jurisdiction over the criminal offences referred to in Articles 3, 4 and 5 where:
 
 (a) the criminal offence is committed in whole or in part within its territory; or
@@ -343,8 +313,6 @@ Jurisdiction
 (a) the offender is a habitual resident in its territory;
 
 (b) the criminal offence is committed for the benefit of a legal person established in its territory; or
-
-Directive 2014/42/EU of the European Parliament and of the Council of 3 April 2014 on the freezing and confiscation of instrumentalities and proceeds of crime in the European Union (OJ L 127, 29.4.2014, p. 39).
 
 (c) the offender is one of its officials who acts in his or her official duty.
 

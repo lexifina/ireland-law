@@ -2,13 +2,15 @@ Amendment of Criminal Justice Act, 1994.
 
 23.—The Criminal Justice Act, 1994, is hereby amended by the insertion of the following section after section 57:
 
-“Designation
+“Desig-
 
-57A.—(1) The Minister may by order, after consultation with the of certain
+57A.—(1) The Minister may by order, after consultation with the Minister nation for Finance, designate any state, or territorial unit within a state, that in of his or her opinion has not in place adequate procedures for the detection certain of money laundering. states
 
-Minister for Finance, designate any state, or territorial unit within a states or state, that in his or her opinion has not in place adequate procedures territorial for the detection of money laundering. units.
+(2) Any person or body to whom or which section 32 of this Act applies or
 
-(2) Any person or body to whom or which section 32 of this Act applies (including any director, employee or officer thereof) shall report to the Garda Síochána any transaction connected with a state or territorial unit that stands designated under subsection (1).
+(including any director, employee or officer thereof) shall report to the territ-
+
+Garda Síochána any transaction connected with a state or territorial unit orial that stands designated under subsection (1). units.
 
 (3) A person charged by law with the supervision of a person or body to whom or which section 32 of this Act applies shall report to the Garda Síochána if the person suspects that a transaction referred to in subsection (2) has taken place and that that subsection has not been complied with by the person or body with whose supervision the first-mentioned person is so charged.
 

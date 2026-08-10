@@ -6,11 +6,11 @@ Interpretation (Part 5).
 
 "currency note" means a currency note lawfully issued or customarily used as money in the State or in any other state or a territorial unit within it and includes a currency note denominated in euro;
 
-"coin" (other than in relation to a coin referred to in the definition of ‘designated’ and a coin to which subsection (2)(aa) applies) means a coin lawfully issued or customarily used as money in the State or in any other state or a territorial unit within it and includes a coin denominated in euro or in cent;
+"coin" (other than in relation to a coin referred to in the definition of "designated" and a coin to which subsection (2)(aa) applies) means a coin lawfully issued or customarily used as money in the State or in any other state or a territorial unit within it and includes a coin denominated in euro or in cent;
 
 "counterfeiting instrument" includes any instrument, article, computer programme or data, and any other means specially designed or adapted for making a counterfeit of a currency note or coin;
 
-"currency authority" means an authority or body referred to in paragraph (a), (b) or (c) of the definition of ‘lawfully issued’;
+"currency authority" means an authority or body referred to in paragraph (a), (b) or (c) of the definition of "lawfully issued";
 
 "currency instrument" includes any instrument, article, computer programme or data, and any other means specially designed or adapted for making a currency note or coin;
 
