@@ -1,12 +1,12 @@
 Seizure and handing over of property.
 
-36.—(1) A member of the Garda Síochána executing a warrant under section 26 or 27 may seize and retain any property—
+36.—(1) A member of the Garda Síochána executing a warrant under section 26 or 27, or otherwise making an arrest under section 27, may seize and retain any property—
 
 (a) which appears to him to be reasonably required as evidence for the purpose of proving the offence alleged, or
 
 (b) which appears to him to have been acquired as a result of the alleged offence and which—
 
-(i) is found at the time of arrest in the possession of the person arrested under the warrant, or
+(i) is found at the time of arrest in the possession of the person arrested ..., or
 
 (ii) is discovered subsequently.
 
