@@ -2,7 +2,7 @@ Appeals against a civil order.
 
 116.— (1) A person against whom a civil order has been made may, within 21 days from the date that the order is made, appeal the making of the order to the Circuit Court.
 
-(2) An appellant under subsection (1) shall give notice of the appeal to a senior member of the Garda Síochána in the Garda Síochána district in which the appellant resides.
+(2) An appellant under subsection (1) shall give notice of the appeal to a member of An Garda Síochána not below the rank of inspector in the Garda Síochána district in which the appellant resides.
 
 (3) Notwithstanding the appeal, the civil order shall remain in force unless the court that made the order or the appeal court places a stay on it.
 

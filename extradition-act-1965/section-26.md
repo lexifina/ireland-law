@@ -2,7 +2,7 @@ Warrant of arrest.
 
 26.—(1) (a) If the Minister receives a request made in accordance with this Part for the extradition of any person, he shall, subject to the provisions of this section, certify that the request has been made.
 
-(b) On production to a judge of the High Court of a certificate of the Minister under paragraph (a) stating that a request referred to in that paragraph has been made, the judge shall issue a warrant for the arrest of the person concerned unless a warrant for his arrest has been issued under section 27.
+(b) On production to a judge of the High Court of a certificate of the Minister under paragraph (a) stating that a request referred to in that paragraph has been made, the judge shall issue a warrant for the arrest of the person concerned unless a warrant for his arrest has been issued under section 27 or the person has already been brought before the Court under section 27(6).
 
 (2) A warrant issued under this section may be executed by any member of the Garda Síochána in any part of the State and may be so executed notwithstanding that it is not in the possession of the member at the time; and the warrant shall be shown to, and a copy of same given to, the person arrested at the time of such arrest or, if the warrant is not then in the possession of the member, within 24 hours thereafter.
 

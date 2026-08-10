@@ -38,7 +38,7 @@ Consent to surrender.
 
 (b) Where a person arrested under section 27 does not consent under the said subsection to his being surrendered to the Convention country concerned, the Minister shall so inform that country not later than 10 days after the person is so arrested.
 
-(6) A person who has consented under subsection (1) to his being surrendered to the Convention country concerned may, at any time thereafter but before the making of an order by the Minister under section 33, withdraw his consent and, if he withdraws his consent, the period between the giving of such consent before the High Court and the withdrawal of such consent by him shall not be taken into account for the purpose of calculating the period of 18 days specified in section 27(7).
+(6) A person who has consented under subsection (1) to his being surrendered to the Convention country concerned may, at any time thereafter but before the making of an order by the Minister under section 33, withdraw his consent and, if he withdraws his consent, the period between the giving of such consent before the High Court and the withdrawal of such consent by him shall not be taken into account for the purpose of calculating the period specified in section 27(7).
 
 (7) Where a person in respect of whom the High Court has made an order of committal under subsection (2) withdraws his consent to being surrendered to the Convention country concerned, he shall, as soon as may be after a request for his extradition has been received by the Minister from that Convention country, be brought before the High Court and the court shall affirm the said order of committal provided that, in relation to that request, there has been compliance with this Act.
 

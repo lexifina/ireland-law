@@ -10,13 +10,13 @@ Civil orders.
 
 (2) The court may impose terms or conditions in the civil order that the court considers appropriate.
 
-(3) An application for a civil order may only be made by a senior member of the Garda Síochána and shall be made—
+(3) An application for a civil order may only be made by a member of An Garda Síochána not below the rank of inspector and shall be made—
 
 (a) on notice to the respondent, and
 
 (b) in the district court district in which the respondent resides at the time.
 
-(4) Before making the application, the senior member of the Garda Síochána must be satisfied that either or both of the following conditions have been met:
+(4) Before making the application, the member of An Garda Síochána concerned must be satisfied that either or both of the following conditions have been met:
 
 (a) the respondent has been issued a behaviour warning and has not complied with one or more of the demands of that warning;
 
@@ -30,13 +30,13 @@ Civil orders.
 
 (b) the period specified in the order.
 
-(7) The court may vary or discharge a civil order on the application of the person subject to that order or a senior member of the Garda Síochána.
+(7) The court may vary or discharge a civil order on the application of the person subject to that order or a member of An Garda Síochána not below the rank of inspector.
 
 (8) An applicant under subsection (7) shall give notice of the application—
 
-(a) if the applicant is the person subject to the civil order, to a senior member of the Garda Síochána in the Garda Síochána district in which the applicant resides, or
+(a) if the applicant is the person subject to the civil order, to a member of An Garda Síochána not below the rank of inspector in the Garda Síochána district in which the applicant resides, or
 
-(b) if the applicant is a senior member of the Garda Síochána, to the person who is the subject of the civil order.
+(b) if the applicant is a member of An Garda Síochána not below the rank of inspector, to the person who is the subject of the civil order.
 
 (9) The standard of proof in proceedings under this section is that applicable to civil proceedings.
 

@@ -6,9 +6,9 @@ Interpretation and application of this Part.
 
 “behaviour warning” has the meaning assigned to it under section 114;
 
-“civil order” means an order described in section 115(1);
+“civil order” means an order described in section 115(1).
 
-“senior member of the Garda Síochána” means a member of the Garda Síochána not below the rank of a superintendent.
+...
 
 (2) For the purposes of this Part, a person behaves in an anti-social manner if the person causes or, in the circumstances, is likely to cause, to one or more persons who are not of the same household as the person—
 
