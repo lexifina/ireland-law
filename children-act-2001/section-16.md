@@ -10,9 +10,11 @@ Amendment (new Parts IVA and IVB) of Act of 1991.
 
 Duty of
 
-23A.—(1) Where it appears to a health board with respect to a child health who resides or is found in its area that the child requires special care board where or protection which he or she is unlikely to receive unless a court makes child an order under this Part in respect of the child, being either— requires
+23A.—(1) Where it appears to a health board with respect to a child health who resides or is found in its area that the child requires special care board or protection which he or she is unlikely to receive unless a court where child makes an order under this Part in respect of the child, being either— requires
 
-(a) an order under section 23B (in this Part referred to as a ‘special special care care order’), or or protection.
+(a) an order under section 23B (in this Part referred to as a special care
+
+‘special care order’), or or protection.
 
 (b) an order under section 23C (in this Part referred to as an ‘interim special care order’), it shall, subject to subsection (2), be the duty of the health board to apply for whichever of such orders is appropriate in the particular circumstances.
 
@@ -24,9 +26,9 @@ Duty of
 
 (3) Where a parent or guardian of a child requests a health board to apply for an order under this Part in respect of the child and the board decides not to do so, it shall inform the parent in writing of the reasons for its decision.
 
-Special care
+Special
 
-23B.—(1) A court may, on the application of a health board with order. respect to a child who is in its care or who resides or is found within its area and having taken into account the views of the Special Residential Services Board referred to in section 23A(2)(b), make a special care order in respect of the child if it is satisfied that—
+23B.—(1) A court may, on the application of a health board with care order. respect to a child who is in its care or who resides or is found within its area and having taken into account the views of the Special Residential Services Board referred to in section 23A(2)(b), make a special care order in respect of the child if it is satisfied that—
 
 (a) the behaviour of the child is such that it poses a real and substantial risk to his or her health,safety, development or welfare,and
 
@@ -82,19 +84,17 @@ Duty of
 
 23D.—
 
-Garda Síochána where child needs special care or protection.
+Garda Síochána where child needs special care or protection. Notification
 
-Notification
-
-23E.—(1) Where a child is placed in a special care unit pursuant to by health an interim special care order, the health board concerned shall as soon board. as possible inform or cause to be informed a parent having custody of the child or a person acting in loco parentis of the placement unless the parent or person is missing and cannot be found.
+23E.—(1) Where a child is placed in a special care unit pursuant to by health an interim special care order, the health board concerned shall as board. soon as possible inform or cause to be informed a parent having custody of the child or a person acting in loco parentis of the placement unless the parent or person is missing and cannot be found.
 
 (2) For the purposes of this section, a person shall be deemed to have been informed of the placing of a child in a special care unit if the person is given or shown a copy of the interim special care order or if the person was present at the sitting of the court at which the order was made.
 
-Variation or
+Variation
 
-23F.—(1) Without prejudice to section 23B(5), the court may, of its discharge of own motion or on the application of any person, vary or discharge a special care special care order. orders.
+23F.—(1) Without prejudice to section 23B(5), the court may, of its or own motion or on the application of any person, vary or discharge a discharge special care order. of special
 
-(2) In discharging a special care order, the court may, of its own motion or on the application of a health board either—
+(2) In discharging a special care order, the court may, of its own care motion or on the application of a health board either— orders.
 
 (a) make a supervision order in respect of the child, or
 
@@ -110,21 +110,19 @@ Appeals.
 
 Powers of
 
-23H.—Section 23 shall apply to a special care order as it applies to court in a care order, with the modification that the court may, as an alternative case of to making a special care order, make a care order in respect of the invalidity of child. order.
+23H.—Section 23 shall apply to a special care order as it applies to court in a care order, with the modification that the court may, as an altern- case of ative to making a special care order, make a care order in respect of invalidity the child. of order. Application
 
-Application
-
-23I.—Part V shall apply to proceedings relating to an application for of Part V. an interim special care order or a special care order, with any necessary modifications.
+23I.—Part V shall apply to proceedings relating to an application of Part V. for an interim special care order or a special care order, with any necessary modifications.
 
 Application
 
 23J.—Section 37, 42, 45 and 47 shall apply to a child who is of Part VI. committed to the care of a health board pursuant to an interim special care order or a special care order.
 
-Provision of
+Provision
 
-23K.—(1) A health board may, with the approval of the Minister, for special care the purposes of section 23B and 23C— units by
+23K.—(1) A health board may, with the approval of the Minister, of special for the purposes of section 23B and 23C— care units
 
-(a) provide and maintain a special care unit, or health boards.
+(a) provide and maintain a special care unit, or by health boards.
 
 (b) make arrangements with a voluntary body or any other person for the provision and operation of such a unit by that body or person on behalf of the board.
 
@@ -170,13 +168,9 @@ Provision of
 
 Recovery of
 
-23L.—Section 46 shall apply to the recovery of a child who absconds absconding from a special care unit. child.
+23L.—Section 46 shall apply to the recovery of a child who absconds absconding from a special care unit. child. Amend-
 
-Amendment
-
-23M.—References in section 4 to Parts III, IV and VI shall be construed of section 4. as including references to this Part.
-
-Restriction.
+23M.—References in section 4 to Parts III, IV and VI shall be ment of construed as including references to this Part. section 4. Restriction.
 
 23N.—A child on being found guilty of an offence may not be ordered to be placed or detained in a special care unit.
 
@@ -220,19 +214,19 @@ Definitions.
 
 Notice of
 
-23P.—(1) A person arranging or undertaking a private foster care private foster arrangement shall give notice to the health board in the manner care specified in section 23Q not less than thirty days before the arrangement. placement.
+23P.—(1) A person arranging or undertaking a private foster care private arrangement shall give notice to the health board in the manner foster care specified in section 23Q not less than thirty days before the placement. arrange-
 
-(2) Where a child is placed in a private foster care arrangement owing to an unforeseen emergency, both the person making the arrangement and the person undertaking it shall notify the health board in the manner specified in section 23Q as soon as practicable and not more than 14 days after the placement.
+(2) Where a child is placed in a private foster care arrangement ment. owing to an unforeseen emergency, both the person making the arrangement and the person undertaking it shall notify the health board in the manner specified in section 23Q as soon as practicable and not more than 14 days after the placement.
 
 (3) Any person arranging or undertaking a private foster care arrangement on the commencement of this Part who has submitted to the health board before such commencement the information it requires in relation to the arrangement or undertaking shall be deemed to have complied with subsection (1).
 
-Information
+Informa-
 
-23Q.—(1) Any person arranging or undertaking a private foster care to be arrangement shall submit to the health board in writing— submitted to
+23Q.—(1) Any person arranging or undertaking a private foster care tion to be arrangement shall submit to the health board in writing— submitted
 
-(a) the person’s name and address, relevant health board.
+(a) the person’s name and address, to relevant health
 
-(b) the name, sex, date and place of birth and address of the child concerned,
+(b) the name, sex, date and place of birth and address of the child board. concerned,
 
 (c) the name and address of the parent or guardian of the child,
 
@@ -244,9 +238,9 @@ Information
 
 Duty in
 
-23R.—Any person arranging or undertaking a private foster care respect of arrangement in respect of a child shall regard the child’s welfare as children in the first and paramount consideration. private foster
+23R.—Any person arranging or undertaking a private foster care respect of arrangement in respect of a child shall regard the child’s welfare as children in the first and paramount consideration. private
 
-(2) Any person undertaking such an arrangement shall take all care. reasonable measures to safeguard the health, safety and welfare of the child concerned.
+(2) Any person undertaking such an arrangement shall take all foster care. reasonable measures to safeguard the health, safety and welfare of the child concerned.
 
 (3) Any person arranging such an arrangement shall make all reasonable enquiries to ensure that the person undertaking it is in a position to comply with subsection (2).
 
@@ -256,9 +250,9 @@ Authorised
 
 (2) Each authorised officer shall be given a warrant of his or her appointment and, when exercising any power conferred by this Part, shall, on request by any person affected, produce the warrant or a copy thereof, together with a form of personal identification.
 
-Inspection by
+Inspection
 
-23T.—(1) Where the relevant health board has received a notice authorised in accordance with section 23P in respect of a private foster care persons. arrangement, an authorised officer may at all reasonable times enter any premises (including a private dwelling) in which the child concerned is residing.
+23T.—(1) Where the relevant health board has received a notice in by author- accordance with section 23P in respect of a private foster care ised arrangement, an authorised officer may at all reasonable times enter persons. any premises (including a private dwelling) in which the child concerned is residing.
 
 (2) A judge of the District Court may, if satisfied on the sworn information of an authorised officer that there are reasonable grounds for believing that a private foster care arrangement has been arranged or undertaken and that the health board has not received the requisite notice, issue a warrant authorising an authorised officer, accompanied if necessary by other persons, to enter, if need by reasonable force, and inspect any premises (including a private dwelling) in which the child may be residing.
 
@@ -266,11 +260,11 @@ Inspection by
 
 (4) An authorised officer may request a member of the Garda Síochána to accompany him or her when carrying out an inspection.
 
-Institution of
+Institution
 
-23U.—If a health board believes— proceedings
+23U.—If a health board believes— of proceed-
 
-(a) that a person who is arranging or undertaking a private foster by health care arrangement has not notified it under section 23P, or board.
+(a) that a person who is arranging or undertaking a private foster ings by care arrangement has not notified it under section 23P, or health board.
 
 (b) that such a person is not taking all reasonable measures to safeguard the health, safety and welfare of the child concerned, it may apply to the District Court for one of the following orders:
 
@@ -280,13 +274,13 @@ Institution of
 
 (iii) that the arrangement be terminated and the child returned to his or her parents or guardian, and the Court may order accordingly.
 
-Restrictions
+Restric-
 
-23V.—(1) A person shall not arrange or undertake a private foster on private care arrangement for the purpose of adopting a child under the foster care
+23V.—(1) A person shall not arrange or undertake a private foster tions on care arrangement for the purpose of adopting a child under the private
 
-Adoption Acts, 1952 to 1998. arrangements
+Adoption Acts, 1952 to 1998. foster care
 
-(2) Any person undertaking a private foster care arrangement in in certain respect of a child shall not apply under those Acts to adopt the child cases. unless—
+(2) Any person undertaking a private foster care arrangement in arrange- respect of a child shall not apply under those Acts to adopt the child ments in unless— certain cases.
 
 (a) the child is eligible for adoption under the Adoption Acts, 1952 to 1998, and
 
