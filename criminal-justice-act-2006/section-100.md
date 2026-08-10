@@ -36,21 +36,13 @@ Imposition of fine and deferral of sentence.
 
 (9) If a person fails to appear before the court in accordance with a requirement contained in a notice under subsection (8) , the court may issue a warrant for the arrest of the person.
 
-(10) Upon an application by a member of the Garda Síochána for an order imposing the term of imprisonment specified in accordance with paragraph
-
-(b) (ii) of subsection (1) , a court may, if it is satisfied that the person in respect of whom the application was made has contravened a condition specified in the order under that subsection, impose the term of imprisonment that it proposed to impose at the time of the making of the order under that subsection (or such lesser term as it considers just in all of the circumstances of the case), unless it considers that it would in all the circumstances be unjust to so do.
+(10) Upon an application by a member of the Garda Síochána for an order imposing the term of imprisonment specified in accordance with paragraph (b) (ii) of subsection (1) , a court may, if it is satisfied that the person in respect of whom the application was made has contravened a condition specified in the order under that subsection, impose the term of imprisonment that it proposed to impose at the time of the making of the order under that subsection (or such lesser term as it considers just in all of the circumstances of the case), unless it considers that it would in all the circumstances be unjust to so do.
 
 (11) On the specified date the court shall, if it is satisfied that the person in respect of whom the order under subsection (1) was made has complied with the conditions specified in the order, not impose the sentence that it proposed to impose when making that order and shall discharge the person forthwith.
 
-(12) On the specified date the court may, if it is satisfied that the person in respect of whom the order under subsection
+(12) On the specified date the court may, if it is satisfied that the person in respect of whom the order under subsection (1) was made has contravened a condition specified in the order, impose the term of imprisonment that it proposed to impose at the time of the making of the order (or such lesser term as it considers just in all of the circumstances of the case) unless it considers that in all of the circumstances of the case it would be unjust to so do, and where it considers that it would be unjust to impose a term of imprisonment it shall discharge the person forthwith.
 
-(1) was made has contravened a condition specified in the order, impose the term of imprisonment that it proposed to impose at the time of the making of the order (or such lesser term as it considers just in all of the circumstances of the case) unless it considers that in all of the circumstances of the case it would be unjust to so do, and where it considers that it would be unjust to impose a term of imprisonment it shall discharge the person forthwith.
-
-(13) A notice under subsection
-
-(5) or
-
-(8) shall be addressed to the person concerned by name, and may be given to the person in one of the following ways:
+(13) A notice under subsection (5) or (8) shall be addressed to the person concerned by name, and may be given to the person in one of the following ways:
 
 (a) by delivering it to the person;
 

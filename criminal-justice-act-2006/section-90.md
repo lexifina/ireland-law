@@ -26,9 +26,7 @@ Period for which person is subject to requirements of this Part and related matt
 
 (a) the part of that term the operation of which is not suspended shall be regarded as the term of imprisonment imposed on that person for the purposes of subsection (3) (but, if the operation of the first-mentioned part of that term is revived by the court, whichever of paragraphs (a) , (b) , (c) and (d) of subsection (3) is appropriate shall apply without regard to this paragraph),
 
-(b) paragraph
-
-(a) extends to a case in which that suspension is provided for subsequent to the imposition of the sentence.
+(b) paragraph (a) extends to a case in which that suspension is provided for subsequent to the imposition of the sentence.
 
 (6) If a person is or has been sentenced in respect of 2 or more drug trafficking offences and the sentences imposed are consecutive or partly concurrent then subsection (3) shall have effect as if—
 

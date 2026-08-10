@@ -78,11 +78,7 @@ Designation of place as crime scene.
 
 (d) the investigation of the offence to which any such evidence relates is being conducted diligently and expeditiously, the Court may make an order continuing the direction in force for such period as it considers appropriate and that is specified in the order (whether or not the direction has been continued in force under subsection (9) ) commencing upon the expiration of the period for which the direction is in force.
 
-(12) A member of the Garda Síochána who intends to make an application under subsection
-
-(9) or
-
-(11) shall, if it is reasonably practicable to do so before the application is made, give notice of it to—
+(12) A member of the Garda Síochána who intends to make an application under subsection (9) or (11) shall, if it is reasonably practicable to do so before the application is made, give notice of it to—
 
 (a) the occupier of the place the subject of the application, or
 
@@ -90,11 +86,7 @@ Designation of place as crime scene.
 
 (13) If, on an application under subsection (9) or (11) , the occupier or owner of the place concerned applies to be heard by the Court, an order shall not be made under subsection (9) or (11) , as may be appropriate, unless an opportunity has been given to the person to be heard.
 
-(14) The High Court or a judge of the District Court, as may be appropriate, may attach such conditions as the Court or the judge considers appropriate to an order under subsection
-
-(9) or
-
-(11) for the purpose of protecting the interests of the occupier or owner of the place which is the subject of the order.
+(14) The High Court or a judge of the District Court, as may be appropriate, may attach such conditions as the Court or the judge considers appropriate to an order under subsection (9) or (11) for the purpose of protecting the interests of the occupier or owner of the place which is the subject of the order.
 
 (15) A direction under subsection (3) shall be deemed to continue in force until the determination of an application under subsection (9) or (11) if—
 

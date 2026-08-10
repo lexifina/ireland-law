@@ -2,13 +2,13 @@ Substitution of section 3 of Principal Act.
 
 30.— The following section is substituted for section 3 of the Principal Act:
 
-3.— (1) Application for a firearm certificate (other than a restricted firearm certificate) shall be made to the Superintendent of the Garda Síochána of the district in which the applicant resides.
+"Applica-
 
-"Applications for, and
+3.— (1) Application for a firearm certificate (other than a restricted firearm tions for, certificate) shall be made to the Superintendent of the Garda Síochána of the and form district in which the applicant resides. and effect of, firearm
 
-(2) Application for a restricted firearm certificate shall be made to the form and effect of,
+(2) Application for a restricted firearm certificate shall be made to the certific-
 
-Commissioner. firearm certificates.
+Commissioner. ates.
 
 (3) The application shall be in the prescribed form, and if the applicant intends to use the firearm to hunt and kill exempted wild mammals within the meaning of the Wildlife Act 1976 (other than hares), be accompanied by a current licence to do so under section 29(1) of that Act.
 
