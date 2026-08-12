@@ -1,3 +1,3 @@
-Application
+Application (Repealed)
 
-4. This Part applies to residential land or regeneration land.
+4. ...
