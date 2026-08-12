@@ -4,11 +4,11 @@ Approved policy of insurance.
 
 (a) it is issued by a vehicle insurer to a person (in this Act referred to as the insured) named therein;
 
-(b) the insurer by whom it is issued binds himself by it to insure the insured against all sums without limit which the insured or his personal representative shall become liable to pay to any person ... whether by way of damages or costs on account of injury to person or property caused by the negligent use, during the period (in this Act referred to as the period of cover) specified in that behalf in the policy, of a mechanically propelled vehicle to which the policy relates, by the insured or by any of such other persons (if any) as are mentioned or otherwise indicated in that behalf in the policy;
+(b) the insurer by whom it is issued binds himself by it to insure the insured against all sums without limit which the insured or his personal representative shall become liable to pay to any person ... whether by way of damages or costs on account of injury to person or property caused by the negligent use, during the period (in this Act referred to as the period of cover) specified in that behalf in the policy, of a vehicle to which the policy relates, by the insured or by any of such other persons (if any) as are mentioned or otherwise indicated in that behalf in the policy;
 
 (c) the liability of the insurer under the policy is not subject to any condition, restriction, or limitation prescribed as not to be inserted in an approved policy of insurance; ...
 
-(cc) The liability of the insurer extends, in addition to the negligent use of the vehicle in the State, to the negligent use of the vehicle in the designated territories according to the law relating to compulsory insurance against civil liability in respect of the use of mechanically propelled vehicles in force in those territories or to the extent required by this Part, whichever is the greater;
+(cc) The liability of the insurer extends, in addition to the negligent use of the vehicle in the State, to the negligent use of the vehicle in the designated territories according to the law relating to compulsory insurance against civil liability in respect of the use of vehicles in force in those territories or to the extent required by this Part, whichever is the greater;
 
 (d) the period of cover is not capable of being terminated before its expiration by effluxion of time by the insurer save either with the consent of the insured or after seven days’ notice in writing to the insured; and
 
