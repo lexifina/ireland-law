@@ -10,7 +10,7 @@ Judicial review of applications,appeals,referrals and other matters.
 
 (c) a local authority in the performance or purported performance of a function conferred by an enactment specified in section 214 relating to the compulsory acquisition of land, or
 
-(d) the competent authority (within the meaning of the Aircraft Noise (Dublin Airport) Regulation Act 2019 ) in the performance or purported performance of any of its functions or the Commission in the performance or purported performance of its functions as the body to which an appeal from a decision of the said competent authority may be brought, otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (the "Order").
+(d) the competent authority (within the meaning of the Aircraft Noise (Dublin Airport) Regulation Act 2019 ) in the performance or purported performance of any of its functions or An Coimisiún Pleanála in the performance or purported performance of its functions as the body to which an appeal from a decision of the said competent authority may be brought, otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (the "Order").
 
 (3) Subsection (2)(a) does not apply to an approval or consent referred to in Chapter I or II of Part VI.
 
@@ -29,3 +29,5 @@ Judicial review of applications,appeals,referrals and other matters.
 (b) the circumstances that resulted in the failure to make the application for leave within the period so provided were outside the control of the applicant for the extension.
 
 (9) References in this section to the Order shall be construed as including references to the Order as amended or replaced (with or without modification) by rules of court.
+
+(10) This section applies and has effect subject to section 50AA.
