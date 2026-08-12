@@ -6,7 +6,7 @@ Power to extend appropriate period.
 
 (I) the development to which the permission relates was commenced before the expiration of the appropriate period sought to be extended,
 
-(II) ...
+(II)...
 
 (III) substantial works were carried out pursuant to the permission during that period, and
 

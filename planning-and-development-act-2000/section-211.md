@@ -10,7 +10,9 @@ Disposal of land by local authority.
 
 (3) The Minister may by regulations provide for the disposal of land under subsection (1) without the consent of the Minister as required by subsection (2) in such circumstances as may be specified in the regulations and subject to compliance with such conditions (including conditions for the giving of public notice) as may be so specified.
 
-(4) Capital money arising from the disposal of land under subsection (1) shall be applied for a capital purpose for which capital money may be properly applied , or for such purposes as may be approved by the Minister whether generally or in relation to specified cases or circumstances.
+(4) Capital money arising from the disposal of land under subsection (1) shall be applied for a capital purpose for which capital money may be properly applied
+
+, or for such purposes as may be approved by the Minister whether generally or in relation to specified cases or circumstances.
 
 (5) (a) Where, as respects any land acquired for the purposes of or appropriated under this or any other Act or acquired otherwise by a local authority, the authority considers that it will not require the use of the land for any of its functions for a particular period, the authority may grant a lease of the land for that period or any lesser period and the lease shall be expressed as a lease granted for the purposes of this subsection.
 

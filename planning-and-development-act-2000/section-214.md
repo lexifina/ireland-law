@@ -18,7 +18,9 @@ Housing Act, 1966;
 
 Derelict Sites Act, 1990;
 
-Roads Acts, 1993 and 1998; Dublin Docklands Development Authority Act, 1997.
+Roads Acts, 1993 and 1998;
+
+Dublin Docklands Development Authority Act, 1997.
 
 (2) For the purposes of the compulsory acquisition of land by a local authority the following constructions shall apply:
 

@@ -12,11 +12,11 @@ Application to Board
 
 (I) the person proposes to make an application to the Board for permission for the proposed development and, where applicable, that the application is subject to section 37JA,
 
-(II) an environmental impact assessment report has been prepared in respect of the proposed development, and
+(II) anenvironmental impact assessment report has been prepared in respect of the proposed development, and
 
 (III) where relevant, the proposed development is likely to have significant effects on the environment of a Member State of the European Communities or other party to the Transboundary Convention,
 
-(ii) specifying the times and places at which, and the period (not being less than 6 weeks) during which, a copy of the application and the environmental impact assessment report may be inspected free of charge or purchased on payment of a specified fee (which fee shall not exceed the reasonable cost of making such copy),
+(ii) specifying the times and places at which, and the period (not being less than 6 weeks) during which, a copy of the application and theenvironmental impact assessment report may be inspected free of charge or purchased on payment of a specified fee (which fee shall not exceed the reasonable cost of making such copy),
 
 (iii) inviting the making, during such period, of submissions and observations to the Board relating to—
 
