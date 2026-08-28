@@ -4,9 +4,7 @@ Discharge of renewable transport fuel obligation or advanced biofuel obligation 
 
 X x Y where—
 
-X is the amount of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under section 44I(1) which remains undischarged, and
-
-Y is the price per megajoule of renewable transport fuel prescribed in accordance with this section (in this section referred to as the "buy-out price").
+X is the amount of the renewable transport fuel obligation or advanced biofuel and renewable fuels of non-biological origin obligation notified under section 44I(1) which remains undischarged, and Y is the price per megajoule of renewable transport fuel prescribed in accordance with this section (in this section referred to as the "buy-out price").
 
 (2) For the purposes of subsection (1), the Agency shall give a notice in such form as the Agency determines to the obligated party concerned within 14 days after the end of the period specified in section 44I(3), stating—
 
