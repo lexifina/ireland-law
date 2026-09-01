@@ -20,7 +20,7 @@ Taking of intimate samples from persons in custody of Garda Síochána
 
 (a) the nature of the offence in the commission of which it is suspected that the person has been involved;
 
-(b) that an authorisation to take the sample from him or her has been given under subsection (2)(a)and the grounds on which it has been given;
+(b) that an authorisation to take the sample from him or her has been given under subsection (2)(a) and the grounds on which it has been given;
 
 (c) that in a case in which an intimate sample already taken from the person has proved to be insufficient—
 
@@ -28,9 +28,9 @@ Taking of intimate samples from persons in custody of Garda Síochána
 
 (ii) that either—
 
-(I)another authorisation under subsection (2)(a) is not, by virtue of section 3(6), required, or
+(I) another authorisation under subsection (2)(a) is not, by virtue of section 3(6), required, or
 
-(II)an authorisation to take a second intimate sample from him or her has, in accordance with section 25(1), been given under subsection (2)(a) and the grounds on which it has been given;
+(II) an authorisation to take a second intimate sample from him or her has, in accordance with section 25(1), been given under subsection (2)(a) and the grounds on which it has been given;
 
 (d) that the results of the forensic testing of the sample may be given in evidence in any proceedings;
 

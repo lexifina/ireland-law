@@ -16,4 +16,4 @@ Removal of DNA profiles in respect of former child offenders from DNA Database S
 
 “the end of the notification period”, in relation to a child offender who was a sex offender, means the end of the period for which he or she was subject to the requirements of Part 2 of the Sex Offenders Act 2001;
 
-“the expiry of the sentence”, in relation to a child offender other than a sex offender, has the meaning it has in section 32 .
+“the expiry of the sentence”, in relation to a child offender other than a sex offender, has the meaning it has in section 32.

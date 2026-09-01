@@ -16,7 +16,7 @@ Procedures that may be used for transmission of certain samples for forensic tes
 
 (5) In any criminal proceedings, it shall be presumed until the contrary is shown, that subsections (1) to (4) have been complied with in relation to a relevant sample.
 
-(6) In this section and in section 169 —
+(6) In this section and in section 169—
 
 “crime scene sample” means any substance or material (or a sample thereof) found at, or recovered from, a crime scene with a view to having it forensically tested;
 

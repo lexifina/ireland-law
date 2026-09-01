@@ -10,11 +10,11 @@ When sample taken for purposes of DNA Database System may also be used for evide
 
 (ii) a member of the Garda Síochána has informed the person of the following:
 
-(I)the nature of the offence in the commission of which it is suspected that the person has been involved;
+(I) the nature of the offence in the commission of which it is suspected that the person has been involved;
 
-(II)that an authorisation to regard that sample as a non-intimate sample has been given under paragraph (i) and the grounds on which it has been given; and
+(II) that an authorisation to regard that sample as a non-intimate sample has been given under paragraph (i) and the grounds on which it has been given; and
 
-(III)that the results of the forensic testing of that sample may be given in evidence in any proceedings.
+(III) that the results of the forensic testing of that sample may be given in evidence in any proceedings.
 
 (2) An authorisation under subsection (1)(i) to regard a sample taken from a person under section 11 as a non-intimate sample shall not be given unless the member of the Garda Síochána giving it has reasonable grounds—
 

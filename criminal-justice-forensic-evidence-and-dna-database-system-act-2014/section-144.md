@@ -18,7 +18,7 @@ Receipt of DNA profiles from law enforcement agency in place other than designat
 
 (4) A DNA profile entered in the DNA Database System under subsection (1) —
 
-(a) may be removed from that System following a comparison of it with other DNA profiles in that System under section 68 , or
+(a) may be removed from that System following a comparison of it with other DNA profiles in that System under section 68, or
 
 (b) may be retained in that System for the purpose of conducting such number of comparisons of it with other DNA profiles in that System under that section, and at such frequency, as may be specified by or agreed with the law enforcement agency that supplied the DNA profile to the Commissioner.
 

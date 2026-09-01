@@ -16,12 +16,12 @@ Date on which sample under section 11, 12, 13, 31 or 32 may be deemed to have be
 
 (b) an intimate sample or a non-intimate sample taken from the person on a date after the taking of the first sample (“the subsequent date”) for the investigation of a relevant offence other than the offence in connection with which the first sample was taken is not used to generate a DNA profile in respect of the person to be entered in the reference index of the DNA Database System as his or her DNA profile has already been entered in that index, the first sample shall be deemed to have been taken from him or her on the subsequent date—
 
-(i) for the purposes of the application of subsection (7)or (9)of section 81 to the person, and
+(i) for the purposes of the application of subsection (7) or (9) of section 81 to the person, and
 
-(ii) for the purposes of the application of subsection (1) of section 84to the person so that the retention period under that section shall be—
+(ii) for the purposes of the application of subsection (1) of section 84 to the person so that the retention period under that section shall be—
 
-(I) in the case of a person falling under paragraph (a)of that subsection, the period of 4 years from the subsequent date, or
+(I) in the case of a person falling under paragraph (a) of that subsection, the period of 4 years from the subsequent date, or
 
-(II) in the case of a person falling under paragraph (b)of that subsection, the period of 6 years from the subsequent date but only if that period is longer than the retention period under that subsection.
+(II) in the case of a person falling under paragraph (b) of that subsection, the period of 6 years from the subsequent date but only if that period is longer than the retention period under that subsection.
 
 (3) The subsequent date for the purposes of subsection (2)(a) shall be the latest date on which a sample under section 11, 31 or 32, as the case may be, may have been taken from the person concerned.

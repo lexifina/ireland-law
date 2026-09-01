@@ -46,7 +46,7 @@ Taking of samples from Garda Síochána personnel for elimination (crime scene i
 
 (a) that person consents in writing to the sample and DNA profile concerned being so regarded, and
 
-(b) before the consent referred to in paragraph (a)is obtained, subsection (4) shall, with any necessary modifications, be applied in relation to that person.
+(b) before the consent referred to in paragraph (a) is obtained, subsection (4) shall, with any necessary modifications, be applied in relation to that person.
 
 (7) If a person referred to in paragraph (a) or (b) of subsection (2), or paragraph (a) or (b) of subsection (3), from whom a sample was taken, or is regarded under subsection (6) as having been taken, under this section is no longer assigned to duties relating to the investigation or technical examination of crime scenes or anything found at or recovered from crime scenes, the DNA profile that was generated from the sample in respect of the person shall be transferred from the elimination (crime scene investigators) index to the elimination (Garda Síochána) index of the DNA Database System.
 

@@ -46,7 +46,7 @@ Taking of samples for mass screening
 
 (7) A sample may be taken under this section from a person who is one of a class of persons to whom an authorisation for a mass screening given under subsection (2) applies in a Garda Síochána station or other place nominated by a member of the Garda Síochána not below the rank of sergeant or, subject to the agreement of the member of the Garda Síochána or the authorised person taking the sample, at a place designated by the person from whom the sample is to be taken.
 
-(8) Subject to section 58 , if a person expressly withdraws consent given under subsection (5) (or if the withdrawal of that consent can reasonably be inferred from the conduct of the person) before or during the taking of a sample under this section, that withdrawal of consent shall be treated as a refusal to give consent to the taking of the sample under this section.
+(8) Subject to section 58, if a person expressly withdraws consent given under subsection (5) (or if the withdrawal of that consent can reasonably be inferred from the conduct of the person) before or during the taking of a sample under this section, that withdrawal of consent shall be treated as a refusal to give consent to the taking of the sample under this section.
 
 (9) A withdrawal under subsection (8) of consent given under subsection (5) shall be confirmed in writing as soon as practicable after such withdrawal.
 

@@ -4,7 +4,7 @@ Automated searching for certain DNA profiles in DNA analysis files of designated
 
 (a) the crime scene index, or
 
-(b) the reference index, other than DNA profiles entered in that index under section 28 , to the national contact point of a designated state for the purpose of conducting an automated search of the reference data in the DNA analysis files of that designated state by comparing the DNA profile concerned with the DNA profiles in those files to ascertain whether there is a match between them.
+(b) the reference index, other than DNA profiles entered in that index under section 28, to the national contact point of a designated state for the purpose of conducting an automated search of the reference data in the DNA analysis files of that designated state by comparing the DNA profile concerned with the DNA profiles in those files to ascertain whether there is a match between them.
 
 (2) The automated response from the national contact point of the designated state concerned to a search by the comparison of DNA profiles pursuant to subsection (1), namely—
 

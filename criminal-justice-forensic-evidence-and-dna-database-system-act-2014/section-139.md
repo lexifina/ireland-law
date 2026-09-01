@@ -72,9 +72,11 @@ Amendment of section 50 of Act of 2006
 
 (a) a fingerprint, palm print, iris identification or photograph of the person, or
 
-(b) a bodily sample from the person or the DNA profile of the person generated from such a sample, and includes any related records.”, (b) by the insertion of the following subsections after subsection (1):
+(b) a bodily sample from the person or the DNA profile of the person generated from such a sample, and includes any related records.”,
 
-“(1A) The reference in the definition of ‘protected person’ in subsection (1)to a mental or physical disability in relation to a person (including a child) shall be construed as not including a reference to the person being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances.
+(b) by the insertion of the following subsections after subsection (1):
+
+“(1A) The reference in the definition of ‘protected person’ in subsection (1) to a mental or physical disability in relation to a person (including a child) shall be construed as not including a reference to the person being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances.
 
 (1B) Where, in relation to the ICC offence concerned, identification evidence is to be taken from a protected person or a child, the consent in writing of a parent or guardian of the protected person or child shall not be sought from a parent or guardian of the protected person or child, as the case may be, if—
 
@@ -86,7 +88,7 @@ Amendment of section 50 of Act of 2006
 
 (d) a member not below the rank of inspector has reasonable grounds for believing that he or she is likely to obstruct the course of justice.
 
-(1C) Subsection (1B) shall not prevent a parent or guardian of a protected person or a child who does not fall under paragraph (a), (b), (c) or (d)of that subsection from giving the consent required.
+(1C) Subsection (1B) shall not prevent a parent or guardian of a protected person or a child who does not fall under paragraph (a), (b), (c) or (d) of that subsection from giving the consent required.
 
 (1D) Before a member seeks the consent in writing of a parent or guardian of a protected person to the taking of identification evidence from the person, the member shall inform the parent or guardian of the matters referred to in subsection (4) in relation to the person.
 
@@ -150,7 +152,7 @@ Amendment of section 50 of Act of 2006
 
 “(11A) Subject to subsections (12) and (13), any identification evidence taken under subsection (5) that is transmitted to the Court and returned by it when no longer required for the purpose specified in the request shall be destroyed as soon as practicable after its return.
 
-(11B) The provisions of subsections (7), (8), (9) and (11) of section 3 , and section 97 , of the Act of 2014 insofar as they apply to the destruction of samples and DNA profiles of persons under that Act shall apply, with any necessary modifications, in relation to the destruction of identification evidence, other than fingerprints, palm prints, iris identifications or photographs of persons, under subsection (11A).
+(11B) The provisions of subsections (7), (8), (9) and (11) of section 3, and section 97, of the Act of 2014 insofar as they apply to the destruction of samples and DNA profiles of persons under that Act shall apply, with any necessary modifications, in relation to the destruction of identification evidence, other than fingerprints, palm prints, iris identifications or photographs of persons, under subsection (11A).
 
 (11C) The provisions of section 8H of the Criminal Justice Act 1984 insofar as they apply to the destruction of fingerprints, palm prints or photographs of persons shall apply, with any necessary modifications, in relation to the destruction of fingerprints, palm prints, iris identifications or photographs of persons under subsection (11A).”,
 

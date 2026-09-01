@@ -8,9 +8,9 @@ Destruction of samples taken from persons under Part 3 and destruction, or remov
 
 (b) in the case of a protected person or a child, the person who gave consent under section 54 to the taking of a sample under section 27 or 29 from the protected person or child, as the case may be, may request the destruction of the sample, or the DNA profile generated from the sample in respect of the person from whom it was taken, or both by notice in writing sent or given to the Commissioner.
 
-(2) Where the DNA profile in respect of a person from whom a sample was taken under section 27 is entered in the reference index of the DNA Database System under section 28, a request by the person under subsection (1)to have his or her DNA profile destroyed shall be regarded as including a request to have his or her DNA profile removed from that System.
+(2) Where the DNA profile in respect of a person from whom a sample was taken under section 27 is entered in the reference index of the DNA Database System under section 28, a request by the person under subsection (1) to have his or her DNA profile destroyed shall be regarded as including a request to have his or her DNA profile removed from that System.
 
-(3) Subject to subsections (4) to (7)and section 93, a sample taken from a person under section 27 or 29, and the DNA profile generated from the sample in respect of the person from whom it was taken, shall be destroyed not more than 3 months after the receipt by the Commissioner of the notice under subsection (1).
+(3) Subject to subsections (4) to (7) and section 93, a sample taken from a person under section 27 or 29, and the DNA profile generated from the sample in respect of the person from whom it was taken, shall be destroyed not more than 3 months after the receipt by the Commissioner of the notice under subsection (1).
 
 (4) Where the DNA profile in respect of a person from whom a sample was taken under section 27 is entered in the reference index of the DNA Database System under section 28, the Commissioner may request the person to consent to the removal of the DNA profile in respect of the person from that System and its retention solely for the purposes of the investigation of the particular offence in connection with the investigation of which the sample was taken.
 

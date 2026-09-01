@@ -48,7 +48,7 @@ Amendment of section 79 of Act of 2008
 
 (b) a DNA sample that is taken from a person under section 79A, and the DNA profile of the person generated from the sample, shall be destroyed when the Central Authority receives confirmation from the requesting authority that it has received the DNA profile of the person generated from the sample.
 
-(9C) The provisions of subsections (7), (8), (9) and (11) of section 3 , and section 97 , of the Act of 2014 insofar as they apply to the destruction of samples and DNA profiles of persons under that Act shall apply, with any necessary modifications, in relation to the destruction of identification evidence, other than fingerprints, palm prints or photographs of persons, under subsection (9B).
+(9C) The provisions of subsections (7), (8), (9) and (11) of section 3, and section 97, of the Act of 2014 insofar as they apply to the destruction of samples and DNA profiles of persons under that Act shall apply, with any necessary modifications, in relation to the destruction of identification evidence, other than fingerprints, palm prints or photographs of persons, under subsection (9B).
 
 (9D) The provisions of section 8H of the Criminal Justice Act 1984 insofar as they apply to the destruction of fingerprints, palm prints or photographs of persons shall apply, with any necessary modifications, in relation to the destruction of fingerprints, palm prints or photographs of persons under subsection (9B).”,
 

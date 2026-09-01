@@ -1,6 +1,6 @@
 Recording of supply and receipt of data for requests pursuant to Article 7 of 2008 Council Decision or that Article as applied by 2009 Agreement with Iceland and Norway
 
-135. The Act of 2008 is amended by the insertion of the following section after section 79B (inserted by section 134 ):
+135. The Act of 2008 is amended by the insertion of the following section after section 79B (inserted by section 134):
 
 “79C. (1) The Central Authority shall record, in accordance with subsection (2), the supply and receipt of data—
 

@@ -6,13 +6,13 @@ Application for court order authorising taking of intimate sample from child
 
 (b) a parent or guardian of a child indicates to a member of the Garda Síochána that he or she cannot or will not attend at the Garda Síochána station in which the child is detained within a reasonable time for the purposes of giving consent to the taking of an intimate sample from the child under this Part,
 
-(c) subject to subsection (3) of section 15 , the circumstances referred to in subsection (2) of that section exist in relation to a parent or guardian of a child,
+(c) subject to subsection (3) of section 15, the circumstances referred to in subsection (2) of that section exist in relation to a parent or guardian of a child,
 
 (d) a parent or guardian of a child refuses to consent to the taking of an intimate sample from the child under this Part, or
 
 (e) a child does not have, or the member in charge of the Garda Síochána station in which the child is detained cannot, having made reasonable efforts to do so, ascertain within a reasonable period whether he or she has, a living parent or guardian from whom consent to the taking of an intimate sample from the child may be sought under this Part, a member of the Garda Síochána not below the rank of inspector may apply to a judge of the District Court for an order authorising the taking of an intimate sample from the child.
 
-(2) A member of the Garda Síochána who intends to make an application under subsection (1)shall inform the child concerned and, if it is reasonably practicable to do so, a parent or guardian of that child, other than a parent or guardian to whom section 15(2) applies, of that intention.
+(2) A member of the Garda Síochána who intends to make an application under subsection (1) shall inform the child concerned and, if it is reasonably practicable to do so, a parent or guardian of that child, other than a parent or guardian to whom section 15(2) applies, of that intention.
 
 (3) A judge of the District Court may order—
 

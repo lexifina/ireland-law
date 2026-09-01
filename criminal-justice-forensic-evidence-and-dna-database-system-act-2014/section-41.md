@@ -36,11 +36,11 @@ Taking of samples from Garda Síochána personnel for elimination (Garda Síoch�
 
 (5) Subject to this Act, a member of the Garda Síochána or an authorised person may take, or cause to be taken, a sample under this section from a person to whom this section applies.
 
-(6) A sample that was taken before the commencement of this section from a person referred to in subsection (3)for the purpose, in relation to the investigation of offences, of ascertaining whether that person has contaminated a crime scene sample, and any DNA profile that was generated from the sample in respect of the person, shall be regarded as a sample taken from him or her under this section and a DNA profile generated from the sample to be entered in the elimination (Garda Síochána) index of the DNA Database System in respect of him or her only if—
+(6) A sample that was taken before the commencement of this section from a person referred to in subsection (3) for the purpose, in relation to the investigation of offences, of ascertaining whether that person has contaminated a crime scene sample, and any DNA profile that was generated from the sample in respect of the person, shall be regarded as a sample taken from him or her under this section and a DNA profile generated from the sample to be entered in the elimination (Garda Síochána) index of the DNA Database System in respect of him or her only if—
 
 (a) that person consents in writing to the sample and DNA profile concerned being so regarded, and
 
-(b) before the consent referred to in paragraph (a)is obtained, subsection (4) shall, with any necessary modifications, be applied in relation to that person.
+(b) before the consent referred to in paragraph (a) is obtained, subsection (4) shall, with any necessary modifications, be applied in relation to that person.
 
 (7) If a person from whom a sample is taken, or is regarded under subsection (6) as having been taken, under this section is, at any time after the sample is taken or so regarded as having been taken, assigned to duties relating to the investigation or technical examination of crime scenes or anything found at or recovered from crime scenes, the DNA profile that was generated from the sample in respect of the person shall be transferred from the elimination (Garda Síochána) index to the elimination (crime scene investigators) index of the DNA Database System.
 

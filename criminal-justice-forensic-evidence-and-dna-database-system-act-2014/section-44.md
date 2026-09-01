@@ -32,6 +32,6 @@ Taking of samples from other persons for elimination purposes
 
 (iv) used, without entering them in the DNA Database System, to ascertain whether such persons have contaminated particular crime scene samples;
 
-(g) subject to section 90 , the circumstances in which samples taken from such persons may be destroyed and the DNA profiles in respect of such persons generated from those samples may be removed from the DNA Database System or destroyed, as may be appropriate.
+(g) subject to section 90, the circumstances in which samples taken from such persons may be destroyed and the DNA profiles in respect of such persons generated from those samples may be removed from the DNA Database System or destroyed, as may be appropriate.
 
 (4) Regulations made by the Minister under this section may prescribe different circumstances and different arrangements for the taking or re-taking of samples or the destruction of samples or the destruction, or removal from the DNA Database System, of DNA profiles in accordance with this section in respect of different prescribed persons or different classes of such persons.

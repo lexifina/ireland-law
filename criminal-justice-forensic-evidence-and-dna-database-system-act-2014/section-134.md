@@ -1,6 +1,6 @@
 Application for court order authorising taking of identification evidence from protected person or child under Act of 2008
 
-134. The Act of 2008 is amended by the insertion of the following section after section 79A (inserted by section 133 ):
+134. The Act of 2008 is amended by the insertion of the following section after section 79A (inserted by section 133):
 
 “79B. (1) If—
 

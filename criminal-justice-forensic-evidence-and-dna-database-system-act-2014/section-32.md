@@ -70,9 +70,9 @@ Taking of samples from child offenders
 
 (9) Where a sample under this section has not been taken from a child offender in a children detention school or a place of detention, a member of the Garda Síochána not below the rank of inspector in the Garda Síochána district in which the child offender ordinarily resides may require the child offender by notice in writing to attend at a specified Garda Síochána station within the period specified in subsection (11)(a) for the purpose of having such a sample taken from him or her.
 
-(10) A notice under subsection (9)shall also be sent to a parent or guardian of the child offender concerned.
+(10) A notice under subsection (9) shall also be sent to a parent or guardian of the child offender concerned.
 
-(11) A requirement in a notice under subsection (9)to attend at a specified Garda Síochána station—
+(11) A requirement in a notice under subsection (9) to attend at a specified Garda Síochána station—
 
 (a) shall give the child offender concerned a period of not less than 10 working days within which he or she shall so attend, and
 

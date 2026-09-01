@@ -8,7 +8,7 @@ Use of reasonable force to take sample under section 11 or non-intimate sample
 
 (b) the taking of a non-intimate sample from a child who has not attained the age of 12 years.
 
-(3) The power referred to in subsection (1)shall not be exercised unless a member of the Garda Síochána not below the rank of superintendent authorises it.
+(3) The power referred to in subsection (1) shall not be exercised unless a member of the Garda Síochána not below the rank of superintendent authorises it.
 
 (4) Where it is intended to exercise the power conferred by subsection (1), one of the members of the Garda Síochána concerned shall inform the person concerned—
 

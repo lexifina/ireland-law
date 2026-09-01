@@ -2,11 +2,11 @@ Supplementary provisions relating to samples and DNA profiles
 
 3. (1) In this Act references to the giving of information regarding the effect of the entry of a DNA profile in respect of a person in any index of the DNA Database System shall include references to the giving of information regarding the following:
 
-(a) that the DNA profile may be compared with other DNA profiles in that System under section 68 ;
+(a) that the DNA profile may be compared with other DNA profiles in that System under section 68;
 
 (b) the effect of the DNA profile matching another DNA profile in that System;
 
-(c) in the case of a DNA profile entered, or to be entered, in the reference index of that System, other than a DNA profile entered, or to be entered, in that index of that System under section 28 , that the DNA profile may be subject to an automated search or an automated comparison with DNA profiles under Chapter 2 of Part 12 and the effect of the DNA profile matching another DNA profile following such an automated search or automated comparison;
+(c) in the case of a DNA profile entered, or to be entered, in the reference index of that System, other than a DNA profile entered, or to be entered, in that index of that System under section 28, that the DNA profile may be subject to an automated search or an automated comparison with DNA profiles under Chapter 2 of Part 12 and the effect of the DNA profile matching another DNA profile following such an automated search or automated comparison;
 
 (d) in the case of a DNA profile entered in the missing and unknown persons index of that System, that the DNA profile may be transmitted under section 142 to a law enforcement agency within the meaning of Chapter 7 of Part 12.
 
@@ -46,7 +46,7 @@ Supplementary provisions relating to samples and DNA profiles
 
 (10) Subject to subsection (11), the Director of FSI who is required under Part 10 to remove, or cause to be removed, a DNA profile from the DNA Database System shall ensure that that System is altered so that it is no longer possible to identify the person to whom the DNA profile relates.
 
-(11) Subsections (7), (8)and (10) shall operate in a manner that permits—
+(11) Subsections (7), (8) and (10) shall operate in a manner that permits—
 
 (a) the Commissioner, the Director of FSI or other person referred to in section 97 to retain such records as may be required by him or her to show that that section has been complied with, and
 

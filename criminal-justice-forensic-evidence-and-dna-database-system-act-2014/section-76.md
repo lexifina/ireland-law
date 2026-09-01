@@ -1,6 +1,6 @@
 Destruction of intimate samples and non-intimate samples in certain circumstances
 
-76. (1) Subject to section 77 , an intimate sample or a non-intimate sample taken from a person shall, if not previously destroyed, be destroyed in any of the following circumstances not later than the expiration of the period of 3 months from the date on which such circumstances first apply to the person:
+76. (1) Subject to section 77, an intimate sample or a non-intimate sample taken from a person shall, if not previously destroyed, be destroyed in any of the following circumstances not later than the expiration of the period of 3 months from the date on which such circumstances first apply to the person:
 
 (a) where proceedings for a relevant offence—
 

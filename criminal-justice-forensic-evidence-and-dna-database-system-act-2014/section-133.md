@@ -46,7 +46,7 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (b) he or she fails or refuses to comply with a notice sent to him or her under subsection (6) and he or she is arrested and detained in a Garda Síochána station, for the purpose of having a DNA sample taken from him or her, a member of the Garda Síochána may, subject to subsection (11), take, or cause to be taken, a DNA sample from him or her.
 
-(10) The provisions of sections 10(1), 14, 23 and 24, subsections (3) to (7) of section 21 and subsections (3) to (7) of section 22 , of the Act of 2014 insofar as they relate to the taking of a non-intimate sample (within the meaning of that Act) from a person shall apply, with any necessary modifications, to the taking of a DNA sample from a person under subsection (9), (13) or (17), as may be appropriate.
+(10) The provisions of sections 10(1), 14, 23 and 24, subsections (3) to (7) of section 21 and subsections (3) to (7) of section 22, of the Act of 2014 insofar as they relate to the taking of a non-intimate sample (within the meaning of that Act) from a person shall apply, with any necessary modifications, to the taking of a DNA sample from a person under subsection (9), (13) or (17), as may be appropriate.
 
 (11) Before a member of the Garda Síochána takes, or causes to be taken, a DNA sample from a person under subsection (9), (13) or (17), the member shall, as may be appropriate, inform the person of the following:
 
@@ -64,7 +64,7 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (e) that the DNA profile of the person generated from the DNA sample may be given in evidence in any proceedings in the member state concerned;
 
-(f) that the provisions of sections 10(1), 14, 23 and 24, subsections (3) to (7) of section 21 and subsections (3) to (7) of section 22 , of the Act of 2014 insofar as they relate to the taking of a non-intimate sample (within the meaning of that Act) from a person shall apply, with any necessary modifications, to the taking of the DNA sample from the person; and
+(f) that the provisions of sections 10(1), 14, 23 and 24, subsections (3) to (7) of section 21 and subsections (3) to (7) of section 22, of the Act of 2014 insofar as they relate to the taking of a non-intimate sample (within the meaning of that Act) from a person shall apply, with any necessary modifications, to the taking of the DNA sample from the person; and
 
 (g) that the DNA sample, and the DNA profile of the person generated from the sample, may be destroyed in accordance with section 79.
 
@@ -98,7 +98,7 @@ Request pursuant to Article 7 of 2008 Council Decision or that Article as applie
 
 (iii) the member state concerned is still seeking the DNA profile of the person concerned pursuant to the request concerned.
 
-(17) If an order is made under subsection (16) for the purpose of having a second DNA sample taken from the person, subsections (6) to (9)shall, with any necessary modifications, apply to the taking of the second DNA sample from him or her.
+(17) If an order is made under subsection (16) for the purpose of having a second DNA sample taken from the person, subsections (6) to (9) shall, with any necessary modifications, apply to the taking of the second DNA sample from him or her.
 
 (18) When a second DNA sample has been taken from a person who is detained pursuant to an order under subsection (16), the person shall be released from custody forthwith unless his or her detention is authorised apart from this section.
 

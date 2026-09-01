@@ -6,7 +6,7 @@ Application for court order authorising taking of intimate sample from protected
 
 (b) a parent or guardian of a protected person indicates to a member of the Garda Síochána that he or she cannot or will not attend at the Garda Síochána station in which the person is detained within a reasonable time for the purposes of giving consent to the taking of an intimate sample from the person under this Part,
 
-(c) subject to subsection (3) of section 15 , the circumstances referred to in subsection (2) of that section exist in relation to a parent or guardian of a protected person,
+(c) subject to subsection (3) of section 15, the circumstances referred to in subsection (2) of that section exist in relation to a parent or guardian of a protected person,
 
 (d) a parent or guardian of a protected person refuses to consent to the taking of an intimate sample from the person under this Part, or
 
@@ -18,7 +18,7 @@ Application for court order authorising taking of intimate sample from protected
 
 (a) that an application under subsection (1) shall be heard otherwise than in public, or
 
-(b) that a parent or guardian of the protected person concerned to whom section 15(2)applies shall be excluded from the Court during the hearing of the application, or both if—
+(b) that a parent or guardian of the protected person concerned to whom section 15(2) applies shall be excluded from the Court during the hearing of the application, or both if—
 
 (i) on an application in that behalf by a member of the Garda Síochána not below the rank of inspector, the judge is satisfied that it is desirable to do so in order to avoid a risk of prejudice to the investigation of the relevant offence in respect of which the protected person concerned is detained, or
 
@@ -40,6 +40,6 @@ Application for court order authorising taking of intimate sample from protected
 
 (7) If, on an application under subsection (1) in relation to a protected person who is detained under section 4 of the Act of 1984, a judge of the District Court makes an order under subsection (6), the judge may, on an application in that behalf by a member of the Garda Síochána not below the rank of inspector, issue a warrant authorising the detention of the protected person concerned for such further period as the judge may determine but not exceeding 4 hours for the purpose of having an intimate sample taken from that person.
 
-(8) Subsection (7)shall not affect the operation of section 4(3) of the Act of 1984.
+(8) Subsection (7) shall not affect the operation of section 4(3) of the Act of 1984.
 
 (9) When an intimate sample has been taken from a protected person who is detained pursuant to a warrant issued under subsection (7), the person shall be released from custody forthwith unless his or her detention is authorised apart from this section.

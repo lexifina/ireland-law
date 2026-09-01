@@ -40,7 +40,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (6) Subject to subsection (7), the Commissioner may, while an authorisation under subsection (4) or (5), as may be appropriate, is still in force, give an authorisation under this subsection to extend the retention period on a second or further occasion for a further period commencing on the expiration of the period of 12 months to which the authorisation previously given relates if he or she makes a determination under subsection (1) on the basis that subsection (2)(b) applies.
 
-(7) An authorisation under subsection (4), (5)or (6) may not be given if to do so would involve the retention of the DNA profile of the person concerned—
+(7) An authorisation under subsection (4), (5) or (6) may not be given if to do so would involve the retention of the DNA profile of the person concerned—
 
 (a) in the case of a child or a protected person, for a period of more than 3 years from—
 
@@ -62,7 +62,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (i) the taking of the sample concerned from the child or protected person, as the case may be, or
 
-(ii) if appropriate, the date on which that sample is deemed under section 86to have been taken from him or her, whichever is the later, and
+(ii) if appropriate, the date on which that sample is deemed under section 86 to have been taken from him or her, whichever is the later, and
 
 (b) in the case of any other person, a period of 6 years from—
 
@@ -76,7 +76,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (b) if the person is a protected person or a child, a parent or guardian of the person or child, as the case may be, to be informed by notice in writing that the authorisation has been given under subsection (4), (5), (6) or (8), as may be appropriate, the date on which that authorisation was given and of the right of appeal under subsection (11).
 
-(11) The person to whom the authorisation concerned relates (in this section called “the appellant”) or, if that person is a child or a protected person, a parent or guardian on his or her behalf may, within the period of 3 months from the date of the notice under subsection (10)concerned, appeal to the District Court against that authorisation.
+(11) The person to whom the authorisation concerned relates (in this section called “the appellant”) or, if that person is a child or a protected person, a parent or guardian on his or her behalf may, within the period of 3 months from the date of the notice under subsection (10) concerned, appeal to the District Court against that authorisation.
 
 (12) An appeal under subsection (11) shall—
 

@@ -44,6 +44,6 @@ Amendment of section 76 of Act of 2008
 
 (d) the addition of the following subsections after subsection (1):
 
-“(2) The reference in the definition of ‘protected person’ in subsection (1)to a mental or physical disability in relation to a person (including a child) shall be construed as not including a reference to the person being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances.
+“(2) The reference in the definition of ‘protected person’ in subsection (1) to a mental or physical disability in relation to a person (including a child) shall be construed as not including a reference to the person being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances.
 
 (3) In the application of this Chapter in relation to a protected person or a child who is married, the references in sections 79 and 79B to a parent or guardian of the person or child, as the case may be, shall be construed as references to his or her spouse.”.

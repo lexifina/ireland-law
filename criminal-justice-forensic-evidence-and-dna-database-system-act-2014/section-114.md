@@ -6,7 +6,7 @@ Automated comparison of unidentified DNA profiles supplied by designated state w
 
 (a) the crime scene index, and
 
-(b) the reference index, other than DNA profiles entered in that index under section 28 , for the purposes of conducting an automated comparison of unidentified DNA profiles supplied in an automated way by the national contact point of that designated state with the DNA profiles referred to in paragraphs (a) and (b) to ascertain whether there is a match between any of them.
+(b) the reference index, other than DNA profiles entered in that index under section 28, for the purposes of conducting an automated comparison of unidentified DNA profiles supplied in an automated way by the national contact point of that designated state with the DNA profiles referred to in paragraphs (a) and (b) to ascertain whether there is a match between any of them.
 
 (3) The national contact point shall ensure that, following a comparison of DNA profiles by the national contact point of a designated state pursuant to subsection (2), an automated response is sent from the DNA Database System to that national contact point comprising—
 

@@ -10,7 +10,7 @@ Application of Act of 1988
 
 (i) Chapter 2 or the provisions of that Chapter,
 
-(ii) Chapter 3or the provisions of that Chapter, and
+(ii) Chapter 3 or the provisions of that Chapter, and
 
 (iii) Chapter 3 of Part 5 of the Act of 2008 insofar as that Chapter applies to an Article 7 request or the provisions of that Chapter insofar as they apply to such a request.
 
@@ -84,13 +84,13 @@ Application of Act of 1988
 
 (3) Where—
 
-(a) the Minister or the Commissioner of the Garda Síochána pays damages to a data subject under this section for damage caused to the data subject by reason of inaccurate data received by the national contact point in relation to DNA data or the national contact point in relation to dactyloscopic data, as may be appropriate, from a body in a designated state pursuant to Chapter 2 or 3 of Part 12of the Act of 2014, or
+(a) the Minister or the Commissioner of the Garda Síochána pays damages to a data subject under this section for damage caused to the data subject by reason of inaccurate data received by the national contact point in relation to DNA data or the national contact point in relation to dactyloscopic data, as may be appropriate, from a body in a designated state pursuant to Chapter 2 or 3 of Part 12 of the Act of 2014, or
 
 (b) the Minister, the Commissioner of the Garda Síochána or the Director of Public Prosecutions pays damages to a data subject under this section for damage caused to the data subject by reason of inaccurate data received by the Central Authority, the Garda Síochána or the Director of Public Prosecutions, as may be appropriate, from a body in a Member State or Iceland or Norway pursuant to an Article 7 request, the Minister, the Commissioner of the Garda Síochána or the Director of Public Prosecutions, as the case may be, may seek a refund of the amount that he or she paid in damages to the data subject concerned from the body in the designated state concerned.
 
 (4) Where—
 
-(a) a body in a designated state applies to the national contact point in relation to DNA data or the national contact point in relation to dactyloscopic data for a refund of damages paid by it, or on its behalf, on foot of a decision or finding of a court or other tribunal or the data protection authority in that designated state for damage caused to a data subject by reason of inaccurate data sent by the national contact point concerned to that body pursuant to Chapter 2or 3 of Part 12 of the Act of 2014, or
+(a) a body in a designated state applies to the national contact point in relation to DNA data or the national contact point in relation to dactyloscopic data for a refund of damages paid by it, or on its behalf, on foot of a decision or finding of a court or other tribunal or the data protection authority in that designated state for damage caused to a data subject by reason of inaccurate data sent by the national contact point concerned to that body pursuant to Chapter 2 or 3 of Part 12 of the Act of 2014, or
 
 (b) a body in a Member State or Iceland or Norway applies to the Minister or the Director of Public Prosecutions for a refund of damages paid by it, or on its behalf, on foot of a decision or finding of a court or other tribunal or the data protection authority in that Member State or Iceland or Norway, as the case may be, for damage caused to a data subject by reason of inaccurate data sent by the Minister or the Director of Public Prosecutions, as the case may be, to that body pursuant to an Article 7 request, the Minister or the Commissioner of the Garda Síochána, as may be appropriate, in the circumstances referred to in paragraph (a), or the Minister or the Director of Public Prosecutions, as may be appropriate, in the circumstances referred to in paragraph (b), shall refund to the body in the designated state concerned the amount paid in damages by it, or on its behalf, to the data subject concerned.”,
 
@@ -110,7 +110,7 @@ Application of Act of 1988
 
 (i) Chapter 2 of Part 12 of the Act of 2014,
 
-(ii) Chapter 3of that Part of that Act, and
+(ii) Chapter 3 of that Part of that Act, and
 
 (iii) an Article 7 request, shall be monitored by the Commissioner.
 

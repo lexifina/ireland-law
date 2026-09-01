@@ -32,7 +32,7 @@ Regulations regarding taking of samples
 
 (v) an application or a request relating to the destruction of a sample, or the removal of a DNA profile from the DNA Database System, or both made under Part 10;
 
-(vi) a notice sent or given by the Commissioner to a person (or child) under section 98 ;
+(vi) a notice sent or given by the Commissioner to a person (or child) under section 98;
 
 (vii) particulars of the location, time and manner of the taking of a sample authorised to be taken by a member of the Garda Síochána under this Act;
 

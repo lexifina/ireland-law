@@ -4,9 +4,7 @@ Re-arrest in case of match of DNA profiles
 
 (a) the offence in relation to which he or she was detained under section 30 of the Act of 1939, section 4 of the Act of 1984, section 2 of the Act of 1996 or section 50 of the Act of 2007, as the case may be, or
 
-(b) any other offence of which, at the time of the first arrest, the member of the Garda Síochána by whom he or she was arrested suspected, or ought reasonably to have suspected, him or her of having committed, is that the Garda Síochána have, since the person’s release, obtained the results of the forensic testing of a sample taken under the Criminal Justice (Forensic Evidence) Act 1990 or otherwise or under Part 2 from the person while he or she was detained under section 30 of the Act of 1939, section 4 of the Act of 1984, section 2 of the Act of 1996 or section 50 of the Act of 2007, as the case may be, and those results indicate a match of the person’s DNA profile with a DNA profile generated from a sample taken from the crime scene in respect of the offence for which the arrest of the person is sought.
-
-Table
+(b) any other offence of which, at the time of the first arrest, the member of the Garda Síochána by whom he or she was arrested suspected, or ought reasonably to have suspected, him or her of having committed, is that the Garda Síochána have, since the person’s release, obtained the results of the forensic testing of a sample taken under the Criminal Justice (Forensic Evidence) Act 1990 or otherwise or under Part 2 from the person while he or she was detained under section 30 of the Act of 1939, section 4 of the Act of 1984, section 2 of the Act of 1996 or section 50 of the Act of 2007, as the case may be, and those results indicate a match of the person’s DNA profile with a DNA profile generated from a sample taken from the crime scene in respect of the offence for which the arrest of the person is sought. Table
 
 Number and Year Short Title Provision amended
 

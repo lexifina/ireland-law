@@ -4,7 +4,7 @@ Direction from Director of FSI for sample to be taken for elimination purposes
 
 (2) A direction may be given under subsection (1) in respect of a member of the staff of FSI other than a member of staff to whom section 43(2) applies.
 
-(3) A direction under subsection (1)shall be given in writing and the Director of FSI shall give, or cause to be given, a copy of it to the member of the staff of FSI to whom it relates.
+(3) A direction under subsection (1) shall be given in writing and the Director of FSI shall give, or cause to be given, a copy of it to the member of the staff of FSI to whom it relates.
 
 (4) A person who is authorised in writing by the Director of FSI to take samples under this section shall inform a member of the staff of FSI of the following before taking, or causing to be taken, such a sample from him or her:
 

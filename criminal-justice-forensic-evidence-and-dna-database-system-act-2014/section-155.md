@@ -12,6 +12,6 @@ Further provisions regarding taking of samples under this Act or certain identif
 
 (4) In this section “identification evidence” —
 
-(a) in the case of the Act of 2008, has the meaning given to it by section 76of that Act other than a fingerprint, palm print or photograph of a person, and
+(a) in the case of the Act of 2008, has the meaning given to it by section 76 of that Act other than a fingerprint, palm print or photograph of a person, and
 
 (b) in the case of the Act of 2006, has the meaning given to it by section 50 of that Act other than a fingerprint, palm print, iris identification or photograph of a person.

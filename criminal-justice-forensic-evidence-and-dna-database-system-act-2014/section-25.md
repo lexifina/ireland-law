@@ -60,7 +60,7 @@ Re-taking of certain samples under Part 2 in certain circumstances
 
 (13) When a second non-intimate sample has been taken from a person who is detained pursuant to a warrant issued under subsection (11), the person shall be released from custody forthwith unless his or her detention is authorised apart from this section.
 
-(14) Nothing in this section shall require the second non-intimate sample to be taken from a person under this section to be of the same type of biological material as the first sample taken from the person which proved to be insufficient or was inadequately labelled, provided that the second sample concerned is one that is permitted to be taken under section 13 .
+(14) Nothing in this section shall require the second non-intimate sample to be taken from a person under this section to be of the same type of biological material as the first sample taken from the person which proved to be insufficient or was inadequately labelled, provided that the second sample concerned is one that is permitted to be taken under section 13.
 
 (15) If a second non-intimate sample is taken from a person under subsection (1), the references in this section other than in that subsection—
 

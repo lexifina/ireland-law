@@ -2,7 +2,7 @@
 
 Power to take samples from persons in custody of Garda Síochána
 
-9. (1) Where a person is detained under any of the following provisions, a sample under section 11 , an intimate sample or a non-intimate sample or more than one sample may be taken from the person:
+9. (1) Where a person is detained under any of the following provisions, a sample under section 11, an intimate sample or a non-intimate sample or more than one sample may be taken from the person:
 
 (a) section 30 of the Act of 1939;
 

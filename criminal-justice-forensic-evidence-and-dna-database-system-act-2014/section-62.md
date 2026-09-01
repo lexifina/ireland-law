@@ -8,4 +8,4 @@ Reference index
 
 (c) generated from samples taken from persons referred to in section 7(3), and
 
-(d) received and entered in that index under Chapter 7of Part 12.
+(d) received and entered in that index under Chapter 7 of Part 12.

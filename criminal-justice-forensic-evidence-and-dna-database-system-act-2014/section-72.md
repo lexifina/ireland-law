@@ -16,7 +16,7 @@ Functions of Committee
 
 (f) the practices and procedures employed by the Director of FSI in the operation of Chapters 2 and 7 of Part 12, and
 
-(g) the practices and procedures employed by the Director of FSI in the operation of section 4 .
+(g) the practices and procedures employed by the Director of FSI in the operation of section 4.
 
 (3) The Committee shall, in the performance of its functions under subsections (1) and (2), make such recommendations as it considers appropriate in relation to the management and operation of the DNA Database System to the Minister and the Director of FSI, as may be appropriate.
 

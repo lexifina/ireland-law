@@ -10,7 +10,7 @@ Taking of samples from volunteers to generate DNA profiles
 
 (2) A person who is a victim, or is reasonably considered to be a victim, of the offence or incident that may have involved the commission of an offence being investigated may be a volunteer.
 
-(3) Subject to sections 53and 55, a member of the Garda Síochána or an authorised person shall inform a volunteer of the following before seeking his or her consent to the taking of a sample under this section or the member or authorised person takes, or causes to be taken, such a sample from him or her:
+(3) Subject to sections 53 and 55, a member of the Garda Síochána or an authorised person shall inform a volunteer of the following before seeking his or her consent to the taking of a sample under this section or the member or authorised person takes, or causes to be taken, such a sample from him or her:
 
 (a) that the volunteer is not obliged to have the sample taken from him or her;
 
@@ -32,6 +32,6 @@ Taking of samples from volunteers to generate DNA profiles
 
 (7) Subject to section 58, if a volunteer expressly withdraws consent given under subsection (4) (or if the withdrawal of that consent can reasonably be inferred from the conduct of the person) before or during the taking of a sample under this section, that withdrawal of consent shall be treated as a refusal to give consent to the taking of the sample under this section.
 
-(8) A withdrawal under subsection (7)of consent given under subsection (4)shall be confirmed in writing as soon as practicable after such withdrawal.
+(8) A withdrawal under subsection (7) of consent given under subsection (4) shall be confirmed in writing as soon as practicable after such withdrawal.
 
 (9) A refusal of a person to give consent under subsection (4) shall not of itself constitute reasonable cause for a member of the Garda Síochána to suspect the person of having committed the offence concerned for the purpose of arresting and detaining him or her under any of the provisions referred to in section 9(1) in connection with the investigation of that offence.

@@ -26,7 +26,7 @@ Interpretation (Part 12)
 
 “DNA analysis files”, in relation to a designated state, means the national DNA analysis files by whatever name called established and kept by that designated state for the investigation of criminal offences;
 
-“designated state” means a Member State, Iceland, Norway or any other state designated under section 110 ;
+“designated state” means a Member State, Iceland, Norway or any other state designated under section 110;
 
 “European Union or international instrument” means any of the following European Union or international instruments or agreements, or provisions thereof, between the State and other states or another state insofar as they concern cooperation in relation to—
 
