@@ -1,4 +1,4 @@
-F116[Regulations regarding disposal of certain firearms
+F123[Regulations regarding disposal of certain firearms
 
 26A.— Without prejudice to the operation of any other section of this Act, the Minister may, following consultation with the Commissioner, make regulations—
 

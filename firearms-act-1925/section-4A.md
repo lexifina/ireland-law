@@ -1,4 +1,4 @@
-F47[Authorisation of rifle or pistol clubs or shooting ranges.
+F50[Authorisation of rifle or pistol clubs or shooting ranges.
 
 4A.— (1) A rifle or pistol club or the owner or operator of a rifle or pistol shooting range shall not allow any firearm or ammunition to be used or stored on the premises of or at the club or shooting range in connection with target shooting unless an authorisation under this section to do so is in force.
 

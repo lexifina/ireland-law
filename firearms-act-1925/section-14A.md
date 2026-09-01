@@ -1,4 +1,4 @@
-F86[Offences regarding alteration of marking of firearms
+F91[Offences regarding alteration of marking of firearms
 
 14A. (1) A person who, unless—
 
@@ -22,9 +22,9 @@ F86[Offences regarding alteration of marking of firearms
 
 (3) In this section—
 
-"Act of 1968" means the Firearms (Proofing) Act 1968;
+“Act of 1968” means the Firearms (Proofing) Act 1968;
 
-"marking of a firearm" means—
+“marking of a firearm” means—
 
 (a) a mark to which section 4(1)(a) of the Act of 1968 refers,
 
@@ -42,4 +42,4 @@ F86[Offences regarding alteration of marking of firearms
 
 (h) a mark to which Regulation 7 of the Principal Regulations refers;
 
-"Principal Regulations" means the European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022 ( S.I. No. 209 of 2022).
+“Principal Regulations” means the European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022 ( S.I. No. 209 of 2022).

@@ -1,4 +1,4 @@
-F50[Minimum standards for Garda shooting ranges
+F53[Minimum standards for Garda shooting ranges
 
 4AA.— (1) The Minister, after consultation with the Commissioner, may prescribe minimum standards to be complied with by a shooting range owned or operated by the Garda Síochána.
 
