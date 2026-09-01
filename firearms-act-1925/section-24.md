@@ -22,9 +22,9 @@ Search orders.
 
 (6) In this section—
 
-"independent of", in relation to the investigation of an offence, means not being in charge of, or involved in, that investigation;
+“independent of”, in relation to the investigation of an offence, means not being in charge of, or involved in, that investigation;
 
-"place" includes—
+“place” includes—
 
 (a) a dwelling or a part thereof,
 
@@ -36,8 +36,4 @@ Search orders.
 
 (e) an aircraft, whether capable of operation or not, and
 
-(f) a hovercraft. other punishment is provided is liable in respect of each such offence—
-
-(a) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both, or
-
-(b) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 5 years or both.
+(f) a hovercraft.
