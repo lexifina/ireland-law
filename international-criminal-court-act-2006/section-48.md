@@ -1,6 +1,6 @@
 Currency of payments under enforcement orders.
 
-48.— (1) An amount payable in the State under an enforceable ICC order shall be paid in euro.
+48.—(1) An amount payable in the State under an enforceable ICC order shall be paid in euro.
 
 (2) If the amount payable is expressed in the enforceable ICC order in a currency other than the euro, the payment shall be made on the basis of the exchange rate prevailing, on the date the enforcement order is made, between the euro and that currency.
 

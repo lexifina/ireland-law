@@ -1,6 +1,6 @@
 Winding up of company holding realisable property.
 
-46.— (1) In this section—
+46.—(1) In this section—
 
 “company” means any company which may be wound up under the Companies Acts 1963 to 2005;
 

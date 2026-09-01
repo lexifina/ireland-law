@@ -1,6 +1,6 @@
 Consent to surrender.
 
-29.— (1) A person arrested in accordance with a warrant issued under section 20 or 22 may consent to be surrendered to the custody of the International Criminal Court or, in the case of a person convicted by it, of the state of enforcement.
+29.—(1) A person arrested in accordance with a warrant issued under section 20 or 22 may consent to be surrendered to the custody of the International Criminal Court or, in the case of a person convicted by it, of the state of enforcement.
 
 (2) The person shall give notice of intention to consent to surrender—
 
@@ -18,7 +18,7 @@ Consent to surrender.
 
 (b) if such an order has been made, order that the person be returned to custody to await his or her surrender.
 
-(6) (a) A person who has consented to surrender in accordance with this section may, at any time up to the making of an order by the Minister under section 30 , withdraw the consent.
+(6) (a) A person who has consented to surrender in accordance with this section may, at any time up to the making of an order by the Minister under section 30, withdraw the consent.
 
 (b) On such withdrawal the person—
 

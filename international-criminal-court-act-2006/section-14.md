@@ -1,6 +1,6 @@
 Protection of victims and witnesses.
 
-14.— (1) In proceedings for an offence under this Part—
+14.—(1) In proceedings for an offence under this Part—
 
 (a) the measures specified in paragraphs 1 and 5 of Article 68 (protection of victims and witnesses and their participation in proceedings) shall, where appropriate, be taken during the investigation and prosecution of the offence, and
 

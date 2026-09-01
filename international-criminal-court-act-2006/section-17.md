@@ -1,6 +1,6 @@
 Request for arrest and surrender.
 
-17.— (1) A request by the International Criminal Court for the arrest and surrender of a person shall be communicated to the Minister in accordance with Articles 87, 89 and 91.
+17.—(1) A request by the International Criminal Court for the arrest and surrender of a person shall be communicated to the Minister in accordance with Articles 87, 89 and 91.
 
 (2) The request shall be accompanied by—
 

@@ -1,6 +1,6 @@
 Interpretation by courts of Act and Statute.
 
-3.— (1) In interpreting the Act and Statute a court, where necessary, may—
+3.—(1) In interpreting the Act and Statute a court, where necessary, may—
 
 (a) take account of the Rules of Procedure and Evidence, the Elements of Crimes and any relevant judgment or decision of the International Criminal Court,
 

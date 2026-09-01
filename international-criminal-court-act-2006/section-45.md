@@ -1,6 +1,6 @@
 Property dealt with by Official Assignee.
 
-45.— (1) Without prejudice to the generality of any provision of any other enactment, where—
+45.—(1) Without prejudice to the generality of any provision of any other enactment, where—
 
 (a) the Official Assignee or a trustee appointed under Part V of the Act of 1988 seizes or disposes of any property in relation to which his or her functions are not exercisable because it is for the time being subject to a freezing order or an enforceable ICC order, and
 
@@ -14,4 +14,4 @@ Property dealt with by Official Assignee.
 
 (a) incurs expenses in respect of such property, and
 
-(b) does not know, and does not have reasonable grounds for believing, that the property is for the time being subject to a freezing order or an enforceable ICC order, he or she is entitled (whether or not he or she has seized or disposed of the property so as to have a lien) to payment of those expenses under section 49 .
+(b) does not know, and does not have reasonable grounds for believing, that the property is for the time being subject to a freezing order or an enforceable ICC order, he or she is entitled (whether or not he or she has seized or disposed of the property so as to have a lien) to payment of those expenses under section 49.

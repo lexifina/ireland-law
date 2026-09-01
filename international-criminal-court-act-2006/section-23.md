@@ -1,6 +1,6 @@
 Execution of arrest warrants.
 
-23.— (1) A member of the Garda Síochána may execute a warrant issued under section 20 or 22 even if the warrant is not in the member's possession.
+23.—(1) A member of the Garda Síochána may execute a warrant issued under section 20 or 22 even if the warrant is not in the member's possession.
 
 (2) The member executing the warrant shall show the warrant to the arrested person and give him or her a copy of it—
 

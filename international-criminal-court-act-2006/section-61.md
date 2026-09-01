@@ -1,6 +1,6 @@
 State or diplomatic immunity, etc.
 
-61.— (1) In accordance with Article 27, any diplomatic immunity or state immunity attaching to a person by reason of a connection with a state party to the Statute is not a bar to proceedings under this Act in relation to the person.
+61.—(1) In accordance with Article 27, any diplomatic immunity or state immunity attaching to a person by reason of a connection with a state party to the Statute is not a bar to proceedings under this Act in relation to the person.
 
 (2) In this section—
 

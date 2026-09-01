@@ -84,9 +84,7 @@ Crimes within the jurisdiction of the Court
 
 Article 6
 
-Genocide
-
-For the purpose of this Statute, “genocide” means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
+Genocide For the purpose of this Statute, “genocide” means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
 
 (a) Killing members of the group;
 
@@ -718,7 +716,7 @@ Judicial vacancies
 
 1. In the event of a vacancy, an election shall be held in accordance with article 36 to fill the vacancy.
 
-2. A judge elected to fill a vacancy shall serve for the remainder of the predecessor's term and, if that period is three years or less, shall be eligible for re-election for a full term under article 36.
+2. A judge elected to fill a vacancy shall serve for the remainder of the prede-cessor's term and, if that period is three years or less, shall be eligible for re-election for a full term under article 36.
 
 Article 38
 
@@ -726,7 +724,7 @@ The Presidency
 
 1. The President and the First and Second Vice-Presidents shall be elected by an absolute majority of the judges. They shall each serve for a term of three years or until the end of their respective terms of office as judges, whichever expires earlier. They shall be eligible for re-election once.
 
-2. The First Vice-President shall act in place of the President in the event that the President is unavailable or disqualified. The Second Vice-President shall act in place of the President in the event that both the President and the First Vice-President are unavailable or disqualified.
+2. The First Vice-President shall act in place of the President in the event that the President is unavailable or disqualified. The Second Vice-President shall act in place of the President in the event that both the President and the First Vice- President are unavailable or disqualified.
 
 3. The President, together with the First and Second Vice-Presidents, shall constitute the Presidency, which shall be responsible for:
 
@@ -1204,7 +1202,7 @@ The Pre-Trial Chamber may issue orders regarding the disclosure of information f
 
 (c) Present evidence.
 
-7. The Pre-Trial Chamber shall, on the basis of the hearing, determine whether there is sufficient evidence to establish substantial grounds to believe that the person committed each of the crimes charged. Based on its determination, the Pre-Trial Chamber shall:
+7. The Pre-Trial Chamber shall, on the basis of the hearing, determine whether there is sufficient evidence to establish substantial grounds to believe that the person committed each of the crimes charged. Based on its determination, the Pre- Trial Chamber shall:
 
 (a) Confirm those charges in relation to which it has determined that there is sufficient evidence, and commit the person to a Trial Chamber for trial on the charges as confirmed;
 
@@ -1636,9 +1634,7 @@ Proceedings on appeal
 
 (a) Reverse or amend the decision or sentence; or
 
-(b) Order a new trial before a different Trial Chamber.
-
-For these purposes, the Appeals Chamber may remand a factual issue to the original Trial Chamber for it to determine the issue and to report back accordingly, or may itself call evidence to determine the issue. When the decision or sentence has been appealed only by the person convicted, or the Prosecutor on that person's behalf, it cannot be amended to his or her detriment.
+(b) Order a new trial before a different Trial Chamber. For these purposes, the Appeals Chamber may remand a factual issue to the original Trial Chamber for it to determine the issue and to report back accordingly, or may itself call evidence to determine the issue. When the decision or sentence has been appealed only by the person convicted, or the Prosecutor on that person's behalf, it cannot be amended to his or her detriment.
 
 3. If in an appeal against sentence the Appeals Chamber finds that the sentence is disproportionate to the crime, it may vary the sentence in accordance with Part 7.
 
@@ -1716,7 +1712,9 @@ Subsequent changes to this choice shall be made in accordance with the Rules of 
 
 Article 88
 
-Availability of procedures under national law States Parties shall ensure that there are procedures available under their national law for all of the forms of cooperation which are specified under this Part.
+Availability of procedures under national law
+
+States Parties shall ensure that there are procedures available under their national law for all of the forms of cooperation which are specified under this Part.
 
 Article 89
 
@@ -1902,7 +1900,9 @@ Postponement of execution of a request in respect of ongoing investigation or pr
 
 Article 95
 
-Postponement of execution of a request in respect of an admissibility challenge Where there is an admissibility challenge under consideration by the Court pursuant to article 18 or 19, the requested State may postpone the execution of a request under this Part pending a determination by the Court, unless the Court has specifically ordered that the Prosecutor may pursue the collection of such evidence pursuant to article 18 or 19.
+Postponement of execution of a request in respect of an admissibility challenge
+
+Where there is an admissibility challenge under consideration by the Court pursuant to article 18 or 19, the requested State may postpone the execution of a request under this Part pending a determination by the Court, unless the Court has specifically ordered that the Prosecutor may pursue the collection of such evidence pursuant to article 18 or 19.
 
 Article 96
 
@@ -2196,7 +2196,9 @@ Without prejudice to article 115, the Court may receive and utilize, as addition
 
 Article 117
 
-Assessment of contributions The contributions of States Parties shall be assessed in accordance with an agreed scale of assessment, based on the scale adopted by the United Nations for its regular budget and adjusted in accordance with the principles on which that scale is based.
+Assessment of contributions
+
+The contributions of States Parties shall be assessed in accordance with an agreed scale of assessment, based on the scale adopted by the United Nations for its regular budget and adjusted in accordance with the principles on which that scale is based.
 
 Article 118
 
@@ -2292,6 +2294,8 @@ Article 128
 
 Authentic texts
 
-The original of this Statute, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
+The original of this Statute, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General of the United Nations, who shall send certified copies thereof to all States.
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute. DONE at Rome, this 17th day of July 1998.
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute.
+
+DONE at Rome, this 17th day of July 1998.

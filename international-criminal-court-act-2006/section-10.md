@@ -1,6 +1,6 @@
 Penalty for ICC offence.
 
-10.— (1) A person convicted of an ICC offence is liable—
+10.—(1) A person convicted of an ICC offence is liable—
 
 (a) to imprisonment for life if—
 

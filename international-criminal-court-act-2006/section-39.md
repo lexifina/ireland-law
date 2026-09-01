@@ -1,6 +1,6 @@
 Registration of freezing orders.
 
-39.— (1) (a) Where a freezing order is made in relation to land, or an order is made varying or discharging such an order, the registrar of the High Court shall send to the Registrar of Titles and Deeds a notice of the making of the order, together with a copy of the order.
+39.—(1) (a) Where a freezing order is made in relation to land, or an order is made varying or discharging such an order, the registrar of the High Court shall send to the Registrar of Titles and Deeds a notice of the making of the order, together with a copy of the order.
 
 (b) If it appears from the freezing order, or the Registrar is otherwise aware, that the land is registered land, the Registrar shall thereupon—
 

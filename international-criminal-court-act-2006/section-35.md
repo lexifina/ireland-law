@@ -1,6 +1,6 @@
 Imprisoned or detained persons whose surrender requested.
 
-35.— (1) This section applies to a person who is subject to a surrender order and is also liable to serve, or is serving, a sentence of imprisonment or detention.
+35.—(1) This section applies to a person who is subject to a surrender order and is also liable to serve, or is serving, a sentence of imprisonment or detention.
 
 (2) A person to whom this section applies shall continue to be liable to serve, or continue to serve, the sentence.
 

@@ -1,6 +1,6 @@
 Effect of release under this Part.
 
-16.— Where—
+16.—Where—
 
 (a) a person whose surrender has been requested by the International Criminal Court for an offence within its jurisdiction is in custody under this Part, and
 

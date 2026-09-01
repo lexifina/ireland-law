@@ -1,6 +1,6 @@
 Receivers: supplementary provision.
 
-43.— A receiver who—
+43.—A receiver who—
 
 (a) takes any action in relation to property which is not realisable property, being an action which a receiver would be entitled to take if it were realisable property, and
 

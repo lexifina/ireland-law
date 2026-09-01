@@ -1,6 +1,6 @@
 Transit.
 
-56.— (1) In this section “transferee” means a person who—
+56.—(1) In this section “transferee” means a person who—
 
 (a) is being surrendered to the International Criminal Court under Article 89 by another state,
 
@@ -32,11 +32,7 @@ Transit.
 
 (ii) inform the Court that, if the request is not received within that period, the person will be released.
 
-(c) If the request is not received by the Minister before the end of the period mentioned in paragraph
-
-(b)
-
-(ii) , the Minister shall order the person's release.
+(c) If the request is not received by the Minister before the end of the period mentioned in paragraph (b)(ii), the Minister shall order the person's release.
 
 (d) The release is not a bar to the arrest of the person on foot of a subsequent request from the Court for his or her surrender.
 

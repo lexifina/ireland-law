@@ -146,7 +146,9 @@ Facilities in respect of communications
 
 Article 12
 
-Exercise of the functions of the Court outside its headquarters In the event that the Court, pursuant to article 3, paragraph 3, of the Statute, considers it desirable to sit elsewhere than at its headquarters at The Hague in the Netherlands, the Court may conclude with the State concerned an arrangement concerning the provision of the appropriate facilities for the exercise of its functions.
+Exercise of the functions of the Court outside its headquarters
+
+In the event that the Court, pursuant to article 3, paragraph 3, of the Statute, considers it desirable to sit elsewhere than at its headquarters at The Hague in the Netherlands, the Court may conclude with the State concerned an arrangement concerning the provision of the appropriate facilities for the exercise of its functions.
 
 Article 13
 
@@ -334,7 +336,9 @@ Other persons required to be present at the seat of the Court
 
 Article 23
 
-Nationals and permanent residents At the time of signature, ratification, acceptance, approval or accession, any State may declare that:
+Nationals and permanent residents
+
+At the time of signature, ratification, acceptance, approval or accession, any State may declare that:
 
 (a) Without prejudice to paragraph 6 of article 15 and paragraph 1(d) of article 16, a person referred to in articles 15, 16, 18, 19 and 21 shall, in the territory of the State Party of which he or she is a national or permanent resident, enjoy only the following privileges and immunities to the extent necessary for the independent performance of his or her functions or his or her appearance or testimony before the Court:
 
@@ -362,7 +366,9 @@ Cooperation with the authorities of States Parties
 
 Article 25
 
-Waiver of privileges and immunities provided for in articles 13 and 14 Privileges and immunities provided for in articles 13 and 14 of the present Agreement are accorded to the representatives of States and intergovernmental organizations not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the work of the Assembly, its subsidiary organs and the Court. Consequently, States Parties not only have the right but are under a duty to waive the privileges and immunities of their representatives in any case where, in the opinion of those States, they would impede the course of justice and can be waived without prejudice to the purpose for which the privileges and immunities are accorded. States not party to the present Agreement and intergovernmental organizations are granted the privileges and immunities provided for in articles 13 and 14 of the present Agreement on the understanding that they undertake the same duty regarding waiver.
+Waiver of privileges and immunities provided for in articles 13 and 14
+
+Privileges and immunities provided for in articles 13 and 14 of the present Agreement are accorded to the representatives of States and intergovernmental organizations not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the work of the Assembly, its subsidiary organs and the Court. Consequently, States Parties not only have the right but are under a duty to waive the privileges and immunities of their representatives in any case where, in the opinion of those States, they would impede the course of justice and can be waived without prejudice to the purpose for which the privileges and immunities are accorded. States not party to the present Agreement and intergovernmental organizations are granted the privileges and immunities provided for in articles 13 and 14 of the present Agreement on the understanding that they undertake the same duty regarding waiver.
 
 Article 26
 
@@ -504,6 +510,6 @@ Article 39
 
 Authentic texts
 
-The original of the present Agreement, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General.
+The original of the present Agreement, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General.
 
 IN WITNESS THEREOF, the undersigned, being duly authorized thereto, have signed the present Agreement.

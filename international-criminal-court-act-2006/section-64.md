@@ -1,6 +1,6 @@
 Regulations.
 
-64.— (1) The Minister may from time to time make such regulations as appear to him or her to be necessary or expedient for giving full effect to this Act or any provision of it.
+64.—(1) The Minister may from time to time make such regulations as appear to him or her to be necessary or expedient for giving full effect to this Act or any provision of it.
 
 (2) Without prejudice to the generality of the foregoing, the regulations may provide for—
 
