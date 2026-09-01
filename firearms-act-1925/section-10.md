@@ -24,7 +24,7 @@ Restrictions on manufacture and sale of firearms.
 
 (b) This subsection is without prejudice to the other provisions of this section and to section 16 of this Act but subsection (4) of that section does not apply to a firearm or ammunition for a firearm carried by a person from the State for the purpose of transferring it permanently to such a country as aforesaid.
 
-(c) In this subsection "firearm" does not include a firearm specified in paragraph (c) or (d) (or in paragraph (f) or (g) so far as either of those paragraphs relates to the said paragraph (c) or (d)) of section 4 (1) of the Firearms and Offensive Weapons Act, 1990.
+(c) In this subsection “firearm“does not include a firearm specified in paragraph (c) or (d) (or in paragraph (f) or (g) so far as either of those paragraphs relates to the said paragraph (c) or (d)) of section 4 (1) of the Firearms and Offensive Weapons Act, 1990.
 
 (4) It shall not be lawful for any registered firearms dealer to return to any person a firearm or ammunition given to the dealer for repair, test or proof unless the person—
 

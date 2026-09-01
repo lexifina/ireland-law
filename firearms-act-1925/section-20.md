@@ -1,3 +1,3 @@
-Prohibition of taking firearms or ammunition in pawn.
+Prohibition of taking firearms or ammunition in pawn. (Repealed)
 
 20.—...

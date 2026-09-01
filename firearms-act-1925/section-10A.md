@@ -1,3 +1,3 @@
-Reloading of ammunition.
+Reloading of ammunition. (Repealed)
 
 10A.—...

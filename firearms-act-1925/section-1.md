@@ -12,7 +12,7 @@ Definitions and interpretation.
 
 “Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;
 
-"Directive" means Directive (EU) 2021/555 of the European Parliament and of the Council of 24 March 2021 on control of the acquisition and possession of weapons (codification), and includes Articles 12 and 13 of Directive 2014/28/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (recast);
+“Directive” means Directive (EU) 2021/555 of the European Parliament and of the Council of 24 March 2021 on control of the acquisition and possession of weapons (codification), and includes Articles 12 and 13 of Directive 2014/28/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (recast);
 
 “firearm” means—
 
@@ -38,11 +38,11 @@ Definitions and interpretation.
 
 (I) manufactured for use as a component in connection with the operation of a firearm, and
 
-1 OJ No. L 115, 6.4.2021, p.1 3 OJ No. L 96, 29.3.2014, p. 1
-
 (II) without which it could not function as originally designed, and
 
 (h) a device capable of discharging blank ammunition and to be used as a starting gun or blank firing gun, and includes a restricted firearm, unless otherwise provided or the context otherwise requires;
+
+1 OJ No. L 115, 6.4.2021, p.1 3 OJ No. L 96, 29.3.2014, p. 1
 
 “firearm certificate” means a firearm certificate granted under this Act and, unless the context otherwise requires, includes a restricted firearm certificate, a firearms training certificate and a firearm certificate granted under the Firearms (Firearm Certificates for Non-Residents) Act 2000;
 
@@ -56,9 +56,9 @@ Definitions and interpretation.
 
 “muzzle energy”, in relation to a firearm, means the energy of a projectile discharged by it, measured at its muzzle in joules;
 
-"prohibited ammunition" means ammunition that is declared by order under section 2C of this Act to be prohibited ammunition;
+“prohibited ammunition” means ammunition that is declared by order under section 2C of this Act to be prohibited ammunition;
 
-"prohibited firearm" means a firearm that is declared by order under section 2C of this Act to be a prohibited firearm.
+“prohibited firearm” means a firearm that is declared by order under section 2C of this Act to be a prohibited firearm.
 
 “prohibited weapon” means and includes any weapon of whatever description designed for the discharge of any noxious liquid, noxious gas or other noxious thing, and also any ammunition (whether for any such weapon or any other weapon) which contains or is designed or adapted to contain any noxious liquid, noxious gas or other noxious thing;
 

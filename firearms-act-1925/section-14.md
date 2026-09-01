@@ -1,3 +1,3 @@
-Prohibition of manufacture and possession, etc., of weapons discharging noxious liquids.
+Prohibition of manufacture and possession, etc., of weapons discharging noxious liquids. (Repealed)
 
 14.— ...

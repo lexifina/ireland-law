@@ -12,17 +12,17 @@ Restrictions on firearm certificates for semi-automatic centre-fire rifles.
 
 (6) In this section—
 
-"Act of 1964" means the Firearms Act 1964;
+“Act of 1964” means the Firearms Act 1964;
 
-"Act of 2000" means the Firearms (Firearm Certificates For Non-Residents) Act 2000;
+“Act of 2000” means the Firearms (Firearm Certificates For Non-Residents) Act 2000;
 
-"first granted" means, in relation to a particular semi-automatic centre-fire rifle—
+“first granted” means, in relation to a particular semi-automatic centre-fire rifle—
 
 (a) the grant (not renewal) of a firearm certificate for the semi-automatic centre-fire rifle under section 3 of this Act, or under section 2 of the Act of 2000 in respect of an application under paragraph (a) or (aa) of subsection (2) of that section, or
 
 (b) the substitution by the Minister or the Commissioner, under section 11(1) of the Act of 1964, for the description of a firearm in a firearm certificate granted by him or her the description of the semi-automatic centre-fire rifle, whichever is the earlier;
 
-"semi-automatic centre-fire rifle" means a rifled long firearm that—
+“semi-automatic centre-fire rifle” means a rifled long firearm that—
 
 (a) uses a cartridge with a centrally located primer in the base,
 
