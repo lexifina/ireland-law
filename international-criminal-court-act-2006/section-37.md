@@ -1,8 +1,8 @@
 ## PART 4 REQUESTS TO FREEZE ASSETS AND ENFORCE ORDERS OF INTERNATIONAL CRIMINAL COURT
 
-Interpretation ( Part 4).
+Interpretation (Part 4).
 
-37.— In this Part, unless the context otherwise requires—
+37.—In this Part, unless the context otherwise requires—
 
 “Act of 1988” means the Bankruptcy Act 1988;
 
@@ -10,17 +10,17 @@ Interpretation ( Part 4).
 
 “enforceable ICC order” means an ICC order in relation to which an enforcement order has been made;
 
-“enforcement order” means an order under section 40 (3) for the enforcement of an ICC order;
+“enforcement order” means an order under section 40(3) for the enforcement of an ICC order;
 
-“freezing order” means an order under section 38 (4) ;
+“freezing order” means an order under section 38(4);
 
 “gift caught by this Part” means a gift—
 
-(a) which was made by the defendant in proceedings for an ICC offence at any time after the commission of the offence or, if there is more than one such offence, the earliest of the offences to which the proceedings for the time being relate, and
+(a) which was made by the defendant in proceedings for a crime within the jurisdiction of the International Criminal Court at any time after the commission of the offence or, if there is more than one such offence, the earliest of the offences to which the proceedings for the time being relate, and
 
 (b) which the court considers it appropriate in all the circumstances to take into account;
 
-“ICC order” has the meaning given to it by section 40 (1) ;
+“ICC order” has the meaning given to it by section 40(1);
 
 “realisable property” means—
 

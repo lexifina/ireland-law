@@ -1,6 +1,6 @@
 Delegation of functions of Director of FSI under this Act
 
-154. (1) The Director of FSI may, in writing, delegate any of his or her functions under this Act to members of the staff of FSI specified by grade, name or otherwise.
+154. (1) The Director of FSI may, in writing, delegate any of his or her functions under this Act or under section 10 of the Misuse of Drugs Act 1984 to members of the staff of FSI specified by grade, name or otherwise.
 
 (2) A delegation under this section may—
 
@@ -12,6 +12,6 @@ Delegation of functions of Director of FSI under this Act
 
 (3) The delegation of a function under this section does not preclude the Director of FSI from performing the function.
 
-(4) Where the functions of the Director of FSI under a provision of this Act are delegated to a member of the staff of FSI, any references in that provision to the Director of FSI shall be construed as references to that member of staff.
+(4) Where the functions of the Director of FSI under a provision of this Act or under section 10 of the Misuse of Drugs Act 1984 are delegated to a member of the staff of FSI, any references in that provision to the Director of FSI shall be construed as references to that member of staff.
 
 (5) An act or thing done by a member of the staff of FSI pursuant to a delegation under this section has the same force and effect as if done by the Director of FSI.

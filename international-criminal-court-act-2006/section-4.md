@@ -1,10 +1,10 @@
 Requests by International Criminal Court.
 
-4.— (1) In relation to any request by the International Criminal Court for the arrest and surrender, or the provisional arrest, of a person or for assistance under Article 93 (other forms of co-operation) the Minister may presume, unless he or she has any information to the contrary, that the request—
+4.—(1) In relation to any request by the International Criminal Court for the arrest and surrender, or the provisional arrest, of a person or for assistance under Article 93 (other forms of co-operation) the Minister may presume, unless he or she has any information to the contrary, that the request—
 
 (a) has been duly made and transmitted in accordance with the relevant provisions of the Statute, and
 
-(b) is being made in connection with the investigation or prosecution of offences within the jurisdiction of the Court.
+(b) is being made in connection with the investigation or prosecution of crimes within the jurisdiction of the International Criminal Court.
 
 (2) (a) Where a request by the Court involves the disclosure of information and such a disclosure would in the Minister's opinion be prejudicial to the interests of the security of the State, he or she shall—
 
@@ -44,8 +44,6 @@ Requests by International Criminal Court.
 
 (b) may subsequently consent to their disclosure.
 
-(6) Any request mentioned in subsection
-
-(1) and any supporting or related documents shall constitute official information within the meaning of the Official Secrets Act 1963.
+(6) Any request mentioned in subsection (1) and any supporting or related documents shall constitute official information within the meaning of the Official Secrets Act 1963.
 
 (7) Competing requests for assistance from the Court and from another state pursuant to an international obligation of the State, other than requests for surrender or extradition, shall be dealt with by the Minister in accordance with Article 93.9.

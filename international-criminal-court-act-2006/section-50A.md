@@ -1,6 +1,6 @@
 Application for court order authorising taking of identification evidence from protected person or child.
 
-50A.— (1) If—
+50A.—(1) If—
 
 (a) a member of the Garda Síochána is unable, having made reasonable efforts to do so, to contact a parent or guardian of a protected person or child, as the case may be, for the purposes of ascertaining whether or not he or she consents to the taking of the identification evidence concerned from the person or child, as the case may be, under section 50,
 
@@ -16,7 +16,7 @@ Application for court order authorising taking of identification evidence from p
 
 (b) that a parent or guardian of the protected person or child, as the case may be, concerned to whom section 50(1B) applies shall be excluded from the Court during the hearing of the application, or both if—
 
-(i) on an application in that behalf by a member of the Garda Síochána not below the rank of inspector, the judge is satisfied that it is desirable to do so in order to avoid a risk of prejudice to the investigation or prosecution of the ICC offence concerned in connection with which the identification evidence concerned has been sought pursuant to the request, or
+(i) on an application in that behalf by a member of the Garda Síochána not below the rank of inspector, the judge is satisfied that it is desirable to do so in order to avoid a risk of prejudice to the investigation or prosecution of the crime within the jurisdiction of the International Criminal Court concerned in connection with which the identification evidence concerned has been sought pursuant to the request, or
 
 (ii) the judge considers that it is otherwise desirable in the interests of justice to do so.
 
@@ -26,7 +26,7 @@ Application for court order authorising taking of identification evidence from p
 
 (b) have regard to—
 
-(i) the nature and seriousness of the ICC offence concerned being investigated or prosecuted by the Court,
+(i) the nature and seriousness of the crime within the jurisdiction of the International Criminal Court concerned being investigated or prosecuted by the Court,
 
 (ii) in so far as they can be ascertained, the wishes of the protected person or child, as the case may be, concerned regarding whether the identification evidence concerned should be taken from him or her, and
 

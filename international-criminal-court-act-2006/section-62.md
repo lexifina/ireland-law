@@ -1,6 +1,6 @@
 Requests to International Criminal Court for assistance.
 
-62.— (1) This section applies where an investigation is taking place, or a prosecution has been instituted, in the State in respect of an ICC offence or other serious offence.
+62.—(1) This section applies where an investigation is taking place, or a prosecution has been instituted, in the State in respect of an ICC offence, offence under section 11(1) or other serious offence.
 
 (2) Where this section applies, the Minister may request the International Criminal Court, in accordance with Article 93.10, to provide assistance in connection with the investigation or prosecution.
 

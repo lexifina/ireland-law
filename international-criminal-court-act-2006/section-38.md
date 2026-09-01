@@ -1,10 +1,10 @@
 Freezing orders.
 
-38.— (1) This section applies where the Minister receives a request from the International Criminal Court under Article 93.1(k) to freeze the property of a person, including any articles used in the commission of an ICC offence, for the purpose of its eventual forfeiture.
+38.—(1) This section applies where the Minister receives a request from the International Criminal Court under Article 93.1(k) to freeze the property of a person, including any articles used in the commission of a crime within the jurisdiction of the International Criminal Court, for the purpose of its eventual forfeiture.
 
-(2) Where this section applies, the Minister shall, subject to section 4 , send a copy of the request and any accompanying documents to the Commissioner of the Garda Síochána.
+(2) Where this section applies, the Minister shall, subject to section 4, send a copy of the request and any accompanying documents to the Commissioner of the Garda Síochána.
 
-(3) (a) The Commissioner shall thereupon cause a member of the Garda Síochána not below the rank of inspector to apply to the High Court for an order under subsection (4) .
+(3) (a) The Commissioner shall thereupon cause a member of the Garda Síochána not below the rank of inspector to apply to the High Court for an order under subsection (4).
 
 (b) If the applicant—
 
@@ -30,13 +30,9 @@ Freezing orders.
 
 (c) A freezing order may be subject to such conditions and exceptions as may be specified in it, including the making of such provision as the Court may think fit for the living expenses and legal expenses of any person.
 
-(d) In paragraph
+(d) In paragraph (a)(ii)(I) “proceedings” includes an investigation by the International Criminal Court of a crime within the jurisdiction of the International Criminal Court.
 
-(a) (ii) (I)
-
-“proceedings” includes an investigation by the International Criminal Court of an ICC offence.
-
-(e) If subsection (3) (b) applies, the freezing order shall include the statement mentioned in that subsection.
+(e) If subsection (3)(b) applies, the freezing order shall include the statement mentioned in that subsection.
 
 (5) In exercising its powers under this section the High Court shall pay due regard to the rights of any third parties.
 
@@ -56,7 +52,7 @@ Freezing orders.
 
 (d) shall be discharged on the application of the International Criminal Court or on the conclusion of the proceedings before that Court in relation to which the order was made.
 
-(8) For the purposes of subsection (7) (d) , proceedings before the International Criminal Court have concluded—
+(8) For the purposes of subsection (7)(d), proceedings before the International Criminal Court have concluded—
 
 (a) where the Court determines not to make an ICC order, on the date of the determination,
 
@@ -68,7 +64,7 @@ Freezing orders.
 
 (9) An application to discharge or vary a freezing order may be made by any person affected by it.
 
-(10) Where the High Court has made a freezing order arising from a request related to the investigation of an ICC offence, it may discharge the order if the investigation is not completed within such time as it considers reasonable.
+(10) Where the High Court has made a freezing order arising from a request related to the investigation of a crime within the jurisdiction of the International Criminal Court, it may discharge the order if the investigation is not completed within such time as it considers reasonable.
 
 (11) Where the High Court has made a freezing order, the Court may at any time appoint a receiver—
 

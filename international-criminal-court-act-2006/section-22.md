@@ -1,6 +1,6 @@
 Issue of provisional arrest warrant.
 
-22.— (1) The High Court may issue a warrant (in this Part referred to as a “provisional arrest warrant”) for the arrest of a person on the sworn information of a member of the Garda Síochána not below the rank of inspector that he or she has reason to believe—
+22.—(1) The High Court may issue a warrant (in this Part referred to as a “provisional arrest warrant”) for the arrest of a person on the sworn information of a member of the Garda Síochána not below the rank of inspector that he or she has reason to believe—
 
 (a) that the International Criminal Court has made a request under Article 92 for the provisional arrest of the person on grounds of urgency,
 
@@ -8,7 +8,7 @@ Issue of provisional arrest warrant.
 
 (c) that the person—
 
-(i) is accused or suspected by that Court of having committed an ICC offence or an offence under section 11 (1) (a) , or
+(i) is accused or suspected by that Court of having committed a crime within the jurisdiction of the International Criminal Court, or
 
 (ii) has been convicted by it of such an offence, and
 
