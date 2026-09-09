@@ -1,0 +1,3 @@
+Effect of exploitation of design derived from artistic work. (Repealed)
+
+78B.—...

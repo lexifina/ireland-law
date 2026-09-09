@@ -1,0 +1,5 @@
+Databases communicated to Government or Oireachtas.
+
+335.—(1) Where the contents of a database have been communicated to the Government or either or both of the Houses of the Oireachtas for any purpose, by or with the licence of the owner of the database right, and any fixation or any thing containing the contents of the database is owned by, or is in the custody, possession or control of the Government or either or both of the Houses of the Oireachtas, the Government or either or both of the Houses of the Oireachtas may extract or re-utilise all or a substantial part of the contents, for the purpose for which the contents of the database were communicated to them, or for any related purpose which could reasonably have been anticipated by the owner of the database right, without infringing the database right in the database.
+
+(2) The Government or either or both of the Houses of the Oireachtas shall not re-utilise all or a substantial part of the contents of a database or cause the contents to be extracted or re-utilised, by virtue of this section, where the contents have previously been lawfully re-utilised otherwise than under this section.

@@ -1,0 +1,3 @@
+Performers' property rights to pass under will with certain original recordings.
+
+296.—Where, under a bequest (whether specific or general), a person is entitled, beneficially or otherwise, to any material thing containing an original recording of a performance which had not been made available to the public before the death of the testator, the bequest shall be construed as including any performer's property rights in relation to the recording in so far as the testator was the owner of the rights immediately before his or her death, unless a contrary intention is indicated in the will of the testator or in a codicil to that will.

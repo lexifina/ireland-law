@@ -1,0 +1,5 @@
+Works communicated to Government or Oireachtas.
+
+75.—(1) Where a work has been communicated to the Government or either or both of the Houses of the Oireachtas for any purpose, by or with the licence of the copyright owner, and any fixation of the work or any thing containing the work is owned by, or is in the possession, custody or control of, the Government or either or both of the Houses of the Oireachtas, the Government or either or both of the Houses of the Oireachtas may copy the work, make available to the public copies of the work, or cause the work to be copied or made available to the public for the purpose for which the work was communicated to them, or for any related purpose which could reasonably have been anticipated by the copyright owner, without infringing the copyright in the work.
+
+(2) The Government or either or both of the Houses of the Oireachtas shall not make available to the public copies of a work referred to in subsection (1) or cause the work to be copied or made available, under this section, where the work has previously been lawfully made available to the public otherwise than under this section.

@@ -1,0 +1,5 @@
+Copying by librarians or archivists: parts of works lawfully made available to public.
+
+62.—(1) The librarian or archivist of a prescribed library or prescribed archive may, where the prescribed conditions are complied with, make and supply a copy of part of a work (other than an article or the contents page in a periodical) which has been lawfully made available to the public without infringing any copyright in the work, in any illustrations accompanying the work or in the typographical arrangement.
+
+(2) A copy made under subsection (1) shall not be supplied other than to a person who satisfies the librarian or archivist that he or she requires that copy for the purposes of education, research or private study and he or she shall not use it for any other purpose and that person shall not be furnished with more than one copy of the same material unless the person satisfies the librarian or archivist that the previous copy has been lost, stolen, discarded or destroyed or a reasonable period of time has elapsed, and that person shall not be furnished with a copy of more than a reasonable proportion of any work.

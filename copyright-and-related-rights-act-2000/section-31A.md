@@ -1,0 +1,3 @@
+Duration of copyright in relation to registered design. (Repealed)
+
+31A.—...

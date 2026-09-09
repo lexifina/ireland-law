@@ -1,0 +1,3 @@
+Copying by librarians or archivists: exemptions. (Repealed)
+
+69.—...
