@@ -41,3 +41,5 @@ Determination orders.
 (7) ...
 
 (8) The reference in subsection (1)(b) to a determination mentioned in a report of an adjudicator under section 99 does not include a reference to such a determination against which an appeal has been made under, and in accordance with, section 100 unless that appeal has been subsequently abandoned.
+
+(9) The Director may, by notice in writing given to the parties concerned, correct any mistake (including any omission) of an administrative or clerical nature in a determination order.

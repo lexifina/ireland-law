@@ -22,13 +22,19 @@ Damages for abuse of section 34 termination procedure.
 
 (2) Where this section applies, the tenant may make a complaint to the Board under Part 6 that, by reason of the matters mentioned in subsection (1), he or she has been unjustly deprived of possession of the dwelling concerned by the landlord.
 
-(3) An adjudicator or the Tribunal, on the hearing of such a complaint, may, if he or she or it considers it proper to do so, make—
+(3) An adjudicator or the Tribunal, on the hearing of such a complaint, may, if the adjudicator or the Tribunal, as the case may be, considers it proper to do so, make—
 
 (a) a determination comprising a direction that the landlord shall pay to the complainant an amount by way of damages for that deprivation of possession,
 
-(b) subject to section 118, a determination comprising a direction that the complainant be permitted to resume possession of the dwelling concerned, or
+(b) subject to section 118 and subsection (3A), a determination comprising a direction that the complainant be permitted to resume possession of the dwelling concerned, or
 
-(c) subject to section 118, a determination comprising both of the foregoing directions.
+(c) subject to section 118 and subsection (3A), a determination comprising both of the foregoing directions.
+
+(3A) A determination under paragraph (b) or (c) of subsection (3)—
+
+(a) shall not include a direction that the complainant be permitted to resume possession of the dwelling where the adjudicator or the Tribunal is satisfied that the landlord of that dwelling has entered into an enforceable agreement of the type referred to in paragraph 3 of the Table to section 34, and
+
+(b) that is made where the landlord of the dwelling has entered into an enforceable agreement of the type referred to in paragraph 3 of the Table to section 34 shall not have effect in so far as the determination comprises a direction that the complainant be permitted to resume possession of the dwelling.
 
 (4) Damages may not be directed to be paid to a particular person, in respect of the same deprivation of possession, under both subsection (3) and section 118(1).
 

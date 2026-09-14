@@ -2,7 +2,7 @@ Tenant to be notified of new rent.
 
 22.—(1) The setting of a rent (the “new rent”) pursuant to a review of the rent under a tenancy of a dwelling and which is otherwise lawful under this Part shall not have effect unless and until the condition specified in subsection (2) is satisfied.
 
-(2) That condition is that, at least 90 days before the date from which the new rent is to have effect, a notice in the prescribed form is served by the landlord on the tenant stating the amount of the new rent and the date from which it is to have effect and the matters specified in subsection (2A) , and a copy of that notice is served on the Board on the same day on which the notice is served on the tenant.
+(2) That condition is that, at least 90 days before the date from which the new rent is to have effect, a notice in the prescribed form is served by the landlord on the tenant stating the amount of the new rent and the date from which it is to have effect and the matters specified in subsection (2A) , and a copy of that notice is served on the Board within 7 days of the date on which the notice is served on the tenant.
 
 (2A) The notice referred to in subsection (2) shall—
 
@@ -52,4 +52,22 @@ Tenant to be notified of new rent.
 
 (b) the expiry of 28 days from the receipt by the tenant of that notice, whichever is the later.
 
-(4) It shall be an offence for a landlord to set a rent pursuant to a review of the rent under a tenancy by serving notice of the rent on the tenant other than in accordance with the condition specified in subsection (2).
+(4) Where it appears to the Board that a landlord has set a rent pursuant to a review of the rent under a tenancy of a dwelling other than in accordance with the condition specified in subsection (2), the Board may serve the notice referred to in subsection (5).
+
+(5) The notice shall—
+
+(a) inform the landlord of the Board’s opinion, and
+
+(b) request the landlord to, within the period specified in the notice—
+
+(i) serve a copy of the notice referred to in subsection (2) on the Board, or
+
+(ii) furnish to the Board the reasons why the landlord considers (if such be the case) that the opinion is not well founded.
+
+(6) If the landlord, within the period specified in the notice—
+
+(a) does not serve a copy of the notice referred to in subsection (2) on the Board, or
+
+(b) does not furnish the reasons to the Board or furnishes reasons which do not result in the Board altering its opinion, the Board shall serve a further notice on the landlord stating that the landlord is required to serve a copy of the notice referred to in subsection (2) on the Board, that the Board’s opinion has not altered and that, if the landlord fails to do so within 14 days from the receipt by the landlord of the notice, the landlord shall be guilty of an offence.
+
+(7) A landlord who fails to comply with a notice under subsection (6) within 14 days from the receipt by the landlord of the notice shall be guilty of an offence.

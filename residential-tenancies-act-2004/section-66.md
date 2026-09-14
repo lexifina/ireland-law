@@ -14,7 +14,7 @@ Period of notice where section 67 or 68 is inapplicable.
 
 (2A) (a) Where, on the hearing of a complaint under Part 6 in respect of a notice of termination served by a landlord or a tenant (the "original notice"), an adjudicator or the Tribunal, as the case may be, makes a determination that—
 
-(i) the original notice is invalid due to a defect contained in, or occurring during the service of, the original notice,
+(i) the original notice is invalid due to a defect contained in, or occurring during the service of, the original notice, or a statement or statutory declaration accompanying the original notice or a notification related to the original notice given under section 67(3) or 68(3)(a),
 
 (ii) the defect concerned does not prejudice, in a material respect, the original notice, and
 

@@ -6,9 +6,9 @@ Fees.
 
 (3) Without prejudice to the generality of subsection (1), the Board may charge fees in respect of all or any of the following:
 
-(a) access to records of determination orders made under section 121,
+(a) access to records of determination orders issued under section 121,
 
-(b) provision of a ... certified copy of a determination order made under section 121,
+(b) provision of a ... certified copy of a determination order issued under section 121,
 
 (ba) the making of an application under section 134 which is not made in electronic form,
 

@@ -24,13 +24,13 @@ Power of Board to make procedural rules.
 
 (v) a dispute must be referred under section 94, 96(2) or 100 to the Tribunal,
 
-(vi) the Director must, from the date of receipt by the Board of a determination of an adjudicator under section 97(4)(a) (contained in a report made to it under section 99), make a determination order on foot of that determination,
+(vi) the Director must, from the date of receipt by the Board of a determination of an adjudicator under section 97(4)(a) (contained in a report made to it under section 99), prepare and issue a determination order on foot of that determination,
 
 (vii) the Tribunal must, from the date of a dispute being referred to it, or a determination in relation to a dispute being appealed to it, arrange a hearing in relation to the dispute,
 
 (viii) the Tribunal must, from the date of completion by it of a hearing or hearings in relation to a dispute, make its determination in relation to the dispute,
 
-(ix) the Director must, from the date of receipt by the Board of a determination of the Tribunal under section 108 make a determination order on foot of that determination, and
+(ix) the Director must, from the date of receipt by the Board of a determination of the Tribunal under section 108 prepare and issue a determination order on foot of that determination, and
 
 (x) the Board must make an application under section 124 to enforce a determination order on being notified that that order is not being complied with.
 

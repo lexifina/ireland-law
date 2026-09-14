@@ -18,13 +18,15 @@ Redress that may be granted on foot of determination.
 
 (f) a declaration as to the validity or otherwise of a notice of termination of a tenancy,
 
-(g) a declaration with regard to the right to return to, or continue in, occupation of a dwelling (and such a declaration may include provision to the effect that any period of interruption in possession that has occurred is to be disregarded for one or more purposes),
+(g) subject to subsection (2A), a declaration with regard to the right to return to, or continue in, occupation of a dwelling (and such a declaration may include provision to the effect that any period of interruption in possession that has occurred is to be disregarded for one or more purposes),
 
 (h) a declaration that a term of a lease or tenancy agreement is void by reason of section 184,
 
 (i) ...
 
-(3) The amount (or, as appropriate, the aggregate of the amounts), other than costs or expenses of whatsoever kind, that an adjudicator or the Tribunal may direct to be paid to a party in respect of the matter (or, as appropriate, all of the matters) the subject of a dispute referred to the Board for resolution shall not exceed—
+(2A) A declaration made under subsection (2)(g) where the landlord has entered into an enforceable agreement of the type referred to in paragraph 3 of the Table to section 34 shall not have effect.
+
+(3) Subject to subsection (6), the amount (or, as appropriate, the aggregate of the amounts), other than costs or expenses of whatsoever kind, that an adjudicator or the Tribunal may direct to be paid to a party in respect of the matter (or, as appropriate, all of the matters) the subject of a dispute referred to the Board for resolution shall not exceed—
 
 (a) if the amount or amounts consist solely of damages — €20,000,
 
@@ -39,3 +41,5 @@ Redress that may be granted on foot of determination.
 (4) Without prejudice to the generality of subsection (3), an amount that is to be awarded in accordance with a direction relating to a failure to comply with section 16(f) or 16(g) shall be included in the amount referred to in subsection (3)(a) or, as the case may be, subsection (3)(c)(i).
 
 (5) The amount of costs or expenses that may be awarded to a party shall not exceed €1,000.
+
+(6) The amount (or, as appropriate, the aggregate of the amounts), that an adjudicator or the Tribunal may direct to be paid to a party under subsection (3), together with the amount of costs or expenses that may be awarded to a party in accordance with subsection (5), including any costs referred to in paragraph (a) or (b) of section 5(3), shall not exceed the monetary limit for an action in tort for the time being standing specified of the jurisdiction of the Circuit Court.

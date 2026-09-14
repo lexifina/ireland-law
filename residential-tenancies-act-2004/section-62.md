@@ -32,7 +32,7 @@ Requirements for a valid notice of termination.
 
 (g) state that any issue as to the validity of the notice or the right of the landlord or tenant, as appropriate, to serve it must be referred to the Board under Part 6 within the period referred to in paragraph (a) or (b), as appropriate, of section 80.
 
-(1A) Where a notice of termination is served by a landlord, the landlord shall serve a copy of the notice on the Board on the same day on which the notice is served on the tenant, and where the copy is not so served the notice shall be invalid.
+(1A) Where a notice of termination is served by a landlord, the landlord shall serve a copy of the notice on the Board within 7 days of the date on which the notice is served on the tenant, and where the copy is not so served the notice shall be invalid.
 
 (1B) The Board shall, upon receiving a copy of a notice of termination under subsection (1A), notify the tenant in writing of his or her entitlements under section 76, the period after which, under section 80, a dispute may not be referred to the Board, and give a copy of the statement given under section 135(4)(e) to the tenant and the landlord.
 

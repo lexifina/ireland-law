@@ -1,6 +1,6 @@
 Provision in aid of enforcement of registration requirements.
 
-144.—(1) If it appears to the Board that a particular tenancy that ought to be registered in the register has not been the subject of an application for registration under section 134, it shall serve the notice referred to in subsection (2) on the person whom it considers to be the landlord under that tenancy.
+144.—(1) If it appears to the Board that a particular tenancy that ought to be or ought to have been registered in the register has not been the subject of an application for registration under section 134, it may serve the notice referred to in subsection (2) on the person whom it considers to be or to have been the landlord under that tenancy.
 
 (2) That notice is a notice—
 
@@ -20,4 +20,30 @@ Provision in aid of enforcement of registration requirements.
 
 (6) Proceedings for an offence under subsection (4) may not be brought if more than a year has elapsed between the date of service of the notice under subsection (2) and of the notice under subsection (3) in relation to the matter concerned.
 
-(7) The reference in subsection (1) to a particular tenancy that ought to be registered shall be deemed to include a reference to a tenancy which, in the opinion of the Board, exists in respect of a dwelling and, accordingly, ought to be registered; where the Board is of that opinion in respect of a dwelling then the notice referred to in subsection (2) concerning that dwelling shall expressly state that as part of the opinion stated by the Board in the notice.
+(7) The reference in subsection (1) to a particular tenancy that ought to be or ought to have been registered shall be deemed to include a reference to a tenancy which, in the opinion of the Board, exists or existed in respect of a dwelling and, accordingly, ought to be or ought to have been registered; where the Board is of that opinion in respect of a dwelling then the notice referred to in subsection (2) concerning that dwelling shall expressly state that as part of the opinion stated by the Board in the notice.
+
+(8) Where the Board has reasonable grounds for believing that a person has committed an offence under subsection (4), it may serve on the person a notice in the prescribed form (in this section referred to as a "fixed payment notice") stating that—
+
+(a) the person is alleged to have committed an offence under subsection (4) (in this section referred to as the "alleged offence"),
+
+(b) the person may, during the period of 28 days beginning on the date of the fixed payment notice, make to the Board a payment of €100 or such greater amount not exceeding €500 as may be prescribed, identifying the notice to which the payment relates,
+
+(c) the person is not obliged to make the payment specified in the notice,
+
+(d) a prosecution of the person in respect of the alleged offence will not be instituted during the period of 28 days beginning on the date of the notice, and
+
+(e) if the payment specified in the notice is made during that period, no prosecution in respect of the alleged offence will be instituted.
+
+(9) Where a fixed payment notice is served—
+
+(a) the person to whom it applies may make a payment in accordance with subsection (8)(b),
+
+(b) the Board shall, upon receipt of the payment, issue a receipt for it,
+
+(c) any payment received by the Board shall not be recoverable by the person who made it, and
+
+(d) a prosecution in respect of the alleged offence shall not be instituted during the period specified in subsection (8)(b) and, if payment so specified is made during that period, no prosecution in respect of the alleged offence shall be instituted.
+
+(10) In proceedings for an alleged offence, it shall be a defence for the defendant to prove that the defendant has made a payment in accordance with subsection (8)(b) pursuant to a fixed payment notice served in respect of the alleged offence.
+
+(11) Payments received by the Board under this section shall be paid into or disposed of for the benefit of the Exchequer.

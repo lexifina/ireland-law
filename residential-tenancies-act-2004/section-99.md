@@ -16,4 +16,4 @@ Adjudicator’s report.
 
 (3) After the receipt by it of a report under subsection (2), the Board shall serve on each of the parties a copy of the report and the following statement.
 
-(4) That statement is one to the effect that the Director will follow the procedures under section 121 (which concerns the making of determination orders) in relation to the determination of the adjudicator unless, in the case of a determination under section 97(4)(a), an appeal is made under, and in accordance with, section 100 against the determination and that appeal is not subsequently abandoned.
+(4) That statement is one to the effect that the Director will follow the procedures under section 121 (which concerns the preparing and issuing of determination orders) in relation to the determination of the adjudicator unless, in the case of a determination under section 97(4)(a), an appeal is made under, and in accordance with, section 100 against the determination and that appeal is not subsequently abandoned.

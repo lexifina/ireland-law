@@ -32,7 +32,7 @@ Determination of disputes by Tribunal: procedures generally.
 
 (5) The duration of the notice under subsection (3) shall be—
 
-(a) at least 21 days beginning on the date of the giving of the notice, or
+(a) at least 10 working days beginning on the date of the giving of the notice, or
 
 (b) such lesser period as the Board may specify where—
 
@@ -45,3 +45,5 @@ Determination of disputes by Tribunal: procedures generally.
 (6) Each of the parties shall be entitled to and be given the opportunity to be heard at the hearing and to be represented and to present evidence and witnesses before the Tribunal.
 
 (7) In the case of an appeal under section 100, the Tribunal may have regard to the report of the adjudicator.
+
+(8) The Tribunal shall, on the hearing of a dispute referred to it under section 94 or 96(2) or an appeal under section 100, have regard to any advice referred to in section 67(3A) in relation to the matter the subject of the dispute or appeal, as the case may be, when making a determination under section 108.

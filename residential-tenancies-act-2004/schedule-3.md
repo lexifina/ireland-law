@@ -22,7 +22,13 @@ ORAL HEARING CONDUCTED BY AUTHORISED OFFICER PURSUANT TO SECTION 148S(15)
 
 6. The jurisdiction of the District Court in respect of an application referred to in paragraph 5 may be exercised by a judge of the District Court for the time being assigned to the District Court district where the person required to attend the oral hearing ordinarily resides or carries on any profession, business or occupation.
 
-7. The oral hearing shall be held otherwise than in public.
+7. The oral hearing shall be conducted in public unless the authorised officer determines, in accordance with rules made under section 148AF, that due to the existence of special circumstances it, or part of it, should be conducted otherwise than in public.
+
+7A. Where an oral hearing or part of it is conducted otherwise than in public, a person shall not knowingly or recklessly publish the name, address, contact details or other personal data of a party to the oral hearing.
+
+7B. A person who contravenes paragraph 7A shall be guilty of an offence.
+
+7C. Criminal proceedings for an offence referred to in paragraph 7B shall not lie against a member of the staff of the Board or an authorised officer in respect of anything done in good faith by the member of the staff or authorised officer in the course of the performance or purported performance of a function under this Act.
 
 8. The authorised officer may, with the consent of the Board and out of moneys at its disposal, direct that the whole or part of the reasonable travelling and subsistence expenses that will be or have been incurred by a person required to attend under paragraph 2 in so attending, shall, as the authorised officer thinks appropriate, be paid to the person required to attend whether prior to attending or by way of reimbursement.
 
@@ -42,6 +48,12 @@ ORAL HEARING CONDUCTED BY DECISION MAKER PURSUANT TO SECTION 148X(6) OR (7)
 
 6. The jurisdiction of the District Court in respect of an application referred to in paragraph 5 may be exercised by a judge of the District Court for the time being assigned to the District Court district where the person required to attend the oral hearing ordinarily resides or carries on any profession, business or occupation.
 
-7. The oral hearing shall be held otherwise than in public.
+7. The oral hearing shall be conducted in public unless the decision maker determines, in accordance with rules made under section 148AF, that due to the existence of special circumstances it, or part of it, should be conducted otherwise than in public.
+
+7A. Where an oral hearing or part of it is conducted otherwise than in public, a person shall not knowingly or recklessly publish the name, address, contact details or other personal data of a party to the oral hearing.
+
+7B. A person who contravenes paragraph 7A shall be guilty of an offence.
+
+7C. Criminal proceedings for an offence referred to in paragraph 7B shall not lie against a member of the staff of the Board or the decision maker in respect of anything done in good faith by the member of the staff or decision maker in the course of the performance or purported performance of a function under this Act.
 
 8. The decision maker may, with the consent of the Board and out of moneys at its disposal, direct that the whole or part of the reasonable travelling and subsistence expenses that will be or have been incurred by a person required to attend under paragraph 2 in so attending, shall, as the authorised officer thinks appropriate, be paid to the person required to attend whether prior to attending or by way of reimbursement.

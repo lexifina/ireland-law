@@ -16,13 +16,13 @@ Mediation.
 
 (c) relevant particulars in relation to the conduct of the mediation (including particulars in relation to the number and duration of sessions held by the mediator and the persons who participated in any such session) and a list of any documents submitted to the mediator (but without disclosing any of their contents).
 
-(5) The mediator shall, after preparing a report under subsection (4), furnish a copy of it to the Director.
+(5) The mediator shall, after preparing a report under subsection (4), furnish a copy of it to the Director , but shall otherwise maintain the confidentiality of the mediation and shall not disclose the report to any other person.
 
-(5A) Notwithstanding that, following a mediation, the parties have signed an agreement that resolves the dispute concerned, each of the parties may, not later than 10 days from the completion of the mediation concerned, notify the mediator and the Board in writing that he or she no longer agrees with that agreement and does not wish to be bound by it.
+(5A) Notwithstanding that, following a mediation, the parties have signed an agreement that resolves the dispute concerned, each of the parties may, not later than 10 working days from the completion of the mediation concerned, notify the mediator and the Board in writing that he or she no longer agrees with that agreement and does not wish to be bound by it.
 
 (5B) In this section and section 96, the "date of the completion of the mediation" means—
 
-(a) the date that the document referred to in subsection (3)(b) is signed by each of the parties, or
+(a) the date that the document referred to in subsection (4)(b) is signed by each of the parties, or
 
 (b) where the document is signed by the parties on different dates, the later of those dates.
 

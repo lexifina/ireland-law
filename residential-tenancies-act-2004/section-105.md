@@ -2,6 +2,32 @@ Provisions in relation to evidence, summoning of witnesses, etc.
 
 105.—(1) The Tribunal may require that the evidence of a witness before it be given on oath.
 
+(1A) The Tribunal may receive evidence in accordance with subsection (1B) where the dispute relates to—
+
+(a) a matter referred to the Board under section 76 that relates to—
+
+(i) an alleged failure by a tenant to comply with section 16(h),
+
+(ii) alleged behaviour of a tenant that is threatening to the fabric of the dwelling or the property containing the dwelling, or
+
+(iii) an alleged failure by a landlord to comply with section 12(1)(a), or
+
+(b) a complaint referred to the Board under section 77 that relates to—
+
+(i) an alleged breach of the duty of a landlord to enforce the obligation of a tenant under section 16(h), or
+
+(ii) an alleged breach of the duty of a landlord not to allow behaviour of the tenant that is threatening to the fabric of the dwelling or the property containing the dwelling.
+
+(1B) Where subsection (1A) applies, the Tribunal may—
+
+(a) receive evidence from a person who could be affected by the alleged failure, behaviour or breach, or
+
+(b) receive as evidence of such alleged failure, behaviour or breach a statement by a member of An Garda Síochána or an officer of a housing authority that the member or officer believes the alleged failure, behaviour or breach is occurring or has occurred, if the Tribunal is satisfied that—
+
+(i) there are reasonable grounds for the belief, and
+
+(ii) a person other than the member or officer would be deterred or prevented by violence or threat of violence to the person, or to a person associated with that person, or to property of the person or of the person associated with that person, from giving such evidence.
+
 (2) Each witness of a party before the Tribunal (including the party as a witness) may be cross-examined by or on behalf of every other party.
 
 (3) For the purposes of its functions under this Part, the Tribunal may—

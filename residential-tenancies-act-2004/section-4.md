@@ -56,6 +56,8 @@ Interpretation generally.
 
 “Part 4 tenancy” shall be construed in accordance with section 29;
 
+“personal data” has the meaning it has in Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+
 "personal public service number" means a number allocated and issued in accordance with section 262 of the Social Welfare Consolidation Act 2005;
 
 “personal representative” has the same meaning as it has in the Succession Act 1965;

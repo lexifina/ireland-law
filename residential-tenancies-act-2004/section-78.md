@@ -34,7 +34,7 @@ Particular matters that may be referred (non-exhaustive list).
 
 (m) a claim for costs or damages or both by a landlord or tenant for the purported termination of a tenancy otherwise than in accordance with this Act,
 
-(n) an alleged failure by a person to comply with a determination order made by the Board,
+(n) an alleged failure by a person to comply with a determination order issued by the Board,
 
 (o) an allegation that a landlord has contravened section 14 (prohibition on penalisation of tenants),
 

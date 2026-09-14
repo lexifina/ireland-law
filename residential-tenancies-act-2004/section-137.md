@@ -46,8 +46,8 @@ Fee to accompany application under section 134.
 
 (5) The option of paying the single fee referred to in subsection (2) is not available to the person mentioned in subsection (3) if the applications concerned are not made within the period specified in subsection (2) or (2B) of section 134.
 
-(6) If an application under subsection (1) of section 134 is made after the expiration of the period specified in subsection (2) or subsection (2B), as may be appropriate, the fee required to accompany that application shall be of such amount as is equal to the aggregate of—
+(6) If an application under subsection (1) of section 134 is made after the expiration of the period specified in subsection (2) or (2B) of that section, as may be appropriate, the fee required to accompany that application shall be of such amount as is equal to the aggregate of—
 
 (a) the fee that would have been payable had the application been made before the expiration of that period, and
 
-(b) €10 in respect of each month or part of a month falling after such expiration.
+(b) €10 or, where an amount stands declared for the time being under subsection (1) of section 138 for the purposes of this paragraph, a fee of that amount, in respect of each month or part of a month falling after such expiration.

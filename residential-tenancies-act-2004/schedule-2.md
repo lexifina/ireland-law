@@ -4,7 +4,7 @@ Section 148R
 
 Improper conduct in relation to a landlord means—
 
-(a) the commission by the landlord of a contravention of subsection (4) or (5B) of section 19, subsection (1) of section 134 or subsection (1) of section 139,
+(a) the commission by the landlord of a contravention of subsection (1)(i) or (6) of section 12, subsection (4) or (5B) of section 19, subsection (1) of section 134 or subsection (1) of section 139,
 
 (aa) the setting of a rent pursuant to a review of the rent under a tenancy by serving notice of the rent on the tenant other than in accordance with the condition specified in subsection (2) of section 22.
 
