@@ -162,7 +162,7 @@ Setting of rent above market rent prohibited.
 
 (i) consist of a permanent extension to the dwelling that increases the floor area of the dwelling by an amount equal to not less than 25 per cent of the floor area of the dwelling as it stood immediately before the commencement of those works,
 
-(ii) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply, result in the BER ... being improved by not less than 7 building energy ratings, or
+(ii) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply, result in the annual primary energy use per floor area being reduced by not less than 150 kWh/(m².y), or
 
 (iii) result in any 3 or more of the following:
 
@@ -172,9 +172,9 @@ Setting of rent above market rent prohibited.
 
 (III) a permanent increase in the number of rooms in the dwelling;
 
-(IV) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply and that has a BER of D1 or lower, the BER ... being improved by not less than 3 building energy ratings; or
+(IV) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply and that has annual primary energy use per floor area of greater than 225 kWh/(m².y), that annual primary energy use per floor area being reduced by not less than 75 kWh/(m².y); or
 
-(V) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply and that has a BER of C3 or higher, the BER ... being improved by not less than 2 building energy ratings, and
+(V) in the case of a dwelling to which the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012) apply and that has an annual primary energy use per floor area of up to 225 kWh/(m².y), that annual primary energy use per floor area being reduced by not less than 50 kWh/(m².y), and
 
 (b) the works carried out under paragraph (a) do not solely consist of works carried out for the purposes of compliance with section 12(1)(b).
 
@@ -188,15 +188,37 @@ Setting of rent above market rent prohibited.
 
 (6) Where a notice referred to in section 22(2) has been served by a landlord on the tenant before 1 March 2026, then this section shall apply to the new rent, referred to in section 22(2), stated in that notice in accordance with section 22, as if section 8 of the Residential Tenancies (Miscellaneous Provisions) Act 2026 had not been enacted.
 
-(6A) A person who fails to comply with the requirements of subsection (4) ... shall be guilty of an offence.
+(6A) ...
 
 (6B) A person, who in purported compliance with subsection (5B), furnishes information to the Board which is false or misleading in a material respect knowing it to be so false or misleading or being reckless as to whether it is so false or misleading shall be guilty of an offence.
 
-(6C) A person who fails to comply with the requirements of subsection (5B) shall be guilty of an offence.
+(6C) ...
+
+(6D) Where it appears to the Board that a person has failed to comply with subsection (4) or (5B), the Board may serve the notice referred to in subsection (6E).
+
+(6E) The notice shall—
+
+(a) inform the person of the Board’s opinion, and
+
+(b) request the person to, within the period specified in the notice—
+
+(i) comply with subsection (4) or (5B), as the case may be, or
+
+(ii) furnish to the Board the reasons why the person considers (if such be the case) that the opinion is not well founded.
+
+(6F) If the person, within the period specified in the notice—
+
+(a) does not comply with subsection (4) or (5B), as the case may be, or
+
+(b) does not furnish the reasons to the Board or furnishes reasons which do not result in the Board altering its opinion, the Board shall serve a further notice on the person stating that the person is required to comply with subsection (4) or (5B), as the case may be, that the Board’s opinion has not altered and that, if the person fails to do so within 14 days from the receipt by the person of the notice, the person shall be guilty of an offence.
+
+(6G) A person who fails to comply with a notice under subsection (6F) within 14 days from the receipt by the person of the notice shall be guilty of an offence.
 
 (7) In this section—
 
 "7 day notice" has the same meaning as it has in the Building Control Act 1990;
+
+"annual primary energy use per floor area" means the annual primary energy use per floor area recorded in kWh/(m².y) in respect of the dwelling on the BER register on the basis of a BER assessment in accordance with the European Union (Energy Performance of Buildings) Regulations 2012 (S.I. No. 243 of 2012);
 
 "building control authority" has the same meaning as it has in the Building Control Act 1990;
 
