@@ -10,7 +10,11 @@ Cancellation of determination order in cases of nonappearance.
 
 (3) The Board or the District Court, as the case may be, may direct that that cancellation shall not have effect unless specified conditions are, within a specified period, complied with by the person referred to in subsection (1) (being conditions analogous to the terms the High Court may impose under the Rules of the Superior Courts (S.I. No. 15 of 1986) for setting aside a judgment obtained in circumstances where one of the parties did not appear at the trial concerned).
 
-(4) Without prejudice to subsection (3), if it is sought to oppose an application under section 124 on the grounds that the determination order ought to be cancelled under this section, subsections (4) and (5) of section 124 shall apply as if references to the determination of, or evidence in relation to, whether any of the matters specified in subsection (3) of that section have been established include references to the determination of, or evidence in relation to, the issue as to whether the grounds for the court's exercising its powers under this section have been established.
+(4) Without prejudice to subsection (3), if the determination order, the subject of an application under section 124, is one requiring a dwelling to be vacated and—
+
+(a) the basis for that requirement is that the tenancy concerned was validly terminated by service of a notice of termination, and
+
+(b) that notice was served by reason of the tenant’s failure to pay an amount of rent due, the District Court may, before hearing any arguments or receiving any evidence in relation to whether good and substantial reasons referred to in subsection (1) have been established, require the respondent to lodge in court or pay to the applicant, as it thinks appropriate, that amount of rent together with such amount as it specifies in respect of the dwelling’s continued occupation by the respondent after the service of that notice.
 
 (5) The Board, before deciding whether to exercise the powers under this section, shall afford the other party or parties concerned an opportunity to be heard.
 
