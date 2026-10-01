@@ -4,9 +4,7 @@ Return of contributions — share-based remuneration.
 
 (a) paid in accordance with section 13(2)(b)—
 
-(i) pursuant to paragraph (a)(ii) or (b)(ii) of the definition of ‘reckonable earnings’ specified in Article 3 (amended by the Social Welfare (Consolidated Contributions and Insurability) (Amendment) Regulations 2010 (S.I. No. 684 of 2010)) of the Social Welfare (Consolidated Contributions and Insurability) Regulations 1996 (S.I. No. 312 of 1996)
-
-..., in respect of any gain, chargeable amount, value or amount realised, acquired or appropriated, as the case may be, during the contribution year commencing on 1 January 2011 which is the subject of a written contract or agreement that is in place before 1 January 2011, or
+(i) pursuant to paragraph (a)(ii) or (b)(ii) of the definition of ‘reckonable earnings’ specified in Article 3 (amended by the Social Welfare (Consolidated Contributions and Insurability) (Amendment) Regulations 2010 (S.I. No. 684 of 2010)) of the Social Welfare (Consolidated Contributions and Insurability) Regulations 1996 (S.I. No. 312 of 1996) ..., in respect of any gain, chargeable amount, value or amount realised, acquired or appropriated, as the case may be, during the contribution year commencing on 1 January 2011 which is the subject of a written contract or agreement that is in place before 1 January 2011, or
 
 (ii) in respect of share-based remuneration received by way of forfeitable shares to which section 128E of the Act of 1997 refers, where subsection (6) of that section applies,
 

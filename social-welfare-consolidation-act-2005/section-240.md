@@ -1,5 +1,3 @@
-## PART 9 GENERAL PROVISIONS RELATING TO SOCIAL INSURANCE, SOCIAL ASSISTANCE AND INSURABILITY Preliminary
-
 Definition.
 
 240.—Except where otherwise provided, in this Part— tion.

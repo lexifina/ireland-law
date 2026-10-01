@@ -7,3 +7,5 @@ Certain payments — entitlement to Island Allowance.
 (a) section 81, 111, 113, 116, 126, 156, 164 or 174 and he or she has attained pensionable age, or
 
 (b) section 77, 121 or 211, he or she shall be entitled to a weekly allowance of €12.70 or any amount that may be prescribed.
+
+## PART 9 GENERAL PROVISIONS RELATING TO SOCIAL INSURANCE, SOCIAL ASSISTANCE AND INSURABILITY Preliminary

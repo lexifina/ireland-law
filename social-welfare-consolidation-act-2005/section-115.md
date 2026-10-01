@@ -14,7 +14,9 @@ Conditions for receipt.
 
 (c) that the claimant has a yearly average or in the case of a person who attains the age of 65 years on or after 6 April 1992 an alternative yearly average of not less than 48.
 
-(1A) In the case of a person who attained the age of 65 years before 6 April 2002, subsection (1) shall be read as if the following condition were substituted for the condition in paragraph (b): ‘(b) that the claimant has qualifying contributions in respect of not less than 156 contribution weeks since his or her entry into insurance,’.
+(1A) In the case of a person who attained the age of 65 years before 6 April 2002, subsection (1) shall be read as if the following condition were substituted for the condition in paragraph (b):
+
+‘(b) that the claimant has qualifying contributions in respect of not less than 156 contribution weeks since his or her entry into insurance,’.
 
 (2) In the case of a person, other than a person who on or before 6 April 1997 is a voluntary contributor paying contributions under Chapter 4 of Part 2, who attained the age of 65 years on or after 6 April 2002, but before 6 April 2012, subsection (1) shall be read as if the following condition were substituted for the condition in paragraph (b):
 

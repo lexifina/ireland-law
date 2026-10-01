@@ -14,9 +14,7 @@ Conditions for receipt.
 
 (c) subject to subsection (6D), that the claimant has a yearly average or, in the case of a person who attains pensionable age on or after 6 April 1992, an alternative yearly average of not less than 48.
 
-(1A) In the case of a person who attained pensionable age before 6 April 2002, subsection (1) shall be read as if the following condition were substituted for the condition in paragraph (b):
-
-‘(b) that the claimant has qualifying contributions in respect of not less than 156 contribution weeks since his or her entry into insurance,’.
+(1A) In the case of a person who attained pensionable age before 6 April 2002, subsection (1) shall be read as if the following condition were substituted for the condition in paragraph (b): ‘(b) that the claimant has qualifying contributions in respect of not less than 156 contribution weeks since his or her entry into insurance,’.
 
 (1B) (a) In the case of a claimant to whom section 108(1C) applies, who is, during the relevant period, in receipt of a specified weekly payment, the period or aggregate of periods during which he or she is in receipt of such a specified weekly payment shall be regarded as reducing his or her deferred pensionable age by the equivalent period or aggregate of periods, measured in days, that he or she was in receipt of such a specified weekly payment and the age referenced rate of State pension (contributory) shall be calculated accordingly.
 

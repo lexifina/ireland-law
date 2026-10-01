@@ -80,9 +80,7 @@ Covid-19: special warehousing and interest provisions for contributions.
 
 (b) ending on 30 April 2022;
 
-‘Period 2’, in relation to the employer, means the period beginning on 1 May 2022 and ending on 30 April 2023;
-
-‘Period 3’, in relation to the employer, means the period beginning on 1 May 2023 and ending on the day on which the employer has discharged the Covid-19 liabilities in full.
+‘Period 2’, in relation to the employer, means the period beginning on 1 May 2022 and ending on 30 April 2023; ‘Period 3’, in relation to the employer, means the period beginning on 1 May 2023 and ending on the day on which the employer has discharged the Covid-19 liabilities in full.
 
 (1B) The Revenue Commissioners may designate by order a scheme for the purpose of paragraph (d) of the definition of ‘Covid-19 entitlement’ in subsection (1), where they are satisfied that the scheme is similar in nature and objective to a scheme referred to in paragraph (c) of that definition.
 
