@@ -1,6 +1,6 @@
 Rates of optional contributions and related matters.
 
-29.—(1) Subject to section 38BA, an optional contributor shall pay an optional contribution amounting to 4.2 per cent of his or her reckonable income in excess of €2,500 in the preceding contribution year, or €200, whichever is the greater amount.
+29.—(1) Subject to section 38BA, an optional contributor shall pay an optional contribution amounting to 4.35 per cent of his or her reckonable income in excess of €2,500 in the preceding contribution year, or €200, whichever is the greater amount.
 
 (2) Subject to regulations under section 30, where an optional contribution has been paid by an optional contributor of not less than the amount that he or she is liable to pay under subsection (1), he or she shall be regarded as having paid contributions for each contribution week in that contribution year and, where the contribution paid is less than that appropriate amount, no contribution shall be regarded as having been paid by the optional contributor in respect of any week of that contribution year.
 

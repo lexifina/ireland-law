@@ -2,7 +2,7 @@ Contributions by public office holders.
 
 30B.—(1) Contributions shall be paid by public office holders in accordance with this Chapter.
 
-(2) A public body that is responsible for, or authorises, the payment of remuneration to a public office holder shall collect, or cause to be collected, a contribution at the rate of 4.2 per cent of the total remuneration payable to that public office holder in respect of the holding of a public office.
+(2) A public body that is responsible for, or authorises, the payment of remuneration to a public office holder shall collect, or cause to be collected, a contribution at the rate of 4.35 per cent of the total remuneration payable to that public office holder in respect of the holding of a public office.
 
 (3) Subject to this section, the liability for a contribution under subsection (1) applies to the payment of any remuneration to a public office holder in respect of the holding of a public office—
 

@@ -2,11 +2,11 @@ Rates of self-employment contributions and related matters.
 
 21.—(1) Subject to section 38BA, self-employment contributions shall be paid by self-employed contributors in accordance with the following provisions:
 
-(a) subject to paragraphs (b), (ea) and (f), where in any contribution year a self-employed contributor has reckonable income there shall be payable by him or her a self-employment contribution which shall be the greater of an amount equal to 4.2 per cent of the reckonable income or the amount of €650;
+(a) subject to paragraphs (b), (ea) and (f), where in any contribution year a self-employed contributor has reckonable income there shall be payable by him or her a self-employment contribution which shall be the greater of an amount equal to 4.35 per cent of the reckonable income or the amount of €650;
 
 (b) where for any contribution year a self-employed contributor is informed by the Revenue Commissioners that he or she is not required to make a return of income within the meaning of section 1084 of the Act of 1997, self-employment contributions shall be paid by the self-employed contributor (whether by instalments or otherwise as may be prescribed) amounting to €310 in respect of that contribution year;
 
-(c) subject to paragraphs (ea) and (f), where in any contribution year a payment is made to a self-employed contributor in respect of reckonable emoluments of that self-employed contributor, there shall be payable by him or her a self-employment contribution which shall be the greater of an amount equal to 4.2 per cent of the reckonable emoluments or the amount of €650;
+(c) subject to paragraphs (ea) and (f), where in any contribution year a payment is made to a self-employed contributor in respect of reckonable emoluments of that self-employed contributor, there shall be payable by him or her a self-employment contribution which shall be the greater of an amount equal to 4.35 per cent of the reckonable emoluments or the amount of €650;
 
 (d) subject to regulations under section 22, where a self-employment contribution has been paid by a self-employed contributor of not less than the amount that he or she is liable to pay under paragraph (a) or the amount specified in paragraph (b), whichever is appropriate, the self-employed contributor shall be regarded as having paid contributions for each contribution week in that contribution year and, where the contribution paid is less than that appropriate amount, no contribution shall be regarded as having been paid by the self-employed contributor in respect of any week of that contribution year;
 
@@ -22,7 +22,7 @@ Rates of self-employment contributions and related matters.
 
 (a) the employer—
 
-(i) as part of that agreement and in so far as the qualifying emoluments are comprised of reckonable emoluments of a self-employed contributor to which the agreement applies, shall pay a contribution at a rate of 4.2 per cent in respect of the aggregate of the amount of those reckonable emoluments and the amount of income tax payable under the agreement in respect of them, and
+(i) as part of that agreement and in so far as the qualifying emoluments are comprised of reckonable emoluments of a self-employed contributor to which the agreement applies, shall pay a contribution at a rate of 4.35 per cent in respect of the aggregate of the amount of those reckonable emoluments and the amount of income tax payable under the agreement in respect of them, and
 
 (ii) notwithstanding Article 7 of the Regulations of 1996, shall not be entitled to recover from an employed contributor any part of a contribution paid in accordance with subparagraph (i), and
 

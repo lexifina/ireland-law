@@ -8,7 +8,7 @@ Employment contributions.
 
 (i) a contribution shall be payable by the employed contributor, and
 
-(ii) the rate at which that contribution shall be payable shall be the rate of 4.2 per cent of the amount of the reckonable earnings in that week of each employment reduced by the equivalent of the difference between €12 and one-sixth of the difference between the reckonable earnings of that contributor and €352.01 (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis).
+(ii) the rate at which that contribution shall be payable shall be the rate of 4.35 per cent of the amount of the reckonable earnings in that week of each employment reduced by the equivalent of the difference between €12 and one-sixth of the difference between the reckonable earnings of that contributor and €352.01 (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis).
 
 (ba) ...
 
@@ -18,9 +18,9 @@ Employment contributions.
 
 (d) Subject to paragraph (da), subsection (8) and regulations under section 14, where in any contribution week a payment is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, a contribution shall be payable by the employed contributor’s employer—
 
-(i) at the rate of 8 per cent of the amount of the reckonable earnings in that week to which that payment relates where those reckonable earnings do not exceed €552 (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis), and
+(i) at the rate of 8.15 per cent of the amount of the reckonable earnings in that week to which that payment relates where those reckonable earnings do not exceed €527 (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis), and
 
-(ii) at the rate of 10.25 per cent of the amount of the reckonable earnings in that week to which that payment relates where those reckonable earnings exceed €552 (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis).
+(ii) at the rate of 10.4 per cent of the amount of the reckonable earnings in that week to which that payment relates where those reckonable earnings exceed €527 (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis).
 
 ...
 
@@ -36,7 +36,7 @@ Employment contributions.
 
 (i) a contribution shall be payable by the employed contributor, and
 
-(ii) the rate at which that contribution shall be payable shall be the rate of 4.2 per cent of the amount of the reckonable earnings in that week of each employment (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis).
+(ii) the rate at which that contribution shall be payable shall be the rate of 4.35 per cent of the amount of the reckonable earnings in that week of each employment (or the equivalent thereof in the case of an employed contributor remunerated otherwise than on a weekly basis).
 
 (dc) ...
 
@@ -84,7 +84,7 @@ Employment contributions.
 
 (7) Any sum deducted by an employer from remuneration under regulations for the purposes of this section is deemed to have been entrusted to the employer for the purpose of paying the contribution in respect of which it was deducted.
 
-(8) In the case of employment specified in paragraph 12 of Part 1 of Schedule 1, subsection (2)(d) shall be read as if “0.7 per cent” were substituted for “8 per cent” and “10.25 per cent”.
+(8) In the case of employment specified in paragraph 12 of Part 1 of Schedule 1, subsection (2)(d) shall be read as if “0.85 per cent” were substituted for “8.15 per cent” and “10.4 per cent”.
 
 (9) Regulations may, subject to the conditions and in the circumstances that may be prescribed, exempt an employer who employs an employee under and by virtue of a scheme administered by the Department of Social and Family Affairs, known as the Employers’ Pay-Related Social Insurance Exemption Scheme, from the liability to pay the contribution specified in section 13(2)(d) in respect of that employee.
 
@@ -92,7 +92,7 @@ Employment contributions.
 
 (a) the employer—
 
-(i) as part of that agreement and in so far as the qualifying emoluments are comprised of reckonable earnings of an employed contributor to which the agreement applies, shall pay a contribution at a rate of 14.45 per cent in respect of the aggregate of the amount of those reckonable earnings and the amount of income tax payable under the agreement in respect of them, and
+(i) as part of that agreement and in so far as the qualifying emoluments are comprised of reckonable earnings of an employed contributor to which the agreement applies, shall pay a contribution at a rate of 14.75 per cent in respect of the aggregate of the amount of those reckonable earnings and the amount of income tax payable under the agreement in respect of them, and
 
 (ii) notwithstanding section 13(4) or Article 7 of the Regulations of 1996, shall not be entitled to recover from an employed contributor any part of a contribution paid in accordance with subparagraph (i), and
 
