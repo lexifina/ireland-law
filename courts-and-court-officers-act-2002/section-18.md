@@ -1,0 +1,3 @@
+Amendment of section 15(2) of Act of 1991. (Repealed)
+
+18.—...
