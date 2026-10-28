@@ -1,0 +1,337 @@
+# Local Government Act 2001
+
+No. 37 of 2001 · <https://www.irishstatutebook.ie/eli/2001/act/37/enacted/en/html>
+
+13 revisions by the Law Reform Commission, updated to 2018-12-26 (the first) to 2025-12-31 (the latest).
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Long title | [long-title.md](long-title.md) | 0 |  |
+| Section 1 | [section-1.md](section-1.md) | 0 |  |
+| Section 2 | [section-2.md](section-2.md) | 1 | 2025-10-02 |
+| Section 3 | [section-3.md](section-3.md) | 0 |  |
+| Section 4 | [section-4.md](section-4.md) | 0 |  |
+| Section 5 | [section-5.md](section-5.md) | 0 |  |
+| Section 6 | [section-6.md](section-6.md) | 0 |  |
+| Section 7 | [section-7.md](section-7.md) | 0 |  |
+| Section 8 | [section-8.md](section-8.md) | 0 |  |
+| Section 9 | [section-9.md](section-9.md) | 0 |  |
+| Section 10 | [section-10.md](section-10.md) | 1 | 2019-01-31 |
+| Section 11 | [section-11.md](section-11.md) | 0 |  |
+| Section 12 | [section-12.md](section-12.md) | 0 |  |
+| Section 13 | [section-13.md](section-13.md) | 1 | 2024-03-31 |
+| Section 13A | [section-13A.md](section-13A.md) | 1 | 2024-03-31 |
+| Section 14 | [section-14.md](section-14.md) | 0 |  |
+| Section 15 | [section-15.md](section-15.md) | 0 |  |
+| Section 16 | [section-16.md](section-16.md) | 0 |  |
+| Section 17 | [section-17.md](section-17.md) | 0 |  |
+| Section 18 | [section-18.md](section-18.md) | 1 | 2022-12-21 |
+| Section 19 | [section-19.md](section-19.md) | 1 | 2024-03-31 |
+| Section 19A | [section-19A.md](section-19A.md) | 3 | 2024-03-31 |
+| Section 20 | [section-20.md](section-20.md) | 0 |  |
+| Section 21 | [section-21.md](section-21.md) | 0 |  |
+| Section 22 | [section-22.md](section-22.md) | 0 |  |
+| Section 22A | [section-22A.md](section-22A.md) | 0 |  |
+| Section 22B | [section-22B.md](section-22B.md) | 0 |  |
+| Section 22C | [section-22C.md](section-22C.md) | 0 |  |
+| Section 23 | [section-23.md](section-23.md) | 0 |  |
+| Section 24 | [section-24.md](section-24.md) | 0 |  |
+| Section 25 | [section-25.md](section-25.md) | 0 |  |
+| Section 26 | [section-26.md](section-26.md) | 1 | 2022-10-13 |
+| Section 26A | [section-26A.md](section-26A.md) | 1 | 2022-10-13 |
+| Section 27 | [section-27.md](section-27.md) | 0 |  |
+| Section 28 | [section-28.md](section-28.md) | 0 |  |
+| Section 29 | [section-29.md](section-29.md) | 0 |  |
+| Section 30 | [section-30.md](section-30.md) | 0 |  |
+| Section 31 | [section-31.md](section-31.md) | 0 |  |
+| Section 32 | [section-32.md](section-32.md) | 0 |  |
+| Section 33 | [section-33.md](section-33.md) | 0 |  |
+| Section 34 | [section-34.md](section-34.md) | 0 |  |
+| Section 35 | [section-35.md](section-35.md) | 0 |  |
+| Section 35A | [section-35A.md](section-35A.md) | 0 |  |
+| Section 36 | [section-36.md](section-36.md) | 0 |  |
+| Section 37 | [section-37.md](section-37.md) | 0 |  |
+| Section 38 | [section-38.md](section-38.md) | 0 |  |
+| Section 39 | [section-39.md](section-39.md) | 0 |  |
+| Section 40 | [section-40.md](section-40.md) | 0 |  |
+| Section 41 | [section-41.md](section-41.md) | 0 |  |
+| Section 42 | [section-42.md](section-42.md) | 0 |  |
+| Section 43 | [section-43.md](section-43.md) | 0 |  |
+| Section 44 | [section-44.md](section-44.md) | 0 |  |
+| Section 45 | [section-45.md](section-45.md) | 0 |  |
+| Section 46 | [section-46.md](section-46.md) | 0 |  |
+| Section 47 | [section-47.md](section-47.md) | 0 |  |
+| Section 48 | [section-48.md](section-48.md) | 0 |  |
+| Section 49 | [section-49.md](section-49.md) | 0 |  |
+| Section 49A | [section-49A.md](section-49A.md) | 0 |  |
+| Section 50 | [section-50.md](section-50.md) | 0 |  |
+| Section 51 | [section-51.md](section-51.md) | 1 | 2025-12-31 |
+| Section 52 | [section-52.md](section-52.md) | 0 |  |
+| Section 53 | [section-53.md](section-53.md) | 0 |  |
+| Section 54 | [section-54.md](section-54.md) | 0 |  |
+| Section 55 | [section-55.md](section-55.md) | 0 |  |
+| Section 56 | [section-56.md](section-56.md) | 0 |  |
+| Section 57 | [section-57.md](section-57.md) | 0 |  |
+| Section 58 | [section-58.md](section-58.md) | 0 |  |
+| Section 59 | [section-59.md](section-59.md) | 0 |  |
+| Section 60 | [section-60.md](section-60.md) | 0 |  |
+| Section 61 | [section-61.md](section-61.md) | 0 |  |
+| Section 62 | [section-62.md](section-62.md) | 0 |  |
+| Section 63 | [section-63.md](section-63.md) | 0 |  |
+| Section 64 | [section-64.md](section-64.md) | 0 |  |
+| Section 65 | [section-65.md](section-65.md) | 0 |  |
+| Section 66 | [section-66.md](section-66.md) | 0 |  |
+| Section 66A | [section-66A.md](section-66A.md) | 0 |  |
+| Section 66B | [section-66B.md](section-66B.md) | 1 | 2025-10-02 |
+| Section 66C | [section-66C.md](section-66C.md) | 1 | 2025-10-02 |
+| Section 66D | [section-66D.md](section-66D.md) | 0 |  |
+| Section 66E | [section-66E.md](section-66E.md) | 0 |  |
+| Section 66F | [section-66F.md](section-66F.md) | 0 |  |
+| Section 66G | [section-66G.md](section-66G.md) | 0 |  |
+| Section 66H | [section-66H.md](section-66H.md) | 1 | 2025-07-04 |
+| Section 67 | [section-67.md](section-67.md) | 0 |  |
+| Section 68 | [section-68.md](section-68.md) | 0 |  |
+| Section 69 | [section-69.md](section-69.md) | 0 |  |
+| Section 70 | [section-70.md](section-70.md) | 0 |  |
+| Section 71 | [section-71.md](section-71.md) | 0 |  |
+| Section 72 | [section-72.md](section-72.md) | 0 |  |
+| Section 73 | [section-73.md](section-73.md) | 0 |  |
+| Section 74 | [section-74.md](section-74.md) | 0 |  |
+| Section 75 | [section-75.md](section-75.md) | 0 |  |
+| Section 76 | [section-76.md](section-76.md) | 0 |  |
+| Section 77 | [section-77.md](section-77.md) | 0 |  |
+| Section 78 | [section-78.md](section-78.md) | 0 |  |
+| Section 79 | [section-79.md](section-79.md) | 0 |  |
+| Section 80 | [section-80.md](section-80.md) | 0 |  |
+| Section 81 | [section-81.md](section-81.md) | 0 |  |
+| Section 82 | [section-82.md](section-82.md) | 0 |  |
+| Section 83 | [section-83.md](section-83.md) | 0 |  |
+| Section 84 | [section-84.md](section-84.md) | 0 |  |
+| Section 85 | [section-85.md](section-85.md) | 1 | 2019-01-31 |
+| Section 86 | [section-86.md](section-86.md) | 0 |  |
+| Section 87 | [section-87.md](section-87.md) | 0 |  |
+| Section 88 | [section-88.md](section-88.md) | 0 |  |
+| Section 89 | [section-89.md](section-89.md) | 0 |  |
+| Section 90 | [section-90.md](section-90.md) | 0 |  |
+| Section 91 | [section-91.md](section-91.md) | 0 |  |
+| Section 92 | [section-92.md](section-92.md) | 0 |  |
+| Section 93 | [section-93.md](section-93.md) | 0 |  |
+| Section 94 | [section-94.md](section-94.md) | 0 |  |
+| Section 95 | [section-95.md](section-95.md) | 0 |  |
+| Section 96 | [section-96.md](section-96.md) | 0 |  |
+| Section 97 | [section-97.md](section-97.md) | 0 |  |
+| Section 98 | [section-98.md](section-98.md) | 0 |  |
+| Section 99 | [section-99.md](section-99.md) | 0 |  |
+| Section 100 | [section-100.md](section-100.md) | 0 |  |
+| Section 101 | [section-101.md](section-101.md) | 0 |  |
+| Section 102 | [section-102.md](section-102.md) | 0 |  |
+| Section 103 | [section-103.md](section-103.md) | 1 | 2023-11-06 |
+| Section 103A | [section-103A.md](section-103A.md) | 0 |  |
+| Section 104 | [section-104.md](section-104.md) | 0 |  |
+| Section 105 | [section-105.md](section-105.md) | 0 |  |
+| Section 106 | [section-106.md](section-106.md) | 0 |  |
+| Section 107 | [section-107.md](section-107.md) | 0 |  |
+| Section 108 | [section-108.md](section-108.md) | 0 |  |
+| Section 109 | [section-109.md](section-109.md) | 0 |  |
+| Section 110 | [section-110.md](section-110.md) | 0 |  |
+| Section 111 | [section-111.md](section-111.md) | 0 |  |
+| Section 112 | [section-112.md](section-112.md) | 0 |  |
+| Section 113 | [section-113.md](section-113.md) | 0 |  |
+| Section 114 | [section-114.md](section-114.md) | 0 |  |
+| Section 115 | [section-115.md](section-115.md) | 0 |  |
+| Section 116 | [section-116.md](section-116.md) | 0 |  |
+| Section 117 | [section-117.md](section-117.md) | 0 |  |
+| Section 118 | [section-118.md](section-118.md) | 0 |  |
+| Section 119 | [section-119.md](section-119.md) | 0 |  |
+| Section 120 | [section-120.md](section-120.md) | 0 |  |
+| Section 121 | [section-121.md](section-121.md) | 0 |  |
+| Section 122 | [section-122.md](section-122.md) | 0 |  |
+| Section 123 | [section-123.md](section-123.md) | 0 |  |
+| Section 124 | [section-124.md](section-124.md) | 0 |  |
+| Section 125 | [section-125.md](section-125.md) | 0 |  |
+| Section 126 | [section-126.md](section-126.md) | 0 |  |
+| Section 126A | [section-126A.md](section-126A.md) | 0 |  |
+| Section 126B | [section-126B.md](section-126B.md) | 0 |  |
+| Section 126C | [section-126C.md](section-126C.md) | 0 |  |
+| Section 126D | [section-126D.md](section-126D.md) | 0 |  |
+| Section 126E | [section-126E.md](section-126E.md) | 0 |  |
+| Section 126F | [section-126F.md](section-126F.md) | 0 |  |
+| Section 126G | [section-126G.md](section-126G.md) | 0 |  |
+| Section 126H | [section-126H.md](section-126H.md) | 0 |  |
+| Section 126I | [section-126I.md](section-126I.md) | 0 |  |
+| Section 126J | [section-126J.md](section-126J.md) | 0 |  |
+| Section 126K | [section-126K.md](section-126K.md) | 0 |  |
+| Section 126L | [section-126L.md](section-126L.md) | 0 |  |
+| Section 127 | [section-127.md](section-127.md) | 0 |  |
+| Section 128 | [section-128.md](section-128.md) | 0 |  |
+| Section 128A | [section-128A.md](section-128A.md) | 1 | 2024-03-31 |
+| Section 128B | [section-128B.md](section-128B.md) | 0 |  |
+| Section 128C | [section-128C.md](section-128C.md) | 0 |  |
+| Section 128D | [section-128D.md](section-128D.md) | 0 |  |
+| Section 128E | [section-128E.md](section-128E.md) | 0 |  |
+| Section 128F | [section-128F.md](section-128F.md) | 0 |  |
+| Section 129 | [section-129.md](section-129.md) | 0 |  |
+| Section 129A | [section-129A.md](section-129A.md) | 0 |  |
+| Section 129B | [section-129B.md](section-129B.md) | 0 |  |
+| Section 129C | [section-129C.md](section-129C.md) | 0 |  |
+| Section 129D | [section-129D.md](section-129D.md) | 0 |  |
+| Section 129E | [section-129E.md](section-129E.md) | 0 |  |
+| Section 129F | [section-129F.md](section-129F.md) | 0 |  |
+| Section 129G | [section-129G.md](section-129G.md) | 0 |  |
+| Section 129H | [section-129H.md](section-129H.md) | 0 |  |
+| Section 129I | [section-129I.md](section-129I.md) | 0 |  |
+| Section 129J | [section-129J.md](section-129J.md) | 1 | 2024-05-16 |
+| Section 129K | [section-129K.md](section-129K.md) | 0 |  |
+| Section 129L | [section-129L.md](section-129L.md) | 0 |  |
+| Section 129M | [section-129M.md](section-129M.md) | 0 |  |
+| Section 129N | [section-129N.md](section-129N.md) | 0 |  |
+| Section 129O | [section-129O.md](section-129O.md) | 0 |  |
+| Section 129P | [section-129P.md](section-129P.md) | 0 |  |
+| Section 129Q | [section-129Q.md](section-129Q.md) | 0 |  |
+| Section 129R | [section-129R.md](section-129R.md) | 0 |  |
+| Section 129S | [section-129S.md](section-129S.md) | 0 |  |
+| Section 129T | [section-129T.md](section-129T.md) | 0 |  |
+| Section 130 | [section-130.md](section-130.md) | 0 |  |
+| Section 131 | [section-131.md](section-131.md) | 0 |  |
+| Section 131A | [section-131A.md](section-131A.md) | 1 | 2021-09-03 |
+| Section 131B | [section-131B.md](section-131B.md) | 0 |  |
+| Section 132 | [section-132.md](section-132.md) | 0 |  |
+| Section 133 | [section-133.md](section-133.md) | 0 |  |
+| Section 134 | [section-134.md](section-134.md) | 0 |  |
+| Section 134A | [section-134A.md](section-134A.md) | 0 |  |
+| Section 135 | [section-135.md](section-135.md) | 0 |  |
+| Section 136 | [section-136.md](section-136.md) | 0 |  |
+| Section 137 | [section-137.md](section-137.md) | 1 | 2024-03-31 |
+| Section 138 | [section-138.md](section-138.md) | 0 |  |
+| Section 139 | [section-139.md](section-139.md) | 0 |  |
+| Section 140 | [section-140.md](section-140.md) | 1 | 2019-01-31 |
+| Section 141 | [section-141.md](section-141.md) | 0 |  |
+| Section 142 | [section-142.md](section-142.md) | 0 |  |
+| Section 143 | [section-143.md](section-143.md) | 0 |  |
+| Section 144 | [section-144.md](section-144.md) | 0 |  |
+| Section 145 | [section-145.md](section-145.md) | 0 |  |
+| Section 146 | [section-146.md](section-146.md) | 0 |  |
+| Section 147 | [section-147.md](section-147.md) | 0 |  |
+| Section 148 | [section-148.md](section-148.md) | 0 |  |
+| Section 149 | [section-149.md](section-149.md) | 0 |  |
+| Section 149A | [section-149A.md](section-149A.md) | 0 |  |
+| Section 150 | [section-150.md](section-150.md) | 0 |  |
+| Section 151 | [section-151.md](section-151.md) | 0 |  |
+| Section 152 | [section-152.md](section-152.md) | 0 |  |
+| Section 153 | [section-153.md](section-153.md) | 0 |  |
+| Section 154 | [section-154.md](section-154.md) | 0 |  |
+| Section 155 | [section-155.md](section-155.md) | 0 |  |
+| Section 156 | [section-156.md](section-156.md) | 0 |  |
+| Section 157 | [section-157.md](section-157.md) | 0 |  |
+| Section 158 | [section-158.md](section-158.md) | 1 | 2024-08-08 |
+| Section 159 | [section-159.md](section-159.md) | 0 |  |
+| Section 160 | [section-160.md](section-160.md) | 1 | 2024-03-31 |
+| Section 161 | [section-161.md](section-161.md) | 0 |  |
+| Section 162 | [section-162.md](section-162.md) | 0 |  |
+| Section 163 | [section-163.md](section-163.md) | 0 |  |
+| Section 164 | [section-164.md](section-164.md) | 0 |  |
+| Section 165 | [section-165.md](section-165.md) | 0 |  |
+| Section 166 | [section-166.md](section-166.md) | 0 |  |
+| Section 167 | [section-167.md](section-167.md) | 0 |  |
+| Section 168 | [section-168.md](section-168.md) | 0 |  |
+| Section 169 | [section-169.md](section-169.md) | 0 |  |
+| Section 170 | [section-170.md](section-170.md) | 0 |  |
+| Section 171 | [section-171.md](section-171.md) | 0 |  |
+| Section 172 | [section-172.md](section-172.md) | 0 |  |
+| Section 173 | [section-173.md](section-173.md) | 1 | 2024-03-31 |
+| Section 174 | [section-174.md](section-174.md) | 0 |  |
+| Section 175 | [section-175.md](section-175.md) | 0 |  |
+| Section 176 | [section-176.md](section-176.md) | 0 |  |
+| Section 177 | [section-177.md](section-177.md) | 0 |  |
+| Section 178 | [section-178.md](section-178.md) | 1 | 2024-03-31 |
+| Section 179 | [section-179.md](section-179.md) | 0 |  |
+| Section 180 | [section-180.md](section-180.md) | 0 |  |
+| Section 181 | [section-181.md](section-181.md) | 0 |  |
+| Section 182 | [section-182.md](section-182.md) | 1 | 2024-03-31 |
+| Section 183 | [section-183.md](section-183.md) | 0 |  |
+| Section 184 | [section-184.md](section-184.md) | 0 |  |
+| Section 185 | [section-185.md](section-185.md) | 0 |  |
+| Section 186 | [section-186.md](section-186.md) | 0 |  |
+| Section 187 | [section-187.md](section-187.md) | 0 |  |
+| Section 188 | [section-188.md](section-188.md) | 1 | 2019-04-16 |
+| Section 189 | [section-189.md](section-189.md) | 1 | 2019-01-31 |
+| Section 190 | [section-190.md](section-190.md) | 1 | 2019-01-31 |
+| Section 191 | [section-191.md](section-191.md) | 0 |  |
+| Section 192 | [section-192.md](section-192.md) | 1 | 2019-01-31 |
+| Section 193 | [section-193.md](section-193.md) | 1 | 2019-01-31 |
+| Section 194 | [section-194.md](section-194.md) | 1 | 2019-01-31 |
+| Section 195 | [section-195.md](section-195.md) | 1 | 2019-01-31 |
+| Section 196 | [section-196.md](section-196.md) | 1 | 2019-01-31 |
+| Section 197 | [section-197.md](section-197.md) | 1 | 2019-01-31 |
+| Section 198 | [section-198.md](section-198.md) | 0 |  |
+| Section 199 | [section-199.md](section-199.md) | 0 |  |
+| Section 200 | [section-200.md](section-200.md) | 0 |  |
+| Section 201 | [section-201.md](section-201.md) | 0 |  |
+| Section 202 | [section-202.md](section-202.md) | 0 |  |
+| Section 203 | [section-203.md](section-203.md) | 0 |  |
+| Section 204 | [section-204.md](section-204.md) | 0 |  |
+| Section 205 | [section-205.md](section-205.md) | 0 |  |
+| Section 206 | [section-206.md](section-206.md) | 0 |  |
+| Section 207 | [section-207.md](section-207.md) | 0 |  |
+| Section 208 | [section-208.md](section-208.md) | 0 |  |
+| Section 209 | [section-209.md](section-209.md) | 0 |  |
+| Section 210 | [section-210.md](section-210.md) | 0 |  |
+| Section 211 | [section-211.md](section-211.md) | 0 |  |
+| Section 211A | [section-211A.md](section-211A.md) | 0 |  |
+| Section 211B | [section-211B.md](section-211B.md) | 0 |  |
+| Section 211C | [section-211C.md](section-211C.md) | 0 |  |
+| Section 211D | [section-211D.md](section-211D.md) | 0 |  |
+| Section 211E | [section-211E.md](section-211E.md) | 0 |  |
+| Section 211F | [section-211F.md](section-211F.md) | 0 |  |
+| Section 212 | [section-212.md](section-212.md) | 0 |  |
+| Section 213 | [section-213.md](section-213.md) | 0 |  |
+| Section 214 | [section-214.md](section-214.md) | 0 |  |
+| Section 215 | [section-215.md](section-215.md) | 0 |  |
+| Section 216 | [section-216.md](section-216.md) | 0 |  |
+| Section 217 | [section-217.md](section-217.md) | 0 |  |
+| Section 218 | [section-218.md](section-218.md) | 0 |  |
+| Section 219 | [section-219.md](section-219.md) | 0 |  |
+| Section 220 | [section-220.md](section-220.md) | 0 |  |
+| Section 221 | [section-221.md](section-221.md) | 0 |  |
+| Section 222 | [section-222.md](section-222.md) | 0 |  |
+| Section 223 | [section-223.md](section-223.md) | 0 |  |
+| Section 224 | [section-224.md](section-224.md) | 0 |  |
+| Section 225 | [section-225.md](section-225.md) | 0 |  |
+| Section 226 | [section-226.md](section-226.md) | 0 |  |
+| Section 227 | [section-227.md](section-227.md) | 0 |  |
+| Section 228 | [section-228.md](section-228.md) | 0 |  |
+| Section 229 | [section-229.md](section-229.md) | 0 |  |
+| Section 230 | [section-230.md](section-230.md) | 0 |  |
+| Section 231 | [section-231.md](section-231.md) | 0 |  |
+| Section 232 | [section-232.md](section-232.md) | 0 |  |
+| Section 233 | [section-233.md](section-233.md) | 0 |  |
+| Section 234 | [section-234.md](section-234.md) | 0 |  |
+| Section 235 | [section-235.md](section-235.md) | 0 |  |
+| Section 236 | [section-236.md](section-236.md) | 0 |  |
+| Section 237 | [section-237.md](section-237.md) | 0 |  |
+| Section 237A | [section-237A.md](section-237A.md) | 0 |  |
+| Section 238 | [section-238.md](section-238.md) | 0 |  |
+| Section 239 | [section-239.md](section-239.md) | 0 |  |
+| Section 240 | [section-240.md](section-240.md) | 0 |  |
+| Section 241 | [section-241.md](section-241.md) | 0 |  |
+| Section 242 | [section-242.md](section-242.md) | 0 |  |
+| Section 243 | [section-243.md](section-243.md) | 0 |  |
+| Section 244 | [section-244.md](section-244.md) | 0 |  |
+| Section 245 | [section-245.md](section-245.md) | 0 |  |
+| Section 246 | [section-246.md](section-246.md) | 0 |  |
+| Section 247 | [section-247.md](section-247.md) | 0 |  |
+| Schedule 1 | [schedule-1.md](schedule-1.md) | 0 |  |
+| Schedule 2 | [schedule-2.md](schedule-2.md) | 0 |  |
+| Schedule 3 | [schedule-3.md](schedule-3.md) | 0 |  |
+| Schedule 4 | [schedule-4.md](schedule-4.md) | 1 | 2025-12-31 |
+| Schedule 5 | [schedule-5.md](schedule-5.md) | 1 | 2025-12-31 |
+| Schedule 6 | [schedule-6.md](schedule-6.md) | 0 |  |
+| Schedule 7 | [schedule-7.md](schedule-7.md) | 1 | 2024-03-31 |
+| Schedule 8 | [schedule-8.md](schedule-8.md) | 0 |  |
+| Schedule 9 | [schedule-9.md](schedule-9.md) | 0 |  |
+| Schedule 10 | [schedule-10.md](schedule-10.md) | 0 |  |
+| Schedule 11 | [schedule-11.md](schedule-11.md) | 0 |  |
+| Schedule 12 | [schedule-12.md](schedule-12.md) | 1 | 2021-09-03 |
+| Schedule 13 | [schedule-13.md](schedule-13.md) | 0 |  |
+| Schedule 14 | [schedule-14.md](schedule-14.md) | 0 |  |
+| Schedule 14A | [schedule-14A.md](schedule-14A.md) | 5 | 2025-12-31 |
