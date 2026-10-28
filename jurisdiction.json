@@ -1,0 +1,10 @@
+{
+  "path": "ie",
+  "code": "IE",
+  "name": "Ireland",
+  "level": "country",
+  "repo": "https://github.com/lexifina/ireland-law",
+  "build": "partial",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
