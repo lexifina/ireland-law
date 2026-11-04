@@ -8,7 +8,7 @@ It asserts that:
 2. tools/on_date.py gives the text before and after a known amendment, and each equals the file at that law's tag;
 3. `git log --follow` on a file lists its amending laws in the order they took effect;
 4. every tag resolves to a commit, and every commit has an `In-force:` trailer;
-5. no commit is authored by Lexifina except the documentation commit (the last one);
+5. only commits labelled `Kind: documentation` are authored by Lexifina, and every documentation commit is;
 6. every git or tool command in the README's table runs and prints something.
 With --record the result is written to verification.json next to this script (for REPRODUCE.md).
 """
@@ -119,13 +119,18 @@ class Smoke:
 
     # 5
     def lexifina(self):
-        rows = [r.split('\t') for r in self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()]
+        rows = [r.split('\t') for r in self.git(
+            'log', '--format=%H%x09%an%x09%ae%x09%cn%x09%(trailers:key=Kind,valueonly,separator=)', 'main'
+        ).splitlines()]
         by_lex = [r for r in rows if r[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        docs = [r for r in rows if r[4].strip() == 'documentation']
+        assert by_lex and all(r[4].strip() == 'documentation' for r in by_lex), \
+            'a non-documentation commit is authored by Lexifina'
+        assert docs and all(r[1] == 'Lexifina' for r in docs), 'a documentation commit is not authored by Lexifina'
         assert all(r[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        emails = {r[2] for r in rows[1:]}
+        emails = {r[2] for r in rows if r[1] != 'Lexifina'}
         assert all(LAW.match(a) or a == PUBLISHER for a in emails), f'unexpected authors {emails - {PUBLISHER}}'
-        return f'only the documentation commit {rows[0][0][:10]} is by Lexifina; {len(emails)} distinct authors'
+        return f'{len(by_lex)} documentation commits are by Lexifina; {len(emails)} distinct law authors'
 
     # 6
     def readme(self):
@@ -154,7 +159,7 @@ def main():
     s.check('text before and after an amendment', s.on_date)
     s.check('log --follow in date order', s.follow)
     s.check('tags resolve, In-force on every commit', s.tags_and_trailers)
-    s.check('only the documentation commit is by Lexifina', s.lexifina)
+    s.check('only documentation commits are by Lexifina', s.lexifina)
     s.check('README commands run', s.readme)
     ok = all(r[1] for r in s.results)
     print(f'{sum(r[1] for r in s.results)}/{len(s.results)} passed')

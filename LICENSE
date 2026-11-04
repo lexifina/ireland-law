@@ -15,27 +15,18 @@ https://revisedacts.lawreform.ie. Each Revised Act states:
 Only the Acts as enacted, published on the electronic Irish Statute Book (www.irishstatutebook.ie), are the official
 text; a Revised Act is not.
 
-Reuse terms. The electronic Irish Statute Book, on whose identifiers and annotations the Revised Acts are built,
-states (https://www.irishstatutebook.ie/eli/open-data.html, read 28 October 2026):
+Reuse terms. The Law Reform Commission's Open Data Licence
+(https://revisedacts.lawreform.ie/open-data-licence) applies the Oireachtas (Open Data) PSI Licence to Legislative
+Text on the Revised Acts website and the Creative Commons Attribution 4.0 International Licence (CC BY 4.0) to its
+Annotation Text. The two forms of text have separate creators and separate attribution statements:
 
-    Re-use of the data on this web site is subject to the OIREACHTAS (OPEN DATA) PSI LICENCE, which is a standard
-    licence for the purposes of Directive (EU) 2019/1024 on open data and the re-use of public sector information as
-    transposed into Irish law by the European Union (Open Data and Re-use of Public Sector Information) Regulations
-    2021 ( S.I. No. 376/2021 ). This licence incorporates the Creative Commons Attribution 4.0 International License
-    for the re-use of Public Sector Information.
+    Contains Oireachtas Copyright Material, reproduced with the permission of the Houses of the Oireachtas under the Oireachtas (Open Data) PSI Licence
 
-and its pages carry: "Oireachtas Copyright Material is reproduced with the permission of the Houses of the
-Oireachtas." The licence: https://www.oireachtas.ie/en/open-data/license/
+    Contains Law Reform Commission Annotation Text, licensed under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0)
 
-Attribution: Contains Oireachtas Copyright Material, reproduced with the permission of the Houses of the Oireachtas
-under the Oireachtas (Open Data) PSI Licence (CC BY 4.0); consolidated text from the Revised Acts of the Law Reform
-Commission (revisedacts.lawreform.ie). Changed: split into one file per provision, annotation marks removed, layout
-normalised, and arranged as a history of commits.
-
-NOT SETTLED: the Revised Acts site itself (revisedacts.lawreform.ie) states only "All content Copyright 2026" and
-names no licence. Whether the Oireachtas (Open Data) PSI Licence covers the Commission's Revised Acts, or the
-Commission's own consolidation work, is not stated anywhere we found. Until the Commission confirms its terms, this
-repository is private and is not to be redistributed.
+Changed: split into one file per provision, annotation marks removed, layout normalised, and arranged as a history
+of commits. These changes do not alter the source licences. The repository remains private unless its owner decides
+otherwise.
 
 Everything else in this repository (the history as commits, the commit messages, the tables and the tools) is
 dedicated to the public domain under CC0 1.0 Universal:

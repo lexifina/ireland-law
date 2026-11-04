@@ -68,4 +68,6 @@ Annotation marks (`F12[ ... ]`) are removed; the annotations themselves are quot
 
 ## Terms
 
-See [`LICENSE`](LICENSE). The reuse terms for the Revised Acts are not settled, so this repository is private.
+See [`LICENSE`](LICENSE). Legislative text is reused under the Oireachtas (Open Data) PSI Licence; the Law Reform
+Commission's annotation text is reused under CC BY 4.0. The repository remains private unless its owner decides
+otherwise.
