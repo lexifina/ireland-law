@@ -1,5 +1,7 @@
 # Irish law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ireland's national law, which global-law reads at `ireland/national/acts/`.
+
 The Law Reform Commission's [Revised Acts](https://revisedacts.lawreform.ie) as a git repository: every Revised Act in
 its alphabetical list (Acts of the Oireachtas, the statutory instruments it revises, and the pre-1922 Acts it carries),
 each in its own folder, with every revision the Commission publishes, current and previous. Each amending law is one
