@@ -59,6 +59,7 @@ Each change is credited to the law that made it, as the annotations name it (`Em
 - It then compares the whole act, character by character, with the PDF's body text read a second way, without the builder's layout rules: 2,513 revisions, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
 - `tools/test_repo.py` checks that blame names a law, that the text differs before and after an amendment, and that every commit carries `In-force:`.
 - A second build from the same PDFs gave the same commits with the same hashes; `data/versions.json` lists every revision with its PDF's sha256.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the law that made it, as the annotations name it (`Em
 See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, summarised or edited legal text; the builder, checker and tests were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
