@@ -31,610 +31,610 @@ was listed) and 2566 revision PDFs:
 
 | Act | Number | Folder | Revisions | Updated to | Files today |
 | --- | --- | --- | ---: | --- | ---: |
-| Public Bodies Corrupt Practices Act 1889 | 1889 c. 69 | `public-bodies-corrupt-practices-act-1889/` | 1 | 2018-07-30 to 2018-07-30 | 11 |
-| Sale of Goods Act 1893 | 1893 c. 71 | `sale-of-goods-act-1893/` | 4 | 2016-06-30 to 2025-10-10 | 67 |
-| Merchant Shipping Act 1894 | 1894 c. 60 | `merchant-shipping-act-1894/` | 4 | 2021-04-28 to 2025-07-29 | 768 |
-| Prevention of Corruption Act 1906 | 1906 c. 34 | `prevention-of-corruption-act-1906/` | 1 | 2018-07-30 to 2018-07-30 | 5 |
-| Probation Of Offenders Act 1907 | 1907 c. 17 | `probation-of-offenders-act-1907/` | 1 | 2026-02-24 to 2026-02-24 | 12 |
-| Punishment Of Incest Act 1908 | 1908 c. 45 | `punishment-of-incest-act-1908/` | 1 | 2023-02-24 to 2023-02-24 | 9 |
-| Prevention of Corruption Act 1916 | 1916 c. 64 | `prevention-of-corruption-act-1916/` | 1 | 2018-07-30 to 2018-07-30 | 5 |
-| Roads Act 1920 | 1920 c. 72 | `roads-act-1920/` | 2 | 2024-02-01 to 2025-03-27 | 23 |
-| Ministers and Secretaries Act 1924 | No. 16 of 1924 | `ministers-and-secretaries-act-1924/` | 1 | 2025-02-21 to 2025-02-21 | 22 |
-| Firearms Act 1925 | No. 17 of 1925 | `firearms-act-1925/` | 6 | 2018-05-25 to 2026-09-01 | 61 |
-| Wireless Telegraphy Act 1926 | No. 45 of 1926 | `wireless-telegraphy-act-1926/` | 7 | 2024-07-29 to 2026-03-11 | 26 |
-| Electricity (Supply) Act 1927 | No. 27 of 1927 | `electricity-supply-act-1927/` | 1 | 2024-07-23 to 2024-07-23 | 117 |
-| Legitimacy Act 1931 | No. 13 of 1931 | `legitimacy-act-1931/` | 2 | 2016-01-01 to 2019-05-28 | 14 |
-| Road Transport Act 1933 | No. 8 of 1933 | `road-transport-act-1933/` | 2 | 2016-06-30 to 2019-05-28 | 75 |
-| Foreshore Act 1933 | No. 12 of 1933 | `foreshore-act-1933/` | 6 | 2017-07-26 to 2024-05-14 | 52 |
-| Road Transport Act 1934 | No. 17 of 1934 | `road-transport-act-1934/` | 2 | 2016-06-30 to 2019-05-28 | 16 |
-| Road Transport Act 1935 | No. 23 of 1935 | `road-transport-act-1935/` | 2 | 2016-06-30 to 2019-05-28 | 10 |
-| Ministerial and Parliamentary Offices Act 1938 | No. 38 of 1938 | `ministerial-and-parliamentary-offices-act-1938/` | 1 | 2025-11-06 to 2025-11-06 | 62 |
-| Offences Against the State Act 1939 | No. 13 of 1939 | `offences-against-the-state-act-1939/` | 1 | 2025-10-01 to 2025-10-01 | 71 |
-| Tourist Traffic Act 1939 | No. 24 of 1939 | `tourist-traffic-act-1939/` | 4 | 2016-08-31 to 2025-06-01 | 58 |
-| Ministers and Secretaries (Amendment) Act 1939 | No. 36 of 1939 | `ministers-and-secretaries-amendment-act-1939/` | 4 | 2025-04-01 to 2026-03-01 | 15 |
-| Enforcement of Court Orders Act 1940 | No. 23 of 1940 | `enforcement-of-court-orders-act-1940/` | 3 | 2021-04-27 to 2026-07-01 | 12 |
-| Central Bank Act 1942 | No. 22 of 1942 | `central-bank-act-1942/` | 26 | 2019-01-29 to 2026-08-01 | 303 |
-| Arterial Drainage Act 1945 | No. 3 of 1945 | `arterial-drainage-act-1945/` | 1 | 2026-05-20 to 2026-05-20 | 83 |
-| Industrial Relations Act 1946 | No. 26 of 1946 | `industrial-relations-act-1946/` | 15 | 2018-12-19 to 2025-12-18 | 96 |
-| Health Act 1947 | No. 28 of 1947 | `health-act-1947/` | 41 | 2020-04-08 to 2026-05-14 | 157 |
-| Tourist Traffic Act 1952 | No. 15 of 1952 | `tourist-traffic-act-1952/` | 3 | 2016-12-28 to 2020-10-18 | 56 |
-| Finance (Excise Duties) (Vehicles) Act 1952 | No. 24 of 1952 | `finance-excise-duties-vehicles-act-1952/` | 2 | 2024-03-27 to 2026-06-01 | 8 |
-| Merchant Shipping (Safety Convention) Act 1952 | No. 29 of 1952 | `merchant-shipping-safety-convention-act-1952/` | 11 | 2021-05-20 to 2026-04-01 | 50 |
-| Health Act 1953 | No. 26 of 1953 | `health-act-1953/` | 1 | 2026-02-03 to 2026-02-03 | 74 |
-| Defence Act 1954 | No. 18 of 1954 | `defence-act-1954/` | 8 | 2017-04-07 to 2024-11-06 | 407 |
-| State Property Act 1954 | No. 25 of 1954 | `state-property-act-1954/` | 1 | 2023-03-01 to 2023-03-01 | 41 |
-| Tourist Traffic Act 1955 | No. 5 of 1955 | `tourist-traffic-act-1955/` | 3 | 2016-08-31 to 2020-09-16 | 17 |
-| Transport (Miscellaneous Provisions) Act 1955 | No. 21 of 1955 | `transport-miscellaneous-provisions-act-1955/` | 2 | 2016-08-31 to 2019-05-28 | 6 |
-| Gaming and Lotteries Act 1956 | No. 2 of 1956 | `gaming-and-lotteries-act-1956/` | 2 | 2021-11-10 to 2023-07-31 | 61 |
-| Irish Nationality and Citizenship Act 1956 | No. 26 of 1956 | `irish-nationality-and-citizenship-act-1956/` | 6 | 2021-08-10 to 2026-06-12 | 44 |
-| Civil Service Regulation Act 1956 | No. 46 of 1956 | `civil-service-regulation-act-1956/` | 2 | 2024-12-01 to 2026-07-15 | 29 |
-| Married Women’s Status Act 1957 | No. 5 of 1957 | `married-women-s-status-act-1957/` | 1 | 2019-02-01 to 2019-02-01 | 22 |
-| Statute of Limitations 1957 | No. 6 of 1957 | `statute-of-limitations-1957/` | 2 | 2018-06-09 to 2025-12-09 | 84 |
-| Tourist Traffic Act 1957 | No. 27 of 1957 | `tourist-traffic-act-1957/` | 3 | 2016-08-31 to 2020-09-16 | 12 |
-| Greyhound Industry Act 1958 | No. 12 of 1958 | `greyhound-industry-act-1958/` | 4 | 2022-03-01 to 2026-02-05 | 64 |
-| Transport Act 1958 | No. 19 of 1958 | `transport-act-1958/` | 2 | 2016-08-31 to 2019-05-28 | 32 |
-| Fisheries (Consolidation) Act 1959 | No. 14 of 1959 | `fisheries-consolidation-act-1959/` | 1 | 2025-04-16 to 2025-04-16 | 352 |
-| Defence (Amendment) (No. 2) Act 1960 | No. 44 of 1960 | `defence-amendment-no-2-act-1960/` | 3 | 2016-06-30 to 2022-04-04 | 9 |
-| Road Traffic Act 1961 | No. 24 of 1961 | `road-traffic-act-1961/` | 28 | 2019-01-21 to 2026-09-04 | 156 |
-| Health (Corporate Bodies) Act 1961 | No. 27 of 1961 | `health-corporate-bodies-act-1961/` | 1 | 2026-01-01 to 2026-01-01 | 12 |
-| Courts (Supplemental Provisions) Act 1961 | No. 39 of 1961 | `courts-supplemental-provisions-act-1961/` | 1 | 2026-06-23 to 2026-06-23 | 88 |
-| Civil Liability Act 1961 | No. 41 of 1961 | `civil-liability-act-1961/` | 3 | 2018-10-01 to 2023-07-31 | 81 |
-| Coroners Act 1962 | No. 9 of 1962 | `coroners-act-1962/` | 5 | 2020-06-15 to 2025-04-02 | 96 |
-| Official Secrets Act 1963 | No. 1 of 1963 | `official-secrets-act-1963/` | 1 | 2021-04-15 to 2021-04-15 | 19 |
-| Firearms Act 1964 | No. 1 of 1964 | `firearms-act-1964/` | 3 | 2016-01-01 to 2021-12-27 | 33 |
-| Guardianship of Infants Act 1964 | No. 7 of 1964 | `guardianship-of-infants-act-1964/` | 6 | 2019-01-01 to 2026-07-21 | 64 |
-| Registration of Title Act 1964 | No. 16 of 1964 | `registration-of-title-act-1964/` | 4 | 2018-04-04 to 2023-07-17 | 130 |
-| Civil Liability (Amendment) Act 1964 | No. 17 of 1964 | `civil-liability-amendment-act-1964/` | 2 | 2017-04-13 to 2020-05-21 | 9 |
-| Extradition Act 1965 | No. 17 of 1965 | `extradition-act-1965/` | 8 | 2019-02-01 to 2026-08-10 | 68 |
-| Succession Act 1965 | No. 27 of 1965 | `succession-act-1965/` | 4 | 2017-11-02 to 2023-11-01 | 143 |
-| Tourist Traffic Act 1966 | No. 3 of 1966 | `tourist-traffic-act-1966/` | 2 | 2016-08-31 to 2020-09-16 | 8 |
-| Housing Act 1966 | No. 21 of 1966 | `housing-act-1966/` | 5 | 2017-07-01 to 2024-01-01 | 126 |
-| Industrial Training Act 1967 | No. 5 of 1967 | `industrial-training-act-1967/` | 18 | 2018-09-12 to 2026-07-15 | 52 |
-| Diplomatic Relations and Immunities Act 1967 | No. 8 of 1967 | `diplomatic-relations-and-immunities-act-1967/` | 2 | 2025-07-15 to 2026-04-28 | 60 |
-| Criminal Procedure Act 1967 | No. 12 of 1967 | `criminal-procedure-act-1967/` | 3 | 2017-11-27 to 2022-02-28 | 57 |
-| Redundancy Payments Act 1967 | No. 21 of 1967 | `redundancy-payments-act-1967/` | 12 | 2016-08-01 to 2023-07-03 | 65 |
-| Firearms (Proofing) Act 1968 | No. 20 of 1968 | `firearms-proofing-act-1968/` | 2 | 2016-01-01 to 2019-05-28 | 15 |
-| Road Traffic Act 1968 | No. 25 of 1968 | `road-traffic-act-1968/` | 5 | 2018-11-05 to 2025-03-01 | 70 |
-| Industrial Relations Act 1969 | No. 14 of 1969 | `industrial-relations-act-1969/` | 2 | 2019-01-01 to 2021-07-29 | 27 |
-| Health Act 1970 | No. 1 of 1970 | `health-act-1970/` | 14 | 2020-02-17 to 2025-06-01 | 117 |
-| Tourist Traffic Act 1970 | No. 16 of 1970 | `tourist-traffic-act-1970/` | 3 | 2016-08-31 to 2020-09-16 | 8 |
-| Local Government Services (Corporate Bodies) Act 1971 | No. 6 of 1971 | `local-government-services-corporate-bodies-act-1971/` | 2 | 2019-02-18 to 2022-03-31 | 10 |
-| Road Transport Act 1971 | No. 8 of 1971 | `road-transport-act-1971/` | 2 | 2016-06-30 to 2019-05-28 | 14 |
-| Firearms Act 1971 | No. 13 of 1971 | `firearms-act-1971/` | 2 | 2016-01-01 to 2019-05-28 | 8 |
-| Redundancy Payments Act 1971 | No. 20 of 1971 | `redundancy-payments-act-1971/` | 2 | 2019-02-01 to 2020-10-14 | 22 |
-| Central Bank Act 1971 | No. 24 of 1971 | `central-bank-act-1971/` | 3 | 2025-01-01 to 2026-07-10 | 102 |
-| Employment Agency Act 1971 | No. 27 of 1971 | `employment-agency-act-1971/` | 2 | 2016-06-30 to 2019-09-01 | 16 |
-| National College of Art and Design Act 1971 | No. 28 of 1971 | `national-college-of-art-and-design-act-1971/` | 1 | 2022-11-10 to 2022-11-10 | 41 |
-| European Communities Act 1972 | No. 27 of 1972 | `european-communities-act-1972/` | 2 | 2017-04-13 to 2020-08-26 | 8 |
-| Minimum Notice and Terms of Employment Act 1973 | No. 4 of 1973 | `minimum-notice-and-terms-of-employment-act-1973/` | 2 | 2017-09-01 to 2020-10-14 | 22 |
-| Air Navigation and Transport Act 1973 | No. 29 of 1973 | `air-navigation-and-transport-act-1973/` | 2 | 2019-08-01 to 2023-05-01 | 23 |
-| Law Reform Commission Act 1975 | No. 3 of 1975 | `law-reform-commission-act-1975/` | 2 | 2015-11-30 to 2019-03-05 | 16 |
-| Air Navigation and Transport Act 1975 | No. 9 of 1975 | `air-navigation-and-transport-act-1975/` | 2 | 2020-09-17 to 2022-12-07 | 11 |
-| Local Authorities (Traffic Wardens) Act 1975 | No. 14 of 1975 | `local-authorities-traffic-wardens-act-1975/` | 3 | 2018-03-01 to 2023-01-01 | 11 |
-| Juries Act 1976 | No. 4 of 1976 | `juries-act-1976/` | 1 | 2026-02-03 to 2026-02-03 | 42 |
-| Family Law (Maintenance of Spouses and Children) Act 1976 | No. 11 of 1976 | `family-law-maintenance-of-spouses-and-children-act-1976/` | 4 | 2016-01-18 to 2020-05-04 | 39 |
-| Industrial Relations Act 1976 | No. 15 of 1976 | `industrial-relations-act-1976/` | 2 | 2019-01-01 to 2020-02-01 | 13 |
-| Family Home Protection Act 1976 | No. 27 of 1976 | `family-home-protection-act-1976/` | 2 | 2019-01-01 to 2023-06-22 | 17 |
-| Gas Act 1976 | No. 30 of 1976 | `gas-act-1976/` | 2 | 2023-01-01 to 2024-06-01 | 75 |
-| Criminal Law Act 1976 | No. 32 of 1976 | `criminal-law-act-1976/` | 1 | 2026-07-23 to 2026-07-23 | 17 |
-| Wildlife Act 1976 | No. 39 of 1976 | `wildlife-act-1976/` | 9 | 2018-12-20 to 2024-05-16 | 87 |
-| Local Government (Water Pollution) Act 1977 | No. 1 of 1977 | `local-government-water-pollution-act-1977/` | 2 | 2021-10-14 to 2024-08-28 | 38 |
-| Protection of Employment Act 1977 | No. 7 of 1977 | `protection-of-employment-act-1977/` | 3 | 2018-01-18 to 2024-07-01 | 26 |
-| Unfair Dismissals Act 1977 | No. 10 of 1977 | `unfair-dismissals-act-1977/` | 6 | 2017-09-01 to 2023-07-03 | 28 |
-| Misuse of Drugs Act 1977 | No. 12 of 1977 | `misuse-of-drugs-act-1977/` | 19 | 2018-05-25 to 2026-07-29 | 48 |
-| Ministers and Secretaries (Amendment) (No. 2) Act 1977 | No. 28 of 1977 | `ministers-and-secretaries-amendment-no-2-act-1977/` | 7 | 2025-02-21 to 2026-07-29 | 8 |
-| Road Transport Act 1978 | No. 8 of 1978 | `road-transport-act-1978/` | 2 | 2016-06-30 to 2019-03-17 | 12 |
-| Redundancy Payments Act 1979 | No. 7 of 1979 | `redundancy-payments-act-1979/` | 1 | 2019-02-01 to 2019-02-01 | 21 |
-| Housing (Miscellaneous Provisions) Act 1979 | No. 27 of 1979 | `housing-miscellaneous-provisions-act-1979/` | 8 | 2018-09-12 to 2024-12-01 | 26 |
-| Landlord and Tenant (Amendment) Act 1980 | No. 10 of 1980 | `landlord-and-tenant-amendment-act-1980/` | 1 | 2019-09-20 to 2019-09-20 | 90 |
-| Packaged Goods (Quantity Control) Act 1980 | No. 11 of 1980 | `packaged-goods-quantity-control-act-1980/` | 1 | 2026-07-07 to 2026-07-07 | 21 |
-| Sale of Goods and Supply of Services Act 1980 | No. 16 of 1980 | `sale-of-goods-and-supply-of-services-act-1980/` | 3 | 2017-05-16 to 2022-11-29 | 60 |
-| Ombudsman Act 1980 | No. 26 of 1980 | `ombudsman-act-1980/` | 1 | 2025-04-02 to 2025-04-02 | 19 |
-| Criminal Law (Rape) Act 1981 | No. 10 of 1981 | `criminal-law-rape-act-1981/` | 2 | 2021-05-01 to 2024-08-31 | 15 |
-| Family Law Act 1981 | No. 22 of 1981 | `family-law-act-1981/` | 2 | 2016-06-30 to 2019-05-28 | 12 |
-| Transport (Tour Operators and Travel Agents) Act 1982 | No. 3 of 1982 | `transport-tour-operators-and-travel-agents-act-1982/` | 2 | 2022-03-30 to 2022-12-09 | 29 |
-| Courts-Martial Appeals Act 1983 | No. 19 of 1983 | `courts-martial-appeals-act-1983/` | 3 | 2017-04-07 to 2022-07-06 | 44 |
-| Criminal Justice (Community Service) Act 1983 | No. 23 of 1983 | `criminal-justice-community-service-act-1983/` | 1 | 2026-10-01 to 2026-10-01 | 17 |
-| Tourist Traffic Act 1983 | No. 31 of 1983 | `tourist-traffic-act-1983/` | 3 | 2016-08-31 to 2020-09-16 | 14 |
-| Road Traffic (Amendment) Act 1984 | No. 16 of 1984 | `road-traffic-amendment-act-1984/` | 2 | 2016-04-29 to 2019-05-28 | 8 |
-| Protection of Employees (Employers Insolvency) Act 1984 | No. 21 of 1984 | `protection-of-employees-employers-insolvency-act-1984/` | 6 | 2015-10-01 to 2026-06-08 | 29 |
-| Criminal Justice Act 1984 | No. 22 of 1984 | `criminal-justice-act-1984/` | 6 | 2017-08-28 to 2025-04-02 | 49 |
-| Dentists Act 1985 | No. 9 of 1985 | `dentists-act-1985/` | 2 | 2024-08-06 to 2025-05-06 | 85 |
-| Industrial Development Act 1986 | No. 9 of 1986 | `industrial-development-act-1986/` | 2 | 2019-02-01 to 2020-01-07 | 52 |
-| National Archives Act 1986 | No. 11 of 1986 | `national-archives-act-1986/` | 2 | 2025-09-16 to 2025-12-01 | 28 |
-| Road Transport Act 1986 | No. 16 of 1986 | `road-transport-act-1986/` | 3 | 2016-06-30 to 2020-12-22 | 24 |
-| Domicile and Recognition of Foreign Divorces Act 1986 | No. 24 of 1986 | `domicile-and-recognition-of-foreign-divorces-act-1986/` | 3 | 2016-01-01 to 2022-08-01 | 7 |
-| Control of Dogs Act 1986 | No. 32 of 1986 | `control-of-dogs-act-1986/` | 5 | 2018-01-31 to 2025-06-09 | 39 |
-| Air Pollution Act 1987 | No. 6 of 1987 | `air-pollution-act-1987/` | 5 | 2022-09-27 to 2025-08-01 | 74 |
-| Defence (Amendment) Act 1987 | No. 8 of 1987 | `defence-amendment-act-1987/` | 2 | 2016-06-30 to 2019-05-28 | 18 |
-| Labour Services Act 1987 | No. 15 of 1987 | `labour-services-act-1987/` | 1 | 2013-06-05 to 2013-06-05 | 41 |
-| Status of Children Act 1987 | No. 26 of 1987 | `status-of-children-act-1987/` | 3 | 2016-01-18 to 2020-05-04 | 51 |
-| Science and Technology Act 1987 | No. 30 of 1987 | `science-and-technology-act-1987/` | 1 | 2019-02-01 to 2019-02-01 | 30 |
-| Data Protection Act 1988 | No. 25 of 1988 | `data-protection-act-1988/` | 5 | 2018-05-25 to 2025-11-10 | 47 |
-| Bankruptcy Act 1988 | No. 27 of 1988 | `bankruptcy-act-1988/` | 3 | 2018-10-01 to 2026-02-01 | 166 |
-| Housing Act 1988 | No. 28 of 1988 | `housing-act-1988/` | 3 | 2018-01-31 to 2024-05-16 | 33 |
-| Judicial Separation and Family Law Reform Act 1989 | No. 6 of 1989 | `judicial-separation-and-family-law-reform-act-1989/` | 3 | 2019-01-01 to 2022-08-01 | 48 |
-| Building Control Act 1990 | No. 3 of 1990 | `building-control-act-1990/` | 9 | 2018-12-17 to 2026-07-27 | 36 |
-| Firearms and Offensive Weapons Act 1990 | No. 12 of 1990 | `firearms-and-offensive-weapons-act-1990/` | 3 | 2018-05-25 to 2024-09-30 | 31 |
-| Derelict Sites Act 1990 | No. 14 of 1990 | `derelict-sites-act-1990/` | 6 | 2018-12-19 to 2025-12-11 | 34 |
-| Industrial Relations Act 1990 | No. 19 of 1990 | `industrial-relations-act-1990/` | 6 | 2017-12-20 to 2026-06-29 | 64 |
-| Health (Nursing Homes) Act 1990 | No. 23 of 1990 | `health-nursing-homes-act-1990/` | 1 | 2025-07-23 to 2025-07-23 | 29 |
-| Criminal Law (Rape) (Amendment) Act 1990 | No. 32 of 1990 | `criminal-law-rape-amendment-act-1990/` | 1 | 2022-02-15 to 2022-02-15 | 24 |
-| Child Abduction and Enforcement of Custody Orders Act 1991 | No. 6 of 1991 | `child-abduction-and-enforcement-of-custody-orders-act-1991/` | 3 | 2017-04-07 to 2022-08-01 | 47 |
-| Child Care Act 1991 | No. 17 of 1991 | `child-care-act-1991/` | 13 | 2019-01-01 to 2026-07-21 | 164 |
-| Statute of Limitations (Amendment) Act 1991 | No. 18 of 1991 | `statute-of-limitations-amendment-act-1991/` | 3 | 2016-06-30 to 2023-09-27 | 10 |
-| Payment of Wages Act 1991 | No. 25 of 1991 | `payment-of-wages-act-1991/` | 3 | 2017-09-01 to 2022-12-01 | 22 |
-| Sea Pollution Act 1991 | No. 27 of 1991 | `sea-pollution-act-1991/` | 6 | 2017-09-01 to 2025-09-16 | 51 |
-| Liability for Defective Products Act 1991 | No. 28 of 1991 | `liability-for-defective-products-act-1991/` | 2 | 2016-06-30 to 2019-05-28 | 16 |
-| Criminal Damage Act 1991 | No. 31 of 1991 | `criminal-damage-act-1991/` | 2 | 2019-01-01 to 2024-12-31 | 18 |
-| Merchant Shipping Act 1992 | No. 2 of 1992 | `merchant-shipping-act-1992/` | 3 | 2021-09-07 to 2025-06-01 | 40 |
-| Environmental Protection Agency Act 1992 | No. 7 of 1992 | `environmental-protection-agency-act-1992/` | 7 | 2020-09-30 to 2026-05-08 | 156 |
-| Criminal Evidence Act 1992 | No. 12 of 1992 | `criminal-evidence-act-1992/` | 5 | 2019-01-01 to 2024-09-02 | 37 |
-| Regional Technical Colleges Act 1992 | No. 16 of 1992 | `regional-technical-colleges-act-1992/` | 3 | 2018-04-24 to 2022-11-10 | 40 |
-| Foreshore (Amendment) Act 1992 | No. 17 of 1992 | `foreshore-amendment-act-1992/` | 4 | 2017-04-13 to 2024-05-14 | 12 |
-| Housing (Miscellaneous Provisions) Act 1992 | No. 18 of 1992 | `housing-miscellaneous-provisions-act-1992/` | 7 | 2018-09-12 to 2026-04-01 | 43 |
-| Criminal Justice Act 1993 | No. 6 of 1993 | `criminal-justice-act-1993/` | 2 | 2022-01-01 to 2023-08-01 | 17 |
-| Comptroller and Auditor General (Amendment) Act 1993 | No. 8 of 1993 | `comptroller-and-auditor-general-amendment-act-1993/` | 1 | 2025-12-10 to 2025-12-10 | 32 |
-| Interception of Postal Packets and Telecommunications Messages (Regulation) Act 1993 | No. 10 of 1993 | `interception-of-postal-packets-and-telecommunications-messages-regulation-act-1993/` | 1 | 2025-04-02 to 2025-04-02 | 17 |
-| Roads Act 1993 | No. 14 of 1993 | `roads-act-1993/` | 12 | 2018-10-16 to 2026-05-13 | 111 |
-| Criminal Law (Sexual Offences) Act 1993 | No. 20 of 1993 | `criminal-law-sexual-offences-act-1993/` | 3 | 2017-06-30 to 2022-12-22 | 18 |
-| Irish Aviation Authority Act 1993 | No. 29 of 1993 | `irish-aviation-authority-act-1993/` | 8 | 2020-05-29 to 2025-08-07 | 106 |
-| Criminal Procedure Act 1993 | No. 40 of 1993 | `criminal-procedure-act-1993/` | 2 | 2020-02-17 to 2023-08-01 | 16 |
-| Criminal Justice (Public Order) Act 1994 | No. 2 of 1994 | `criminal-justice-public-order-act-1994/` | 4 | 2017-08-14 to 2024-12-31 | 47 |
-| Terms of Employment (Information) Act 1994 | No. 5 of 1994 | `terms-of-employment-information-act-1994/` | 4 | 2017-09-01 to 2022-12-16 | 26 |
-| Road Traffic Act 1994 | No. 7 of 1994 | `road-traffic-act-1994/` | 13 | 2018-12-22 to 2026-09-02 | 53 |
-| Irish Nationality and Citizenship Act 1994 | No. 9 of 1994 | `irish-nationality-and-citizenship-act-1994/` | 1 | 2021-09-01 to 2021-09-01 | 4 |
-| Referendum Act 1994 | No. 12 of 1994 | `referendum-act-1994/` | 1 | 2025-10-01 to 2025-10-01 | 62 |
-| Criminal Justice Act 1994 | No. 15 of 1994 | `criminal-justice-act-1994/` | 1 | 2026-07-31 to 2026-07-31 | 85 |
-| Health Insurance Act 1994 | No. 16 of 1994 | `health-insurance-act-1994/` | 10 | 2022-09-29 to 2026-04-01 | 73 |
-| Irish Horseracing Industry 1994 | No. 18 of 1994 | `irish-horseracing-industry-1994/` | 2 | 2023-10-31 to 2026-02-05 | 91 |
-| Investment Limited Partnerships Act 1994 | No. 24 of 1994 | `investment-limited-partnerships-act-1994/` | 1 | 2022-12-07 to 2022-12-07 | 77 |
-| Maintenance Act 1994 | No. 28 of 1994 | `maintenance-act-1994/` | 2 | 2016-06-30 to 2019-05-28 | 28 |
-| Maternity Protection Act 1994 | No. 34 of 1994 | `maternity-protection-act-1994/` | 7 | 2017-12-23 to 2024-11-20 | 54 |
-| Adoptive Leave Act 1995 | No. 2 of 1995 | `adoptive-leave-act-1995/` | 6 | 2016-08-01 to 2023-07-03 | 51 |
-| Occupiers' Liability Act 1995 | No. 10 of 1995 | `occupiers-liability-act-1995/` | 1 | 2024-07-23 to 2024-07-23 | 11 |
-| Tourist Traffic Act 1995 | No. 13 of 1995 | `tourist-traffic-act-1995/` | 3 | 2016-08-31 to 2020-09-16 | 12 |
-| Package Holidays and Travel Trade Act 1995 | No. 17 of 1995 | `package-holidays-and-travel-trade-act-1995/` | 2 | 2021-05-26 to 2022-11-29 | 48 |
-| Casual Trading Act 1995 | No. 19 of 1995 | `casual-trading-act-1995/` | 1 | 2022-12-15 to 2022-12-15 | 21 |
-| Ethics in Public Office Act 1995 | No. 22 of 1995 | `ethics-in-public-office-act-1995/` | 3 | 2018-11-21 to 2026-01-01 | 41 |
-| Consumer Credit Act 1995 | No. 24 of 1995 | `consumer-credit-act-1995/` | 4 | 2018-05-25 to 2026-02-05 | 217 |
-| Family Law Act 1995 | No. 26 of 1995 | `family-law-act-1995/` | 2 | 2019-01-01 to 2022-08-01 | 58 |
-| Irish Medicines Board Act 1995 | No. 29 of 1995 | `irish-medicines-board-act-1995/` | 9 | 2023-09-14 to 2026-06-30 | 51 |
-| Civil Legal Aid Act 1995 | No. 32 of 1995 | `civil-legal-aid-act-1995/` | 3 | 2025-06-19 to 2026-06-24 | 48 |
-| Domestic Violence Act 1996 | No. 1 of 1996 | `domestic-violence-act-1996/` | 1 | 2016-06-30 to 2016-06-30 | 28 |
-| Waste Management Act 1996 | No. 10 of 1996 | `waste-management-act-1996/` | 17 | 2018-04-12 to 2026-05-08 | 120 |
-| Dumping at Sea Act 1996 | No. 14 of 1996 | `dumping-at-sea-act-1996/` | 5 | 2016-07-22 to 2025-08-01 | 20 |
-| Protection of Young Persons (Employment) Act 1996 | No. 16 of 1996 | `protection-of-young-persons-employment-act-1996/` | 3 | 2018-06-30 to 2022-07-27 | 32 |
-| Refugee Act 1996 | No. 17 of 1996 | `refugee-act-1996/` | 1 | 2015-04-20 to 2015-04-20 | 41 |
-| Transnational Information and Consultation of Employees Act 1996 | No. 20 of 1996 | `transnational-information-and-consultation-of-employees-act-1996/` | 1 | 2018-01-18 to 2018-01-18 | 31 |
-| Metrology Act 1996 | No. 27 of 1996 | `metrology-act-1996/` | 2 | 2026-02-24 to 2026-07-07 | 38 |
-| National Standards Authority of Ireland Act 1996 | No. 28 of 1996 | `national-standards-authority-of-ireland-act-1996/` | 2 | 2026-07-07 to 2026-07-22 | 41 |
-| Criminal Justice (Drug Trafficking) Act 1996 | No. 29 of 1996 | `criminal-justice-drug-trafficking-act-1996/` | 1 | 2025-08-01 to 2025-08-01 | 13 |
-| Proceeds of Crime Act 1996 | No. 30 of 1996 | `proceeds-of-crime-act-1996/` | 2 | 2018-07-30 to 2021-07-28 | 25 |
-| Criminal Assets Bureau Act 1996 | No. 31 of 1996 | `criminal-assets-bureau-act-1996/` | 3 | 2016-06-30 to 2023-04-10 | 30 |
-| Family Law (Divorce) Act 1996 | No. 33 of 1996 | `family-law-divorce-act-1996/` | 3 | 2019-01-01 to 2022-08-01 | 54 |
-| Telecommunications (Miscellaneous Provisions) Act 1996 | No. 34 of 1996 | `telecommunications-miscellaneous-provisions-act-1996/` | 3 | 2016-06-29 to 2025-06-01 | 21 |
-| Sexual Offences (Jurisdiction) Act 1996 | No. 38 of 1996 | `sexual-offences-jurisdiction-act-1996/` | 2 | 2024-01-01 to 2024-08-31 | 13 |
-| Health Insurance Act, 1994 (Registration) Regulations 1996 | S.I. No. 80 of 1996 | `health-insurance-act-1994-registration-regulations-1996/` | 1 | 2024-07-01 to 2024-07-01 | 8 |
-| Health Insurance Act, 1994 (Minimum Benefit) Regulations 1996 | S.I. No. 83 of 1996 | `health-insurance-act-1994-minimum-benefit-regulations-1996/` | 1 | 2024-07-01 to 2024-07-01 | 16 |
-| Social Welfare (Social Welfare Tribunal) Regulations 1996 | S.I. No. 262 of 1996 | `social-welfare-social-welfare-tribunal-regulations-1996/` | 1 | 2023-05-04 to 2023-05-04 | 22 |
-| Social Welfare (Consolidated Contributions and Insurability) Regulations 1996 | S.I. No. 312 of 1996 | `social-welfare-consolidated-contributions-and-insurability-regulations-1996/` | 4 | 2021-11-19 to 2026-01-01 | 130 |
-| European Parliament Elections Act 1997 | No. 2 of 1997 | `european-parliament-elections-act-1997/` | 1 | 2025-10-01 to 2025-10-01 | 34 |
-| Central Bank Act 1997 | No. 8 of 1997 | `central-bank-act-1997/` | 5 | 2021-06-01 to 2026-08-01 | 126 |
-| Litter Pollution Act 1997 | No. 12 of 1997 | `litter-pollution-act-1997/` | 5 | 2022-04-27 to 2026-05-08 | 40 |
-| Freedom of Information Act 1997 | No. 13 of 1997 | `freedom-of-information-act-1997/` | 1 | 2014-03-18 to 2014-03-18 | 52 |
-| Criminal Law Act 1997 | No. 14 of 1997 | `criminal-law-act-1997/` | 3 | 2016-06-30 to 2021-12-31 | 21 |
-| Credit Union Act 1997 | No. 15 of 1997 | `credit-union-act-1997/` | 9 | 2018-09-21 to 2025-09-30 | 241 |
-| Bail Act 1997 | No. 16 of 1997 | `bail-act-1997/` | 8 | 2019-01-01 to 2026-06-12 | 24 |
-| Organisation of Working Time Act 1997 | No. 20 of 1997 | `organisation-of-working-time-act-1997/` | 7 | 2017-09-01 to 2025-01-20 | 49 |
-| Housing (Miscellaneous Provisions) Act 1997 | No. 21 of 1997 | `housing-miscellaneous-provisions-act-1997/` | 3 | 2018-09-12 to 2024-10-17 | 28 |
-| Fisheries (Amendment) Act 1997 | No. 23 of 1997 | `fisheries-amendment-act-1997/` | 4 | 2018-07-04 to 2025-02-03 | 94 |
-| Universities Act 1997 | No. 24 of 1997 | `universities-act-1997/` | 3 | 2022-11-15 to 2024-02-21 | 69 |
-| Non-Fatal Offences Against the Person Act 1997 | No. 26 of 1997 | `non-fatal-offences-against-the-person-act-1997/` | 6 | 2017-05-17 to 2024-12-31 | 46 |
-| Road Traffic (Traffic and Parking) Regulations 1997 | S.I. No. 182 of 1997 | `road-traffic-traffic-and-parking-regulations-1997/` | 3 | 2024-05-20 to 2026-05-13 | 66 |
-| Building Control Regulations 1997 | S.I. No. 496 of 1997 | `building-control-regulations-1997/` | 6 | 2020-04-03 to 2026-07-27 | 59 |
-| Building Regulations 1997 | S.I. No. 497 of 1997 | `building-regulations-1997/` | 1 | 2026-02-19 to 2026-02-19 | 19 |
-| Employment Equality Act 1998 | No. 21 of 1998 | `employment-equality-act-1998/` | 9 | 2018-07-18 to 2025-05-31 | 117 |
-| Child Trafficking and Pornography Act 1998 | No. 22 of 1998 | `child-trafficking-and-pornography-act-1998/` | 2 | 2017-06-30 to 2020-05-21 | 17 |
-| Parental Leave Act 1998 | No. 30 of 1998 | `parental-leave-act-1998/` | 6 | 2016-01-18 to 2024-03-06 | 42 |
-| Housing (Traveller Accommodation) Act 1998 | No. 33 of 1998 | `housing-traveller-accommodation-act-1998/` | 2 | 2018-09-12 to 2024-05-16 | 37 |
-| Industrial Development (Enterprise Ireland) Act 1998 | No. 34 of 1998 | `industrial-development-enterprise-ireland-act-1998/` | 2 | 2019-02-01 to 2020-01-07 | 58 |
-| Protections for Persons Reporting Child Abuse Act 1998 | No. 49 of 1998 | `protections-for-persons-reporting-child-abuse-act-1998/` | 2 | 2015-10-01 to 2019-02-01 | 8 |
-| Education Act 1998 | No. 51 of 1998 | `education-act-1998/` | 6 | 2018-10-03 to 2023-12-12 | 80 |
-| Fisheries and Foreshore (Amendment) Act 1998 | No. 54 of 1998 | `fisheries-and-foreshore-amendment-act-1998/` | 1 | 2019-01-01 to 2019-01-01 | 8 |
-| Social Welfare (Rent Allowance) Regulations 1998 | S.I. No. 188 of 1998 | `social-welfare-rent-allowance-regulations-1998/` | 1 | 2026-01-21 to 2026-01-21 | 24 |
-| Road Transport Act 1999 | No. 15 of 1999 | `road-transport-act-1999/` | 2 | 2016-06-30 to 2019-05-28 | 27 |
-| Sea Pollution (Amendment) Act 1999 | No. 18 of 1999 | `sea-pollution-amendment-act-1999/` | 2 | 2019-01-01 to 2021-11-22 | 20 |
-| Immigration Act 1999 | No. 22 of 1999 | `immigration-act-1999/` | 2 | 2023-07-31 to 2026-06-12 | 17 |
-| Electricity Regulation Act 1999 | No. 23 of 1999 | `electricity-regulation-act-1999/` | 17 | 2018-12-31 to 2025-12-31 | 171 |
-| Comhairle Act 2000 | No. 1 of 2000 | `comhairle-act-2000/` | 1 | 2019-02-01 to 2019-02-01 | 43 |
-| National Minimum Wage Act 2000 | No. 5 of 2000 | `national-minimum-wage-act-2000/` | 11 | 2019-01-01 to 2026-01-01 | 59 |
-| Equal Status Act 2000 | No. 8 of 2000 | `equal-status-act-2000/` | 4 | 2018-10-03 to 2021-07-29 | 55 |
-| Firearms (Firearm Certificates For Non-Residents) Act 2000 | No. 20 of 2000 | `firearms-firearm-certificates-for-non-residents-act-2000/` | 3 | 2016-01-01 to 2022-05-04 | 9 |
-| Education (Welfare) Act 2000 | No. 22 of 2000 | `education-welfare-act-2000/` | 2 | 2023-04-05 to 2025-02-19 | 43 |
-| Electronic Commerce Act 2000 | No. 27 of 2000 | `electronic-commerce-act-2000/` | 1 | 2025-06-01 to 2025-06-01 | 37 |
-| Copyright and Related Rights Act 2000 | No. 28 of 2000 | `copyright-and-related-rights-act-2000/` | 1 | 2026-09-09 to 2026-09-09 | 422 |
-| Illegal Immigrants (Trafficking) Act 2000 | No. 29 of 2000 | `illegal-immigrants-trafficking-act-2000/` | 2 | 2024-05-14 to 2026-06-12 | 14 |
-| Planning and Development Act 2000 | No. 30 of 2000 | `planning-and-development-act-2000/` | 33 | 2019-01-01 to 2026-08-12 | 538 |
-| Protection of Children (Hague Convention) Act 2000 | No. 37 of 2000 | `protection-of-children-hague-convention-act-2000/` | 4 | 2016-01-18 to 2022-08-01 | 21 |
-| Wildlife (Amendment) Act 2000 | No. 38 of 2000 | `wildlife-amendment-act-2000/` | 1 | 2024-06-01 to 2024-06-01 | 90 |
-| National Treasury Management Agency (Amendment) Act 2000 | No. 39 of 2000 | `national-treasury-management-agency-amendment-act-2000/` | 7 | 2020-08-01 to 2025-11-26 | 39 |
-| National Training Fund Act 2000 | No. 41 of 2000 | `national-training-fund-act-2000/` | 4 | 2019-01-01 to 2026-01-19 | 13 |
-| Aviation Regulation Act 2001 | No. 1 of 2001 | `aviation-regulation-act-2001/` | 7 | 2019-03-11 to 2023-05-01 | 59 |
-| Teaching Council Act 2001 | No. 8 of 2001 | `teaching-council-act-2001/` | 8 | 2016-11-08 to 2026-02-09 | 74 |
-| Industrial Relations (Amendment) Act 2001 | No. 11 of 2001 | `industrial-relations-amendment-act-2001/` | 2 | 2019-01-01 to 2020-02-01 | 19 |
-| Valuation Act 2001 | No. 13 of 2001 | `valuation-act-2001/` | 17 | 2018-11-09 to 2024-10-18 | 92 |
-| Health Insurance (Amendment) Act 2001 | No. 17 of 2001 | `health-insurance-amendment-act-2001/` | 1 | 2023-03-21 to 2023-03-21 | 16 |
-| Sex Offenders Act 2001 | No. 18 of 2001 | `sex-offenders-act-2001/` | 2 | 2022-01-01 to 2023-11-13 | 62 |
-| Carer's Leave Act 2001 | No. 19 of 2001 | `carer-s-leave-act-2001/` | 2 | 2018-09-04 to 2020-10-14 | 35 |
-| Children Act 2001 | No. 24 of 2001 | `children-act-2001/` | 6 | 2017-11-27 to 2026-08-10 | 302 |
-| Mental Health Act 2001 | No. 25 of 2001 | `mental-health-act-2001/` | 5 | 2019-01-01 to 2026-06-23 | 80 |
-| Prevention of Corruption (Amendment) Act 2001 | No. 27 of 2001 | `prevention-of-corruption-amendment-act-2001/` | 1 | 2018-07-30 to 2018-07-30 | 17 |
-| Agriculture Appeals Act 2001 | No. 29 of 2001 | `agriculture-appeals-act-2001/` | 2 | 2025-07-17 to 2025-11-27 | 32 |
-| Standards in Public Office Act 2001 | No. 31 of 2001 | `standards-in-public-office-act-2001/` | 4 | 2017-04-13 to 2025-01-01 | 32 |
-| Local Government Act 2001 | No. 37 of 2001 | `local-government-act-2001/` | 13 | 2018-12-26 to 2025-12-31 | 329 |
-| Youth Work Act 2001 | No. 42 of 2001 | `youth-work-act-2001/` | 3 | 2017-05-16 to 2025-05-01 | 39 |
-| Protection of Employees (Part-Time Work) Act 2001 | No. 45 of 2001 | `protection-of-employees-part-time-work-act-2001/` | 2 | 2017-09-01 to 2020-10-14 | 23 |
-| Criminal Justice (Theft and Fraud Offences) Act 2001 | No. 50 of 2001 | `criminal-justice-theft-and-fraud-offences-act-2001/` | 6 | 2018-07-30 to 2026-08-10 | 79 |
-| Transport (Railway Infrastructure) Act 2001 | No. 55 of 2001 | `transport-railway-infrastructure-act-2001/` | 1 | 2026-06-03 to 2026-06-03 | 96 |
-| Sustainable Energy Act 2002 | No. 2 of 2002 | `sustainable-energy-act-2002/` | 1 | 2024-05-01 to 2024-05-01 | 35 |
-| Public Health (Tobacco) Act 2002 | No. 6 of 2002 | `public-health-tobacco-act-2002/` | 4 | 2024-09-23 to 2026-07-20 | 60 |
-| Housing (Miscellaneous Provisions) Act 2002 | No. 9 of 2002 | `housing-miscellaneous-provisions-act-2002/` | 1 | 2018-09-12 to 2018-09-12 | 28 |
-| Gas (Interim) (Regulation) Act 2002 | No. 10 of 2002 | `gas-interim-regulation-act-2002/` | 2 | 2023-06-06 to 2024-06-01 | 32 |
-| Road Traffic Act 2002 | No. 12 of 2002 | `road-traffic-act-2002/` | 3 | 2018-10-26 to 2025-03-31 | 30 |
-| Competition Act 2002 | No. 14 of 2002 | `competition-act-2002/` | 6 | 2019-01-01 to 2026-07-01 | 147 |
-| Courts and Court Officers Act 2002 | No. 15 of 2002 | `courts-and-court-officers-act-2002/` | 1 | 2026-10-01 to 2026-10-01 | 49 |
-| Communications Regulation Act 2002 | No. 20 of 2002 | `communications-regulation-act-2002/` | 9 | 2017-03-21 to 2026-07-31 | 108 |
-| Ombudsman for Children Act 2002 | No. 22 of 2002 | `ombudsman-for-children-act-2002/` | 1 | 2018-12-26 to 2018-12-26 | 24 |
-| Unclaimed Life Assurance Policies Act 2003 | No. 2 of 2003 | `unclaimed-life-assurance-policies-act-2003/` | 1 | 2021-10-30 to 2021-10-30 | 30 |
-| Social Welfare (Miscellaneous Provisions) Act 2003 | No. 4 of 2003 | `social-welfare-miscellaneous-provisions-act-2003/` | 1 | 2024-07-01 to 2024-07-01 | 26 |
-| Employment Permits Act 2003 | No. 7 of 2003 | `employment-permits-act-2003/` | 2 | 2018-06-30 to 2024-09-02 | 10 |
-| National Tourism Development Authority Act 2003 | No. 10 of 2003 | `national-tourism-development-authority-act-2003/` | 4 | 2017-09-26 to 2025-06-01 | 45 |
-| Central Bank and Financial Services Authority of Ireland Act 2003 | No. 12 of 2003 | `central-bank-and-financial-services-authority-of-ireland-act-2003/` | 1 | 2025-05-20 to 2025-05-20 | 40 |
-| Licensing of Indoor Events Act 2003 | No. 15 of 2003 | `licensing-of-indoor-events-act-2003/` | 1 | 2021-09-28 to 2021-09-28 | 35 |
-| Criminal Justice (Public Order) Act 2003 | No. 16 of 2003 | `criminal-justice-public-order-act-2003/` | 1 | 2024-12-31 to 2024-12-31 | 11 |
-| Criminal Justice (Illicit Traffic by Sea) Act 2003 | No. 18 of 2003 | `criminal-justice-illicit-traffic-by-sea-act-2003/` | 2 | 2021-01-01 to 2021-11-22 | 31 |
-| European Convention on Human Rights Act 2003 | No. 20 of 2003 | `european-convention-on-human-rights-act-2003/` | 1 | 2020-10-14 to 2020-10-14 | 17 |
-| Fisheries (Amendment) Act 2003 | No. 21 of 2003 | `fisheries-amendment-act-2003/` | 1 | 2024-05-14 to 2024-05-14 | 37 |
-| Digital Hub Development Agency Act 2003 | No. 23 of 2003 | `digital-hub-development-agency-act-2003/` | 3 | 2021-09-28 to 2025-06-01 | 47 |
-| Immigration Act 2003 | No. 26 of 2003 | `immigration-act-2003/` | 4 | 2017-05-17 to 2026-06-12 | 14 |
-| Protection of Employees (Fixed-Term Work) Act 2003 | No. 29 of 2003 | `protection-of-employees-fixed-term-work-act-2003/` | 3 | 2017-09-01 to 2022-12-16 | 21 |
-| Industrial Development (Science Foundation Ireland) Act 2003 | No. 30 of 2003 | `industrial-development-science-foundation-ireland-act-2003/` | 2 | 2021-09-15 to 2024-08-01 | 40 |
-| Intoxicating Liquor Act 2003 | No. 31 of 2003 | `intoxicating-liquor-act-2003/` | 4 | 2023-12-08 to 2025-12-17 | 26 |
-| Official Languages Act 2003 | No. 32 of 2003 | `official-languages-act-2003/` | 8 | 2022-02-28 to 2026-07-15 | 61 |
-| Minister for Community, Rural and Gaeltacht Affairs (Powers and Functions) Act 2003 | No. 39 of 2003 | `minister-for-community-rural-and-gaeltacht-affairs-powers-and-functions-act-2003/` | 1 | 2025-05-20 to 2025-05-20 | 7 |
-| European Arrest Warrant Act 2003 | No. 45 of 2003 | `european-arrest-warrant-act-2003/` | 6 | 2019-12-12 to 2024-07-23 | 65 |
-| Personal Injuries Assessment Board Act 2003 | No. 46 of 2003 | `personal-injuries-assessment-board-act-2003/` | 10 | 2018-05-25 to 2025-12-01 | 102 |
-| Immigration Act 2004 | No. 1 of 2004 | `immigration-act-2004/` | 18 | 2018-01-31 to 2026-06-15 | 28 |
-| Civil Registration Act 2004 | No. 3 of 2004 | `civil-registration-act-2004/` | 13 | 2019-01-01 to 2025-12-31 | 134 |
-| Industrial Relations (Miscellaneous Provisions) Act 2004 | No. 4 of 2004 | `industrial-relations-miscellaneous-provisions-act-2004/` | 2 | 2019-01-01 to 2020-02-01 | 18 |
-| Public Service Superannuation (Miscellaneous Provisions) Act 2004 | No. 7 of 2004 | `public-service-superannuation-miscellaneous-provisions-act-2004/` | 5 | 2018-03-07 to 2025-04-02 | 22 |
-| Aer Lingus Act 2004 | No. 10 of 2004 | `aer-lingus-act-2004/` | 1 | 2020-10-01 to 2020-10-01 | 16 |
-| Air Navigation and Transport (International Conventions) Act 2004 | No. 11 of 2004 | `air-navigation-and-transport-international-conventions-act-2004/` | 1 | 2020-10-01 to 2020-10-01 | 18 |
-| Private Security Services Act 2004 | No. 12 of 2004 | `private-security-services-act-2004/` | 9 | 2018-09-01 to 2025-10-31 | 57 |
-| Electoral (Amendment) Act 2004 | No. 15 of 2004 | `electoral-amendment-act-2004/` | 2 | 2020-07-08 to 2024-03-31 | 41 |
-| Criminal Justice (Joint Investigation Teams) Act 2004 | No. 20 of 2004 | `criminal-justice-joint-investigation-teams-act-2004/` | 2 | 2020-06-27 to 2023-11-01 | 19 |
-| Commissions of Investigation Act 2004 | No. 23 of 2004 | `commissions-of-investigation-act-2004/` | 3 | 2018-05-25 to 2025-07-22 | 52 |
-| Residential Tenancies Act 2004 | No. 27 of 2004 | `residential-tenancies-act-2004/` | 27 | 2018-07-23 to 2026-09-25 | 273 |
-| Maritime Security Act 2004 | No. 29 of 2004 | `maritime-security-act-2004/` | 3 | 2020-10-14 to 2021-11-22 | 17 |
-| Education for Persons with Special Educational Needs Act 2004 | No. 30 of 2004 | `education-for-persons-with-special-educational-needs-act-2004/` | 4 | 2017-10-02 to 2023-03-01 | 56 |
-| Civil Liability and Courts Act 2004 | No. 31 of 2004 | `civil-liability-and-courts-act-2004/` | 4 | 2019-01-28 to 2024-09-02 | 65 |
-| State Airports Act 2004 | No. 32 of 2004 | `state-airports-act-2004/` | 1 | 2021-08-25 to 2021-08-25 | 31 |
-| Public Service Management (Recruitment and Appointments) Act 2004 | No. 33 of 2004 | `public-service-management-recruitment-and-appointments-act-2004/` | 3 | 2019-09-10 to 2023-09-04 | 78 |
-| Ombudsman (Defence Forces) Act 2004 | No. 36 of 2004 | `ombudsman-defence-forces-act-2004/` | 4 | 2017-05-16 to 2024-07-17 | 20 |
-| Health Act 2004 | No. 42 of 2004 | `health-act-2004/` | 2 | 2021-08-04 to 2023-03-01 | 162 |
-| Road Traffic Act 2004 | No. 44 of 2004 | `road-traffic-act-2004/` | 6 | 2017-06-01 to 2025-02-07 | 44 |
-| Proceeds of Crime (Amendment) Act 2005 | No. 1 of 2005 | `proceeds-of-crime-amendment-act-2005/` | 1 | 2018-07-30 to 2018-07-30 | 24 |
-| Criminal Justice (Terrorist Offences) Act 2005 | No. 2 of 2005 | `criminal-justice-terrorist-offences-act-2005/` | 37 | 2018-12-20 to 2026-07-08 | 97 |
-| Social Welfare and Pensions Act 2005 | No. 4 of 2005 | `social-welfare-and-pensions-act-2005/` | 2 | 2017-04-12 to 2023-01-09 | 45 |
-| Sea Pollution (Hazardous Substances) (Compensation) Act 2005 | No. 9 of 2005 | `sea-pollution-hazardous-substances-compensation-act-2005/` | 2 | 2019-01-01 to 2021-11-22 | 32 |
-| Safety, Health and Welfare at Work Act 2005 | No. 10 of 2005 | `safety-health-and-welfare-at-work-act-2005/` | 12 | 2018-07-12 to 2026-04-09 | 108 |
-| Maritime Safety Act 2005 | No. 11 of 2005 | `maritime-safety-act-2005/` | 7 | 2016-12-01 to 2025-07-29 | 62 |
-| Investment Funds, Companies and Miscellaneous Provisions Act 2005 | No. 12 of 2005 | `investment-funds-companies-and-miscellaneous-provisions-act-2005/` | 4 | 2016-10-13 to 2021-03-01 | 110 |
-| Disability Act 2005 | No. 14 of 2005 | `disability-act-2005/` | 6 | 2018-05-25 to 2025-04-02 | 60 |
-| International Interests in Mobile Equipment (Cape Town Convention) Act 2005 | No. 15 of 2005 | `international-interests-in-mobile-equipment-cape-town-convention-act-2005/` | 3 | 2017-05-02 to 2023-01-09 | 19 |
-| Commission to Inquire into Child Abuse (Amendment) Act 2005 | No. 17 of 2005 | `commission-to-inquire-into-child-abuse-amendment-act-2005/` | 2 | 2016-12-15 to 2019-05-28 | 37 |
-| Civil Service Regulation (Amendment) Act 2005 | No. 18 of 2005 | `civil-service-regulation-amendment-act-2005/` | 2 | 2017-03-31 to 2020-05-29 | 35 |
-| Garda Síochána Act 2005 | No. 20 of 2005 | `garda-s-och-na-act-2005/` | 11 | 2018-02-06 to 2024-09-03 | 177 |
-| Grangegorman Development Agency Act 2005 | No. 21 of 2005 | `grangegorman-development-agency-act-2005/` | 3 | 2016-10-26 to 2020-10-21 | 48 |
-| Veterinary Practice Act 2005 | No. 22 of 2005 | `veterinary-practice-act-2005/` | 5 | 2017-06-27 to 2026-01-01 | 151 |
-| Social Welfare Consolidation Act 2005 | No. 26 of 2005 | `social-welfare-consolidation-act-2005/` | 2 | 2026-01-21 to 2026-10-01 | 549 |
-| Health and Social Care Professionals Act 2005 | No. 27 of 2005 | `health-and-social-care-professionals-act-2005/` | 25 | 2019-01-30 to 2026-05-28 | 131 |
-| Transfer of Execution of Sentences Act 2005 | No. 28 of 2005 | `transfer-of-execution-of-sentences-act-2005/` | 3 | 2017-04-07 to 2023-05-03 | 21 |
-| Railway Safety Act 2005 | No. 31 of 2005 | `railway-safety-act-2005/` | 10 | 2018-05-25 to 2026-07-01 | 154 |
-| Development Banks Act 2005 | No. 34 of 2005 | `development-banks-act-2005/` | 3 | 2017-03-15 to 2023-01-09 | 11 |
-| Social Welfare Law Reform and Pensions Act 2006 | No. 5 of 2006 | `social-welfare-law-reform-and-pensions-act-2006/` | 1 | 2018-01-01 to 2018-01-01 | 58 |
-| Sea-Fisheries and Maritime Jurisdiction Act 2006 | No. 8 of 2006 | `sea-fisheries-and-maritime-jurisdiction-act-2006/` | 23 | 2018-10-24 to 2025-12-19 | 131 |
-| Employees (Provision of Information and Consultation) Act 2006 | No. 9 of 2006 | `employees-provision-of-information-and-consultation-act-2006/` | 2 | 2015-10-01 to 2019-02-01 | 26 |
-| Criminal Law (Insanity) Act 2006 | No. 11 of 2006 | `criminal-law-insanity-act-2006/` | 3 | 2017-04-13 to 2023-11-01 | 32 |
-| Registration of Deeds and Title Act 2006 | No. 12 of 2006 | `registration-of-deeds-and-title-act-2006/` | 5 | 2018-01-01 to 2023-07-31 | 80 |
-| Parental Leave (Amendment) Act 2006 | No. 13 of 2006 | `parental-leave-amendment-act-2006/` | 2 | 2016-06-30 to 2019-07-19 | 14 |
-| Road Safety Authority Act 2006 | No. 14 of 2006 | `road-safety-authority-act-2006/` | 2 | 2015-09-30 to 2019-02-01 | 41 |
-| Criminal Law (Sexual Offences) Act 2006 | No. 15 of 2006 | `criminal-law-sexual-offences-act-2006/` | 4 | 2017-03-27 to 2024-08-31 | 12 |
-| Employment Permits Act 2006 | No. 16 of 2006 | `employment-permits-act-2006/` | 15 | 2018-12-13 to 2024-09-02 | 57 |
-| Health (Repayment Scheme) Act 2006 | No. 17 of 2006 | `health-repayment-scheme-act-2006/` | 1 | 2018-05-25 to 2018-05-25 | 24 |
-| NATIONAL SPORTS CAMPUS DEVELOPMENT AUTHORITY ACT 2006 | No. 19 of 2006 | `national-sports-campus-development-authority-act-2006/` | 1 | 2014-10-14 to 2014-10-14 | 42 |
-| Defence (Amendment) Act 2006 | No. 20 of 2006 | `defence-amendment-act-2006/` | 1 | 2022-04-04 to 2022-04-04 | 17 |
-| National Economic and Social Development Office Act 2006 | No. 21 of 2006 | `national-economic-and-social-development-office-act-2006/` | 3 | 2017-05-16 to 2023-01-09 | 43 |
-| Road Traffic Act 2006 | No. 23 of 2006 | `road-traffic-act-2006/` | 8 | 2018-07-19 to 2026-07-01 | 24 |
-| Criminal Justice Act 2006 | No. 26 of 2006 | `criminal-justice-act-2006/` | 7 | 2017-04-07 to 2026-08-10 | 208 |
-| Road Traffic and Transport Act 2006 | No. 28 of 2006 | `road-traffic-and-transport-act-2006/` | 3 | 2018-10-04 to 2025-11-10 | 4 |
-| Sea Pollution (Miscellaneous Provisions) Act 2006 | No. 29 of 2006 | `sea-pollution-miscellaneous-provisions-act-2006/` | 2 | 2017-04-13 to 2021-11-22 | 40 |
-| International Criminal Court Act 2006 | No. 30 of 2006 | `international-criminal-court-act-2006/` | 3 | 2017-04-07 to 2026-09-01 | 74 |
-| Electoral (Amendment) Act 2006 | No. 33 of 2006 | `electoral-amendment-act-2006/` | 3 | 2018-05-25 to 2024-05-16 | 21 |
-| Energy (Miscellaneous Provisions) Act 2006 | No. 40 of 2006 | `energy-miscellaneous-provisions-act-2006/` | 2 | 2017-07-26 to 2023-01-09 | 32 |
-| Investment Funds, Companies and Miscellaneous Provisions Act 2006 | No. 41 of 2006 | `investment-funds-companies-and-miscellaneous-provisions-act-2006/` | 1 | 2019-01-01 to 2019-01-01 | 36 |
-| Local Government (Business Improvement Districts) Act 2006 | No. 42 of 2006 | `local-government-business-improvement-districts-act-2006/` | 3 | 2017-04-13 to 2023-01-09 | 10 |
-| Criminal Law (Sexual Offences) (Amendment) Act 2007 | No. 6 of 2007 | `criminal-law-sexual-offences-amendment-act-2007/` | 1 | 2024-08-31 to 2024-08-31 | 8 |
-| National Oil Reserves Agency Act 2007 | No. 7 of 2007 | `national-oil-reserves-agency-act-2007/` | 14 | 2018-05-30 to 2026-08-28 | 107 |
-| Social Welfare and Pensions Act 2007 | No. 8 of 2007 | `social-welfare-and-pensions-act-2007/` | 2 | 2017-07-26 to 2023-01-09 | 43 |
-| Education (Miscellaneous Provisions) Act 2007 | No. 9 of 2007 | `education-miscellaneous-provisions-act-2007/` | 2 | 2017-04-13 to 2021-06-24 | 10 |
-| Prisons Act 2007 | No. 10 of 2007 | `prisons-act-2007/` | 3 | 2018-11-30 to 2023-08-01 | 44 |
-| Carbon Fund Act 2007 | No. 12 of 2007 | `carbon-fund-act-2007/` | 2 | 2016-07-22 to 2019-05-28 | 11 |
-| Consumer Protection Act 2007 | No. 19 of 2007 | `consumer-protection-act-2007/` | 15 | 2018-12-03 to 2025-11-24 | 132 |
-| Pharmacy Act 2007 | No. 20 of 2007 | `pharmacy-act-2007/` | 15 | 2018-05-25 to 2026-06-30 | 90 |
-| Building Control Act 2007 | No. 21 of 2007 | `building-control-act-2007/` | 4 | 2018-07-03 to 2022-08-29 | 77 |
-| Communications Regulation (Amendment) Act 2007 | No. 22 of 2007 | `communications-regulation-amendment-act-2007/` | 3 | 2016-06-23 to 2025-06-01 | 36 |
-| Health Act 2007 | No. 23 of 2007 | `health-act-2007/` | 7 | 2019-01-08 to 2025-03-31 | 122 |
-| Medical Practitioners Act 2007 | No. 25 of 2007 | `medical-practitioners-act-2007/` | 10 | 2018-12-26 to 2026-07-29 | 154 |
-| Child Care (Amendment) Act 2007 | No. 26 of 2007 | `child-care-amendment-act-2007/` | 2 | 2017-04-13 to 2020-05-21 | 23 |
-| Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007 | No. 27 of 2007 | `protection-of-employment-exceptional-collective-redundancies-and-related-matters-act-2007/` | 2 | 2017-09-01 to 2020-10-14 | 28 |
-| Criminal Justice Act 2007 | No. 29 of 2007 | `criminal-justice-act-2007/` | 8 | 2017-06-28 to 2025-04-02 | 64 |
-| Water Services Act 2007 | No. 30 of 2007 | `water-services-act-2007/` | 4 | 2018-10-22 to 2025-12-31 | 138 |
-| Community, Rural and Gaeltacht Affairs (Miscellaneous Provisions) Act 2007 | No. 32 of 2007 | `community-rural-and-gaeltacht-affairs-miscellaneous-provisions-act-2007/` | 3 | 2018-01-01 to 2025-06-01 | 12 |
-| Roads Act 2007 | No. 34 of 2007 | `roads-act-2007/` | 1 | 2019-01-01 to 2019-01-01 | 16 |
-| Markets in Financial Instruments and Miscellaneous Provisions Act 2007 | No. 37 of 2007 | `markets-in-financial-instruments-and-miscellaneous-provisions-act-2007/` | 1 | 2018-10-29 to 2018-10-29 | 27 |
-| Social Welfare (Consolidated Occupational Injuries) Regulations 2007 | S.I. No. 102 of 2007 | `social-welfare-consolidated-occupational-injuries-regulations-2007/` | 3 | 2023-01-06 to 2026-01-06 | 83 |
-| European Communities (Access to Information on the Environment) Regulations 2007 | S.I. No. 133 of 2007 | `european-communities-access-to-information-on-the-environment-regulations-2007/` | 1 | 2022-11-01 to 2022-11-01 | 17 |
-| Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 | S.I. No. 142 of 2007 | `social-welfare-consolidated-claims-payments-and-control-regulations-2007/` | 3 | 2023-05-04 to 2026-01-21 | 416 |
-| Prison Rules 2007 | S.I. No. 252 of 2007 | `prison-rules-2007/` | 1 | 2024-01-01 to 2024-01-01 | 129 |
-| Safety, Health and Welfare at Work (General Application) Regulations 2007 | S.I. No. 299 of 2007 | `safety-health-and-welfare-at-work-general-application-regulations-2007/` | 2 | 2018-04-30 to 2023-05-24 | 188 |
-| Social Welfare (Consolidated Supplementary Welfare Allowance) Regulations 2007 | S.I. No. 412 of 2007 | `social-welfare-consolidated-supplementary-welfare-allowance-regulations-2007/` | 3 | 2023-03-24 to 2026-01-21 | 54 |
-| Social Welfare and Pensions Act 2008 | No. 2 of 2008 | `social-welfare-and-pensions-act-2008/` | 2 | 2017-07-26 to 2023-01-09 | 34 |
-| Passports Act 2008 | No. 4 of 2008 | `passports-act-2008/` | 1 | 2018-05-25 to 2018-05-25 | 29 |
-| Criminal Justice (Mutual Assistance) Act 2008 | No. 7 of 2008 | `criminal-justice-mutual-assistance-act-2008/` | 10 | 2018-08-17 to 2025-05-20 | 205 |
-| Criminal Law (Human Trafficking) Act 2008 | No. 8 of 2008 | `criminal-law-human-trafficking-act-2008/` | 3 | 2017-03-27 to 2022-12-22 | 17 |
-| Electricity Regulation (Amendment) (Eirgrid) Act 2008 | No. 11 of 2008 | `electricity-regulation-amendment-eirgrid-act-2008/` | 1 | 2022-07-12 to 2022-07-12 | 11 |
-| Chemicals Act 2008 | No. 13 of 2008 | `chemicals-act-2008/` | 4 | 2018-05-25 to 2024-12-17 | 38 |
-| Civil Law (Miscellaneous Provisions) Act 2008 | No. 14 of 2008 | `civil-law-miscellaneous-provisions-act-2008/` | 1 | 2020-08-21 to 2020-08-21 | 85 |
-| Dublin Transport Authority Act 2008 | No. 15 of 2008 | `dublin-transport-authority-act-2008/` | 5 | 2018-10-22 to 2023-07-17 | 123 |
-| Intoxicating Liquor Act 2008 | No. 17 of 2008 | `intoxicating-liquor-act-2008/` | 1 | 2022-05-04 to 2022-05-04 | 25 |
-| Credit Institutions (Financial Support) Act 2008 | No. 18 of 2008 | `credit-institutions-financial-support-act-2008/` | 3 | 2017-04-07 to 2025-12-16 | 10 |
-| Cluster Munitions And Anti-Personnel Mines Act 2008 | No. 20 of 2008 | `cluster-munitions-and-anti-personnel-mines-act-2008/` | 2 | 2017-04-07 to 2020-05-21 | 22 |
-| Anglo Irish Bank Corporation Act 2009 | No. 1 of 2009 | `anglo-irish-bank-corporation-act-2009/` | 2 | 2016-06-23 to 2019-02-08 | 41 |
-| Electoral (Amendment) Act 2009 | No. 4 of 2009 | `electoral-amendment-act-2009/` | 3 | 2017-04-07 to 2023-01-09 | 22 |
-| Financial Emergency Measures in the Public Interest Act 2009 | No. 5 of 2009 | `financial-emergency-measures-in-the-public-interest-act-2009/` | 1 | 2018-01-01 to 2018-01-01 | 21 |
-| Charities Act 2009 | No. 6 of 2009 | `charities-act-2009/` | 4 | 2018-07-04 to 2026-04-22 | 115 |
-| Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009 | No. 7 of 2009 | `investment-of-the-national-pensions-reserve-fund-and-miscellaneous-provisions-act-2009/` | 3 | 2016-08-31 to 2021-12-31 | 14 |
-| Electoral (Amendment) (No. 2) Act 2009 | No. 9 of 2009 | `electoral-amendment-no-2-act-2009/` | 3 | 2017-04-07 to 2023-01-09 | 11 |
-| Social Welfare and Pensions Act 2009 | No. 10 of 2009 | `social-welfare-and-pensions-act-2009/` | 2 | 2017-07-26 to 2023-01-09 | 24 |
-| Financial Services (Deposit Guarantee Scheme) Act 2009 | No. 13 of 2009 | `financial-services-deposit-guarantee-scheme-act-2009/` | 1 | 2019-01-01 to 2019-01-01 | 21 |
-| Nursing Homes Support Scheme Act 2009 | No. 15 of 2009 | `nursing-homes-support-scheme-act-2009/` | 10 | 2019-01-01 to 2026-03-13 | 76 |
-| Aviation (Preclearance) Act 2009 | No. 16 of 2009 | `aviation-preclearance-act-2009/` | 2 | 2016-06-23 to 2019-05-28 | 23 |
-| Broadcasting Act 2009 | No. 18 of 2009 | `broadcasting-act-2009/` | 15 | 2017-10-25 to 2026-06-12 | 315 |
-| Criminal Justice (Surveillance) Act 2009 | No. 19 of 2009 | `criminal-justice-surveillance-act-2009/` | 5 | 2017-02-06 to 2025-04-02 | 20 |
-| Housing (Miscellaneous Provisions) Act 2009 | No. 22 of 2009 | `housing-miscellaneous-provisions-act-2009/` | 8 | 2018-09-12 to 2025-12-31 | 106 |
-| Land And Conveyancing Law Reform Act 2009 | No. 27 of 2009 | `land-and-conveyancing-law-reform-act-2009/` | 6 | 2016-06-30 to 2025-12-31 | 137 |
-| Criminal Justice (Miscellaneous Provisions) Act 2009 | No. 28 of 2009 | `criminal-justice-miscellaneous-provisions-act-2009/` | 2 | 2018-05-25 to 2020-05-01 | 53 |
-| Local Government (Charges) Act 2009 | No. 30 of 2009 | `local-government-charges-act-2009/` | 3 | 2017-04-07 to 2023-01-09 | 19 |
-| Defamation Act 2009 | No. 31 of 2009 | `defamation-act-2009/` | 4 | 2020-01-17 to 2026-03-01 | 64 |
-| National Asset Management Agency Act 2009 | No. 34 of 2009 | `national-asset-management-agency-act-2009/` | 4 | 2018-05-25 to 2026-08-01 | 245 |
-| Courts and Court Officers Act 2009 | No. 36 of 2009 | `courts-and-court-officers-act-2009/` | 2 | 2017-04-07 to 2020-05-21 | 27 |
-| Public Transport Regulation Act 2009 | No. 37 of 2009 | `public-transport-regulation-act-2009/` | 1 | 2018-10-22 to 2018-10-22 | 49 |
-| Financial Emergency Measures in the Public Interest (No. 2) Act 2009 | No. 41 of 2009 | `financial-emergency-measures-in-the-public-interest-no-2-act-2009/` | 3 | 2018-01-01 to 2023-01-01 | 17 |
-| Companies (Miscellaneous Provisions) Act 2009 | No. 45 of 2009 | `companies-miscellaneous-provisions-act-2009/` | 1 | 2019-01-01 to 2019-01-01 | 6 |
-| Health Insurance Act 1994 (Information Returns) Regulations 2009 | S.I. No. 294 of 2009 | `health-insurance-act-1994-information-returns-regulations-2009/` | 1 | 2024-07-01 to 2024-07-01 | 9 |
-| Arbitration Act 2010 | No. 1 of 2010 | `arbitration-act-2010/` | 2 | 2022-11-29 to 2023-07-05 | 40 |
-| Communications Regulation (Premium Rate Services and Electronic Communications Infrastructure) Act 2010 | No. 2 of 2010 | `communications-regulation-premium-rate-services-and-electronic-communications-infrastructure-act-2010/` | 3 | 2017-04-07 to 2025-06-01 | 23 |
-| Petroleum (Exploration and Extraction) Safety Act 2010 | No. 4 of 2010 | `petroleum-exploration-and-extraction-safety-act-2010/` | 3 | 2017-05-16 to 2023-01-09 | 5 |
-| Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 | No. 6 of 2010 | `criminal-justice-money-laundering-and-terrorist-financing-act-2010/` | 10 | 2018-11-26 to 2025-08-01 | 198 |
-| Euro Area Loan Facility Act 2010 | No. 7 of 2010 | `euro-area-loan-facility-act-2010/` | 2 | 2016-06-30 to 2019-05-28 | 8 |
-| Fines Act 2010 | No. 8 of 2010 | `fines-act-2010/` | 2 | 2016-01-11 to 2019-05-28 | 23 |
-| Inland Fisheries Act 2010 | No. 10 of 2010 | `inland-fisheries-act-2010/` | 9 | 2019-01-01 to 2026-04-03 | 91 |
-| Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010 | No. 11 of 2010 | `energy-biofuel-obligation-and-miscellaneous-provisions-act-2010/` | 2 | 2016-06-30 to 2019-09-01 | 29 |
-| European Financial Stability Facility Act 2010 | No. 16 of 2010 | `european-financial-stability-facility-act-2010/` | 2 | 2016-06-30 to 2019-05-28 | 10 |
-| Wildlife (Amendment) Act 2010 | No. 19 of 2010 | `wildlife-amendment-act-2010/` | 1 | 2018-07-18 to 2018-07-18 | 10 |
-| Adoption Act 2010 | No. 21 of 2010 | `adoption-act-2010/` | 5 | 2018-02-01 to 2023-07-03 | 189 |
-| Criminal Justice (Psychoactive Substances) Act 2010 | No. 22 of 2010 | `criminal-justice-psychoactive-substances-act-2010/` | 1 | 2023-12-22 to 2023-12-22 | 27 |
-| Central Bank Reform Act 2010 | No. 23 of 2010 | `central-bank-reform-act-2010/` | 7 | 2018-07-01 to 2026-02-10 | 85 |
-| Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 | No. 24 of 2010 | `civil-partnership-and-certain-rights-and-obligations-of-cohabitants-act-2010/` | 5 | 2019-01-01 to 2024-11-13 | 221 |
-| Road Traffic Act 2010 | No. 25 of 2010 | `road-traffic-act-2010/` | 10 | 2018-10-26 to 2026-01-01 | 99 |
-| Criminal Procedure Act 2010 | No. 27 of 2010 | `criminal-procedure-act-2010/` | 4 | 2018-07-30 to 2024-12-31 | 40 |
-| Social Welfare (Miscellaneous Provisions) Act 2010 | No. 28 of 2010 | `social-welfare-miscellaneous-provisions-act-2010/` | 1 | 2018-01-01 to 2018-01-01 | 36 |
-| Dog Breeding Establishments Act 2010 | No. 29 of 2010 | `dog-breeding-establishments-act-2010/` | 3 | 2017-07-27 to 2025-08-01 | 27 |
-| Planning and Development (Amendment) Act 2010 | No. 30 of 2010 | `planning-and-development-amendment-act-2010/` | 1 | 2019-01-25 to 2019-01-25 | 85 |
-| Value-Added Tax Consolidation Act 2010 | No. 31 of 2010 | `value-added-tax-consolidation-act-2010/` | 15 | 2019-01-01 to 2026-08-01 | 174 |
-| Credit Institutions (Stabilisation) Act 2010 | No. 36 of 2010 | `credit-institutions-stabilisation-act-2010/` | 4 | 2018-04-23 to 2025-07-14 | 87 |
-| Social Welfare and Pensions Act 2010 | No. 37 of 2010 | `social-welfare-and-pensions-act-2010/` | 2 | 2017-07-26 to 2023-01-09 | 49 |
-| Financial Emergency Measures in the Public Interest Act 2010 | No. 38 of 2010 | `financial-emergency-measures-in-the-public-interest-act-2010/` | 3 | 2018-01-01 to 2023-01-01 | 20 |
-| Multi-Unit Developments Act 2011 | No. 2 of 2011 | `multi-unit-developments-act-2011/` | 2 | 2016-11-30 to 2019-05-28 | 38 |
-| Communications (Retention of Data) Act 2011 | No. 3 of 2011 | `communications-retention-of-data-act-2011/` | 4 | 2018-05-25 to 2025-04-02 | 40 |
-| Student Support Act 2011 | No. 4 of 2011 | `student-support-act-2011/` | 19 | 2019-01-01 to 2026-03-18 | 35 |
-| Social Welfare and Pensions Act 2011 | No. 9 of 2011 | `social-welfare-and-pensions-act-2011/` | 1 | 2020-12-22 to 2020-12-22 | 44 |
-| Ministers and Secretaries (Amendment) Act 2011 | No. 10 of 2011 | `ministers-and-secretaries-amendment-act-2011/` | 8 | 2018-09-28 to 2026-07-13 | 107 |
-| Biological Weapons Act 2011 | No. 13 of 2011 | `biological-weapons-act-2011/` | 2 | 2014-12-28 to 2019-05-28 | 16 |
-| Child Care (Amendment) Act 2011 | No. 19 of 2011 | `child-care-amendment-act-2011/` | 2 | 2018-01-01 to 2026-06-23 | 50 |
-| Environment (Miscellaneous Provisions) Act 2011 | No. 20 of 2011 | `environment-miscellaneous-provisions-act-2011/` | 3 | 2018-07-19 to 2026-05-08 | 52 |
-| Communications Regulation (Postal Services) Act 2011 | No. 21 of 2011 | `communications-regulation-postal-services-act-2011/` | 3 | 2019-01-01 to 2025-06-01 | 83 |
-| Criminal Justice Act 2011 | No. 22 of 2011 | `criminal-justice-act-2011/` | 3 | 2018-07-30 to 2023-11-01 | 25 |
-| Civil Law (Miscellaneous Provisions) Act 2011 | No. 23 of 2011 | `civil-law-miscellaneous-provisions-act-2011/` | 2 | 2017-04-07 to 2020-05-21 | 68 |
-| European Financial Stability Facility and Euro Area Loan Facility (Amendment) Act 2011 | No. 25 of 2011 | `european-financial-stability-facility-and-euro-area-loan-facility-amendment-act-2011/` | 2 | 2016-06-30 to 2019-05-28 | 8 |
-| Central Bank and Credit Institutions (Resolution) Act 2011 | No. 27 of 2011 | `central-bank-and-credit-institutions-resolution-act-2011/` | 7 | 2018-09-27 to 2025-09-30 | 116 |
-| Welfare of Greyhounds Act 2011 | No. 29 of 2011 | `welfare-of-greyhounds-act-2011/` | 4 | 2016-06-08 to 2025-04-02 | 30 |
-| Road Transport Act 2011 | No. 31 of 2011 | `road-transport-act-2011/` | 5 | 2015-11-01 to 2025-11-10 | 25 |
-| Local Government (Household Charge) Act 2011 | No. 36 of 2011 | `local-government-household-charge-act-2011/` | 3 | 2017-05-16 to 2023-01-09 | 21 |
-| Property Services (Regulation) Act 2011 | No. 40 of 2011 | `property-services-regulation-act-2011/` | 10 | 2018-05-25 to 2026-06-17 | 110 |
-| Nurses and Midwives Act 2011 | No. 41 of 2011 | `nurses-and-midwives-act-2011/` | 7 | 2018-12-26 to 2025-05-06 | 120 |
-| Energy (Miscellaneous Provisions) Act 2012 | No. 3 of 2012 | `energy-miscellaneous-provisions-act-2012/` | 1 | 2019-01-01 to 2019-01-01 | 23 |
-| Criminal Justice (Female Genital Mutilation) Act 2012 | No. 11 of 2012 | `criminal-justice-female-genital-mutilation-act-2012/` | 3 | 2017-11-27 to 2024-08-31 | 17 |
-| Protection of Employees (Temporary Agency Work) Act 2012 | No. 13 of 2012 | `protection-of-employees-temporary-agency-work-act-2012/` | 2 | 2017-09-01 to 2020-10-14 | 28 |
-| Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012 | No. 16 of 2012 | `road-safety-authority-commercial-vehicle-roadworthiness-act-2012/` | 9 | 2018-05-20 to 2025-01-01 | 58 |
-| European Stability Mechanism Act 2012 | No. 20 of 2012 | `european-stability-mechanism-act-2012/` | 2 | 2017-04-13 to 2021-12-09 | 12 |
-| Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012 | No. 24 of 2012 | `criminal-justice-withholding-of-information-on-offences-against-children-and-vulnerable-persons-act-2012/` | 5 | 2017-03-27 to 2025-05-30 | 15 |
-| Credit Guarantee Act 2012 | No. 26 of 2012 | `credit-guarantee-act-2012/` | 5 | 2017-03-03 to 2022-12-08 | 15 |
-| Qualifications and Quality Assurance (Education and Training) Act 2012 | No. 28 of 2012 | `qualifications-and-quality-assurance-education-and-training-act-2012/` | 7 | 2018-04-24 to 2026-01-01 | 106 |
-| European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012 | No. 30 of 2012 | `european-arrest-warrant-application-to-third-countries-and-amendment-and-extradition-amendment-act-2012/` | 1 | 2021-03-30 to 2021-03-30 | 36 |
-| Microenterprise Loan Fund Act 2012 | No. 31 of 2012 | `microenterprise-loan-fund-act-2012/` | 3 | 2020-04-28 to 2024-08-28 | 24 |
-| Residential Institutions Statutory Fund Act 2012 | No. 35 of 2012 | `residential-institutions-statutory-fund-act-2012/` | 4 | 2017-09-01 to 2024-07-17 | 46 |
-| Public Service Pensions (Single Scheme and Other Provisions) Act 2012 | No. 37 of 2012 | `public-service-pensions-single-scheme-and-other-provisions-act-2012/` | 8 | 2017-01-27 to 2024-08-19 | 76 |
-| Fiscal Responsibility Act 2012 | No. 39 of 2012 | `fiscal-responsibility-act-2012/` | 2 | 2017-04-13 to 2020-12-16 | 13 |
-| Credit Union and Co-operation with Overseas Regulators Act 2012 | No. 40 of 2012 | `credit-union-and-co-operation-with-overseas-regulators-act-2012/` | 8 | 2018-10-22 to 2025-09-30 | 76 |
-| Personal Insolvency Act 2012 | No. 44 of 2012 | `personal-insolvency-act-2012/` | 7 | 2018-05-25 to 2026-03-16 | 217 |
-| National Vetting Bureau (Children and Vulnerable Persons) Act 2012 | No. 47 of 2012 | `national-vetting-bureau-children-and-vulnerable-persons-act-2012/` | 5 | 2019-01-01 to 2026-06-23 | 37 |
-| Civil Defence Act 2012 | No. 51 of 2012 | `civil-defence-act-2012/` | 3 | 2017-04-07 to 2023-07-18 | 19 |
-| Finance (Local Property Tax) Act 2012 | No. 52 of 2012 | `finance-local-property-tax-act-2012/` | 9 | 2018-12-03 to 2026-05-07 | 180 |
-| Europol Act 2012 | No. 53 of 2012 | `europol-act-2012/` | 2 | 2018-05-25 to 2025-04-02 | 23 |
-| Irish Bank Resolution Corporation Act 2013 | No. 2 of 2013 | `irish-bank-resolution-corporation-act-2013/` | 3 | 2016-08-01 to 2026-08-01 | 31 |
-| Water Services Act 2013 | No. 6 of 2013 | `water-services-act-2013/` | 2 | 2018-05-25 to 2023-01-01 | 42 |
-| Health (Alteration of Criteria for Eligibility) Act 2013 | No. 10 of 2013 | `health-alteration-of-criteria-for-eligibility-act-2013/` | 1 | 2018-05-25 to 2018-05-25 | 9 |
-| Education and Training Boards Act 2013 | No. 11 of 2013 | `education-and-training-boards-act-2013/` | 4 | 2018-04-24 to 2025-05-01 | 80 |
-| Health (Pricing and Supply of Medical Goods) Act 2013 | No. 14 of 2013 | `health-pricing-and-supply-of-medical-goods-act-2013/` | 4 | 2019-01-01 to 2025-06-01 | 40 |
-| Animal Health and Welfare Act 2013 | No. 15 of 2013 | `animal-health-and-welfare-act-2013/` | 23 | 2019-01-01 to 2026-05-05 | 96 |
-| Financial Emergency Measures in the Public Interest Act 2013 | No. 18 of 2013 | `financial-emergency-measures-in-the-public-interest-act-2013/` | 2 | 2016-07-18 to 2019-09-01 | 14 |
-| Criminal Justice Act 2013 | No. 19 of 2013 | `criminal-justice-act-2013/` | 1 | 2018-11-26 to 2018-11-26 | 29 |
-| Social Welfare and Pensions (Miscellaneous Provisions) Act 2013 | No. 20 of 2013 | `social-welfare-and-pensions-miscellaneous-provisions-act-2013/` | 1 | 2018-01-01 to 2018-01-01 | 34 |
-| Health Service Executive (Governance) Act 2013 | No. 23 of 2013 | `health-service-executive-governance-act-2013/` | 1 | 2019-06-28 to 2019-06-28 | 24 |
-| Further Education and Training Act 2013 | No. 25 of 2013 | `further-education-and-training-act-2013/` | 19 | 2018-09-12 to 2026-07-15 | 53 |
-| Central Bank (Supervision and Enforcement) Act 2013 | No. 26 of 2013 | `central-bank-supervision-and-enforcement-act-2013/` | 12 | 2019-01-28 to 2026-07-07 | 104 |
-| Land and Conveyancing Law Reform Act 2013 | No. 30 of 2013 | `land-and-conveyancing-law-reform-act-2013/` | 1 | 2019-08-01 to 2019-08-01 | 7 |
-| Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013 | No. 33 of 2013 | `houses-of-the-oireachtas-inquiries-privileges-and-procedures-act-2013/` | 4 | 2017-05-16 to 2025-04-02 | 135 |
-| Taxi Regulation Act 2013 | No. 37 of 2013 | `taxi-regulation-act-2013/` | 10 | 2018-02-01 to 2026-04-01 | 80 |
-| Gas Regulation Act 2013 | No. 39 of 2013 | `gas-regulation-act-2013/` | 1 | 2024-06-01 to 2024-06-01 | 54 |
-| Child and Family Agency Act 2013 | No. 40 of 2013 | `child-and-family-agency-act-2013/` | 6 | 2018-06-30 to 2025-11-26 | 101 |
-| Credit Reporting Act 2013 | No. 45 of 2013 | `credit-reporting-act-2013/` | 3 | 2018-10-29 to 2026-08-01 | 36 |
-| Companies (Miscellaneous Provisions) Act 2013 | No. 46 of 2013 | `companies-miscellaneous-provisions-act-2013/` | 1 | 2019-01-01 to 2019-01-01 | 12 |
-| Water Services (No. 2) Act 2013 | No. 50 of 2013 | `water-services-no-2-act-2013/` | 11 | 2018-12-31 to 2025-12-31 | 50 |
-| Local Government Reform Act 2014 | No. 1 of 2014 | `local-government-reform-act-2014/` | 4 | 2017-11-10 to 2024-05-16 | 86 |
-| Road Traffic Act 2014 | No. 3 of 2014 | `road-traffic-act-2014/` | 5 | 2017-04-13 to 2024-10-01 | 27 |
-| Criminal Justice (Forensic Evidence and DNA Database System) Act 2014 | No. 11 of 2014 | `criminal-justice-forensic-evidence-and-dna-database-system-act-2014/` | 7 | 2021-07-30 to 2026-09-01 | 177 |
-| Industrial Development (Forfás Dissolution) Act 2014 | No. 13 of 2014 | `industrial-development-forf-s-dissolution-act-2014/` | 1 | 2024-08-01 to 2024-08-01 | 44 |
-| Protected Disclosures Act 2014 | No. 14 of 2014 | `protected-disclosures-act-2014/` | 8 | 2018-06-09 to 2026-06-08 | 52 |
-| Health Identifiers Act 2014 | No. 15 of 2014 | `health-identifiers-act-2014/` | 2 | 2018-05-25 to 2022-03-31 | 42 |
-| Social Welfare and Pensions Act 2014 | No. 16 of 2014 | `social-welfare-and-pensions-act-2014/` | 1 | 2018-01-01 to 2018-01-01 | 27 |
-| Housing (Miscellaneous Provisions) Act 2014 | No. 21 of 2014 | `housing-miscellaneous-provisions-act-2014/` | 4 | 2022-01-04 to 2024-05-16 | 59 |
-| Strategic Banking Corporation of Ireland Act 2014 | No. 22 of 2014 | `strategic-banking-corporation-of-ireland-act-2014/` | 1 | 2020-07-20 to 2020-07-20 | 24 |
-| National Treasury Management Agency (Amendment) Act 2014 | No. 23 of 2014 | `national-treasury-management-agency-amendment-act-2014/` | 18 | 2018-12-17 to 2026-09-22 | 94 |
-| Irish Human Rights and Equality Commission Act 2014 | No. 25 of 2014 | `irish-human-rights-and-equality-commission-act-2014/` | 4 | 2020-10-14 to 2025-05-01 | 61 |
-| Employment Permits (Amendment) Act 2014 | No. 26 of 2014 | `employment-permits-amendment-act-2014/` | 1 | 2022-07-22 to 2022-07-22 | 40 |
-| Competition and Consumer Protection Act 2014 | No. 29 of 2014 | `competition-and-consumer-protection-act-2014/` | 5 | 2022-11-29 to 2026-07-31 | 113 |
-| Freedom of Information Act 2014 | No. 30 of 2014 | `freedom-of-information-act-2014/` | 9 | 2018-12-26 to 2026-07-31 | 61 |
-| Forestry Act 2014 | No. 31 of 2014 | `forestry-act-2014/` | 5 | 2017-11-09 to 2023-10-13 | 39 |
-| European Stability Mechanism (Amendment) Act 2014 | No. 32 of 2014 | `european-stability-mechanism-amendment-act-2014/` | 1 | 2021-12-09 to 2021-12-09 | 8 |
-| Civil Registration (Amendment) Act 2014 | No. 34 of 2014 | `civil-registration-amendment-act-2014/` | 4 | 2016-07-11 to 2025-12-10 | 37 |
-| Companies Act 2014 | No. 38 of 2014 | `companies-act-2014/` | 21 | 2018-12-19 to 2025-07-15 | 1862 |
-| Water Services Act 2014 | No. 44 of 2014 | `water-services-act-2014/` | 3 | 2018-01-01 to 2024-06-01 | 22 |
-| Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) Regulations 2014 | S.I. No. 312 of 2014 | `health-insurance-act-1994-determination-of-relevant-increase-under-section-7a-and-provision-of-information-under-section-7b-regulations-2014/` | 1 | 2024-07-01 to 2024-07-01 | 8 |
-| Irish Collective Asset-Management Vehicles Act 2015 | No. 2 of 2015 | `irish-collective-asset-management-vehicles-act-2015/` | 4 | 2018-09-21 to 2022-07-06 | 203 |
-| Public Health (Standardised Packaging of Tobacco) Act 2015 | No. 4 of 2015 | `public-health-standardised-packaging-of-tobacco-act-2015/` | 3 | 2017-09-30 to 2023-01-09 | 24 |
-| Regulation of Lobbying Act 2015 | No. 5 of 2015 | `regulation-of-lobbying-act-2015/` | 7 | 2018-05-25 to 2025-12-31 | 36 |
-| Redress for Women Resident in Certain Institutions Act 2015 | No. 8 of 2015 | `redress-for-women-resident-in-certain-institutions-act-2015/` | 2 | 2019-08-02 to 2020-10-14 | 8 |
-| Children and Family Relationships Act 2015 | No. 9 of 2015 | `children-and-family-relationships-act-2015/` | 5 | 2017-10-19 to 2026-04-20 | 182 |
-| Vehicle Clamping Act 2015 | No. 13 of 2015 | `vehicle-clamping-act-2015/` | 3 | 2017-10-01 to 2025-10-01 | 38 |
-| Sport Ireland Act 2015 | No. 15 of 2015 | `sport-ireland-act-2015/` | 2 | 2018-05-25 to 2020-09-16 | 48 |
-| Workplace Relations Act 2015 | No. 16 of 2015 | `workplace-relations-act-2015/` | 12 | 2017-09-01 to 2026-06-29 | 95 |
-| Customs Act 2015 | No. 18 of 2015 | `customs-act-2015/` | 5 | 2018-05-25 to 2025-08-01 | 57 |
-| Gender Recognition Act 2015 | No. 25 of 2015 | `gender-recognition-act-2015/` | 1 | 2019-01-01 to 2019-01-01 | 39 |
-| Industrial Relations (Amendment) Act 2015 | No. 27 of 2015 | `industrial-relations-amendment-act-2015/` | 6 | 2018-03-06 to 2025-08-01 | 47 |
-| Environment (Miscellaneous Provisions) Act 2015 | No. 29 of 2015 | `environment-miscellaneous-provisions-act-2015/` | 1 | 2024-07-31 to 2024-07-31 | 52 |
-| Urban Regeneration and Housing Act 2015 | No. 33 of 2015 | `urban-regeneration-and-housing-act-2015/` | 5 | 2018-11-01 to 2026-08-12 | 38 |
-| Children First Act 2015 | No. 36 of 2015 | `children-first-act-2015/` | 4 | 2018-06-30 to 2026-06-23 | 32 |
-| Residential Tenancies (Amendment) Act 2015 | No. 42 of 2015 | `residential-tenancies-amendment-act-2015/` | 2 | 2019-05-31 to 2023-03-15 | 89 |
-| National Cultural Institutions (National Concert Hall) Act 2015 | No. 44 of 2015 | `national-cultural-institutions-national-concert-hall-act-2015/` | 1 | 2023-02-28 to 2023-02-28 | 40 |
-| Climate Action and Low Carbon Development Act 2015 | No. 46 of 2015 | `climate-action-and-low-carbon-development-act-2015/` | 2 | 2021-10-12 to 2026-07-27 | 24 |
-| PRISONS ACT 2015 | No. 57 of 2015 | `prisons-act-2015/` | 1 | 2026-06-12 to 2026-06-12 | 26 |
-| Finance (Tax Appeals) Act 2015 | No. 59 of 2015 | `finance-tax-appeals-act-2015/` | 3 | 2020-10-01 to 2023-12-18 | 53 |
-| Assisted Decision-Making (Capacity) Act 2015 | No. 64 of 2015 | `assisted-decision-making-capacity-act-2015/` | 6 | 2019-01-01 to 2026-03-31 | 166 |
-| Legal Services Regulation Act 2015 | No. 65 of 2015 | `legal-services-regulation-act-2015/` | 10 | 2018-12-29 to 2026-07-27 | 231 |
-| International Protection Act 2015 | No. 66 of 2015 | `international-protection-act-2015/` | 13 | 2018-06-30 to 2026-06-18 | 92 |
-| Credit Guarantee (Amendment) Act 2016 | No. 1 of 2016 | `credit-guarantee-amendment-act-2016/` | 2 | 2020-08-11 to 2022-12-08 | 21 |
-| Horse Racing Ireland Act 2016 | No. 2 of 2016 | `horse-racing-ireland-act-2016/` | 1 | 2023-07-11 to 2023-07-11 | 22 |
-| Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 | No. 4 of 2016 | `criminal-justice-spent-convictions-and-certain-disclosures-act-2016/` | 3 | 2018-05-25 to 2025-04-02 | 32 |
-| Paternity Leave and Benefit Act 2016 | No. 11 of 2016 | `paternity-leave-and-benefit-act-2016/` | 2 | 2021-04-01 to 2022-07-01 | 38 |
-| Planning and Development (Housing) and Residential Tenancies Act 2016 | No. 17 of 2016 | `planning-and-development-housing-and-residential-tenancies-act-2016/` | 7 | 2019-01-01 to 2025-12-31 | 52 |
-| Road Traffic Act 2016 | No. 21 of 2016 | `road-traffic-act-2016/` | 3 | 2018-12-22 to 2024-11-21 | 45 |
-| Criminal Law (Sexual Offences) Act 2017 | No. 2 of 2017 | `criminal-law-sexual-offences-act-2017/` | 5 | 2018-05-30 to 2024-08-31 | 60 |
-| Criminal Justice (Offences Relating to Information Systems) Act 2017 | No. 11 of 2017 | `criminal-justice-offences-relating-to-information-systems-act-2017/` | 1 | 2025-04-02 to 2025-04-02 | 16 |
-| Financial Services and Pensions Ombudsman Act 2017 | No. 22 of 2017 | `financial-services-and-pensions-ombudsman-act-2017/` | 11 | 2018-10-29 to 2026-03-06 | 79 |
-| National Shared Services Office Act 2017 | No. 26 of 2017 | `national-shared-services-office-act-2017/` | 3 | 2018-07-18 to 2025-04-02 | 38 |
-| Mediation Act 2017 | No. 27 of 2017 | `mediation-act-2017/` | 1 | 2019-01-01 to 2019-01-01 | 28 |
-| Criminal Justice (Victims of Crime) Act 2017 | No. 28 of 2017 | `criminal-justice-victims-of-crime-act-2017/` | 7 | 2019-01-01 to 2025-04-02 | 38 |
-| Water Services Act 2017 | No. 29 of 2017 | `water-services-act-2017/` | 2 | 2023-04-28 to 2024-06-01 | 63 |
-| Public Service Pay and Pensions Act 2017 | No. 34 of 2017 | `public-service-pay-and-pensions-act-2017/` | 11 | 2020-10-14 to 2026-01-31 | 46 |
-| Protection of Cultural Property in the event of Armed Conflict (Hague Convention) Act 2017 | No. 36 of 2017 | `protection-of-cultural-property-in-the-event-of-armed-conflict-hague-convention-act-2017/` | 1 | 2021-03-30 to 2021-03-30 | 14 |
-| Technological Universities Act 2018 | No. 3 of 2018 | `technological-universities-act-2018/` | 2 | 2022-11-10 to 2023-11-01 | 111 |
-| Vehicle Registration Data (Automated Searching and Exchange) Act 2018 | No. 5 of 2018 | `vehicle-registration-data-automated-searching-and-exchange-act-2018/` | 1 | 2026-06-15 to 2026-06-15 | 12 |
-| Domestic Violence Act 2018 | No. 6 of 2018 | `domestic-violence-act-2018/` | 3 | 2021-02-10 to 2024-09-02 | 57 |
-| Data Protection Act 2018 | No. 7 of 2018 | `data-protection-act-2018/` | 17 | 2018-12-26 to 2026-07-16 | 238 |
-| Criminal Justice (Corruption Offences) Act 2018 | No. 9 of 2018 | `criminal-justice-corruption-offences-act-2018/` | 3 | 2023-11-01 to 2025-06-18 | 37 |
-| Childcare Support Act 2018 | No. 11 of 2018 | `childcare-support-act-2018/` | 6 | 2020-12-31 to 2026-08-31 | 34 |
-| Planning and Development (Amendment) Act 2018 | No. 16 of 2018 | `planning-and-development-amendment-act-2018/` | 5 | 2018-10-22 to 2023-07-17 | 81 |
-| Home Building Finance Ireland Act 2018 | No. 28 of 2018 | `home-building-finance-ireland-act-2018/` | 1 | 2026-08-01 to 2026-08-01 | 40 |
-| European Investment Fund Agreement Act 2018 | No. 32 of 2018 | `european-investment-fund-agreement-act-2018/` | 1 | 2020-07-20 to 2020-07-20 | 6 |
-| Central Bank (National Claims Information Database) Act 2018 | No. 42 of 2018 | `central-bank-national-claims-information-database-act-2018/` | 1 | 2022-07-08 to 2022-07-08 | 16 |
-| Local Government Act 2019 | No. 1 of 2019 | `local-government-act-2019/` | 1 | 2024-05-16 to 2024-05-16 | 49 |
-| Data Sharing and Governance Act 2019 | No. 5 of 2019 | `data-sharing-and-governance-act-2019/` | 3 | 2023-06-26 to 2024-06-01 | 77 |
-| Criminal Law (Extraterritorial Jurisdiction) Act 2019 | No. 6 of 2019 | `criminal-law-extraterritorial-jurisdiction-act-2019/` | 2 | 2023-11-01 to 2024-12-31 | 7 |
-| Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019 | No. 8 of 2019 | `withdrawal-of-the-united-kingdom-from-the-european-union-consequential-provisions-act-2019/` | 1 | 2020-01-31 to 2020-01-31 | 99 |
-| Aircraft Noise (Dublin Airport) Regulation Act 2019 | No. 12 of 2019 | `aircraft-noise-dublin-airport-regulation-act-2019/` | 1 | 2026-07-27 to 2026-07-27 | 32 |
-| Residential Tenancies (Amendment) Act 2019 | No. 14 of 2019 | `residential-tenancies-amendment-act-2019/` | 4 | 2019-07-15 to 2024-10-18 | 39 |
-| Criminal Justice (Mutual Recognition of Probation Judgments and Decisions) Act 2019 | No. 20 of 2019 | `criminal-justice-mutual-recognition-of-probation-judgments-and-decisions-act-2019/` | 1 | 2023-05-03 to 2023-05-03 | 33 |
-| Local Government Rates and Other Matters Act 2019 | No. 24 of 2019 | `local-government-rates-and-other-matters-act-2019/` | 3 | 2024-01-01 to 2025-12-31 | 31 |
-| Criminal Justice (International Co-operation) Act 2019 | No. 27 of 2019 | `criminal-justice-international-co-operation-act-2019/` | 1 | 2025-04-02 to 2025-04-02 | 11 |
-| Parole Act 2019 | No. 28 of 2019 | `parole-act-2019/` | 3 | 2021-12-27 to 2023-11-01 | 42 |
-| CervicalCheck Tribunal Act 2019 | No. 31 of 2019 | `cervicalcheck-tribunal-act-2019/` | 2 | 2022-05-23 to 2026-01-30 | 41 |
-| Judicial Council Act 2019 | No. 33 of 2019 | `judicial-council-act-2019/` | 7 | 2020-10-25 to 2025-06-23 | 104 |
-| Parent’s Leave and Benefit Act 2019 | No. 35 of 2019 | `parent-s-leave-and-benefit-act-2019/` | 3 | 2021-04-01 to 2024-08-01 | 39 |
-| Family Law Act 2019 | No. 37 of 2019 | `family-law-act-2019/` | 1 | 2020-12-17 to 2020-12-17 | 8 |
-| Housing (Regulation of Approved Housing Bodies) Act 2019 | No. 47 of 2019 | `housing-regulation-of-approved-housing-bodies-act-2019/` | 3 | 2022-07-06 to 2024-11-18 | 73 |
-| Criminal Records (Exchange of Information) Act 2019 | No. 51 of 2019 | `criminal-records-exchange-of-information-act-2019/` | 1 | 2025-04-02 to 2025-04-02 | 20 |
-| Consumer Insurance Contracts Act 2019 | No. 53 of 2019 | `consumer-insurance-contracts-act-2019/` | 2 | 2023-01-01 to 2026-05-12 | 30 |
-| Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 | No. 1 of 2020 | `health-preservation-and-protection-and-other-emergency-measures-in-the-public-interest-act-2020/` | 3 | 2021-07-01 to 2022-06-21 | 12 |
-| Emergency Measures in the Public Interest (Covid-19) Act 2020 | No. 2 of 2020 | `emergency-measures-in-the-public-interest-covid-19-act-2020/` | 5 | 2020-08-01 to 2024-11-12 | 36 |
-| Residential Tenancies and Valuation Act 2020 | No. 7 of 2020 | `residential-tenancies-and-valuation-act-2020/` | 1 | 2022-07-24 to 2022-07-24 | 15 |
-| Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 | No. 13 of 2020 | `civil-law-and-criminal-law-miscellaneous-provisions-act-2020/` | 3 | 2023-07-31 to 2026-02-09 | 34 |
-| Criminal Justice (Enforcement Powers) (Covid-19) Act 2020 | No. 14 of 2020 | `criminal-justice-enforcement-powers-covid-19-act-2020/` | 2 | 2021-07-03 to 2022-02-10 | 18 |
-| Regulated Professions (Health and Social Care) (Amendment) Act 2020 | No. 16 of 2020 | `regulated-professions-health-and-social-care-amendment-act-2020/` | 3 | 2023-06-06 to 2025-09-05 | 186 |
-| Residential Tenancies Act 2020 | No. 17 of 2020 | `residential-tenancies-act-2020/` | 2 | 2021-03-30 to 2022-10-29 | 6 |
-| Health (Amendment) Act 2020 | No. 19 of 2020 | `health-amendment-act-2020/` | 3 | 2021-06-10 to 2022-02-10 | 7 |
-| Criminal Justice (Mutual Recognition of Decisions on Supervision Measures) Act 2020 | No. 21 of 2020 | `criminal-justice-mutual-recognition-of-decisions-on-supervision-measures-act-2020/` | 1 | 2023-05-03 to 2023-05-03 | 39 |
-| Planning and Development, and Residential Tenancies, Act 2020 | No. 27 of 2020 | `planning-and-development-and-residential-tenancies-act-2020/` | 2 | 2021-03-30 to 2021-07-09 | 17 |
-| Loan Guarantee Schemes Agreements (Strategic Banking Corporation of Ireland) Act 2021 | No. 9 of 2021 | `loan-guarantee-schemes-agreements-strategic-banking-corporation-of-ireland-act-2021/` | 1 | 2022-12-08 to 2022-12-08 | 6 |
-| Planning and Development, Heritage and Broadcasting (Amendment) Act 2021 | No. 11 of 2021 | `planning-and-development-heritage-and-broadcasting-amendment-act-2021/` | 1 | 2025-06-18 to 2025-06-18 | 18 |
-| Health (Amendment) (No. 2) Act 2021 | No. 24 of 2021 | `health-amendment-no-2-act-2021/` | 1 | 2022-01-10 to 2022-01-10 | 8 |
-| Affordable Housing Act 2021 | No. 25 of 2021 | `affordable-housing-act-2021/` | 7 | 2022-07-28 to 2025-07-02 | 53 |
-| Land Development Agency Act 2021 | No. 26 of 2021 | `land-development-agency-act-2021/` | 4 | 2024-06-01 to 2025-12-31 | 86 |
-| Criminal Justice (Smuggling of Persons) Act 2021 | No. 42 of 2021 | `criminal-justice-smuggling-of-persons-act-2021/` | 1 | 2026-06-12 to 2026-06-12 | 30 |
-| Companies (Corporate Enforcement Authority) Act 2021 | No. 48 of 2021 | `companies-corporate-enforcement-authority-act-2021/` | 2 | 2022-07-07 to 2023-06-11 | 39 |
-| Maritime Area Planning Act 2021 | No. 50 of 2021 | `maritime-area-planning-act-2021/` | 9 | 2022-10-01 to 2026-07-23 | 214 |
-| Garda Síochána (Functions and Operational Areas) Act 2022 | No. 7 of 2022 | `garda-s-och-na-functions-and-operational-areas-act-2022/` | 2 | 2023-07-31 to 2024-02-07 | 36 |
-| Birth Information and Tracing Act 2022 | No. 14 of 2022 | `birth-information-and-tracing-act-2022/` | 1 | 2023-07-20 to 2023-07-20 | 75 |
-| Civil Law (Miscellaneous Provisions) Act 2022 | No. 19 of 2022 | `civil-law-miscellaneous-provisions-act-2022/` | 2 | 2026-03-30 to 2026-06-12 | 63 |
-| Circular Economy and Miscellaneous Provisions Act 2022 | No. 26 of 2022 | `circular-economy-and-miscellaneous-provisions-act-2022/` | 1 | 2026-05-08 to 2026-05-08 | 45 |
-| Remediation of Dwellings Damaged by the Use of Defective Concrete Blocks Act 2022 | No. 28 of 2022 | `remediation-of-dwellings-damaged-by-the-use-of-defective-concrete-blocks-act-2022/` | 3 | 2026-02-25 to 2026-07-08 | 65 |
-| Planning and Development, Maritime and Valuation (Amendment) Act 2022 | No. 29 of 2022 | `planning-and-development-maritime-and-valuation-amendment-act-2022/` | 3 | 2022-12-01 to 2024-05-16 | 78 |
-| Electoral Reform Act 2022 | No. 30 of 2022 | `electoral-reform-act-2022/` | 3 | 2024-03-31 to 2025-10-10 | 208 |
-| Higher Education Authority Act 2022 | No. 31 of 2022 | `higher-education-authority-act-2022/` | 1 | 2024-08-01 to 2024-08-01 | 150 |
-| Garda Síochána (Compensation) Act 2022 | No. 33 of 2022 | `garda-s-och-na-compensation-act-2022/` | 1 | 2025-04-02 to 2025-04-02 | 36 |
-| Air Navigation and Transport Act 2022 | No. 40 of 2022 | `air-navigation-and-transport-act-2022/` | 1 | 2023-07-20 to 2023-07-20 | 122 |
-| Online Safety and Media Regulation Act 2022 | No. 41 of 2022 | `online-safety-and-media-regulation-act-2022/` | 1 | 2024-02-17 to 2024-02-17 | 81 |
-| Planning and Development and Foreshore (Amendment) Act 2022 | No. 47 of 2022 | `planning-and-development-and-foreshore-amendment-act-2022/` | 1 | 2025-06-18 to 2025-06-18 | 22 |
-| Water Environment (Abstractions and Associated Impoundments) Act 2022 | No. 48 of 2022 | `water-environment-abstractions-and-associated-impoundments-act-2022/` | 2 | 2025-06-18 to 2025-12-31 | 118 |
-| Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023 | No. 3 of 2023 | `criminal-justice-mutual-recognition-of-custodial-sentences-act-2023/` | 1 | 2024-07-23 to 2024-07-23 | 88 |
-| Patient Safety (Notifiable Incidents and Open Disclosure) Act 2023 | No. 10 of 2023 | `patient-safety-notifiable-incidents-and-open-disclosure-act-2023/` | 1 | 2024-10-01 to 2024-10-01 | 86 |
-| Mother and Baby Institutions Payment Scheme Act 2023 | No. 20 of 2023 | `mother-and-baby-institutions-payment-scheme-act-2023/` | 1 | 2025-10-15 to 2025-10-15 | 59 |
-| Wildlife (Amendment) Act 2023 | No. 25 of 2023 | `wildlife-amendment-act-2023/` | 2 | 2023-11-17 to 2024-06-01 | 8 |
-| Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023 | No. 26 of 2023 | `historic-and-archaeological-heritage-and-miscellaneous-provisions-act-2023/` | 1 | 2025-12-31 to 2025-12-31 | 290 |
-| Garda Síochána (Recording Devices) Act 2023 | No. 32 of 2023 | `garda-s-och-na-recording-devices-act-2023/` | 3 | 2024-05-15 to 2026-07-01 | 51 |
-| Judicial Appointments Commission Act 2023 | No. 33 of 2023 | `judicial-appointments-commission-act-2023/` | 2 | 2024-10-17 to 2025-01-01 | 71 |
-| Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023 | No. 35 of 2023 | `public-health-tobacco-products-and-nicotine-inhaling-products-act-2023/` | 1 | 2026-02-02 to 2026-02-02 | 53 |
-| Digital Services Act 2024 | No. 2 of 2024 | `digital-services-act-2024/` | 3 | 2024-09-02 to 2026-01-01 | 88 |
-| Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024 | No. 7 of 2024 | `local-government-mayor-of-limerick-and-miscellaneous-provisions-act-2024/` | 2 | 2025-06-18 to 2025-12-31 | 74 |
-| Employment Permits Act 2024 | No. 17 of 2024 | `employment-permits-act-2024/` | 1 | 2026-06-12 to 2026-06-12 | 81 |
-| Automatic Enrolment Retirement Savings System Act 2024 | No. 20 of 2024 | `automatic-enrolment-retirement-savings-system-act-2024/` | 2 | 2026-01-01 to 2026-06-01 | 142 |
-| Criminal Law (Sexual Offences and Human Trafficking) Act 2024 | No. 28 of 2024 | `criminal-law-sexual-offences-and-human-trafficking-act-2024/` | 1 | 2026-08-10 to 2026-08-10 | 42 |
-| Planning and Development Act 2024 | No. 34 of 2024 | `planning-and-development-act-2024/` | 5 | 2025-08-01 to 2026-05-18 | 645 |
-| Gambling Regulation Act 2024 | No. 35 of 2024 | `gambling-regulation-act-2024/` | 4 | 2026-01-30 to 2026-07-06 | 275 |
-| Automatic Enrolment Retirement Savings System Regulations 2025 | S.I. No. 637 of 2025 | `automatic-enrolment-retirement-savings-system-regulations-2025/` | 1 | 2026-01-01 to 2026-01-01 | 42 |
+| Public Bodies Corrupt Practices Act 1889 | 1889 c. 69 | `acts/1889/c69-public-bodies-corrupt-practices-act-1889/` | 1 | 2018-07-30 to 2018-07-30 | 11 |
+| Sale of Goods Act 1893 | 1893 c. 71 | `acts/1893/c71-sale-of-goods-act-1893/` | 4 | 2016-06-30 to 2025-10-10 | 67 |
+| Merchant Shipping Act 1894 | 1894 c. 60 | `acts/1894/c60-merchant-shipping-act-1894/` | 4 | 2021-04-28 to 2025-07-29 | 768 |
+| Prevention of Corruption Act 1906 | 1906 c. 34 | `acts/1906/c34-prevention-of-corruption-act-1906/` | 1 | 2018-07-30 to 2018-07-30 | 5 |
+| Probation Of Offenders Act 1907 | 1907 c. 17 | `acts/1907/c17-probation-of-offenders-act-1907/` | 1 | 2026-02-24 to 2026-02-24 | 12 |
+| Punishment Of Incest Act 1908 | 1908 c. 45 | `acts/1908/c45-punishment-of-incest-act-1908/` | 1 | 2023-02-24 to 2023-02-24 | 9 |
+| Prevention of Corruption Act 1916 | 1916 c. 64 | `acts/1916/c64-prevention-of-corruption-act-1916/` | 1 | 2018-07-30 to 2018-07-30 | 5 |
+| Roads Act 1920 | 1920 c. 72 | `acts/1920/c72-roads-act-1920/` | 2 | 2024-02-01 to 2025-03-27 | 23 |
+| Ministers and Secretaries Act 1924 | No. 16 of 1924 | `acts/1924/16-ministers-and-secretaries-act-1924/` | 1 | 2025-02-21 to 2025-02-21 | 22 |
+| Firearms Act 1925 | No. 17 of 1925 | `acts/1925/17-firearms-act-1925/` | 6 | 2018-05-25 to 2026-09-01 | 61 |
+| Wireless Telegraphy Act 1926 | No. 45 of 1926 | `acts/1926/45-wireless-telegraphy-act-1926/` | 7 | 2024-07-29 to 2026-03-11 | 26 |
+| Electricity (Supply) Act 1927 | No. 27 of 1927 | `acts/1927/27-electricity-supply-act-1927/` | 1 | 2024-07-23 to 2024-07-23 | 117 |
+| Legitimacy Act 1931 | No. 13 of 1931 | `acts/1931/13-legitimacy-act-1931/` | 2 | 2016-01-01 to 2019-05-28 | 14 |
+| Road Transport Act 1933 | No. 8 of 1933 | `acts/1933/8-road-transport-act-1933/` | 2 | 2016-06-30 to 2019-05-28 | 75 |
+| Foreshore Act 1933 | No. 12 of 1933 | `acts/1933/12-foreshore-act-1933/` | 6 | 2017-07-26 to 2024-05-14 | 52 |
+| Road Transport Act 1934 | No. 17 of 1934 | `acts/1934/17-road-transport-act-1934/` | 2 | 2016-06-30 to 2019-05-28 | 16 |
+| Road Transport Act 1935 | No. 23 of 1935 | `acts/1935/23-road-transport-act-1935/` | 2 | 2016-06-30 to 2019-05-28 | 10 |
+| Ministerial and Parliamentary Offices Act 1938 | No. 38 of 1938 | `acts/1938/38-ministerial-and-parliamentary-offices-act-1938/` | 1 | 2025-11-06 to 2025-11-06 | 62 |
+| Offences Against the State Act 1939 | No. 13 of 1939 | `acts/1939/13-offences-against-the-state-act-1939/` | 1 | 2025-10-01 to 2025-10-01 | 71 |
+| Tourist Traffic Act 1939 | No. 24 of 1939 | `acts/1939/24-tourist-traffic-act-1939/` | 4 | 2016-08-31 to 2025-06-01 | 58 |
+| Ministers and Secretaries (Amendment) Act 1939 | No. 36 of 1939 | `acts/1939/36-ministers-and-secretaries-amendment-act-1939/` | 4 | 2025-04-01 to 2026-03-01 | 15 |
+| Enforcement of Court Orders Act 1940 | No. 23 of 1940 | `acts/1940/23-enforcement-of-court-orders-act-1940/` | 3 | 2021-04-27 to 2026-07-01 | 12 |
+| Central Bank Act 1942 | No. 22 of 1942 | `acts/1942/22-central-bank-act-1942/` | 26 | 2019-01-29 to 2026-08-01 | 303 |
+| Arterial Drainage Act 1945 | No. 3 of 1945 | `acts/1945/3-arterial-drainage-act-1945/` | 1 | 2026-05-20 to 2026-05-20 | 83 |
+| Industrial Relations Act 1946 | No. 26 of 1946 | `acts/1946/26-industrial-relations-act-1946/` | 15 | 2018-12-19 to 2025-12-18 | 96 |
+| Health Act 1947 | No. 28 of 1947 | `acts/1947/28-health-act-1947/` | 41 | 2020-04-08 to 2026-05-14 | 157 |
+| Tourist Traffic Act 1952 | No. 15 of 1952 | `acts/1952/15-tourist-traffic-act-1952/` | 3 | 2016-12-28 to 2020-10-18 | 56 |
+| Finance (Excise Duties) (Vehicles) Act 1952 | No. 24 of 1952 | `acts/1952/24-finance-excise-duties-vehicles-act-1952/` | 2 | 2024-03-27 to 2026-06-01 | 8 |
+| Merchant Shipping (Safety Convention) Act 1952 | No. 29 of 1952 | `acts/1952/29-merchant-shipping-safety-convention-act-1952/` | 11 | 2021-05-20 to 2026-04-01 | 50 |
+| Health Act 1953 | No. 26 of 1953 | `acts/1953/26-health-act-1953/` | 1 | 2026-02-03 to 2026-02-03 | 74 |
+| Defence Act 1954 | No. 18 of 1954 | `acts/1954/18-defence-act-1954/` | 8 | 2017-04-07 to 2024-11-06 | 407 |
+| State Property Act 1954 | No. 25 of 1954 | `acts/1954/25-state-property-act-1954/` | 1 | 2023-03-01 to 2023-03-01 | 41 |
+| Tourist Traffic Act 1955 | No. 5 of 1955 | `acts/1955/5-tourist-traffic-act-1955/` | 3 | 2016-08-31 to 2020-09-16 | 17 |
+| Transport (Miscellaneous Provisions) Act 1955 | No. 21 of 1955 | `acts/1955/21-transport-miscellaneous-provisions-act-1955/` | 2 | 2016-08-31 to 2019-05-28 | 6 |
+| Gaming and Lotteries Act 1956 | No. 2 of 1956 | `acts/1956/2-gaming-and-lotteries-act-1956/` | 2 | 2021-11-10 to 2023-07-31 | 61 |
+| Irish Nationality and Citizenship Act 1956 | No. 26 of 1956 | `acts/1956/26-irish-nationality-and-citizenship-act-1956/` | 6 | 2021-08-10 to 2026-06-12 | 44 |
+| Civil Service Regulation Act 1956 | No. 46 of 1956 | `acts/1956/46-civil-service-regulation-act-1956/` | 2 | 2024-12-01 to 2026-07-15 | 29 |
+| Married Women’s Status Act 1957 | No. 5 of 1957 | `acts/1957/5-married-women-s-status-act-1957/` | 1 | 2019-02-01 to 2019-02-01 | 22 |
+| Statute of Limitations 1957 | No. 6 of 1957 | `acts/1957/6-statute-of-limitations-1957/` | 2 | 2018-06-09 to 2025-12-09 | 84 |
+| Tourist Traffic Act 1957 | No. 27 of 1957 | `acts/1957/27-tourist-traffic-act-1957/` | 3 | 2016-08-31 to 2020-09-16 | 12 |
+| Greyhound Industry Act 1958 | No. 12 of 1958 | `acts/1958/12-greyhound-industry-act-1958/` | 4 | 2022-03-01 to 2026-02-05 | 64 |
+| Transport Act 1958 | No. 19 of 1958 | `acts/1958/19-transport-act-1958/` | 2 | 2016-08-31 to 2019-05-28 | 32 |
+| Fisheries (Consolidation) Act 1959 | No. 14 of 1959 | `acts/1959/14-fisheries-consolidation-act-1959/` | 1 | 2025-04-16 to 2025-04-16 | 352 |
+| Defence (Amendment) (No. 2) Act 1960 | No. 44 of 1960 | `acts/1960/44-defence-amendment-no-2-act-1960/` | 3 | 2016-06-30 to 2022-04-04 | 9 |
+| Road Traffic Act 1961 | No. 24 of 1961 | `acts/1961/24-road-traffic-act-1961/` | 28 | 2019-01-21 to 2026-09-04 | 156 |
+| Health (Corporate Bodies) Act 1961 | No. 27 of 1961 | `acts/1961/27-health-corporate-bodies-act-1961/` | 1 | 2026-01-01 to 2026-01-01 | 12 |
+| Courts (Supplemental Provisions) Act 1961 | No. 39 of 1961 | `acts/1961/39-courts-supplemental-provisions-act-1961/` | 1 | 2026-06-23 to 2026-06-23 | 88 |
+| Civil Liability Act 1961 | No. 41 of 1961 | `acts/1961/41-civil-liability-act-1961/` | 3 | 2018-10-01 to 2023-07-31 | 81 |
+| Coroners Act 1962 | No. 9 of 1962 | `acts/1962/9-coroners-act-1962/` | 5 | 2020-06-15 to 2025-04-02 | 96 |
+| Official Secrets Act 1963 | No. 1 of 1963 | `acts/1963/1-official-secrets-act-1963/` | 1 | 2021-04-15 to 2021-04-15 | 19 |
+| Firearms Act 1964 | No. 1 of 1964 | `acts/1964/1-firearms-act-1964/` | 3 | 2016-01-01 to 2021-12-27 | 33 |
+| Guardianship of Infants Act 1964 | No. 7 of 1964 | `acts/1964/7-guardianship-of-infants-act-1964/` | 6 | 2019-01-01 to 2026-07-21 | 64 |
+| Registration of Title Act 1964 | No. 16 of 1964 | `acts/1964/16-registration-of-title-act-1964/` | 4 | 2018-04-04 to 2023-07-17 | 130 |
+| Civil Liability (Amendment) Act 1964 | No. 17 of 1964 | `acts/1964/17-civil-liability-amendment-act-1964/` | 2 | 2017-04-13 to 2020-05-21 | 9 |
+| Extradition Act 1965 | No. 17 of 1965 | `acts/1965/17-extradition-act-1965/` | 8 | 2019-02-01 to 2026-08-10 | 68 |
+| Succession Act 1965 | No. 27 of 1965 | `acts/1965/27-succession-act-1965/` | 4 | 2017-11-02 to 2023-11-01 | 143 |
+| Tourist Traffic Act 1966 | No. 3 of 1966 | `acts/1966/3-tourist-traffic-act-1966/` | 2 | 2016-08-31 to 2020-09-16 | 8 |
+| Housing Act 1966 | No. 21 of 1966 | `acts/1966/21-housing-act-1966/` | 5 | 2017-07-01 to 2024-01-01 | 126 |
+| Industrial Training Act 1967 | No. 5 of 1967 | `acts/1967/5-industrial-training-act-1967/` | 18 | 2018-09-12 to 2026-07-15 | 52 |
+| Diplomatic Relations and Immunities Act 1967 | No. 8 of 1967 | `acts/1967/8-diplomatic-relations-and-immunities-act-1967/` | 2 | 2025-07-15 to 2026-04-28 | 60 |
+| Criminal Procedure Act 1967 | No. 12 of 1967 | `acts/1967/12-criminal-procedure-act-1967/` | 3 | 2017-11-27 to 2022-02-28 | 57 |
+| Redundancy Payments Act 1967 | No. 21 of 1967 | `acts/1967/21-redundancy-payments-act-1967/` | 12 | 2016-08-01 to 2023-07-03 | 65 |
+| Firearms (Proofing) Act 1968 | No. 20 of 1968 | `acts/1968/20-firearms-proofing-act-1968/` | 2 | 2016-01-01 to 2019-05-28 | 15 |
+| Road Traffic Act 1968 | No. 25 of 1968 | `acts/1968/25-road-traffic-act-1968/` | 5 | 2018-11-05 to 2025-03-01 | 70 |
+| Industrial Relations Act 1969 | No. 14 of 1969 | `acts/1969/14-industrial-relations-act-1969/` | 2 | 2019-01-01 to 2021-07-29 | 27 |
+| Health Act 1970 | No. 1 of 1970 | `acts/1970/1-health-act-1970/` | 14 | 2020-02-17 to 2025-06-01 | 117 |
+| Tourist Traffic Act 1970 | No. 16 of 1970 | `acts/1970/16-tourist-traffic-act-1970/` | 3 | 2016-08-31 to 2020-09-16 | 8 |
+| Local Government Services (Corporate Bodies) Act 1971 | No. 6 of 1971 | `acts/1971/6-local-government-services-corporate-bodies-act-1971/` | 2 | 2019-02-18 to 2022-03-31 | 10 |
+| Road Transport Act 1971 | No. 8 of 1971 | `acts/1971/8-road-transport-act-1971/` | 2 | 2016-06-30 to 2019-05-28 | 14 |
+| Firearms Act 1971 | No. 13 of 1971 | `acts/1971/13-firearms-act-1971/` | 2 | 2016-01-01 to 2019-05-28 | 8 |
+| Redundancy Payments Act 1971 | No. 20 of 1971 | `acts/1971/20-redundancy-payments-act-1971/` | 2 | 2019-02-01 to 2020-10-14 | 22 |
+| Central Bank Act 1971 | No. 24 of 1971 | `acts/1971/24-central-bank-act-1971/` | 3 | 2025-01-01 to 2026-07-10 | 102 |
+| Employment Agency Act 1971 | No. 27 of 1971 | `acts/1971/27-employment-agency-act-1971/` | 2 | 2016-06-30 to 2019-09-01 | 16 |
+| National College of Art and Design Act 1971 | No. 28 of 1971 | `acts/1971/28-national-college-of-art-and-design-act-1971/` | 1 | 2022-11-10 to 2022-11-10 | 41 |
+| European Communities Act 1972 | No. 27 of 1972 | `acts/1972/27-european-communities-act-1972/` | 2 | 2017-04-13 to 2020-08-26 | 8 |
+| Minimum Notice and Terms of Employment Act 1973 | No. 4 of 1973 | `acts/1973/4-minimum-notice-and-terms-of-employment-act-1973/` | 2 | 2017-09-01 to 2020-10-14 | 22 |
+| Air Navigation and Transport Act 1973 | No. 29 of 1973 | `acts/1973/29-air-navigation-and-transport-act-1973/` | 2 | 2019-08-01 to 2023-05-01 | 23 |
+| Law Reform Commission Act 1975 | No. 3 of 1975 | `acts/1975/3-law-reform-commission-act-1975/` | 2 | 2015-11-30 to 2019-03-05 | 16 |
+| Air Navigation and Transport Act 1975 | No. 9 of 1975 | `acts/1975/9-air-navigation-and-transport-act-1975/` | 2 | 2020-09-17 to 2022-12-07 | 11 |
+| Local Authorities (Traffic Wardens) Act 1975 | No. 14 of 1975 | `acts/1975/14-local-authorities-traffic-wardens-act-1975/` | 3 | 2018-03-01 to 2023-01-01 | 11 |
+| Juries Act 1976 | No. 4 of 1976 | `acts/1976/4-juries-act-1976/` | 1 | 2026-02-03 to 2026-02-03 | 42 |
+| Family Law (Maintenance of Spouses and Children) Act 1976 | No. 11 of 1976 | `acts/1976/11-family-law-maintenance-of-spouses-and-children-act-1976/` | 4 | 2016-01-18 to 2020-05-04 | 39 |
+| Industrial Relations Act 1976 | No. 15 of 1976 | `acts/1976/15-industrial-relations-act-1976/` | 2 | 2019-01-01 to 2020-02-01 | 13 |
+| Family Home Protection Act 1976 | No. 27 of 1976 | `acts/1976/27-family-home-protection-act-1976/` | 2 | 2019-01-01 to 2023-06-22 | 17 |
+| Gas Act 1976 | No. 30 of 1976 | `acts/1976/30-gas-act-1976/` | 2 | 2023-01-01 to 2024-06-01 | 75 |
+| Criminal Law Act 1976 | No. 32 of 1976 | `acts/1976/32-criminal-law-act-1976/` | 1 | 2026-07-23 to 2026-07-23 | 17 |
+| Wildlife Act 1976 | No. 39 of 1976 | `acts/1976/39-wildlife-act-1976/` | 9 | 2018-12-20 to 2024-05-16 | 87 |
+| Local Government (Water Pollution) Act 1977 | No. 1 of 1977 | `acts/1977/1-local-government-water-pollution-act-1977/` | 2 | 2021-10-14 to 2024-08-28 | 38 |
+| Protection of Employment Act 1977 | No. 7 of 1977 | `acts/1977/7-protection-of-employment-act-1977/` | 3 | 2018-01-18 to 2024-07-01 | 26 |
+| Unfair Dismissals Act 1977 | No. 10 of 1977 | `acts/1977/10-unfair-dismissals-act-1977/` | 6 | 2017-09-01 to 2023-07-03 | 28 |
+| Misuse of Drugs Act 1977 | No. 12 of 1977 | `acts/1977/12-misuse-of-drugs-act-1977/` | 19 | 2018-05-25 to 2026-07-29 | 48 |
+| Ministers and Secretaries (Amendment) (No. 2) Act 1977 | No. 28 of 1977 | `acts/1977/28-ministers-and-secretaries-amendment-no-2-act-1977/` | 7 | 2025-02-21 to 2026-07-29 | 8 |
+| Road Transport Act 1978 | No. 8 of 1978 | `acts/1978/8-road-transport-act-1978/` | 2 | 2016-06-30 to 2019-03-17 | 12 |
+| Redundancy Payments Act 1979 | No. 7 of 1979 | `acts/1979/7-redundancy-payments-act-1979/` | 1 | 2019-02-01 to 2019-02-01 | 21 |
+| Housing (Miscellaneous Provisions) Act 1979 | No. 27 of 1979 | `acts/1979/27-housing-miscellaneous-provisions-act-1979/` | 8 | 2018-09-12 to 2024-12-01 | 26 |
+| Landlord and Tenant (Amendment) Act 1980 | No. 10 of 1980 | `acts/1980/10-landlord-and-tenant-amendment-act-1980/` | 1 | 2019-09-20 to 2019-09-20 | 90 |
+| Packaged Goods (Quantity Control) Act 1980 | No. 11 of 1980 | `acts/1980/11-packaged-goods-quantity-control-act-1980/` | 1 | 2026-07-07 to 2026-07-07 | 21 |
+| Sale of Goods and Supply of Services Act 1980 | No. 16 of 1980 | `acts/1980/16-sale-of-goods-and-supply-of-services-act-1980/` | 3 | 2017-05-16 to 2022-11-29 | 60 |
+| Ombudsman Act 1980 | No. 26 of 1980 | `acts/1980/26-ombudsman-act-1980/` | 1 | 2025-04-02 to 2025-04-02 | 19 |
+| Criminal Law (Rape) Act 1981 | No. 10 of 1981 | `acts/1981/10-criminal-law-rape-act-1981/` | 2 | 2021-05-01 to 2024-08-31 | 15 |
+| Family Law Act 1981 | No. 22 of 1981 | `acts/1981/22-family-law-act-1981/` | 2 | 2016-06-30 to 2019-05-28 | 12 |
+| Transport (Tour Operators and Travel Agents) Act 1982 | No. 3 of 1982 | `acts/1982/3-transport-tour-operators-and-travel-agents-act-1982/` | 2 | 2022-03-30 to 2022-12-09 | 29 |
+| Courts-Martial Appeals Act 1983 | No. 19 of 1983 | `acts/1983/19-courts-martial-appeals-act-1983/` | 3 | 2017-04-07 to 2022-07-06 | 44 |
+| Criminal Justice (Community Service) Act 1983 | No. 23 of 1983 | `acts/1983/23-criminal-justice-community-service-act-1983/` | 1 | 2026-10-01 to 2026-10-01 | 17 |
+| Tourist Traffic Act 1983 | No. 31 of 1983 | `acts/1983/31-tourist-traffic-act-1983/` | 3 | 2016-08-31 to 2020-09-16 | 14 |
+| Road Traffic (Amendment) Act 1984 | No. 16 of 1984 | `acts/1984/16-road-traffic-amendment-act-1984/` | 2 | 2016-04-29 to 2019-05-28 | 8 |
+| Protection of Employees (Employers Insolvency) Act 1984 | No. 21 of 1984 | `acts/1984/21-protection-of-employees-employers-insolvency-act-1984/` | 6 | 2015-10-01 to 2026-06-08 | 29 |
+| Criminal Justice Act 1984 | No. 22 of 1984 | `acts/1984/22-criminal-justice-act-1984/` | 6 | 2017-08-28 to 2025-04-02 | 49 |
+| Dentists Act 1985 | No. 9 of 1985 | `acts/1985/9-dentists-act-1985/` | 2 | 2024-08-06 to 2025-05-06 | 85 |
+| Industrial Development Act 1986 | No. 9 of 1986 | `acts/1986/9-industrial-development-act-1986/` | 2 | 2019-02-01 to 2020-01-07 | 52 |
+| National Archives Act 1986 | No. 11 of 1986 | `acts/1986/11-national-archives-act-1986/` | 2 | 2025-09-16 to 2025-12-01 | 28 |
+| Road Transport Act 1986 | No. 16 of 1986 | `acts/1986/16-road-transport-act-1986/` | 3 | 2016-06-30 to 2020-12-22 | 24 |
+| Domicile and Recognition of Foreign Divorces Act 1986 | No. 24 of 1986 | `acts/1986/24-domicile-and-recognition-of-foreign-divorces-act-1986/` | 3 | 2016-01-01 to 2022-08-01 | 7 |
+| Control of Dogs Act 1986 | No. 32 of 1986 | `acts/1986/32-control-of-dogs-act-1986/` | 5 | 2018-01-31 to 2025-06-09 | 39 |
+| Air Pollution Act 1987 | No. 6 of 1987 | `acts/1987/6-air-pollution-act-1987/` | 5 | 2022-09-27 to 2025-08-01 | 74 |
+| Defence (Amendment) Act 1987 | No. 8 of 1987 | `acts/1987/8-defence-amendment-act-1987/` | 2 | 2016-06-30 to 2019-05-28 | 18 |
+| Labour Services Act 1987 | No. 15 of 1987 | `acts/1987/15-labour-services-act-1987/` | 1 | 2013-06-05 to 2013-06-05 | 41 |
+| Status of Children Act 1987 | No. 26 of 1987 | `acts/1987/26-status-of-children-act-1987/` | 3 | 2016-01-18 to 2020-05-04 | 51 |
+| Science and Technology Act 1987 | No. 30 of 1987 | `acts/1987/30-science-and-technology-act-1987/` | 1 | 2019-02-01 to 2019-02-01 | 30 |
+| Data Protection Act 1988 | No. 25 of 1988 | `acts/1988/25-data-protection-act-1988/` | 5 | 2018-05-25 to 2025-11-10 | 47 |
+| Bankruptcy Act 1988 | No. 27 of 1988 | `acts/1988/27-bankruptcy-act-1988/` | 3 | 2018-10-01 to 2026-02-01 | 166 |
+| Housing Act 1988 | No. 28 of 1988 | `acts/1988/28-housing-act-1988/` | 3 | 2018-01-31 to 2024-05-16 | 33 |
+| Judicial Separation and Family Law Reform Act 1989 | No. 6 of 1989 | `acts/1989/6-judicial-separation-and-family-law-reform-act-1989/` | 3 | 2019-01-01 to 2022-08-01 | 48 |
+| Building Control Act 1990 | No. 3 of 1990 | `acts/1990/3-building-control-act-1990/` | 9 | 2018-12-17 to 2026-07-27 | 36 |
+| Firearms and Offensive Weapons Act 1990 | No. 12 of 1990 | `acts/1990/12-firearms-and-offensive-weapons-act-1990/` | 3 | 2018-05-25 to 2024-09-30 | 31 |
+| Derelict Sites Act 1990 | No. 14 of 1990 | `acts/1990/14-derelict-sites-act-1990/` | 6 | 2018-12-19 to 2025-12-11 | 34 |
+| Industrial Relations Act 1990 | No. 19 of 1990 | `acts/1990/19-industrial-relations-act-1990/` | 6 | 2017-12-20 to 2026-06-29 | 64 |
+| Health (Nursing Homes) Act 1990 | No. 23 of 1990 | `acts/1990/23-health-nursing-homes-act-1990/` | 1 | 2025-07-23 to 2025-07-23 | 29 |
+| Criminal Law (Rape) (Amendment) Act 1990 | No. 32 of 1990 | `acts/1990/32-criminal-law-rape-amendment-act-1990/` | 1 | 2022-02-15 to 2022-02-15 | 24 |
+| Child Abduction and Enforcement of Custody Orders Act 1991 | No. 6 of 1991 | `acts/1991/6-child-abduction-and-enforcement-of-custody-orders-act-1991/` | 3 | 2017-04-07 to 2022-08-01 | 47 |
+| Child Care Act 1991 | No. 17 of 1991 | `acts/1991/17-child-care-act-1991/` | 13 | 2019-01-01 to 2026-07-21 | 164 |
+| Statute of Limitations (Amendment) Act 1991 | No. 18 of 1991 | `acts/1991/18-statute-of-limitations-amendment-act-1991/` | 3 | 2016-06-30 to 2023-09-27 | 10 |
+| Payment of Wages Act 1991 | No. 25 of 1991 | `acts/1991/25-payment-of-wages-act-1991/` | 3 | 2017-09-01 to 2022-12-01 | 22 |
+| Sea Pollution Act 1991 | No. 27 of 1991 | `acts/1991/27-sea-pollution-act-1991/` | 6 | 2017-09-01 to 2025-09-16 | 51 |
+| Liability for Defective Products Act 1991 | No. 28 of 1991 | `acts/1991/28-liability-for-defective-products-act-1991/` | 2 | 2016-06-30 to 2019-05-28 | 16 |
+| Criminal Damage Act 1991 | No. 31 of 1991 | `acts/1991/31-criminal-damage-act-1991/` | 2 | 2019-01-01 to 2024-12-31 | 18 |
+| Merchant Shipping Act 1992 | No. 2 of 1992 | `acts/1992/2-merchant-shipping-act-1992/` | 3 | 2021-09-07 to 2025-06-01 | 40 |
+| Environmental Protection Agency Act 1992 | No. 7 of 1992 | `acts/1992/7-environmental-protection-agency-act-1992/` | 7 | 2020-09-30 to 2026-05-08 | 156 |
+| Criminal Evidence Act 1992 | No. 12 of 1992 | `acts/1992/12-criminal-evidence-act-1992/` | 5 | 2019-01-01 to 2024-09-02 | 37 |
+| Regional Technical Colleges Act 1992 | No. 16 of 1992 | `acts/1992/16-regional-technical-colleges-act-1992/` | 3 | 2018-04-24 to 2022-11-10 | 40 |
+| Foreshore (Amendment) Act 1992 | No. 17 of 1992 | `acts/1992/17-foreshore-amendment-act-1992/` | 4 | 2017-04-13 to 2024-05-14 | 12 |
+| Housing (Miscellaneous Provisions) Act 1992 | No. 18 of 1992 | `acts/1992/18-housing-miscellaneous-provisions-act-1992/` | 7 | 2018-09-12 to 2026-04-01 | 43 |
+| Criminal Justice Act 1993 | No. 6 of 1993 | `acts/1993/6-criminal-justice-act-1993/` | 2 | 2022-01-01 to 2023-08-01 | 17 |
+| Comptroller and Auditor General (Amendment) Act 1993 | No. 8 of 1993 | `acts/1993/8-comptroller-and-auditor-general-amendment-act-1993/` | 1 | 2025-12-10 to 2025-12-10 | 32 |
+| Interception of Postal Packets and Telecommunications Messages (Regulation) Act 1993 | No. 10 of 1993 | `acts/1993/10-interception-of-postal-packets-and-telecommunications-messages-regulation-act-1993/` | 1 | 2025-04-02 to 2025-04-02 | 17 |
+| Roads Act 1993 | No. 14 of 1993 | `acts/1993/14-roads-act-1993/` | 12 | 2018-10-16 to 2026-05-13 | 111 |
+| Criminal Law (Sexual Offences) Act 1993 | No. 20 of 1993 | `acts/1993/20-criminal-law-sexual-offences-act-1993/` | 3 | 2017-06-30 to 2022-12-22 | 18 |
+| Irish Aviation Authority Act 1993 | No. 29 of 1993 | `acts/1993/29-irish-aviation-authority-act-1993/` | 8 | 2020-05-29 to 2025-08-07 | 106 |
+| Criminal Procedure Act 1993 | No. 40 of 1993 | `acts/1993/40-criminal-procedure-act-1993/` | 2 | 2020-02-17 to 2023-08-01 | 16 |
+| Criminal Justice (Public Order) Act 1994 | No. 2 of 1994 | `acts/1994/2-criminal-justice-public-order-act-1994/` | 4 | 2017-08-14 to 2024-12-31 | 47 |
+| Terms of Employment (Information) Act 1994 | No. 5 of 1994 | `acts/1994/5-terms-of-employment-information-act-1994/` | 4 | 2017-09-01 to 2022-12-16 | 26 |
+| Road Traffic Act 1994 | No. 7 of 1994 | `acts/1994/7-road-traffic-act-1994/` | 13 | 2018-12-22 to 2026-09-02 | 53 |
+| Irish Nationality and Citizenship Act 1994 | No. 9 of 1994 | `acts/1994/9-irish-nationality-and-citizenship-act-1994/` | 1 | 2021-09-01 to 2021-09-01 | 4 |
+| Referendum Act 1994 | No. 12 of 1994 | `acts/1994/12-referendum-act-1994/` | 1 | 2025-10-01 to 2025-10-01 | 62 |
+| Criminal Justice Act 1994 | No. 15 of 1994 | `acts/1994/15-criminal-justice-act-1994/` | 1 | 2026-07-31 to 2026-07-31 | 85 |
+| Health Insurance Act 1994 | No. 16 of 1994 | `acts/1994/16-health-insurance-act-1994/` | 10 | 2022-09-29 to 2026-04-01 | 73 |
+| Irish Horseracing Industry 1994 | No. 18 of 1994 | `acts/1994/18-irish-horseracing-industry-1994/` | 2 | 2023-10-31 to 2026-02-05 | 91 |
+| Investment Limited Partnerships Act 1994 | No. 24 of 1994 | `acts/1994/24-investment-limited-partnerships-act-1994/` | 1 | 2022-12-07 to 2022-12-07 | 77 |
+| Maintenance Act 1994 | No. 28 of 1994 | `acts/1994/28-maintenance-act-1994/` | 2 | 2016-06-30 to 2019-05-28 | 28 |
+| Maternity Protection Act 1994 | No. 34 of 1994 | `acts/1994/34-maternity-protection-act-1994/` | 7 | 2017-12-23 to 2024-11-20 | 54 |
+| Adoptive Leave Act 1995 | No. 2 of 1995 | `acts/1995/2-adoptive-leave-act-1995/` | 6 | 2016-08-01 to 2023-07-03 | 51 |
+| Occupiers' Liability Act 1995 | No. 10 of 1995 | `acts/1995/10-occupiers-liability-act-1995/` | 1 | 2024-07-23 to 2024-07-23 | 11 |
+| Tourist Traffic Act 1995 | No. 13 of 1995 | `acts/1995/13-tourist-traffic-act-1995/` | 3 | 2016-08-31 to 2020-09-16 | 12 |
+| Package Holidays and Travel Trade Act 1995 | No. 17 of 1995 | `acts/1995/17-package-holidays-and-travel-trade-act-1995/` | 2 | 2021-05-26 to 2022-11-29 | 48 |
+| Casual Trading Act 1995 | No. 19 of 1995 | `acts/1995/19-casual-trading-act-1995/` | 1 | 2022-12-15 to 2022-12-15 | 21 |
+| Ethics in Public Office Act 1995 | No. 22 of 1995 | `acts/1995/22-ethics-in-public-office-act-1995/` | 3 | 2018-11-21 to 2026-01-01 | 41 |
+| Consumer Credit Act 1995 | No. 24 of 1995 | `acts/1995/24-consumer-credit-act-1995/` | 4 | 2018-05-25 to 2026-02-05 | 217 |
+| Family Law Act 1995 | No. 26 of 1995 | `acts/1995/26-family-law-act-1995/` | 2 | 2019-01-01 to 2022-08-01 | 58 |
+| Irish Medicines Board Act 1995 | No. 29 of 1995 | `acts/1995/29-irish-medicines-board-act-1995/` | 9 | 2023-09-14 to 2026-06-30 | 51 |
+| Civil Legal Aid Act 1995 | No. 32 of 1995 | `acts/1995/32-civil-legal-aid-act-1995/` | 3 | 2025-06-19 to 2026-06-24 | 48 |
+| Domestic Violence Act 1996 | No. 1 of 1996 | `acts/1996/1-domestic-violence-act-1996/` | 1 | 2016-06-30 to 2016-06-30 | 28 |
+| Waste Management Act 1996 | No. 10 of 1996 | `acts/1996/10-waste-management-act-1996/` | 17 | 2018-04-12 to 2026-05-08 | 120 |
+| Dumping at Sea Act 1996 | No. 14 of 1996 | `acts/1996/14-dumping-at-sea-act-1996/` | 5 | 2016-07-22 to 2025-08-01 | 20 |
+| Protection of Young Persons (Employment) Act 1996 | No. 16 of 1996 | `acts/1996/16-protection-of-young-persons-employment-act-1996/` | 3 | 2018-06-30 to 2022-07-27 | 32 |
+| Refugee Act 1996 | No. 17 of 1996 | `acts/1996/17-refugee-act-1996/` | 1 | 2015-04-20 to 2015-04-20 | 41 |
+| Transnational Information and Consultation of Employees Act 1996 | No. 20 of 1996 | `acts/1996/20-transnational-information-and-consultation-of-employees-act-1996/` | 1 | 2018-01-18 to 2018-01-18 | 31 |
+| Metrology Act 1996 | No. 27 of 1996 | `acts/1996/27-metrology-act-1996/` | 2 | 2026-02-24 to 2026-07-07 | 38 |
+| National Standards Authority of Ireland Act 1996 | No. 28 of 1996 | `acts/1996/28-national-standards-authority-of-ireland-act-1996/` | 2 | 2026-07-07 to 2026-07-22 | 41 |
+| Criminal Justice (Drug Trafficking) Act 1996 | No. 29 of 1996 | `acts/1996/29-criminal-justice-drug-trafficking-act-1996/` | 1 | 2025-08-01 to 2025-08-01 | 13 |
+| Proceeds of Crime Act 1996 | No. 30 of 1996 | `acts/1996/30-proceeds-of-crime-act-1996/` | 2 | 2018-07-30 to 2021-07-28 | 25 |
+| Criminal Assets Bureau Act 1996 | No. 31 of 1996 | `acts/1996/31-criminal-assets-bureau-act-1996/` | 3 | 2016-06-30 to 2023-04-10 | 30 |
+| Family Law (Divorce) Act 1996 | No. 33 of 1996 | `acts/1996/33-family-law-divorce-act-1996/` | 3 | 2019-01-01 to 2022-08-01 | 54 |
+| Telecommunications (Miscellaneous Provisions) Act 1996 | No. 34 of 1996 | `acts/1996/34-telecommunications-miscellaneous-provisions-act-1996/` | 3 | 2016-06-29 to 2025-06-01 | 21 |
+| Sexual Offences (Jurisdiction) Act 1996 | No. 38 of 1996 | `acts/1996/38-sexual-offences-jurisdiction-act-1996/` | 2 | 2024-01-01 to 2024-08-31 | 13 |
+| Health Insurance Act, 1994 (Registration) Regulations 1996 | S.I. No. 80 of 1996 | `statutory-instruments/1996/80-health-insurance-act-1994-registration-regulations-1996/` | 1 | 2024-07-01 to 2024-07-01 | 8 |
+| Health Insurance Act, 1994 (Minimum Benefit) Regulations 1996 | S.I. No. 83 of 1996 | `statutory-instruments/1996/83-health-insurance-act-1994-minimum-benefit-regulations-1996/` | 1 | 2024-07-01 to 2024-07-01 | 16 |
+| Social Welfare (Social Welfare Tribunal) Regulations 1996 | S.I. No. 262 of 1996 | `statutory-instruments/1996/262-social-welfare-social-welfare-tribunal-regulations-1996/` | 1 | 2023-05-04 to 2023-05-04 | 22 |
+| Social Welfare (Consolidated Contributions and Insurability) Regulations 1996 | S.I. No. 312 of 1996 | `statutory-instruments/1996/312-social-welfare-consolidated-contributions-and-insurability-regulations-1996/` | 4 | 2021-11-19 to 2026-01-01 | 130 |
+| European Parliament Elections Act 1997 | No. 2 of 1997 | `acts/1997/2-european-parliament-elections-act-1997/` | 1 | 2025-10-01 to 2025-10-01 | 34 |
+| Central Bank Act 1997 | No. 8 of 1997 | `acts/1997/8-central-bank-act-1997/` | 5 | 2021-06-01 to 2026-08-01 | 126 |
+| Litter Pollution Act 1997 | No. 12 of 1997 | `acts/1997/12-litter-pollution-act-1997/` | 5 | 2022-04-27 to 2026-05-08 | 40 |
+| Freedom of Information Act 1997 | No. 13 of 1997 | `acts/1997/13-freedom-of-information-act-1997/` | 1 | 2014-03-18 to 2014-03-18 | 52 |
+| Criminal Law Act 1997 | No. 14 of 1997 | `acts/1997/14-criminal-law-act-1997/` | 3 | 2016-06-30 to 2021-12-31 | 21 |
+| Credit Union Act 1997 | No. 15 of 1997 | `acts/1997/15-credit-union-act-1997/` | 9 | 2018-09-21 to 2025-09-30 | 241 |
+| Bail Act 1997 | No. 16 of 1997 | `acts/1997/16-bail-act-1997/` | 8 | 2019-01-01 to 2026-06-12 | 24 |
+| Organisation of Working Time Act 1997 | No. 20 of 1997 | `acts/1997/20-organisation-of-working-time-act-1997/` | 7 | 2017-09-01 to 2025-01-20 | 49 |
+| Housing (Miscellaneous Provisions) Act 1997 | No. 21 of 1997 | `acts/1997/21-housing-miscellaneous-provisions-act-1997/` | 3 | 2018-09-12 to 2024-10-17 | 28 |
+| Fisheries (Amendment) Act 1997 | No. 23 of 1997 | `acts/1997/23-fisheries-amendment-act-1997/` | 4 | 2018-07-04 to 2025-02-03 | 94 |
+| Universities Act 1997 | No. 24 of 1997 | `acts/1997/24-universities-act-1997/` | 3 | 2022-11-15 to 2024-02-21 | 69 |
+| Non-Fatal Offences Against the Person Act 1997 | No. 26 of 1997 | `acts/1997/26-non-fatal-offences-against-the-person-act-1997/` | 6 | 2017-05-17 to 2024-12-31 | 46 |
+| Road Traffic (Traffic and Parking) Regulations 1997 | S.I. No. 182 of 1997 | `statutory-instruments/1997/182-road-traffic-traffic-and-parking-regulations-1997/` | 3 | 2024-05-20 to 2026-05-13 | 66 |
+| Building Control Regulations 1997 | S.I. No. 496 of 1997 | `statutory-instruments/1997/496-building-control-regulations-1997/` | 6 | 2020-04-03 to 2026-07-27 | 59 |
+| Building Regulations 1997 | S.I. No. 497 of 1997 | `statutory-instruments/1997/497-building-regulations-1997/` | 1 | 2026-02-19 to 2026-02-19 | 19 |
+| Employment Equality Act 1998 | No. 21 of 1998 | `acts/1998/21-employment-equality-act-1998/` | 9 | 2018-07-18 to 2025-05-31 | 117 |
+| Child Trafficking and Pornography Act 1998 | No. 22 of 1998 | `acts/1998/22-child-trafficking-and-pornography-act-1998/` | 2 | 2017-06-30 to 2020-05-21 | 17 |
+| Parental Leave Act 1998 | No. 30 of 1998 | `acts/1998/30-parental-leave-act-1998/` | 6 | 2016-01-18 to 2024-03-06 | 42 |
+| Housing (Traveller Accommodation) Act 1998 | No. 33 of 1998 | `acts/1998/33-housing-traveller-accommodation-act-1998/` | 2 | 2018-09-12 to 2024-05-16 | 37 |
+| Industrial Development (Enterprise Ireland) Act 1998 | No. 34 of 1998 | `acts/1998/34-industrial-development-enterprise-ireland-act-1998/` | 2 | 2019-02-01 to 2020-01-07 | 58 |
+| Protections for Persons Reporting Child Abuse Act 1998 | No. 49 of 1998 | `acts/1998/49-protections-for-persons-reporting-child-abuse-act-1998/` | 2 | 2015-10-01 to 2019-02-01 | 8 |
+| Education Act 1998 | No. 51 of 1998 | `acts/1998/51-education-act-1998/` | 6 | 2018-10-03 to 2023-12-12 | 80 |
+| Fisheries and Foreshore (Amendment) Act 1998 | No. 54 of 1998 | `acts/1998/54-fisheries-and-foreshore-amendment-act-1998/` | 1 | 2019-01-01 to 2019-01-01 | 8 |
+| Social Welfare (Rent Allowance) Regulations 1998 | S.I. No. 188 of 1998 | `statutory-instruments/1998/188-social-welfare-rent-allowance-regulations-1998/` | 1 | 2026-01-21 to 2026-01-21 | 24 |
+| Road Transport Act 1999 | No. 15 of 1999 | `acts/1999/15-road-transport-act-1999/` | 2 | 2016-06-30 to 2019-05-28 | 27 |
+| Sea Pollution (Amendment) Act 1999 | No. 18 of 1999 | `acts/1999/18-sea-pollution-amendment-act-1999/` | 2 | 2019-01-01 to 2021-11-22 | 20 |
+| Immigration Act 1999 | No. 22 of 1999 | `acts/1999/22-immigration-act-1999/` | 2 | 2023-07-31 to 2026-06-12 | 17 |
+| Electricity Regulation Act 1999 | No. 23 of 1999 | `acts/1999/23-electricity-regulation-act-1999/` | 17 | 2018-12-31 to 2025-12-31 | 171 |
+| Comhairle Act 2000 | No. 1 of 2000 | `acts/2000/1-comhairle-act-2000/` | 1 | 2019-02-01 to 2019-02-01 | 43 |
+| National Minimum Wage Act 2000 | No. 5 of 2000 | `acts/2000/5-national-minimum-wage-act-2000/` | 11 | 2019-01-01 to 2026-01-01 | 59 |
+| Equal Status Act 2000 | No. 8 of 2000 | `acts/2000/8-equal-status-act-2000/` | 4 | 2018-10-03 to 2021-07-29 | 55 |
+| Firearms (Firearm Certificates For Non-Residents) Act 2000 | No. 20 of 2000 | `acts/2000/20-firearms-firearm-certificates-for-non-residents-act-2000/` | 3 | 2016-01-01 to 2022-05-04 | 9 |
+| Education (Welfare) Act 2000 | No. 22 of 2000 | `acts/2000/22-education-welfare-act-2000/` | 2 | 2023-04-05 to 2025-02-19 | 43 |
+| Electronic Commerce Act 2000 | No. 27 of 2000 | `acts/2000/27-electronic-commerce-act-2000/` | 1 | 2025-06-01 to 2025-06-01 | 37 |
+| Copyright and Related Rights Act 2000 | No. 28 of 2000 | `acts/2000/28-copyright-and-related-rights-act-2000/` | 1 | 2026-09-09 to 2026-09-09 | 422 |
+| Illegal Immigrants (Trafficking) Act 2000 | No. 29 of 2000 | `acts/2000/29-illegal-immigrants-trafficking-act-2000/` | 2 | 2024-05-14 to 2026-06-12 | 14 |
+| Planning and Development Act 2000 | No. 30 of 2000 | `acts/2000/30-planning-and-development-act-2000/` | 33 | 2019-01-01 to 2026-08-12 | 538 |
+| Protection of Children (Hague Convention) Act 2000 | No. 37 of 2000 | `acts/2000/37-protection-of-children-hague-convention-act-2000/` | 4 | 2016-01-18 to 2022-08-01 | 21 |
+| Wildlife (Amendment) Act 2000 | No. 38 of 2000 | `acts/2000/38-wildlife-amendment-act-2000/` | 1 | 2024-06-01 to 2024-06-01 | 90 |
+| National Treasury Management Agency (Amendment) Act 2000 | No. 39 of 2000 | `acts/2000/39-national-treasury-management-agency-amendment-act-2000/` | 7 | 2020-08-01 to 2025-11-26 | 39 |
+| National Training Fund Act 2000 | No. 41 of 2000 | `acts/2000/41-national-training-fund-act-2000/` | 4 | 2019-01-01 to 2026-01-19 | 13 |
+| Aviation Regulation Act 2001 | No. 1 of 2001 | `acts/2001/1-aviation-regulation-act-2001/` | 7 | 2019-03-11 to 2023-05-01 | 59 |
+| Teaching Council Act 2001 | No. 8 of 2001 | `acts/2001/8-teaching-council-act-2001/` | 8 | 2016-11-08 to 2026-02-09 | 74 |
+| Industrial Relations (Amendment) Act 2001 | No. 11 of 2001 | `acts/2001/11-industrial-relations-amendment-act-2001/` | 2 | 2019-01-01 to 2020-02-01 | 19 |
+| Valuation Act 2001 | No. 13 of 2001 | `acts/2001/13-valuation-act-2001/` | 17 | 2018-11-09 to 2024-10-18 | 92 |
+| Health Insurance (Amendment) Act 2001 | No. 17 of 2001 | `acts/2001/17-health-insurance-amendment-act-2001/` | 1 | 2023-03-21 to 2023-03-21 | 16 |
+| Sex Offenders Act 2001 | No. 18 of 2001 | `acts/2001/18-sex-offenders-act-2001/` | 2 | 2022-01-01 to 2023-11-13 | 62 |
+| Carer's Leave Act 2001 | No. 19 of 2001 | `acts/2001/19-carer-s-leave-act-2001/` | 2 | 2018-09-04 to 2020-10-14 | 35 |
+| Children Act 2001 | No. 24 of 2001 | `acts/2001/24-children-act-2001/` | 6 | 2017-11-27 to 2026-08-10 | 302 |
+| Mental Health Act 2001 | No. 25 of 2001 | `acts/2001/25-mental-health-act-2001/` | 5 | 2019-01-01 to 2026-06-23 | 80 |
+| Prevention of Corruption (Amendment) Act 2001 | No. 27 of 2001 | `acts/2001/27-prevention-of-corruption-amendment-act-2001/` | 1 | 2018-07-30 to 2018-07-30 | 17 |
+| Agriculture Appeals Act 2001 | No. 29 of 2001 | `acts/2001/29-agriculture-appeals-act-2001/` | 2 | 2025-07-17 to 2025-11-27 | 32 |
+| Standards in Public Office Act 2001 | No. 31 of 2001 | `acts/2001/31-standards-in-public-office-act-2001/` | 4 | 2017-04-13 to 2025-01-01 | 32 |
+| Local Government Act 2001 | No. 37 of 2001 | `acts/2001/37-local-government-act-2001/` | 13 | 2018-12-26 to 2025-12-31 | 329 |
+| Youth Work Act 2001 | No. 42 of 2001 | `acts/2001/42-youth-work-act-2001/` | 3 | 2017-05-16 to 2025-05-01 | 39 |
+| Protection of Employees (Part-Time Work) Act 2001 | No. 45 of 2001 | `acts/2001/45-protection-of-employees-part-time-work-act-2001/` | 2 | 2017-09-01 to 2020-10-14 | 23 |
+| Criminal Justice (Theft and Fraud Offences) Act 2001 | No. 50 of 2001 | `acts/2001/50-criminal-justice-theft-and-fraud-offences-act-2001/` | 6 | 2018-07-30 to 2026-08-10 | 79 |
+| Transport (Railway Infrastructure) Act 2001 | No. 55 of 2001 | `acts/2001/55-transport-railway-infrastructure-act-2001/` | 1 | 2026-06-03 to 2026-06-03 | 96 |
+| Sustainable Energy Act 2002 | No. 2 of 2002 | `acts/2002/2-sustainable-energy-act-2002/` | 1 | 2024-05-01 to 2024-05-01 | 35 |
+| Public Health (Tobacco) Act 2002 | No. 6 of 2002 | `acts/2002/6-public-health-tobacco-act-2002/` | 4 | 2024-09-23 to 2026-07-20 | 60 |
+| Housing (Miscellaneous Provisions) Act 2002 | No. 9 of 2002 | `acts/2002/9-housing-miscellaneous-provisions-act-2002/` | 1 | 2018-09-12 to 2018-09-12 | 28 |
+| Gas (Interim) (Regulation) Act 2002 | No. 10 of 2002 | `acts/2002/10-gas-interim-regulation-act-2002/` | 2 | 2023-06-06 to 2024-06-01 | 32 |
+| Road Traffic Act 2002 | No. 12 of 2002 | `acts/2002/12-road-traffic-act-2002/` | 3 | 2018-10-26 to 2025-03-31 | 30 |
+| Competition Act 2002 | No. 14 of 2002 | `acts/2002/14-competition-act-2002/` | 6 | 2019-01-01 to 2026-07-01 | 147 |
+| Courts and Court Officers Act 2002 | No. 15 of 2002 | `acts/2002/15-courts-and-court-officers-act-2002/` | 1 | 2026-10-01 to 2026-10-01 | 49 |
+| Communications Regulation Act 2002 | No. 20 of 2002 | `acts/2002/20-communications-regulation-act-2002/` | 9 | 2017-03-21 to 2026-07-31 | 108 |
+| Ombudsman for Children Act 2002 | No. 22 of 2002 | `acts/2002/22-ombudsman-for-children-act-2002/` | 1 | 2018-12-26 to 2018-12-26 | 24 |
+| Unclaimed Life Assurance Policies Act 2003 | No. 2 of 2003 | `acts/2003/2-unclaimed-life-assurance-policies-act-2003/` | 1 | 2021-10-30 to 2021-10-30 | 30 |
+| Social Welfare (Miscellaneous Provisions) Act 2003 | No. 4 of 2003 | `acts/2003/4-social-welfare-miscellaneous-provisions-act-2003/` | 1 | 2024-07-01 to 2024-07-01 | 26 |
+| Employment Permits Act 2003 | No. 7 of 2003 | `acts/2003/7-employment-permits-act-2003/` | 2 | 2018-06-30 to 2024-09-02 | 10 |
+| National Tourism Development Authority Act 2003 | No. 10 of 2003 | `acts/2003/10-national-tourism-development-authority-act-2003/` | 4 | 2017-09-26 to 2025-06-01 | 45 |
+| Central Bank and Financial Services Authority of Ireland Act 2003 | No. 12 of 2003 | `acts/2003/12-central-bank-and-financial-services-authority-of-ireland-act-2003/` | 1 | 2025-05-20 to 2025-05-20 | 40 |
+| Licensing of Indoor Events Act 2003 | No. 15 of 2003 | `acts/2003/15-licensing-of-indoor-events-act-2003/` | 1 | 2021-09-28 to 2021-09-28 | 35 |
+| Criminal Justice (Public Order) Act 2003 | No. 16 of 2003 | `acts/2003/16-criminal-justice-public-order-act-2003/` | 1 | 2024-12-31 to 2024-12-31 | 11 |
+| Criminal Justice (Illicit Traffic by Sea) Act 2003 | No. 18 of 2003 | `acts/2003/18-criminal-justice-illicit-traffic-by-sea-act-2003/` | 2 | 2021-01-01 to 2021-11-22 | 31 |
+| European Convention on Human Rights Act 2003 | No. 20 of 2003 | `acts/2003/20-european-convention-on-human-rights-act-2003/` | 1 | 2020-10-14 to 2020-10-14 | 17 |
+| Fisheries (Amendment) Act 2003 | No. 21 of 2003 | `acts/2003/21-fisheries-amendment-act-2003/` | 1 | 2024-05-14 to 2024-05-14 | 37 |
+| Digital Hub Development Agency Act 2003 | No. 23 of 2003 | `acts/2003/23-digital-hub-development-agency-act-2003/` | 3 | 2021-09-28 to 2025-06-01 | 47 |
+| Immigration Act 2003 | No. 26 of 2003 | `acts/2003/26-immigration-act-2003/` | 4 | 2017-05-17 to 2026-06-12 | 14 |
+| Protection of Employees (Fixed-Term Work) Act 2003 | No. 29 of 2003 | `acts/2003/29-protection-of-employees-fixed-term-work-act-2003/` | 3 | 2017-09-01 to 2022-12-16 | 21 |
+| Industrial Development (Science Foundation Ireland) Act 2003 | No. 30 of 2003 | `acts/2003/30-industrial-development-science-foundation-ireland-act-2003/` | 2 | 2021-09-15 to 2024-08-01 | 40 |
+| Intoxicating Liquor Act 2003 | No. 31 of 2003 | `acts/2003/31-intoxicating-liquor-act-2003/` | 4 | 2023-12-08 to 2025-12-17 | 26 |
+| Official Languages Act 2003 | No. 32 of 2003 | `acts/2003/32-official-languages-act-2003/` | 8 | 2022-02-28 to 2026-07-15 | 61 |
+| Minister for Community, Rural and Gaeltacht Affairs (Powers and Functions) Act 2003 | No. 39 of 2003 | `acts/2003/39-minister-for-community-rural-and-gaeltacht-affairs-powers-and-functions-act-2003/` | 1 | 2025-05-20 to 2025-05-20 | 7 |
+| European Arrest Warrant Act 2003 | No. 45 of 2003 | `acts/2003/45-european-arrest-warrant-act-2003/` | 6 | 2019-12-12 to 2024-07-23 | 65 |
+| Personal Injuries Assessment Board Act 2003 | No. 46 of 2003 | `acts/2003/46-personal-injuries-assessment-board-act-2003/` | 10 | 2018-05-25 to 2025-12-01 | 102 |
+| Immigration Act 2004 | No. 1 of 2004 | `acts/2004/1-immigration-act-2004/` | 18 | 2018-01-31 to 2026-06-15 | 28 |
+| Civil Registration Act 2004 | No. 3 of 2004 | `acts/2004/3-civil-registration-act-2004/` | 13 | 2019-01-01 to 2025-12-31 | 134 |
+| Industrial Relations (Miscellaneous Provisions) Act 2004 | No. 4 of 2004 | `acts/2004/4-industrial-relations-miscellaneous-provisions-act-2004/` | 2 | 2019-01-01 to 2020-02-01 | 18 |
+| Public Service Superannuation (Miscellaneous Provisions) Act 2004 | No. 7 of 2004 | `acts/2004/7-public-service-superannuation-miscellaneous-provisions-act-2004/` | 5 | 2018-03-07 to 2025-04-02 | 22 |
+| Aer Lingus Act 2004 | No. 10 of 2004 | `acts/2004/10-aer-lingus-act-2004/` | 1 | 2020-10-01 to 2020-10-01 | 16 |
+| Air Navigation and Transport (International Conventions) Act 2004 | No. 11 of 2004 | `acts/2004/11-air-navigation-and-transport-international-conventions-act-2004/` | 1 | 2020-10-01 to 2020-10-01 | 18 |
+| Private Security Services Act 2004 | No. 12 of 2004 | `acts/2004/12-private-security-services-act-2004/` | 9 | 2018-09-01 to 2025-10-31 | 57 |
+| Electoral (Amendment) Act 2004 | No. 15 of 2004 | `acts/2004/15-electoral-amendment-act-2004/` | 2 | 2020-07-08 to 2024-03-31 | 41 |
+| Criminal Justice (Joint Investigation Teams) Act 2004 | No. 20 of 2004 | `acts/2004/20-criminal-justice-joint-investigation-teams-act-2004/` | 2 | 2020-06-27 to 2023-11-01 | 19 |
+| Commissions of Investigation Act 2004 | No. 23 of 2004 | `acts/2004/23-commissions-of-investigation-act-2004/` | 3 | 2018-05-25 to 2025-07-22 | 52 |
+| Residential Tenancies Act 2004 | No. 27 of 2004 | `acts/2004/27-residential-tenancies-act-2004/` | 27 | 2018-07-23 to 2026-09-25 | 273 |
+| Maritime Security Act 2004 | No. 29 of 2004 | `acts/2004/29-maritime-security-act-2004/` | 3 | 2020-10-14 to 2021-11-22 | 17 |
+| Education for Persons with Special Educational Needs Act 2004 | No. 30 of 2004 | `acts/2004/30-education-for-persons-with-special-educational-needs-act-2004/` | 4 | 2017-10-02 to 2023-03-01 | 56 |
+| Civil Liability and Courts Act 2004 | No. 31 of 2004 | `acts/2004/31-civil-liability-and-courts-act-2004/` | 4 | 2019-01-28 to 2024-09-02 | 65 |
+| State Airports Act 2004 | No. 32 of 2004 | `acts/2004/32-state-airports-act-2004/` | 1 | 2021-08-25 to 2021-08-25 | 31 |
+| Public Service Management (Recruitment and Appointments) Act 2004 | No. 33 of 2004 | `acts/2004/33-public-service-management-recruitment-and-appointments-act-2004/` | 3 | 2019-09-10 to 2023-09-04 | 78 |
+| Ombudsman (Defence Forces) Act 2004 | No. 36 of 2004 | `acts/2004/36-ombudsman-defence-forces-act-2004/` | 4 | 2017-05-16 to 2024-07-17 | 20 |
+| Health Act 2004 | No. 42 of 2004 | `acts/2004/42-health-act-2004/` | 2 | 2021-08-04 to 2023-03-01 | 162 |
+| Road Traffic Act 2004 | No. 44 of 2004 | `acts/2004/44-road-traffic-act-2004/` | 6 | 2017-06-01 to 2025-02-07 | 44 |
+| Proceeds of Crime (Amendment) Act 2005 | No. 1 of 2005 | `acts/2005/1-proceeds-of-crime-amendment-act-2005/` | 1 | 2018-07-30 to 2018-07-30 | 24 |
+| Criminal Justice (Terrorist Offences) Act 2005 | No. 2 of 2005 | `acts/2005/2-criminal-justice-terrorist-offences-act-2005/` | 37 | 2018-12-20 to 2026-07-08 | 97 |
+| Social Welfare and Pensions Act 2005 | No. 4 of 2005 | `acts/2005/4-social-welfare-and-pensions-act-2005/` | 2 | 2017-04-12 to 2023-01-09 | 45 |
+| Sea Pollution (Hazardous Substances) (Compensation) Act 2005 | No. 9 of 2005 | `acts/2005/9-sea-pollution-hazardous-substances-compensation-act-2005/` | 2 | 2019-01-01 to 2021-11-22 | 32 |
+| Safety, Health and Welfare at Work Act 2005 | No. 10 of 2005 | `acts/2005/10-safety-health-and-welfare-at-work-act-2005/` | 12 | 2018-07-12 to 2026-04-09 | 108 |
+| Maritime Safety Act 2005 | No. 11 of 2005 | `acts/2005/11-maritime-safety-act-2005/` | 7 | 2016-12-01 to 2025-07-29 | 62 |
+| Investment Funds, Companies and Miscellaneous Provisions Act 2005 | No. 12 of 2005 | `acts/2005/12-investment-funds-companies-and-miscellaneous-provisions-act-2005/` | 4 | 2016-10-13 to 2021-03-01 | 110 |
+| Disability Act 2005 | No. 14 of 2005 | `acts/2005/14-disability-act-2005/` | 6 | 2018-05-25 to 2025-04-02 | 60 |
+| International Interests in Mobile Equipment (Cape Town Convention) Act 2005 | No. 15 of 2005 | `acts/2005/15-international-interests-in-mobile-equipment-cape-town-convention-act-2005/` | 3 | 2017-05-02 to 2023-01-09 | 19 |
+| Commission to Inquire into Child Abuse (Amendment) Act 2005 | No. 17 of 2005 | `acts/2005/17-commission-to-inquire-into-child-abuse-amendment-act-2005/` | 2 | 2016-12-15 to 2019-05-28 | 37 |
+| Civil Service Regulation (Amendment) Act 2005 | No. 18 of 2005 | `acts/2005/18-civil-service-regulation-amendment-act-2005/` | 2 | 2017-03-31 to 2020-05-29 | 35 |
+| Garda Síochána Act 2005 | No. 20 of 2005 | `acts/2005/20-garda-s-och-na-act-2005/` | 11 | 2018-02-06 to 2024-09-03 | 177 |
+| Grangegorman Development Agency Act 2005 | No. 21 of 2005 | `acts/2005/21-grangegorman-development-agency-act-2005/` | 3 | 2016-10-26 to 2020-10-21 | 48 |
+| Veterinary Practice Act 2005 | No. 22 of 2005 | `acts/2005/22-veterinary-practice-act-2005/` | 5 | 2017-06-27 to 2026-01-01 | 151 |
+| Social Welfare Consolidation Act 2005 | No. 26 of 2005 | `acts/2005/26-social-welfare-consolidation-act-2005/` | 2 | 2026-01-21 to 2026-10-01 | 549 |
+| Health and Social Care Professionals Act 2005 | No. 27 of 2005 | `acts/2005/27-health-and-social-care-professionals-act-2005/` | 25 | 2019-01-30 to 2026-05-28 | 131 |
+| Transfer of Execution of Sentences Act 2005 | No. 28 of 2005 | `acts/2005/28-transfer-of-execution-of-sentences-act-2005/` | 3 | 2017-04-07 to 2023-05-03 | 21 |
+| Railway Safety Act 2005 | No. 31 of 2005 | `acts/2005/31-railway-safety-act-2005/` | 10 | 2018-05-25 to 2026-07-01 | 154 |
+| Development Banks Act 2005 | No. 34 of 2005 | `acts/2005/34-development-banks-act-2005/` | 3 | 2017-03-15 to 2023-01-09 | 11 |
+| Social Welfare Law Reform and Pensions Act 2006 | No. 5 of 2006 | `acts/2006/5-social-welfare-law-reform-and-pensions-act-2006/` | 1 | 2018-01-01 to 2018-01-01 | 58 |
+| Sea-Fisheries and Maritime Jurisdiction Act 2006 | No. 8 of 2006 | `acts/2006/8-sea-fisheries-and-maritime-jurisdiction-act-2006/` | 23 | 2018-10-24 to 2025-12-19 | 131 |
+| Employees (Provision of Information and Consultation) Act 2006 | No. 9 of 2006 | `acts/2006/9-employees-provision-of-information-and-consultation-act-2006/` | 2 | 2015-10-01 to 2019-02-01 | 26 |
+| Criminal Law (Insanity) Act 2006 | No. 11 of 2006 | `acts/2006/11-criminal-law-insanity-act-2006/` | 3 | 2017-04-13 to 2023-11-01 | 32 |
+| Registration of Deeds and Title Act 2006 | No. 12 of 2006 | `acts/2006/12-registration-of-deeds-and-title-act-2006/` | 5 | 2018-01-01 to 2023-07-31 | 80 |
+| Parental Leave (Amendment) Act 2006 | No. 13 of 2006 | `acts/2006/13-parental-leave-amendment-act-2006/` | 2 | 2016-06-30 to 2019-07-19 | 14 |
+| Road Safety Authority Act 2006 | No. 14 of 2006 | `acts/2006/14-road-safety-authority-act-2006/` | 2 | 2015-09-30 to 2019-02-01 | 41 |
+| Criminal Law (Sexual Offences) Act 2006 | No. 15 of 2006 | `acts/2006/15-criminal-law-sexual-offences-act-2006/` | 4 | 2017-03-27 to 2024-08-31 | 12 |
+| Employment Permits Act 2006 | No. 16 of 2006 | `acts/2006/16-employment-permits-act-2006/` | 15 | 2018-12-13 to 2024-09-02 | 57 |
+| Health (Repayment Scheme) Act 2006 | No. 17 of 2006 | `acts/2006/17-health-repayment-scheme-act-2006/` | 1 | 2018-05-25 to 2018-05-25 | 24 |
+| NATIONAL SPORTS CAMPUS DEVELOPMENT AUTHORITY ACT 2006 | No. 19 of 2006 | `acts/2006/19-national-sports-campus-development-authority-act-2006/` | 1 | 2014-10-14 to 2014-10-14 | 42 |
+| Defence (Amendment) Act 2006 | No. 20 of 2006 | `acts/2006/20-defence-amendment-act-2006/` | 1 | 2022-04-04 to 2022-04-04 | 17 |
+| National Economic and Social Development Office Act 2006 | No. 21 of 2006 | `acts/2006/21-national-economic-and-social-development-office-act-2006/` | 3 | 2017-05-16 to 2023-01-09 | 43 |
+| Road Traffic Act 2006 | No. 23 of 2006 | `acts/2006/23-road-traffic-act-2006/` | 8 | 2018-07-19 to 2026-07-01 | 24 |
+| Criminal Justice Act 2006 | No. 26 of 2006 | `acts/2006/26-criminal-justice-act-2006/` | 7 | 2017-04-07 to 2026-08-10 | 208 |
+| Road Traffic and Transport Act 2006 | No. 28 of 2006 | `acts/2006/28-road-traffic-and-transport-act-2006/` | 3 | 2018-10-04 to 2025-11-10 | 4 |
+| Sea Pollution (Miscellaneous Provisions) Act 2006 | No. 29 of 2006 | `acts/2006/29-sea-pollution-miscellaneous-provisions-act-2006/` | 2 | 2017-04-13 to 2021-11-22 | 40 |
+| International Criminal Court Act 2006 | No. 30 of 2006 | `acts/2006/30-international-criminal-court-act-2006/` | 3 | 2017-04-07 to 2026-09-01 | 74 |
+| Electoral (Amendment) Act 2006 | No. 33 of 2006 | `acts/2006/33-electoral-amendment-act-2006/` | 3 | 2018-05-25 to 2024-05-16 | 21 |
+| Energy (Miscellaneous Provisions) Act 2006 | No. 40 of 2006 | `acts/2006/40-energy-miscellaneous-provisions-act-2006/` | 2 | 2017-07-26 to 2023-01-09 | 32 |
+| Investment Funds, Companies and Miscellaneous Provisions Act 2006 | No. 41 of 2006 | `acts/2006/41-investment-funds-companies-and-miscellaneous-provisions-act-2006/` | 1 | 2019-01-01 to 2019-01-01 | 36 |
+| Local Government (Business Improvement Districts) Act 2006 | No. 42 of 2006 | `acts/2006/42-local-government-business-improvement-districts-act-2006/` | 3 | 2017-04-13 to 2023-01-09 | 10 |
+| Criminal Law (Sexual Offences) (Amendment) Act 2007 | No. 6 of 2007 | `acts/2007/6-criminal-law-sexual-offences-amendment-act-2007/` | 1 | 2024-08-31 to 2024-08-31 | 8 |
+| National Oil Reserves Agency Act 2007 | No. 7 of 2007 | `acts/2007/7-national-oil-reserves-agency-act-2007/` | 14 | 2018-05-30 to 2026-08-28 | 107 |
+| Social Welfare and Pensions Act 2007 | No. 8 of 2007 | `acts/2007/8-social-welfare-and-pensions-act-2007/` | 2 | 2017-07-26 to 2023-01-09 | 43 |
+| Education (Miscellaneous Provisions) Act 2007 | No. 9 of 2007 | `acts/2007/9-education-miscellaneous-provisions-act-2007/` | 2 | 2017-04-13 to 2021-06-24 | 10 |
+| Prisons Act 2007 | No. 10 of 2007 | `acts/2007/10-prisons-act-2007/` | 3 | 2018-11-30 to 2023-08-01 | 44 |
+| Carbon Fund Act 2007 | No. 12 of 2007 | `acts/2007/12-carbon-fund-act-2007/` | 2 | 2016-07-22 to 2019-05-28 | 11 |
+| Consumer Protection Act 2007 | No. 19 of 2007 | `acts/2007/19-consumer-protection-act-2007/` | 15 | 2018-12-03 to 2025-11-24 | 132 |
+| Pharmacy Act 2007 | No. 20 of 2007 | `acts/2007/20-pharmacy-act-2007/` | 15 | 2018-05-25 to 2026-06-30 | 90 |
+| Building Control Act 2007 | No. 21 of 2007 | `acts/2007/21-building-control-act-2007/` | 4 | 2018-07-03 to 2022-08-29 | 77 |
+| Communications Regulation (Amendment) Act 2007 | No. 22 of 2007 | `acts/2007/22-communications-regulation-amendment-act-2007/` | 3 | 2016-06-23 to 2025-06-01 | 36 |
+| Health Act 2007 | No. 23 of 2007 | `acts/2007/23-health-act-2007/` | 7 | 2019-01-08 to 2025-03-31 | 122 |
+| Medical Practitioners Act 2007 | No. 25 of 2007 | `acts/2007/25-medical-practitioners-act-2007/` | 10 | 2018-12-26 to 2026-07-29 | 154 |
+| Child Care (Amendment) Act 2007 | No. 26 of 2007 | `acts/2007/26-child-care-amendment-act-2007/` | 2 | 2017-04-13 to 2020-05-21 | 23 |
+| Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007 | No. 27 of 2007 | `acts/2007/27-protection-of-employment-exceptional-collective-redundancies-and-related-matters-act-2007/` | 2 | 2017-09-01 to 2020-10-14 | 28 |
+| Criminal Justice Act 2007 | No. 29 of 2007 | `acts/2007/29-criminal-justice-act-2007/` | 8 | 2017-06-28 to 2025-04-02 | 64 |
+| Water Services Act 2007 | No. 30 of 2007 | `acts/2007/30-water-services-act-2007/` | 4 | 2018-10-22 to 2025-12-31 | 138 |
+| Community, Rural and Gaeltacht Affairs (Miscellaneous Provisions) Act 2007 | No. 32 of 2007 | `acts/2007/32-community-rural-and-gaeltacht-affairs-miscellaneous-provisions-act-2007/` | 3 | 2018-01-01 to 2025-06-01 | 12 |
+| Roads Act 2007 | No. 34 of 2007 | `acts/2007/34-roads-act-2007/` | 1 | 2019-01-01 to 2019-01-01 | 16 |
+| Markets in Financial Instruments and Miscellaneous Provisions Act 2007 | No. 37 of 2007 | `acts/2007/37-markets-in-financial-instruments-and-miscellaneous-provisions-act-2007/` | 1 | 2018-10-29 to 2018-10-29 | 27 |
+| Social Welfare (Consolidated Occupational Injuries) Regulations 2007 | S.I. No. 102 of 2007 | `statutory-instruments/2007/102-social-welfare-consolidated-occupational-injuries-regulations-2007/` | 3 | 2023-01-06 to 2026-01-06 | 83 |
+| European Communities (Access to Information on the Environment) Regulations 2007 | S.I. No. 133 of 2007 | `statutory-instruments/2007/133-european-communities-access-to-information-on-the-environment-regulations-2007/` | 1 | 2022-11-01 to 2022-11-01 | 17 |
+| Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 | S.I. No. 142 of 2007 | `statutory-instruments/2007/142-social-welfare-consolidated-claims-payments-and-control-regulations-2007/` | 3 | 2023-05-04 to 2026-01-21 | 416 |
+| Prison Rules 2007 | S.I. No. 252 of 2007 | `statutory-instruments/2007/252-prison-rules-2007/` | 1 | 2024-01-01 to 2024-01-01 | 129 |
+| Safety, Health and Welfare at Work (General Application) Regulations 2007 | S.I. No. 299 of 2007 | `statutory-instruments/2007/299-safety-health-and-welfare-at-work-general-application-regulations-2007/` | 2 | 2018-04-30 to 2023-05-24 | 188 |
+| Social Welfare (Consolidated Supplementary Welfare Allowance) Regulations 2007 | S.I. No. 412 of 2007 | `statutory-instruments/2007/412-social-welfare-consolidated-supplementary-welfare-allowance-regulations-2007/` | 3 | 2023-03-24 to 2026-01-21 | 54 |
+| Social Welfare and Pensions Act 2008 | No. 2 of 2008 | `acts/2008/2-social-welfare-and-pensions-act-2008/` | 2 | 2017-07-26 to 2023-01-09 | 34 |
+| Passports Act 2008 | No. 4 of 2008 | `acts/2008/4-passports-act-2008/` | 1 | 2018-05-25 to 2018-05-25 | 29 |
+| Criminal Justice (Mutual Assistance) Act 2008 | No. 7 of 2008 | `acts/2008/7-criminal-justice-mutual-assistance-act-2008/` | 10 | 2018-08-17 to 2025-05-20 | 205 |
+| Criminal Law (Human Trafficking) Act 2008 | No. 8 of 2008 | `acts/2008/8-criminal-law-human-trafficking-act-2008/` | 3 | 2017-03-27 to 2022-12-22 | 17 |
+| Electricity Regulation (Amendment) (Eirgrid) Act 2008 | No. 11 of 2008 | `acts/2008/11-electricity-regulation-amendment-eirgrid-act-2008/` | 1 | 2022-07-12 to 2022-07-12 | 11 |
+| Chemicals Act 2008 | No. 13 of 2008 | `acts/2008/13-chemicals-act-2008/` | 4 | 2018-05-25 to 2024-12-17 | 38 |
+| Civil Law (Miscellaneous Provisions) Act 2008 | No. 14 of 2008 | `acts/2008/14-civil-law-miscellaneous-provisions-act-2008/` | 1 | 2020-08-21 to 2020-08-21 | 85 |
+| Dublin Transport Authority Act 2008 | No. 15 of 2008 | `acts/2008/15-dublin-transport-authority-act-2008/` | 5 | 2018-10-22 to 2023-07-17 | 123 |
+| Intoxicating Liquor Act 2008 | No. 17 of 2008 | `acts/2008/17-intoxicating-liquor-act-2008/` | 1 | 2022-05-04 to 2022-05-04 | 25 |
+| Credit Institutions (Financial Support) Act 2008 | No. 18 of 2008 | `acts/2008/18-credit-institutions-financial-support-act-2008/` | 3 | 2017-04-07 to 2025-12-16 | 10 |
+| Cluster Munitions And Anti-Personnel Mines Act 2008 | No. 20 of 2008 | `acts/2008/20-cluster-munitions-and-anti-personnel-mines-act-2008/` | 2 | 2017-04-07 to 2020-05-21 | 22 |
+| Anglo Irish Bank Corporation Act 2009 | No. 1 of 2009 | `acts/2009/1-anglo-irish-bank-corporation-act-2009/` | 2 | 2016-06-23 to 2019-02-08 | 41 |
+| Electoral (Amendment) Act 2009 | No. 4 of 2009 | `acts/2009/4-electoral-amendment-act-2009/` | 3 | 2017-04-07 to 2023-01-09 | 22 |
+| Financial Emergency Measures in the Public Interest Act 2009 | No. 5 of 2009 | `acts/2009/5-financial-emergency-measures-in-the-public-interest-act-2009/` | 1 | 2018-01-01 to 2018-01-01 | 21 |
+| Charities Act 2009 | No. 6 of 2009 | `acts/2009/6-charities-act-2009/` | 4 | 2018-07-04 to 2026-04-22 | 115 |
+| Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009 | No. 7 of 2009 | `acts/2009/7-investment-of-the-national-pensions-reserve-fund-and-miscellaneous-provisions-act-2009/` | 3 | 2016-08-31 to 2021-12-31 | 14 |
+| Electoral (Amendment) (No. 2) Act 2009 | No. 9 of 2009 | `acts/2009/9-electoral-amendment-no-2-act-2009/` | 3 | 2017-04-07 to 2023-01-09 | 11 |
+| Social Welfare and Pensions Act 2009 | No. 10 of 2009 | `acts/2009/10-social-welfare-and-pensions-act-2009/` | 2 | 2017-07-26 to 2023-01-09 | 24 |
+| Financial Services (Deposit Guarantee Scheme) Act 2009 | No. 13 of 2009 | `acts/2009/13-financial-services-deposit-guarantee-scheme-act-2009/` | 1 | 2019-01-01 to 2019-01-01 | 21 |
+| Nursing Homes Support Scheme Act 2009 | No. 15 of 2009 | `acts/2009/15-nursing-homes-support-scheme-act-2009/` | 10 | 2019-01-01 to 2026-03-13 | 76 |
+| Aviation (Preclearance) Act 2009 | No. 16 of 2009 | `acts/2009/16-aviation-preclearance-act-2009/` | 2 | 2016-06-23 to 2019-05-28 | 23 |
+| Broadcasting Act 2009 | No. 18 of 2009 | `acts/2009/18-broadcasting-act-2009/` | 15 | 2017-10-25 to 2026-06-12 | 315 |
+| Criminal Justice (Surveillance) Act 2009 | No. 19 of 2009 | `acts/2009/19-criminal-justice-surveillance-act-2009/` | 5 | 2017-02-06 to 2025-04-02 | 20 |
+| Housing (Miscellaneous Provisions) Act 2009 | No. 22 of 2009 | `acts/2009/22-housing-miscellaneous-provisions-act-2009/` | 8 | 2018-09-12 to 2025-12-31 | 106 |
+| Land And Conveyancing Law Reform Act 2009 | No. 27 of 2009 | `acts/2009/27-land-and-conveyancing-law-reform-act-2009/` | 6 | 2016-06-30 to 2025-12-31 | 137 |
+| Criminal Justice (Miscellaneous Provisions) Act 2009 | No. 28 of 2009 | `acts/2009/28-criminal-justice-miscellaneous-provisions-act-2009/` | 2 | 2018-05-25 to 2020-05-01 | 53 |
+| Local Government (Charges) Act 2009 | No. 30 of 2009 | `acts/2009/30-local-government-charges-act-2009/` | 3 | 2017-04-07 to 2023-01-09 | 19 |
+| Defamation Act 2009 | No. 31 of 2009 | `acts/2009/31-defamation-act-2009/` | 4 | 2020-01-17 to 2026-03-01 | 64 |
+| National Asset Management Agency Act 2009 | No. 34 of 2009 | `acts/2009/34-national-asset-management-agency-act-2009/` | 4 | 2018-05-25 to 2026-08-01 | 245 |
+| Courts and Court Officers Act 2009 | No. 36 of 2009 | `acts/2009/36-courts-and-court-officers-act-2009/` | 2 | 2017-04-07 to 2020-05-21 | 27 |
+| Public Transport Regulation Act 2009 | No. 37 of 2009 | `acts/2009/37-public-transport-regulation-act-2009/` | 1 | 2018-10-22 to 2018-10-22 | 49 |
+| Financial Emergency Measures in the Public Interest (No. 2) Act 2009 | No. 41 of 2009 | `acts/2009/41-financial-emergency-measures-in-the-public-interest-no-2-act-2009/` | 3 | 2018-01-01 to 2023-01-01 | 17 |
+| Companies (Miscellaneous Provisions) Act 2009 | No. 45 of 2009 | `acts/2009/45-companies-miscellaneous-provisions-act-2009/` | 1 | 2019-01-01 to 2019-01-01 | 6 |
+| Health Insurance Act 1994 (Information Returns) Regulations 2009 | S.I. No. 294 of 2009 | `statutory-instruments/2009/294-health-insurance-act-1994-information-returns-regulations-2009/` | 1 | 2024-07-01 to 2024-07-01 | 9 |
+| Arbitration Act 2010 | No. 1 of 2010 | `acts/2010/1-arbitration-act-2010/` | 2 | 2022-11-29 to 2023-07-05 | 40 |
+| Communications Regulation (Premium Rate Services and Electronic Communications Infrastructure) Act 2010 | No. 2 of 2010 | `acts/2010/2-communications-regulation-premium-rate-services-and-electronic-communications-infrastructure-act-2010/` | 3 | 2017-04-07 to 2025-06-01 | 23 |
+| Petroleum (Exploration and Extraction) Safety Act 2010 | No. 4 of 2010 | `acts/2010/4-petroleum-exploration-and-extraction-safety-act-2010/` | 3 | 2017-05-16 to 2023-01-09 | 5 |
+| Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 | No. 6 of 2010 | `acts/2010/6-criminal-justice-money-laundering-and-terrorist-financing-act-2010/` | 10 | 2018-11-26 to 2025-08-01 | 198 |
+| Euro Area Loan Facility Act 2010 | No. 7 of 2010 | `acts/2010/7-euro-area-loan-facility-act-2010/` | 2 | 2016-06-30 to 2019-05-28 | 8 |
+| Fines Act 2010 | No. 8 of 2010 | `acts/2010/8-fines-act-2010/` | 2 | 2016-01-11 to 2019-05-28 | 23 |
+| Inland Fisheries Act 2010 | No. 10 of 2010 | `acts/2010/10-inland-fisheries-act-2010/` | 9 | 2019-01-01 to 2026-04-03 | 91 |
+| Energy (Biofuel Obligation and Miscellaneous Provisions) Act 2010 | No. 11 of 2010 | `acts/2010/11-energy-biofuel-obligation-and-miscellaneous-provisions-act-2010/` | 2 | 2016-06-30 to 2019-09-01 | 29 |
+| European Financial Stability Facility Act 2010 | No. 16 of 2010 | `acts/2010/16-european-financial-stability-facility-act-2010/` | 2 | 2016-06-30 to 2019-05-28 | 10 |
+| Wildlife (Amendment) Act 2010 | No. 19 of 2010 | `acts/2010/19-wildlife-amendment-act-2010/` | 1 | 2018-07-18 to 2018-07-18 | 10 |
+| Adoption Act 2010 | No. 21 of 2010 | `acts/2010/21-adoption-act-2010/` | 5 | 2018-02-01 to 2023-07-03 | 189 |
+| Criminal Justice (Psychoactive Substances) Act 2010 | No. 22 of 2010 | `acts/2010/22-criminal-justice-psychoactive-substances-act-2010/` | 1 | 2023-12-22 to 2023-12-22 | 27 |
+| Central Bank Reform Act 2010 | No. 23 of 2010 | `acts/2010/23-central-bank-reform-act-2010/` | 7 | 2018-07-01 to 2026-02-10 | 85 |
+| Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 | No. 24 of 2010 | `acts/2010/24-civil-partnership-and-certain-rights-and-obligations-of-cohabitants-act-2010/` | 5 | 2019-01-01 to 2024-11-13 | 221 |
+| Road Traffic Act 2010 | No. 25 of 2010 | `acts/2010/25-road-traffic-act-2010/` | 10 | 2018-10-26 to 2026-01-01 | 99 |
+| Criminal Procedure Act 2010 | No. 27 of 2010 | `acts/2010/27-criminal-procedure-act-2010/` | 4 | 2018-07-30 to 2024-12-31 | 40 |
+| Social Welfare (Miscellaneous Provisions) Act 2010 | No. 28 of 2010 | `acts/2010/28-social-welfare-miscellaneous-provisions-act-2010/` | 1 | 2018-01-01 to 2018-01-01 | 36 |
+| Dog Breeding Establishments Act 2010 | No. 29 of 2010 | `acts/2010/29-dog-breeding-establishments-act-2010/` | 3 | 2017-07-27 to 2025-08-01 | 27 |
+| Planning and Development (Amendment) Act 2010 | No. 30 of 2010 | `acts/2010/30-planning-and-development-amendment-act-2010/` | 1 | 2019-01-25 to 2019-01-25 | 85 |
+| Value-Added Tax Consolidation Act 2010 | No. 31 of 2010 | `acts/2010/31-value-added-tax-consolidation-act-2010/` | 15 | 2019-01-01 to 2026-08-01 | 174 |
+| Credit Institutions (Stabilisation) Act 2010 | No. 36 of 2010 | `acts/2010/36-credit-institutions-stabilisation-act-2010/` | 4 | 2018-04-23 to 2025-07-14 | 87 |
+| Social Welfare and Pensions Act 2010 | No. 37 of 2010 | `acts/2010/37-social-welfare-and-pensions-act-2010/` | 2 | 2017-07-26 to 2023-01-09 | 49 |
+| Financial Emergency Measures in the Public Interest Act 2010 | No. 38 of 2010 | `acts/2010/38-financial-emergency-measures-in-the-public-interest-act-2010/` | 3 | 2018-01-01 to 2023-01-01 | 20 |
+| Multi-Unit Developments Act 2011 | No. 2 of 2011 | `acts/2011/2-multi-unit-developments-act-2011/` | 2 | 2016-11-30 to 2019-05-28 | 38 |
+| Communications (Retention of Data) Act 2011 | No. 3 of 2011 | `acts/2011/3-communications-retention-of-data-act-2011/` | 4 | 2018-05-25 to 2025-04-02 | 40 |
+| Student Support Act 2011 | No. 4 of 2011 | `acts/2011/4-student-support-act-2011/` | 19 | 2019-01-01 to 2026-03-18 | 35 |
+| Social Welfare and Pensions Act 2011 | No. 9 of 2011 | `acts/2011/9-social-welfare-and-pensions-act-2011/` | 1 | 2020-12-22 to 2020-12-22 | 44 |
+| Ministers and Secretaries (Amendment) Act 2011 | No. 10 of 2011 | `acts/2011/10-ministers-and-secretaries-amendment-act-2011/` | 8 | 2018-09-28 to 2026-07-13 | 107 |
+| Biological Weapons Act 2011 | No. 13 of 2011 | `acts/2011/13-biological-weapons-act-2011/` | 2 | 2014-12-28 to 2019-05-28 | 16 |
+| Child Care (Amendment) Act 2011 | No. 19 of 2011 | `acts/2011/19-child-care-amendment-act-2011/` | 2 | 2018-01-01 to 2026-06-23 | 50 |
+| Environment (Miscellaneous Provisions) Act 2011 | No. 20 of 2011 | `acts/2011/20-environment-miscellaneous-provisions-act-2011/` | 3 | 2018-07-19 to 2026-05-08 | 52 |
+| Communications Regulation (Postal Services) Act 2011 | No. 21 of 2011 | `acts/2011/21-communications-regulation-postal-services-act-2011/` | 3 | 2019-01-01 to 2025-06-01 | 83 |
+| Criminal Justice Act 2011 | No. 22 of 2011 | `acts/2011/22-criminal-justice-act-2011/` | 3 | 2018-07-30 to 2023-11-01 | 25 |
+| Civil Law (Miscellaneous Provisions) Act 2011 | No. 23 of 2011 | `acts/2011/23-civil-law-miscellaneous-provisions-act-2011/` | 2 | 2017-04-07 to 2020-05-21 | 68 |
+| European Financial Stability Facility and Euro Area Loan Facility (Amendment) Act 2011 | No. 25 of 2011 | `acts/2011/25-european-financial-stability-facility-and-euro-area-loan-facility-amendment-act-2011/` | 2 | 2016-06-30 to 2019-05-28 | 8 |
+| Central Bank and Credit Institutions (Resolution) Act 2011 | No. 27 of 2011 | `acts/2011/27-central-bank-and-credit-institutions-resolution-act-2011/` | 7 | 2018-09-27 to 2025-09-30 | 116 |
+| Welfare of Greyhounds Act 2011 | No. 29 of 2011 | `acts/2011/29-welfare-of-greyhounds-act-2011/` | 4 | 2016-06-08 to 2025-04-02 | 30 |
+| Road Transport Act 2011 | No. 31 of 2011 | `acts/2011/31-road-transport-act-2011/` | 5 | 2015-11-01 to 2025-11-10 | 25 |
+| Local Government (Household Charge) Act 2011 | No. 36 of 2011 | `acts/2011/36-local-government-household-charge-act-2011/` | 3 | 2017-05-16 to 2023-01-09 | 21 |
+| Property Services (Regulation) Act 2011 | No. 40 of 2011 | `acts/2011/40-property-services-regulation-act-2011/` | 10 | 2018-05-25 to 2026-06-17 | 110 |
+| Nurses and Midwives Act 2011 | No. 41 of 2011 | `acts/2011/41-nurses-and-midwives-act-2011/` | 7 | 2018-12-26 to 2025-05-06 | 120 |
+| Energy (Miscellaneous Provisions) Act 2012 | No. 3 of 2012 | `acts/2012/3-energy-miscellaneous-provisions-act-2012/` | 1 | 2019-01-01 to 2019-01-01 | 23 |
+| Criminal Justice (Female Genital Mutilation) Act 2012 | No. 11 of 2012 | `acts/2012/11-criminal-justice-female-genital-mutilation-act-2012/` | 3 | 2017-11-27 to 2024-08-31 | 17 |
+| Protection of Employees (Temporary Agency Work) Act 2012 | No. 13 of 2012 | `acts/2012/13-protection-of-employees-temporary-agency-work-act-2012/` | 2 | 2017-09-01 to 2020-10-14 | 28 |
+| Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012 | No. 16 of 2012 | `acts/2012/16-road-safety-authority-commercial-vehicle-roadworthiness-act-2012/` | 9 | 2018-05-20 to 2025-01-01 | 58 |
+| European Stability Mechanism Act 2012 | No. 20 of 2012 | `acts/2012/20-european-stability-mechanism-act-2012/` | 2 | 2017-04-13 to 2021-12-09 | 12 |
+| Criminal Justice (Withholding of Information on Offences against Children and Vulnerable Persons) Act 2012 | No. 24 of 2012 | `acts/2012/24-criminal-justice-withholding-of-information-on-offences-against-children-and-vulnerable-persons-act-2012/` | 5 | 2017-03-27 to 2025-05-30 | 15 |
+| Credit Guarantee Act 2012 | No. 26 of 2012 | `acts/2012/26-credit-guarantee-act-2012/` | 5 | 2017-03-03 to 2022-12-08 | 15 |
+| Qualifications and Quality Assurance (Education and Training) Act 2012 | No. 28 of 2012 | `acts/2012/28-qualifications-and-quality-assurance-education-and-training-act-2012/` | 7 | 2018-04-24 to 2026-01-01 | 106 |
+| European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012 | No. 30 of 2012 | `acts/2012/30-european-arrest-warrant-application-to-third-countries-and-amendment-and-extradition-amendment-act-2012/` | 1 | 2021-03-30 to 2021-03-30 | 36 |
+| Microenterprise Loan Fund Act 2012 | No. 31 of 2012 | `acts/2012/31-microenterprise-loan-fund-act-2012/` | 3 | 2020-04-28 to 2024-08-28 | 24 |
+| Residential Institutions Statutory Fund Act 2012 | No. 35 of 2012 | `acts/2012/35-residential-institutions-statutory-fund-act-2012/` | 4 | 2017-09-01 to 2024-07-17 | 46 |
+| Public Service Pensions (Single Scheme and Other Provisions) Act 2012 | No. 37 of 2012 | `acts/2012/37-public-service-pensions-single-scheme-and-other-provisions-act-2012/` | 8 | 2017-01-27 to 2024-08-19 | 76 |
+| Fiscal Responsibility Act 2012 | No. 39 of 2012 | `acts/2012/39-fiscal-responsibility-act-2012/` | 2 | 2017-04-13 to 2020-12-16 | 13 |
+| Credit Union and Co-operation with Overseas Regulators Act 2012 | No. 40 of 2012 | `acts/2012/40-credit-union-and-co-operation-with-overseas-regulators-act-2012/` | 8 | 2018-10-22 to 2025-09-30 | 76 |
+| Personal Insolvency Act 2012 | No. 44 of 2012 | `acts/2012/44-personal-insolvency-act-2012/` | 7 | 2018-05-25 to 2026-03-16 | 217 |
+| National Vetting Bureau (Children and Vulnerable Persons) Act 2012 | No. 47 of 2012 | `acts/2012/47-national-vetting-bureau-children-and-vulnerable-persons-act-2012/` | 5 | 2019-01-01 to 2026-06-23 | 37 |
+| Civil Defence Act 2012 | No. 51 of 2012 | `acts/2012/51-civil-defence-act-2012/` | 3 | 2017-04-07 to 2023-07-18 | 19 |
+| Finance (Local Property Tax) Act 2012 | No. 52 of 2012 | `acts/2012/52-finance-local-property-tax-act-2012/` | 9 | 2018-12-03 to 2026-05-07 | 180 |
+| Europol Act 2012 | No. 53 of 2012 | `acts/2012/53-europol-act-2012/` | 2 | 2018-05-25 to 2025-04-02 | 23 |
+| Irish Bank Resolution Corporation Act 2013 | No. 2 of 2013 | `acts/2013/2-irish-bank-resolution-corporation-act-2013/` | 3 | 2016-08-01 to 2026-08-01 | 31 |
+| Water Services Act 2013 | No. 6 of 2013 | `acts/2013/6-water-services-act-2013/` | 2 | 2018-05-25 to 2023-01-01 | 42 |
+| Health (Alteration of Criteria for Eligibility) Act 2013 | No. 10 of 2013 | `acts/2013/10-health-alteration-of-criteria-for-eligibility-act-2013/` | 1 | 2018-05-25 to 2018-05-25 | 9 |
+| Education and Training Boards Act 2013 | No. 11 of 2013 | `acts/2013/11-education-and-training-boards-act-2013/` | 4 | 2018-04-24 to 2025-05-01 | 80 |
+| Health (Pricing and Supply of Medical Goods) Act 2013 | No. 14 of 2013 | `acts/2013/14-health-pricing-and-supply-of-medical-goods-act-2013/` | 4 | 2019-01-01 to 2025-06-01 | 40 |
+| Animal Health and Welfare Act 2013 | No. 15 of 2013 | `acts/2013/15-animal-health-and-welfare-act-2013/` | 23 | 2019-01-01 to 2026-05-05 | 96 |
+| Financial Emergency Measures in the Public Interest Act 2013 | No. 18 of 2013 | `acts/2013/18-financial-emergency-measures-in-the-public-interest-act-2013/` | 2 | 2016-07-18 to 2019-09-01 | 14 |
+| Criminal Justice Act 2013 | No. 19 of 2013 | `acts/2013/19-criminal-justice-act-2013/` | 1 | 2018-11-26 to 2018-11-26 | 29 |
+| Social Welfare and Pensions (Miscellaneous Provisions) Act 2013 | No. 20 of 2013 | `acts/2013/20-social-welfare-and-pensions-miscellaneous-provisions-act-2013/` | 1 | 2018-01-01 to 2018-01-01 | 34 |
+| Health Service Executive (Governance) Act 2013 | No. 23 of 2013 | `acts/2013/23-health-service-executive-governance-act-2013/` | 1 | 2019-06-28 to 2019-06-28 | 24 |
+| Further Education and Training Act 2013 | No. 25 of 2013 | `acts/2013/25-further-education-and-training-act-2013/` | 19 | 2018-09-12 to 2026-07-15 | 53 |
+| Central Bank (Supervision and Enforcement) Act 2013 | No. 26 of 2013 | `acts/2013/26-central-bank-supervision-and-enforcement-act-2013/` | 12 | 2019-01-28 to 2026-07-07 | 104 |
+| Land and Conveyancing Law Reform Act 2013 | No. 30 of 2013 | `acts/2013/30-land-and-conveyancing-law-reform-act-2013/` | 1 | 2019-08-01 to 2019-08-01 | 7 |
+| Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013 | No. 33 of 2013 | `acts/2013/33-houses-of-the-oireachtas-inquiries-privileges-and-procedures-act-2013/` | 4 | 2017-05-16 to 2025-04-02 | 135 |
+| Taxi Regulation Act 2013 | No. 37 of 2013 | `acts/2013/37-taxi-regulation-act-2013/` | 10 | 2018-02-01 to 2026-04-01 | 80 |
+| Gas Regulation Act 2013 | No. 39 of 2013 | `acts/2013/39-gas-regulation-act-2013/` | 1 | 2024-06-01 to 2024-06-01 | 54 |
+| Child and Family Agency Act 2013 | No. 40 of 2013 | `acts/2013/40-child-and-family-agency-act-2013/` | 6 | 2018-06-30 to 2025-11-26 | 101 |
+| Credit Reporting Act 2013 | No. 45 of 2013 | `acts/2013/45-credit-reporting-act-2013/` | 3 | 2018-10-29 to 2026-08-01 | 36 |
+| Companies (Miscellaneous Provisions) Act 2013 | No. 46 of 2013 | `acts/2013/46-companies-miscellaneous-provisions-act-2013/` | 1 | 2019-01-01 to 2019-01-01 | 12 |
+| Water Services (No. 2) Act 2013 | No. 50 of 2013 | `acts/2013/50-water-services-no-2-act-2013/` | 11 | 2018-12-31 to 2025-12-31 | 50 |
+| Local Government Reform Act 2014 | No. 1 of 2014 | `acts/2014/1-local-government-reform-act-2014/` | 4 | 2017-11-10 to 2024-05-16 | 86 |
+| Road Traffic Act 2014 | No. 3 of 2014 | `acts/2014/3-road-traffic-act-2014/` | 5 | 2017-04-13 to 2024-10-01 | 27 |
+| Criminal Justice (Forensic Evidence and DNA Database System) Act 2014 | No. 11 of 2014 | `acts/2014/11-criminal-justice-forensic-evidence-and-dna-database-system-act-2014/` | 7 | 2021-07-30 to 2026-09-01 | 177 |
+| Industrial Development (Forfás Dissolution) Act 2014 | No. 13 of 2014 | `acts/2014/13-industrial-development-forf-s-dissolution-act-2014/` | 1 | 2024-08-01 to 2024-08-01 | 44 |
+| Protected Disclosures Act 2014 | No. 14 of 2014 | `acts/2014/14-protected-disclosures-act-2014/` | 8 | 2018-06-09 to 2026-06-08 | 52 |
+| Health Identifiers Act 2014 | No. 15 of 2014 | `acts/2014/15-health-identifiers-act-2014/` | 2 | 2018-05-25 to 2022-03-31 | 42 |
+| Social Welfare and Pensions Act 2014 | No. 16 of 2014 | `acts/2014/16-social-welfare-and-pensions-act-2014/` | 1 | 2018-01-01 to 2018-01-01 | 27 |
+| Housing (Miscellaneous Provisions) Act 2014 | No. 21 of 2014 | `acts/2014/21-housing-miscellaneous-provisions-act-2014/` | 4 | 2022-01-04 to 2024-05-16 | 59 |
+| Strategic Banking Corporation of Ireland Act 2014 | No. 22 of 2014 | `acts/2014/22-strategic-banking-corporation-of-ireland-act-2014/` | 1 | 2020-07-20 to 2020-07-20 | 24 |
+| National Treasury Management Agency (Amendment) Act 2014 | No. 23 of 2014 | `acts/2014/23-national-treasury-management-agency-amendment-act-2014/` | 18 | 2018-12-17 to 2026-09-22 | 94 |
+| Irish Human Rights and Equality Commission Act 2014 | No. 25 of 2014 | `acts/2014/25-irish-human-rights-and-equality-commission-act-2014/` | 4 | 2020-10-14 to 2025-05-01 | 61 |
+| Employment Permits (Amendment) Act 2014 | No. 26 of 2014 | `acts/2014/26-employment-permits-amendment-act-2014/` | 1 | 2022-07-22 to 2022-07-22 | 40 |
+| Competition and Consumer Protection Act 2014 | No. 29 of 2014 | `acts/2014/29-competition-and-consumer-protection-act-2014/` | 5 | 2022-11-29 to 2026-07-31 | 113 |
+| Freedom of Information Act 2014 | No. 30 of 2014 | `acts/2014/30-freedom-of-information-act-2014/` | 9 | 2018-12-26 to 2026-07-31 | 61 |
+| Forestry Act 2014 | No. 31 of 2014 | `acts/2014/31-forestry-act-2014/` | 5 | 2017-11-09 to 2023-10-13 | 39 |
+| European Stability Mechanism (Amendment) Act 2014 | No. 32 of 2014 | `acts/2014/32-european-stability-mechanism-amendment-act-2014/` | 1 | 2021-12-09 to 2021-12-09 | 8 |
+| Civil Registration (Amendment) Act 2014 | No. 34 of 2014 | `acts/2014/34-civil-registration-amendment-act-2014/` | 4 | 2016-07-11 to 2025-12-10 | 37 |
+| Companies Act 2014 | No. 38 of 2014 | `acts/2014/38-companies-act-2014/` | 21 | 2018-12-19 to 2025-07-15 | 1862 |
+| Water Services Act 2014 | No. 44 of 2014 | `acts/2014/44-water-services-act-2014/` | 3 | 2018-01-01 to 2024-06-01 | 22 |
+| Health Insurance Act 1994 (Determination of Relevant Increase under section 7A and Provision of Information under section 7B) Regulations 2014 | S.I. No. 312 of 2014 | `statutory-instruments/2014/312-health-insurance-act-1994-determination-of-relevant-increase-under-section-7a-and-provision-of-information-under-section-7b-regulations-2014/` | 1 | 2024-07-01 to 2024-07-01 | 8 |
+| Irish Collective Asset-Management Vehicles Act 2015 | No. 2 of 2015 | `acts/2015/2-irish-collective-asset-management-vehicles-act-2015/` | 4 | 2018-09-21 to 2022-07-06 | 203 |
+| Public Health (Standardised Packaging of Tobacco) Act 2015 | No. 4 of 2015 | `acts/2015/4-public-health-standardised-packaging-of-tobacco-act-2015/` | 3 | 2017-09-30 to 2023-01-09 | 24 |
+| Regulation of Lobbying Act 2015 | No. 5 of 2015 | `acts/2015/5-regulation-of-lobbying-act-2015/` | 7 | 2018-05-25 to 2025-12-31 | 36 |
+| Redress for Women Resident in Certain Institutions Act 2015 | No. 8 of 2015 | `acts/2015/8-redress-for-women-resident-in-certain-institutions-act-2015/` | 2 | 2019-08-02 to 2020-10-14 | 8 |
+| Children and Family Relationships Act 2015 | No. 9 of 2015 | `acts/2015/9-children-and-family-relationships-act-2015/` | 5 | 2017-10-19 to 2026-04-20 | 182 |
+| Vehicle Clamping Act 2015 | No. 13 of 2015 | `acts/2015/13-vehicle-clamping-act-2015/` | 3 | 2017-10-01 to 2025-10-01 | 38 |
+| Sport Ireland Act 2015 | No. 15 of 2015 | `acts/2015/15-sport-ireland-act-2015/` | 2 | 2018-05-25 to 2020-09-16 | 48 |
+| Workplace Relations Act 2015 | No. 16 of 2015 | `acts/2015/16-workplace-relations-act-2015/` | 12 | 2017-09-01 to 2026-06-29 | 95 |
+| Customs Act 2015 | No. 18 of 2015 | `acts/2015/18-customs-act-2015/` | 5 | 2018-05-25 to 2025-08-01 | 57 |
+| Gender Recognition Act 2015 | No. 25 of 2015 | `acts/2015/25-gender-recognition-act-2015/` | 1 | 2019-01-01 to 2019-01-01 | 39 |
+| Industrial Relations (Amendment) Act 2015 | No. 27 of 2015 | `acts/2015/27-industrial-relations-amendment-act-2015/` | 6 | 2018-03-06 to 2025-08-01 | 47 |
+| Environment (Miscellaneous Provisions) Act 2015 | No. 29 of 2015 | `acts/2015/29-environment-miscellaneous-provisions-act-2015/` | 1 | 2024-07-31 to 2024-07-31 | 52 |
+| Urban Regeneration and Housing Act 2015 | No. 33 of 2015 | `acts/2015/33-urban-regeneration-and-housing-act-2015/` | 5 | 2018-11-01 to 2026-08-12 | 38 |
+| Children First Act 2015 | No. 36 of 2015 | `acts/2015/36-children-first-act-2015/` | 4 | 2018-06-30 to 2026-06-23 | 32 |
+| Residential Tenancies (Amendment) Act 2015 | No. 42 of 2015 | `acts/2015/42-residential-tenancies-amendment-act-2015/` | 2 | 2019-05-31 to 2023-03-15 | 89 |
+| National Cultural Institutions (National Concert Hall) Act 2015 | No. 44 of 2015 | `acts/2015/44-national-cultural-institutions-national-concert-hall-act-2015/` | 1 | 2023-02-28 to 2023-02-28 | 40 |
+| Climate Action and Low Carbon Development Act 2015 | No. 46 of 2015 | `acts/2015/46-climate-action-and-low-carbon-development-act-2015/` | 2 | 2021-10-12 to 2026-07-27 | 24 |
+| PRISONS ACT 2015 | No. 57 of 2015 | `acts/2015/57-prisons-act-2015/` | 1 | 2026-06-12 to 2026-06-12 | 26 |
+| Finance (Tax Appeals) Act 2015 | No. 59 of 2015 | `acts/2015/59-finance-tax-appeals-act-2015/` | 3 | 2020-10-01 to 2023-12-18 | 53 |
+| Assisted Decision-Making (Capacity) Act 2015 | No. 64 of 2015 | `acts/2015/64-assisted-decision-making-capacity-act-2015/` | 6 | 2019-01-01 to 2026-03-31 | 166 |
+| Legal Services Regulation Act 2015 | No. 65 of 2015 | `acts/2015/65-legal-services-regulation-act-2015/` | 10 | 2018-12-29 to 2026-07-27 | 231 |
+| International Protection Act 2015 | No. 66 of 2015 | `acts/2015/66-international-protection-act-2015/` | 13 | 2018-06-30 to 2026-06-18 | 92 |
+| Credit Guarantee (Amendment) Act 2016 | No. 1 of 2016 | `acts/2016/1-credit-guarantee-amendment-act-2016/` | 2 | 2020-08-11 to 2022-12-08 | 21 |
+| Horse Racing Ireland Act 2016 | No. 2 of 2016 | `acts/2016/2-horse-racing-ireland-act-2016/` | 1 | 2023-07-11 to 2023-07-11 | 22 |
+| Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 | No. 4 of 2016 | `acts/2016/4-criminal-justice-spent-convictions-and-certain-disclosures-act-2016/` | 3 | 2018-05-25 to 2025-04-02 | 32 |
+| Paternity Leave and Benefit Act 2016 | No. 11 of 2016 | `acts/2016/11-paternity-leave-and-benefit-act-2016/` | 2 | 2021-04-01 to 2022-07-01 | 38 |
+| Planning and Development (Housing) and Residential Tenancies Act 2016 | No. 17 of 2016 | `acts/2016/17-planning-and-development-housing-and-residential-tenancies-act-2016/` | 7 | 2019-01-01 to 2025-12-31 | 52 |
+| Road Traffic Act 2016 | No. 21 of 2016 | `acts/2016/21-road-traffic-act-2016/` | 3 | 2018-12-22 to 2024-11-21 | 45 |
+| Criminal Law (Sexual Offences) Act 2017 | No. 2 of 2017 | `acts/2017/2-criminal-law-sexual-offences-act-2017/` | 5 | 2018-05-30 to 2024-08-31 | 60 |
+| Criminal Justice (Offences Relating to Information Systems) Act 2017 | No. 11 of 2017 | `acts/2017/11-criminal-justice-offences-relating-to-information-systems-act-2017/` | 1 | 2025-04-02 to 2025-04-02 | 16 |
+| Financial Services and Pensions Ombudsman Act 2017 | No. 22 of 2017 | `acts/2017/22-financial-services-and-pensions-ombudsman-act-2017/` | 11 | 2018-10-29 to 2026-03-06 | 79 |
+| National Shared Services Office Act 2017 | No. 26 of 2017 | `acts/2017/26-national-shared-services-office-act-2017/` | 3 | 2018-07-18 to 2025-04-02 | 38 |
+| Mediation Act 2017 | No. 27 of 2017 | `acts/2017/27-mediation-act-2017/` | 1 | 2019-01-01 to 2019-01-01 | 28 |
+| Criminal Justice (Victims of Crime) Act 2017 | No. 28 of 2017 | `acts/2017/28-criminal-justice-victims-of-crime-act-2017/` | 7 | 2019-01-01 to 2025-04-02 | 38 |
+| Water Services Act 2017 | No. 29 of 2017 | `acts/2017/29-water-services-act-2017/` | 2 | 2023-04-28 to 2024-06-01 | 63 |
+| Public Service Pay and Pensions Act 2017 | No. 34 of 2017 | `acts/2017/34-public-service-pay-and-pensions-act-2017/` | 11 | 2020-10-14 to 2026-01-31 | 46 |
+| Protection of Cultural Property in the event of Armed Conflict (Hague Convention) Act 2017 | No. 36 of 2017 | `acts/2017/36-protection-of-cultural-property-in-the-event-of-armed-conflict-hague-convention-act-2017/` | 1 | 2021-03-30 to 2021-03-30 | 14 |
+| Technological Universities Act 2018 | No. 3 of 2018 | `acts/2018/3-technological-universities-act-2018/` | 2 | 2022-11-10 to 2023-11-01 | 111 |
+| Vehicle Registration Data (Automated Searching and Exchange) Act 2018 | No. 5 of 2018 | `acts/2018/5-vehicle-registration-data-automated-searching-and-exchange-act-2018/` | 1 | 2026-06-15 to 2026-06-15 | 12 |
+| Domestic Violence Act 2018 | No. 6 of 2018 | `acts/2018/6-domestic-violence-act-2018/` | 3 | 2021-02-10 to 2024-09-02 | 57 |
+| Data Protection Act 2018 | No. 7 of 2018 | `acts/2018/7-data-protection-act-2018/` | 17 | 2018-12-26 to 2026-07-16 | 238 |
+| Criminal Justice (Corruption Offences) Act 2018 | No. 9 of 2018 | `acts/2018/9-criminal-justice-corruption-offences-act-2018/` | 3 | 2023-11-01 to 2025-06-18 | 37 |
+| Childcare Support Act 2018 | No. 11 of 2018 | `acts/2018/11-childcare-support-act-2018/` | 6 | 2020-12-31 to 2026-08-31 | 34 |
+| Planning and Development (Amendment) Act 2018 | No. 16 of 2018 | `acts/2018/16-planning-and-development-amendment-act-2018/` | 5 | 2018-10-22 to 2023-07-17 | 81 |
+| Home Building Finance Ireland Act 2018 | No. 28 of 2018 | `acts/2018/28-home-building-finance-ireland-act-2018/` | 1 | 2026-08-01 to 2026-08-01 | 40 |
+| European Investment Fund Agreement Act 2018 | No. 32 of 2018 | `acts/2018/32-european-investment-fund-agreement-act-2018/` | 1 | 2020-07-20 to 2020-07-20 | 6 |
+| Central Bank (National Claims Information Database) Act 2018 | No. 42 of 2018 | `acts/2018/42-central-bank-national-claims-information-database-act-2018/` | 1 | 2022-07-08 to 2022-07-08 | 16 |
+| Local Government Act 2019 | No. 1 of 2019 | `acts/2019/1-local-government-act-2019/` | 1 | 2024-05-16 to 2024-05-16 | 49 |
+| Data Sharing and Governance Act 2019 | No. 5 of 2019 | `acts/2019/5-data-sharing-and-governance-act-2019/` | 3 | 2023-06-26 to 2024-06-01 | 77 |
+| Criminal Law (Extraterritorial Jurisdiction) Act 2019 | No. 6 of 2019 | `acts/2019/6-criminal-law-extraterritorial-jurisdiction-act-2019/` | 2 | 2023-11-01 to 2024-12-31 | 7 |
+| Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Act 2019 | No. 8 of 2019 | `acts/2019/8-withdrawal-of-the-united-kingdom-from-the-european-union-consequential-provisions-act-2019/` | 1 | 2020-01-31 to 2020-01-31 | 99 |
+| Aircraft Noise (Dublin Airport) Regulation Act 2019 | No. 12 of 2019 | `acts/2019/12-aircraft-noise-dublin-airport-regulation-act-2019/` | 1 | 2026-07-27 to 2026-07-27 | 32 |
+| Residential Tenancies (Amendment) Act 2019 | No. 14 of 2019 | `acts/2019/14-residential-tenancies-amendment-act-2019/` | 4 | 2019-07-15 to 2024-10-18 | 39 |
+| Criminal Justice (Mutual Recognition of Probation Judgments and Decisions) Act 2019 | No. 20 of 2019 | `acts/2019/20-criminal-justice-mutual-recognition-of-probation-judgments-and-decisions-act-2019/` | 1 | 2023-05-03 to 2023-05-03 | 33 |
+| Local Government Rates and Other Matters Act 2019 | No. 24 of 2019 | `acts/2019/24-local-government-rates-and-other-matters-act-2019/` | 3 | 2024-01-01 to 2025-12-31 | 31 |
+| Criminal Justice (International Co-operation) Act 2019 | No. 27 of 2019 | `acts/2019/27-criminal-justice-international-co-operation-act-2019/` | 1 | 2025-04-02 to 2025-04-02 | 11 |
+| Parole Act 2019 | No. 28 of 2019 | `acts/2019/28-parole-act-2019/` | 3 | 2021-12-27 to 2023-11-01 | 42 |
+| CervicalCheck Tribunal Act 2019 | No. 31 of 2019 | `acts/2019/31-cervicalcheck-tribunal-act-2019/` | 2 | 2022-05-23 to 2026-01-30 | 41 |
+| Judicial Council Act 2019 | No. 33 of 2019 | `acts/2019/33-judicial-council-act-2019/` | 7 | 2020-10-25 to 2025-06-23 | 104 |
+| Parent’s Leave and Benefit Act 2019 | No. 35 of 2019 | `acts/2019/35-parent-s-leave-and-benefit-act-2019/` | 3 | 2021-04-01 to 2024-08-01 | 39 |
+| Family Law Act 2019 | No. 37 of 2019 | `acts/2019/37-family-law-act-2019/` | 1 | 2020-12-17 to 2020-12-17 | 8 |
+| Housing (Regulation of Approved Housing Bodies) Act 2019 | No. 47 of 2019 | `acts/2019/47-housing-regulation-of-approved-housing-bodies-act-2019/` | 3 | 2022-07-06 to 2024-11-18 | 73 |
+| Criminal Records (Exchange of Information) Act 2019 | No. 51 of 2019 | `acts/2019/51-criminal-records-exchange-of-information-act-2019/` | 1 | 2025-04-02 to 2025-04-02 | 20 |
+| Consumer Insurance Contracts Act 2019 | No. 53 of 2019 | `acts/2019/53-consumer-insurance-contracts-act-2019/` | 2 | 2023-01-01 to 2026-05-12 | 30 |
+| Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 | No. 1 of 2020 | `acts/2020/1-health-preservation-and-protection-and-other-emergency-measures-in-the-public-interest-act-2020/` | 3 | 2021-07-01 to 2022-06-21 | 12 |
+| Emergency Measures in the Public Interest (Covid-19) Act 2020 | No. 2 of 2020 | `acts/2020/2-emergency-measures-in-the-public-interest-covid-19-act-2020/` | 5 | 2020-08-01 to 2024-11-12 | 36 |
+| Residential Tenancies and Valuation Act 2020 | No. 7 of 2020 | `acts/2020/7-residential-tenancies-and-valuation-act-2020/` | 1 | 2022-07-24 to 2022-07-24 | 15 |
+| Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 | No. 13 of 2020 | `acts/2020/13-civil-law-and-criminal-law-miscellaneous-provisions-act-2020/` | 3 | 2023-07-31 to 2026-02-09 | 34 |
+| Criminal Justice (Enforcement Powers) (Covid-19) Act 2020 | No. 14 of 2020 | `acts/2020/14-criminal-justice-enforcement-powers-covid-19-act-2020/` | 2 | 2021-07-03 to 2022-02-10 | 18 |
+| Regulated Professions (Health and Social Care) (Amendment) Act 2020 | No. 16 of 2020 | `acts/2020/16-regulated-professions-health-and-social-care-amendment-act-2020/` | 3 | 2023-06-06 to 2025-09-05 | 186 |
+| Residential Tenancies Act 2020 | No. 17 of 2020 | `acts/2020/17-residential-tenancies-act-2020/` | 2 | 2021-03-30 to 2022-10-29 | 6 |
+| Health (Amendment) Act 2020 | No. 19 of 2020 | `acts/2020/19-health-amendment-act-2020/` | 3 | 2021-06-10 to 2022-02-10 | 7 |
+| Criminal Justice (Mutual Recognition of Decisions on Supervision Measures) Act 2020 | No. 21 of 2020 | `acts/2020/21-criminal-justice-mutual-recognition-of-decisions-on-supervision-measures-act-2020/` | 1 | 2023-05-03 to 2023-05-03 | 39 |
+| Planning and Development, and Residential Tenancies, Act 2020 | No. 27 of 2020 | `acts/2020/27-planning-and-development-and-residential-tenancies-act-2020/` | 2 | 2021-03-30 to 2021-07-09 | 17 |
+| Loan Guarantee Schemes Agreements (Strategic Banking Corporation of Ireland) Act 2021 | No. 9 of 2021 | `acts/2021/9-loan-guarantee-schemes-agreements-strategic-banking-corporation-of-ireland-act-2021/` | 1 | 2022-12-08 to 2022-12-08 | 6 |
+| Planning and Development, Heritage and Broadcasting (Amendment) Act 2021 | No. 11 of 2021 | `acts/2021/11-planning-and-development-heritage-and-broadcasting-amendment-act-2021/` | 1 | 2025-06-18 to 2025-06-18 | 18 |
+| Health (Amendment) (No. 2) Act 2021 | No. 24 of 2021 | `acts/2021/24-health-amendment-no-2-act-2021/` | 1 | 2022-01-10 to 2022-01-10 | 8 |
+| Affordable Housing Act 2021 | No. 25 of 2021 | `acts/2021/25-affordable-housing-act-2021/` | 7 | 2022-07-28 to 2025-07-02 | 53 |
+| Land Development Agency Act 2021 | No. 26 of 2021 | `acts/2021/26-land-development-agency-act-2021/` | 4 | 2024-06-01 to 2025-12-31 | 86 |
+| Criminal Justice (Smuggling of Persons) Act 2021 | No. 42 of 2021 | `acts/2021/42-criminal-justice-smuggling-of-persons-act-2021/` | 1 | 2026-06-12 to 2026-06-12 | 30 |
+| Companies (Corporate Enforcement Authority) Act 2021 | No. 48 of 2021 | `acts/2021/48-companies-corporate-enforcement-authority-act-2021/` | 2 | 2022-07-07 to 2023-06-11 | 39 |
+| Maritime Area Planning Act 2021 | No. 50 of 2021 | `acts/2021/50-maritime-area-planning-act-2021/` | 9 | 2022-10-01 to 2026-07-23 | 214 |
+| Garda Síochána (Functions and Operational Areas) Act 2022 | No. 7 of 2022 | `acts/2022/7-garda-s-och-na-functions-and-operational-areas-act-2022/` | 2 | 2023-07-31 to 2024-02-07 | 36 |
+| Birth Information and Tracing Act 2022 | No. 14 of 2022 | `acts/2022/14-birth-information-and-tracing-act-2022/` | 1 | 2023-07-20 to 2023-07-20 | 75 |
+| Civil Law (Miscellaneous Provisions) Act 2022 | No. 19 of 2022 | `acts/2022/19-civil-law-miscellaneous-provisions-act-2022/` | 2 | 2026-03-30 to 2026-06-12 | 63 |
+| Circular Economy and Miscellaneous Provisions Act 2022 | No. 26 of 2022 | `acts/2022/26-circular-economy-and-miscellaneous-provisions-act-2022/` | 1 | 2026-05-08 to 2026-05-08 | 45 |
+| Remediation of Dwellings Damaged by the Use of Defective Concrete Blocks Act 2022 | No. 28 of 2022 | `acts/2022/28-remediation-of-dwellings-damaged-by-the-use-of-defective-concrete-blocks-act-2022/` | 3 | 2026-02-25 to 2026-07-08 | 65 |
+| Planning and Development, Maritime and Valuation (Amendment) Act 2022 | No. 29 of 2022 | `acts/2022/29-planning-and-development-maritime-and-valuation-amendment-act-2022/` | 3 | 2022-12-01 to 2024-05-16 | 78 |
+| Electoral Reform Act 2022 | No. 30 of 2022 | `acts/2022/30-electoral-reform-act-2022/` | 3 | 2024-03-31 to 2025-10-10 | 208 |
+| Higher Education Authority Act 2022 | No. 31 of 2022 | `acts/2022/31-higher-education-authority-act-2022/` | 1 | 2024-08-01 to 2024-08-01 | 150 |
+| Garda Síochána (Compensation) Act 2022 | No. 33 of 2022 | `acts/2022/33-garda-s-och-na-compensation-act-2022/` | 1 | 2025-04-02 to 2025-04-02 | 36 |
+| Air Navigation and Transport Act 2022 | No. 40 of 2022 | `acts/2022/40-air-navigation-and-transport-act-2022/` | 1 | 2023-07-20 to 2023-07-20 | 122 |
+| Online Safety and Media Regulation Act 2022 | No. 41 of 2022 | `acts/2022/41-online-safety-and-media-regulation-act-2022/` | 1 | 2024-02-17 to 2024-02-17 | 81 |
+| Planning and Development and Foreshore (Amendment) Act 2022 | No. 47 of 2022 | `acts/2022/47-planning-and-development-and-foreshore-amendment-act-2022/` | 1 | 2025-06-18 to 2025-06-18 | 22 |
+| Water Environment (Abstractions and Associated Impoundments) Act 2022 | No. 48 of 2022 | `acts/2022/48-water-environment-abstractions-and-associated-impoundments-act-2022/` | 2 | 2025-06-18 to 2025-12-31 | 118 |
+| Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023 | No. 3 of 2023 | `acts/2023/3-criminal-justice-mutual-recognition-of-custodial-sentences-act-2023/` | 1 | 2024-07-23 to 2024-07-23 | 88 |
+| Patient Safety (Notifiable Incidents and Open Disclosure) Act 2023 | No. 10 of 2023 | `acts/2023/10-patient-safety-notifiable-incidents-and-open-disclosure-act-2023/` | 1 | 2024-10-01 to 2024-10-01 | 86 |
+| Mother and Baby Institutions Payment Scheme Act 2023 | No. 20 of 2023 | `acts/2023/20-mother-and-baby-institutions-payment-scheme-act-2023/` | 1 | 2025-10-15 to 2025-10-15 | 59 |
+| Wildlife (Amendment) Act 2023 | No. 25 of 2023 | `acts/2023/25-wildlife-amendment-act-2023/` | 2 | 2023-11-17 to 2024-06-01 | 8 |
+| Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023 | No. 26 of 2023 | `acts/2023/26-historic-and-archaeological-heritage-and-miscellaneous-provisions-act-2023/` | 1 | 2025-12-31 to 2025-12-31 | 290 |
+| Garda Síochána (Recording Devices) Act 2023 | No. 32 of 2023 | `acts/2023/32-garda-s-och-na-recording-devices-act-2023/` | 3 | 2024-05-15 to 2026-07-01 | 51 |
+| Judicial Appointments Commission Act 2023 | No. 33 of 2023 | `acts/2023/33-judicial-appointments-commission-act-2023/` | 2 | 2024-10-17 to 2025-01-01 | 71 |
+| Public Health (Tobacco Products and Nicotine Inhaling Products) Act 2023 | No. 35 of 2023 | `acts/2023/35-public-health-tobacco-products-and-nicotine-inhaling-products-act-2023/` | 1 | 2026-02-02 to 2026-02-02 | 53 |
+| Digital Services Act 2024 | No. 2 of 2024 | `acts/2024/2-digital-services-act-2024/` | 3 | 2024-09-02 to 2026-01-01 | 88 |
+| Local Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024 | No. 7 of 2024 | `acts/2024/7-local-government-mayor-of-limerick-and-miscellaneous-provisions-act-2024/` | 2 | 2025-06-18 to 2025-12-31 | 74 |
+| Employment Permits Act 2024 | No. 17 of 2024 | `acts/2024/17-employment-permits-act-2024/` | 1 | 2026-06-12 to 2026-06-12 | 81 |
+| Automatic Enrolment Retirement Savings System Act 2024 | No. 20 of 2024 | `acts/2024/20-automatic-enrolment-retirement-savings-system-act-2024/` | 2 | 2026-01-01 to 2026-06-01 | 142 |
+| Criminal Law (Sexual Offences and Human Trafficking) Act 2024 | No. 28 of 2024 | `acts/2024/28-criminal-law-sexual-offences-and-human-trafficking-act-2024/` | 1 | 2026-08-10 to 2026-08-10 | 42 |
+| Planning and Development Act 2024 | No. 34 of 2024 | `acts/2024/34-planning-and-development-act-2024/` | 5 | 2025-08-01 to 2026-05-18 | 645 |
+| Gambling Regulation Act 2024 | No. 35 of 2024 | `acts/2024/35-gambling-regulation-act-2024/` | 4 | 2026-01-30 to 2026-07-06 | 275 |
+| Automatic Enrolment Retirement Savings System Regulations 2025 | S.I. No. 637 of 2025 | `statutory-instruments/2025/637-automatic-enrolment-retirement-savings-system-regulations-2025/` | 1 | 2026-01-01 to 2026-01-01 | 42 |
 
 Left out: the Revised Acts in the list that the builder cannot read back exactly (`left_out.json` next to the builder,
 which is part of the build's input, or a revision PDF the reader cannot read). Their text is not in this repository.
@@ -2038,3 +2038,31 @@ time: the commit messages quote the Commission's annotations and are otherwise f
 - The Law Reform Commission's Revised Acts and its classified list of legislation.
 - The electronic Irish Statute Book (irishstatutebook.ie), with each act's legislation directory ("affected by").
 - legalize-dev (github.com/legalize-dev), law as git repositories for several countries.
+
+## The eISB layers (added 2026-11-26)
+
+On 26 November 2026 the repository moved to a type/year layout in one commit that only renames
+(`Move every act into a type/year layout`): each Revised Act folder `<name>/` became `acts/<year>/<number>-<name>/`
+(pre-1922 Acts `acts/<year>/c<chapter>-<name>/`) and each statutory instrument `statutory-instruments/<year>/<number>-<name>/`.
+The folders in the table above are the names `tools/build.py` writes; it still writes the old flat layout, so a
+rebuild reproduces the history up to that commit, and the rename follows from `STRUCTURE.md`.
+
+Then the following were appended from the **electronic Irish Statute Book** (https://www.irishstatutebook.ie, Office of
+the Attorney General), whose data is reusable under the Oireachtas (Open Data) PSI Licence, which incorporates
+CC BY 4.0 (https://www.irishstatutebook.ie/open-data.html):
+
+- **Bunreacht na hÉireann**: the English and Irish texts as amended (`/eli/cons/en/html`, `/eli/cons/ga/html`), one
+  file per Article, dated by the last amendment's signature; and the 32 amendment Acts as enacted
+  (`/eli/<year>/ca/<n>/enacted/en/xml`), each dated by its signature as the eISB's table of amendments gives it.
+- **Acts as enacted**: 3,365 Acts (1922 to 2024) not among the Revised Acts, from the eISB XML
+  (`/eli/<year>/act/<n>/enacted/en/xml`), listed from `/eli/<year>/act/`. Each is dated by its date of passing:
+  the `dateofenactment` in the XML, or, where that is not a real day or disagrees with the date printed under the
+  long title, the printed date.
+- **Statutory instruments as made**: 0 instruments (None to None) from the eISB HTML
+  (`/eli/<year>/si/<n>/made/<lang>/html`), listed from `/eli/<year>/si/`, each dated by the `eli:date_document`
+  the page carries (the day made).
+
+Retrieval: at most five requests in flight, about one a second for each, backing off on 429 and 503;
+robots.txt on irishstatutebook.ie answers 404. Nothing was typed in, summarised or rewritten; the XML and HTML were
+split into provisions by rule (section and schedule elements; numbered paragraphs and SCHEDULE headings for
+instruments). An item the reader could not split, or with no text or no valid date, was left out and recorded.

@@ -25,8 +25,17 @@ Annotation Text. The two forms of text have separate creators and separate attri
     Contains Law Reform Commission Annotation Text, licensed under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0)
 
 Changed: split into one file per provision, annotation marks removed, layout normalised, and arranged as a history
-of commits. These changes do not alter the source licences. The repository remains private unless its owner decides
-otherwise.
+of commits. These changes do not alter the source licences. The repository is public.
+
+The Constitution, the Acts as enacted and the statutory instruments as made that are not Revised Acts are taken from
+the electronic Irish Statute Book (https://www.irishstatutebook.ie), published by the Office of the Attorney General.
+Re-use of its data is subject to the Oireachtas (Open Data) PSI Licence, which incorporates the Creative Commons
+Attribution 4.0 International Licence (https://www.irishstatutebook.ie/open-data.html, read 26 November 2026):
+
+    © Government of Ireland. Oireachtas Copyright Material is reproduced with the permission of the Houses of the
+    Oireachtas.
+
+Changed: split into one file per provision and arranged as commits; the words are unchanged.
 
 Everything else in this repository (the history as commits, the commit messages, the tables and the tools) is
 dedicated to the public domain under CC0 1.0 Universal:

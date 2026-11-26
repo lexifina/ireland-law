@@ -9,20 +9,20 @@ The law of Ireland as a git history: one file per section, one commit per change
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ireland's national law, which global-law reads at `ireland/national/acts/`.
 
-**What is in it now:** the Law Reform Commission's Revised Acts: 604 acts (579 Acts of the Oireachtas, 8 Acts passed before 1922 and 17 statutory instruments), with 2,513 revisions, current and previous, from 2013 to 2026. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its revisions; [`amendments.csv`](amendments.csv) lists every amending law with the day its change took effect.
+**What is in it now:** the Constitution (Bunreacht na hÉireann) as amended, in English and Irish, with its 32 amendment Acts; the Law Reform Commission's Revised Acts: 604 acts (579 Acts of the Oireachtas, 8 Acts passed before 1922 and 17 statutory instruments), with 2,513 revisions, current and previous, from 2013 to 2026; and from the electronic Irish Statute Book 3,365 more Acts as enacted (1922 to 2024). [`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) lists every Revised Act with its revisions; [`amendments.csv`](amendments.csv) lists every amending law with the day its change took effect.
 
-Each act is a folder named after its title, with one file per section (or regulation, rule or schedule), plus `long-title.md` and a `README.md` listing its provisions and their changes (`organisation-of-working-time-act-1997/section-17.md` is section 17 of the Organisation of Working Time Act 1997, No. 20 of 1997).
+Each act is a folder under its type, year and number, with one file per section (or regulation, rule or schedule), plus `long-title.md` and a `README.md` listing its provisions and their changes (`acts/1997/20-organisation-of-working-time-act-1997/section-17.md` is section 17 of the Organisation of Working Time Act 1997, No. 20 of 1997).
 
-The text is in English, as the Revised Acts print it; the annotation marks (`F12[ ... ]`) are removed and the annotations are quoted in the commit messages. An Irish-language text is not part of this record.
+The text of the Acts is in English, as the Revised Acts and the Statute Book print it; the annotation marks (`F12[ ... ]`) are removed and the annotations are quoted in the commit messages. The Constitution is also in Irish (`bunreacht/ga/`); no other Irish-language text is part of this record.
 
 ## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| Every change to section 17 of the Organisation of Working Time Act | `git log -p --word-diff -- organisation-of-working-time-act-1997/section-17.md` |
-| Which law wrote each line of section 17? | `git blame organisation-of-working-time-act-1997/section-17.md` |
-| Every change to the Act, with the day each took effect and the law that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- organisation-of-working-time-act-1997 ':!*/README.md'` |
-| Section 17 as it stood on 1 January 2022 | `python tools/on_date.py 2022-01-01 organisation-of-working-time-act-1997 17` |
+| Every change to section 17 of the Organisation of Working Time Act | `git log -p --word-diff -- acts/1997/20-organisation-of-working-time-act-1997/section-17.md` |
+| Which law wrote each line of section 17? | `git blame acts/1997/20-organisation-of-working-time-act-1997/section-17.md` |
+| Every change to the Act, with the day each took effect and the law that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- acts/1997/20-organisation-of-working-time-act-1997 ':!*/README.md'` |
+| Section 17 as it stood on 1 January 2022 | `python tools/on_date.py 2022-01-01 acts/1997/20-organisation-of-working-time-act-1997 17` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add ireland/national/acts
-python3 tools/law.py show 2026-01-01 ireland/national/acts/organisation-of-working-time-act-1997/section-17.md
+python3 tools/law.py show 2026-01-01 ireland/national/acts/acts/1997/20-organisation-of-working-time-act-1997/section-17.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -49,7 +49,8 @@ Each commit is dated at noon, Europe/Dublin, on the day the change took effect, 
 
 - for a change, the day the Commission's annotation gives for it ("Substituted (1.01.2023) by Protected Disclosures (Amendment) Act 2022 (27/2022), s. 4(a)(ii), S.I. No. 510 of 2022");
 - where that day is on or before the day the previous revision is updated to, but that revision does not hold the change (the Commission consolidated it later), the day after the previous revision, with the annotation's day in `Stated-in-force:`;
-- for the first version of an act, the day the Commission's earliest revision is updated to (2013-06-05 at the earliest, most between 2016 and 2019), not the day the act was enacted.
+- for the first version of a Revised Act, the day the Commission's earliest revision is updated to (2013-06-05 at the earliest, most between 2016 and 2019), not the day the act was enacted;
+- for an Act as enacted, its date of passing; for a statutory instrument, the day it was made; for an amendment of the Constitution, the day the President signed it. A provision that waited for a commencement order came into operation later. Days before 1970, which git cannot hold, are in `In-force:` only (see [`STRUCTURE.md`](STRUCTURE.md)).
 
 Each change is credited to the law that made it, as the annotations name it (`Employment (Miscellaneous Provisions) Act 2018 <act-2018-38@irishstatutebook.invalid>`); the first version is credited to the act itself, and its message names the laws whose amendments it already holds. Where the annotations name two laws, where none explains a change, and where only the layout changed, the commit is the publisher's (`Law Reform Commission, Revised Acts`) and its message says which.
 
@@ -63,9 +64,9 @@ Each change is credited to the law that made it, as the annotations name it (`Em
 
 ## What it does not show
 
-- **The Constitution.** Bunreacht na hÉireann is not in the Revised Acts.
-- **Law the Commission has not revised.** Most Acts in force, almost all statutory instruments and all case law are not here. Two of the 606 acts on the Revised Acts list are left out because they cannot be read back exactly; `REPRODUCE.md` says why.
-- **Acts as enacted.** Each history starts at the Commission's earliest revision, which already holds the amendments made before it.
+- **Earlier wordings of the Constitution.** The text is as amended to date, dated by the last amendment; the amendment Acts are each in `bunreacht/amendments/`, but the wording before each is not reconstructed.
+- **Amendments to Acts and instruments the Commission has not revised.** They are here as enacted or made only. Case law is not here. Two of the 606 acts on the Revised Acts list are left out because they cannot be read back exactly; `REPRODUCE.md` says why.
+- **Revised Acts as enacted.** The history of each Revised Act starts at the Commission's earliest revision, which already holds the amendments made before it.
 - **Text between two revisions.** Only the two ends are known, so 564 changes that two laws made between them are credited to neither, and 455 that no annotation explains are credited to no law.
 - **Revisions after 2026-10-28**, when the record was retrieved; its latest revision is updated to 2026-10-01.
 
@@ -74,11 +75,11 @@ Each change is credited to the law that made it, as the annotations name it (`Em
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Revised Acts](https://revisedacts.lawreform.ie) (Law Reform Commission) | Administrative consolidation | yes, every current and previous revision, as PDF | The text, the day each revision is updated to, and the annotations naming each amending law and its day; not the official text |
-| [electronic Irish Statute Book](https://www.irishstatutebook.ie) | Official text, as enacted | no | Each commit links the amending law as enacted (`Source:`) |
+| [electronic Irish Statute Book](https://www.irishstatutebook.ie) | Official text: Acts as enacted, statutory instruments as made, the Constitution as amended | no | The text of every Act and instrument not among the Revised Acts, and of the Constitution; each Revised Act commit links the amending law as enacted (`Source:`) |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the history, commit messages, tables and tools are CC0 1.0.
+See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, summarised or edited legal text; the builder, checker and tests were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
