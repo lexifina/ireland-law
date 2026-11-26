@@ -79,7 +79,7 @@ Each change is credited to the law that made it, as the annotations name it (`Em
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the history, commit messages, tables and tools are CC0 1.0.
+See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, summarised or edited legal text; the builder, checker and tests were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
