@@ -2054,7 +2054,7 @@ CC BY 4.0 (https://www.irishstatutebook.ie/open-data.html):
 - **Bunreacht na hÉireann**: the English and Irish texts as amended (`/eli/cons/en/html`, `/eli/cons/ga/html`), one
   file per Article, dated by the last amendment's signature; and the 32 amendment Acts as enacted
   (`/eli/<year>/ca/<n>/enacted/en/xml`), each dated by its signature as the eISB's table of amendments gives it.
-- **Acts as enacted**: 3,365 Acts (1922 to 2024) not among the Revised Acts, from the eISB XML
+- **Acts as enacted**: 3,422 Acts (1922 to 2026) not among the Revised Acts, from the eISB XML
   (`/eli/<year>/act/<n>/enacted/en/xml`), listed from `/eli/<year>/act/`. Each is dated by its date of passing:
   the `dateofenactment` in the XML, or, where that is not a real day or disagrees with the date printed under the
   long title, the printed date.

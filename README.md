@@ -9,7 +9,7 @@ The law of Ireland as a git history: one file per section, one commit per change
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ireland's national law, which global-law reads at `ireland/national/acts/`.
 
-**What is in it now:** the Constitution (Bunreacht na hÉireann) as amended, in English and Irish, with its 32 amendment Acts; the Law Reform Commission's Revised Acts: 604 acts (579 Acts of the Oireachtas, 8 Acts passed before 1922 and 17 statutory instruments), with 2,513 revisions, current and previous, from 2013 to 2026; and from the electronic Irish Statute Book 3,365 more Acts as enacted (1922 to 2024). [`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) lists every Revised Act with its revisions; [`amendments.csv`](amendments.csv) lists every amending law with the day its change took effect.
+**What is in it now:** the Constitution (Bunreacht na hÉireann) as amended, in English and Irish, with its 32 amendment Acts; the Law Reform Commission's Revised Acts: 604 acts (579 Acts of the Oireachtas, 8 Acts passed before 1922 and 17 statutory instruments), with 2,513 revisions, current and previous, from 2013 to 2026; and from the electronic Irish Statute Book 3,422 more Acts as enacted (1922 to 2026). [`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) lists every Revised Act with its revisions; [`amendments.csv`](amendments.csv) lists every amending law with the day its change took effect.
 
 Each act is a folder under its type, year and number, with one file per section (or regulation, rule or schedule), plus `long-title.md` and a `README.md` listing its provisions and their changes (`acts/1997/20-organisation-of-working-time-act-1997/section-17.md` is section 17 of the Organisation of Working Time Act 1997, No. 20 of 1997).
 
@@ -79,7 +79,7 @@ Each change is credited to the law that made it, as the annotations name it (`Em
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the history, commit messages, tables and tools are CC0 1.0.
+See [`LICENSE`](LICENSE). The Law Reform Commission's Open Data Licence applies the Oireachtas (Open Data) PSI Licence to the legislative text and CC BY 4.0 to its annotation text; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the electronic Irish Statute Book's data is reusable under the same Oireachtas (Open Data) PSI Licence, which incorporates CC BY 4.0; the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, summarised or edited legal text; the builder, checker and tests were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
